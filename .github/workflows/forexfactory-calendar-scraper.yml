@@ -1,47 +1,63 @@
 name: ForexFactory Calendar Scraper
-
 # Runs alongside the existing news-scraper workflow in this same repo.
 # Hits ForexFactory's calendar feed server-side (GitHub's runners aren't
 # subject to browser CORS restrictions) and commits the result to
-# output/calendar.json, which premarket_analysis.html then pulls via
+# output/calendar*.json, which premarket_analysis.html then pulls via
 # raw.githubusercontent.com -- exactly like it already does for
 # output/rss_items.json (NEWS_FEED_URL).
-
+#
+# Produces three files from the three fixed windows ForexFactory's free
+# feed exposes (see nfs.faireconomy.media/ff_calendar_{week}.json):
+#   output/calendar.json           <- ff_calendar_thisweek.json
+#   output/calendar_lastweek.json  <- ff_calendar_lastweek.json
+#   output/calendar_nextweek.json  <- ff_calendar_nextweek.json
 on:
   schedule:
     # Every 6 hours. ForexFactory's own feed is only ~2 requests/5min
-    # shared across formats, but this Action calls it far less often than
-    # that, so it stays well clear of the limit while keeping the
-    # committed calendar reasonably fresh.
+    # shared across formats, and the three calls below run sequentially
+    # (not in parallel), so this stays well clear of the limit while
+    # keeping the committed calendars reasonably fresh.
     - cron: '0 */6 * * *'
   workflow_dispatch: {}   # allows manual "Run workflow" from the Actions tab
-
 permissions:
   contents: write
-
 jobs:
   scrape-calendar:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
           node-version: '24'
 
-      - name: Fetch ForexFactory calendar
+      - name: Fetch ForexFactory calendar (thisweek)
+        env:
+          FF_SOURCE_URL: https://nfs.faireconomy.media/ff_calendar_thisweek.json
+          FF_OUTPUT_FILE: output/calendar.json
+        run: node scripts/scrape-calendar.mjs
+
+      - name: Fetch ForexFactory calendar (lastweek)
+        env:
+          FF_SOURCE_URL: https://nfs.faireconomy.media/ff_calendar_lastweek.json
+          FF_OUTPUT_FILE: output/calendar_lastweek.json
+        run: node scripts/scrape-calendar.mjs
+
+      - name: Fetch ForexFactory calendar (nextweek)
+        env:
+          FF_SOURCE_URL: https://nfs.faireconomy.media/ff_calendar_nextweek.json
+          FF_OUTPUT_FILE: output/calendar_nextweek.json
         run: node scripts/scrape-calendar.mjs
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/calendar.json
+          git add output/calendar.json output/calendar_lastweek.json output/calendar_nextweek.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update calendar.json [skip ci]"
+            git commit -m "Update calendar.json, calendar_lastweek.json, calendar_nextweek.json [skip ci]"
             git push
           fi
