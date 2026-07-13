@@ -1,23 +1,203 @@
 {
-  "updated_at": "2026-07-13T06:56:13.950351+00:00",
-  "count": 55,
+  "updated_at": "2026-07-13T10:31:49.538848+00:00",
+  "count": 56,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: Momentum fades into sideways band against US Dollar – UOB",
+      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann observe that AUD/USD has been range‑trading slightly higher than expected, with intraday levels seen between 0.6920 and 0.6960. The earlier tentative upside momentum has faded, and for the next 1–3 weeks the pair is expected to trade between 0.6890 and 0.6975.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-momentum-fades-into-sideways-band-against-us-dollar-uob-202607131003",
+      "published": "2026-07-13T10:03:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee: Range-bound trade risks around CPI – Societe Generale",
+      "summary": "Societe Generale strategists note that India’s June Consumer Price Index (CPI) release will be important for bond markets, with the 10-year IGB yield holding near its 200-day moving average around 6.71%.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-range-bound-trade-risks-around-cpi-societe-generale-202607130947",
+      "published": "2026-07-13T09:47:57+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Wavers around 0.6950 with bearish momentum fading",
+      "summary": "The Australian Dollar (AUD) posts marginal losses against the US Dollar (USD) on Monday, as the pair's reversal from Friday's 0.6970 highs found support above 0.6120. Rising tensions in Iran have hammered risk appetite, but the US Dollar’s weakness is keeping the Aussie from retreating further.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-wavers-around-06950-with-bearish-momentum-fading-202607130941",
+      "published": "2026-07-13T09:41:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "summary": "Silver prices (XAG/USD) fell on Monday, according to FXStreet data. Silver trades at $58.72 per troy ounce, down 1.92% from the $59.87 it cost on Friday.",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607130931",
+      "published": "2026-07-13T09:31:33+00:00",
+      "score": 3
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
+      "title": "FinancialJuice: Meta announces it will spend $40b more on Louisiana data center.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9674737/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-07-13T06:52:47+00:00",
+      "link": "https://www.financialjuice.com/News/9674930/Meta-announces-it-will-spend-40b-more-on-Louisiana-data-center.aspx?xy=rss",
+      "published": "2026-07-13T09:30:25+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+      "title": "FinancialJuice: Fed’s Bowman urges global financial watchdog to be flexible.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9674733/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-07-13T06:51:10+00:00",
+      "link": "https://www.financialjuice.com/News/9674926/Feds-Bowman-urges-global-financial-watchdog-to-be-flexible.aspx?xy=rss",
+      "published": "2026-07-13T09:25:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee resumes upside amid surging Oil prices",
+      "summary": "The Indian Rupee (INR) trades significantly lower against the US Dollar (USD) on Monday. The USD/INR jumps to over a six-week high around 95.95, as renewed Middle East hostilities have strengthened oil prices.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-opens-sharpy-lower-amid-higher-us-dollar-oil-prices-202607130517",
+      "published": "2026-07-13T09:21:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Higher energy supports Fed tightening – ING",
+      "summary": "ING analysts Chris Turner, Frantisek Taborsky and Francesco Pesole note that higher energy prices and tensions in the Gulf are supporting the Dollar against low-yielding currencies. They highlight that US energy independence and live Fed tightening prospects underpin Dollar strength.",
+      "link": "https://www.fxstreet.com/news/us-dollar-higher-energy-supports-fed-tightening-ing-202607130916",
+      "published": "2026-07-13T09:16:58+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Rises to near 1.1450 after breaking above nine-day EMA",
+      "summary": "EUR/USD gains ground after posting losses in the previous day, trading around 1.1440 during the European hours on Monday. The currency pair holds just above the nine-day Exponential Moving Average (EMA) but remains capped by the 50-day EMA, keeping the near-term tone cautiously bearish.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-rises-to-near-11450-after-breaking-above-nine-day-ema-202607130912",
+      "published": "2026-07-13T09:12:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Mixed outlook within defined band against US Dollar – UOB",
+      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann report that USD/JPY rebounded after a sharp drop to 161.26, with intraday gains expected to be capped between 161.60 and 162.45. Over the next 1–3 weeks, the outlook is described as mixed, with trading likely between 160.60 and 163.00.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-mixed-outlook-within-defined-band-against-us-dollar-uob-202607130900",
+      "published": "2026-07-13T09:00:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index Price Forecast: Bears await break below 23.6% Fibo. near 100.80",
+      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, attracts some sellers following an intraday uptick to the 101.22 area on Monday and fills a modest weekly bullish gap.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-price-forecast-bears-await-break-below-236-fibo-near-10080-202607130858",
+      "published": "2026-07-13T08:58:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MUFG: FX Weekly - FJElite",
+      "summary": "<div>The USD has continued to trade close to recent highs against other major currencies over the past week. The USD initially strengthened in response to renewed tensions in the Middle East, but its upward momentum was quickly tempered by the June FOMC minutes. The minutes suggested that the Fed is in no rush to raise rates as early as this month and is instead likely to take more time to assess ",
+      "link": "https://www.financialjuice.com/News/9674871/MUFG-FX-Weekly---FJElite.aspx?xy=rss",
+      "published": "2026-07-13T08:45:14+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold pares intraday losses; keeps the red below $4,100 amid hawkish Fed expectations",
+      "summary": "Gold (XAU/USD) trims a part of its intraday losses during the first half of the European session on Monday, though it retains the negative bias for the second straight day and remains below the $4,100 mark. The US Dollar (USD) attracts some intraday sellers and supports the bullion.",
+      "link": "https://www.fxstreet.com/news/gold-slides-back-closer-to-4-050-as-iran-risks-and-fed-hike-bets-boost-usd-202607130416",
+      "published": "2026-07-13T08:42:50+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MUFG: Commodities - FJElite",
+      "summary": "<div><strong>Oil </strong>extends rally as US-lran conflict threatens Hormuz shipping. Oil prices climbed further, with Brent rising above USD79/b and WTI approaching USD74/b, after the US launched another round of strikes against Iranian targets, intensifying concerns over Middle East oil supplies. Iran declared the Strait of Hormuz closed “until further notice”, although US and regional maritime",
+      "link": "https://www.financialjuice.com/News/9674870/MUFG-Commodities---FJElite.aspx?xy=rss",
+      "published": "2026-07-13T08:42:15+00:00",
+      "score": 9
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Credit Ágricole: G10 FX Positions - FJElite",
+      "summary": "<div><ul><li>At present, our positioning model G10 FX PIX 3.0 signals that the AUD remains oversold. Subsequently, we have entered a long position in AUD/USD with a target of +3% and a stop-loss of -1.5%. The model is down -0.47% with a hit ratio of 50% over the past twelve months.</li><li>The EUR faced some selling interest last week, predominantly driven by Tactical flows. Our FX flow data point",
+      "link": "https://www.financialjuice.com/News/9674869/Credit-%c3%81gricole-G10-FX-Positions---FJElite.aspx?xy=rss",
+      "published": "2026-07-13T08:41:05+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CHF Price Forecast: Bulls remain capped below 0.8100 despite the risk-off market",
+      "summary": "The US Dollar posts moderate gains against the Swiss Franc (CHF) on Monday, yet with price action contained within the last two weeks’ trading range, and with the 0.8100 level capping bulls for now.",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-remain-capped-below-08100-despite-the-risk-off-market-202607130840",
+      "published": "2026-07-13T08:40:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Turkish Lira: Policy limits keep TRY under pressure – Commerzbank",
+      "summary": "Commerzbank’s Tatha Ghose contrasts upbeat remarks from CBT governor Fatih Karahan with more cautious comments from deputy governor Gazi Ishak Kara on Turkey’s inflation dynamics.",
+      "link": "https://www.fxstreet.com/news/turkish-lira-policy-limits-keep-try-under-pressure-commerzbank-202607130837",
+      "published": "2026-07-13T08:37:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones futures slip on rising risk aversion",
+      "summary": "Dow Jones futures lose 0.12% to trade around 52,840 during European trading hours on Monday. Meanwhile, S&amp;P 500 futures and Nasdaq 100 futures fall 0.45% and 1.30%, trading near 7,580 and 29,640, respectively.",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-slip-on-rising-risk-aversion-202607130827",
+      "published": "2026-07-13T08:27:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro gains strongly against Japanese Yen as latter underperforms across board",
+      "summary": "The Euro (EUR) is higher by 0.36% to near 185.25 against the Japanese Yen (JPY) during the European trading session on Monday. The Japanese Yen underperforms across the board despite hopes that Japan’s inflation would remain above the Bank of Japan’s (BoJ) 2% target for a longer period.",
+      "link": "https://www.fxstreet.com/news/euro-gains-strongly-against-japanese-yen-as-latter-underperforms-across-board-202607130813",
+      "published": "2026-07-13T08:13:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Equities: Earnings and Fed signals in focus – Deutsche Bank",
+      "summary": "Deutsche Bank strategists highlight that the S&amp;P 500 closed at 7575, gaining 0.42%, after a strong week supported by stabilising chip stocks and a rebound in the Philly semiconductor index.",
+      "link": "https://www.fxstreet.com/news/equities-earnings-and-fed-signals-in-focus-deutsche-bank-202607130813",
+      "published": "2026-07-13T08:13:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Gold finally broke its week-long range overnight — and the interesting part is it fell WHILE the Iran war escalated, not because it calmed down",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>So the range half of us have been watching for a week finally gave way. Gold had been locked in roughly 4088-4134 the whole week, and on the Sunday reopen it just went — sliced the 4088 floor, gave one last failed pop back up into the range, then dumped about 70 dollars to ~4044 before catching a small bounce. Clean breakdown, not a stop-run wick: it's now trading",
+      "link": "https://www.reddit.com/r/Forex/comments/1uv4i1e/gold_finally_broke_its_weeklong_range_overnight/",
+      "published": "2026-07-13T07:22:37+00:00",
+      "score": 7
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Currency Strength Chart: Strongest: USD, CAD, NZD, CHF, EUR, GBP, AUD, JPY - Weakest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9674752/Currency-Strength-Chart-Strongest-USD-CAD-NZD-CHF-EUR-GBP-AUD-JPY---Weakest.aspx?xy=rss",
+      "published": "2026-07-13T07:01:10+00:00",
       "score": 1
     },
     {
@@ -30,15 +210,6 @@
       "score": 5
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold seems vulnerable as Iran risks revive inflation fears, lift Fed hike bets and USD",
-      "summary": "Gold (XAU/USD) maintains its offered tone through the Asian session on Monday and currently trades just above $4,050, down nearly 1.40% for the day.",
-      "link": "https://www.fxstreet.com/news/gold-slides-back-closer-to-4-050-as-iran-risks-and-fed-hike-bets-boost-usd-202607130416",
-      "published": "2026-07-13T05:48:48+00:00",
-      "score": 5
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Trade breakdown Gold",
@@ -48,138 +219,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee opens sharpy lower amid higher US Dollar, oil prices",
-      "summary": "The Indian Rupee (INR) opens significantly lower against the US Dollar (USD) on Monday. The USD/INR jumps to over a six-week high around 95.80, as renewed Middle East hostilities have strengthened the US Dollar and oil prices.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-sharpy-lower-amid-higher-us-dollar-oil-prices-202607130517",
-      "published": "2026-07-13T05:17:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Saudi Arabia Gold price today: Gold falls, according to FXStreet data",
-      "summary": "Gold prices fell in Saudi Arabia on Monday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/saudi-arabia-gold-price-today-gold-falls-according-to-fxstreet-data-202607130505",
-      "published": "2026-07-13T05:05:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: Hovers around nine-day EMA near 162.00",
-      "summary": "USD/JPY gains ground after two days of losses, trading around 162.00 during the Asian hours on Monday. The currency pair is keeping a bullish near-term bias as spot holds above both the nine-period and 50-period Exponential Moving Averages (EMAs).",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-hovers-around-nine-day-ema-near-16200-202607130454",
-      "published": "2026-07-13T04:54:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah declines on increased risk aversion",
-      "summary": "USD/IDR gains ground after registering losses in the previous day, trading around 18,180 during the Asian hours on Monday. The US Dollar (USD) appreciated as intensifying geopolitical tensions in the Middle East sparked a wave of safe-haven demand.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-on-increased-risk-aversion-202607130438",
-      "published": "2026-07-13T04:38:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "summary": "Gold prices fell in India on Monday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202607130436",
-      "published": "2026-07-13T04:36:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc weakens as US Dollar rises on safe-haven demand",
-      "summary": "USD/CHF gains ground for the second successive day, trading around 0.8100 during the Asian hours on Monday. The pair appreciates as the US Dollar rises on increased safe-haven demand amid heightened geopolitical tensions in the Middle East.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-rises-on-safe-haven-demand-202607130339",
-      "published": "2026-07-13T03:39:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Flag breakdown supports more downside towards 1.1325",
-      "summary": "The Euro (EUR) holds opening losses at around 1.1390 against the US Dollar (USD) during the mid-Asian trading session on Monday. The major currency pair faces selling pressure as the US Dollar starts the week on a strong note due to an increase in the appeal of safe-haven assets.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-flag-breakdown-supports-more-downside-towards-11325-202607130317",
-      "published": "2026-07-13T03:17:00+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Still buying gold?Be cautious",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1uuzsor/still_buying_goldbe_cautious/\"> <img alt=\"Still buying gold?Be cautious\" src=\"https://preview.redd.it/p08q0ym3zwch1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=1ab26661f077aaaf903e1f72c2de2fb33cbdaa8d\" title=\"Still buying gold?Be cautious\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Buying in ",
       "link": "https://www.reddit.com/r/Forex/comments/1uuzsor/still_buying_goldbe_cautious/",
       "published": "2026-07-13T03:11:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "AUD/USD Price Forecast: Retreats further from multi-week top but holds above 0.6900",
-      "summary": "The AUD/USD pair builds on its modest weekly bearish gap opening and retreats further from a two-and-a-half-week top, near the 0.6970 region, touched on Friday. Spot prices drop to the 0.6930-0.6925 area during the Asian session as escalating US-Iran tensions underpin the safe-haven US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-retreats-further-from-multi-week-top-but-holds-above-06900-202607130224",
-      "published": "2026-07-13T02:24:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index holds above 101.00 on Middle East tensions",
-      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is remaining stronger for the second successive day, trading around 101.10 during the Asian session on Monday.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-above-10100-on-middle-east-tensions-202607130218",
-      "published": "2026-07-13T02:18:52+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar edges lower as US launches new wave of strikes against Iran",
-      "summary": "The USD/CAD pair gains traction to near 1.4165, snapping the four-day losing streak during the Asian trading hours on Monday. The US Dollar (USD) strengthens against the Canadian Dollar (CAD) amid lingering tensions regarding the US-Iran conflict.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-edges-lower-as-us-launches-new-wave-of-strikes-against-iran-202607130207",
-      "published": "2026-07-13T02:07:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD falls to near $59.00 amid rising US-Iran strikes",
-      "summary": "Silver price (XAG/USD) extends its gains for the second successive day, trading around $59.00 per troy ounce during the Asian hours on Monday.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-5900-amid-rising-us-iran-strikes-202607130148",
-      "published": "2026-07-13T01:48:25+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen weakens vs USD as Iran tensions and rate gap counter intervention risks",
-      "summary": "The USD/JPY pair builds on Friday's late rebound from the 161.30-161.25 region and gains strong positive traction at the start of a new week. The momentum lifts spot prices back above the 162.00 round figure during the Asian session and is sponsored by a combination of supporting factors.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-vs-usd-as-iran-tensions-and-rate-gap-counter-intervention-risks-202607130144",
-      "published": "2026-07-13T01:44:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar declines as safe-haven demand lifts US Dollar",
-      "summary": "NZD/USD depreciates after three days of losses, trading around 0.5750 during the Asian hours on Monday. The currency pair holds onto its losses as the New Zealand Dollar (NZD) remains subdued, failing to find immediate support despite a positive turnaround in local economic data.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-as-safe-haven-demand-lifts-us-dollar-202607130117",
-      "published": "2026-07-13T01:17:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7972 vs. 6.7989 previous",
-      "summary": "On Monday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7972 compared to Friday's fix of 6.7989 and 6.7850 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67972-vs-67989-previous-202607130115",
-      "published": "2026-07-13T01:15:37+00:00",
       "score": 1
     },
     {
@@ -234,33 +279,6 @@
       "summary": "<p>The market is extremely volatile under the surface:<br />\n<br />\nThe difference between individual stock volatility in the S&amp;P 500 and the S&amp;P 500 Volatility Index, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23VIX\">$VIX</a>, is up to a record 34 points.<br />\n<br />\nThis gap has surged +19 points, or +127%, since March.<br />\n<br />\nOver this period, the individual stock volatil",
       "link": "https://nitter.net/KobeissiLetter/status/2076335524969947497#m",
       "published": "2026-07-12T15:59:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP EYES AUSTRALIA’S RETIREMENT MODEL President Donald Trump wants officials to study Australia’s $3.1 trillion private pension system as a possible blueprint for US retirement reform. Australia requires employers to contribute 12% of workers’ salaries—including for part-time employees—into privately managed funds. Supporters say the model could expand retirement coverage as Social Security faces funding pressures. Critics warn compulsory employer contributions could affect wages and that Australia’s system is no simple fix for America’s retirement challenges.",
-      "summary": "<p>TRUMP EYES AUSTRALIA’S RETIREMENT MODEL<br />\n<br />\nPresident Donald Trump wants officials to study Australia’s $3.1 trillion private pension system as a possible blueprint for US retirement reform.<br />\n<br />\nAustralia requires employers to contribute 12% of workers’ salaries—including for part-time employees—into privately managed funds.<br />\n<br />\nSupporters say the model could expand r",
-      "link": "https://nitter.net/DeItaone/status/2076334503920877963#m",
-      "published": "2026-07-12T15:54:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: STRAIT OF HORMUZ OPEN TO COMMERCIAL SHIPPING U.S. President Donald Trump said the Strait of Hormuz remains open to commercial traffic. However, continued U.S.–Iran attacks are raising safety concerns along one of the world’s most critical oil shipping routes. Trump made the comments during an interview on NBC’s Meet the Press.",
-      "summary": "<p>TRUMP: STRAIT OF HORMUZ OPEN TO COMMERCIAL SHIPPING<br />\n<br />\nU.S. President Donald Trump said the Strait of Hormuz remains open to commercial traffic.<br />\n<br />\nHowever, continued U.S.–Iran attacks are raising safety concerns along one of the world’s most critical oil shipping routes.<br />\n<br />\nTrump made the comments during an interview on NBC’s Meet the Press.</p>",
-      "link": "https://nitter.net/DeItaone/status/2076329618571771973#m",
-      "published": "2026-07-12T15:35:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: STRAIT OF HORMUZ IS OPEN -NBC INTERVIEW",
-      "summary": "<p>TRUMP: STRAIT OF HORMUZ IS OPEN -NBC INTERVIEW</p>",
-      "link": "https://nitter.net/DeItaone/status/2076322262999785477#m",
-      "published": "2026-07-12T15:06:18+00:00",
       "score": 1
     },
     {
@@ -324,15 +342,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1utnrch/gbpusd_bot_results_this_week_44_trades_sharing/\"> <img alt=\"GBPUSD bot results this week — 4/4 trades, sharing entries/exits + reasoning\" src=\"https://preview.redd.it/oznsitrbhmch1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cb5a15b3b1390bf520a1348b0466d4bb44e760d9\" title=\"GBPUSD bot results this week — 4/4 trades, sha",
       "link": "https://www.reddit.com/r/Forex/comments/1utnrch/gbpusd_bot_results_this_week_44_trades_sharing/",
       "published": "2026-07-11T15:55:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Why's gold reacting weird",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1usuli0/whys_gold_reacting_weird/\"> <img alt=\"Why's gold reacting weird\" src=\"https://preview.redd.it/qg940oehvfch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=60989354a4a745d19c5bedb8a2bc2e908fc60588\" title=\"Why's gold reacting weird\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Here's what I caught. Perfectly aligned ",
-      "link": "https://www.reddit.com/r/Forex/comments/1usuli0/whys_gold_reacting_weird/",
-      "published": "2026-07-10T17:40:53+00:00",
       "score": 1
     },
     {
