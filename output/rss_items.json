@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-07-13T20:58:54.262716+00:00",
-  "count": 79,
+  "updated_at": "2026-07-13T22:03:24.884675+00:00",
+  "count": 74,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Iran: dismantling Iran's offensive strength",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9675947/Trump-on-Iran-dismantling-Irans-offensive-strength.aspx?xy=rss",
+      "published": "2026-07-13T22:00:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Iran: targeting their capabilities linked to the Hormuz Strait",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9675945/Trump-on-Iran-targeting-their-capabilities-linked-to-the-Hormuz-Strait.aspx?xy=rss",
+      "published": "2026-07-13T21:54:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump orders reduction of federally protected land in Utah",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9675944/Trump-orders-reduction-of-federally-protected-land-in-Utah.aspx?xy=rss",
+      "published": "2026-07-13T21:54:49+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump signs executive orders on Utah conservation areas",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9675943/Trump-signs-executive-orders-on-Utah-conservation-areas.aspx?xy=rss",
+      "published": "2026-07-13T21:53:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump has formally notified US Congress that the US is at war with Iran, per Politico. Details include: 1. The move gives Trump another 60 days to use the military in the region without congressional approval 2. Trump said strikes that began on July 7th represent \"military action consistent with my responsibility to protect Americans and US interests both at home and abroad\" 3. Trump also just said that he will \"hit Iran hard\" tonight amid mounting tensions The Iran War appears to be back again.",
+      "summary": "<p>BREAKING: President Trump has formally notified US Congress that the US is at war with Iran, per Politico.<br />\n<br />\nDetails include:<br />\n<br />\n1. The move gives Trump another 60 days to use the military in the region without congressional approval<br />\n<br />\n2. Trump said strikes that began on July 7th represent \"military action consistent with my responsibility to protect Americans an",
+      "link": "https://nitter.net/KobeissiLetter/status/2076777484775985242#m",
+      "published": "2026-07-13T21:15:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: AWS: OpenAI GPT-5.6 Sol, Terra, and Luna now broadly available on Amazon Bedrock - Blog",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9675900/AWS-OpenAI-GPT-56-Sol-Terra-and-Luna-now-broadly-available-on-Amazon-Bedrock---Blog.aspx?xy=rss",
+      "published": "2026-07-13T21:06:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Upside risks with CPI and Warsh in view – OCBC",
+      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong observe that USD/SGD has turned slightly softer, tracking Renminbi (RMB) gains as the Dollar consolidates. They see risks skewed to the downside, with support at 1.29 and 1.2840 and resistance at 1.2980.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risks-with-cpi-and-warsh-in-view-ocbc-202607132038",
+      "published": "2026-07-13T20:38:00+00:00",
+      "score": 2
+    },
     {
       "source": "Walter Bloomberg",
       "category": "twitter",
@@ -120,57 +183,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Iran: We had a deal yesterday, they break deals. Iranians are extremely unreliable.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9675837/Trump-on-Iran-We-had-a-deal-yesterday-they-break-deals-Iranians-are-extremely-unreliable.aspx?xy=rss",
-      "published": "2026-07-13T20:09:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump responding to a question about Iran targets: We'll give the pickaxe a shot relatively soon",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9675836/Trump-responding-to-a-question-about-Iran-targets-Well-give-the-pickaxe-a-shot-relatively-soon.aspx?xy=rss",
-      "published": "2026-07-13T20:09:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We had a deal with iran where we won everything.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9675835/Trump-We-had-a-deal-with-iran-where-we-won-everything.aspx?xy=rss",
-      "published": "2026-07-13T20:09:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump reiterates Iran has no air force, no navy, and no military.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9675833/Trump-reiterates-Iran-has-no-air-force-no-navy-and-no-military.aspx?xy=rss",
-      "published": "2026-07-13T20:08:49+00:00",
-      "score": 2
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Forex Today: US Dollar surges as Hormuz tensions send Oil to one-month high",
       "summary": "The US Dollar Index (DXY) surges toward 101.30, gaining around 0.3% as escalating tensions between the United States (US) and Iran boost safe-haven demand and drive energy prices sharply higher.",
       "link": "https://www.fxstreet.com/news/forex-today-us-dollar-surges-as-hormuz-tensions-send-oil-to-one-month-high-202607132003",
       "published": "2026-07-13T20:03:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: +2073 mln<br />Nasdaq 100: +1326 mln<br />Dow 30: +201 mln<br />Mag 7: +351 mln",
-      "link": "https://www.financialjuice.com/News/9675811/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-07-13T19:50:31+00:00",
       "score": 1
     },
     {
@@ -192,39 +210,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to discuss foreign interference in 2020 election - MS Now",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9675792/Trump-to-discuss-foreign-interference-in-2020-election---MS-Now.aspx?xy=rss",
-      "published": "2026-07-13T19:44:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to address 2020 election in speech Thursday - MS Now",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9675791/Trump-to-address-2020-election-in-speech-Thursday---MS-Now.aspx?xy=rss",
-      "published": "2026-07-13T19:44:23+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says he will be addressing the nation on Thursday at 9 PM ET.",
       "summary": "<p>BREAKING: President Trump says he will be addressing the nation on Thursday at 9 PM ET.</p>\n<img src=\"https://nitter.net/pic/media%2FHNIRa52WMAAcaxA.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2076753955418210379#m",
       "published": "2026-07-13T19:41:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump will support Russia sanctions bill - CNN citing official",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9675788/Trump-will-support-Russia-sanctions-bill---CNN-citing-official.aspx?xy=rss",
-      "published": "2026-07-13T19:31:51+00:00",
       "score": 1
     },
     {
@@ -336,15 +327,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FED AT A CROSSROADS: RATE HIKE BACK ON THE TABLE Fed Governor Christopher Waller warned that another hot core inflation reading could force policymakers to consider raising interest rates soon. While the US economy remains resilient, persistent price pressures from tariffs, energy and AI infrastructure are raising concerns. Tuesday’s inflation data could be decisive.",
-      "summary": "<p>FED AT A CROSSROADS: RATE HIKE BACK ON THE TABLE<br />\n<br />\nFed Governor Christopher Waller warned that another hot core inflation reading could force policymakers to consider raising interest rates soon.<br />\n<br />\nWhile the US economy remains resilient, persistent price pressures from tariffs, energy and AI infrastructure are raising concerns.<br />\n<br />\nTuesday’s inflation data could b",
-      "link": "https://nitter.net/DeItaone/status/2076711958607233134#m",
-      "published": "2026-07-13T16:54:49+00:00",
-      "score": 3
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Australian Dollar falls as US-Iran tensions weigh on risk sentiment",
@@ -390,15 +372,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: U.S. TO BECOME “GUARDIAN OF THE HORMUZ STRAIT” President Trump said the U.S. would reinstate its blockade of Iranian ships and seek a 20% reimbursement on other cargo transiting the Strait of Hormuz. The plan would begin immediately, though key details remain unclear. Oil prices surged on the announcement, with Brent briefly touching $80 a barrel.",
-      "summary": "<p>TRUMP: U.S. TO BECOME “GUARDIAN OF THE HORMUZ STRAIT”<br />\n<br />\nPresident Trump said the U.S. would reinstate its blockade of Iranian ships and seek a 20% reimbursement on other cargo transiting the Strait of Hormuz.<br />\n<br />\nThe plan would begin immediately, though key details remain unclear.<br />\n<br />\nOil prices surged on the announcement, with Brent briefly touching $80 a barrel.</",
-      "link": "https://nitter.net/DeItaone/status/2076686930369028338#m",
-      "published": "2026-07-13T15:15:21+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Gold eyes $4,000 as renewed US-Iran hostilities boost Oil prices, Fed rate hike bets",
@@ -406,15 +379,6 @@
       "link": "https://www.fxstreet.com/news/gold-declines-as-renewed-us-iran-hostilities-boost-oil-prices-fed-rate-hike-bets-202607131112",
       "published": "2026-07-13T15:08:55+00:00",
       "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "President Trump declares US ‘Guardian of the Hormuz Strait’",
-      "summary": "United States (US) President Donald Trump announced that the Strait of Hormuz is open and will remain accessible to international shipping “with or without Iran,” while outlining a new US-led security arrangement for the strategic waterway.",
-      "link": "https://www.fxstreet.com/news/us-president-trump-declares-us-guardian-of-the-hormuz-strait-202607131443",
-      "published": "2026-07-13T14:43:56+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -541,15 +505,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2076320425349714186#m",
       "published": "2026-07-12T14:59:00+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Key Events This Week: 1. Markets React to Strait of Hormuz Closure - Today, 6 PM ET 2. June CPI Inflation data - Tuesday 3. June PPI Inflation data - Wednesday 4. June Retail Sales data - Thursday 5. July Philly Fed Manufacturing Index - Thursday 6. July MI Inflation Expectations data - Friday 7. July MI Consumer Sentiment data - Friday 8. ~10% of S&P 500 Companies Report Earnings We have a highly eventful week ahead of us.",
-      "summary": "<p>Key Events This Week:<br />\n<br />\n1. Markets React to Strait of Hormuz Closure - Today, 6 PM ET<br />\n<br />\n2. June CPI Inflation data - Tuesday<br />\n<br />\n3. June PPI Inflation data - Wednesday<br />\n<br />\n4. June Retail Sales data - Thursday<br />\n<br />\n5. July Philly Fed Manufacturing Index - Thursday<br />\n<br />\n6. July MI Inflation Expectations data - Friday<br />\n<br />\n7. July MI ",
-      "link": "https://nitter.net/KobeissiLetter/status/2076301483331436604#m",
-      "published": "2026-07-12T13:43:44+00:00",
-      "score": 4
     },
     {
       "source": "Federal Reserve",
