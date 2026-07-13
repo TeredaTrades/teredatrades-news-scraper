@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-07-13T03:47:00.960808+00:00",
+  "updated_at": "2026-07-13T06:56:13.950351+00:00",
   "count": 55,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed Interest Rate Probabilities",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9674737/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+      "published": "2026-07-13T06:52:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9674733/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+      "published": "2026-07-13T06:51:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "I finally launched RSForex Bot – a fully automated XAUUSD trading bot for MT5. Looking for honest feedback from the trading community.",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>After months of development, <strong>RSForex Bot</strong> is officially live.<br /> It’s a fully automated <strong>XAUUSD (Gold)</strong> trading system that runs inside <strong>your own MetaTrader 5 account</strong>. You keep full control of your account and funds at all times—the software simply analyzes the market and executes trades based on its strategy.<br /",
+      "link": "https://www.reddit.com/r/Forex/comments/1uv35s4/i_finally_launched_rsforex_bot_a_fully_automated/",
+      "published": "2026-07-13T06:06:50+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold seems vulnerable as Iran risks revive inflation fears, lift Fed hike bets and USD",
+      "summary": "Gold (XAU/USD) maintains its offered tone through the Asian session on Monday and currently trades just above $4,050, down nearly 1.40% for the day.",
+      "link": "https://www.fxstreet.com/news/gold-slides-back-closer-to-4-050-as-iran-risks-and-fed-hike-bets-boost-usd-202607130416",
+      "published": "2026-07-13T05:48:48+00:00",
+      "score": 5
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Trade breakdown Gold",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1uv2q72/trade_breakdown_gold/\"> <img alt=\"Trade breakdown Gold\" src=\"https://preview.redd.it/pzpz44x5qxch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2325e7750ee14a94bdc4006c942abdd09b8995e4\" title=\"Trade breakdown Gold\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The market had a clear 1H (FVG) in focus. Price retrac",
+      "link": "https://www.reddit.com/r/Forex/comments/1uv2q72/trade_breakdown_gold/",
+      "published": "2026-07-13T05:43:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee opens sharpy lower amid higher US Dollar, oil prices",
+      "summary": "The Indian Rupee (INR) opens significantly lower against the US Dollar (USD) on Monday. The USD/INR jumps to over a six-week high around 95.80, as renewed Middle East hostilities have strengthened the US Dollar and oil prices.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-opens-sharpy-lower-amid-higher-us-dollar-oil-prices-202607130517",
+      "published": "2026-07-13T05:17:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Saudi Arabia Gold price today: Gold falls, according to FXStreet data",
+      "summary": "Gold prices fell in Saudi Arabia on Monday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/saudi-arabia-gold-price-today-gold-falls-according-to-fxstreet-data-202607130505",
+      "published": "2026-07-13T05:05:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: Hovers around nine-day EMA near 162.00",
+      "summary": "USD/JPY gains ground after two days of losses, trading around 162.00 during the Asian hours on Monday. The currency pair is keeping a bullish near-term bias as spot holds above both the nine-period and 50-period Exponential Moving Averages (EMAs).",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-hovers-around-nine-day-ema-near-16200-202607130454",
+      "published": "2026-07-13T04:54:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah declines on increased risk aversion",
+      "summary": "USD/IDR gains ground after registering losses in the previous day, trading around 18,180 during the Asian hours on Monday. The US Dollar (USD) appreciated as intensifying geopolitical tensions in the Middle East sparked a wave of safe-haven demand.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-on-increased-risk-aversion-202607130438",
+      "published": "2026-07-13T04:38:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "summary": "Gold prices fell in India on Monday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202607130436",
+      "published": "2026-07-13T04:36:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc weakens as US Dollar rises on safe-haven demand",
+      "summary": "USD/CHF gains ground for the second successive day, trading around 0.8100 during the Asian hours on Monday. The pair appreciates as the US Dollar rises on increased safe-haven demand amid heightened geopolitical tensions in the Middle East.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-rises-on-safe-haven-demand-202607130339",
+      "published": "2026-07-13T03:39:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Flag breakdown supports more downside towards 1.1325",
+      "summary": "The Euro (EUR) holds opening losses at around 1.1390 against the US Dollar (USD) during the mid-Asian trading session on Monday. The major currency pair faces selling pressure as the US Dollar starts the week on a strong note due to an increase in the appeal of safe-haven assets.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-flag-breakdown-supports-more-downside-towards-11325-202607130317",
+      "published": "2026-07-13T03:17:00+00:00",
+      "score": 1
+    },
     {
       "source": "r/Forex",
       "category": "reddit",
@@ -57,15 +165,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: S.Korea central bank sells 91-day monetary stabilization bonds at 2.695% yield",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9674527/SKorea-central-bank-sells-91-day-monetary-stabilization-bonds-at-2695-yield.aspx?xy=rss",
-      "published": "2026-07-13T01:40:03+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "New Zealand Dollar declines as safe-haven demand lifts US Dollar",
@@ -81,42 +180,6 @@
       "summary": "On Monday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7972 compared to Friday's fix of 6.7989 and 6.7850 Reuters estimate.",
       "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67972-vs-67989-previous-202607130115",
       "published": "2026-07-13T01:15:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold falls below $4,100 as fresh US-Iran strikes stoke inflation fears",
-      "summary": "Gold price (XAU/USD) attracts some sellers to near $4,070 during the early Asian trading hours on Monday. The precious metal extends its decline amid escalating tensions between the US and Iran.",
-      "link": "https://www.fxstreet.com/news/gold-declines-below-4-100-as-fresh-us-iran-strikes-stoke-inflation-fears-202607130105",
-      "published": "2026-07-13T01:05:18+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound remains depressed below 1.3400 as escalating US-Iran tensions underpin USD",
-      "summary": "The GBP/USD pair finds some support near 1.3370 after a modest gap-down opening on Monday, though it lacks bullish conviction and remains below 1.3400.",
-      "link": "https://www.fxstreet.com/news/british-pound-remains-depressed-below-13400-as-escalating-us-iran-tensions-underpin-usd-202607130103",
-      "published": "2026-07-13T01:03:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro weakens to near 1.1400 as US-Iran escalation boosts US Dollar",
-      "summary": "The EUR/USD pair edges lower to around 1.1400 during the early Asian session on Monday, pressured by heightened geopolitical tensions in the Middle East.",
-      "link": "https://www.fxstreet.com/news/euro-weakens-to-near-11400-as-us-iran-escalation-boosts-us-dollar-202607130019",
-      "published": "2026-07-13T00:19:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar declines below 0.6950 as US, Iran launch new round of strikes",
-      "summary": "The AUD/USD pair loses ground to near 0.6940 during the early Asian session on Monday. Renewed tensions in the Middle East weigh on the riskier assets such as the Australian Dollar (AUD) against the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-below-06950-as-us-iran-launch-new-round-of-strikes-202607122319",
-      "published": "2026-07-12T23:19:01+00:00",
       "score": 1
     },
     {
@@ -264,51 +327,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: Lower high structure holds, bear's eye $55.00",
-      "summary": "Silver price retreats on Friday during the North American session, edging down by 0.54%, weighed by high US Treasury yields and a sudden shift in market sentiment, after US President Trump revealed that the ceasefire is “over.” At the time of writing, the XAG/USD trades at $59.66.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-lower-high-structure-holds-bears-eye-5500-202607102055",
-      "published": "2026-07-10T20:55:37+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Taiwan Dollar: CBC inflation risks support against US Dollar – Commerzbank",
-      "summary": "Commerzbank’s report on Taiwan notes that stronger inflation, with core CPI at 2.5%, is likely to push the CBC towards a more hawkish stance, including a possible 12.5 bp hike in H2.",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-cbc-inflation-risks-support-against-us-dollar-commerzbank-202607102051",
-      "published": "2026-07-10T20:51:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forecasting the upcoming week: US CPI and Warsh testimony to test the Dollar’s recovery",
-      "summary": "The upcoming week will bring a major test for the US Dollar (USD), with investors focusing on the United States Consumer Price Index (CPI), Federal Reserve (Fed) Chair Kevin Warsh’s congressional testimony and a broad set of activity indicators.",
-      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-cpi-and-warsh-testimony-to-test-the-dollars-recovery-202607102046",
-      "published": "2026-07-10T20:46:30+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South Korean Won: Rate hike support from exports and inflation – DBS",
-      "summary": "DBS economists Radhika Rao and Mo Ji expect the Bank of Korea (BoK) to raise its base rate to 2.75% from 2.50% in July, citing persistent CPI inflation above 3% and resilient growth.",
-      "link": "https://www.fxstreet.com/news/south-korean-won-rate-hike-support-from-exports-and-inflation-dbs-202607102007",
-      "published": "2026-07-10T20:07:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah: Weakness risks persist – MUFG",
-      "summary": "MUFG’s Lloyd Chan highlights the Indonesian rupiah’s continued vulnerability as USD/IDR moved back above 18,000 amid renewed Middle East tensions and elevated US yields.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakness-risks-persist-mufg-202607102002",
-      "published": "2026-07-10T20:02:43+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Why's gold reacting weird",
@@ -316,24 +334,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1usuli0/whys_gold_reacting_weird/",
       "published": "2026-07-10T17:40:53+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "DXY and GU outlook",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1usgvnh/dxy_and_gu_outlook/\"> <img alt=\"DXY and GU outlook\" src=\"https://preview.redd.it/2vej0vyxwcch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=39f8b6ebdcdf479cb8eaf4c55d84f7e81063e981\" title=\"DXY and GU outlook\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>#Dxy Final fvg to send price lower, this w",
-      "link": "https://www.reddit.com/r/Forex/comments/1usgvnh/dxy_and_gu_outlook/",
-      "published": "2026-07-10T07:43:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "*GOLD H4 CHART ANALYSIS*",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1usf59c/gold_h4_chart_analysis/\"> <img alt=\"*GOLD H4 CHART ANALYSIS*\" src=\"https://preview.redd.it/9ap309zifcch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e333176c5fe90eb49620cebdfc9f58a1631cc07\" title=\"*GOLD H4 CHART ANALYSIS*\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>*GOLD H4 CHART ANALYSIS*</p> <p>- 2 Possibil",
-      "link": "https://www.reddit.com/r/Forex/comments/1usf59c/gold_h4_chart_analysis/",
-      "published": "2026-07-10T06:06:03+00:00",
-      "score": 2
     },
     {
       "source": "Federal Reserve",
