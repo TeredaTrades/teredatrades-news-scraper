@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-07-14T00:10:08.144650+00:00",
-  "count": 64,
+  "updated_at": "2026-07-14T03:34:49.489461+00:00",
+  "count": 68,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia cuts Asia buyer list in China chip crackdown: FT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9676347/Nvidia-cuts-Asia-buyer-list-in-China-chip-crackdown-FT.aspx?xy=rss",
+      "published": "2026-07-14T03:25:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: China June copper concentrates and ore imports at 2.34 million metric tons: customs",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9676287/China-June-copper-concentrates-and-ore-imports-at-234-million-metric-tons-customs.aspx?xy=rss",
+      "published": "2026-07-14T02:51:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound strengthens above 1.3350 ahead of US CPI data",
+      "summary": "The GBP/USD pair trades in positive territory around 1.3360 during the Asian trading hours on Tuesday. However, the potential upside for the major pair might be limited amid fears of an escalating US-Iran conflict.",
+      "link": "https://www.fxstreet.com/news/british-pound-strengthens-above-13350-ahead-of-us-cpi-data-202607140247",
+      "published": "2026-07-14T02:47:08+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD dips as oil surge lifts Fed hike odds",
+      "summary": "Silver price (XAG/USD) loses ground for the third consecutive day, trading around $57.60 per troy ounce during the Asian hours on Tuesday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-dips-as-oil-surge-lifts-fed-hike-odds-202607140220",
+      "published": "2026-07-14T02:20:05+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen consolidates as USD bulls look to US CPI and Fed's Warsh",
+      "summary": "The USD/JPY pair is seen consolidating the previous day's strong move up and trading just below mid-162.00s during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-consolidates-as-usd-bulls-look-to-us-cpi-and-feds-warsh-202607140158",
+      "published": "2026-07-14T01:58:27+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro posts modest gains above 1.1350 as traders await US CPI inflation release",
+      "summary": "The EUR/USD pair posts modest gains near 1.1385 during the Asian trading hours on Tuesday. Nonetheless, the potential upside for the major pair might be limited amid renewed US military strikes against Iran.",
+      "link": "https://www.fxstreet.com/news/euro-posts-modest-gains-above-11350-as-traders-await-us-cpi-inflation-release-202607140129",
+      "published": "2026-07-14T01:29:45+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar gains on higher oil prices",
+      "summary": "USD/CAD continues its losing streak after remaining flat in the previous day, trading around 1.4150 during the Asian hours on Tuesday. The pair depreciates as the commodity-linked Canadian Dollar (CAD) receives support from higher oil prices.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-on-higher-oil-prices-202607140126",
+      "published": "2026-07-14T01:26:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar rallies as RBNZ's Conway fuels rate hike bets",
+      "summary": "The NZD/USD pair attracts some dip-buyers during the Asian session on Tuesday, stalling the previous day's retracement slide from the vicinity of the 0.5800 mark or the monthly peak touched last week.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rallies-as-rbnzs-conway-fuels-rate-hike-bets-202607140119",
+      "published": "2026-07-14T01:19:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7990 vs. 6.7972 previous",
+      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7990 compared to the previous day's fix of 6.7972 and 6.7927 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67990-vs-67972-previous-202607140115",
+      "published": "2026-07-14T01:15:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar weakens to near 0.6900 as US launches more strikes against Iran",
+      "summary": "The AUD/USD pair trades with mild losses around 0.6915 during the early Asian session on Tuesday. Ongoing geopolitical tensions in the Middle East continue to boost a safe-haven currency such as the US Dollar (USD) against the Australian Dollar (AUD).",
+      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-to-near-06900-as-us-launches-more-strikes-against-iran-202607140028",
+      "published": "2026-07-14T00:28:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: US oil prices officially surge above $80/barrel as President Trump reimposes the US blockade of the Strait of Hormuz and the Iran War resumes.",
+      "summary": "<p>BREAKING: US oil prices officially surge above $80/barrel as President Trump reimposes the US blockade of the Strait of Hormuz and the Iran War resumes.</p>\n<img src=\"https://nitter.net/pic/media%2FHNJdrj3WIAA5Ls0.png\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2076825415339929898#m",
+      "published": "2026-07-14T00:25:39+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -39,6 +138,24 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP PROPOSES 20% FEE ON CARGO SHIPPED THROUGH STRAIT OF HORMUZ: SEMAFOR US REIMPOSED NAVAL BLOCKADE ON IRAN, TRUMP FORMALLY NOTIFIED CONGRESS: SEMAFOR",
+      "summary": "<p>TRUMP PROPOSES 20% FEE ON CARGO SHIPPED THROUGH STRAIT OF HORMUZ: SEMAFOR <br />\n<br />\nUS REIMPOSED NAVAL BLOCKADE ON IRAN, TRUMP FORMALLY NOTIFIED CONGRESS: SEMAFOR</p>",
+      "link": "https://nitter.net/DeItaone/status/2076801496960630815#m",
+      "published": "2026-07-13T22:50:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Pinned: IRAN WAR RESUMES — HORMUZ OUTLOOK WORSENS Trump has formally notified Congress that U.S. hostilities against Iran have resumed, claiming a new 60-day military window. As Washington reinstates its blockade, Kalshi puts the chance of Hormuz traffic normalizing before 2027 at just 46%. https://kalshi.com/markets/kxhormuznorm/when-will-traffic-at-the-strait-of-hormuz-return-to-normal/kxhormuznorm-26mar17",
+      "summary": "<p>IRAN WAR RESUMES — HORMUZ OUTLOOK WORSENS<br />\n<br />\nTrump has formally notified Congress that U.S. hostilities against Iran have resumed, claiming a new 60-day military window.<br />\n<br />\nAs Washington reinstates its blockade, Kalshi puts the chance of Hormuz traffic normalizing before 2027 at just 46%.<br />\n<br />\n<a href=\"https://kalshi.com/markets/kxhormuznorm/when-will-traffic-at-the-",
+      "link": "https://nitter.net/DeItaone/status/2076801077693870364#m",
+      "published": "2026-07-13T22:48:56+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "Malaysian Ringgit: Johor result keeps policy continuity – OCBC",
@@ -48,66 +165,48 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBNZ’s Conway: Inflation to Return to 2% Over Medium Term",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9676004/RBNZs-Conway-Inflation-to-Return-to-2-Over-Medium-Term.aspx?xy=rss",
-      "published": "2026-07-13T22:36:20+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP DEMANDS 20% HORMUZ CARGO FEE President Trump is proposing a 20% charge on cargo shipped through the Strait of Hormuz—about $30 million for a fully loaded oil supertanker. The shipping industry reacted with surprise, citing no warning or details. Iran’s foreign minister agreed secure passage should be compensated but called 20% excessive. Hormuz carries roughly one-fifth of global oil and gas flows.",
+      "summary": "<p>TRUMP DEMANDS 20% HORMUZ CARGO FEE<br />\n<br />\nPresident Trump is proposing a 20% charge on cargo shipped through the Strait of Hormuz—about $30 million for a fully loaded oil supertanker.<br />\n<br />\nThe shipping industry reacted with surprise, citing no warning or details.<br />\n<br />\nIran’s foreign minister agreed secure passage should be compensated but called 20% excessive.<br />\n<br />",
+      "link": "https://nitter.net/DeItaone/status/2076798855408963654#m",
+      "published": "2026-07-13T22:40:06+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump issues proclamation on regulatory relief for specific stationary sources",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9675989/White-House-Trump-issues-proclamation-on-regulatory-relief-for-specific-stationary-sources.aspx?xy=rss",
-      "published": "2026-07-13T22:24:37+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SIGNED REGULATORY RELIEF FOR ‘CERTAIN STATIONARY SOURCES’",
+      "summary": "<p>TRUMP SIGNED REGULATORY RELIEF FOR ‘CERTAIN STATIONARY SOURCES’</p>",
+      "link": "https://nitter.net/DeItaone/status/2076798040233443541#m",
+      "published": "2026-07-13T22:36:52+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump signs order cutting size of Grand Staircase-Escalante and Bears Ears national monuments in Utah",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9675988/White-House-Trump-signs-order-cutting-size-of-Grand-Staircase-Escalante-and-Bears-Ears-national-monuments-in-Utah.aspx?xy=rss",
-      "published": "2026-07-13T22:18:28+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: THINK A DEAL IS POSSIBLE",
+      "summary": "<p>TRUMP ON IRAN: THINK A DEAL IS POSSIBLE</p>",
+      "link": "https://nitter.net/DeItaone/status/2076791408803864827#m",
+      "published": "2026-07-13T22:10:31+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump signs order altering Bears Ears National Monument borders in Utah",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9675985/White-House-Trump-signs-order-altering-Bears-Ears-National-Monument-borders-in-Utah.aspx?xy=rss",
-      "published": "2026-07-13T22:16:00+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: WANT TO BE REIMBURSED FOR PROTECTING COUNTRIES THAT WE'RE HELPING IN STRAIT OF HORMUZ",
+      "summary": "<p>TRUMP ON IRAN: WANT TO BE REIMBURSED FOR PROTECTING COUNTRIES THAT WE'RE HELPING IN STRAIT OF HORMUZ</p>",
+      "link": "https://nitter.net/DeItaone/status/2076791361957769359#m",
+      "published": "2026-07-13T22:10:20+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump signs order changing boundaries of Grand Staircase-Escalante National Monument in Utah",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9675981/White-House-Trump-signs-order-changing-boundaries-of-Grand-Staircase-Escalante-National-Monument-in-Utah.aspx?xy=rss",
-      "published": "2026-07-13T22:14:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Iran: planning another significant strike Monday night",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9675978/Trump-on-Iran-planning-another-significant-strike-Monday-night.aspx?xy=rss",
-      "published": "2026-07-13T22:06:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBNZ's Conway: Central bank will act if inflation from Middle East conflict proves persistent",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9675977/RBNZs-Conway-Central-bank-will-act-if-inflation-from-Middle-East-conflict-proves-persistent.aspx?xy=rss",
-      "published": "2026-07-13T22:05:43+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: DOING ANOTHER MAJOR ATTACK MONDAY NIGHT",
+      "summary": "<p>TRUMP ON IRAN: DOING ANOTHER MAJOR ATTACK MONDAY NIGHT</p>",
+      "link": "https://nitter.net/DeItaone/status/2076791243724456048#m",
+      "published": "2026-07-13T22:09:52+00:00",
       "score": 1
     },
     {
@@ -138,15 +237,6 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Consolidation after sharper drop against US Dollar – UOB",
-      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann note that USD/CNH fell more than expected to 6.7766 before rebounding, with the sharp decline seen stabilising and intraday consolidation likely between 6.7780 and 6.7920. For the next 1–3 weeks, they expect range trading between 6.7700 and 6.8100.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-consolidation-after-sharper-drop-against-us-dollar-uob-202607132126",
-      "published": "2026-07-13T21:26:00+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump has formally notified US Congress that the US is at war with Iran, per Politico. Details include: 1. The move gives Trump another 60 days to use the military in the region without congressional approval 2. Trump said strikes that began on July 7th represent \"military action consistent with my responsibility to protect Americans and US interests both at home and abroad\" 3. Trump also just said that he will \"hit Iran hard\" tonight amid mounting tensions The Iran War appears to be back again.",
@@ -156,13 +246,13 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Upside risks with CPI and Warsh in view – OCBC",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong observe that USD/SGD has turned slightly softer, tracking Renminbi (RMB) gains as the Dollar consolidates. They see risks skewed to the downside, with support at 1.29 and 1.2840 and resistance at 1.2980.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risks-with-cpi-and-warsh-in-view-ocbc-202607132038",
-      "published": "2026-07-13T20:38:00+00:00",
-      "score": 2
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "OIL SURGES AS TRUMP SAYS US WANTS 20% CHARGE FOR HORMUZ FLOW",
+      "summary": "<p>OIL SURGES AS TRUMP SAYS US WANTS 20% CHARGE FOR HORMUZ FLOW</p>",
+      "link": "https://nitter.net/DeItaone/status/2076765994140225892#m",
+      "published": "2026-07-13T20:29:32+00:00",
+      "score": 1
     },
     {
       "source": "r/Forex",
@@ -174,12 +264,48 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar surges as Hormuz tensions send Oil to one-month high",
-      "summary": "The US Dollar Index (DXY) surges toward 101.30, gaining around 0.3% as escalating tensions between the United States (US) and Iran boost safe-haven demand and drive energy prices sharply higher.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-surges-as-hormuz-tensions-send-oil-to-one-month-high-202607132003",
-      "published": "2026-07-13T20:03:37+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: WE ARE GOING TO TAKE OUT PICKAXE MOUNTAIN -HUGH HEWITT SHOW",
+      "summary": "<p>TRUMP ON IRAN: WE ARE GOING TO TAKE OUT PICKAXE MOUNTAIN -HUGH HEWITT SHOW</p>",
+      "link": "https://nitter.net/DeItaone/status/2076765517814136914#m",
+      "published": "2026-07-13T20:27:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "SMARTPHONE SHIPMENTS HIT A 13-YEAR LOW Global smartphone shipments fell 11% in Q2, reaching their lowest level for the period since 2013. A memory chip shortage has pushed up phone prices and weakened demand, hitting Xiaomi, Oppo, and Vivo hardest. Samsung regained the top position, while Apple reached a record 20% global market share. Meanwhile, strong AI-driven demand continues to benefit memory chipmakers.",
+      "summary": "<p>SMARTPHONE SHIPMENTS HIT A 13-YEAR LOW<br />\n<br />\nGlobal smartphone shipments fell 11% in Q2, reaching their lowest level for the period since 2013.<br />\n<br />\nA memory chip shortage has pushed up phone prices and weakened demand, hitting Xiaomi, Oppo, and Vivo hardest.<br />\n<br />\nSamsung regained the top position, while Apple reached a record 20% global market share.<br />\n<br />\nMeanwhi",
+      "link": "https://nitter.net/DeItaone/status/2076764884453482872#m",
+      "published": "2026-07-13T20:25:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: I DISAGREE WITH NETANYAHU SOMETIMES AND I LET HIM KNOW",
+      "summary": "<p>TRUMP: I DISAGREE WITH NETANYAHU SOMETIMES AND I LET HIM KNOW</p>",
+      "link": "https://nitter.net/DeItaone/status/2076762452620972429#m",
+      "published": "2026-07-13T20:15:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: GET ALONG WITH NETANYAHU VERY WELL",
+      "summary": "<p>TRUMP: GET ALONG WITH NETANYAHU VERY WELL</p>",
+      "link": "https://nitter.net/DeItaone/status/2076762257355116643#m",
+      "published": "2026-07-13T20:14:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: GOING TO HIT THEM HARD TONIGHT, TOMORROW -HUGH HEWITT SHOW",
+      "summary": "<p>TRUMP ON IRAN: GOING TO HIT THEM HARD TONIGHT, TOMORROW -HUGH HEWITT SHOW</p>",
+      "link": "https://nitter.net/DeItaone/status/2076761405038993667#m",
+      "published": "2026-07-13T20:11:17+00:00",
       "score": 1
     },
     {
@@ -201,75 +327,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Malaysian Ringgit: Stable as BNM holds rates – Commerzbank",
-      "summary": "Commerzbank’s Dr. Henry Hao and Moses Lim note that Bank Negara Malaysia (BNM) kept the OPR at 2.75% for a sixth straight meeting, maintaining a cautious tone on global risks. Growth is still expected within a 4–5% range, with inflation contained.",
-      "link": "https://www.fxstreet.com/news/malaysian-ringgit-stable-as-bnm-holds-rates-commerzbank-202607131923",
-      "published": "2026-07-13T19:23:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "NZD/USD Price Forecast: Kiwi holds below 200-day as bears target 0.5700",
-      "summary": "The New Zealand Dollar recoiled during Monday’s North American session, down 0.12%, as the Greenback posted gains versus most G8 FX currencies amid rising geopolitical tensions and hawkish comments from a Fed Governor. The NZD/USD trades at 0.5754, down from daily highs of 0.5789.",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-holds-below-200-day-bears-target-05700-202607131909",
-      "published": "2026-07-13T19:09:15+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Iran’s Foreign Minister Araghchi responds to President Trump announcing a 20% fee to transit the Strait of Hormuz: “POTUS is absolutely right. Whoever provides secure and safe passage of commercial vessels through the Strait of Hormuz should be compensated for this service. Iran has always been the guardian of the Strait and will remain so forever. 20% is of course too much. We will be fair,” he says.",
       "summary": "<p>BREAKING: Iran’s Foreign Minister Araghchi responds to President Trump announcing a 20% fee to transit the Strait of Hormuz:<br />\n<br />\n“POTUS is absolutely right. Whoever provides secure and safe passage of commercial vessels through the Strait of Hormuz should be compensated for this service. <br />\n<br />\nIran has always been the guardian of the Strait and will remain so forever.<br />\n<br",
       "link": "https://nitter.net/KobeissiLetter/status/2076742442812842203#m",
       "published": "2026-07-13T18:55:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Stronger fix guides gradual RMB gains – OCBC",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong highlight that USD/CNH dipped after a stronger USD/CNY fix below 6.80, the first such level since February 2023. They read this as policymakers being comfortable with further RMB appreciation while managing the pace.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-stronger-fix-guides-gradual-rmb-gains-ocbc-202607131841",
-      "published": "2026-07-13T18:41:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG downtrend accelerates, eyes on $55.00",
-      "summary": "Silver price remains below $60.00 as the week begins, diving nearly 4% on Monday amid tensions in the Middle East. Hawkish remarks by Federal Reserve (Fed) Governor Christopher Waller underpin the Greenback, which, according to the US Dollar Index (DXY), is up by over 0.28%.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-downtrend-accelerates-eyes-on-5500-202607131839",
-      "published": "2026-07-13T18:39:47+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen falls as Hormuz tensions and policy concerns weigh",
-      "summary": "USD/JPY trades higher near 162.40 on Monday as the Japanese Yen (JPY) weakens amid escalating tensions between the United States (US) and Iran. The US Dollar (USD) remains supported by higher Oil prices and growing concerns that renewed energy pressure could keep global inflation elevated.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-falls-as-hormuz-tensions-and-policy-concerns-weigh-202607131822",
-      "published": "2026-07-13T18:22:39+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index rises as Waller puts July Fed rate hike in play, CPI awaited",
-      "summary": "The US Dollar Index (DXY) regains momentum on Monday after hawkish remarks from Federal Reserve (Fed) Governor Christopher Waller boosted expectations of an interest rate hike as early as this month.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-as-waller-puts-july-fed-rate-hike-in-play-cpi-awaited-202607131822",
-      "published": "2026-07-13T18:22:38+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Downside bias within established range against US Dollar – UOB",
-      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann note that USD/SGD opened stronger after a quiet prior session, with upward momentum tentatively building but still facing resistance around 1.2945–1.2955. For the next 1–3 weeks, they keep its view that USD/SGD will trade between 1.2890 and 1.2990.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-downside-bias-within-established-range-against-us-dollar-uob-202607131802",
-      "published": "2026-07-13T18:02:12+00:00",
       "score": 1
     },
     {
@@ -280,15 +343,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2076727756537090211#m",
       "published": "2026-07-13T17:57:35+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold price crashes as Waller warning sparks Fed hike fears",
-      "summary": "Gold price (XAU/USD) plunges on Monday after remarks by Federal Reserve (Fed) Governor Christopher Waller, who revealed that if the Consumer Price Index (CPI) rises this week, the Fed should consider interest rate hikes.",
-      "link": "https://www.fxstreet.com/news/gold-price-crashes-as-waller-warning-sparks-fed-hike-fears-202607131735",
-      "published": "2026-07-13T17:35:07+00:00",
-      "score": 5
     },
     {
       "source": "Kobeissi Letter",
@@ -396,24 +450,6 @@
       "summary": "<p>The Kobeissi Letter for the week of July 13th has been published and may be viewed through the link below:<br />\n<br />\n<a href=\"https://tinyurl.com/TheKobeissiLetter\">tinyurl.com/TheKobeissiLette…</a><br />\n<br />\nThe Chart of the Week for the week of July 13th has been published. View or sign up for FREE through the link below:<br />\n<br />\n<a href=\"https://tinyurl.com/TKLChartofWeek\">tinyurl",
       "link": "https://nitter.net/KobeissiLetter/status/2076373526299177137#m",
       "published": "2026-07-12T18:30:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Shocking stat of the day: Nvidia, $NVDA, Micron, $MU, Broadcom, $AVGO, and Applied Materials, $AMAT, are now expected to generate a record $430 billion in combined free cash flow (FCF) over the next 12 months. That would be more than TRIPLE the FCF they generated just 2 years ago. At the same time, the combined FCF of Amazon, $AMZN, Alphabet, $GOOGL, Meta, $META, Microsoft, $MSFT, and Oracle, $ORCL, is projected to turn negative for the first time on record. That would mark a massive reversal from the +$260 billion peak reported by these companies in 2024. This comes as AI-related CapEx by these 5 companies is estimated to surge to ~$1.8 trillion in 2026 and 2027 combined. Chipmakers are becoming cash machines, while AI giants are burning record amounts of capital.",
-      "summary": "<p>Shocking stat of the day:<br />\n<br />\nNvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, Micron, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MU\">$MU</a>, Broadcom, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AVGO\">$AVGO</a>, and Applied Materials, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMAT\">$AMAT</a>, are now expected to generate a re",
-      "link": "https://nitter.net/KobeissiLetter/status/2076350624443023433#m",
-      "published": "2026-07-12T16:59:00+00:00",
-      "score": 4
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The market is extremely volatile under the surface: The difference between individual stock volatility in the S&P 500 and the S&P 500 Volatility Index, $VIX, is up to a record 34 points. This gap has surged +19 points, or +127%, since March. Over this period, the individual stock volatility index has risen +9 points, to 49 points, the highest since March 2025. At the same time, $VIX has declined -16 points, to 15 points, the lowest since mid-January. In other words, the calm in the broader market is hiding unusually high stress across individual stocks. This comes as the concentration in mega-cap tech continues to keep index volatility artificially low. Single stocks are trading as if a correction has already occurred.",
-      "summary": "<p>The market is extremely volatile under the surface:<br />\n<br />\nThe difference between individual stock volatility in the S&amp;P 500 and the S&amp;P 500 Volatility Index, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23VIX\">$VIX</a>, is up to a record 34 points.<br />\n<br />\nThis gap has surged +19 points, or +127%, since March.<br />\n<br />\nOver this period, the individual stock volatil",
-      "link": "https://nitter.net/KobeissiLetter/status/2076335524969947497#m",
-      "published": "2026-07-12T15:59:00+00:00",
       "score": 1
     },
     {
