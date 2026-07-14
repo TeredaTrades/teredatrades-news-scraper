@@ -1,32 +1,194 @@
 {
-  "updated_at": "2026-07-14T11:55:15.663376+00:00",
-  "count": 59,
+  "updated_at": "2026-07-14T13:50:06.191617+00:00",
+  "count": 73,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: US CPI Past Market Reactions & Deviations - FJElite",
-      "summary": "<div><strong>Sentiment From Last Release</strong></div><div>US short-term interest-rate futures rise after inflation report, as traders pare Fed rate hike bets.</div>",
-      "link": "https://www.financialjuice.com/News/9676995/US-CPI-Past-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
-      "published": "2026-07-14T11:54:20+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US CPI Crib Sheet - FJElite",
+      "title": "FinancialJuice: WH Sr. Adviser Hassett: That was the best inflation report we've seen in about 6 years - Fox News.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9676994/US-CPI-Crib-Sheet---FJElite.aspx?xy=rss",
-      "published": "2026-07-14T11:53:17+00:00",
+      "link": "https://www.financialjuice.com/News/9677253/WH-Sr-Adviser-Hassett-That-was-the-best-inflation-report-weve-seen-in-about-6-years---Fox-News.aspx?xy=rss",
+      "published": "2026-07-14T13:48:14+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: US CPI Prep - FJElite",
+      "title": "FinancialJuice: Goldman Sachs CEO Solomon: AI investment cycle is expanding capital needs beyond core technology, infrastructure, energy, and data centers $GS",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9676993/US-CPI-Prep---FJElite.aspx?xy=rss",
-      "published": "2026-07-14T11:52:21+00:00",
+      "link": "https://www.financialjuice.com/News/9677219/Goldman-Sachs-CEO-Solomon-AI-investment-cycle-is-expanding-capital-needs-beyond-core-technology-infrastructure-energy-and-data-centers-GS.aspx?xy=rss",
+      "published": "2026-07-14T13:35:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: -28 mln<br />Nasdaq 100: +25 mln<br />Dow 30: -36 mln<br />Mag 7: +13 mln",
+      "link": "https://www.financialjuice.com/News/9677207/MOO-Imbalance.aspx?xy=rss",
+      "published": "2026-07-14T13:30:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US CPI Market Reactions & Deviations - FJElite",
+      "summary": "<strong>Sentiment Post Latest Data</strong><ul><li>US short-term interest-rate futures jump after inflation data as traders slash bets on Fed rate hikes.</li><li>Traders reduce wagers on Fed rate increase this month.</li></ul>",
+      "link": "https://www.financialjuice.com/News/9677197/US-CPI-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
+      "published": "2026-07-14T13:27:49+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold rises 2% as soft US CPI cools Fed rate-hike bets",
+      "summary": "Gold (XAU/USD) rebounds sharply on Tuesday, erasing losses recorded on the previous day after softer-than-expected US inflation data eased expectations of a near-term Federal Reserve (Fed) interest rate hike.",
+      "link": "https://www.fxstreet.com/news/gold-clings-to-4-000-as-traders-brace-for-us-cpi-202607141113",
+      "published": "2026-07-14T13:04:35+00:00",
+      "score": 6
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Sentiment: DXY 'Stunnered' Post Weaker Than Expected CPI - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9677170/US-Sentiment-DXY-Stunnered-Post-Weaker-Than-Expected-CPI---FJElite.aspx?xy=rss",
+      "published": "2026-07-14T13:03:39+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Effective Fed funds rate 3.62% July 13th vs 3.62% July 10th.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9677140/Effective-Fed-funds-rate-362-July-13th-vs-362-July-10th.aspx?xy=rss",
+      "published": "2026-07-14T12:59:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The odds of the Fed hiking rates at the July 29th meeting crash to 8% after CPI inflation unexpectedly posts its biggest monthly decline since April 2020.",
+      "summary": "<p>BREAKING: The odds of the Fed hiking rates at the July 29th meeting crash to 8% after CPI inflation unexpectedly posts its biggest monthly decline since April 2020.</p>\n<img src=\"https://nitter.net/pic/media%2FHNMHhZcXsAEnve3.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2077012339241467920#m",
+      "published": "2026-07-14T12:48:25+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed Chair Warsh to note they have no tolerance for persistently elevated inflation",
+      "summary": "According to the prepared remarks that Federal Reserve (Fed) Chairman Kevin Warsh will deliver during his testimony on the Semiannual Monetary Policy Report before the US House Financial Services Committee, he will note that the Fed has no tolerance for persistently elevated inflation.",
+      "link": "https://www.fxstreet.com/news/fed-chair-warsh-to-note-they-have-no-tolerance-for-persistently-elevated-inflation-202607141245",
+      "published": "2026-07-14T12:45:24+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: US stock market futures surge as US CPI inflation posts its largest monthly decline since April 2020.",
+      "summary": "<p>BREAKING: US stock market futures surge as US CPI inflation posts its largest monthly decline since April 2020.</p>\n<img src=\"https://nitter.net/pic/media%2FHNME6zpXAAA73AV.jpg\" />\n\n<hr />\n<blockquote>\n<b>The Kobeissi Letter (@KobeissiLetter)</b>\n<p>\n<p>BREAKING: June CPI inflation falls to 3.5%, below expectations of 3.8%<br />\n<br />\nCore CPI inflation falls to 2.6%, below expectations of 2.8",
+      "link": "https://nitter.net/KobeissiLetter/status/2077009266410442952#m",
+      "published": "2026-07-14T12:36:12+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Breaking: US CPI inflation softens to 3.5% in June vs. 3.8% expected",
+      "summary": "Annual inflation in the United States (US), as measured by the change in the Consumer Price Index (CPI), declined to 3.5% in June from the three-year high it set at 4.2% in May, the US Bureau of Labor Statistics (BLS) reported on Tuesday. This print came in well below the market expectation of 3.8%.",
+      "link": "https://www.fxstreet.com/news/us-cpi-data-set-to-show-inflation-cooled-in-june-due-to-tumbling-fuel-prices-202607140830",
+      "published": "2026-07-14T12:35:01+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Supercore CPI MoM: -0.21% Previous: 0.27%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9677119/US-Supercore-CPI-MoM--021-Previous-027.aspx?xy=rss",
+      "published": "2026-07-14T12:33:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Supercore CPI YoY: 3.17% Previous: 3.67%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9677117/US-Supercore-CPI-YoY-317-Previous-367.aspx?xy=rss",
+      "published": "2026-07-14T12:33:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Traders reduce wagers on Fed rate increase this month.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9677116/Traders-reduce-wagers-on-Fed-rate-increase-this-month.aspx?xy=rss",
+      "published": "2026-07-14T12:33:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Warsh: Job creation has kept pace with the workforce. The unemployment rate is low and has changed little over the past year. Seeing relatively few layoffs. Solid growth in nominal wages.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9677115/Feds-Warsh-Job-creation-has-kept-pace-with-the-workforce-The-unemployment-rate-is-low-and-has-changed-little-over-the-past-year-Seeing-relatively-few-layoffs-Solid-growth-in-nominal-wages.aspx?xy=rss",
+      "published": "2026-07-14T12:32:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: June CPI inflation falls to 3.5%, below expectations of 3.8% Core CPI inflation falls to 2.6%, below expectations of 2.8%. Month-over-month CPI inflation fell -0.4%, the biggest monthly drop since May 2020. US stock market futures are surging on the news.",
+      "summary": "<p>BREAKING: June CPI inflation falls to 3.5%, below expectations of 3.8%<br />\n<br />\nCore CPI inflation falls to 2.6%, below expectations of 2.8%.<br />\n<br />\nMonth-over-month CPI inflation fell -0.4%, the biggest monthly drop since May 2020.<br />\n<br />\nUS stock market futures are surging on the news.</p>",
+      "link": "https://nitter.net/KobeissiLetter/status/2077008212994253025#m",
+      "published": "2026-07-14T12:32:01+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Rate support at risk against US Dollar with energy shock – ING",
+      "summary": "ING’s Francesco Pesole argues that the EUR/USD short-term rate differential is currently supporting the Euro as Gulf tensions rise, helped by a recovery in EUR front-end rates.",
+      "link": "https://www.fxstreet.com/news/euro-rate-support-at-risk-against-us-dollar-with-energy-shock-ing-202607141227",
+      "published": "2026-07-14T12:27:30+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: JGB outperformance and repatriation story – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes USD/JPY is trading near a 40‑year high above 162.00 while Japanese Government Bonds are outperforming. Strong demand at the 20‑year auction and comments from Finance Minister Satsuki Katayama encouraging more domestic investment support JGBs.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-jgb-outperformance-and-repatriation-story-bbh-202607141210",
+      "published": "2026-07-14T12:10:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Inflation risks skewed to downside – Commerzbank",
+      "summary": "Commerzbank’s Michael Pfister argues recent US Dollar strength rests on increasingly hawkish Federal Reserve expectations that may be overdone.",
+      "link": "https://www.fxstreet.com/news/us-dollar-inflation-risks-skewed-to-downside-commerzbank-202607141159",
+      "published": "2026-07-14T11:59:09+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index holds correction near 101.10, eyes on inflation data",
+      "summary": "The US Dollar (USD) holds its early corrective move in Tuesday’s European session ahead of the United States (US) Consumer Price Index (CPI) data for June, which will be published at 12:30 GMT.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-correction-near-10110-eyes-on-inflation-data-202607141156",
+      "published": "2026-07-14T11:56:53+00:00",
+      "score": 3
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Does any one trades like this in gold?",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1uw6j5a/does_any_one_trades_like_this_in_gold/\"> <img alt=\"Does any one trades like this in gold?\" src=\"https://preview.redd.it/1tygqfkgp6dh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=76ba7aac923c6657c732c7619a34448b4e0c0a06\" title=\"Does any one trades like this in gold?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>th",
+      "link": "https://www.reddit.com/r/Forex/comments/1uw6j5a/does_any_one_trades_like_this_in_gold/",
+      "published": "2026-07-14T11:55:12+00:00",
       "score": 1
     },
     {
@@ -37,15 +199,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1uw646k/cpi_data/",
       "published": "2026-07-14T11:35:06+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs Q2 2026 Earnings",
-      "summary": "<ul><li>EPS $20.98, est. $14.45</li><li>Net rev. $20.34b, est. $16.35B</li><li>Loans $2618, est. $255.48</li><li>Net interest income $3.95b, est. $3.53b</li><li>Advisory rev $1.38b, est. $1.39b</li><li>Provision for credit losses $102m, est. $171.2m</li><li>AUM $4.04t, est. $3.79t</li><li>Investment banking rev. $3.40b, est. $2.88b</li><li>Total deposits $558b</li><li>Global banking &amp; markets ",
-      "link": "https://www.financialjuice.com/News/9676958/Goldman-Sachs-Q2-2026-Earnings.aspx?xy=rss",
-      "published": "2026-07-14T11:26:45+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -68,29 +221,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold clings to $4,000 as traders brace for US CPI",
-      "summary": "Gold (XAU/USD) trades in a narrow range on Tuesday, with bulls defending the $4,000 psychological mark as traders await the US June Consumer Price Index (CPI) data, due at 12:30 GMT, and closely monitor the fragile situation in the Middle East.",
-      "link": "https://www.fxstreet.com/news/gold-clings-to-4-000-as-traders-brace-for-us-cpi-202607141113",
-      "published": "2026-07-14T11:13:09+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Fed: Data-driven path through summer – Commerzbank",
       "summary": "Commerzbank’s Christoph Rieger argues that US CPI and Fed Chair Warsh’s testimony will shape Fed expectations over summer, with markets currently pricing roughly a 50/50 chance of a July hike and more than 25bp by September.",
       "link": "https://www.fxstreet.com/news/fed-data-driven-path-through-summer-commerzbank-202607141106",
       "published": "2026-07-14T11:06:02+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US CPI data set to show inflation slowed in June as market bets on rate hikes persist",
-      "summary": "The US Bureau of Labor Statistics (BLS) will publish the June Consumer Price Index (CPI) data on Tuesday. The report is expected to show a decline in consumer inflation, driven by the easing of crude Oil prices following the ceasefire announcement between the United States (USD) and Iran.",
-      "link": "https://www.fxstreet.com/news/us-cpi-data-set-to-show-inflation-cooled-in-june-due-to-tumbling-fuel-prices-202607140830",
-      "published": "2026-07-14T11:00:00+00:00",
-      "score": 3
     },
     {
       "source": "FXStreet",
@@ -111,24 +246,6 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee slumps as oil prices surge, US CPI data awaited",
-      "summary": "The Indian Rupee trades significantly lower against the US Dollar (USD) on Tuesday. The USD/INR pair posts a fresh seven-week high near 96.20 as surging oil prices and United States (US) Treasury Yields due to threats of levy from Washington have weakened the appeal of the Indian currency.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-drifts-sharply-lower-as-us-claims-right-of-hormuz-toll-fee-202607140537",
-      "published": "2026-07-14T10:07:03+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Domestic savings shift aids JGBs and JPY – MUFG",
-      "summary": "MUFG’s Lee Hardman notes Japanese government bond yields have fallen despite higher global yields, with Japanese Government Bonds (JGBs) supported by verbal intervention from policymakers.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-domestic-savings-shift-aids-jgbs-and-jpy-mufg-202607141002",
-      "published": "2026-07-14T10:02:49+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "S&p 500 outlook",
@@ -138,84 +255,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/USD Price Forecast: Pound holds above 1.3350 with the 200-day SMA capping gains",
-      "summary": "The British Pound (GBP) appreciates against the US Dollar (USD)  on Tuesday to trim previous losses and return to the 1.3375 area, aiming to retest resistance at the key 200-day Simple Moving Average (SMA).",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-pound-holds-above-13350-with-the-200-day-sma-capping-gains-202607140957",
-      "published": "2026-07-14T09:57:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Tailwinds build as oil and Fed reprice – OCBC",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong note the US Dollar (USD) has strengthened broadly on higher Oil prices, hawkish Federal Reserve (Fed) rhetoric and softer risk sentiment.",
-      "link": "https://www.fxstreet.com/news/us-dollar-tailwinds-build-as-oil-and-fed-reprice-ocbc-202607140953",
-      "published": "2026-07-14T09:53:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed: Guidance, reaction function and rates – BNY",
-      "summary": "BNY Markets strategists John Velis and David Tam discuss new Federal Reserve (Fed) task forces and focus on the Communications group led by Mervyn King, Arminio Fraga and Peter Fisher.",
-      "link": "https://www.fxstreet.com/news/fed-guidance-reaction-function-and-rates-bny-202607140933",
-      "published": "2026-07-14T09:33:45+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: German 2 Yr Schatz Yield Actual 2.77% (Forecast -, Previous 2.57%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9676809/German-2-Yr-Schatz-Yield-Actual-277-Forecast---Previous-257.aspx?xy=rss",
-      "published": "2026-07-14T09:32:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) rose on Tuesday, according to FXStreet data. Silver trades at $58.08 per troy ounce, up 0.76% from the $57.65 it cost on Monday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202607140930",
-      "published": "2026-07-14T09:30:47+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MUFG: The JPY - FJElite",
-      "summary": "<div>While government bond yields have risen in response to higher energy prices, it has been notable that JGB yields have fallen again overnight. The 10-year and 30-year JGB yields have dropped by 7bps and 16bps respectively. JGBs are deriving more support from verbal intervention from Japanese policymakers indicating that they will encourage domestic investors to increase portfolio allocations t",
-      "link": "https://www.financialjuice.com/News/9676796/MUFG-The-JPY---FJElite.aspx?xy=rss",
-      "published": "2026-07-14T09:29:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Oil: Hormuz risk repricing lifts prices – Rabobank",
-      "summary": "Rabobank's Michael Every highlights a sharp Oil rally ahead of United States (US) Consumer Price Index (CPI) and Fed Chair Warsh’s testimony, with prices jumping 9% and then another 2.5% to $85.",
-      "link": "https://www.fxstreet.com/news/oil-hormuz-risk-repricing-lifts-prices-rabobank-202607140923",
-      "published": "2026-07-14T09:23:07+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD holds above $58.00 despite ongoing bearish bias",
-      "summary": "XAG/USD gains ground after two days of losses, trading around $58.10 per troy ounce during the European hours on Tuesday. The technical analysis of the daily chart shows that the spot price is remaining within the descending channel pattern.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-above-5800-despite-ongoing-bearish-bias-202607140921",
-      "published": "2026-07-14T09:21:01+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump is very serious about 20% fee plan for Hormuz - Semafor.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9676795/Trump-is-very-serious-about-20-fee-plan-for-Hormuz---Semafor.aspx?xy=rss",
-      "published": "2026-07-14T09:20:21+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP 'VERY SERIOUS' ABOUT 20% FEE PLAN FOR HORMUZ: SEMAFOR",
+      "summary": "<p>*TRUMP 'VERY SERIOUS' ABOUT 20% FEE PLAN FOR HORMUZ: SEMAFOR</p>",
+      "link": "https://nitter.net/DeItaone/status/2076959630949814404#m",
+      "published": "2026-07-14T09:18:58+00:00",
       "score": 1
     },
     {
@@ -246,12 +291,84 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP PROPOSES 20% FEE ON CARGO SHIPPED THROUGH STRAIT OF HORMUZ: SEMAFOR US REIMPOSED NAVAL BLOCKADE ON IRAN, TRUMP FORMALLY NOTIFIED CONGRESS: SEMAFOR",
+      "summary": "<p>TRUMP PROPOSES 20% FEE ON CARGO SHIPPED THROUGH STRAIT OF HORMUZ: SEMAFOR <br />\n<br />\nUS REIMPOSED NAVAL BLOCKADE ON IRAN, TRUMP FORMALLY NOTIFIED CONGRESS: SEMAFOR</p>",
+      "link": "https://nitter.net/DeItaone/status/2076801496960630815#m",
+      "published": "2026-07-13T22:50:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "IRAN WAR RESUMES — HORMUZ OUTLOOK WORSENS Trump has formally notified Congress that U.S. hostilities against Iran have resumed, claiming a new 60-day military window. As Washington reinstates its blockade, Kalshi puts the chance of Hormuz traffic normalizing before 2027 at just 46%. https://kalshi.com/markets/kxhormuznorm/when-will-traffic-at-the-strait-of-hormuz-return-to-normal/kxhormuznorm-26mar17",
+      "summary": "<p>IRAN WAR RESUMES — HORMUZ OUTLOOK WORSENS<br />\n<br />\nTrump has formally notified Congress that U.S. hostilities against Iran have resumed, claiming a new 60-day military window.<br />\n<br />\nAs Washington reinstates its blockade, Kalshi puts the chance of Hormuz traffic normalizing before 2027 at just 46%.<br />\n<br />\n<a href=\"https://kalshi.com/markets/kxhormuznorm/when-will-traffic-at-the-",
+      "link": "https://nitter.net/DeItaone/status/2076801077693870364#m",
+      "published": "2026-07-13T22:48:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP DEMANDS 20% HORMUZ CARGO FEE President Trump is proposing a 20% charge on cargo shipped through the Strait of Hormuz—about $30 million for a fully loaded oil supertanker. The shipping industry reacted with surprise, citing no warning or details. Iran’s foreign minister agreed secure passage should be compensated but called 20% excessive. Hormuz carries roughly one-fifth of global oil and gas flows.",
+      "summary": "<p>TRUMP DEMANDS 20% HORMUZ CARGO FEE<br />\n<br />\nPresident Trump is proposing a 20% charge on cargo shipped through the Strait of Hormuz—about $30 million for a fully loaded oil supertanker.<br />\n<br />\nThe shipping industry reacted with surprise, citing no warning or details.<br />\n<br />\nIran’s foreign minister agreed secure passage should be compensated but called 20% excessive.<br />\n<br />",
+      "link": "https://nitter.net/DeItaone/status/2076798855408963654#m",
+      "published": "2026-07-13T22:40:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SIGNED REGULATORY RELIEF FOR ‘CERTAIN STATIONARY SOURCES’",
+      "summary": "<p>TRUMP SIGNED REGULATORY RELIEF FOR ‘CERTAIN STATIONARY SOURCES’</p>",
+      "link": "https://nitter.net/DeItaone/status/2076798040233443541#m",
+      "published": "2026-07-13T22:36:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: THINK A DEAL IS POSSIBLE",
+      "summary": "<p>TRUMP ON IRAN: THINK A DEAL IS POSSIBLE</p>",
+      "link": "https://nitter.net/DeItaone/status/2076791408803864827#m",
+      "published": "2026-07-13T22:10:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: WANT TO BE REIMBURSED FOR PROTECTING COUNTRIES THAT WE'RE HELPING IN STRAIT OF HORMUZ",
+      "summary": "<p>TRUMP ON IRAN: WANT TO BE REIMBURSED FOR PROTECTING COUNTRIES THAT WE'RE HELPING IN STRAIT OF HORMUZ</p>",
+      "link": "https://nitter.net/DeItaone/status/2076791361957769359#m",
+      "published": "2026-07-13T22:10:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: DOING ANOTHER MAJOR ATTACK MONDAY NIGHT",
+      "summary": "<p>TRUMP ON IRAN: DOING ANOTHER MAJOR ATTACK MONDAY NIGHT</p>",
+      "link": "https://nitter.net/DeItaone/status/2076791243724456048#m",
+      "published": "2026-07-13T22:09:52+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump has formally notified US Congress that the US is at war with Iran, per Politico. Details include: 1. The move gives Trump another 60 days to use the military in the region without congressional approval 2. Trump said strikes that began on July 7th represent \"military action consistent with my responsibility to protect Americans and US interests both at home and abroad\" 3. Trump also just said that he will \"hit Iran hard\" tonight amid mounting tensions The Iran War appears to be back again.",
       "summary": "<p>BREAKING: President Trump has formally notified US Congress that the US is at war with Iran, per Politico.<br />\n<br />\nDetails include:<br />\n<br />\n1. The move gives Trump another 60 days to use the military in the region without congressional approval<br />\n<br />\n2. Trump said strikes that began on July 7th represent \"military action consistent with my responsibility to protect Americans an",
       "link": "https://nitter.net/KobeissiLetter/status/2076777484775985242#m",
       "published": "2026-07-13T21:15:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "OIL SURGES AS TRUMP SAYS US WANTS 20% CHARGE FOR HORMUZ FLOW",
+      "summary": "<p>OIL SURGES AS TRUMP SAYS US WANTS 20% CHARGE FOR HORMUZ FLOW</p>",
+      "link": "https://nitter.net/DeItaone/status/2076765994140225892#m",
+      "published": "2026-07-13T20:29:32+00:00",
       "score": 1
     },
     {
@@ -262,6 +379,24 @@
       "link": "https://www.reddit.com/r/Forex/comments/1uvn8ba/why_you_should_be_looking_at_dxy_for_market/",
       "published": "2026-07-13T20:28:16+00:00",
       "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: WE ARE GOING TO TAKE OUT PICKAXE MOUNTAIN -HUGH HEWITT SHOW",
+      "summary": "<p>TRUMP ON IRAN: WE ARE GOING TO TAKE OUT PICKAXE MOUNTAIN -HUGH HEWITT SHOW</p>",
+      "link": "https://nitter.net/DeItaone/status/2076765517814136914#m",
+      "published": "2026-07-13T20:27:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "SMARTPHONE SHIPMENTS HIT A 13-YEAR LOW Global smartphone shipments fell 11% in Q2, reaching their lowest level for the period since 2013. A memory chip shortage has pushed up phone prices and weakened demand, hitting Xiaomi, Oppo, and Vivo hardest. Samsung regained the top position, while Apple reached a record 20% global market share. Meanwhile, strong AI-driven demand continues to benefit memory chipmakers.",
+      "summary": "<p>SMARTPHONE SHIPMENTS HIT A 13-YEAR LOW<br />\n<br />\nGlobal smartphone shipments fell 11% in Q2, reaching their lowest level for the period since 2013.<br />\n<br />\nA memory chip shortage has pushed up phone prices and weakened demand, hitting Xiaomi, Oppo, and Vivo hardest.<br />\n<br />\nSamsung regained the top position, while Apple reached a record 20% global market share.<br />\n<br />\nMeanwhi",
+      "link": "https://nitter.net/DeItaone/status/2076764884453482872#m",
+      "published": "2026-07-13T20:25:07+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -361,15 +496,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1uv2q72/trade_breakdown_gold/",
       "published": "2026-07-13T05:43:04+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: US stock market futures open slightly lower after Iran declares the Strait of Hormuz closed again: 1. S&P 500: -0.1% 2. Nasdaq 100: -0.3% 3. Dow Jones: -0.1% 4. WTI Crude: +3.0% 5. Brent: +2.5% 6. Gold: -0.3% The \"Memorandum of Understanding\" appears to have come to an end.",
-      "summary": "<p>BREAKING: US stock market futures open slightly lower after Iran declares the Strait of Hormuz closed again:<br />\n<br />\n1. S&amp;P 500: -0.1%<br />\n2. Nasdaq 100: -0.3%<br />\n3. Dow Jones: -0.1%<br />\n4. WTI Crude: +3.0%<br />\n5. Brent: +2.5%<br />\n6. Gold: -0.3%<br />\n<br />\nThe \"Memorandum of Understanding\" appears to have come to an end.</p>",
-      "link": "https://nitter.net/KobeissiLetter/status/2076426843725377908#m",
-      "published": "2026-07-12T22:01:52+00:00",
-      "score": 3
     },
     {
       "source": "Federal Reserve",
