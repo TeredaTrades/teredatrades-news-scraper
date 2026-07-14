@@ -1,24 +1,87 @@
 {
-  "updated_at": "2026-07-14T03:34:49.489461+00:00",
-  "count": 68,
+  "updated_at": "2026-07-14T05:57:31.408582+00:00",
+  "count": 67,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Nvidia cuts Asia buyer list in China chip crackdown: FT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9676347/Nvidia-cuts-Asia-buyer-list-in-China-chip-crackdown-FT.aspx?xy=rss",
-      "published": "2026-07-14T03:25:58+00:00",
+      "title": "Gold recovers further beyond $4,000 amid softer USD; focus remains on US CPI, Fed's Warsh",
+      "summary": "Gold (XAU/USD) builds on its steady intraday recovery from a nearly two-week low, touched during the Asian session on Tuesday, and climbs to the $4,023-$4,024 region in the last hour.",
+      "link": "https://www.fxstreet.com/news/gold-bounces-off-two-week-low-as-usd-bulls-turn-cautious-ahead-of-us-cpi-feds-warsh-202607140350",
+      "published": "2026-07-14T05:10:42+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "NZD/USD Price Forecast: Hits four-week top on hawkish RBNZ; eyes 0.5810-0.5820 confluence",
+      "summary": "The NZD/USD pair catches aggressive bids during the Asian session on Tuesday and jumps to a nearly four-week top in the last hour amid a combination of supporting factors.",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-hits-four-week-top-on-hawkish-rbnz-eyes-05810-05820-confluence-202607140449",
+      "published": "2026-07-14T04:49:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc advances as US Dollar slips despite Fed rate hike odds",
+      "summary": "USD/CHF declines after two days of gains, trading around 0.8140 during the Asian hours on Tuesday. Traders will likely observe the Swiss Producer and Import Prices data for June due later in the day.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-advances-as-us-dollar-slips-despite-fed-rate-hike-odds-202607140447",
+      "published": "2026-07-14T04:47:26+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Tuesday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202607140435",
+      "published": "2026-07-14T04:35:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Tests nine-day EMA barrier near 0.6950",
+      "summary": "AUD/USD edges higher after posting 0.5% losses in the previous day, trading around 0.6930 during the Asian hours on Tuesday. The technical analysis of the daily chart shows the pair remaining within the descending channel pattern, suggesting a prevailing bearish bias.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-tests-nine-day-ema-barrier-near-06950-202607140347",
+      "published": "2026-07-14T03:47:40+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: China June copper concentrates and ore imports at 2.34 million metric tons: customs",
+      "title": "FinancialJuice: China finance ministry offers 20-year ultra-long special treasury bonds at 2.24% yield: traders",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9676287/China-June-copper-concentrates-and-ore-imports-at-234-million-metric-tons-customs.aspx?xy=rss",
-      "published": "2026-07-14T02:51:39+00:00",
+      "link": "https://www.financialjuice.com/News/9676360/China-finance-ministry-offers-20-year-ultra-long-special-treasury-bonds-at-224-yield-traders.aspx",
+      "published": "2026-07-14T03:39:01+00:00",
       "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: China finance ministry auctions 1-year bonds at 1.07% yield: traders",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9676359/China-finance-ministry-auctions-1-year-bonds-at-107-yield-traders.aspx",
+      "published": "2026-07-14T03:38:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia cuts Asia buyer list in China chip crackdown: FT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9676347/Nvidia-cuts-Asia-buyer-list-in-China-chip-crackdown-FT.aspx",
+      "published": "2026-07-14T03:25:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index declines despite rising safe-haven demand, Fed rate hike odds",
+      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is losing ground after two days of gains and is trading around 101.20 during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-declines-despite-rising-safe-haven-demand-fed-rate-hike-odds-202607140302",
+      "published": "2026-07-14T03:02:46+00:00",
+      "score": 3
     },
     {
       "source": "FXStreet",
@@ -84,15 +147,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar weakens to near 0.6900 as US launches more strikes against Iran",
-      "summary": "The AUD/USD pair trades with mild losses around 0.6915 during the early Asian session on Tuesday. Ongoing geopolitical tensions in the Middle East continue to boost a safe-haven currency such as the US Dollar (USD) against the Australian Dollar (AUD).",
-      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-to-near-06900-as-us-launches-more-strikes-against-iran-202607140028",
-      "published": "2026-07-14T00:28:53+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: US oil prices officially surge above $80/barrel as President Trump reimposes the US blockade of the Strait of Hormuz and the Iran War resumes.",
@@ -102,39 +156,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Iranian missiles hit two UAE tankers in Hormuz — Reuters",
-      "summary": "The United Arab Emirates (UAE) Ministry of Defence said that two UAE national tankers, the Mombasa and Al Bahiyah, were targeted by two Iranian cruise missiles in the southern lane of the Strait of Hormuz, in Omani territorial waters, Reuters reported on Tuesday.",
-      "link": "https://www.fxstreet.com/news/iranian-missiles-hit-two-uae-tankers-in-hormuz-reuters-202607132334",
-      "published": "2026-07-13T23:34:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold tumbles below $4,000 on Trump’s Iran port blockade move, US CPI data looms",
-      "summary": "Gold price (XAU/USD) remains under selling pressure near $3,995 during the early Asian session on Tuesday. The precious metal extends its downside as renewed US-Iran tensions keep inflationary pressures high.",
-      "link": "https://www.fxstreet.com/news/gold-tumbles-below-4-000-on-trumps-iran-port-blockade-move-us-cpi-data-looms-202607132325",
-      "published": "2026-07-13T23:25:58+00:00",
-      "score": 7
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "Risk appetite is reaching historic levels: The 10-day moving average of S&P 500 options volume is up to a record ~5.5 million contracts. Since 2022, this figure has more than TRIPLED. Over the same period, Euro Stoxx 50 options volume has remained roughly unchanged, near ~1 million contracts. As a result, US options volumes are now more than 5 times larger than that of Europe. By comparison, options activity in these two markets moved in tandem before 2022. The US options market boom is unprecedented.",
       "summary": "<p>Risk appetite is reaching historic levels:<br />\n<br />\nThe 10-day moving average of S&amp;P 500 options volume is up to a record ~5.5 million contracts.<br />\n<br />\nSince 2022, this figure has more than TRIPLED.<br />\n<br />\nOver the same period, Euro Stoxx 50 options volume has remained roughly unchanged, near ~1 million contracts.<br />\n<br />\nAs a result, US options volumes are now more th",
       "link": "https://nitter.net/KobeissiLetter/status/2076808376550305879#m",
       "published": "2026-07-13T23:17:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "RBNZ's Conway: Inflation to return to 2% over medium term",
-      "summary": "Reserve Bank of New Zealand (RBNZ) Chief Economist Paul Conway said on Tuesday that the central bank is not discussing a shift to a tightened policy stance, adding that inflation is to return to 2% over the medium term.",
-      "link": "https://www.fxstreet.com/news/rbnzs-conway-inflation-to-return-to-2-over-medium-term-202607132309",
-      "published": "2026-07-13T23:09:36+00:00",
       "score": 1
     },
     {
@@ -153,15 +180,6 @@
       "summary": "<p>IRAN WAR RESUMES — HORMUZ OUTLOOK WORSENS<br />\n<br />\nTrump has formally notified Congress that U.S. hostilities against Iran have resumed, claiming a new 60-day military window.<br />\n<br />\nAs Washington reinstates its blockade, Kalshi puts the chance of Hormuz traffic normalizing before 2027 at just 46%.<br />\n<br />\n<a href=\"https://kalshi.com/markets/kxhormuznorm/when-will-traffic-at-the-",
       "link": "https://nitter.net/DeItaone/status/2076801077693870364#m",
       "published": "2026-07-13T22:48:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Malaysian Ringgit: Johor result keeps policy continuity – OCBC",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong note that Barisan Nasional’s strong win in Johor reinforces UMNO’s political momentum but leaves federal policy continuity intact, limiting immediate implications for the Malaysian Ringgit (MYR).",
-      "link": "https://www.fxstreet.com/news/malaysian-ringgit-johor-result-keeps-policy-continuity-ocbc-202607132247",
-      "published": "2026-07-13T22:47:00+00:00",
       "score": 1
     },
     {
@@ -208,33 +226,6 @@
       "link": "https://nitter.net/DeItaone/status/2076791243724456048#m",
       "published": "2026-07-13T22:09:52+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Malaysian Ringgit: Johor result keeps policy continuity – OCBC",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong note that Barisan Nasional’s strong win in Johor reinforces UMNO’s political momentum but leaves federal policy continuity intact, limiting immediate implications for the Malaysian Ringgit (MYR).",
-      "link": "https://www.fxstreet.com/news/malaysian-ringgit-johor-result-keeps-policy-continuity-ocbc-202607132202",
-      "published": "2026-07-13T22:02:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound Sterling buckles as Trump builds the Hormuz toll booth he swore would never exist",
-      "summary": "The British Pound Sterling is spending Monday learning the difference between a recovery and a reprieve.",
-      "link": "https://www.fxstreet.com/news/british-pound-sterling-buckles-as-trump-builds-the-hormuz-toll-booth-he-swore-would-never-exist-202607132158",
-      "published": "2026-07-13T21:58:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro slides as Waller warning, Iran strikes lift US Dollar",
-      "summary": "The shared currency begins the week on a lower note, down 0.31% as risk aversion fueled flows towards the US Dollar amid heightened tensions in the Middle East. Also, hawkish comments by a Fed official underpinned US Treasury yields, suggesting markets expect the US central bank to raise rates.",
-      "link": "https://www.fxstreet.com/news/euro-slides-as-waller-warning-iran-strikes-lift-us-dollar-202607132130",
-      "published": "2026-07-13T21:30:00+00:00",
-      "score": 3
     },
     {
       "source": "Kobeissi Letter",
