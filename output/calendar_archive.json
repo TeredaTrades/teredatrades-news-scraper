@@ -728,6 +728,22 @@
     "previous": "105.4B"
   },
   {
+    "title": "Trade Balance",
+    "country": "CNY",
+    "date": "2026-07-13T22:31:00-04:00",
+    "impact": "Low",
+    "forecast": "810B",
+    "previous": "724B"
+  },
+  {
+    "title": "USD-Denominated Trade Balance",
+    "country": "CNY",
+    "date": "2026-07-13T22:31:00-04:00",
+    "impact": "Low",
+    "forecast": "119.5B",
+    "previous": "105.4B"
+  },
+  {
     "title": "Revised Industrial Production m/m",
     "country": "JPY",
     "date": "2026-07-14T00:30:00-04:00",
