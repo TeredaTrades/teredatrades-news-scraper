@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-07-14T19:43:25.011595+00:00",
-  "count": 53,
+  "updated_at": "2026-07-14T20:45:00.809491+00:00",
+  "count": 58,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: OpenAI on Apple lawsuit: We take these allegations seriously. $AAPL",
+      "title": "FinancialJuice: OpenAI believes the device doesn’t violate Apple’s trade secrets $AAPL",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9677818/OpenAI-on-Apple-lawsuit-We-take-these-allegations-seriously-AAPL.aspx",
-      "published": "2026-07-14T19:34:50+00:00",
+      "link": "https://www.financialjuice.com/News/9677905/OpenAI-believes-the-device-doesnt-violate-Apples-trade-secrets-AAPL.aspx",
+      "published": "2026-07-14T20:41:06+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Wednesday FX Option Expiries",
-      "summary": "<div><ul><li><strong>EUR/USD:</strong> 1.1380 (EU1.38b), 1.1500 (EU1.27b), 1.1650 (EU797.3m)</li><li><strong>USD/JPY:</strong> 160.50 ($1.91b), 162.00 ($857.4m), 155.85 ($620m)</li><li><strong>GBP/USD: </strong>1.2900 (GBP1.01b), 1.3400 (GBP639.6m), 1.2750 (GBP587.9m)</li><li><strong>EUR/GBP: </strong>0.9000 (EU913.1m), 0.8530 (EU332.4m), 0.8730 (EU302.4m)</li><li><strong>AUD/USD: </strong>0.6900 ",
-      "link": "https://www.financialjuice.com/News/9677792/Wednesday-FX-Option-Expiries.aspx",
-      "published": "2026-07-14T19:22:02+00:00",
-      "score": 1
+      "title": "USD/CHF Price Forecast: Pulls below 0.8100 but remains bullish",
+      "summary": "The USD/CHF tumbles by 0.70% on Tuesday, trading at 0.8091, as the latest US inflation report prompted market participants to pare hawkish bets that the Federal Reserve might cut the Fed funds rate this year.",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-pulls-below-08100-but-remains-bullish-202607141950",
+      "published": "2026-07-14T19:50:25+00:00",
+      "score": 3
     },
     {
       "source": "FXStreet",
@@ -84,6 +84,60 @@
       "score": 5
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: THEY SHOT FIRST, WAS BIG MISTAKE",
+      "summary": "<p>TRUMP: THEY SHOT FIRST, WAS BIG MISTAKE</p>",
+      "link": "https://nitter.net/DeItaone/status/2077064424666361962#m",
+      "published": "2026-07-14T16:15:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: I DON'T THINK ANYBODY SHOULD BE ABLE TO CHARGE A FEE FOR THE STRAIT",
+      "summary": "<p>TRUMP: I DON'T THINK ANYBODY SHOULD BE ABLE TO CHARGE A FEE FOR THE STRAIT</p>",
+      "link": "https://nitter.net/DeItaone/status/2077062883490283696#m",
+      "published": "2026-07-14T16:09:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: GULF STATES ARE GOING TO INVEST IN U.S. AND I THINK THAT'S BETTER",
+      "summary": "<p>TRUMP: GULF STATES ARE GOING TO INVEST IN U.S. AND I THINK THAT'S BETTER</p>",
+      "link": "https://nitter.net/DeItaone/status/2077062802888380626#m",
+      "published": "2026-07-14T16:08:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: WAS CALLED BY DIFFERENT COUNTRIES THAT SAID WE'D LIKE TO INVEST IN U.S. INSTEAD OF CHARGING FEE FOR STRAIT OF HORMUZ PASSAGE",
+      "summary": "<p>TRUMP: WAS CALLED BY DIFFERENT COUNTRIES THAT SAID WE'D LIKE TO INVEST IN U.S. INSTEAD OF CHARGING FEE FOR STRAIT OF HORMUZ PASSAGE</p>",
+      "link": "https://nitter.net/DeItaone/status/2077062665776554065#m",
+      "published": "2026-07-14T16:08:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: WE ARE THERE FOR IRAQ IF THEY NEED PROTECTION",
+      "summary": "<p>TRUMP: WE ARE THERE FOR IRAQ IF THEY NEED PROTECTION</p>",
+      "link": "https://nitter.net/DeItaone/status/2077061822604001303#m",
+      "published": "2026-07-14T16:05:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We don't think we need our military in there now",
+      "summary": "<p>Trump: We don't think we need our military in there now</p>",
+      "link": "https://nitter.net/DeItaone/status/2077061671680360571#m",
+      "published": "2026-07-14T16:04:27+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "Dow Jones Industrial Average sits out the disinflation party",
@@ -129,6 +183,15 @@
       "score": 3
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "OIL FUTURES PARE GAINS, U.S. CRUDE TURNS NEGATIVE AFTER US PRESIDENT TRUMP SAYS STRAIT OF HORMUZ OPEN TO ALL SHIP TRAFFIC EXCEPT FOR IRAN",
+      "summary": "<p>OIL FUTURES PARE GAINS, U.S. CRUDE TURNS NEGATIVE AFTER US PRESIDENT TRUMP SAYS STRAIT OF HORMUZ OPEN TO ALL SHIP TRAFFIC EXCEPT FOR IRAN</p>",
+      "link": "https://nitter.net/DeItaone/status/2077048423220478116#m",
+      "published": "2026-07-14T15:11:48+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump announces a \"full blockade\" on the Strait of Hormuz. Trump also says he has decided to \"replace the 20% US reimbursement fee with trade and investment deals\" from Gulf countries.",
@@ -172,15 +235,6 @@
       "link": "https://www.fxstreet.com/news/why-japans-massive-foreign-assets-could-be-the-japanese-yens-long-awaited-catalyst-202607141430",
       "published": "2026-07-14T14:30:41+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound strengthens after US CPI surprises to the downside",
-      "summary": "The British Pound (GBP) strengthens against the US Dollar (USD) on Tuesday after US inflation data surprised to the downside, reducing expectations of a near-term Federal Reserve (Fed) interest rate hike.",
-      "link": "https://www.fxstreet.com/news/british-pound-strengthens-after-us-cpi-surprises-to-the-downside-202607141403",
-      "published": "2026-07-14T14:03:39+00:00",
-      "score": 4
     },
     {
       "source": "Kobeissi Letter",
@@ -306,15 +360,6 @@
       "summary": "<p>BREAKING: President Trump says he will be addressing the nation on Thursday at 9 PM ET.</p>\n<img src=\"https://nitter.net/pic/media%2FHNIRa52WMAAcaxA.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2076753955418210379#m",
       "published": "2026-07-13T19:41:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Iran’s Foreign Minister Araghchi responds to President Trump announcing a 20% fee to transit the Strait of Hormuz: “POTUS is absolutely right. Whoever provides secure and safe passage of commercial vessels through the Strait of Hormuz should be compensated for this service. Iran has always been the guardian of the Strait and will remain so forever. 20% is of course too much. We will be fair,” he says.",
-      "summary": "<p>BREAKING: Iran’s Foreign Minister Araghchi responds to President Trump announcing a 20% fee to transit the Strait of Hormuz:<br />\n<br />\n“POTUS is absolutely right. Whoever provides secure and safe passage of commercial vessels through the Strait of Hormuz should be compensated for this service. <br />\n<br />\nIran has always been the guardian of the Strait and will remain so forever.<br />\n<br",
-      "link": "https://nitter.net/KobeissiLetter/status/2076742442812842203#m",
-      "published": "2026-07-13T18:55:57+00:00",
       "score": 1
     },
     {
