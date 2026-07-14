@@ -1052,7 +1052,7 @@
     "country": "USD",
     "date": "2026-07-15T08:30:00-04:00",
     "impact": "High",
-    "forecast": "0.4%",
+    "forecast": "0.3%",
     "previous": "0.4%"
   },
   {
@@ -1068,7 +1068,7 @@
     "country": "USD",
     "date": "2026-07-15T08:30:00-04:00",
     "impact": "Low",
-    "forecast": "9.4",
+    "forecast": "9.3",
     "previous": "5.7"
   },
   {
@@ -1124,7 +1124,7 @@
     "country": "USD",
     "date": "2026-07-15T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-1.8M",
     "previous": "3.0M"
   },
   {
@@ -1316,7 +1316,7 @@
     "country": "USD",
     "date": "2026-07-16T10:00:00-04:00",
     "impact": "Low",
-    "forecast": "-0.4%",
+    "forecast": "-0.5%",
     "previous": "3.8%"
   },
   {
@@ -1324,7 +1324,7 @@
     "country": "USD",
     "date": "2026-07-16T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "45B",
     "previous": "61B"
   },
   {
@@ -1364,6 +1364,14 @@
     "country": "USD",
     "date": "2026-07-16T19:00:00-04:00",
     "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "date": "2026-07-16T21:00:00-04:00",
+    "impact": "Medium",
     "forecast": "",
     "previous": ""
   },
