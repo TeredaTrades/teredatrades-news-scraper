@@ -1,96 +1,60 @@
 {
-  "updated_at": "2026-07-14T18:06:04.568850+00:00",
-  "count": 61,
+  "updated_at": "2026-07-14T19:43:25.011595+00:00",
+  "count": 53,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: Fed Chair Warsh has expressed different ideas about dot plot, balance sheet; reexaminations are healthy.",
+      "title": "FinancialJuice: OpenAI on Apple lawsuit: We take these allegations seriously. $AAPL",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9677655/Feds-Goolsbee-Fed-Chair-Warsh-has-expressed-different-ideas-about-dot-plot-balance-sheet-reexaminations-are-healthy.aspx?xy=rss",
-      "published": "2026-07-14T17:58:36+00:00",
+      "link": "https://www.financialjuice.com/News/9677818/OpenAI-on-Apple-lawsuit-We-take-these-allegations-seriously-AAPL.aspx",
+      "published": "2026-07-14T19:34:50+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: Job market is stable without being good.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9677634/Feds-Goolsbee-Job-market-is-stable-without-being-good.aspx?xy=rss",
-      "published": "2026-07-14T17:29:22+00:00",
+      "title": "FinancialJuice: Wednesday FX Option Expiries",
+      "summary": "<div><ul><li><strong>EUR/USD:</strong> 1.1380 (EU1.38b), 1.1500 (EU1.27b), 1.1650 (EU797.3m)</li><li><strong>USD/JPY:</strong> 160.50 ($1.91b), 162.00 ($857.4m), 155.85 ($620m)</li><li><strong>GBP/USD: </strong>1.2900 (GBP1.01b), 1.3400 (GBP639.6m), 1.2750 (GBP587.9m)</li><li><strong>EUR/GBP: </strong>0.9000 (EU913.1m), 0.8530 (EU332.4m), 0.8730 (EU302.4m)</li><li><strong>AUD/USD: </strong>0.6900 ",
+      "link": "https://www.financialjuice.com/News/9677792/Wednesday-FX-Option-Expiries.aspx",
+      "published": "2026-07-14T19:22:02+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: If I got PCE versions of inflation that looked like CPI for several months, I would be feeling a lot better.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9677631/Feds-Goolsbee-If-I-got-PCE-versions-of-inflation-that-looked-like-CPI-for-several-months-I-would-be-feeling-a-lot-better.aspx?xy=rss",
-      "published": "2026-07-14T17:27:36+00:00",
+      "title": "Gold price jumps as US inflation knocks the US Dollar off its pedestal",
+      "summary": "Gold price surges by some 1.50% on Tuesday as US consumer inflation data came in below estimates, easing pressure on the Federal Reserve (Fed) to further tighten ahead of 2026. The XAU/USD trades at $4,050 after bouncing off daily lows of $3,983.",
+      "link": "https://www.fxstreet.com/news/gold-price-jumps-as-us-inflation-knocks-the-us-dollar-off-its-pedestal-202607141857",
+      "published": "2026-07-14T18:57:54+00:00",
+      "score": 5
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Post CPI outlook",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1uwgjn2/post_cpi_outlook/\"> <img alt=\"Post CPI outlook\" src=\"https://preview.redd.it/8k0feofkk8dh1.jpg?width=140&amp;height=98&amp;auto=webp&amp;s=3df3f0d5afe93f09c22c480726ee79e23479f838\" title=\"Post CPI outlook\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>#DXY Seems we are going back to initial plan sweep those lows into t",
+      "link": "https://www.reddit.com/r/Forex/comments/1uwgjn2/post_cpi_outlook/",
+      "published": "2026-07-14T18:11:20+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Goolsbee: June CPI inflation data was “surprisingly benign”",
+      "summary": "Federal Reserve (Fed) Bank of Chicago President Austan Goolsbee said on Tuesday that the June Consumer Price Index (CPI) report was encouraging but cautioned against overreacting to a single month of data.",
+      "link": "https://www.fxstreet.com/news/feds-goolsbee-june-cpi-inflation-data-was-surprisingly-benign-202607141810",
+      "published": "2026-07-14T18:10:08+00:00",
       "score": 3
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: At least today, services inflation was encouraging.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9677629/Feds-Goolsbee-At-least-today-services-inflation-was-encouraging.aspx?xy=rss",
-      "published": "2026-07-14T17:26:30+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: Services inflation has been way too high.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9677628/Feds-Goolsbee-Services-inflation-has-been-way-too-high.aspx?xy=rss",
-      "published": "2026-07-14T17:26:17+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: If we got several months like this, we would feel better.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9677627/Feds-Goolsbee-If-we-got-several-months-like-this-we-would-feel-better.aspx?xy=rss",
-      "published": "2026-07-14T17:25:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: But never want to overreact to one month.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9677626/Feds-Goolsbee-But-never-want-to-overreact-to-one-month.aspx?xy=rss",
-      "published": "2026-07-14T17:25:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: June CPI inflation data was surprisingly benign.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9677625/Feds-Goolsbee-June-CPI-inflation-data-was-surprisingly-benign.aspx?xy=rss",
-      "published": "2026-07-14T17:24:55+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Tariff bill would give Trump new authorities, sources say - WSJ",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9677624/Tariff-bill-would-give-Trump-new-authorities-sources-say---WSJ.aspx?xy=rss",
-      "published": "2026-07-14T17:17:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Iran's President Pezeshkian: We will respond to Trump's rhetoric with action, and we will defend every inch of our land - Fars News",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9677618/Irans-President-Pezeshkian-We-will-respond-to-Trumps-rhetoric-with-action-and-we-will-defend-every-inch-of-our-land---Fars-News.aspx?xy=rss",
-      "published": "2026-07-14T17:12:25+00:00",
-      "score": 1
+      "title": "United States Dollar Index slips as soft US CPI dents Fed rate-hike bets",
+      "summary": "The US Dollar Index (DXY) comes under selling pressure on Tuesday after softer-than-expected United States (US) inflation data prompted traders to scale back expectations of an imminent Federal Reserve (Fed) interest rate hike.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-slips-as-soft-us-cpi-dents-fed-rate-hike-bets-202607141806",
+      "published": "2026-07-14T18:06:16+00:00",
+      "score": 4
     },
     {
       "source": "r/Forex",
@@ -104,7 +68,7 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Japanese Yen rises as cool US CPI slashes Fed hike bets",
+      "title": "Japanese Yen rises as cool US CPI slashes bets on Fed rate hikes",
       "summary": "The Japanese Yen registers gains of over 0.31% against the US Dollar as traders trim hawkish bets following a softer-than-expected US inflation report. The USD/JPY trades at 161.93 after reaching a daily high of 162.48.",
       "link": "https://www.fxstreet.com/news/japanese-yen-rises-as-cool-us-cpi-slashes-fed-hike-bets-202607141636",
       "published": "2026-07-14T16:36:56+00:00",
@@ -216,24 +180,6 @@
       "summary": "The British Pound (GBP) strengthens against the US Dollar (USD) on Tuesday after US inflation data surprised to the downside, reducing expectations of a near-term Federal Reserve (Fed) interest rate hike.",
       "link": "https://www.fxstreet.com/news/british-pound-strengthens-after-us-cpi-surprises-to-the-downside-202607141403",
       "published": "2026-07-14T14:03:39+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah : Under pressure with hawkish BI bias – Societe Generale",
-      "summary": "Societe Generale notes Bank Indonesia’s (BI) reaction function is driven by the Indonesian Rupiah (IDR) and exchange rate stability. The report says the Rupiah faces pressure from a stronger US Dollar (USD) and hawkish Federal Reserve (Fed) pricing, with stress around USD/IDR 18,000.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-under-pressure-with-hawkish-bi-bias-societe-generale-202607141351",
-      "published": "2026-07-14T13:51:18+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro jumps as softer-than-expected US CPI cools bets on rate hikes",
-      "summary": "EUR/USD snaps a two-day losing streak on Tuesday as softer-than-expected United States (US) inflation data weighs on the US Dollar (USD) and prompts traders to scale back expectations of a near-term Federal Reserve (Fed) interest rate hike.",
-      "link": "https://www.fxstreet.com/news/euro-jumps-as-softer-than-expected-us-cpi-cools-fed-rate-hike-bets-202607141328",
-      "published": "2026-07-14T13:28:25+00:00",
       "score": 4
     },
     {
@@ -370,24 +316,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2076742442812842203#m",
       "published": "2026-07-13T18:55:57+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Is it safe to trade Gold/Silver futures on Non-KYC platforms?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys,</p> <p>Have an idea of trading Gold/Silver futures but on Non-KYC platforms. Want to find a platform which requires No KYC also there is a small change of blocking account if I use a bot. </p> <p>Any experience with such kind of platforms? Also is it safe to trade there? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/u",
-      "link": "https://www.reddit.com/r/Forex/comments/1uvag6w/is_it_safe_to_trade_goldsilver_futures_on_nonkyc/",
-      "published": "2026-07-13T12:41:11+00:00",
-      "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "DXY, GU and EU outlook",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1uv8tvf/dxy_gu_and_eu_outlook/\"> <img alt=\"DXY, GU and EU outlook\" src=\"https://preview.redd.it/99irzjmcfzch1.jpg?width=140&amp;height=68&amp;auto=webp&amp;s=c08c7a06af2f38b1f1cda4caed65c36bdce99a22\" title=\"DXY, GU and EU outlook\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>#DXY looking Bearish now,,, i am looking for those ",
-      "link": "https://www.reddit.com/r/Forex/comments/1uv8tvf/dxy_gu_and_eu_outlook/",
-      "published": "2026-07-13T11:26:01+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
