@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-07-14T22:40:54.238507+00:00",
-  "count": 62,
+  "updated_at": "2026-07-14T23:35:44.787641+00:00",
+  "count": 61,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "NZD/USD Price Forecast: Advance stalls at SMA clusters, bulls eye 0.59",
+      "summary": "The New Zealand Dollar extended its rally, registering solid gains versus the US Dollar after the latest US inflation report, which tempered speculation of a Fed rate hike and trimmed investors' bets by half. At the time of writing, the NZD/USD is trading at 0.5809, up by more than 1%.",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-advance-stalls-at-sma-clusters-bulls-eye-059-202607142235",
+      "published": "2026-07-14T22:35:28+00:00",
+      "score": 3
+    },
     {
       "source": "Kobeissi Letter",
       "category": "twitter",
@@ -39,12 +48,30 @@
       "score": 1
     },
     {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The softest US inflation print in six years buys British Pound Sterling about four hours",
+      "summary": "Cable trades just beneath the 1.3400 handle late in Tuesday's session, pinned under a 200-day Exponential Moving Average (EMA) that sits a few pips shy of the figure and has capped every recovery attempt for two weeks.",
+      "link": "https://www.fxstreet.com/news/the-softest-us-inflation-print-in-six-years-buys-british-pound-sterling-about-four-hours-202607142210",
+      "published": "2026-07-14T22:10:20+00:00",
+      "score": 1
+    },
+    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Trump: Iran retains some resilience but is largely depleted",
       "summary": "",
       "link": "https://www.financialjuice.com/News/9678006/Trump-Iran-retains-some-resilience-but-is-largely-depleted.aspx?xy=rss",
       "published": "2026-07-14T22:09:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah: S&P support offset by Rupiah headwinds – Commerzbank",
+      "summary": "Commerzbank’s Dr. Henry Hao and Moses Lim note S&amp;P Global Ratings affirmed Indonesia’s BBB sovereign rating with a stable outlook, citing fiscal discipline and adherence to the 3% deficit ceiling.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-sp-support-offset-by-rupiah-headwinds-commerzbank-202607142156",
+      "published": "2026-07-14T21:56:00+00:00",
       "score": 1
     },
     {
@@ -226,42 +253,6 @@
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-sits-out-the-disinflation-party-202607141600",
       "published": "2026-07-14T16:00:04+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US President Trump: Strait of Hormuz open to all shipping except Iran",
-      "summary": "United States (US) President Donald Trump reiterated in a Truth Social post on Tuesday, “The Strait of Hormuz is open to ALL ship traffic except for Iran.” He added that the US would impose a “FULL Blockade” only on vessels travelling to or from Iranian ports or carrying Iranian cargo.",
-      "link": "https://www.fxstreet.com/news/us-president-trump-strait-of-hormuz-open-to-all-shipping-except-iran-202607141546",
-      "published": "2026-07-14T15:46:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed Chair Warsh reaffirms they will deliver price stability",
-      "summary": "While testifying on the Semiannual Monetary Policy Report before the US House Financial Services Committee, Federal Reserve (Fed) Chairman Kevin Warsh reiterated that the Fed is making a commitment on price stability and the goal of 2% inflation.",
-      "link": "https://www.fxstreet.com/news/fed-chair-warsh-to-note-they-have-no-tolerance-for-persistently-elevated-inflation-202607141245",
-      "published": "2026-07-14T15:32:16+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar surges amid soft US inflation",
-      "summary": "AUD/USD trades sharply higher near 0.6990 on Tuesday, approaching the psychological 0.7000 level as the US Dollar (USD) falls following weaker-than-expected United States (US) inflation figures.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-surges-amid-soft-us-inflation-202607141529",
-      "published": "2026-07-14T15:29:34+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar climbs to four-week high on soft US CPI, rising Oil prices",
-      "summary": "The Canadian Dollar (CAD) strengthens sharply against the US Dollar (USD) on Tuesday, drawing support from softer-than-expected US inflation data and rising Oil prices amid escalating tensions in the Middle East.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-climbs-to-four-week-high-on-soft-us-cpi-rising-oil-prices-202607141522",
-      "published": "2026-07-14T15:22:17+00:00",
-      "score": 3
     },
     {
       "source": "Walter Bloomberg",
