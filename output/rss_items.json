@@ -1,114 +1,222 @@
 {
-  "updated_at": "2026-07-15T06:36:26.906348+00:00",
-  "count": 58,
+  "updated_at": "2026-07-15T09:00:54.455859+00:00",
+  "count": 59,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
+      "title": "FinancialJuice: ECB's Panetta: Inflation in euro zone is currently hovering around 3% and is expected to remain above that level until early 2027.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9678534/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-07-15T06:15:34+00:00",
+      "link": "https://www.financialjuice.com/News/9678752/ECBs-Panetta-Inflation-in-euro-zone-is-currently-hovering-around-3-and-is-expected-to-remain-above-that-level-until-early-2027.aspx",
+      "published": "2026-07-15T08:46:15+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+      "title": "FinancialJuice: ECB's Panetta: In considering future interest rate decisions, ECB's goal is to keep inflation expectations firmly anchored, limiting indirect and second-round effects of shocks.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9678526/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-07-15T06:13:53+00:00",
+      "link": "https://www.financialjuice.com/News/9678751/ECBs-Panetta-In-considering-future-interest-rate-decisions-ECBs-goal-is-to-keep-inflation-expectations-firmly-anchored-limiting-indirect-and-second-round-effects-of-shocks.aspx",
+      "published": "2026-07-15T08:46:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Mixed outlook within 160.60–163.00 band against US Dollar – UOB",
+      "summary": "United Overseas Bank’s Quek Ser Leang and Lee Sue Ann report USD/JPY fluctuated between 161.62 and 162.47, closing slightly lower at 162.23 after failing to test 162.70. Intraday, the pair is seen trading between 161.75 and 162.50.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-mixed-outlook-within-16060-16300-band-against-us-dollar-uob-202607150845",
+      "published": "2026-07-15T08:45:57+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Japan PM Takaichi: Food inflation has decelerated slightly, but still remains high",
+      "title": "FinancialJuice: China approves Apple's on-device AI model.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9678520/Japan-PM-Takaichi-Food-inflation-has-decelerated-slightly-but-still-remains-high.aspx?xy=rss",
-      "published": "2026-07-15T06:08:04+00:00",
+      "link": "https://www.financialjuice.com/News/9678354/China-approves-Apples-on-device-AI-model.aspx",
+      "published": "2026-07-15T08:45:54+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee attracts bids as traders trim Fed interest rate hike bets",
-      "summary": "The Indian Rupee (INR) gains ground against the US Dollar (USD) on Wednesday after rising significantly in the last three trading days.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-attracts-bids-as-traders-trim-fed-interest-rate-hike-bets-202607150550",
-      "published": "2026-07-15T05:50:19+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro edges higher against British Pound as oil surge lifts ECB rate expectations",
-      "summary": "The EUR/GBP cross gains momentum to near 0.8535 during the early European trading hours on Wednesday. Traders ramp up bets  on the Bank of England (BoE) and European Central Bank (ECB) rate hikes as oil price surge reignites inflation fears.",
-      "link": "https://www.fxstreet.com/news/euro-edges-higher-against-british-pound-as-oil-surge-lifts-ecb-rate-expectations-202607150526",
-      "published": "2026-07-15T05:26:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold remains depressed as bears shrug off weaker USD amid Fed hike bets",
-      "summary": "Gold (XAU/USD) sticks to modest intraday losses through the Asian session on Wednesday, though it lacks follow-through and holds above the $4,000 psychological mark.",
-      "link": "https://www.fxstreet.com/news/gold-edges-lower-as-elevated-oil-prices-bolster-fed-hike-prospects-and-offset-soft-usd-202607150350",
-      "published": "2026-07-15T05:11:20+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound advances as US Dollar remains subdued following inflation data",
-      "summary": "GBP/USD rises for the second consecutive day, trading around 1.3400 during the Asian hours on Wednesday.",
-      "link": "https://www.fxstreet.com/news/british-pound-advances-as-us-dollar-remains-subdued-following-inflation-data-202607150448",
-      "published": "2026-07-15T04:48:46+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "summary": "Gold prices fell in India on Wednesday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202607150435",
-      "published": "2026-07-15T04:35:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Bulls remain cautious below 23.6% Fibo. and 1.1470 hurdle",
-      "summary": "The EUR/USD pair attracts some dip-buyers following the previous day's pullback from the 1.1460-1.1470 horizontal resistance, though it remains confined within a multi-week-old range.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bulls-remain-cautious-below-236-fibo-and-11470-hurdle-202607150424",
-      "published": "2026-07-15T04:24:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah firms after S&P Global reaffirms stable grade rating",
-      "summary": "USD/IDR loses ground for the second consecutive day, trading around 18,110 during the Asian hours on Wednesday. The pair depreciates as the Indonesian Rupiah (IDR) strengthens following S&amp;P Global Ratings' reaffirmation of Indonesia’s investment-grade credit rating with a stable outlook.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-firms-after-sp-global-reaffirms-stable-grade-rating-202607150409",
-      "published": "2026-07-15T04:09:26+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index stays below 101 as traders trim hawkish Fed bets",
-      "summary": "The US Dollar (USD) underperforms its major currency peers as traders have trimmed Federal Reserve (Fed) interest rate hike expectations for the current year, following the release of the softer-than-expected United States (US) Consumer Price Index (CPI) data for June.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-stays-below-101-as-traders-trim-hawkish-fed-bets-202607150329",
-      "published": "2026-07-15T03:29:09+00:00",
+      "title": "GBP/USD Price Forecast: Soft US CPI data backs upside towards 1.3500",
+      "summary": "The British Pound (GBP) is up 0.1% at around 1.3403 against the US Dollar (USD) during the European trading session on Wednesday. The GBP/USD pair gains as the US Dollar comes under selling pressure, with market participants dialing down expectations for Federal Reserve (Fed) interest rate hikes.",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-soft-us-cpi-data-backs-upside-towards-13500-202607150833",
+      "published": "2026-07-15T08:33:16+00:00",
       "score": 3
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Swiss Franc steadies as US Dollar declines following softer inflation data",
-      "summary": "USD/CHF steadies after registering 0.7% losses in the previous day, trading around 0.8090 during the Asian hours on Wednesday.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-steadies-as-us-dollar-declines-following-softer-inflation-data-202607150327",
-      "published": "2026-07-15T03:27:19+00:00",
+      "title": "US Dollar: Softer inflation trims yield upside – MUFG",
+      "summary": "MUFG’s Lloyd Chan notes that softer US inflation in June has reduced upside risks to US yields, leading markets to unwind much of the July Federal Reserve hike pricing and scale back tightening expectations for 2026.",
+      "link": "https://www.fxstreet.com/news/us-dollar-softer-inflation-trims-yield-upside-mufg-202607150833",
+      "published": "2026-07-15T08:33:01+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver: Higher beta rebound with two-way risks – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that Silver has risen nearly 2%, outperforming Gold’s 1.2% gain on the back of a softer US Dollar (USD) and reduced Fed hike expectations after weak core Consumer Price Index (CPI).",
+      "link": "https://www.fxstreet.com/news/silver-higher-beta-rebound-with-two-way-risks-ocbc-202607150821",
+      "published": "2026-07-15T08:21:13+00:00",
+      "score": 5
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ING: The EUR - FJElite",
+      "summary": "<div>Along with most dollar pairs, EUR/USD very much enjoyed yesterday's soft US CPI release. Were it not for developments in the Gulf and in energy markets in general, we would be happy to call EUR/USD steadily higher from here. But European natural gas is now back to levels seen in mid-March and, as above, it is too early to trade an ’all-clear' US inflation story.</div><div><br /></div><div>In ",
+      "link": "https://www.financialjuice.com/News/9678736/ING-The-EUR---FJElite.aspx",
+      "published": "2026-07-15T08:20:43+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ING: The USD - FJElite",
+      "summary": "<div>Yesterday's release of softer-than-expected June CPI was welcomed by asset markets across the board. As James Knightley writes, the softening in prices was broad-based and is a vote in the direction of ING's house call that the Fed will not be hiking this summer after all. Yet, as Chair Kevin Warsh and many Fed members will agree, one number does not a new trend make. And another good speech ",
+      "link": "https://www.financialjuice.com/News/9678735/ING-The-USD---FJElite.aspx",
+      "published": "2026-07-15T08:20:10+00:00",
+      "score": 7
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Europe Sentiment: Trump Backs Down on Transit Charges - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9678710/Europe-Sentiment-Trump-Backs-Down-on-Transit-Charges---FJElite.aspx",
+      "published": "2026-07-15T08:14:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: NVIDIA's Huang: Vera Rubin is on track, already in production.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9678709/NVIDIAs-Huang-Vera-Rubin-is-on-track-already-in-production.aspx",
+      "published": "2026-07-15T08:14:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold sticks to intraday losses as oil-driven inflation fears lift Fed rate hike odds",
+      "summary": "Gold (XAU/USD) maintains its offered tone through the first half of the European session on Wednesday and remains vulnerable after the previous day's failed attempt to find acceptance above the $4,100 mark.",
+      "link": "https://www.fxstreet.com/news/gold-edges-lower-as-elevated-oil-prices-bolster-fed-hike-prospects-and-offset-soft-usd-202607150350",
+      "published": "2026-07-15T08:03:39+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: BoC seen steady as Oil supports CAD – ING",
+      "summary": "ING’s Francesco Pesole expects the Bank of Canada to keep rates at 2.25%, with limited incentive to push back against modest December tightening pricing. He sees June CPI potentially falling below 3.0% as petrol prices drop, while core remains near 2.0%.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-seen-steady-as-oil-supports-cad-ing-202607150801",
+      "published": "2026-07-15T08:01:01+00:00",
       "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: Upside momentum building toward 0.7015 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s Quek Ser Leang and Lee Sue Ann note AUD/USD surged to 0.6992 after an earlier dip, with strong short-term momentum pointing to further gains. They see scope for a test of 0.6995, while the major resistance at 0.7015 is key.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-upside-momentum-building-toward-07015-against-us-dollar-uob-202607150749",
+      "published": "2026-07-15T07:49:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones futures edge lower as traders weigh on US-Iran tensions",
+      "summary": "Dow Jones futures inch lower by 0.04% to trade around 52,770 during European trading hours on Wednesday. Meanwhile, S&amp;P 500 futures and Nasdaq 100 futures advance 0.19% and 0.79%, trading near 7,600 and 30,030, respectively.",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-edge-lower-as-traders-weigh-on-us-iran-tensions-202607150742",
+      "published": "2026-07-15T07:42:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: Inflation scenarios guide rate path – ABN AMRO",
+      "summary": "ABN AMRO’s Rogier Quaedvlieg reviews the latest United States (US) Consumer Price Index (CPI) downside surprise and its implications for the Federal Reserve (Fed).",
+      "link": "https://www.fxstreet.com/news/federal-reserve-inflation-scenarios-guide-rate-path-abn-amro-202607150738",
+      "published": "2026-07-15T07:38:30+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar retreats after soft inflation data, focus shifts to BoC rate decision",
+      "summary": "Here is what you need to know on Wednesday, July 15:",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-retreats-after-soft-inflation-data-focus-shifts-to-boc-rate-decision-202607150729",
+      "published": "2026-07-15T07:29:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Support pillar weakens after CPI – MUFG",
+      "summary": "MUFG’s Derek Halpenny notes that weaker US CPI has sharply reduced market expectations for a Federal Reserve rate hike, undermining a key source of recent US Dollar strength.",
+      "link": "https://www.fxstreet.com/news/us-dollar-support-pillar-weakens-after-cpi-mufg-202607150725",
+      "published": "2026-07-15T07:25:02+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro picks up favoured by a weaker US Dollar but remains within previous ranges",
+      "summary": "The Euro (EUR) extends gains for the second consecutive day against the US Dollar (USD) on Wednesday, but remains trapped within the trading range seen over the last three weeks, with upside attempts capped below the 1.1470-1.1480 area so far.",
+      "link": "https://www.fxstreet.com/news/euro-picks-up-favoured-by-a-weaker-us-dollar-but-remains-within-previous-ranges-202607150718",
+      "published": "2026-07-15T07:18:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee gains support as traders dial down hawkish Fed bets",
+      "summary": "The Indian Rupee (INR) gains ground against the US Dollar (USD) on Wednesday after rising significantly in the last three trading days.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-attracts-bids-as-traders-trim-fed-interest-rate-hike-bets-202607150550",
+      "published": "2026-07-15T07:10:39+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ECB's Nagel: ECB rates are at the appropriate level after June decision",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9678623/ECBs-Nagel-ECB-rates-are-at-the-appropriate-level-after-June-decision.aspx",
+      "published": "2026-07-15T07:09:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Currency Strength Chart: Strongest: GBP, AUD, NZD, EUR, JPY, CAD, CHF, USD - Weakest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9678607/Currency-Strength-Chart-Strongest-GBP-AUD-NZD-EUR-JPY-CAD-CHF-USD---Weakest.aspx",
+      "published": "2026-07-15T07:01:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Spanish Core CPI YoY Actual 2.9% (Forecast -, Previous 3.0%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9678599/Spanish-Core-CPI-YoY-Actual-29-Forecast---Previous-30.aspx",
+      "published": "2026-07-15T07:00:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Spanish CPI MoM Final Actual 0.6% (Forecast 0.6%, Previous 0.6%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9678597/Spanish-CPI-MoM-Final-Actual-06-Forecast-06-Previous-06.aspx",
+      "published": "2026-07-15T07:00:00+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -117,33 +225,6 @@
       "summary": "<p>BREAKING: President Trump held a Situation Room meeting on Tuesday to discuss a \"massive offensive\" in Iran, per Axios.<br />\n<br />\nDetails include:<br />\n<br />\n1. The offense will include strikes that are wider in scope than the current strikes around the Strait of Hormuz<br />\n<br />\n2. Trump was joined in the Situation Room by JD Vance, Marco Rubio, Pete Hegseth, Dan Caine, John Ratcliffe,",
       "link": "https://nitter.net/KobeissiLetter/status/2077225428939317258#m",
       "published": "2026-07-15T02:55:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar remains firm above 0.5800 despite weak China GDP data",
-      "summary": "The NZD/USD pair trades in positive territory around 0.5825 during the Asian trading hours on Wednesday. The New Zealand Dollar (NZD) remains firm against the US Dollar (USD) after the Chinese economic data.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-firm-above-05800-despite-weak-china-gdp-data-202607150228",
-      "published": "2026-07-15T02:28:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar remains stronger following China’s economic data",
-      "summary": "AUD/USD extends its gains for the second successive day, trading around 0.6980 during the Asian hours on Wednesday. The pair holds gains as the Australian Dollar (AUD) remains stronger following the release of key economic data from China, Australia’s close trading partner.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-stronger-following-chinas-economic-data-202607150214",
-      "published": "2026-07-15T02:14:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar climbs to four-week top vs USD amid rising Oil prices; focus shifts to BoC",
-      "summary": "The USD/CAD pair remains under some selling pressure for the second straight day and drops to a four-week low, around the 1.4045-1.4040 region during the Asian session on Wednesday.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-climbs-to-four-week-top-vs-usd-amid-rising-oil-prices-focus-shifts-to-boc-202607150157",
-      "published": "2026-07-15T01:57:57+00:00",
       "score": 1
     },
     {
@@ -181,69 +262,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1uwe1nn/forex_community/",
       "published": "2026-07-14T16:43:39+00:00",
       "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: THEY SHOT FIRST, WAS BIG MISTAKE",
-      "summary": "<p>TRUMP: THEY SHOT FIRST, WAS BIG MISTAKE</p>",
-      "link": "https://nitter.net/DeItaone/status/2077064424666361962#m",
-      "published": "2026-07-14T16:15:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: I DON'T THINK ANYBODY SHOULD BE ABLE TO CHARGE A FEE FOR THE STRAIT",
-      "summary": "<p>TRUMP: I DON'T THINK ANYBODY SHOULD BE ABLE TO CHARGE A FEE FOR THE STRAIT</p>",
-      "link": "https://nitter.net/DeItaone/status/2077062883490283696#m",
-      "published": "2026-07-14T16:09:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: GULF STATES ARE GOING TO INVEST IN U.S. AND I THINK THAT'S BETTER",
-      "summary": "<p>TRUMP: GULF STATES ARE GOING TO INVEST IN U.S. AND I THINK THAT'S BETTER</p>",
-      "link": "https://nitter.net/DeItaone/status/2077062802888380626#m",
-      "published": "2026-07-14T16:08:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: WAS CALLED BY DIFFERENT COUNTRIES THAT SAID WE'D LIKE TO INVEST IN U.S. INSTEAD OF CHARGING FEE FOR STRAIT OF HORMUZ PASSAGE",
-      "summary": "<p>TRUMP: WAS CALLED BY DIFFERENT COUNTRIES THAT SAID WE'D LIKE TO INVEST IN U.S. INSTEAD OF CHARGING FEE FOR STRAIT OF HORMUZ PASSAGE</p>",
-      "link": "https://nitter.net/DeItaone/status/2077062665776554065#m",
-      "published": "2026-07-14T16:08:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: WE ARE THERE FOR IRAQ IF THEY NEED PROTECTION",
-      "summary": "<p>TRUMP: WE ARE THERE FOR IRAQ IF THEY NEED PROTECTION</p>",
-      "link": "https://nitter.net/DeItaone/status/2077061822604001303#m",
-      "published": "2026-07-14T16:05:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: We don't think we need our military in there now",
-      "summary": "<p>Trump: We don't think we need our military in there now</p>",
-      "link": "https://nitter.net/DeItaone/status/2077061671680360571#m",
-      "published": "2026-07-14T16:04:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "OIL FUTURES PARE GAINS, U.S. CRUDE TURNS NEGATIVE AFTER US PRESIDENT TRUMP SAYS STRAIT OF HORMUZ OPEN TO ALL SHIP TRAFFIC EXCEPT FOR IRAN",
-      "summary": "<p>OIL FUTURES PARE GAINS, U.S. CRUDE TURNS NEGATIVE AFTER US PRESIDENT TRUMP SAYS STRAIT OF HORMUZ OPEN TO ALL SHIP TRAFFIC EXCEPT FOR IRAN</p>",
-      "link": "https://nitter.net/DeItaone/status/2077048423220478116#m",
-      "published": "2026-07-14T15:11:48+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -361,15 +379,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1uvn8ba/why_you_should_be_looking_at_dxy_for_market/",
       "published": "2026-07-13T20:28:16+00:00",
       "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Trade breakdown Gold",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1uv2q72/trade_breakdown_gold/\"> <img alt=\"Trade breakdown Gold\" src=\"https://preview.redd.it/pzpz44x5qxch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2325e7750ee14a94bdc4006c942abdd09b8995e4\" title=\"Trade breakdown Gold\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The market had a clear 1H (FVG) in focus. Price retrac",
-      "link": "https://www.reddit.com/r/Forex/comments/1uv2q72/trade_breakdown_gold/",
-      "published": "2026-07-13T05:43:04+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
