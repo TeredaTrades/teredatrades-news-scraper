@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-07-14T23:35:44.787641+00:00",
-  "count": 61,
+  "updated_at": "2026-07-15T01:01:31.913919+00:00",
+  "count": 59,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro gathers strength above 1.1400 after soft US inflation data",
+      "summary": "The EUR/USD pair gains ground to near 1.1425 during the early Asian trading hours on Wednesday. The US Dollar (USD) weakens against the Euro (EUR) as softer-than-expected US inflation data temporarily eased pressure on the Federal Reserve (Fed).",
+      "link": "https://www.fxstreet.com/news/euro-gathers-strength-above-11400-after-soft-us-inflation-data-202607150028",
+      "published": "2026-07-15T00:28:00+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Donald Trump says US pressed Iran to reach agreement",
+      "summary": "US President Donald Trump said that Iran retains some resilience but is largely depleted. He emphasized that he will preserve energy objectives in Iran until the end, Fox News reported on Tuesday.",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-us-pressed-iran-to-reach-agreement-202607142332",
+      "published": "2026-07-14T23:32:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold climbs to near $4,050 on softer US CPI",
+      "summary": "Gold price (XAU/USD) rises to around $4,050 during the early Asian session on Wednesday. The precious metal rebounds as softer-than-expected US inflation data boosted hopes of the US  Federal ‌Reserve (Fed) adopting a less hawkish stance.",
+      "link": "https://www.fxstreet.com/news/gold-climbs-to-near-4-050-on-softer-us-cpi-202607142316",
+      "published": "2026-07-14T23:16:54+00:00",
+      "score": 7
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -39,30 +66,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: will preserve energy objectives in Iran until the end",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9678007/Trump-will-preserve-energy-objectives-in-Iran-until-the-end.aspx?xy=rss",
-      "published": "2026-07-14T22:11:06+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "The softest US inflation print in six years buys British Pound Sterling about four hours",
       "summary": "Cable trades just beneath the 1.3400 handle late in Tuesday's session, pinned under a 200-day Exponential Moving Average (EMA) that sits a few pips shy of the figure and has capped every recovery attempt for two weeks.",
       "link": "https://www.fxstreet.com/news/the-softest-us-inflation-print-in-six-years-buys-british-pound-sterling-about-four-hours-202607142210",
       "published": "2026-07-14T22:10:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran retains some resilience but is largely depleted",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9678006/Trump-Iran-retains-some-resilience-but-is-largely-depleted.aspx?xy=rss",
-      "published": "2026-07-14T22:09:32+00:00",
       "score": 1
     },
     {
@@ -174,24 +183,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen rises as cool US CPI slashes bets on Fed rate hikes",
-      "summary": "The Japanese Yen registers gains of over 0.31% against the US Dollar as traders trim hawkish bets following a softer-than-expected US inflation report. The USD/JPY trades at 161.93 after reaching a daily high of 162.48.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-rises-as-cool-us-cpi-slashes-fed-hike-bets-202607141636",
-      "published": "2026-07-14T16:36:56+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: Soft US inflation lifts XAG/USD, but downside bias remains",
-      "summary": "Silver (XAG/USD) trades on the front foot on Tuesday as softer-than-expected US inflation data tempers expectations of a near-term Federal Reserve (Fed) interest rate hike and pushes the US Dollar (USD) lower. At the time of writing, XAG/USD trades around $58.50, up nearly 2% on the day.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-soft-us-inflation-lifts-xag-usd-but-downside-bias-remains-202607141632",
-      "published": "2026-07-14T16:32:16+00:00",
-      "score": 5
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "TRUMP: THEY SHOT FIRST, WAS BIG MISTAKE",
@@ -244,15 +235,6 @@
       "link": "https://nitter.net/DeItaone/status/2077061671680360571#m",
       "published": "2026-07-14T16:04:27+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones Industrial Average sits out the disinflation party",
-      "summary": "The June Consumer Price Index (CPI) fell 0.4% on the month against consensus for a 0.1% decline, following May's 0.5% increase, and the annual rate dropped to 3.5% from 4.2%, well under the 3.8% forecast. Core prices were flat MoM and eased to 2.6% YoY versus 2.8% expected.",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-sits-out-the-disinflation-party-202607141600",
-      "published": "2026-07-14T16:00:04+00:00",
-      "score": 2
     },
     {
       "source": "Walter Bloomberg",
