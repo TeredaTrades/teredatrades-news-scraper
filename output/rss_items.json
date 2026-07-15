@@ -1,33 +1,96 @@
 {
-  "updated_at": "2026-07-15T04:17:13.031640+00:00",
-  "count": 53,
+  "updated_at": "2026-07-15T06:36:26.906348+00:00",
+  "count": 58,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed Interest Rate Probabilities",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9678534/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+      "published": "2026-07-15T06:15:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9678526/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+      "published": "2026-07-15T06:13:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japan PM Takaichi: Food inflation has decelerated slightly, but still remains high",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9678520/Japan-PM-Takaichi-Food-inflation-has-decelerated-slightly-but-still-remains-high.aspx?xy=rss",
+      "published": "2026-07-15T06:08:04+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold edges lower as elevated oil prices bolster Fed hike prospects and offset soft USD",
-      "summary": "Gold (XAU/USD) attracts some sellers after failing to find acceptance above the $4,100 mark the previous day, though it holds above the $4,000 psychological mark during the Asian session on Wednesday.",
+      "title": "Indian Rupee attracts bids as traders trim Fed interest rate hike bets",
+      "summary": "The Indian Rupee (INR) gains ground against the US Dollar (USD) on Wednesday after rising significantly in the last three trading days.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-attracts-bids-as-traders-trim-fed-interest-rate-hike-bets-202607150550",
+      "published": "2026-07-15T05:50:19+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro edges higher against British Pound as oil surge lifts ECB rate expectations",
+      "summary": "The EUR/GBP cross gains momentum to near 0.8535 during the early European trading hours on Wednesday. Traders ramp up bets  on the Bank of England (BoE) and European Central Bank (ECB) rate hikes as oil price surge reignites inflation fears.",
+      "link": "https://www.fxstreet.com/news/euro-edges-higher-against-british-pound-as-oil-surge-lifts-ecb-rate-expectations-202607150526",
+      "published": "2026-07-15T05:26:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold remains depressed as bears shrug off weaker USD amid Fed hike bets",
+      "summary": "Gold (XAU/USD) sticks to modest intraday losses through the Asian session on Wednesday, though it lacks follow-through and holds above the $4,000 psychological mark.",
       "link": "https://www.fxstreet.com/news/gold-edges-lower-as-elevated-oil-prices-bolster-fed-hike-prospects-and-offset-soft-usd-202607150350",
-      "published": "2026-07-15T03:50:02+00:00",
+      "published": "2026-07-15T05:11:20+00:00",
       "score": 4
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: China finance ministry offers 3-month bills at 0.8924% yield: traders",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9678367/China-finance-ministry-offers-3-month-bills-at-08924-yield-traders.aspx?xy=rss",
-      "published": "2026-07-15T03:40:27+00:00",
+      "title": "British Pound advances as US Dollar remains subdued following inflation data",
+      "summary": "GBP/USD rises for the second consecutive day, trading around 1.3400 during the Asian hours on Wednesday.",
+      "link": "https://www.fxstreet.com/news/british-pound-advances-as-us-dollar-remains-subdued-following-inflation-data-202607150448",
+      "published": "2026-07-15T04:48:46+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "summary": "Gold prices fell in India on Wednesday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202607150435",
+      "published": "2026-07-15T04:35:09+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: China finance ministry auctions 30-year ultra-long special treasury bonds at 2.2529% yield: traders",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9678366/China-finance-ministry-auctions-30-year-ultra-long-special-treasury-bonds-at-22529-yield-traders.aspx?xy=rss",
-      "published": "2026-07-15T03:38:21+00:00",
+      "title": "EUR/USD Price Forecast: Bulls remain cautious below 23.6% Fibo. and 1.1470 hurdle",
+      "summary": "The EUR/USD pair attracts some dip-buyers following the previous day's pullback from the 1.1460-1.1470 horizontal resistance, though it remains confined within a multi-week-old range.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bulls-remain-cautious-below-236-fibo-and-11470-hurdle-202607150424",
+      "published": "2026-07-15T04:24:03+00:00",
       "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah firms after S&P Global reaffirms stable grade rating",
+      "summary": "USD/IDR loses ground for the second consecutive day, trading around 18,110 during the Asian hours on Wednesday. The pair depreciates as the Indonesian Rupiah (IDR) strengthens following S&amp;P Global Ratings' reaffirmation of Indonesia’s investment-grade credit rating with a stable outlook.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-firms-after-sp-global-reaffirms-stable-grade-rating-202607150409",
+      "published": "2026-07-15T04:09:26+00:00",
+      "score": 2
     },
     {
       "source": "FXStreet",
@@ -66,15 +129,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China stats bureau deputy head: China's CPI, PPI in stable ranges, hard won as most countries see large price increases",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9678289/China-stats-bureau-deputy-head-Chinas-CPI-PPI-in-stable-ranges-hard-won-as-most-countries-see-large-price-increases.aspx?xy=rss",
-      "published": "2026-07-15T02:21:08+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Australian Dollar remains stronger following China’s economic data",
@@ -91,78 +145,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-climbs-to-four-week-top-vs-usd-amid-rising-oil-prices-focus-shifts-to-boc-202607150157",
       "published": "2026-07-15T01:57:57+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD hovers near $58.50 amid market caution",
-      "summary": "Silver price (XAG/USD) inches lower after registering gains in the previous day, trading around $58.50 per troy ounce during the Asian hours on Wednesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-hovers-near-5850-amid-market-caution-202607150143",
-      "published": "2026-07-15T01:43:45+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound gains traction above 1.3400 as softer US CPI dampens Fed rate hike expectations",
-      "summary": "The GBP/USD pair gains ground to near 1.3405 during the early Asian session on Wednesday. The US dollar (USD) weakens against the British Pound (GBP) as softer-than-expected US inflation in June tempered expectations for US Federal Reserve (Fed) policy tightening.",
-      "link": "https://www.fxstreet.com/news/british-pound-gains-traction-above-13400-as-softer-us-cpi-dampens-fed-rate-hike-expectations-202607150118",
-      "published": "2026-07-15T01:18:47+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen edges higher vs weaker USD; bulls seem hesitant amid Iran risks",
-      "summary": "The USD/JPY pair struggles to capitalize on the previous day's late rebound from the vicinity of mid-161.00s, or the weekly low, and trades with a mild negative bias for the second straight day on Wednesday.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-edges-higher-vs-weaker-usd-bulls-seem-hesitant-amid-iran-risks-202607150117",
-      "published": "2026-07-15T01:17:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7910 vs. 6.7990 previous",
-      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7910 compared to the previous day's fix of 6.7990 and 6.7695 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67910-vs-67990-previous-202607150115",
-      "published": "2026-07-15T01:15:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "WTI rises as Trump threatens strikes on Iran",
-      "summary": "West Texas Intermediate (WTI) oil price extends its gains for the third successive day, trading around $79.20 per barrel during the Asian hours on Wednesday. Crude oil prices have climbed following threats from US President Donald Trump regarding additional military strikes on Iran.",
-      "link": "https://www.fxstreet.com/news/wti-rises-as-trumps-threats-strikes-on-iran-202607150111",
-      "published": "2026-07-15T01:11:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro gathers strength above 1.1400 after soft US inflation data",
-      "summary": "The EUR/USD pair gains ground to near 1.1425 during the early Asian trading hours on Wednesday. The US Dollar (USD) weakens against the Euro (EUR) as softer-than-expected US inflation data temporarily eased pressure on the Federal Reserve (Fed).",
-      "link": "https://www.fxstreet.com/news/euro-gathers-strength-above-11400-after-soft-us-inflation-data-202607150028",
-      "published": "2026-07-15T00:28:00+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US President Donald Trump says US pressed Iran to reach agreement",
-      "summary": "US President Donald Trump said that Iran retains some resilience but is largely depleted. He emphasized that he will preserve energy objectives in Iran until the end, Fox News reported on Tuesday.",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-us-pressed-iran-to-reach-agreement-202607142332",
-      "published": "2026-07-14T23:32:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold climbs to near $4,050 on softer US CPI",
-      "summary": "Gold price (XAU/USD) rises to around $4,050 during the early Asian session on Wednesday. The precious metal rebounds as softer-than-expected US inflation data boosted hopes of the US  Federal ‌Reserve (Fed) adopting a less hawkish stance.",
-      "link": "https://www.fxstreet.com/news/gold-climbs-to-near-4-050-on-softer-us-cpi-202607142316",
-      "published": "2026-07-14T23:16:54+00:00",
-      "score": 7
     },
     {
       "source": "Kobeissi Letter",
@@ -199,6 +181,69 @@
       "link": "https://www.reddit.com/r/Forex/comments/1uwe1nn/forex_community/",
       "published": "2026-07-14T16:43:39+00:00",
       "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: THEY SHOT FIRST, WAS BIG MISTAKE",
+      "summary": "<p>TRUMP: THEY SHOT FIRST, WAS BIG MISTAKE</p>",
+      "link": "https://nitter.net/DeItaone/status/2077064424666361962#m",
+      "published": "2026-07-14T16:15:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: I DON'T THINK ANYBODY SHOULD BE ABLE TO CHARGE A FEE FOR THE STRAIT",
+      "summary": "<p>TRUMP: I DON'T THINK ANYBODY SHOULD BE ABLE TO CHARGE A FEE FOR THE STRAIT</p>",
+      "link": "https://nitter.net/DeItaone/status/2077062883490283696#m",
+      "published": "2026-07-14T16:09:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: GULF STATES ARE GOING TO INVEST IN U.S. AND I THINK THAT'S BETTER",
+      "summary": "<p>TRUMP: GULF STATES ARE GOING TO INVEST IN U.S. AND I THINK THAT'S BETTER</p>",
+      "link": "https://nitter.net/DeItaone/status/2077062802888380626#m",
+      "published": "2026-07-14T16:08:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: WAS CALLED BY DIFFERENT COUNTRIES THAT SAID WE'D LIKE TO INVEST IN U.S. INSTEAD OF CHARGING FEE FOR STRAIT OF HORMUZ PASSAGE",
+      "summary": "<p>TRUMP: WAS CALLED BY DIFFERENT COUNTRIES THAT SAID WE'D LIKE TO INVEST IN U.S. INSTEAD OF CHARGING FEE FOR STRAIT OF HORMUZ PASSAGE</p>",
+      "link": "https://nitter.net/DeItaone/status/2077062665776554065#m",
+      "published": "2026-07-14T16:08:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: WE ARE THERE FOR IRAQ IF THEY NEED PROTECTION",
+      "summary": "<p>TRUMP: WE ARE THERE FOR IRAQ IF THEY NEED PROTECTION</p>",
+      "link": "https://nitter.net/DeItaone/status/2077061822604001303#m",
+      "published": "2026-07-14T16:05:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We don't think we need our military in there now",
+      "summary": "<p>Trump: We don't think we need our military in there now</p>",
+      "link": "https://nitter.net/DeItaone/status/2077061671680360571#m",
+      "published": "2026-07-14T16:04:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "OIL FUTURES PARE GAINS, U.S. CRUDE TURNS NEGATIVE AFTER US PRESIDENT TRUMP SAYS STRAIT OF HORMUZ OPEN TO ALL SHIP TRAFFIC EXCEPT FOR IRAN",
+      "summary": "<p>OIL FUTURES PARE GAINS, U.S. CRUDE TURNS NEGATIVE AFTER US PRESIDENT TRUMP SAYS STRAIT OF HORMUZ OPEN TO ALL SHIP TRAFFIC EXCEPT FOR IRAN</p>",
+      "link": "https://nitter.net/DeItaone/status/2077048423220478116#m",
+      "published": "2026-07-14T15:11:48+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
