@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-07-15T22:30:44.119978+00:00",
-  "count": 59,
+  "updated_at": "2026-07-15T23:41:42.031175+00:00",
+  "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Japanese Yen gets a gift from American inflation and hands it straight back",
+      "summary": "USD/JPY has spent Wednesday doing an impression of volatility without any of the substance. The pair climbed to 162.42 through the London morning, was knocked down to 161.90 by the New York afternoon, bounced back to 162.28, and trades at 162.11 at writing, which is precisely where it opened.",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-gets-a-gift-from-american-inflation-and-hands-it-straight-back-202607152303",
+      "published": "2026-07-15T23:03:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia: Japanese firms developing AI models with Nemotron open-source tools",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9680013/Nvidia-Japanese-firms-developing-AI-models-with-Nemotron-open-source-tools.aspx?xy=rss",
+      "published": "2026-07-15T23:00:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japan's enterprises and startups develop industry-focused AI using NVIDIA Nemotron open models",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9680012/Japans-enterprises-and-startups-develop-industry-focused-AI-using-NVIDIA-Nemotron-open-models.aspx?xy=rss",
+      "published": "2026-07-15T23:00:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia: EneOS, NTT Data, Hitachi among companies using Nvidia Nemotron",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9680011/Nvidia-EneOS-NTT-Data-Hitachi-among-companies-using-Nvidia-Nemotron.aspx?xy=rss",
+      "published": "2026-07-15T23:00:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia introduces new Jetson Thor computers to boost mainstream robotics and edge AI",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9680010/Nvidia-introduces-new-Jetson-Thor-computers-to-boost-mainstream-robotics-and-edge-AI.aspx?xy=rss",
+      "published": "2026-07-15T23:00:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia expands collaboration with Toyota to boost physical AI in automotive, robotics and urban development",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9680009/Nvidia-expands-collaboration-with-Toyota-to-boost-physical-AI-in-automotive-robotics-and-urban-development.aspx?xy=rss",
+      "published": "2026-07-15T23:00:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Iran has permitted American citizen wrongfully held in December 2024 under Biden to exit country",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9680008/Trump-Iran-has-permitted-American-citizen-wrongfully-held-in-December-2024-under-Biden-to-exit-country.aspx?xy=rss",
+      "published": "2026-07-15T22:54:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Watching 200dma and BoK – Societe Generale",
+      "summary": "Societe Generale analysts highlight USD/KRW’s failure at the June peak near 1,561 and subsequent decline toward the 2024–2025 highs, with the 200-day moving average around 1,475 as key support.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-watching-200dma-and-bok-societe-generale-202607152247",
+      "published": "2026-07-15T22:47:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesia: Post-S&P optimism faces weak risk uptake – DBS",
+      "summary": "DBS Group Research economist Radhika Rao notes that S&amp;P Global Ratings has retained Indonesia’s sovereign rating and stable outlook, citing fiscal discipline and expectations of rationalized flagship spending and improved revenues.",
+      "link": "https://www.fxstreet.com/news/indonesia-post-sp-optimism-faces-weak-risk-uptake-dbs-202607152203",
+      "published": "2026-07-15T22:03:00+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -57,24 +138,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: When Iran settles down, we'll have $55/bbl oil.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9679852/Trump-When-Iran-settles-down-well-have-55bbl-oil.aspx?xy=rss",
-      "published": "2026-07-15T20:10:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Oil: It went up a bit because I had to take tough action.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9679851/Trump-on-Oil-It-went-up-a-bit-because-I-had-to-take-tough-action.aspx?xy=rss",
-      "published": "2026-07-15T20:06:55+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Singapore Dollar: Consolidation bias holds within tight band against US Dollar – UOB",
@@ -82,15 +145,6 @@
       "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-bias-holds-within-tight-band-against-us-dollar-uob-202607151958",
       "published": "2026-07-15T19:58:00+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: +2444 mln<br />Nasdaq 100: +2165 mln<br />Dow 30: +508 mln<br />Mag 7: +966 mln",
-      "link": "https://www.financialjuice.com/News/9679827/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-07-15T19:50:31+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -210,33 +264,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed Chair Warsh: Inflation will not be permanent",
-      "summary": "Federal Reserve (Fed) Chair Kevin Warsh said on Wednesday that current inflation pressure will not be permanent, while acknowledging that the latest inflation measures remain unsatisfactory.",
-      "link": "https://www.fxstreet.com/news/fed-chair-warsh-inflation-will-not-be-permanent-202607151539",
-      "published": "2026-07-15T15:39:48+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound rallies as soft US PPI hits US Dollar",
-      "summary": "The Pound Sterling rises by some 0.60% against the US Dollar after the latest Producer Price Index (PPI) in the US showed prices edging lower, driven by the dip in energy prices since late May. At the time of writing, the GBP/USD trades at 1.3460 after bouncing off a daily low of 1.3370.",
-      "link": "https://www.fxstreet.com/news/british-pound-rallies-as-soft-us-ppi-hits-us-dollar-202607151539",
-      "published": "2026-07-15T15:39:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "BoC's Macklem: Canadian Dollar weakness not a factor in rate decisions",
-      "summary": "The Bank of Canada (BoC) left its policy rate unchanged at 2.25% on Wednesday, as widely anticipated. Governor Tiff Macklem leaned hawkish in the press conference that followed the announcement, as policymakers seem confident about growth and inflation perspectives.",
-      "link": "https://www.fxstreet.com/news/boc-set-to-keep-interest-rates-steady-for-sixth-consecutive-meeting-202607150945",
-      "published": "2026-07-15T15:29:21+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Update and Upgrade on the earlier post",
@@ -244,24 +271,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1ux8n4w/update_and_upgrade_on_the_earlier_post/",
       "published": "2026-07-15T15:11:38+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold steadies as traders balance soft US inflation data against rising Oil prices",
-      "summary": "Gold (XAU/USD) steadies on Wednesday, erasing intraday losses after softer-than-expected US Producer Price Index (PPI) data push the US Dollar (USD) and US Treasury yields lower.",
-      "link": "https://www.fxstreet.com/news/gold-eases-as-soft-us-cpi-fails-to-dent-the-feds-hawkish-outlook-202607151203",
-      "published": "2026-07-15T15:09:26+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed Chair Warsh: One-time change in prices isn't necessarily inflationary",
-      "summary": "Federal Reserve (Fed) Chair Kevin Warsh said on Wednesday that recent inflation figures provide an imperfect measure of underlying inflation. Warsh made the remarks while testifying on the Semiannual Monetary Policy Report before the US Senate Committee on Banking, Housing and Urban Affairs.",
-      "link": "https://www.fxstreet.com/news/fed-chair-warsh-one-time-change-in-prices-isnt-necessarily-inflationary-202607151455",
-      "published": "2026-07-15T14:55:22+00:00",
-      "score": 2
     },
     {
       "source": "Kobeissi Letter",
