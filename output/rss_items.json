@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-07-15T23:41:42.031175+00:00",
-  "count": 60,
+  "updated_at": "2026-07-16T01:09:36.671454+00:00",
+  "count": 64,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Upside bias against US Dollar – UOB",
+      "summary": "United Overseas Bank’s Quek Ser Leang and Lee Sue Ann highlight a sharp USD/CNH drop to 6.7691, shifting the short-term bias to the downside. They see scope for further weakness, though the 6.7600 support is unlikely to be reached immediately.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-upside-bias-against-us-dollar-uob-202607152359",
+      "published": "2026-07-15T23:59:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Range trading persists with strong performance against US Dollar – Commerzbank",
+      "summary": "Commerzbank’s Moses Lim highlights that USD/SGD fell 0.3% to 1.2910 on Dollar weakness, with the pair consolidating in a 1.29–1.30 range since mid-June. Singapore’s strong growth backdrop and benign inflation support the Singapore Dollar, which is the third-strongest Asian currency this year.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trading-persists-with-strong-performance-against-us-dollar-commerzbank-202607152338",
+      "published": "2026-07-15T23:38:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump says Iran has allowed an American citizen who was detailed in 2024 to leave the country \"in good condition.\" President Trump also thanks Iran for the \"gesture of goodwill.\"",
+      "summary": "<p>BREAKING: President Trump says Iran has allowed an American citizen who was detailed in 2024 to leave the country \"in good condition.\"<br />\n<br />\nPresident Trump also thanks Iran for the \"gesture of goodwill.\"</p>\n<img src=\"https://nitter.net/pic/media%2FHNTkNCbWAAAOkD2.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2077536243718541512#m",
+      "published": "2026-07-15T23:30:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold drifts higher above $4,050 as US PPI unexpectedly fell in June",
+      "summary": "Gold price (XAU/USD) edges higher to around $4,060 during the early Asian session on Thursday. The precious metal rebounds as softer US inflation has fueled hopes that the US Federal Reserve (Fed) will hold rates steady at the upcoming July policy meeting.",
+      "link": "https://www.fxstreet.com/news/gold-drifts-higher-above-4-050-as-us-ppi-unexpectedly-fell-in-june-202607152314",
+      "published": "2026-07-15T23:14:29+00:00",
+      "score": 7
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Approaches 1.1600 as RSI shifts bullish",
+      "summary": "The EUR/USD advances some 0.41% on Wednesday, trading at 1.1466 after US inflation data was softer than expected, weighing on the Greenback, as market participants expect a less hawkish Federal Reserve. Towards the end of the year.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-approaches-11600-as-rsi-shifts-bullish-202607152308",
+      "published": "2026-07-15T23:08:40+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -57,6 +102,15 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: IRAN HAS ALLOWED AN AMERICAN CITIZEN, WHO WAS WRONGFULLY DETAINED IN DECEMBER OF 2024 UNDER BIDEN, TO LEAVE COUNTRY",
+      "summary": "<p>TRUMP: IRAN HAS ALLOWED AN AMERICAN CITIZEN, WHO WAS WRONGFULLY DETAINED IN DECEMBER OF 2024 UNDER BIDEN, TO LEAVE COUNTRY</p>",
+      "link": "https://nitter.net/DeItaone/status/2077527436816683518#m",
+      "published": "2026-07-15T22:55:14+00:00",
+      "score": 1
+    },
+    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Trump: Iran has permitted American citizen wrongfully held in December 2024 under Biden to exit country",
@@ -102,21 +156,12 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: General Dynamics is a little slower than we want $GE",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9679857/Trump-General-Dynamics-is-a-little-slower-than-we-want-GE.aspx?xy=rss",
-      "published": "2026-07-15T20:16:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We need to make submarines faster.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9679856/Trump-We-need-to-make-submarines-faster.aspx?xy=rss",
-      "published": "2026-07-15T20:15:50+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: WE WILL SOON TAKE ACTION TO MAKE IT EASIER FOR VETERANS TO BE TRUCK DRIVERS",
+      "summary": "<p>TRUMP: WE WILL SOON TAKE ACTION TO MAKE IT EASIER FOR VETERANS TO BE TRUCK DRIVERS</p>",
+      "link": "https://nitter.net/DeItaone/status/2077489237553729794#m",
+      "published": "2026-07-15T20:23:26+00:00",
       "score": 1
     },
     {
@@ -129,12 +174,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Will buy some ships made outside of the area.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9679853/Trump-Will-buy-some-ships-made-outside-of-the-area.aspx?xy=rss",
-      "published": "2026-07-15T20:11:12+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: THEY WILL BE DEFEATED SOON",
+      "summary": "<p>TRUMP ON IRAN: THEY WILL BE DEFEATED SOON</p>",
+      "link": "https://nitter.net/DeItaone/status/2077484982352650499#m",
+      "published": "2026-07-15T20:06:32+00:00",
       "score": 1
     },
     {
@@ -145,6 +190,33 @@
       "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-bias-holds-within-tight-band-against-us-dollar-uob-202607151958",
       "published": "2026-07-15T19:58:00+00:00",
       "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: WE'LL FIND OUT IF WE SETTLE WITH THEM",
+      "summary": "<p>TRUMP ON IRAN: WE'LL FIND OUT IF WE SETTLE WITH THEM</p>",
+      "link": "https://nitter.net/DeItaone/status/2077477671840207102#m",
+      "published": "2026-07-15T19:37:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: THEY WANT TO SETTLE",
+      "summary": "<p>TRUMP ON IRAN: THEY WANT TO SETTLE</p>",
+      "link": "https://nitter.net/DeItaone/status/2077477623970607190#m",
+      "published": "2026-07-15T19:37:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: IRAN WANTS TO MEET",
+      "summary": "<p>TRUMP: IRAN WANTS TO MEET</p>",
+      "link": "https://nitter.net/DeItaone/status/2077474444939858278#m",
+      "published": "2026-07-15T19:24:39+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
@@ -192,40 +264,22 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "$4,000 under siege: Buyers losing the battle on Gold",
-      "summary": "The US Dollar (USD) is under strong selling pressure on Wednesday, yet action around XAU/USD is muted.",
-      "link": "https://www.fxstreet.com/news/4-000-under-siege-buyers-losing-the-battle-on-gold-202607151803",
-      "published": "2026-07-15T18:03:31+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold price slips as Iran escalation overshadows soft US PPI",
-      "summary": "The Gold price turns negative on Wednesday, even though the last two US inflation reports showed that prices are dropping, though developments in the Middle East sent energy prices higher. At the time of writing, the XAU/USD traded at $4,034, down some 0.53%.",
-      "link": "https://www.fxstreet.com/news/gold-price-slips-as-iran-escalation-overshadows-soft-us-ppi-202607151759",
-      "published": "2026-07-15T17:59:59+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro elevates as softer US PPI weighs on the Dollar",
-      "summary": "EUR/USD trades higher near the 1.1450 area on Wednesday as the US Dollar (USD) weakens following softer-than-expected United States (US) Producer Price Index (PPI) data.",
-      "link": "https://www.fxstreet.com/news/euro-elevates-as-softer-us-ppi-weighs-on-the-dollar-202607151747",
-      "published": "2026-07-15T17:47:33+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: THEY BETTER BEHAVE",
+      "summary": "<p>TRUMP ON IRAN: THEY BETTER BEHAVE</p>",
+      "link": "https://nitter.net/DeItaone/status/2077460693448528262#m",
+      "published": "2026-07-15T18:30:01+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver slips as hawkish Fed outlook persists despite soft US inflation data",
-      "summary": "Silver (XAG/USD) trades on the back foot on Wednesday, struggling to capitalize on a weaker US Dollar (USD) as hawkish Federal Reserve (Fed) expectations keep bears in control. At the time of writing, XAG/USD trades around $57.55, down 1.90% on the day.",
-      "link": "https://www.fxstreet.com/news/silver-slips-as-hawkish-fed-outlook-persists-despite-soft-us-inflation-data-202607151743",
-      "published": "2026-07-15T17:43:51+00:00",
-      "score": 5
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: DON'T LIKE GIVING DEADLINES",
+      "summary": "<p>TRUMP ON IRAN: DON'T LIKE GIVING DEADLINES</p>",
+      "link": "https://nitter.net/DeItaone/status/2077460622749352398#m",
+      "published": "2026-07-15T18:29:44+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -237,15 +291,6 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones Industrial Average toasts peak inflation, then drops the glass",
-      "summary": "The Dow Jones Industrial Average (DJIA) spent most of Wednesday rewarding the disinflation trade and the final two hours dismantling it.",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-toasts-peak-inflation-then-drops-the-glass-202607151658",
-      "published": "2026-07-15T16:58:40+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "RT by @KobeissiLetter: Looking forward to joining the great Charles Payne, @cvpayne, today on Fox Business at 2:50 PM ET! I will be discussing @KobeissiLetter's latest market outlook as we kick off the second half of 2026. Lots to consider ranging from geopolitics, to AI, to interest rates. Tune in LIVE at 2:50 PM ET!",
@@ -253,15 +298,6 @@
       "link": "https://nitter.net/TKL_Adam/status/2077435775088578679#m",
       "published": "2026-07-15T16:51:00+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen strengthens modestly but remains near multi-decade lows",
-      "summary": "The Japanese Yen (JPY) holds modest gains against the US Dollar (USD) on Wednesday but struggles to extend its recovery despite a broadly weaker Greenback following softer-than-expected US inflation data. At the time of writing, USD/JPY trades around 162.14, down 0.07% on the day.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-modestly-but-remains-near-multi-decade-lows-202607151602",
-      "published": "2026-07-15T16:02:59+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
