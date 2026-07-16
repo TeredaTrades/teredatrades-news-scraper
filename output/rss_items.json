@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-07-16T19:19:10.566606+00:00",
-  "count": 57,
+  "updated_at": "2026-07-16T20:26:53.996490+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "XUAUSD follows XAGUSD",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1uydw68/xuausd_follows_xagusd/\"> <img alt=\"XUAUSD follows XAGUSD\" src=\"https://preview.redd.it/nn2lh2ivfndh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=7b9f428a5b09f5733c4a2b06d23b928abd5cfc98\" title=\"XUAUSD follows XAGUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Smooth delivery on the way after ",
+      "link": "https://www.reddit.com/r/Forex/comments/1uydw68/xuausd_follows_xagusd/",
+      "published": "2026-07-16T20:11:44+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Further upside risk builds against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD downside momentum has intensified after a sharp intraday swing, with firm support highlighted at 1.2875 and 1.2860.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-further-upside-risk-builds-against-us-dollar-uob-202607161957",
+      "published": "2026-07-16T19:57:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +4018 mln<br />Nasdaq 100: +2446 mln<br />Dow 30: +731 mln<br />Mag 7: +861 mln",
+      "link": "https://www.financialjuice.com/News/9681724/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-07-16T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Friday FX Option Expiries",
+      "summary": "<div><ul><li><strong>EUR/USD:</strong> 1.1350 (EU1.39b), 1.1500 (EU1.16b), 1.1300 (EU936.2m)</li><li><strong>USD/JPY: </strong>160.00 ($1.28b), 160.25 ($1.01b), 162.00 ($541m)</li><li><strong>AUD/USD:</strong> 0.7000 (AUD470m)</li><li><strong>USD/CAD:</strong> 1.4075 ($652.2m), 1.4090 ($487.1m), 1.4015 ($475m)</li><li><strong>USD/BRL</strong><strong>: </strong>5.0700 ($600m)</li><li><strong>GBP/US",
+      "link": "https://www.financialjuice.com/News/9681693/Friday-FX-Option-Expiries.aspx?xy=rss",
+      "published": "2026-07-16T19:21:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Gradual gains with capped upside against US Dollar – OCBC",
+      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong note that USD/CNY has extended its decline on softer United States (US) Consumer Price Index (CPI) and Producer Price Index (PPI), with firmer People's Bank of China (PBoC) fixings validating gradual RMB appreciation.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-gains-with-capped-upside-against-us-dollar-ocbc-202607161916",
+      "published": "2026-07-16T19:16:00+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -21,24 +66,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to visit Atlanta area next week - CBS",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9681640/Trump-to-visit-Atlanta-area-next-week---CBS.aspx?xy=rss",
-      "published": "2026-07-16T18:31:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Google Delays Gemini 3.5 Pro AI Model Launch. $GOOGL",
-      "summary": "<div><ul><li>Google's flagship Gemini 3.5 Pro AI model is reportedly running months behind schedule</li><li>Delay reflects efforts to improve the model's capabilities, particularly in coding</li><li>Internal frustration is growing among Google engineers, researchers, and managers over the pace of development</li><li>Some employees are concerned Google risks losing its competitive edge to Anthropic",
-      "link": "https://www.financialjuice.com/News/9681631/Google-Delays-Gemini-35-Pro-AI-Model-Launch-GOOGL.aspx?xy=rss",
-      "published": "2026-07-16T18:23:34+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Silver Price Forecast: XAG/USD tests the $55 floor as sellers retain control",
@@ -46,15 +73,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-tests-the-55-floor-as-sellers-retain-control-202607161814",
       "published": "2026-07-16T18:14:54+00:00",
       "score": 5
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Logan: It is possible there could be a more optimal regulatory liquidity regime for banks that would lead to a smaller Fed balance sheet.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9681610/Feds-Logan-It-is-possible-there-could-be-a-more-optimal-regulatory-liquidity-regime-for-banks-that-would-lead-to-a-smaller-Fed-balance-sheet.aspx?xy=rss",
-      "published": "2026-07-16T18:05:09+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -219,24 +237,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Eurozone: Energy shock risks for  inflation – Rabobank",
-      "summary": "Rabobank’s Bas van Geffen says renewed US-Iran hostilities have shifted Eurozone inflation risks upward. June’s softer-than-expected flash estimate may buy the ECB time in July, but the earlier decline in energy prices has reversed, pointing to firmer inflation readings ahead.",
-      "link": "https://www.fxstreet.com/news/eurozone-energy-shock-risks-for-inflation-rabobank-202607161412",
-      "published": "2026-07-16T14:12:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro pauses a two-day winning streak as the US Dollar steadies",
-      "summary": "EUR/USD trades with a downside bias on Thursday, snapping a two-day winning streak as the US Dollar (USD) steadies following recent losses driven by softer-than-expected United States (US) inflation data. At the time of writing, the pair trades around 1.1457, down modestly on the day.",
-      "link": "https://www.fxstreet.com/news/euro-pauses-a-two-day-winning-streak-as-the-us-dollar-steadies-202607161353",
-      "published": "2026-07-16T13:53:50+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The largest US gold-backed ETF, $GLD, has recorded -$14.4 billion in outflows since March 1st. This is 50% more than the -$9.6 billion in outflows seen across all Bitcoin ETFs since the October peak. In March alone, investors withdrew -$8.5 billion from $GLD, the largest monthly withdrawal on record. This was followed by -$1.7 billion in April, -$872 million in May, and -$3.2 billion in June. Meanwhile, outflows have eased in July, with withdrawals tracking at -$46 million month-to-date. Is the gold market setting up for a comeback?",
@@ -351,24 +351,6 @@
       "summary": "<p>Looking forward to joining the great Charles Payne, <a href=\"https://nitter.net/cvpayne\" title=\"Charles V Payne\">@cvpayne</a>, today on Fox Business at 2:50 PM ET!<br />\n<br />\nI will be discussing <a href=\"https://nitter.net/KobeissiLetter\" title=\"The Kobeissi Letter\">@KobeissiLetter</a>'s latest market outlook as we kick off the second half of 2026.<br />\n<br />\nLots to consider ranging from ",
       "link": "https://nitter.net/TKL_Adam/status/2077435775088578679#m",
       "published": "2026-07-15T16:51:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Update and Upgrade on the earlier post",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1ux8n4w/update_and_upgrade_on_the_earlier_post/\"> <img alt=\"Update and Upgrade on the earlier post\" src=\"https://preview.redd.it/5oexi7zatedh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=119210d3718d3c8e85e5bb863dedbf4934b35452\" title=\"Update and Upgrade on the earlier post\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>",
-      "link": "https://www.reddit.com/r/Forex/comments/1ux8n4w/update_and_upgrade_on_the_earlier_post/",
-      "published": "2026-07-15T15:11:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump says Iran called him \"a while ago\" and they \"want to make a deal.\" The US stock market extends its rally to a new high of the day.",
-      "summary": "<p>BREAKING: President Trump says Iran called him \"a while ago\" and they \"want to make a deal.\"<br />\n<br />\nThe US stock market extends its rally to a new high of the day.</p>",
-      "link": "https://nitter.net/KobeissiLetter/status/2077393978907844788#m",
-      "published": "2026-07-15T14:04:55+00:00",
       "score": 1
     },
     {
