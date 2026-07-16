@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-07-16T11:19:15.787172+00:00",
-  "count": 52,
+  "updated_at": "2026-07-16T13:01:08.333811+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Effective Fed Funds Rate 3.63% July 15 vs 3.63% July 14.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9681155/Effective-Fed-Funds-Rate-363-July-15-vs-363-July-14.aspx?xy=rss",
+      "published": "2026-07-16T12:59:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Micron stock, $MU, extends 2-day losses to -15% as the memory stock selloff accelerates. Micron is now down over -30% since its June 22nd record high.",
+      "summary": "<p>BREAKING: Micron stock, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MU\">$MU</a>, extends 2-day losses to -15% as the memory stock selloff accelerates.<br />\n<br />\nMicron is now down over -30% since its June 22nd record high.</p>\n<img src=\"https://nitter.net/pic/media%2FHNWZWzMXYAA_Fr4.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2077735422633930913#m",
+      "published": "2026-07-16T12:41:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Philly Fed Business Index Actual 41.4 (Forecast 12.5, Previous 10.3)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9681090/US-Philly-Fed-Business-Index-Actual-414-Forecast-125-Previous-103.aspx?xy=rss",
+      "published": "2026-07-16T12:30:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index: Decline seen overdone – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) has steadied near a one‑month low after softer United States (US) Producer Price Index (PPI) and Consumer Price Index (CPI) data weighed on Fed funds pricing.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-decline-seen-overdone-bbh-202607161230",
+      "published": "2026-07-16T12:30:01+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver tumbles as energy-driven inflation fears keep rate outlook elevated",
+      "summary": "Silver (XAG/USD) falls toward $56.70 at the time of writing on Thursday, down 1.85% on the day. The white metal comes under selling pressure as renewed tensions between the United States (US) and Iran drive energy prices higher, reviving concerns about persistently elevated global inflation.",
+      "link": "https://www.fxstreet.com/news/silver-tumbles-as-energy-driven-inflation-fears-keep-rate-outlook-elevated-202607161200",
+      "published": "2026-07-16T12:00:05+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold slips as energy-driven inflation fears keep Fed rate hike bets in play",
+      "summary": "Gold (XAU/USD) edges lower on Thursday as traders look past back-to-back softer-than-expected US inflation reports and remain focused on renewed Middle East tensions, which are fueling concerns that higher energy prices could reignite inflationary pressure.",
+      "link": "https://www.fxstreet.com/news/gold-slips-as-energy-driven-inflation-fears-keep-fed-rate-hike-bets-in-play-202607161146",
+      "published": "2026-07-16T11:46:45+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: BoC on hold and hikes priced out – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports USD/CAD is consolidating losses after benign United States (US) Consumer Price Index (CPI) and Producer Price Index (PPI) data, with the Bank of Canada (BoC) leaving its policy rate unchanged at 2.25% for a sixth meeting.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-on-hold-and-hikes-priced-out-bbh-202607161144",
+      "published": "2026-07-16T11:44:39+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro turns upside down as US Dollar bounces back",
+      "summary": "The Euro (EUR) trades marginally lower to near 1.1460 against the US Dollar (USD) during the European trading session on Thursday after giving back its early gains.",
+      "link": "https://www.fxstreet.com/news/euro-turns-upside-down-as-us-dollar-bounces-back-202607161136",
+      "published": "2026-07-16T11:36:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Mixed range trade outlook against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/JPY has seen a slight increase in downward momentum, pointing to a lower intraday range around 161.70–162.30.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-mixed-range-trade-outlook-against-us-dollar-uob-202607161128",
+      "published": "2026-07-16T11:28:58+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -37,114 +118,6 @@
       "link": "https://www.fxstreet.com/news/brazilian-real-below-50dma-opens-move-to-500-societe-generale-202607161004",
       "published": "2026-07-16T10:04:26+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar consolidates gains as dwindling Fed hiking hopes hurt the US Dollar",
-      "summary": "The Australian Dollar (AUD) trades practically flat against a weaker US Dollar (USD) on Thursday as investors pare back bets of immediate Fed tightening, following unexpectedly soft US inflation figures earlier in the week.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-consolidates-gains-as-dwindling-fed-hiking-hopes-hurt-the-us-dollar-202607160953",
-      "published": "2026-07-16T09:53:49+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Losing more ground – ING",
-      "summary": "ING strategists Francesco Pesole, Frantisek Taborsky and Chris Turner note the Dollar remains under pressure after softer US CPI and PPI data, with FX volatility declining and Brent around $85.",
-      "link": "https://www.fxstreet.com/news/us-dollar-losing-more-ground-ing-202607160938",
-      "published": "2026-07-16T09:38:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) fell on Thursday, according to FXStreet data. Silver trades at $57.00 per troy ounce, down 1.34% from the $57.77 it cost on Wednesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607160932",
-      "published": "2026-07-16T09:32:45+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: UK 10 Yr Gilt Yield Actual 5.04% (Forecast -, Previous 4.934%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9680826/UK-10-Yr-Gilt-Yield-Actual-504-Forecast---Previous-4934.aspx?xy=rss",
-      "published": "2026-07-16T09:02:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/USD Price Forecast: Dip-buying favored on pullbacks below 1.3500",
-      "summary": "The GBP/USD pair attracts some sellers on Thursday and erodes a part of the previous day's strong gains to an over two-month high, around the 1.3555-1.3560 region.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-dip-buying-favored-on-pullbacks-below-13500-202607160902",
-      "published": "2026-07-16T09:02:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Momentum points to higher levels against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that AUD/USD has broken above significant resistance at 0.7015, with price action extending to 0.7021. In the next 24 hours, the Australian Dollar is expected to stay in a higher 0.6985–0.7025 range.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-momentum-points-to-higher-levels-against-us-dollar-uob-202607160857",
-      "published": "2026-07-16T08:57:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump Administration secures additional $100b US chip investment.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9680757/Trump-Administration-secures-additional-100b-US-chip-investment.aspx?xy=rss",
-      "published": "2026-07-16T08:29:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold bears retain control as Iran tensions fuel inflation fears and revive Fed hike bets",
-      "summary": "Gold (XAU/USD) sticks to modest intraday losses through the first half of the European session on Wednesday and currently trades near the lower end of its daily range, around the $4,025 region, down 0.85% for the day.",
-      "link": "https://www.fxstreet.com/news/gold-declines-as-iran-tensions-fuel-inflation-risks-revive-fed-hike-bets-and-support-usd-202607160358",
-      "published": "2026-07-16T08:25:57+00:00",
-      "score": 5
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Credit Ágrcole: Fed's Warsh - FJElite",
-      "summary": "<div><ul><li>Fed Chair Kevin Warsh did not tip his hand during the three-hour testimony before the House Financial Services Committee yesterday. A key message was that the FOMC has “no tolerance for persistently elevated inflation”.</li><li>Rates investors took comfort in the Fed’s commitment to price stability. Treasuries kept earlier gains from the weaker-than-expected June CPI report and revers",
-      "link": "https://www.financialjuice.com/News/9680756/Credit-%c3%81grcole-Feds-Warsh---FJElite.aspx?xy=rss",
-      "published": "2026-07-16T08:25:38+00:00",
-      "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "BoE’s Breeden: The central bank remains vigilant to inflation risks",
-      "summary": "Bank of England (BoE) Deputy Governor Sarah Breeden said during the European trading session on Thursday that the United Kingdom (UK) inflation would have been at the central bank’s 2% target if the Middle East war had not happened.",
-      "link": "https://www.fxstreet.com/news/boes-breeden-the-central-bank-remains-vigilant-to-inflation-risks-202607160825",
-      "published": "2026-07-16T08:25:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Softer inflation weighs on outlook – MUFG",
-      "summary": "MUFG’s Lee Hardman notes that the US Dollar has weakened, with the US Dollar Index (DXY) moving back towards 100.00 as softer June CPI and PPI data point to a lower monthly core PCE reading and reduced pressure on the Federal Reserve to tighten policy.",
-      "link": "https://www.fxstreet.com/news/us-dollar-softer-inflation-weighs-on-outlook-mufg-202607160824",
-      "published": "2026-07-16T08:24:44+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING: The GBP - FJElite",
-      "summary": "<div>The sterling short squeeze continues. The catalyst for EUR/GBP to break below 0.8500 yesterday was reports that Shabana Mahmood would be Andy Burnham’s pick for chancellor when he likely comes to power next week. Mahmood is seen to the right of the Labour Party and a less divisive - and potentially less fiscally expansive - candidate for chancellor than Ed Miliband. 10-year UK gilts outperfor",
-      "link": "https://www.financialjuice.com/News/9680755/ING-The-GBP---FJElite.aspx?xy=rss",
-      "published": "2026-07-16T08:24:21+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
@@ -183,12 +156,66 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: IRAN HAS ALLOWED AN AMERICAN CITIZEN, WHO WAS WRONGFULLY DETAINED IN DECEMBER OF 2024 UNDER BIDEN, TO LEAVE COUNTRY",
+      "summary": "<p>TRUMP: IRAN HAS ALLOWED AN AMERICAN CITIZEN, WHO WAS WRONGFULLY DETAINED IN DECEMBER OF 2024 UNDER BIDEN, TO LEAVE COUNTRY</p>",
+      "link": "https://nitter.net/DeItaone/status/2077527436816683518#m",
+      "published": "2026-07-15T22:55:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: WE WILL SOON TAKE ACTION TO MAKE IT EASIER FOR VETERANS TO BE TRUCK DRIVERS",
+      "summary": "<p>TRUMP: WE WILL SOON TAKE ACTION TO MAKE IT EASIER FOR VETERANS TO BE TRUCK DRIVERS</p>",
+      "link": "https://nitter.net/DeItaone/status/2077489237553729794#m",
+      "published": "2026-07-15T20:23:26+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says he just \"received a call\" from Iran and they \"want to meet\" with him. \"They want to settle so badly,\" Trump says. US oil prices extend gains to above $80/barrel.",
       "summary": "<p>BREAKING: President Trump says he just \"received a call\" from Iran and they \"want to meet\" with him.<br />\n<br />\n\"They want to settle so badly,\" Trump says.<br />\n<br />\nUS oil prices extend gains to above $80/barrel.</p>",
       "link": "https://nitter.net/KobeissiLetter/status/2077487110521565695#m",
       "published": "2026-07-15T20:14:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: THEY WILL BE DEFEATED SOON",
+      "summary": "<p>TRUMP ON IRAN: THEY WILL BE DEFEATED SOON</p>",
+      "link": "https://nitter.net/DeItaone/status/2077484982352650499#m",
+      "published": "2026-07-15T20:06:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: WE'LL FIND OUT IF WE SETTLE WITH THEM",
+      "summary": "<p>TRUMP ON IRAN: WE'LL FIND OUT IF WE SETTLE WITH THEM</p>",
+      "link": "https://nitter.net/DeItaone/status/2077477671840207102#m",
+      "published": "2026-07-15T19:37:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: THEY WANT TO SETTLE",
+      "summary": "<p>TRUMP ON IRAN: THEY WANT TO SETTLE</p>",
+      "link": "https://nitter.net/DeItaone/status/2077477623970607190#m",
+      "published": "2026-07-15T19:37:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: IRAN WANTS TO MEET",
+      "summary": "<p>TRUMP: IRAN WANTS TO MEET</p>",
+      "link": "https://nitter.net/DeItaone/status/2077474444939858278#m",
+      "published": "2026-07-15T19:24:39+00:00",
       "score": 1
     },
     {
@@ -298,15 +325,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2077136053832700395#m",
       "published": "2026-07-14T21:00:01+00:00",
       "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Post CPI outlook",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1uwgjn2/post_cpi_outlook/\"> <img alt=\"Post CPI outlook\" src=\"https://preview.redd.it/8k0feofkk8dh1.jpg?width=140&amp;height=98&amp;auto=webp&amp;s=3df3f0d5afe93f09c22c480726ee79e23479f838\" title=\"Post CPI outlook\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>#DXY Seems we are going back to initial plan sweep those lows into t",
-      "link": "https://www.reddit.com/r/Forex/comments/1uwgjn2/post_cpi_outlook/",
-      "published": "2026-07-14T18:11:20+00:00",
-      "score": 6
     },
     {
       "source": "r/Forex",
