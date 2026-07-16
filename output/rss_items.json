@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-07-16T21:35:19.353782+00:00",
+  "updated_at": "2026-07-16T22:39:14.370228+00:00",
   "count": 58,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft develops Mythos-style AI bug detector: The Information",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9681861/Microsoft-develops-Mythos-style-AI-bug-detector-The-Information.aspx?xy=rss",
+      "published": "2026-07-16T22:07:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Upside bias toward 6.7600 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight that USD/CNH downside momentum continues to build after the pair slipped to 6.7653. Intraday, there is a chance of testing major support at 6.7600 while staying below 6.7780.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-upside-bias-toward-67600-against-us-dollar-uob-202607162154",
+      "published": "2026-07-16T21:54:00+00:00",
+      "score": 1
+    },
     {
       "source": "Kobeissi Letter",
       "category": "twitter",
@@ -9,6 +27,15 @@
       "summary": "<p>The current bull run is historic:<br />\n<br />\nThe S&amp;P 500 is up +95% since the end of 2022, placing the current bull market within the strongest 10% at this stage of the cycle, in data going back to 1928.<br />\n<br />\nBy comparison, the top 25% of historical bull markets gained roughly +50% over the same period.<br />\n<br />\nMeanwhile, the median bull market delivered just ~35% after 3.5 y",
       "link": "https://nitter.net/KobeissiLetter/status/2077867841370354120#m",
       "published": "2026-07-16T21:27:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Hawkish BoK and equity correction support – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the Korean Won (KRW) is outperforming, supported by a hawkish 25 bps Bank of Korea (BoK) hike to 2.75% and expectations that growth and core inflation will exceed 2026 projections.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-hawkish-bok-and-equity-correction-support-bbh-202607162118",
+      "published": "2026-07-16T21:18:00+00:00",
       "score": 1
     },
     {
@@ -217,33 +244,6 @@
       "link": "https://www.fxstreet.com/news/gold-slips-as-energy-driven-inflation-fears-keep-fed-rate-hike-bets-in-play-202607161146",
       "published": "2026-07-16T15:34:14+00:00",
       "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc falls as Middle East tensions keep Fed rate hike expectations alive",
-      "summary": "The Swiss Franc (CHF) weakens against the US Dollar (USD) on Thursday as the Greenback regains its footing following a two-day decline. At the time of writing, USD/CHF trades around 0.8080, up nearly 0.35% on the day, rebounding from an intraday low of 0.8044.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-falls-as-middle-east-tensions-keep-fed-rate-hike-expectations-alive-202607161526",
-      "published": "2026-07-16T15:26:29+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar holds above 0.7000 as US Retail Sales lose momentum",
-      "summary": "AUD/USD trades slightly higher near the 0.7010 area on Thursday, extending its recent recovery as the US Dollar (USD) struggles to gain sustained momentum following mixed United States (US) economic data.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-above-07000-as-us-retail-sales-lose-momentum-202607161515",
-      "published": "2026-07-16T15:15:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Gains eye 1.3981 against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report USD/CAD is flat after the Bank of Canada (BoC) left policy unchanged and maintained a cautious tone on growth and inflation.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-eye-13981-against-us-dollar-scotiabank-202607161510",
-      "published": "2026-07-16T15:10:29+00:00",
-      "score": 2
     },
     {
       "source": "Federal Reserve",
