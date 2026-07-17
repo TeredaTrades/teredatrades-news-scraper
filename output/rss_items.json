@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-07-17T10:56:24.630543+00:00",
-  "count": 59,
+  "updated_at": "2026-07-17T12:14:39.086406+00:00",
+  "count": 53,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee gains temporary ground, higher oil prices keep upside limited",
+      "summary": "The Indian Rupee (INR) trades marginally higher against the US Dollar (USD) while entering the weekend. The USD/INR pair ticks down to near 96.30 as the Indian currency rises, following Reserve Bank of India’s intervention.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-rbis-intervention-downside-remains-favored-202607170530",
+      "published": "2026-07-17T11:20:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "DXY Outlook",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1uywuhi/dxy_outlook/\"> <img alt=\"DXY Outlook\" src=\"https://preview.redd.it/j5qexwi1yrdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb9d433e4c094d20b88c2383389827ffaa757090\" title=\"DXY Outlook\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Nice Reaction as we anticipated yesterday.... Newyork should send it even higher.",
+      "link": "https://www.reddit.com/r/Forex/comments/1uywuhi/dxy_outlook/",
+      "published": "2026-07-17T11:20:43+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc: Intervention risk keeps Franc lagging – OCBC",
+      "summary": "OCBC Bank strategists Sim Moh Siong and Christopher Wong note the Swiss Franc (CHF) has lost much of its safe-haven appeal as Swiss National Bank (SNB) intervention risk and low yields weigh on performance.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-intervention-risk-keeps-franc-lagging-ocbc-202607171114",
+      "published": "2026-07-17T11:14:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "GBP/USD Price Forecast: British Pound extends weakness in process of UK leadership change",
+      "summary": "The British Pound (GBP) extends its decline against the US Dollar (USD) for the second straight day on Friday, trading 0.4% lower to near 1.3427 during the European trading session on Friday.",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-british-pound-extends-weakness-in-process-of-uk-leadership-change-202607171113",
+      "published": "2026-07-17T11:13:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar declines as Middle East tensions boost the US Dollar",
+      "summary": "AUD/USD trades around 0.6970 on Friday at the time of writing, down 0.36% on the day, as the Australian Dollar (AUD) comes under pressure for a second consecutive day amid renewed US Dollar (USD) strength. Despite the latest pullback, the pair is still on track for a third consecutive weekly gain.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-as-middle-east-tensions-boost-the-us-dollar-202607171106",
+      "published": "2026-07-17T11:06:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold Price Forecast: XAU/USD hovers below $4,000 with the YTD low at hand",
+      "summary": "Gold (XAU/USD) shows moderate gains on Friday, but remains close to the year-to-date lows, at the $3,940 area, with upside attempts capped below the $4,000 psychological level for now.",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-hovers-below-4-000-with-the-ytd-low-at-hand-202607171059",
+      "published": "2026-07-17T10:59:54+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "summary": "Silver prices (XAG/USD) fell on Friday, according to FXStreet data. Silver trades at $55.44 per troy ounce, down 0.17% from the $55.53 it cost on Thursday.",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607171028",
+      "published": "2026-07-17T10:28:02+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "BoJ to leave interest rates in July policy meeting - Kyodo",
+      "summary": "According to a Kyodo News report, the Bank of Japan (BoJ) is expected to keep interest rates unchanged at 1% in the July policy meeting, people familiar with the matter told. The report also showed that the central bank will likely raise its growth forecast for the year.",
+      "link": "https://www.fxstreet.com/news/boj-to-leave-interest-rates-in-july-policy-meeting-kyodo-202607171025",
+      "published": "2026-07-17T10:25:47+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -37,15 +109,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-smile-narrative-supports-gradual-gains-ocbc-202607170917",
       "published": "2026-07-17T09:17:07+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee holds early ground, elevated oil prices keep upside limited",
-      "summary": "The Indian Rupee (INR) trades marginally higher against the US Dollar (USD) while entering the weekend. The USD/INR pair ticks down to near 96.30 as the Indian currency rises, following Reserve Bank of India’s intervention.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-rbis-intervention-downside-remains-favored-202607170530",
-      "published": "2026-07-17T09:01:33+00:00",
-      "score": 1
     },
     {
       "source": "FinancialJuice",
@@ -111,96 +174,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs: ECB Chatter - FJElite",
-      "summary": "<div>Inflation risks still to the upside. ECB officials have stressed that risks for inflation remained to the upside since the resumption of military conflict in the Middle East. And while some policymakers—such as National Bank of Belgium Governor Wunsch—had welcomed the earlier decline in energy prices, most rate setters— including Executive Board member Schnabel—had pointed to ongoing pipeline",
-      "link": "https://www.financialjuice.com/News/9682594/Goldman-Sachs-ECB-Chatter---FJElite.aspx?xy=rss",
-      "published": "2026-07-17T08:27:29+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Fed path and inflation risks – Wells Fargo",
-      "summary": "Wells Fargo Economics, led by Tom Porcelli and colleagues, expects the Federal Reserve to keep the fed funds rate at 3.50%-3.75% through year-end 2027, with 10-year Treasury yields near 4.35% in 2026 and 4.30% in 2027.",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-path-and-inflation-risks-wells-fargo-202607170826",
-      "published": "2026-07-17T08:26:14+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "APPLE SHARES UP 0.6% PREMARKET AFTER HSBC RAISES TO BUY FROM HOLD",
-      "summary": "<p>APPLE SHARES UP 0.6% PREMARKET AFTER HSBC RAISES TO BUY FROM HOLD</p>",
-      "link": "https://nitter.net/DeItaone/status/2078033423151604149#m",
-      "published": "2026-07-17T08:25:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$AAPL - APPLE INC: HSBC RAISES TO BUY FROM HOLD; RAISES TARGET PRICE TO $366 FROM $260",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a> - APPLE INC: HSBC RAISES TO BUY FROM HOLD; RAISES TARGET PRICE TO $366 FROM $260</p>",
-      "link": "https://nitter.net/DeItaone/status/2078033122751328376#m",
-      "published": "2026-07-17T08:24:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold bulls seem hesitant as US-Iran tensions and Fed hike bets underpin USD",
-      "summary": "Gold (XAU/USD) struggles to capitalize on its modest intraday recovery beyond the $4,000 psychological mark and remains within striking distance of the monthly trough.",
-      "link": "https://www.fxstreet.com/news/gold-recovers-from-monthly-low-hawkish-fed-outlook-and-firm-usd-to-limit-gains-202607170415",
-      "published": "2026-07-17T08:22:54+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Oil: Higher Brent supports inflation concerns – Deutsche Bank",
-      "summary": "Deutsche Bank’s Early Morning Reid notes Brent Oil trading around $85 per barrel, with prices slightly higher at $85.12/bbl and on course for a first close above $85 in over a month.",
-      "link": "https://www.fxstreet.com/news/oil-higher-brent-supports-inflation-concerns-deutsche-bank-202607170811",
-      "published": "2026-07-17T08:11:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "European Central Bank: September hike still on table – Commerzbank",
-      "summary": "Commerzbank economists led by Dr. Marco Wagner and Dr. Jörg Krämer expect the European Central Bank (ECB) to leave rates unchanged in July but still deliver a further 25 bps hike in September.",
-      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-still-on-table-commerzbank-202607170757",
-      "published": "2026-07-17T07:57:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro flattens against US Dollar while entering the weekend",
-      "summary": "The Euro (EUR) trades flat against the US Dollar (USD) at around 1.1445 during the European trading session on Friday. The EUR/USD pair is expected to trade with caution amid continued military aggression between the United States (US) and Iran.",
-      "link": "https://www.fxstreet.com/news/euro-flattens-against-us-dollar-while-entering-the-weekend-202607170751",
-      "published": "2026-07-17T07:51:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones futures slip ahead of Michigan Consumer Sentiment Index",
-      "summary": "Dow Jones futures fall by 0.65% to trade around 52,440 during European trading hours on Friday. Meanwhile, S&amp;P 500 futures and Nasdaq 100 futures decline 0.88% and 1.69%, trading near 7,510 and 28,730, respectively. Traders await the preliminary Michigan Consumer Sentiment Index for July.",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-slip-ahead-of-michigan-consumer-sentiment-index-202607170746",
-      "published": "2026-07-17T07:46:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro trims losses against the British Pound, supported by ECB tightening hopes",
-      "summary": "The Euro (EUR) trades higher against the British Pound (GBP) on Friday, returning to levels near 0.8500 from 13-month lows of 0.8455 amid speculation that the European Central Bank (ECB) will hike rates in the coming months.",
-      "link": "https://www.fxstreet.com/news/euro-trims-losses-against-the-british-pound-supported-by-ecb-tightening-hopes-202607170742",
-      "published": "2026-07-17T07:42:24+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "My London setup",
@@ -244,24 +217,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1uydw68/xuausd_follows_xagusd/",
       "published": "2026-07-16T20:11:44+00:00",
       "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "White House: Trump may mention iran in speech tonight",
-      "summary": "<p>White House: Trump may mention iran in speech tonight</p>",
-      "link": "https://nitter.net/DeItaone/status/2077813662115410188#m",
-      "published": "2026-07-16T17:52:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "White House: Trump and Vance on exact same page on Iran conflict",
-      "summary": "<p>White House: Trump and Vance on exact same page on Iran conflict</p>",
-      "link": "https://nitter.net/DeItaone/status/2077812550339629127#m",
-      "published": "2026-07-16T17:48:10+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -334,15 +289,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1uy2mif/xauusd_and_xagusd_update/",
       "published": "2026-07-16T13:17:00+00:00",
       "score": 5
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Is a PF of 2.3 sustainable?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I've developed a strategy thats 99% mechanical, has about 2 trades a day and has around 240 trades of data (High WR low RR). Its currently sitting at around a PF of 2.3. Is this sustainable for some years to come? as google tells me it's unrealistically high.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Dry_Refrigerator252",
-      "link": "https://www.reddit.com/r/Forex/comments/1uy2cn5/is_a_pf_of_23_sustainable/",
-      "published": "2026-07-16T13:05:41+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
