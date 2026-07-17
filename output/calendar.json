@@ -672,14 +672,6 @@
     "previous": ""
   },
   {
-    "title": "Treasury Currency Report",
-    "country": "USD",
-    "date": "2026-07-16T16:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "FPI m/m",
     "country": "NZD",
     "date": "2026-07-16T18:45:00-04:00",
@@ -790,5 +782,13 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "4.6%"
+  },
+  {
+    "title": "Treasury Currency Report",
+    "country": "USD",
+    "date": "2026-07-17T16:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   }
 ]
