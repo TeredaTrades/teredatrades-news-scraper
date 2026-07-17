@@ -1,15 +1,114 @@
 {
-  "updated_at": "2026-07-17T01:12:10.613492+00:00",
-  "count": 59,
+  "updated_at": "2026-07-17T04:27:23.834052+00:00",
+  "count": 51,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Trump begins national address",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9682011/Trump-begins-national-address.aspx?xy=rss",
-      "published": "2026-07-17T01:01:34+00:00",
+      "title": "Gold recovers from monthly low; hawkish Fed outlook and firm USD to limit gains",
+      "summary": "Gold (XAU/USD) attracts some buyers during the Asian session on Friday, reversing a part of the previous day's losses back closer to the monthly low. Any meaningful recovery, however, seems elusive amid a bearish fundamental backdrop.",
+      "link": "https://www.fxstreet.com/news/gold-recovers-from-monthly-low-hawkish-fed-outlook-and-firm-usd-to-limit-gains-202607170415",
+      "published": "2026-07-17T04:15:37+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc steadies against Dollar as US-Iran tensions counter shifting Fed outlook",
+      "summary": "USD/CHF holds ground after registering modest gains in the previous day, trading around 0.8090 during the Asian hours on Friday. The pair could rise as the US Dollar (USD) receives support from escalating developments surrounding conflicts in the Middle East.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-steadies-against-dollar-as-us-iran-tensions-counter-shifting-fed-outlook-202607170414",
+      "published": "2026-07-17T04:14:27+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Love it when price action isn't random - GBPUSD",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1uyosaq/love_it_when_price_action_isnt_random_gbpusd/\"> <img alt=\"Love it when price action isn't random - GBPUSD\" src=\"https://preview.redd.it/qwwlhq66ppdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b7b71fb0730a155b400aff23d6e0bbc7fa8f974e\" title=\"Love it when price action isn't random - GBPUSD\" /> </a> </td><td> <!-- SC_OFF",
+      "link": "https://www.reddit.com/r/Forex/comments/1uyosaq/love_it_when_price_action_isnt_random_gbpusd/",
+      "published": "2026-07-17T03:54:58+00:00",
       "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan loses as safe-haven demand lifts US Dollar",
+      "summary": "USD/CNH gains ground for the second successive day, trading around 6.7760 during the Asian hours on Friday. The pair appreciates as the US Dollar (USD) receives support from escalating developments surrounding conflicts in the Middle East.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-loses-as-safe-haven-demand-lifts-us-dollar-202607170239",
+      "published": "2026-07-17T02:39:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen softens on renewed US-Iran tensions, Japan flags intervention risk",
+      "summary": "The USD/JPY pair posts modest gains near 162.40 during the Asian trading hours on Friday. The US Dollar (USD) strengthens against the Japanese Yen (JPY) as the United States (US) launches a new wave of strikes against Iran for a sixth night in a row.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-softens-on-renewed-us-iran-tensions-japan-flags-intervention-risk-202607170236",
+      "published": "2026-07-17T02:36:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar moves away from three-week top as geopolitics and Fed hike bets lift USD",
+      "summary": "The AUD/USD pair remains on the back foot for the second straight day and slides to the 0.7980 region during the Asian session on Friday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-moves-away-from-three-week-top-as-geopolitics-and-fed-hike-bets-lift-usd-202607170224",
+      "published": "2026-07-17T02:24:45+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound weakens below 1.3500 as US launches new wave of strikes against Iran",
+      "summary": "The GBP/USD pair trades on a softer note around 1.3470 during the Asian trading hours on Friday. Geopolitical tensions in the Middle East trigger risk-off market sentiment and weigh on the Cable. The preliminary reading of the Michigan Consumer Sentiment Index for July is due later on Friday.",
+      "link": "https://www.fxstreet.com/news/british-pound-weakens-below-13500-as-us-launches-new-wave-of-strikes-against-iran-202607170145",
+      "published": "2026-07-17T01:45:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD falls to near $55.50 amid interest rate concerns",
+      "summary": "Silver price (XAG/USD) remains subdued for the third successive day, trading around $55.50 per troy ounce during the Asian hours on Thursday. Silver is on track to drop over 7% this week as escalating Middle East tensions drive oil prices up.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-5550-amid-interest-rate-concerns-202607170136",
+      "published": "2026-07-17T01:36:45+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Donald Trump begins widely anticipated address to the nation",
+      "summary": "US President Donald Trump is delivering a primetime address to the nation from the White House on Friday.",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-begins-widely-anticipated-address-to-the-nation-202607170116",
+      "published": "2026-07-17T01:16:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7934 vs. 6.7909 previous",
+      "summary": "On Friday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7934 compared to the previous day's fix of 6.7909 and 6.7734 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67934-vs-67909-previous-202607170115",
+      "published": "2026-07-17T01:15:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar rises amid sticky inflation fears, escalating Middle East tensions",
+      "summary": "NZD/USD inches higher after posting minor losses in the previous day, trading around 0.5840 during the Asian hours on Friday. The currency pair remains stronger as the New Zealand Dollar (NZD) holds its ground following the release of the country's latest food price data.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rises-amid-sticky-inflation-fears-escalating-middle-east-tensions-202607170108",
+      "published": "2026-07-17T01:08:02+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index consolidates above 100.50 as traders look to Trump's speech",
+      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, is seen oscillating in a narrow range just above the 100.50 level as traders await US President Donald Trump's speech.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-consolidates-above-10050-as-traders-look-to-trumps-speech-202607170105",
+      "published": "2026-07-17T01:05:46+00:00",
+      "score": 2
     },
     {
       "source": "FXStreet",
@@ -27,24 +126,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>I've been trying different proprietary trading firms over the past few years, and I recently decided to spend some time testing WMT. I wanted to share my experience because there isn't a huge amount of detailed user feedback available, and I think balanced reviews are more useful than exaggerated praise or criticism.</p> <p>The first thing I notice",
       "link": "https://www.reddit.com/r/Forex/comments/1uyjz3d/my_experience_with_wmt_a_balanced_review_after/",
       "published": "2026-07-17T00:11:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Jefferson: Economic impact from AI likely to cause lasting shifts in supply and demand",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9681954/Feds-Jefferson-Economic-impact-from-AI-likely-to-cause-lasting-shifts-in-supply-and-demand.aspx?xy=rss",
-      "published": "2026-07-16T23:41:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed vice chair Jefferson: labor market steadies",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9681953/Fed-vice-chair-Jefferson-labor-market-steadies.aspx?xy=rss",
-      "published": "2026-07-16T23:39:50+00:00",
       "score": 1
     },
     {
@@ -66,57 +147,12 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Jefferson: if demand impacts from AI expansion and use happen before AI productivity gains, AI might push inflation up",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9681929/Feds-Jefferson-if-demand-impacts-from-AI-expansion-and-use-happen-before-AI-productivity-gains-AI-might-push-inflation-up.aspx?xy=rss",
-      "published": "2026-07-16T23:10:20+00:00",
-      "score": 2
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "South Korean Won: BoK hike and semiconductor volatility – BNY",
       "summary": "BNY’s Geoff Yu highlights a hawkish 25bp hike by the Bank of Korea (BoK) to 2.75%, with guidance that Gross Domestic Product (GDP) and core inflation will exceed earlier forecasts.",
       "link": "https://www.fxstreet.com/news/south-korean-won-bok-hike-and-semiconductor-volatility-bny-202607162247",
       "published": "2026-07-16T22:47:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Crude Oil watches the region catch fire and still cannot clear its ceiling",
-      "summary": "West Texas Intermediate (WTI) Crude Oil is fading about one percent to just below $79.00 after a third consecutive failure at the $80.00 handle, where the 50-day Exponential Moving Average sits just above the figure and refuses to yield.",
-      "link": "https://www.fxstreet.com/news/crude-oil-watches-the-region-catch-fire-and-still-cannot-clear-its-ceiling-202607162223",
-      "published": "2026-07-16T22:23:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Australian Dollar stalls exactly where everybody said it would",
-      "summary": "The Australian Dollar is going nowhere with great precision, with AUD/USD flat on the session and pinned to the 0.7000 handle for a fourth consecutive day.",
-      "link": "https://www.fxstreet.com/news/the-australian-dollar-stalls-exactly-where-everybody-said-it-would-202607162223",
-      "published": "2026-07-16T22:23:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The British Pound Sterling gets a new Prime Minister and an old problem",
-      "summary": "Sterling is enduring its heaviest session of the month, with GBP/USD fading around half of one percent to just below 1.3500 after the week's advance stalled short of 1.3550 for a second consecutive day.",
-      "link": "https://www.fxstreet.com/news/the-british-pound-sterling-gets-a-new-prime-minister-and-an-old-problem-202607162222",
-      "published": "2026-07-16T22:22:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Upside bias toward 6.7600 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight that USD/CNH downside momentum continues to build after the pair slipped to 6.7653. Intraday, there is a chance of testing major support at 6.7600 while staying below 6.7780.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-upside-bias-toward-67600-against-us-dollar-uob-202607162154",
-      "published": "2026-07-16T21:54:00+00:00",
       "score": 1
     },
     {
@@ -129,42 +165,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South Korean Won: Hawkish BoK and equity correction support – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the Korean Won (KRW) is outperforming, supported by a hawkish 25 bps Bank of Korea (BoK) hike to 2.75% and expectations that growth and core inflation will exceed 2026 projections.",
-      "link": "https://www.fxstreet.com/news/south-korean-won-hawkish-bok-and-equity-correction-support-bbh-202607162118",
-      "published": "2026-07-16T21:18:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Thai Baht: Overvaluation points to weakness against US Dollar - MUFG",
-      "summary": "MUFG’s Lloyd Chan notes that softer US inflation data has weakened the Dollar and lowered Fed rate hike expectations, but USD/THB has still broken above 33.50.",
-      "link": "https://www.fxstreet.com/news/thai-baht-overvaluation-points-to-weakness-against-us-dollar-mufg-202607162041",
-      "published": "2026-07-16T20:41:00+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CHF Price Forecast: Swissie rebounds at 0.8042 support",
-      "summary": "The USD/CHF reversed course, rising by over 0.40% late Thursday as the Greenback staged a recovery amid overall risk aversion, heightened tensions in the Middle East, and strong US economic data. The pair trades at 0.8088 after bouncing off daily lows of 0.8045.",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-rebounds-at-08042-support-bulls-target-081-202607162033",
-      "published": "2026-07-16T20:33:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar rises on resilient labor data, while Oil and Gold fall",
-      "summary": "The US Dollar Index (DXY) rises toward 100.80, gaining around 0.3% as stronger-than-expected United States labor-market data supports the Greenback. US Initial Jobless Claims fell to 208K, below expectations of 217K and the previous 216K.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-rises-on-resilient-labor-data-while-oil-and-gold-fall-202607162023",
-      "published": "2026-07-16T20:23:11+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "XUAUSD follows XAGUSD",
@@ -172,51 +172,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1uydw68/xuausd_follows_xagusd/",
       "published": "2026-07-16T20:11:44+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Further upside risk builds against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD downside momentum has intensified after a sharp intraday swing, with firm support highlighted at 1.2875 and 1.2860.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-further-upside-risk-builds-against-us-dollar-uob-202607161957",
-      "published": "2026-07-16T19:57:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Gradual gains with capped upside against US Dollar – OCBC",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong note that USD/CNY has extended its decline on softer United States (US) Consumer Price Index (CPI) and Producer Price Index (PPI), with firmer People's Bank of China (PBoC) fixings validating gradual RMB appreciation.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-gains-with-capped-upside-against-us-dollar-ocbc-202607161916",
-      "published": "2026-07-16T19:16:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro falls as strong US jobless claims support US Dollar",
-      "summary": "EUR/USD trades lower near the 1.1440 area on Thursday, retreating around 0.2% as the US Dollar (USD) gains support from stronger-than-expected United States (US) labor market data.",
-      "link": "https://www.fxstreet.com/news/euro-falls-as-strong-us-jobless-claims-support-us-dollar-202607161847",
-      "published": "2026-07-16T18:47:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "White House: Trump may mention iran in speech tonight",
-      "summary": "<p>White House: Trump may mention iran in speech tonight</p>",
-      "link": "https://nitter.net/DeItaone/status/2077813662115410188#m",
-      "published": "2026-07-16T17:52:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "White House: Trump and Vance on exact same page on Iran conflict",
-      "summary": "<p>White House: Trump and Vance on exact same page on Iran conflict</p>",
-      "link": "https://nitter.net/DeItaone/status/2077812550339629127#m",
-      "published": "2026-07-16T17:48:10+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -235,15 +190,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2077791507336081893#m",
       "published": "2026-07-16T16:24:33+00:00",
       "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "MORTGAGE RATES HIT ONE-YEAR HIGH US mortgage rates climbed to 6.55%, their highest level in nearly a year, as renewed Middle East tensions fueled inflation fears. Higher borrowing costs are cooling demand, with home sales falling and many first-time buyers priced out. Wealthier buyers continue to support prices, pushing the median US home sale price to a new record.",
-      "summary": "<p>MORTGAGE RATES HIT ONE-YEAR HIGH<br />\n<br />\nUS mortgage rates climbed to 6.55%, their highest level in nearly a year, as renewed Middle East tensions fueled inflation fears.<br />\n<br />\nHigher borrowing costs are cooling demand, with home sales falling and many first-time buyers priced out.<br />\n<br />\nWealthier buyers continue to support prices, pushing the median US home sale price to a n",
-      "link": "https://nitter.net/DeItaone/status/2077789800757608686#m",
-      "published": "2026-07-16T16:17:46+00:00",
-      "score": 2
     },
     {
       "source": "Kobeissi Letter",
@@ -369,24 +315,6 @@
       "summary": "<p>Market selloffs are becoming increasingly selective:<br />\n<br />\nOver the last 20 S&amp;P 500 down days, an average of 239 stocks finished positive, the highest reading on record.<br />\n<br />\nThis is TRIPLE the levels seen during the 2022 bear market and nearly double the 20-year average of 133 stocks.<br />\n<br />\nSince June 1st, 9 of the last 14 down days in the S&amp;P 500 saw ~64% of inde",
       "link": "https://nitter.net/KobeissiLetter/status/2077461521609928735#m",
       "published": "2026-07-15T18:33:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Semiconductor stocks are the new leaders of the market: Micron, $MU, has contributed ~1.4 percentage points to the S&P 500's +8% gain over the last 6 months, the largest contribution of any index constituent. This comes as the stock rallied +188% over this period. AMD, $AMD, ranks 2nd with a ~0.9 percentage point contribution after surging +158%. Apple, $AAPL, and Intel, $INTC, follow with ~0.8 percentage point contributions as their stocks gained +20% and +205%, respectively. Broadcom, $AVGO, Nvidia, $NVDA, and Sandisk, $SNDK, each added ~0.4 percentage points with returns of +9%, +5%, and +395%, respectively. A handful of chip stocks are powering the broader market.",
-      "summary": "<p>Semiconductor stocks are the new leaders of the market:<br />\n<br />\nMicron, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MU\">$MU</a>, has contributed ~1.4 percentage points to the S&amp;P 500's +8% gain over the last 6 months, the largest contribution of any index constituent.<br />\n<br />\nThis comes as the stock rallied +188% over this period.<br />\n<br />\nAMD, <a href=\"https://nitter",
-      "link": "https://nitter.net/KobeissiLetter/status/2077445618373456272#m",
-      "published": "2026-07-15T17:30:07+00:00",
-      "score": 3
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "RT by @KobeissiLetter: Looking forward to joining the great Charles Payne, @cvpayne, today on Fox Business at 2:50 PM ET! I will be discussing @KobeissiLetter's latest market outlook as we kick off the second half of 2026. Lots to consider ranging from geopolitics, to AI, to interest rates. Tune in LIVE at 2:50 PM ET!",
-      "summary": "<p>Looking forward to joining the great Charles Payne, <a href=\"https://nitter.net/cvpayne\" title=\"Charles V Payne\">@cvpayne</a>, today on Fox Business at 2:50 PM ET!<br />\n<br />\nI will be discussing <a href=\"https://nitter.net/KobeissiLetter\" title=\"The Kobeissi Letter\">@KobeissiLetter</a>'s latest market outlook as we kick off the second half of 2026.<br />\n<br />\nLots to consider ranging from ",
-      "link": "https://nitter.net/TKL_Adam/status/2077435775088578679#m",
-      "published": "2026-07-15T16:51:00+00:00",
       "score": 1
     },
     {
