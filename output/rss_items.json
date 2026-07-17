@@ -1,13 +1,94 @@
 {
-  "updated_at": "2026-07-17T14:06:59.884538+00:00",
-  "count": 61,
+  "updated_at": "2026-07-17T15:41:09.670897+00:00",
+  "count": 65,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc holds gains against US Dollar as Middle East tensions outweigh upbeat US data",
+      "summary": "USD/CHF trades around 0.8070 at the time of writing on Friday, down 0.22% on the day. The pair remains under pressure as safe-haven demand for the Swiss Franc (CHF) offsets modest support for the US Dollar (USD) following stronger-than-expected US consumer sentiment data.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-holds-gains-against-us-dollar-as-middle-east-tensions-outweigh-upbeat-us-data-202607171458",
+      "published": "2026-07-17T14:58:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Global FX: Divergent central bank paths and Oil – Wells Fargo",
+      "summary": "Wells Fargo Economics has raised its global Gross Domestic Product (GDP) forecast to 2.7% for 2026 and trimmed global Consumer Price Index (CPI) to 4.3%, reflecting a slightly lower Oil price path.",
+      "link": "https://www.fxstreet.com/news/global-fx-divergent-central-bank-paths-and-oil-wells-fargo-202607171449",
+      "published": "2026-07-17T14:49:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Hammack: Persistently high inflation is the bigger concern",
+      "summary": "Federal Reserve (Fed) Bank of Cleveland President Beth Hammack said in a LinkedIn post on Friday that inflation pressure remains broad-based, with businesses calling for policy action and consumers expressing a growing sense of despair as they struggle to cover their expenses.",
+      "link": "https://www.fxstreet.com/news/feds-hammack-persistently-high-inflation-is-the-bigger-concern-202607171445",
+      "published": "2026-07-17T14:45:35+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Modest pullback before ECB decision against US Dollar – Scotiabank",
+      "summary": "Scotiabank’s Shaun Osborne and Eric Theoret report EUR/USD trading slightly lower in quiet conditions as markets look ahead to next week’s ECB meeting, with policymakers in a blackout period and implied volatility subdued. They and consensus expect no policy change.",
+      "link": "https://www.fxstreet.com/news/euro-modest-pullback-before-ecb-decision-against-us-dollar-scotiabank-202607171441",
+      "published": "2026-07-17T14:41:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold trades below $4,000 as stronger US Dollar, hawkish Fed outlook weigh",
+      "summary": "Gold (XAU/USD) holds firm on Friday but lacks bullish momentum as rising Oil prices revive inflation concerns and reinforce expectations that the Federal Reserve (Fed) could raise interest rates later this year.",
+      "link": "https://www.fxstreet.com/news/gold-steadies-below-4-000-as-hawkish-fed-outlook-caps-recovery-202607171151",
+      "published": "2026-07-17T14:37:22+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canada: Energy-led CPI pullback supports BoC – TD Securities",
+      "summary": "TD Securities’ Robert Both expects Canadian headline CPI to ease to 2.9% year-on-year in June, with a 0.2% monthly decline driven by sharply lower Energy prices.",
+      "link": "https://www.fxstreet.com/news/canada-energy-led-cpi-pullback-supports-boc-td-securities-202607171432",
+      "published": "2026-07-17T14:32:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Rally stalls as Fed outlook stays hawkish – Commerzbank",
+      "summary": "Thu Lan Nguyen at Commerzbank notes that weaker United States (US  inflation data briefly supported Gold, but the price has slipped back below USD 4,000 per troy ounce.",
+      "link": "https://www.fxstreet.com/news/gold-rally-stalls-as-fed-outlook-stays-hawkish-commerzbank-202607171422",
+      "published": "2026-07-17T14:22:50+00:00",
+      "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "CHIP STOCKS HIT HARD U.S. semiconductor stocks are heading for their worst week in over 15 months, with the Philadelphia Semiconductor Index down 12.5%. Investors are questioning the strength of the AI-driven rally after China’s Moonshot unveiled a powerful open AI model. Nvidia, AMD and Broadcom all fell sharply, though the chip index remains up more than 60% this year.",
+      "summary": "<p>CHIP STOCKS HIT HARD<br />\n<br />\nU.S. semiconductor stocks are heading for their worst week in over 15 months, with the Philadelphia Semiconductor Index down 12.5%. Investors are questioning the strength of the AI-driven rally after China’s Moonshot unveiled a powerful open AI model. Nvidia, AMD and Broadcom all fell sharply, though the chip index remains up more than 60% this year.</p>",
+      "link": "https://nitter.net/DeItaone/status/2078119763281170580#m",
+      "published": "2026-07-17T14:08:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: Hearing from businesses who say they think we need to take action to curb inflation, and from consumers who can’t make ends meet about a growing sense of despair.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9683112/Feds-Hammack-Hearing-from-businesses-who-say-they-think-we-need-to-take-action-to-curb-inflation-and-from-consumers-who-cant-make-ends-meet-about-a-growing-sense-of-despair.aspx?xy=rss",
+      "published": "2026-07-17T14:06:53+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Fed's Hammack: I’m seeing good growth numbers and stable consumer spending.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9683111/Feds-Hammack-Im-seeing-good-growth-numbers-and-stable-consumer-spending.aspx",
+      "link": "https://www.financialjuice.com/News/9683111/Feds-Hammack-Im-seeing-good-growth-numbers-and-stable-consumer-spending.aspx?xy=rss",
       "published": "2026-07-17T14:06:38+00:00",
       "score": 1
     },
@@ -16,7 +97,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Hammack: Business leaders point to energy costs and supply chain disruptions as factors, but also cite pressures from insurance and the AI data center buildup.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9683110/Feds-Hammack-Business-leaders-point-to-energy-costs-and-supply-chain-disruptions-as-factors-but-also-cite-pressures-from-insurance-and-the-AI-data-center-buildup.aspx",
+      "link": "https://www.financialjuice.com/News/9683110/Feds-Hammack-Business-leaders-point-to-energy-costs-and-supply-chain-disruptions-as-factors-but-also-cite-pressures-from-insurance-and-the-AI-data-center-buildup.aspx?xy=rss",
       "published": "2026-07-17T14:06:34+00:00",
       "score": 1
     },
@@ -25,7 +106,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Hammack: At the same time, I’m seeing good growth numbers and stable consumer spending.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9683109/Feds-Hammack-At-the-same-time-Im-seeing-good-growth-numbers-and-stable-consumer-spending.aspx",
+      "link": "https://www.financialjuice.com/News/9683109/Feds-Hammack-At-the-same-time-Im-seeing-good-growth-numbers-and-stable-consumer-spending.aspx?xy=rss",
       "published": "2026-07-17T14:06:29+00:00",
       "score": 1
     },
@@ -34,7 +115,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Hammack: I consider the data as well as conversations I’ve had with business and community leaders in the 4th Fed District.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9683108/Feds-Hammack-I-consider-the-data-as-well-as-conversations-Ive-had-with-business-and-community-leaders-in-the-4th-Fed-District.aspx",
+      "link": "https://www.financialjuice.com/News/9683108/Feds-Hammack-I-consider-the-data-as-well-as-conversations-Ive-had-with-business-and-community-leaders-in-the-4th-Fed-District.aspx?xy=rss",
       "published": "2026-07-17T14:06:20+00:00",
       "score": 1
     },
@@ -43,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Hammack: I’m hearing from conversations with business and community leaders that inflation isn’t coming from only one source—it’s broad-based.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9683107/Feds-Hammack-Im-hearing-from-conversations-with-business-and-community-leaders-that-inflation-isnt-coming-from-only-one-sourceits-broad-based.aspx",
+      "link": "https://www.financialjuice.com/News/9683107/Feds-Hammack-Im-hearing-from-conversations-with-business-and-community-leaders-that-inflation-isnt-coming-from-only-one-sourceits-broad-based.aspx?xy=rss",
       "published": "2026-07-17T14:06:19+00:00",
       "score": 2
     },
@@ -52,7 +133,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Hammack: Persistently high inflation is the bigger concern.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9683106/Feds-Hammack-Persistently-high-inflation-is-the-bigger-concern.aspx",
+      "link": "https://www.financialjuice.com/News/9683106/Feds-Hammack-Persistently-high-inflation-is-the-bigger-concern.aspx?xy=rss",
       "published": "2026-07-17T14:06:02+00:00",
       "score": 2
     },
@@ -61,7 +142,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Hammack: There is no conflict in our mandate - LinkedIn Post",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9683105/Feds-Hammack-There-is-no-conflict-in-our-mandate---LinkedIn-Post.aspx",
+      "link": "https://www.financialjuice.com/News/9683105/Feds-Hammack-There-is-no-conflict-in-our-mandate---LinkedIn-Post.aspx?xy=rss",
       "published": "2026-07-17T14:05:58+00:00",
       "score": 1
     },
@@ -70,7 +151,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Hammack: Our PCE nowcast shows core inflation at 3.3% after incorporating this week’s data.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9683104/Feds-Hammack-Our-PCE-nowcast-shows-core-inflation-at-33-after-incorporating-this-weeks-data.aspx",
+      "link": "https://www.financialjuice.com/News/9683104/Feds-Hammack-Our-PCE-nowcast-shows-core-inflation-at-33-after-incorporating-this-weeks-data.aspx?xy=rss",
       "published": "2026-07-17T14:05:52+00:00",
       "score": 2
     },
@@ -79,7 +160,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Hammack: Inflation is too high. The labor market is right around my level of maximum employment.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9683103/Feds-Hammack-Inflation-is-too-high-The-labor-market-is-right-around-my-level-of-maximum-employment.aspx",
+      "link": "https://www.financialjuice.com/News/9683103/Feds-Hammack-Inflation-is-too-high-The-labor-market-is-right-around-my-level-of-maximum-employment.aspx?xy=rss",
       "published": "2026-07-17T14:05:37+00:00",
       "score": 2
     },
@@ -88,7 +169,7 @@
       "category": "news",
       "title": "FinancialJuice: University Michigan 1 Yr Inflation Prelim Actual 4.2% (Forecast 4.4%, Previous 4.6%)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9683072/University-Michigan-1-Yr-Inflation-Prelim-Actual-42-Forecast-44-Previous-46.aspx",
+      "link": "https://www.financialjuice.com/News/9683072/University-Michigan-1-Yr-Inflation-Prelim-Actual-42-Forecast-44-Previous-46.aspx?xy=rss",
       "published": "2026-07-17T14:00:00+00:00",
       "score": 1
     },
@@ -97,8 +178,17 @@
       "category": "news",
       "title": "FinancialJuice: University Michigan 5 Yr Inflation Prelim Actual 3.3% (Forecast 3.3%, Previous 3.3%)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9683070/University-Michigan-5-Yr-Inflation-Prelim-Actual-33-Forecast-33-Previous-33.aspx",
+      "link": "https://www.financialjuice.com/News/9683070/University-Michigan-5-Yr-Inflation-Prelim-Actual-33-Forecast-33-Previous-33.aspx?xy=rss",
       "published": "2026-07-17T14:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$SPCX - SPACEX PLUNGES FROM PEAK SpaceX shares fell 4.6% on Friday, extending a sharp slide that has erased more than $1 trillion in market value since June. The stock is now below its IPO price after a Starship launch was aborted because of an engine issue. Despite the setback, the company recently joined the Nasdaq-100 and analysts still see strong upside. If you’d like, I can also make it sound more breaking-news, financial, or social-media style.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23SPCX\">$SPCX</a> - SPACEX PLUNGES FROM PEAK<br />\n<br />\nSpaceX shares fell 4.6% on Friday, extending a sharp slide that has erased more than $1 trillion in market value since June. The stock is now below its IPO price after a Starship launch was aborted because of an engine issue. Despite the setback, the company recently joined the Nasdaq-10",
+      "link": "https://nitter.net/DeItaone/status/2078116603401494754#m",
+      "published": "2026-07-17T13:56:22+00:00",
       "score": 1
     },
     {
@@ -129,22 +219,22 @@
       "score": 5
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Apple surpasses Nvidia to become the world's most valuable company $AAPL $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9683036/Apple-surpasses-Nvidia-to-become-the-worlds-most-valuable-company-AAPL-NVDA.aspx",
-      "published": "2026-07-17T13:33:09+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "APPLE SURPASSES NVIDIA TO BECOME WORLD'S MOST VALUABLE COMPANY $AAPL $NVDA",
+      "summary": "<p>APPLE SURPASSES NVIDIA TO BECOME WORLD'S MOST VALUABLE COMPANY <br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a> <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a></p>",
+      "link": "https://nitter.net/DeItaone/status/2078110668931072468#m",
+      "published": "2026-07-17T13:32:47+00:00",
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold trades below $4,000 as stronger US Dollar, hawkish Fed outlook weigh",
-      "summary": "Gold (XAU/USD) struggles below $4,000 on Friday as rising Oil prices revive inflation concerns and reinforce expectations that the Federal Reserve (Fed) could raise interest rates later this year.",
-      "link": "https://www.fxstreet.com/news/gold-steadies-below-4-000-as-hawkish-fed-outlook-caps-recovery-202607171151",
-      "published": "2026-07-17T13:32:12+00:00",
-      "score": 6
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "APPLE CLOSES IN ON NVIDIA $AAPL is on the verge of reclaiming the title of the world’s most valuable company, with a market value nearing $4.9T as $NVDA slips. The race highlights a shift in the AI trade. Investors are increasingly betting on Apple’s ability to monetize AI through its ecosystem, services, and hardware—not just AI infrastructure. The AI rally is also broadening, with memory chipmakers like $MU and $SKHY attracting growing investor interest.",
+      "summary": "<p>APPLE CLOSES IN ON NVIDIA<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a> is on the verge of reclaiming the title of the world’s most valuable company, with a market value nearing $4.9T as <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a> slips.<br />\n<br />\nThe race highlights a shift in the AI trade.<br />\n<br />\nInvestors are increasingly ",
+      "link": "https://nitter.net/DeItaone/status/2078110113571709286#m",
+      "published": "2026-07-17T13:30:35+00:00",
+      "score": 2
     },
     {
       "source": "r/Forex",
@@ -174,6 +264,15 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "AMAZON ZOOX UNIT RECALLS SELF-DRIVING VEHICLES BECAUSE THEY MAY NOT DETECT, RESPOND TO HEAVY SMOKE",
+      "summary": "<p>AMAZON ZOOX UNIT RECALLS SELF-DRIVING VEHICLES BECAUSE THEY MAY NOT DETECT, RESPOND TO HEAVY SMOKE</p>",
+      "link": "https://nitter.net/DeItaone/status/2078098963413025025#m",
+      "published": "2026-07-17T12:46:16+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "US Dollar: Energy shock may delay renewed downtrend – MUFG",
@@ -192,66 +291,12 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar weakens as US strikes on Iran fuel risk aversion",
-      "summary": "NZD/USD declines on Friday, trading around 0.5830 at the time of writing, down 0.19% on the day, as investors seek safe-haven assets following a fresh wave of US strikes against Iran.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-us-strikes-on-iran-fuel-risk-aversion-202607171200",
-      "published": "2026-07-17T12:00:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Sideways trading extends with 1.1480 holding bulls",
-      "summary": "The Euro (EUR) records mild losses against the US Dollar (USD) for the second consecutive day on Friday. The EUR/USD pair trades at 1,1430 after being capped at 1.1480 earlier this week, extending the sideways trend, as geopolitical tensions and higher oil prices keep Euro rallies subdued.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-sideways-trading-extends-with-11480-holding-bulls-202607171154",
-      "published": "2026-07-17T11:54:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee gains temporary ground, higher oil prices keep upside limited",
-      "summary": "The Indian Rupee (INR) trades marginally higher against the US Dollar (USD) while entering the weekend. The USD/INR pair ticks down to near 96.30 as the Indian currency rises, following Reserve Bank of India’s intervention.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-rbis-intervention-downside-remains-favored-202607170530",
-      "published": "2026-07-17T11:20:51+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "DXY Outlook",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1uywuhi/dxy_outlook/\"> <img alt=\"DXY Outlook\" src=\"https://preview.redd.it/j5qexwi1yrdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb9d433e4c094d20b88c2383389827ffaa757090\" title=\"DXY Outlook\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Nice Reaction as we anticipated yesterday.... Newyork should send it even higher.",
       "link": "https://www.reddit.com/r/Forex/comments/1uywuhi/dxy_outlook/",
       "published": "2026-07-17T11:20:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc: Intervention risk keeps Franc lagging – OCBC",
-      "summary": "OCBC Bank strategists Sim Moh Siong and Christopher Wong note the Swiss Franc (CHF) has lost much of its safe-haven appeal as Swiss National Bank (SNB) intervention risk and low yields weigh on performance.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-intervention-risk-keeps-franc-lagging-ocbc-202607171114",
-      "published": "2026-07-17T11:14:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/USD Price Forecast: British Pound extends weakness in process of UK leadership change",
-      "summary": "The British Pound (GBP) extends its decline against the US Dollar (USD) for the second straight day on Friday, trading 0.4% lower to near 1.3427 during the European trading session on Friday.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-british-pound-extends-weakness-in-process-of-uk-leadership-change-202607171113",
-      "published": "2026-07-17T11:13:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar declines as Middle East tensions boost the US Dollar",
-      "summary": "AUD/USD trades around 0.6970 on Friday at the time of writing, down 0.36% on the day, as the Australian Dollar (AUD) comes under pressure for a second consecutive day amid renewed US Dollar (USD) strength. Despite the latest pullback, the pair is still on track for a third consecutive weekly gain.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-as-middle-east-tensions-boost-the-us-dollar-202607171106",
-      "published": "2026-07-17T11:06:55+00:00",
       "score": 1
     },
     {
@@ -397,15 +442,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2077568146958139791#m",
       "published": "2026-07-16T01:37:00+00:00",
       "score": 4
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump says Iran has allowed an American citizen who was detailed in 2024 to leave the country \"in good condition.\" President Trump also thanks Iran for the \"gesture of goodwill.\"",
-      "summary": "<p>BREAKING: President Trump says Iran has allowed an American citizen who was detailed in 2024 to leave the country \"in good condition.\"<br />\n<br />\nPresident Trump also thanks Iran for the \"gesture of goodwill.\"</p>\n<img src=\"https://nitter.net/pic/media%2FHNTkNCbWAAAOkD2.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2077536243718541512#m",
-      "published": "2026-07-15T23:30:13+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
