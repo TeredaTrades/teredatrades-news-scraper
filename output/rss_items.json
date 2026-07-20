@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-07-20T21:49:31.208882+00:00",
-  "count": 55,
+  "updated_at": "2026-07-20T23:02:33.624888+00:00",
+  "count": 60,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: NZ dollar rises slightly to $0.5843 after CPI data",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9686170/NZ-dollar-rises-slightly-to-05843-after-CPI-data.aspx?xy=rss",
+      "published": "2026-07-20T22:45:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: New Zealand CPI YoY Actual 4.1% (Forecast 4%, Previous 3.1%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9686162/New-Zealand-CPI-YoY-Actual-41-Forecast-4-Previous-31.aspx?xy=rss",
+      "published": "2026-07-20T22:45:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: New Zealand CPI QoQ Actual 1.5% (Forecast 1.4%, Previous 0.9%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9686161/New-Zealand-CPI-QoQ-Actual-15-Forecast-14-Previous-09.aspx?xy=rss",
+      "published": "2026-07-20T22:45:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SPEAKS WITH NEW U.K. PRIME MINISTER President Donald Trump said he had a “very good” call with new U.K. Prime Minister Andy Burnham, discussing trade, North Sea oil, the U.S.-U.K. military alliance and efforts to clear the Strait of Hormuz. Trump said the two leaders plan to meet soon and pledged U.S. support for Burnham’s government.",
+      "summary": "<p>TRUMP SPEAKS WITH NEW U.K. PRIME MINISTER<br />\n<br />\nPresident Donald Trump said he had a “very good” call with new U.K. Prime Minister Andy Burnham, discussing trade, North Sea oil, the U.S.-U.K. military alliance and efforts to clear the Strait of Hormuz. Trump said the two leaders plan to meet soon and pledged U.S. support for Burnham’s government.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079332468583252394#m",
+      "published": "2026-07-20T22:27:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: talked about North Sea oil, trade, military alliance, clearing mines in Hormuz Strait",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9686153/Trump-talked-about-North-Sea-oil-trade-military-alliance-clearing-mines-in-Hormuz-Strait.aspx?xy=rss",
+      "published": "2026-07-20T22:20:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: to meet soon on issues of shared interest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9686152/Trump-to-meet-soon-on-issues-of-shared-interest.aspx?xy=rss",
+      "published": "2026-07-20T22:19:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: held very positive talks with new UK prime minister",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9686151/Trump-held-very-positive-talks-with-new-UK-prime-minister.aspx?xy=rss",
+      "published": "2026-07-20T22:19:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CHF Price Forecast: Reclaims 0.8100 as market structure is bullish",
+      "summary": "The Swiss Franc loses ground against the Greenback in a trading session marked by CHF weakness amid improving risk appetite. At the time of writing, the USD/CHF trades at 0.8101, up 0.32%.",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-reclaims-08100-as-market-structure-is-bullish-202607202146",
+      "published": "2026-07-20T21:46:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Malaysian Ringgit: Growth supports range against US Dollar – Commerzbank",
+      "summary": "Commerzbank’s Dr. Henry Hao and Moses Lim report that Malaysia’s stronger-than-expected Q2 Gross Domestic Product (GDP) growth and subdued inflation support an unchanged policy rate of 2.75%. USD/MYR has remained within a 4.05–4.10 range, recently edging higher alongside crude oil prices.",
+      "link": "https://www.fxstreet.com/news/malaysian-ringgit-growth-supports-range-against-us-dollar-commerzbank-202607202137",
+      "published": "2026-07-20T21:37:00+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -9,15 +90,6 @@
       "summary": "",
       "link": "https://www.financialjuice.com/News/9686075/North-Korea-reiterates-support-for-Russian-efforts-to-address-root-causes-of-Ukraine-conflict-KCNA.aspx?xy=rss",
       "published": "2026-07-20T21:14:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia reports 9.3% passive stake in Nebius Group NV as of July 13, SEC filing",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9686071/Nvidia-reports-93-passive-stake-in-Nebius-Group-NV-as-of-July-13-SEC-filing.aspx?xy=rss",
-      "published": "2026-07-20T21:07:19+00:00",
       "score": 1
     },
     {
@@ -219,30 +291,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro loses momentum as US Dollar recovers from intraday lows",
-      "summary": "EUR/USD edges lower on Monday, reversing earlier gains as markets swing between risk-on and risk-off sentiment. At the time of writing, the pair trades around 1.1408, easing from an intraday high of 1.1449.",
-      "link": "https://www.fxstreet.com/news/euro-loses-momentum-as-us-dollar-recovers-from-intraday-lows-202607201543",
-      "published": "2026-07-20T15:43:43+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "TRUMP URGES GOP TO BACK BUDGET PLAN President Donald Trump called on House Republicans to unite behind the budget resolution, describing it as the first step toward advancing the Save America Act. He said the package should include military funding, aid for farmers, voter ID and proof of citizenship requirements, while urging lawmakers to vote in favor this week.",
       "summary": "<p>TRUMP URGES GOP TO BACK BUDGET PLAN<br />\n<br />\nPresident Donald Trump called on House Republicans to unite behind the budget resolution, describing it as the first step toward advancing the Save America Act. He said the package should include military funding, aid for farmers, voter ID and proof of citizenship requirements, while urging lawmakers to vote in favor this week.</p>",
       "link": "https://nitter.net/DeItaone/status/2079230135652188671#m",
       "published": "2026-07-20T15:41:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen weakens as renewed Middle East tensions lift US Dollar",
-      "summary": "USD/JPY trades around 162.55 on Monday at the time of writing, up 0.10% on the day. After an initial pullback in the US Dollar (USD), the pair regains momentum as geopolitical concerns return to the forefront and support the Greenback.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-renewed-middle-east-tensions-lift-us-dollar-202607201536",
-      "published": "2026-07-20T15:36:39+00:00",
       "score": 1
     },
     {
@@ -270,15 +324,6 @@
       "summary": "<p>*GOOGLE PLANS NEW CHIP: INFORMATION</p>",
       "link": "https://nitter.net/DeItaone/status/2079190528520790377#m",
       "published": "2026-07-20T13:03:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. EYES TOUGHER CURBS ON CHINESE AI The Trump administration is reportedly considering stricter rules on Chinese AI models after the launch of Moonshot AI’s Kimi K3. Options include requiring U.S. hosting providers to guarantee the security of Chinese models and accept liability for breaches, alongside potential procurement bans and export blacklist measures, as Washington responds to China’s rapid AI advances.",
-      "summary": "<p>U.S. EYES TOUGHER CURBS ON CHINESE AI<br />\n<br />\nThe Trump administration is reportedly considering stricter rules on Chinese AI models after the launch of Moonshot AI’s Kimi K3. Options include requiring U.S. hosting providers to guarantee the security of Chinese models and accept liability for breaches, alongside potential procurement bans and export blacklist measures, as Washington respon",
-      "link": "https://nitter.net/DeItaone/status/2079151855481827530#m",
-      "published": "2026-07-20T10:30:05+00:00",
       "score": 1
     },
     {
