@@ -1,59 +1,230 @@
 {
-  "updated_at": "2026-07-20T11:13:57.067378+00:00",
-  "count": 44,
+  "updated_at": "2026-07-20T13:19:28.920242+00:00",
+  "count": 55,
   "items": [
     {
-      "source": "FXStreet",
+      "source": "FinancialJuice",
       "category": "news",
-      "title": "Gold Price Forecast: XAU/USD nears the tip of a triangle formation at the $4,000 area",
-      "summary": "Gold (XAU/USD) shows marginal gains on Monday, as the US Dollar recovery stalled and Oil prices pulled back from highs. The precious metal remains capped below a descending trendline resistance, but downside attempts remain supported above the $3,965 area, thus forming a descending triangle pattern",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-nears-the-tip-of-a-triangle-formation-at-the-4-000-area-202607201105",
-      "published": "2026-07-20T11:05:00+00:00",
+      "title": "FinancialJuice: ING: Burnham May Look Cautious at First, but Markets Shouldn’t Rule Out Bigger Moves - FJElite",
+      "summary": "<div>Andy Burnham’s arrival as prime minister has so far triggered surprisingly little market reaction, even though just a couple of months ago the prospect of him taking office was enough to unsettle UK assets. For now, the working assumption is that he will avoid major disruption this year, largely because his bigger ambitions are constrained by tight fiscal rules and a promise not to raise the ",
+      "link": "https://www.financialjuice.com/News/9685516/ING-Burnham-May-Look-Cautious-at-First-but-Markets-Shouldnt-Rule-Out-Bigger-Moves---FJElite.aspx?xy=rss",
+      "published": "2026-07-20T13:07:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MUFG on Weekend Commodity Moves: Oil Up, Gold Stuck as Geopolitics Collide With Rate Fears - FJElite",
+      "summary": "<div>Oil prices surged as the US and Iran sharply escalated hostilities, raising fresh concern over Middle East supply disruption. Brent rose toward USD90 a barrel and WTI to around USD84 as the latest developments included continued US strikes on Iranian military targets, Iranian attacks on shipping near the Strait of Hormuz, damage to a major Kuwaiti oil facility, and renewed Houthi threats agai",
+      "link": "https://www.financialjuice.com/News/9685515/MUFG-on-Weekend-Commodity-Moves-Oil-Up-Gold-Stuck-as-Geopolitics-Collide-With-Rate-Fears---FJElite.aspx?xy=rss",
+      "published": "2026-07-20T13:05:56+00:00",
       "score": 4
     },
     {
-      "source": "FXStreet",
+      "source": "FinancialJuice",
       "category": "news",
-      "title": "Japanese Yen: BoJ expectations skewed to upside – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad expects Japan’s June Consumer Price Index (CPI) to edge higher across headline and core measures, with core ex fresh food and energy steady at 1.8%.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-expectations-skewed-to-upside-bbh-202607200959",
-      "published": "2026-07-20T09:59:42+00:00",
+      "title": "FinancialJuice: Google's new chip to run AI models more efficiently - The Information",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9685513/Googles-new-chip-to-run-AI-models-more-efficiently---The-Information.aspx?xy=rss",
+      "published": "2026-07-20T13:03:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Morgan Stanley on the Fed: 3 Hikes, You're Out - FJElite",
+      "summary": "<div>Markets are still pricing a much more aggressive Fed path than the base economic view, with nearly 50bp of hikes priced by March 2027. That is more than 75bp above what is seen as most likely by the economists here and is closer to a scenario where real growth stays near 3% on a sustained basis. The key point is that this hawkish pricing had been closely tied to the AI-led equity rally.</div>",
+      "link": "https://www.financialjuice.com/News/9685512/Morgan-Stanley-on-the-Fed-3-Hikes-Youre-Out---FJElite.aspx?xy=rss",
+      "published": "2026-07-20T13:03:43+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google plans new chip - Information.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9685511/Google-plans-new-chip---Information.aspx?xy=rss",
+      "published": "2026-07-20T13:03:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft to deploy next-gen AMD Instinct & AMD EPYC processors.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9685489/Microsoft-to-deploy-next-gen-AMD-Instinct--AMD-EPYC-processors.aspx?xy=rss",
+      "published": "2026-07-20T13:00:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Effective Fed Funds Rate 3.63% July 17 vs 3.63% July 16.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9685482/Effective-Fed-Funds-Rate-363-July-17-vs-363-July-16.aspx?xy=rss",
+      "published": "2026-07-20T12:59:40+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro: Growth validation needed for value case – BNY",
-      "summary": "BNY’s Geoff Yu argues that Euro (EUR) assets show emerging value as the European Central Bank (ECB) holds policy and inflation pressures ease, but stresses that Purchasing Managers’ Index (PMI) data and earnings must confirm stable growth.",
-      "link": "https://www.fxstreet.com/news/euro-growth-validation-needed-for-value-case-bny-202607200951",
-      "published": "2026-07-20T09:51:50+00:00",
+      "title": "New Zealand Dollar: RBNZ tightening cycle underpins Kiwi – HSBC",
+      "summary": "HSBC strategists see NZD/USD supported by New Zealand’s strengthening growth data and an aggressive Reserve Bank of New Zealand (RBNZ) hiking path. The RBNZ has begun raising rates and HSBC Economics projects 25bp hikes per quarter to 3.50% by Q3 2027.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rbnz-tightening-cycle-underpins-kiwi-hsbc-202607201253",
+      "published": "2026-07-20T12:53:42+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver climbs near $57 despite renewed Fed rate hike expectations",
+      "summary": "Silver (XAG/USD) advances toward $56.90 per troy ounce on Monday at the time of writing, gaining 1.62% on the day. The precious metal continues to benefit from safe-haven demand as geopolitical tensions in the Middle East keep risk sentiment under pressure.",
+      "link": "https://www.fxstreet.com/news/silver-climbs-near-57-despite-renewed-fed-rate-hike-expectations-202607201247",
+      "published": "2026-07-20T12:47:23+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Breaking: Canada's headline CPI rose by 2.8% YoY in June",
+      "summary": "Canada’s inflation has cooled a tad in June, with the Consumer Price Index (CPI) rising 2.8% from a year earlier, coming in below market expectations and down from the 3.2% increase recorded in May. On a monthly basis, prices declined by 0.4%.",
+      "link": "https://www.fxstreet.com/news/breaking-canadas-headline-cpi-rose-by-28-yoy-in-june-202607201231",
+      "published": "2026-07-20T12:35:03+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoC Core CPI MoM Actual 0.1% (Forecast -, Previous 0.6%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9685432/BoC-Core-CPI-MoM-Actual-01-Forecast---Previous-06.aspx?xy=rss",
+      "published": "2026-07-20T12:30:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Canadian Core CPI MoM Actual 0.2% (Forecast -, Previous 0.2%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9685433/Canadian-Core-CPI-MoM-Actual-02-Forecast---Previous-02.aspx?xy=rss",
+      "published": "2026-07-20T12:30:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Canadian CPI Common Actual 2.6% (Forecast -, Previous 2.7%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9685431/Canadian-CPI-Common-Actual-26-Forecast---Previous-27.aspx?xy=rss",
+      "published": "2026-07-20T12:30:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoC Core CPI YoY Actual 2.1% (Forecast -, Previous 2.2%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9685430/BoC-Core-CPI-YoY-Actual-21-Forecast---Previous-22.aspx?xy=rss",
+      "published": "2026-07-20T12:30:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Canadian CPI Median Actual 1.9% (Forecast 2.1%, Previous 2.1%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9685427/Canadian-CPI-Median-Actual-19-Forecast-21-Previous-21.aspx?xy=rss",
+      "published": "2026-07-20T12:30:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Canadian CPI MoM Actual -0.4% (Forecast -0.2%, Previous 1.0%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9685426/Canadian-CPI-MoM-Actual--04-Forecast--02-Previous-10.aspx?xy=rss",
+      "published": "2026-07-20T12:30:21+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee weakens due to surging oil price gains, FIIs outflow",
-      "summary": "The Indian Rupee (INR) opens on a weak note against the US Dollar (USD) at the start of the week. The USD/INR pair jumps to near 96.46 as a fresh surge in oil prices and the consistent outflow of foreign funds from the Indian stock market are hurting the Indian currency.",
+      "title": "Norwegian Krone: Range trading view holds against Euro – Rabobank",
+      "summary": "Rabobank’s Jane Foley notes that softer Norwegian inflation has tempered expectations for further Norges Bank tightening, even after May’s 25 bps hike to 4.25%.",
+      "link": "https://www.fxstreet.com/news/norwegian-krone-range-trading-view-holds-against-euro-rabobank-202607201224",
+      "published": "2026-07-20T12:24:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "European Central Bank: Oil risks support a September rate hike – Commerzbank",
+      "summary": "Commerzbank’s rates team expects higher oil prices and weak growth signals to shape Thursday’s European Central Bank (ECB) meeting. A July rate hike is effectively ruled out, while markets have fully priced in another 25bp move in September.",
+      "link": "https://www.fxstreet.com/news/european-central-bank-oil-risks-support-a-september-rate-hike-commerzbank-202607201216",
+      "published": "2026-07-20T12:16:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United Kingdom: Softer CPI supports prolonged BoE hold – TD Securities",
+      "summary": "TD Securities’ Julie Ioffe expects United Kingdom (UK) headline Consumer Price Index (CPI) to slow to 2.7% year-on-year in June, in line with consensus but below Bank of England (BoE) projections, as lower fuel prices offset sticky Services. Core CPI is seen at 2.6% and Services at 3.6%.",
+      "link": "https://www.fxstreet.com/news/united-kingdom-softer-cpi-supports-prolonged-boe-hold-td-securities-202607201207",
+      "published": "2026-07-20T12:07:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Bearish Flag formation backs more downside",
+      "summary": "The Euro (EUR) trades marginally lower near 1.1432 against the US Dollar (USD) during the European trading session on Monday. The major currency pair edges down as the US Dollar recovers its early losses.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bearish-flag-formation-backs-more-downside-202607201157",
+      "published": "2026-07-20T11:57:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar: Sticky inflation supports more RBNZ hikes – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad expects New Zealand Q2 Consumer Price Index (CPI) to remain well above target, with quarterly and annual readings only slightly below the RBNZ’s own projections.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-sticky-inflation-supports-more-rbnz-hikes-bbh-202607201155",
+      "published": "2026-07-20T11:55:32+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar picks up above 0.7000 as risk aversion eases",
+      "summary": "The Australian Dollar (AUD) appreciates against the US Dollar (USD) on Monday as comments from Iranian Foreign Minister Esmaeil Baghaei offered a glimmer of hope for de-escalation in Iran and pushed Oil prices down from one-month highs.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-picks-up-above-07000-as-risk-aversion-eases-202607201152",
+      "published": "2026-07-20T11:52:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee struggles for comeback amid continued FIIs selling",
+      "summary": "The Indian Rupee (INR) trades slightly lower against the US Dollar (USD) in late trading hours on Monday. The USD/INR pair is mildly higher to near 96.46 at the time of writing as the consistent outflow of foreign funds from the Indian stock market is hurting the Indian currency.",
       "link": "https://www.fxstreet.com/news/indian-rupee-starts-weak-negatively-as-oil-prices-extend-gains-202607200520",
-      "published": "2026-07-20T09:36:00+00:00",
+      "published": "2026-07-20T11:31:54+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) rose on Monday, according to FXStreet data. Silver trades at $56.83 per troy ounce, up 1.49% from the $56.00 it cost on Friday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202607200930",
-      "published": "2026-07-20T09:30:11+00:00",
-      "score": 3
+      "title": "Indian Rupee: RBI support as INR nears record low against US Dollar – BNY",
+      "summary": "BNY’s Geoff Yu reports that the Reserve Bank of India (RBI) has intervened onshore and offshore to support the Indian Rupee (INR) as USD/INR trades close to its all‑time high.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-support-as-inr-nears-record-low-against-us-dollar-bny-202607201128",
+      "published": "2026-07-20T11:28:06+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound: Outperformance on yields and politics repricing – MUFG",
-      "summary": "MUFG’s Lee Hardman highlights the Pound as the best performing major currency in recent weeks, supported by higher UK real yields and favourable carry conditions.",
-      "link": "https://www.fxstreet.com/news/british-pound-outperformance-on-yields-and-politics-repricing-mufg-202607200913",
-      "published": "2026-07-20T09:13:24+00:00",
+      "title": "US Dollar Index: Higher energy supports DXY recovery – ING",
+      "summary": "ING’s Chris Turner notes that deteriorating Gulf headlines and higher energy prices are keeping the Dollar supported, even if US Dollar Index (DXY) remains about 1% below its June peak.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-higher-energy-supports-dxy-recovery-ing-202607201115",
+      "published": "2026-07-20T11:15:40+00:00",
       "score": 1
     },
     {
@@ -63,69 +234,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v1g9wt/i_created_my_first_profitable_expert_advisor_bot/\"> <img alt=\"I created my first profitable expert advisor bot and these are the results on gold\" src=\"https://preview.redd.it/7dcs22gioceh1.png?width=140&amp;height=73&amp;auto=webp&amp;s=ed25723bfe1be4e151829f6d5efead289aaa89f4\" title=\"I created my first profitable expert adv",
       "link": "https://www.reddit.com/r/Forex/comments/1v1g9wt/i_created_my_first_profitable_expert_advisor_bot/",
       "published": "2026-07-20T09:09:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: Forms Symmetrical Triangle near multi-decade highs",
-      "summary": "The Japanese Yen (JPY) trades marginally higher against the US Dollar (USD) during the European trading session on Monday.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-forms-symmetrical-triangle-near-multi-decade-highs-202607200906",
-      "published": "2026-07-20T09:06:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Energy and spreads shape near-term path – ING",
-      "summary": "ING’s Chris Turner highlights that with Brent above $90, EUR/USD might normally trade below 1.14, but tighter correlation between energy and short-dated Euro swap rates is offering support.",
-      "link": "https://www.fxstreet.com/news/euro-energy-and-spreads-shape-near-term-path-ing-202607200904",
-      "published": "2026-07-20T09:04:32+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold bulls seem hesitant as reviving Fed hike bets counter USD weakness",
-      "summary": "Gold (XAU/USD) sticks to its modest intraday gains through the first half of the European session on Monday amid a softer US Dollar, though it lacks follow-through buying, warranting caution for bullish traders.",
-      "link": "https://www.fxstreet.com/news/gold-extends-fragile-recovery-from-monthly-low-on-soft-usd-upside-seems-limited-202607200416",
-      "published": "2026-07-20T09:00:36+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar holds near monthly highs with Inflation data in the spotlight",
-      "summary": "The Canadian Dollar (CAD) holds gains near one-month highs against the US Dollar (USD) on Monday.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-near-monthly-highs-with-inflation-data-in-the-spotlight-202607200856",
-      "published": "2026-07-20T08:56:39+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc remains on the front foot against USD as traders eyes geopolitics, Fed bets",
-      "summary": "The USD/CHF pair turns lower for the second straight day following an intraday uptick to the 0.8100 neighborhood and touches a fresh daily low during the first half of the European session on Monday.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-remains-on-the-front-foot-against-usd-as-traders-eyes-geopolitics-fed-bets-202607200855",
-      "published": "2026-07-20T08:55:47+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING: The EUR - FJElite",
-      "summary": "<div>With Brent back above $90/bbl, we would have expected EUR/USD to be trading under 1.14. However, it may well be the tighter correlation between energy and short-dated euro swap rates that is proving a supportive factor for the euro. Here, as in March, higher energy prices have driven quite a sizeable narrowing in the EUR/USD two-year swap spreads. Two-year EUR swap rates are now trading at a ",
-      "link": "https://www.financialjuice.com/News/9685088/ING-The-EUR---FJElite.aspx?xy=rss",
-      "published": "2026-07-20T08:19:15+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB's SAFE Survey: Inflation expectations at the one, three and five-year horizons remained largely stable.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685065/ECBs-SAFE-Survey-Inflation-expectations-at-the-one-three-and-five-year-horizons-remained-largely-stable.aspx?xy=rss",
-      "published": "2026-07-20T08:00:37+00:00",
       "score": 1
     },
     {
@@ -217,15 +325,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2078529229889712444#m",
       "published": "2026-07-18T17:16:00+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Shocking stat of the day: The 3-week volatility of momentum stocks relative to the S&P 500 volatility is up to a record 4.0x. This group includes high-growth technology stocks at the center of the AI boom like Nvidia, $NVDA, Super Micro Computer, $SMCI, Palantir, $PLTR, D-Wave Quantum, $QBTS, and CoreWeave, $CRWV. This figure has more than QUADRUPLED over the last several weeks. By comparison, this ratio peaked at ~2.0x during the 2020 pandemic crash and ~1.8x during the Dot-Com bust. This comes as the index of US momentum stocks is down -24% so far in July, on track for its biggest monthly decline since the 2008 Financial Crisis. The market's biggest winners are rapidly falling out of favor.",
-      "summary": "<p>Shocking stat of the day:<br />\n<br />\nThe 3-week volatility of momentum stocks relative to the S&amp;P 500 volatility is up to a record 4.0x.<br />\n<br />\nThis group includes high-growth technology stocks at the center of the AI boom like Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, Super Micro Computer, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SMCI",
-      "link": "https://nitter.net/KobeissiLetter/status/2078505574057070937#m",
-      "published": "2026-07-18T15:42:00+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
