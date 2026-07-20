@@ -1,14 +1,77 @@
 {
-  "updated_at": "2026-07-20T20:41:10.327325+00:00",
-  "count": 61,
+  "updated_at": "2026-07-20T21:49:31.208882+00:00",
+  "count": 55,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: -2543 mln<br />Nasdaq 100: -2271 mln<br />Dow 30: -998 mln<br />Mag 7: -1151 mln",
-      "link": "https://www.financialjuice.com/News/9685985/MOC-Imbalance.aspx?xy=1",
-      "published": "2026-07-20T19:50:31+00:00",
+      "title": "FinancialJuice: North Korea reiterates support for Russian efforts to address root causes of Ukraine conflict: KCNA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9686075/North-Korea-reiterates-support-for-Russian-efforts-to-address-root-causes-of-Ukraine-conflict-KCNA.aspx?xy=rss",
+      "published": "2026-07-20T21:14:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia reports 9.3% passive stake in Nebius Group NV as of July 13, SEC filing",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9686071/Nvidia-reports-93-passive-stake-in-Nebius-Group-NV-as-of-July-13-SEC-filing.aspx?xy=rss",
+      "published": "2026-07-20T21:07:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump is imposing an additional 50% tariff on a range of Canadian goods in response to \"trade discrimination.\" Details include: 1. President Trump signed 3 proclamations today targeting different sets of Canadian imports 2. The tariffs are targeting separate areas where the US says it has experienced discrimination 3. The tariffs fall under Section 338 of the Tariff Act of 1930 These tariffs are set to take effect in 30 days.",
+      "summary": "<p>BREAKING: President Trump is imposing an additional 50% tariff on a range of Canadian goods in response to \"trade discrimination.\"<br />\n<br />\nDetails include:<br />\n<br />\n1. President Trump signed 3 proclamations today targeting different sets of Canadian imports<br />\n<br />\n2. The tariffs are targeting separate areas where the US says it has experienced discrimination <br />\n<br />\n3. The ",
+      "link": "https://nitter.net/KobeissiLetter/status/2079312046923940275#m",
+      "published": "2026-07-20T21:06:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Range trade persists against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang notes USD/SGD is stuck in a tight range after recent sideways trading, with intraday action expected between 1.2900 and 1.2930. On a 1–3 week horizon, the bank still sees downside risks if 1.2860 breaks, while 1.2930 remains strong resistance.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-persists-against-us-dollar-uob-202607202056",
+      "published": "2026-07-20T20:56:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso gains as risk appetite boosts Peso, weighs on USD",
+      "summary": "The Mexican Peso gains some ground versus the Greenback on Monday, up by 0.66% as risk appetite improves despite escalating tensions in the Middle East. At the time of writing, the USD/MXN trades at 17.43 after hitting a daily high of 17.55",
+      "link": "https://www.fxstreet.com/news/mexican-peso-gains-as-risk-appetite-boosts-the-peso-weighs-on-the-usd-202607202052",
+      "published": "2026-07-20T20:52:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "The AI boom is creating a generational divide in software jobs: US software developer employment for those aged 22-25 has declined -23% since November 2022, when ChatGPT was launched. At the same time, the 26-30 age group has seen a decrease of -5%. By comparison, employment among software developers aged 41-49 has risen +18% over the same period. This creates a 41 percentage point gap between the youngest and one of the most experienced groups within the same profession. Meanwhile, early-career workers in the most AI-exposed jobs have experienced a -16% decline in employment relative to less-exposed occupations and more experienced peers since November 2022, even after adjusting for firm-specific shocks. By contrast, employment among workers in less AI-exposed fields, as well as more experienced workers within the same occupations, has remained steady or continued to grow. The AI revolution is wiping out entry-level tech jobs.",
+      "summary": "<p>The AI boom is creating a generational divide in software jobs:<br />\n<br />\nUS software developer employment for those aged 22-25 has declined -23% since November 2022, when ChatGPT was launched.<br />\n<br />\nAt the same time, the 26-30 age group has seen a decrease of -5%.<br />\n<br />\nBy comparison, employment among software developers aged 41-49 has risen +18% over the same period.<br />\n<b",
+      "link": "https://nitter.net/KobeissiLetter/status/2079307547610366340#m",
+      "published": "2026-07-20T20:48:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar rises as Gulf tensions lift, Oil and Canadian inflation cool",
+      "summary": "The US Dollar Index (DXY) rises around 0.2% toward 101.00 as higher United States (US) Treasury yields and escalating tensions in the Middle East support the Greenback.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-rises-as-gulf-tensions-lift-oil-and-canadian-inflation-cool-202607202043",
+      "published": "2026-07-20T20:43:53+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Asia FX: Oil rebound pressures INR and THB – MUFG",
+      "summary": "MUFG’s Lloyd Chan highlights that higher Oil prices and persistent inflation risks are weighing on Asian currencies, with the Indian Rupee (INR) and Thai Baht (THB) underperforming against the US Dollar.",
+      "link": "https://www.fxstreet.com/news/asia-fx-oil-rebound-pressures-inr-and-thb-mufg-202607202012",
+      "published": "2026-07-20T20:12:00+00:00",
       "score": 1
     },
     {
@@ -21,84 +84,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump signed proclamation authorizing Secretary of Commerce to establish an incentive program for companies that will invest in aluminum smelters.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685982/White-House-Trump-signed-proclamation-authorizing-Secretary-of-Commerce-to-establish-an-incentive-program-for-companies-that-will-invest-in-aluminum-smelters.aspx?xy=1",
-      "published": "2026-07-20T19:46:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump takes further action to adjust imports of aluminum into the United States.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685980/White-House-Trump-takes-further-action-to-adjust-imports-of-aluminum-into-the-United-States.aspx?xy=1",
-      "published": "2026-07-20T19:45:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump signs EO to make it harder for defense contractors to obtain waivers for banned foreign critical minerals and materials.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685977/White-House-Trump-signs-EO-to-make-it-harder-for-defense-contractors-to-obtain-waivers-for-banned-foreign-critical-minerals-and-materials.aspx?xy=1",
-      "published": "2026-07-20T19:40:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump's executive order threatens defense contractors with loss of contracts if they fail to replace risky foreign suppliers.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685976/White-House-Trumps-executive-order-threatens-defense-contractors-with-loss-of-contracts-if-they-fail-to-replace-risky-foreign-suppliers.aspx?xy=1",
-      "published": "2026-07-20T19:40:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump's order requires contractors to exhaust options for domestic products and map critical mineral and component supply chains for weapons systems.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685975/White-House-Trumps-order-requires-contractors-to-exhaust-options-for-domestic-products-and-map-critical-mineral-and-component-supply-chains-for-weapons-systems.aspx?xy=1",
-      "published": "2026-07-20T19:40:24+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "U.S. VOWS PRESSURE ON IRAN A senior U.S. official said President Donald Trump is focused on making Iran “pay” for allegedly violating a prior understanding and carrying out attacks in the Strait of Hormuz. According to Axios, the official said U.S. strikes will continue until Trump decides otherwise.",
       "summary": "<p>U.S. VOWS PRESSURE ON IRAN<br />\n<br />\nA senior U.S. official said President Donald Trump is focused on making Iran “pay” for allegedly violating a prior understanding and carrying out attacks in the Strait of Hormuz. According to Axios, the official said U.S. strikes will continue until Trump decides otherwise.</p>",
       "link": "https://nitter.net/DeItaone/status/2079288731354476667#m",
       "published": "2026-07-20T19:33:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Right now, Trump is focused on making Iran pay for their violations of the MOU and their continued acts of terrorism in the Strait of Hormuz - Axios citing US official.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685963/Right-now-Trump-is-focused-on-making-Iran-pay-for-their-violations-of-the-MOU-and-their-continued-acts-of-terrorism-in-the-Strait-of-Hormuz---Axios-citing-US-official.aspx?xy=1",
-      "published": "2026-07-20T19:30:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump will make Iran pay for the recent deaths of US soldiers. These devastating blows will continue until the Trump deems otherwise, but talks between our countries are continuing - Axios citing US Official",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685964/Trump-will-make-Iran-pay-for-the-recent-deaths-of-US-soldiers-These-devastating-blows-will-continue-until-the-Trump-deems-otherwise-but-talks-between-our-countries-are-continuing---Axios-citing-US-Official.aspx?xy=1",
-      "published": "2026-07-20T19:29:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Tuesday FX Options Expiries",
-      "summary": "<ul><li><strong>EUR/USD:</strong> 1.1400 (EU2.23b), 1.1500 (EU1.63b), 1.1485 (EU1.24b)</li><li><strong>USD/JPY:</strong> 163.45 ($3.18b), 160.00 ($934.1m), 162.00 ($679.3m)</li><li><strong>AUD/USD: </strong>0.6925 (AUD1.5b), 0.7170 (AUD690.8m), 0.7000 (AUD331.1m)</li><li><strong>USD/CAD: </strong>1.4125 ($611m), 1.4100 ($402.7m), 1.4135 ($379m)</li><li><strong>USD/BRL: </strong>5.1000 ($358m)</li>",
-      "link": "https://www.financialjuice.com/News/9685959/Tuesday-FX-Options-Expiries-.aspx?xy=1",
-      "published": "2026-07-20T19:21:56+00:00",
       "score": 1
     },
     {
@@ -264,42 +255,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Rate divergence weighs CAD against US Dollar – TD Securities",
-      "summary": "TD Securities strategists note that softer Canadian Consumer Price Index (CPI) is lifting USD/CAD as rate divergence remains a key driver. They argue broad US Dollar (USD) strength should limit USD/CAD downside below 1.40 and see higher Oil prices as CAD-supportive on crosses but not versus USD.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-rate-divergence-weighs-cad-against-us-dollar-td-securities-202607201458",
-      "published": "2026-07-20T14:58:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold swings around $4,000 as conflicting Middle East headlines drive markets",
-      "summary": "Gold (XAU/USD) trades in a volatile range on Monday as markets react to conflicting headlines from the Middle East. At the time of writing, XAU/USD trades around $4,010, little changed on the day after climbing to an intra-day high of $4,040.",
-      "link": "https://www.fxstreet.com/news/gold-swings-around-4-000-as-conflicting-middle-east-headlines-drive-markets-202607201442",
-      "published": "2026-07-20T14:42:13+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Carry and growth support potential rebound – HSBC",
-      "summary": "HSBC strategists argue AUD/USD has room to rise into 2027, supported by Australia’s relatively high cash and government bond yields, which make the Australian Dollar attractive on a carry basis within G10 FX.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-carry-and-growth-support-potential-rebound-hsbc-202607201437",
-      "published": "2026-07-20T14:37:35+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Fed risks and Dollar strength cap upside – TD Securities",
-      "summary": "TD Securities’ commodity strategists, led by Bart Melek, note that Gold investors have sharply reduced long exposure as higher Oil prices from the US‑Iran conflict threaten recent disinflation progress.",
-      "link": "https://www.fxstreet.com/news/gold-fed-risks-and-dollar-strength-cap-upside-td-securities-202607201427",
-      "published": "2026-07-20T14:27:56+00:00",
-      "score": 3
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Alphabet, $GOOGL, is planning on launching a new “frozen” chip to run its AI models more efficiently, per The Information. Details include: 1. This new server chip would directly integrate the blueprint of its Gemini AI model 2. The chip would then enable Alphabet to provide its AI models to users much more efficiently 3. The chip's developers estimate that it would be 6 to 10 times more efficient than the most recent version of Google's existing line of AI chips Another tech giant has entered the chip race.",
@@ -379,15 +334,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v0qdpy/fundingpips_terminated_my_funded_account/",
       "published": "2026-07-19T13:17:31+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Key Events This Week: 1. ADP Employment Change data - Tuesday 2. Tesla, $TSLA, Alphabet, $GOOGL, Report Earnings - Wednesday 3. Initial Jobless Claims data - Thursday 4. Intel, $INTC, Reports Earnings - Thursday 5. July S&P Global Manufacturing PMI data - Friday 6. July New Home Sales data - Friday Earnings season is officially in full-swing.",
-      "summary": "<p>Key Events This Week:<br />\n<br />\n1. ADP Employment Change data - Tuesday  <br />\n<br />\n2. Tesla, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23TSLA\">$TSLA</a>, Alphabet, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GOOGL\">$GOOGL</a>, Report Earnings - Wednesday<br />\n<br />\n3. Initial Jobless Claims data - Thursday<br />\n<br />\n4. Intel, <a href=\"https://nitter.net/search?f=tw",
-      "link": "https://nitter.net/KobeissiLetter/status/2078827991157592094#m",
-      "published": "2026-07-19T13:03:10+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
