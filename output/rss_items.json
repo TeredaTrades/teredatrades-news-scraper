@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-07-20T17:03:33.203294+00:00",
-  "count": 57,
+  "updated_at": "2026-07-20T19:07:03.072241+00:00",
+  "count": 48,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index advances as Middle East tensions drive demand",
+      "summary": "The US Dollar Index (DXY) edges higher on Monday as heightened tensions in the Middle East drive demand for the safe-haven Greenback.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rebounds-as-middle-east-tensions-drive-demand-202607201830",
+      "published": "2026-07-20T18:30:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BlackRock Leads $12 bln Financing for New Meta Data Centers in Texas - WSJ. $META",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9685897/BlackRock-Leads-12-bln-Financing-for-New-Meta-Data-Centers-in-Texas---WSJ-META.aspx?xy=rss",
+      "published": "2026-07-20T18:19:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD attempts to stabilize above $55.00",
+      "summary": "Silver (XAG/USD) trades on the front foot on Monday as buyers defend the $55.00 mark after the metal briefly slipped below it on Friday, touching its lowest level since December 2025. At the time of writing, XAG/USD trades around $56.85, up nearly 1.50% on the day.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-attempts-to-stabilize-above-5500-202607201732",
+      "published": "2026-07-20T17:32:09+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: WH Press Sec. Leavitt: Trump is going to attend a dignified transfer tomorrow evening.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9685815/WH-Press-Sec-Leavitt-Trump-is-going-to-attend-a-dignified-transfer-tomorrow-evening.aspx?xy=rss",
+      "published": "2026-07-20T17:08:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Trump declares retaliation against Iran automatic in Truth Social post",
+      "summary": "Donald Trump opened the week on Truth Social with a promise that every American soldier killed by Iran will be repaid many times over, a directive he says has been passed to Secretary of War Pete Hegseth, Joint Chiefs of Staff Chairman Daniel Caine, and every leader in the military.",
+      "link": "https://www.fxstreet.com/news/trump-declares-retaliation-against-iran-automatic-in-truth-social-post-202607201704",
+      "published": "2026-07-20T17:04:03+00:00",
+      "score": 1
+    },
     {
       "source": "Kobeissi Letter",
       "category": "twitter",
@@ -9,15 +54,6 @@
       "summary": "<p>BREAKING: President Trump says every time Iran kills an American soldier, “they will pay for that killing many times over.”</p>\n<img src=\"https://nitter.net/pic/media%2FHNr4PouXYAAjxSz.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2079247129692824003#m",
       "published": "2026-07-20T16:48:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Every time Iran kills an American soldier, they will pay for that killing many times over - Truth Social.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685777/Trump-Every-time-Iran-kills-an-American-soldier-they-will-pay-for-that-killing-many-times-over---Truth-Social.aspx?xy=rss",
-      "published": "2026-07-20T16:41:00+00:00",
       "score": 1
     },
     {
@@ -33,7 +69,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Dow Jones Industrial Average sits out a rally priced for a peace nobody has scheduled",
-      "summary": "The Dow Jones Industrial Average trades near the 52,000 handle on Monday, down roughly 100 points, while the S&amp;P 500 adds 0.4% and the Nasdaq Composite climbs 0.9%, with all three coming off a losing week.",
+      "summary": "The Dow Jones Industrial Average (DJIA) trades near the 52,000 handle on Monday, down roughly 100 points, while the S&amp;P 500 adds 0.4% and the NASDAQ Composite climbs 0.9%, with all three coming off a losing week.",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-sits-out-a-rally-priced-for-a-peace-nobody-has-scheduled-202607201621",
       "published": "2026-07-20T16:21:57+00:00",
       "score": 1
@@ -66,30 +102,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Xai unveils Grok add-in for Microsoft Excel $MSFT",
-      "summary": "<ul><li><div>Grok for Excel is available as a free Microsoft 365 add-in</div></li><li><div>Grok is also available for Word and PowerPoint</div></li></ul>",
-      "link": "https://www.financialjuice.com/News/9685720/Xai-unveils-Grok-add-in-for-Microsoft-Excel-MSFT.aspx?xy=rss",
-      "published": "2026-07-20T15:49:30+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Euro loses momentum as US Dollar recovers from intraday lows",
-      "summary": "EUR/USD edges lower on Monday after reversing earlier gains as markets swing between risk-on and risk-off sentiment. At the time of writing, the pair trades around 1.1408, easing from an intraday high of 1.1449.",
+      "summary": "EUR/USD edges lower on Monday, reversing earlier gains as markets swing between risk-on and risk-off sentiment. At the time of writing, the pair trades around 1.1408, easing from an intraday high of 1.1449.",
       "link": "https://www.fxstreet.com/news/euro-loses-momentum-as-us-dollar-recovers-from-intraday-lows-202607201543",
       "published": "2026-07-20T15:43:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP URGES GOP TO BACK BUDGET PLAN President Donald Trump called on House Republicans to unite behind the budget resolution, describing it as the first step toward advancing the Save America Act. He said the package should include military funding, aid for farmers, voter ID and proof of citizenship requirements, while urging lawmakers to vote in favor this week.",
-      "summary": "<p>TRUMP URGES GOP TO BACK BUDGET PLAN<br />\n<br />\nPresident Donald Trump called on House Republicans to unite behind the budget resolution, describing it as the first step toward advancing the Save America Act. He said the package should include military funding, aid for farmers, voter ID and proof of citizenship requirements, while urging lawmakers to vote in favor this week.</p>",
-      "link": "https://nitter.net/DeItaone/status/2079230135652188671#m",
-      "published": "2026-07-20T15:41:09+00:00",
       "score": 1
     },
     {
@@ -99,69 +117,6 @@
       "summary": "USD/JPY trades around 162.55 on Monday at the time of writing, up 0.10% on the day. After an initial pullback in the US Dollar (USD), the pair regains momentum as geopolitical concerns return to the forefront and support the Greenback.",
       "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-renewed-middle-east-tensions-lift-us-dollar-202607201536",
       "published": "2026-07-20T15:36:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 6-Month Bill Auction",
-      "summary": "<div><ul><li>High Yield 3.835%</li><li>Bid-to-cover 2.94</li><li>US sells $79 bln</li><li>Awards 51.45% of bids at high</li></ul></div>",
-      "link": "https://www.financialjuice.com/News/9685700/US-6-Month-Bill-Auction.aspx?xy=rss",
-      "published": "2026-07-20T15:33:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 3-Month Bill Auction",
-      "summary": "<ul><li>High Yield 3.730%</li><li>Bid-to-cover 3.00</li><li>Sells $92 bln</li><li>Awards 73.01% of bids at high</li></ul>",
-      "link": "https://www.financialjuice.com/News/9685699/US-3-Month-Bill-Auction.aspx?xy=rss",
-      "published": "2026-07-20T15:32:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 3-Month Bill High Yield Actual 3.73% (Forecast -, Previous 3.760%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685694/US-3-Month-Bill-High-Yield-Actual-373-Forecast---Previous-3760.aspx?xy=rss",
-      "published": "2026-07-20T15:32:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 6-Month Bill High Yield Actual 3.835% (Forecast -, Previous 3.860%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685692/US-6-Month-Bill-High-Yield-Actual-3835-Forecast---Previous-3860.aspx?xy=rss",
-      "published": "2026-07-20T15:32:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP AI SECURITY AGENCY HEAD RESIGNS -AXIOS",
-      "summary": "<p>TRUMP AI SECURITY AGENCY HEAD RESIGNS -AXIOS</p>",
-      "link": "https://nitter.net/DeItaone/status/2079225679455944863#m",
-      "published": "2026-07-20T15:23:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed bids for 3-month bills total $5.6 bln.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685667/Fed-bids-for-3-month-bills-total-56-bln.aspx?xy=rss",
-      "published": "2026-07-20T15:15:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed bids for 6-month bills total $4.8 bln.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685665/Fed-bids-for-6-month-bills-total-48-bln.aspx?xy=rss",
-      "published": "2026-07-20T15:15:16+00:00",
       "score": 1
     },
     {
@@ -246,39 +201,12 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar under pressure as softer inflation meets firmer US Dollar",
-      "summary": "USD/CAD edges higher on Monday as softer-than-expected Canadian inflation data and a firmer US Dollar (USD) weigh on the Canadian Dollar (CAD), while tensions in the Middle East keep financial markets volatile. At the time of writing, the pair is trading around 1.4045, up 0.17% on the day.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-under-pressure-as-softer-inflation-meets-firmer-us-dollar-202607201337",
-      "published": "2026-07-20T13:37:56+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Alphabet, $GOOGL, is planning on launching a new “frozen” chip to run its AI models more efficiently, per The Information. Details include: 1. This new server chip would directly integrate the blueprint of its Gemini AI model 2. The chip would then enable Alphabet to provide its AI models to users much more efficiently 3. The chip's developers estimate that it would be 6 to 10 times more efficient than the most recent version of Google's existing line of AI chips Another tech giant has entered the chip race.",
       "summary": "<p>BREAKING: Alphabet, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GOOGL\">$GOOGL</a>, is planning on launching a new “frozen” chip to run its AI models more efficiently, per The Information.<br />\n<br />\nDetails include:<br />\n<br />\n1. This new server chip would directly integrate the blueprint of its Gemini AI model<br />\n<br />\n2. The chip would then enable Alphabet to provide its AI m",
       "link": "https://nitter.net/KobeissiLetter/status/2079198142218588589#m",
       "published": "2026-07-20T13:34:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*GOOGLE PLANS NEW CHIP: INFORMATION",
-      "summary": "<p>*GOOGLE PLANS NEW CHIP: INFORMATION</p>",
-      "link": "https://nitter.net/DeItaone/status/2079190528520790377#m",
-      "published": "2026-07-20T13:03:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. EYES TOUGHER CURBS ON CHINESE AI The Trump administration is reportedly considering stricter rules on Chinese AI models after the launch of Moonshot AI’s Kimi K3. Options include requiring U.S. hosting providers to guarantee the security of Chinese models and accept liability for breaches, alongside potential procurement bans and export blacklist measures, as Washington responds to China’s rapid AI advances.",
-      "summary": "<p>U.S. EYES TOUGHER CURBS ON CHINESE AI<br />\n<br />\nThe Trump administration is reportedly considering stricter rules on Chinese AI models after the launch of Moonshot AI’s Kimi K3. Options include requiring U.S. hosting providers to guarantee the security of Chinese models and accept liability for breaches, alongside potential procurement bans and export blacklist measures, as Washington respon",
-      "link": "https://nitter.net/DeItaone/status/2079151855481827530#m",
-      "published": "2026-07-20T10:30:05+00:00",
       "score": 1
     },
     {
@@ -289,15 +217,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v1g9wt/i_created_my_first_profitable_expert_advisor_bot/",
       "published": "2026-07-20T09:09:35+00:00",
       "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP HAILS GROCERY PRICE CUTS President Trump praised Giant Eagle for lowering prices on more than 300 products through Labor Day, calling on other grocery chains to follow suit. He credited his administration for falling costs on items including oil, gas, eggs and prescription drugs, while blaming the previous Biden administration for high inflation.",
-      "summary": "<p>TRUMP HAILS GROCERY PRICE CUTS<br />\n<br />\nPresident Trump praised Giant Eagle for lowering prices on more than 300 products through Labor Day, calling on other grocery chains to follow suit. He credited his administration for falling costs on items including oil, gas, eggs and prescription drugs, while blaming the previous Biden administration for high inflation.</p>",
-      "link": "https://nitter.net/DeItaone/status/2079122896434221457#m",
-      "published": "2026-07-20T08:35:01+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -354,12 +273,12 @@
       "score": 2
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "US small businesses are struggling with inflation: In June, 21% of US small business owners reported inflation as their single most important business problem, the highest reading since October 2024. This percentage has surged +10 points over the last 12 months. By comparison, the reading peaked at ~36% in 2022 and at ~21% during the 2008 Financial Crisis. As a result, the proportion of small firms that raised their average selling prices rose +2 percentage points in June, to 38%, the highest since January 2023. This marks the 4th consecutive monthly increase and is more than double the long-term average of ~14%. Price pressures are hitting US small businesses.",
-      "summary": "<p>US small businesses are struggling with inflation:<br />\n<br />\nIn June, 21% of US small business owners reported inflation as their single most important business problem, the highest reading since October 2024.<br />\n<br />\nThis percentage has surged +10 points over the last 12 months.<br />\n<br />\nBy comparison, the reading peaked at ~36% in 2022 and at ~21% during the 2008 Financial Crisis.",
-      "link": "https://nitter.net/KobeissiLetter/status/2078597680851464361#m",
-      "published": "2026-07-18T21:48:00+00:00",
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Love it when price action isn't random - GBPUSD",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1uyosaq/love_it_when_price_action_isnt_random_gbpusd/\"> <img alt=\"Love it when price action isn't random - GBPUSD\" src=\"https://preview.redd.it/qwwlhq66ppdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b7b71fb0730a155b400aff23d6e0bbc7fa8f974e\" title=\"Love it when price action isn't random - GBPUSD\" /> </a> </td><td> <!-- SC_OFF",
+      "link": "https://www.reddit.com/r/Forex/comments/1uyosaq/love_it_when_price_action_isnt_random_gbpusd/",
+      "published": "2026-07-17T03:54:58+00:00",
       "score": 1
     },
     {
