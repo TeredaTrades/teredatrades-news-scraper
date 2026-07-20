@@ -1,68 +1,140 @@
 {
-  "updated_at": "2026-07-20T13:19:28.920242+00:00",
-  "count": 55,
+  "updated_at": "2026-07-20T15:29:03.804044+00:00",
+  "count": 50,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: ING: Burnham May Look Cautious at First, but Markets Shouldn’t Rule Out Bigger Moves - FJElite",
-      "summary": "<div>Andy Burnham’s arrival as prime minister has so far triggered surprisingly little market reaction, even though just a couple of months ago the prospect of him taking office was enough to unsettle UK assets. For now, the working assumption is that he will avoid major disruption this year, largely because his bigger ambitions are constrained by tight fiscal rules and a promise not to raise the ",
-      "link": "https://www.financialjuice.com/News/9685516/ING-Burnham-May-Look-Cautious-at-First-but-Markets-Shouldnt-Rule-Out-Bigger-Moves---FJElite.aspx?xy=rss",
-      "published": "2026-07-20T13:07:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MUFG on Weekend Commodity Moves: Oil Up, Gold Stuck as Geopolitics Collide With Rate Fears - FJElite",
-      "summary": "<div>Oil prices surged as the US and Iran sharply escalated hostilities, raising fresh concern over Middle East supply disruption. Brent rose toward USD90 a barrel and WTI to around USD84 as the latest developments included continued US strikes on Iranian military targets, Iranian attacks on shipping near the Strait of Hormuz, damage to a major Kuwaiti oil facility, and renewed Houthi threats agai",
-      "link": "https://www.financialjuice.com/News/9685515/MUFG-on-Weekend-Commodity-Moves-Oil-Up-Gold-Stuck-as-Geopolitics-Collide-With-Rate-Fears---FJElite.aspx?xy=rss",
-      "published": "2026-07-20T13:05:56+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Google's new chip to run AI models more efficiently - The Information",
+      "title": "FinancialJuice: Fed bids for 3-month bills total $5.6 bln.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9685513/Googles-new-chip-to-run-AI-models-more-efficiently---The-Information.aspx?xy=rss",
-      "published": "2026-07-20T13:03:51+00:00",
+      "link": "https://www.financialjuice.com/News/9685667/Fed-bids-for-3-month-bills-total-56-bln.aspx?xy=rss",
+      "published": "2026-07-20T15:15:27+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Morgan Stanley on the Fed: 3 Hikes, You're Out - FJElite",
-      "summary": "<div>Markets are still pricing a much more aggressive Fed path than the base economic view, with nearly 50bp of hikes priced by March 2027. That is more than 75bp above what is seen as most likely by the economists here and is closer to a scenario where real growth stays near 3% on a sustained basis. The key point is that this hawkish pricing had been closely tied to the AI-led equity rally.</div>",
-      "link": "https://www.financialjuice.com/News/9685512/Morgan-Stanley-on-the-Fed-3-Hikes-Youre-Out---FJElite.aspx?xy=rss",
-      "published": "2026-07-20T13:03:43+00:00",
+      "title": "FinancialJuice: Fed bids for 6-month bills total $4.8 bln.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9685665/Fed-bids-for-6-month-bills-total-48-bln.aspx?xy=rss",
+      "published": "2026-07-20T15:15:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Rate divergence weighs CAD against US Dollar – TD Securities",
+      "summary": "TD Securities strategists note that softer Canadian Consumer Price Index (CPI) is lifting USD/CAD as rate divergence remains a key driver. They argue broad US Dollar (USD) strength should limit USD/CAD downside below 1.40 and see higher Oil prices as CAD-supportive on crosses but not versus USD.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-rate-divergence-weighs-cad-against-us-dollar-td-securities-202607201458",
+      "published": "2026-07-20T14:58:51+00:00",
       "score": 2
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Google plans new chip - Information.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685511/Google-plans-new-chip---Information.aspx?xy=rss",
-      "published": "2026-07-20T13:03:26+00:00",
-      "score": 1
+      "title": "Gold swings around $4,000 as conflicting Middle East headlines drive markets",
+      "summary": "Gold (XAU/USD) trades in a volatile range on Monday as markets react to conflicting headlines from the Middle East. At the time of writing, XAU/USD trades around $4,010, little changed on the day after climbing to an intra-day high of $4,040.",
+      "link": "https://www.fxstreet.com/news/gold-swings-around-4-000-as-conflicting-middle-east-headlines-drive-markets-202607201442",
+      "published": "2026-07-20T14:42:13+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: Carry and growth support potential rebound – HSBC",
+      "summary": "HSBC strategists argue AUD/USD has room to rise into 2027, supported by Australia’s relatively high cash and government bond yields, which make the Australian Dollar attractive on a carry basis within G10 FX.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-carry-and-growth-support-potential-rebound-hsbc-202607201437",
+      "published": "2026-07-20T14:37:35+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Fed risks and Dollar strength cap upside – TD Securities",
+      "summary": "TD Securities’ commodity strategists, led by Bart Melek, note that Gold investors have sharply reduced long exposure as higher Oil prices from the US‑Iran conflict threaten recent disinflation progress.",
+      "link": "https://www.fxstreet.com/news/gold-fed-risks-and-dollar-strength-cap-upside-td-securities-202607201427",
+      "published": "2026-07-20T14:27:56+00:00",
+      "score": 3
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Microsoft to deploy next-gen AMD Instinct & AMD EPYC processors.",
+      "title": "FinancialJuice: UK's PM Burnham has spoken to Trump - The Guardian.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9685489/Microsoft-to-deploy-next-gen-AMD-Instinct--AMD-EPYC-processors.aspx?xy=rss",
-      "published": "2026-07-20T13:00:58+00:00",
+      "link": "https://www.financialjuice.com/News/9685589/UKs-PM-Burnham-has-spoken-to-Trump---The-Guardian.aspx?xy=rss",
+      "published": "2026-07-20T14:14:55+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Effective Fed Funds Rate 3.63% July 17 vs 3.63% July 16.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685482/Effective-Fed-Funds-Rate-363-July-17-vs-363-July-16.aspx?xy=rss",
-      "published": "2026-07-20T12:59:40+00:00",
+      "title": "Euro: ECB pause seen limiting downside against US Dollar – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad expects the ECB to leave rates at 2.25% this week after June’s 25 bps hike, maintaining a data-dependent stance without new projections.",
+      "link": "https://www.fxstreet.com/news/euro-ecb-pause-seen-limiting-downside-against-us-dollar-bbh-202607201413",
+      "published": "2026-07-20T14:13:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar gains as softer Fed outlook offsets Middle East tensions",
+      "summary": "NZD/USD moves higher on Monday and trades around 0.5850 at the time of writing, up 0.14% on the day, as the US Dollar (USD) weakens following the latest US inflation data.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-softer-fed-outlook-offsets-middle-east-tensions-202607201408",
+      "published": "2026-07-20T14:08:44+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Inflation cools as BoC stays patient – RBC",
+      "summary": "Royal Bank of Canada’s (RBC) Abbey Xu notes that Canadian inflation eased in June, with Consumer Price Index (CPI) slowing to 2.8% year-over-year and energy prices reversing part of their earlier surge.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-inflation-cools-as-boc-stays-patient-rbc-202607201403",
+      "published": "2026-07-20T14:03:03+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Sterling shifts into broader range against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang reports GBP/USD slipping but lacking strong downside momentum, with intraday trade expected between 1.3420 and 1.3475. The prior bullish view has faded after a break of 1.3450 support, and the pair is now seen in a 1.3385–1.3495 range.",
+      "link": "https://www.fxstreet.com/news/british-pound-sterling-shifts-into-broader-range-against-us-dollar-uob-202607201349",
+      "published": "2026-07-20T13:49:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed: On-hold stance with upside hike risk – TD Securities",
+      "summary": "TD Securities expects the Federal Reserve to keep the Fed funds rate unchanged through 2026, as inflation stays above target and the labor market stabilizes.",
+      "link": "https://www.fxstreet.com/news/fed-on-hold-stance-with-upside-hike-risk-td-securities-202607201337",
+      "published": "2026-07-20T13:37:59+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar under pressure as softer inflation meets firmer US Dollar",
+      "summary": "USD/CAD edges higher on Monday as softer-than-expected Canadian inflation data and a firmer US Dollar (USD) weigh on the Canadian Dollar (CAD), while tensions in the Middle East keep financial markets volatile. At the time of writing, the pair is trading around 1.4045, up 0.17% on the day.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-under-pressure-as-softer-inflation-meets-firmer-us-dollar-202607201337",
+      "published": "2026-07-20T13:37:56+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Alphabet, $GOOGL, is planning on launching a new “frozen” chip to run its AI models more efficiently, per The Information. Details include: 1. This new server chip would directly integrate the blueprint of its Gemini AI model 2. The chip would then enable Alphabet to provide its AI models to users much more efficiently 3. The chip's developers estimate that it would be 6 to 10 times more efficient than the most recent version of Google's existing line of AI chips Another tech giant has entered the chip race.",
+      "summary": "<p>BREAKING: Alphabet, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GOOGL\">$GOOGL</a>, is planning on launching a new “frozen” chip to run its AI models more efficiently, per The Information.<br />\n<br />\nDetails include:<br />\n<br />\n1. This new server chip would directly integrate the blueprint of its Gemini AI model<br />\n<br />\n2. The chip would then enable Alphabet to provide its AI m",
+      "link": "https://nitter.net/KobeissiLetter/status/2079198142218588589#m",
+      "published": "2026-07-20T13:34:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*GOOGLE PLANS NEW CHIP: INFORMATION",
+      "summary": "<p>*GOOGLE PLANS NEW CHIP: INFORMATION</p>",
+      "link": "https://nitter.net/DeItaone/status/2079190528520790377#m",
+      "published": "2026-07-20T13:03:46+00:00",
       "score": 1
     },
     {
@@ -78,7 +150,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Silver climbs near $57 despite renewed Fed rate hike expectations",
-      "summary": "Silver (XAG/USD) advances toward $56.90 per troy ounce on Monday at the time of writing, gaining 1.62% on the day. The precious metal continues to benefit from safe-haven demand as geopolitical tensions in the Middle East keep risk sentiment under pressure.",
+      "summary": "Silver (XAG/USD) advances toward $56.90 per troy ounce on Monday at the time of writing, gaining 1.6% on the day. The precious metal continues to benefit from safe-haven demand as geopolitical tensions in the Middle East keep risk sentiment under pressure.",
       "link": "https://www.fxstreet.com/news/silver-climbs-near-57-despite-renewed-fed-rate-hike-expectations-202607201247",
       "published": "2026-07-20T12:47:23+00:00",
       "score": 5
@@ -93,60 +165,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoC Core CPI MoM Actual 0.1% (Forecast -, Previous 0.6%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685432/BoC-Core-CPI-MoM-Actual-01-Forecast---Previous-06.aspx?xy=rss",
-      "published": "2026-07-20T12:30:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canadian Core CPI MoM Actual 0.2% (Forecast -, Previous 0.2%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685433/Canadian-Core-CPI-MoM-Actual-02-Forecast---Previous-02.aspx?xy=rss",
-      "published": "2026-07-20T12:30:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canadian CPI Common Actual 2.6% (Forecast -, Previous 2.7%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685431/Canadian-CPI-Common-Actual-26-Forecast---Previous-27.aspx?xy=rss",
-      "published": "2026-07-20T12:30:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoC Core CPI YoY Actual 2.1% (Forecast -, Previous 2.2%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685430/BoC-Core-CPI-YoY-Actual-21-Forecast---Previous-22.aspx?xy=rss",
-      "published": "2026-07-20T12:30:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canadian CPI Median Actual 1.9% (Forecast 2.1%, Previous 2.1%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685427/Canadian-CPI-Median-Actual-19-Forecast-21-Previous-21.aspx?xy=rss",
-      "published": "2026-07-20T12:30:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canadian CPI MoM Actual -0.4% (Forecast -0.2%, Previous 1.0%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9685426/Canadian-CPI-MoM-Actual--04-Forecast--02-Previous-10.aspx?xy=rss",
-      "published": "2026-07-20T12:30:21+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Norwegian Krone: Range trading view holds against Euro – Rabobank",
@@ -156,75 +174,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "European Central Bank: Oil risks support a September rate hike – Commerzbank",
-      "summary": "Commerzbank’s rates team expects higher oil prices and weak growth signals to shape Thursday’s European Central Bank (ECB) meeting. A July rate hike is effectively ruled out, while markets have fully priced in another 25bp move in September.",
-      "link": "https://www.fxstreet.com/news/european-central-bank-oil-risks-support-a-september-rate-hike-commerzbank-202607201216",
-      "published": "2026-07-20T12:16:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United Kingdom: Softer CPI supports prolonged BoE hold – TD Securities",
-      "summary": "TD Securities’ Julie Ioffe expects United Kingdom (UK) headline Consumer Price Index (CPI) to slow to 2.7% year-on-year in June, in line with consensus but below Bank of England (BoE) projections, as lower fuel prices offset sticky Services. Core CPI is seen at 2.6% and Services at 3.6%.",
-      "link": "https://www.fxstreet.com/news/united-kingdom-softer-cpi-supports-prolonged-boe-hold-td-securities-202607201207",
-      "published": "2026-07-20T12:07:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Bearish Flag formation backs more downside",
-      "summary": "The Euro (EUR) trades marginally lower near 1.1432 against the US Dollar (USD) during the European trading session on Monday. The major currency pair edges down as the US Dollar recovers its early losses.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bearish-flag-formation-backs-more-downside-202607201157",
-      "published": "2026-07-20T11:57:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar: Sticky inflation supports more RBNZ hikes – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad expects New Zealand Q2 Consumer Price Index (CPI) to remain well above target, with quarterly and annual readings only slightly below the RBNZ’s own projections.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-sticky-inflation-supports-more-rbnz-hikes-bbh-202607201155",
-      "published": "2026-07-20T11:55:32+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar picks up above 0.7000 as risk aversion eases",
-      "summary": "The Australian Dollar (AUD) appreciates against the US Dollar (USD) on Monday as comments from Iranian Foreign Minister Esmaeil Baghaei offered a glimmer of hope for de-escalation in Iran and pushed Oil prices down from one-month highs.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-picks-up-above-07000-as-risk-aversion-eases-202607201152",
-      "published": "2026-07-20T11:52:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee struggles for comeback amid continued FIIs selling",
-      "summary": "The Indian Rupee (INR) trades slightly lower against the US Dollar (USD) in late trading hours on Monday. The USD/INR pair is mildly higher to near 96.46 at the time of writing as the consistent outflow of foreign funds from the Indian stock market is hurting the Indian currency.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-starts-weak-negatively-as-oil-prices-extend-gains-202607200520",
-      "published": "2026-07-20T11:31:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee: RBI support as INR nears record low against US Dollar – BNY",
-      "summary": "BNY’s Geoff Yu reports that the Reserve Bank of India (RBI) has intervened onshore and offshore to support the Indian Rupee (INR) as USD/INR trades close to its all‑time high.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-support-as-inr-nears-record-low-against-us-dollar-bny-202607201128",
-      "published": "2026-07-20T11:28:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index: Higher energy supports DXY recovery – ING",
-      "summary": "ING’s Chris Turner notes that deteriorating Gulf headlines and higher energy prices are keeping the Dollar supported, even if US Dollar Index (DXY) remains about 1% below its June peak.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-higher-energy-supports-dxy-recovery-ing-202607201115",
-      "published": "2026-07-20T11:15:40+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. EYES TOUGHER CURBS ON CHINESE AI The Trump administration is reportedly considering stricter rules on Chinese AI models after the launch of Moonshot AI’s Kimi K3. Options include requiring U.S. hosting providers to guarantee the security of Chinese models and accept liability for breaches, alongside potential procurement bans and export blacklist measures, as Washington responds to China’s rapid AI advances.",
+      "summary": "<p>U.S. EYES TOUGHER CURBS ON CHINESE AI<br />\n<br />\nThe Trump administration is reportedly considering stricter rules on Chinese AI models after the launch of Moonshot AI’s Kimi K3. Options include requiring U.S. hosting providers to guarantee the security of Chinese models and accept liability for breaches, alongside potential procurement bans and export blacklist measures, as Washington respon",
+      "link": "https://nitter.net/DeItaone/status/2079151855481827530#m",
+      "published": "2026-07-20T10:30:05+00:00",
       "score": 1
     },
     {
@@ -235,6 +190,15 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v1g9wt/i_created_my_first_profitable_expert_advisor_bot/",
       "published": "2026-07-20T09:09:35+00:00",
       "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP HAILS GROCERY PRICE CUTS President Trump praised Giant Eagle for lowering prices on more than 300 products through Labor Day, calling on other grocery chains to follow suit. He credited his administration for falling costs on items including oil, gas, eggs and prescription drugs, while blaming the previous Biden administration for high inflation.",
+      "summary": "<p>TRUMP HAILS GROCERY PRICE CUTS<br />\n<br />\nPresident Trump praised Giant Eagle for lowering prices on more than 300 products through Labor Day, calling on other grocery chains to follow suit. He credited his administration for falling costs on items including oil, gas, eggs and prescription drugs, while blaming the previous Biden administration for high inflation.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079122896434221457#m",
+      "published": "2026-07-20T08:35:01+00:00",
+      "score": 2
     },
     {
       "source": "r/Forex",
@@ -271,6 +235,15 @@
       "link": "https://nitter.net/KobeissiLetter/status/2078910240045609192#m",
       "published": "2026-07-19T18:30:00+00:00",
       "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "WALL STREET WEEK AHEAD: $GOOGL, $INTC IN FOCUS U.S. earnings season accelerates next week, with $GOOGL and $INTC among the most closely watched reports as investors look for signals on AI spending, corporate profitability, and the broader market outlook. Markets ended the week on a softer note, with the S&P 500 posting a weekly decline after a sharp pullback in semiconductor stocks. Even so, the index remains up around 9% in 2026 and sits just 2% below its early-June record high. $GOOGL’s AI Spending in Focus $GOOGL reports on Wednesday, and its results are expected to be one of the biggest market catalysts of the week. As one of the “Magnificent Seven” and a leading AI hyperscaler, $GOOGL has invested billions in data centers and AI infrastructure. Investors will be watching closely for any changes to those spending plans. According to Kevin Mahn, President and CIO of Hennion & Walsh Asset Management, any indication that $GOOGL is scaling back AI investment could have ripple effects across the entire AI ecosystem. Chip Stocks Face Another Key Test Semiconductor earnings will remain under the spotlight with $INTC and $TXN also reporting. The sector has delivered exceptional gains this year but has recently come under pressure. The Philadelphia Semiconductor Index has fallen more than 20% from its late-June high, officially entering bear market territory, despite remaining up more than 60% year-to-date. $INTC shares have surged over 160% this year, while $TXN has gained roughly 60%, highlighting the high expectations investors have already priced in. Recent earnings from Samsung Electronics and Taiwan Semiconductor ($TSM), despite being solid, received muted market reactions—another sign that expectations for the sector remain extremely high. Earnings Season Picks Up Pace More than 80 S&P 500 companies are scheduled to report next week, including: $TSLA $AXP $RTX $PM The earnings season got off to a strong start with major U.S. banks reporting solid results, supported by robust investment banking activity and strong trading revenues. Consensus estimates currently point to 26% year-over-year earnings growth for the S&P 500 in the second quarter, according to LSEG IBES data. “The fundamentals have been resilient, and earnings continue to be outstanding,” said Michael Arone, Chief Investment Strategist at State Street Investment Management. Geopolitics and the Fed Remain Key Risks Beyond earnings, investors continue to monitor developments in the Middle East following the recent escalation involving Iran. While many expect the conflict to remain relatively contained, renewed tensions could push energy prices higher, potentially reigniting inflation concerns. That comes ahead of the Federal Reserve’s meeting at the end of July. Recent U.S. inflation data came in cooler than expected, easing some fears of an imminent rate hike. “The macro data has painted a picture of a steady economy with some improvement in inflationary pressure,” said Eric Kuby, CIO at North Star Investment Management. Bottom Line Next week’s earnings could prove pivotal for markets, particularly for the AI trade. $GOOGL’s outlook on AI spending, alongside $INTC and $TXN results, will offer an important read on whether the investment boom that has fueled this year’s rally still has room to run.",
+      "summary": "<p>WALL STREET WEEK AHEAD: <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GOOGL\">$GOOGL</a>, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23INTC\">$INTC</a> IN FOCUS<br />\n<br />\nU.S. earnings season accelerates next week, with <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GOOGL\">$GOOGL</a> and <a href=\"https://nitter.net/search?f=tweets&amp;q=%23INTC\">$INTC</a> among the most cl",
+      "link": "https://nitter.net/DeItaone/status/2078857007138996529#m",
+      "published": "2026-07-19T14:58:28+00:00",
+      "score": 4
     },
     {
       "source": "r/Forex",
@@ -315,24 +288,6 @@
       "summary": "<p>China is still quietly stockpiling gold:<br />\n<br />\nChina acquired +48 tonnes of gold in May via the London OTC market, the biggest monthly purchase in over a year, according to Goldman Sachs estimates.<br />\n<br />\nThis is 4.8x more than the official +10 tonnes reported by China's central bank for May.<br />\n<br />\nMeanwhile, China's central bank officially added another +15 tonnes of gold i",
       "link": "https://nitter.net/KobeissiLetter/status/2078562197068751089#m",
       "published": "2026-07-18T19:27:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Aggressive selling continues in tech stocks: The technology sector ETF, $XLK, posted -$8.7 billion in outflows over the last month, the largest withdrawal of any S&P 500 sector. This was followed by the energy sector ETF, $XLE, at -$1.0 billion, and the communication services sector ETF, $XLC, at -$500 million. The financial sector ETF, $XLF, attracted +$2.1 billion in inflows, the largest intake among all sectors. Furthermore, the healthcare ETF, $XLV, and the utilities ETF, $XLU, attracted +$800 million and +$600 million in inflows, respectively. Healthcare, energy, and financial ETFs have been the best-performing sectors over the last month, gaining +7.4%, +6.3%, and +4.5%, respectively. Over the same period, $XLK has declined -5.4%, making it the worst-performing sector. Technology stocks are taking a breather.",
-      "summary": "<p>Aggressive selling continues in tech stocks:<br />\n<br />\nThe technology sector ETF, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23XLK\">$XLK</a>, posted -$8.7 billion in outflows over the last month, the largest withdrawal of any S&amp;P 500 sector.<br />\n<br />\nThis was followed by the energy sector ETF, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23XLE\">$XLE</a>, at -$1.0 billio",
-      "link": "https://nitter.net/KobeissiLetter/status/2078529229889712444#m",
-      "published": "2026-07-18T17:16:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "DXY Outlook",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1uywuhi/dxy_outlook/\"> <img alt=\"DXY Outlook\" src=\"https://preview.redd.it/j5qexwi1yrdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb9d433e4c094d20b88c2383389827ffaa757090\" title=\"DXY Outlook\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Nice Reaction as we anticipated yesterday.... Newyork should send it even higher.",
-      "link": "https://www.reddit.com/r/Forex/comments/1uywuhi/dxy_outlook/",
-      "published": "2026-07-17T11:20:43+00:00",
       "score": 1
     },
     {
