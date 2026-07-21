@@ -1,60 +1,150 @@
 {
-  "updated_at": "2026-07-21T12:54:50.512125+00:00",
-  "count": 54,
+  "updated_at": "2026-07-21T15:05:10.659830+00:00",
+  "count": 62,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: UniCredit: Has the Iran War Become Background Noise for FX? - FJElite",
-      "summary": "<div>The core point is that FX markets are reacting less to the Iran war than they normally would to this level of geopolitical stress. Despite further escalation, threats to both Hormuz and the Red Sea, and rising regional instability, the dollar has not behaved like a classic safe haven in the way many would expect. Major FX pairs have stayed largely rangebound, implied volatility remains low, a",
-      "link": "https://www.financialjuice.com/News/9687148/UniCredit-Has-the-Iran-War-Become-Background-Noise-for-FX---FJElite.aspx?xy=rss",
-      "published": "2026-07-21T12:53:58+00:00",
+      "title": "FinancialJuice: Google Unveils New Gemini AI Models, Begins Gemini 4 Pre-Training $GOOGL",
+      "summary": "<div><ul><li>Google introduces Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and Gemini 3.5 Flash Cyber</li><li>Google: Gemini 3.5 Pro is currently being tested with partners and will be broadly released once it is ready</li><li>Google has started pre-training its next-generation Gemini 4 model</li><li>Gemini 3.6 Flash priced at $1.50 per million input tokens and $7.50 per million output tokens</li><li",
+      "link": "https://www.financialjuice.com/News/9687348/Google-Unveils-New-Gemini-AI-Models-Begins-Gemini-4-Pre-Training-GOOGL.aspx?xy=rss",
+      "published": "2026-07-21T15:03:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia: Vera Rubin AI Platform on Schedule, Customer Testing Underway $NVDA $AMD",
+      "summary": "<div><ul><li>Major customers are already testing Nvidia's Vera Rubin platform</li><li>Vera Rubin chips remain on schedule for deployment in AI data centers</li><li>Nvidia says its new Vera processor is faster than AMD's Turin processor</li></ul></div>",
+      "link": "https://www.financialjuice.com/News/9687329/Nvidia-Vera-Rubin-AI-Platform-on-Schedule-Customer-Testing-Underway-NVDA-AMD.aspx?xy=rss",
+      "published": "2026-07-21T15:01:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Canadian Prime Minister Carney: I spoke to Trump on Tuesday morning. We agreed to intensify negotiations in the coming weeks.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9687316/Canadian-Prime-Minister-Carney-I-spoke-to-Trump-on-Tuesday-morning-We-agreed-to-intensify-negotiations-in-the-coming-weeks.aspx?xy=rss",
+      "published": "2026-07-21T14:58:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Canadian Prime Minister Carney: Trump's latest tariffs threat is in violation of the USMCA deal.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9687315/Canadian-Prime-Minister-Carney-Trumps-latest-tariffs-threat-is-in-violation-of-the-USMCA-deal.aspx?xy=rss",
+      "published": "2026-07-21T14:56:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Yen weakens to 163 vs USD, raising risks of intervention.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9687314/Yen-weakens-to-163-vs-USD-raising-risks-of-intervention.aspx?xy=rss",
+      "published": "2026-07-21T14:56:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Mean reversion faces tariff headwinds – Societe Generale",
+      "summary": "Societe Generale strategists note that softer June inflation in Canada has stalled the Canadian Dollar’s (CAD) rebound from 1.4250 toward 1.40 against the US Dollar (USD). Failure to reclaim the 50-day moving average around 1.3991 and new US tariffs on Canadian goods complicate the mean-reversion.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-mean-reversion-faces-tariff-headwinds-societe-generale-202607211409",
+      "published": "2026-07-21T14:09:24+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar retreats as new US tariffs, softer-than-expected inflation weigh",
+      "summary": "USD/CAD trades on the front foot as tensions in the Middle East keep the US Dollar (USD) firmly bid, while the Canadian Dollar also faces pressure from renewed trade frictions with the United States.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-retreats-as-new-us-tariffs-softer-than-expected-inflation-weigh-202607211353",
+      "published": "2026-07-21T13:53:32+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: US oil prices surge to $85/barrel after Iran says it has struck an Amazon datacenter in Bahrain and water desalination plants in Kuwait in response to US strikes.",
+      "summary": "<p>BREAKING: US oil prices surge to $85/barrel after Iran says it has struck an Amazon datacenter in Bahrain and water desalination plants in Kuwait in response to US strikes.</p>\n<img src=\"https://nitter.net/pic/media%2FHNwY_dRWMAAuLvM.png\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2079564611838226519#m",
+      "published": "2026-07-21T13:50:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Japan’s fiscal pivot and GPIF flows reshape rates – BNY",
+      "summary": "BNY’s Geoff Yu highlights Japan’s new fiscal guidelines under Prime Minister Takaichi, which prioritize proactive spending and long-term investment over near-term consolidation.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-japans-fiscal-pivot-and-gpif-flows-reshape-rates-bny-202607211342",
+      "published": "2026-07-21T13:42:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar dips despite hotter inflation as fimer US Dollar outweighs",
+      "summary": "NZD/USD trades around 0.5835 on Tuesday at the time of writing, down a modest 0.07% on the day despite support for the New Zealand Dollar (NZD) from stronger-than-expected inflation data.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-dips-despite-hotter-inflation-as-fimer-us-dollar-outweighs-202607211337",
+      "published": "2026-07-21T13:37:25+00:00",
       "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: USTR Greer on USMCA: Trump wants deficit to go down",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687145/USTR-Greer-on-USMCA-Trump-wants-deficit-to-go-down.aspx?xy=rss",
-      "published": "2026-07-21T12:52:06+00:00",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: +16 mln<br />Nasdaq 100: +5 mln<br />Dow 30: -23 mln<br />Mag 7: -1 mln",
+      "link": "https://www.financialjuice.com/News/9687215/MOO-Imbalance.aspx?xy=rss",
+      "published": "2026-07-21T13:30:35+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: USTR Greer on USMCA: Trump in some ways has already taken related actions.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687144/USTR-Greer-on-USMCA-Trump-in-some-ways-has-already-taken-related-actions.aspx?xy=rss",
-      "published": "2026-07-21T12:52:02+00:00",
+      "title": "British Pound: Funding concerns weigh on Sterling – Rabobank",
+      "summary": "Rabobank's Senior FX Strategist Jane Foley discusses United Kingdom (UK) markets’ reaction to PM Burnham’s new cabinet and fiscal plans, noting 10-year gilt yields above 5% and British Pound (GBP) weakness in G10.",
+      "link": "https://www.fxstreet.com/news/british-pound-funding-concerns-weigh-on-sterling-rabobank-202607211328",
+      "published": "2026-07-21T13:28:41+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Goldman Sachs: Oil Risks Still Skew Higher Despite China Demand Weakness - FJElite",
-      "summary": "<div>Lower Persian Gulf flows are pushing oil prices higher again, and the recent drop in estimated flows to below 45% of pre-war levels has already lifted Brent back above the base-case path for late 2026 and 2027. <br />The balance of risks still looks tilted to the upside, especially near term, with the biggest threats coming from further shipping disruption in Hormuz and possibly the Red Sea, ",
-      "link": "https://www.financialjuice.com/News/9687143/Goldman-Sachs-Oil-Risks-Still-Skew-Higher-Despite-China-Demand-Weakness---FJElite.aspx?xy=rss",
-      "published": "2026-07-21T12:51:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: USTR Greer on Canada: We've been asking Canadians for a year to remove retaliation to Trump's tariffs.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687140/USTR-Greer-on-Canada-Weve-been-asking-Canadians-for-a-year-to-remove-retaliation-to-Trumps-tariffs.aspx?xy=rss",
-      "published": "2026-07-21T12:50:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Bank of America: Treasury Positioning Still Leans Toward Higher Rates - FJElite",
-      "summary": "<div>Positioning across rates markets remains mixed, but still biased toward higher yields. Active benchmark funds are largely running neutral duration and curve exposure, choosing instead to express risk through higher investment-grade credit exposure despite ongoing supply concerns. At the same time, CTAs remain meaningfully short at the front end and still have room to add shorts further out th",
-      "link": "https://www.financialjuice.com/News/9687137/Bank-of-America-Treasury-Positioning-Still-Leans-Toward-Higher-Rates---FJElite.aspx?xy=rss",
-      "published": "2026-07-21T12:47:48+00:00",
+      "title": "Canadian Dollar: Tariff risks cap gains against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the Canadian Dollar (CAD) has recovered overnight losses versus the US Dollar (USD) after news that President Trump may impose new tariffs on Canadian exports.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-tariff-risks-cap-gains-against-us-dollar-scotiabank-202607211312",
+      "published": "2026-07-21T13:12:09+00:00",
       "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold climbs as buyers defend $4,000, hawkish Fed expectations limit upside",
+      "summary": "Gold (XAU/USD) edges higher on Tuesday as buying interest around the $4,000 psychological level supports prices, while traders assess developments in the Middle East and their potential economic fallout. At the time of writing, XAU/USD trades around $4,060, up 1.30% on the day.",
+      "link": "https://www.fxstreet.com/news/gold-climbs-as-buyers-defend-4-000-hawkish-fed-expectations-limit-upside-202607211133",
+      "published": "2026-07-21T13:07:55+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar: CPI supports further RBNZ hikes – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports NZD/USD has rallied toward a seven-week high after New Zealand Q2 Consumer Price Index (CPI) surprised slightly on the upside versus consensus but came in just below the Reserve Bank of New Zealand's (RBNZ) projection.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-cpi-supports-further-rbnz-hikes-bbh-202607211250",
+      "published": "2026-07-21T12:50:45+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump is preparing to announce 10% tariffs on \"dozens of countries\" this week, per FT. Details include: 1. These new tariffs come as President Trump's current 10% tariffs expire later this week 2. President Trump's advisors have reportedly warned him against doing so 3. Advisors are reportedly worried about risking the economic shocks of the original trade war ahead of the midterm elections 4. The Trump Admin is also working on other investigations that could grant it the legal authority to propose higher tariffs More tariffs are on the way.",
+      "summary": "<p>BREAKING: President Trump is preparing to announce 10% tariffs on \"dozens of countries\" this week, per FT.<br />\n<br />\nDetails include:<br />\n<br />\n1. These new tariffs come as President Trump's current 10% tariffs expire later this week<br />\n<br />\n2. President Trump's advisors have reportedly warned him against doing so<br />\n<br />\n3. Advisors are reportedly worried about risking the econ",
+      "link": "https://nitter.net/KobeissiLetter/status/2079549452352647454#m",
+      "published": "2026-07-21T12:50:00+00:00",
+      "score": 1
     },
     {
       "source": "r/Forex",
@@ -73,15 +163,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v2h40x/ftmo_eval_counted_loss_in_a_winning_trade/",
       "published": "2026-07-21T12:32:24+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft and Mistral to expand AI infrastructure in Europe.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687122/Microsoft-and-Mistral-to-expand-AI-infrastructure-in-Europe.aspx?xy=rss",
-      "published": "2026-07-21T12:32:04+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -122,15 +203,6 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold climbs as buyers defend $4,000, hawkish Fed expectations limit upside",
-      "summary": "Gold (XAU/USD) edges higher on Tuesday as buying interest around the $4,000 psychological level supports prices, while traders assess developments in the Middle East and their potential economic fallout. At the time of writing, XAU/USD trades around $4,058, up 1.27% on the day.",
-      "link": "https://www.fxstreet.com/news/gold-climbs-as-buyers-defend-4-000-hawkish-fed-expectations-limit-upside-202607211133",
-      "published": "2026-07-21T11:33:46+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Canadian Dollar: Tariffs and soft CPI pressure Loonie – BBH",
       "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the Canadian Dollar (CAD) is underperforming other high-beta currencies after the Trump administration announced a 50% tariff on nearly $20 billion of Canadian imports, excluding energy and some key goods.",
       "link": "https://www.fxstreet.com/news/canadian-dollar-tariffs-and-soft-cpi-pressure-loonie-bbh-202607211127",
@@ -156,67 +228,22 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee gains ground as oil prices correct, Trump's decision awaited",
-      "summary": "The Indian Rupee (INR) opens higher against the US Dollar on Tuesday. The USD/INR pair corrects to near 96.34 from its two-month high of 96.76 posted on Monday, as fresh hopes of de-escalation in military aggression between the United States (US) and Iran have offered support to the Indian currency.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-on-middle-east-peace-hopes-202607210536",
-      "published": "2026-07-21T10:55:07+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD attempts Descending Triangle breakout near $4,070",
-      "summary": "Gold price (XAU/USD) is up 1.5% to near $4,067 during the European trading session on Tuesday. The precious metal outperforms as the rally in oil prices has stalled, with investors turning confident that negotiations between the United States (US) and Iran towards peace have resumed.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-attempts-descending-triangle-breakout-near-4-070-202607211044",
-      "published": "2026-07-21T10:44:18+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: CPI focus supports Sterling against US Dollar – Societe Generale",
-      "summary": "Societe Generale strategists note that dip buying in Sterling has kept GBP/USD trading above its 200-day moving average near 1.3403, even as Gilts remain under pressure.",
-      "link": "https://www.fxstreet.com/news/british-pound-cpi-focus-supports-sterling-against-us-dollar-societe-generale-202607211004",
-      "published": "2026-07-21T10:04:26+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Energy shock and Japan policy risks – MUFG",
-      "summary": "MUFG’s Lee Hardman notes USD/JPY is holding just below year-to-date highs as a negative energy price shock weighs on the Japanese Yen. Rising Brent prices linked to US–Iran tensions and Houthi threats to shipping highlight global supply risks.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-energy-shock-and-japan-policy-risks-mufg-202607210954",
-      "published": "2026-07-21T09:54:20+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP PREPARES NEW ROUND OF TARIFFS President Donald Trump is reportedly preparing a new round of tariffs on dozens of countries ahead of the expiration of the current 10% global tariff this week. According to the Financial Times, the administration is considering keeping the 10% rate for many countries while pursuing legal avenues to impose higher duties on others.",
+      "summary": "<p>TRUMP PREPARES NEW ROUND OF TARIFFS<br />\n<br />\nPresident Donald Trump is reportedly preparing a new round of tariffs on dozens of countries ahead of the expiration of the current 10% global tariff this week. According to the Financial Times, the administration is considering keeping the 10% rate for many countries while pursuing legal avenues to impose higher duties on others.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079511336644399494#m",
+      "published": "2026-07-21T10:18:32+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Hungarian Forint: MNB easing on lower inflation – Commerzbank",
-      "summary": "Commerzbank’s Tatha Ghose expects the central bank of Hungary Magyar Nemzeti Bank (MNB) to cut its base rate by 25bp to 5.75%, continuing June’s easing cycle.",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-mnb-easing-on-lower-inflation-commerzbank-202607210940",
-      "published": "2026-07-21T09:40:59+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "IRAN CLAIMS STRIKES ON AMAZON DATA CENTER, U.S. BASE Iran’s Revolutionary Guard claimed it struck Amazon data center infrastructure in Bahrain in retaliation for a U.S. attack on the Darkhovin nuclear project. The IRGC also said it targeted a U.S. military base in Jordan, claiming to have destroyed a missile defense radar system and an F-15 fighter jet. These claims have not been independently verified.",
+      "summary": "<p>IRAN CLAIMS STRIKES ON AMAZON DATA CENTER, U.S. BASE<br />\n<br />\nIran’s Revolutionary Guard claimed it struck Amazon data center infrastructure in Bahrain in retaliation for a U.S. attack on the Darkhovin nuclear project. The IRGC also said it targeted a U.S. military base in Jordan, claiming to have destroyed a missile defense radar system and an F-15 fighter jet. These claims have not been i",
+      "link": "https://nitter.net/DeItaone/status/2079488413661532407#m",
+      "published": "2026-07-21T08:47:27+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro edges up to 1.1420 as Eurozone Economic Sentiment beats expectations",
-      "summary": "The Euro (EUR) edges up against the US Dollar (USD) on Tuesday, returning to levels just above 1.1420 after a three-day reversal from last week's highs at 1.1480 found support at 1.1400.",
-      "link": "https://www.fxstreet.com/news/euro-flatlines-above-11400-with-geopolitical-tensions-oil-prices-capping-rallies-202607210710",
-      "published": "2026-07-21T09:36:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) rose on Tuesday, according to FXStreet data. Silver trades at $58.96 per troy ounce, up 4.54% from the $56.40 it cost on Monday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202607210930",
-      "published": "2026-07-21T09:30:36+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
@@ -246,6 +273,15 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SPEAKS WITH NEW U.K. PRIME MINISTER President Donald Trump said he had a “very good” call with new U.K. Prime Minister Andy Burnham, discussing trade, North Sea oil, the U.S.-U.K. military alliance and efforts to clear the Strait of Hormuz. Trump said the two leaders plan to meet soon and pledged U.S. support for Burnham’s government.",
+      "summary": "<p>TRUMP SPEAKS WITH NEW U.K. PRIME MINISTER<br />\n<br />\nPresident Donald Trump said he had a “very good” call with new U.K. Prime Minister Andy Burnham, discussing trade, North Sea oil, the U.S.-U.K. military alliance and efforts to clear the Strait of Hormuz. Trump said the two leaders plan to meet soon and pledged U.S. support for Burnham’s government.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079332468583252394#m",
+      "published": "2026-07-20T22:27:47+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump is imposing an additional 50% tariff on a range of Canadian goods in response to \"trade discrimination.\" Details include: 1. President Trump signed 3 proclamations today targeting different sets of Canadian imports 2. The tariffs are targeting separate areas where the US says it has experienced discrimination 3. The tariffs fall under Section 338 of the Tariff Act of 1930 These tariffs are set to take effect in 30 days.",
@@ -264,6 +300,42 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. VOWS PRESSURE ON IRAN A senior U.S. official said President Donald Trump is focused on making Iran “pay” for allegedly violating a prior understanding and carrying out attacks in the Strait of Hormuz. According to Axios, the official said U.S. strikes will continue until Trump decides otherwise.",
+      "summary": "<p>U.S. VOWS PRESSURE ON IRAN<br />\n<br />\nA senior U.S. official said President Donald Trump is focused on making Iran “pay” for allegedly violating a prior understanding and carrying out attacks in the Strait of Hormuz. According to Axios, the official said U.S. strikes will continue until Trump decides otherwise.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079288731354476667#m",
+      "published": "2026-07-20T19:33:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SAYS NETANYAHU WILL NOT BE ARRESTED IN U.S. President Donald Trump said Israeli Prime Minister Benjamin Netanyahu will not be arrested while visiting the United States. Trump praised Netanyahu’s campaign against Iran and blamed Iran’s leadership for decades of violence, arguing they—not Netanyahu—should be held accountable.",
+      "summary": "<p>TRUMP SAYS NETANYAHU WILL NOT BE ARRESTED IN U.S.<br />\n<br />\nPresident Donald Trump said Israeli Prime Minister Benjamin Netanyahu will not be arrested while visiting the United States. Trump praised Netanyahu’s campaign against Iran and blamed Iran’s leadership for decades of violence, arguing they—not Netanyahu—should be held accountable.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079248460264751362#m",
+      "published": "2026-07-20T16:53:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: NETANYAHU WILL NOT BE ARRESTED WHILE IN UNITED STATES OF AMERICA",
+      "summary": "<p>TRUMP: NETANYAHU WILL NOT BE ARRESTED WHILE IN UNITED STATES OF AMERICA</p>",
+      "link": "https://nitter.net/DeItaone/status/2079247993736220761#m",
+      "published": "2026-07-20T16:52:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: EVERY TIME IRAN KILLS AN AMERICAN SOLDIER THEY WILL PAY FOR THAT KILLING MANY TIMES OVER",
+      "summary": "<p>TRUMP: EVERY TIME IRAN KILLS AN AMERICAN SOLDIER THEY WILL PAY FOR THAT KILLING MANY TIMES OVER</p>",
+      "link": "https://nitter.net/DeItaone/status/2079247847334002858#m",
+      "published": "2026-07-20T16:51:32+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says every time Iran kills an American soldier, “they will pay for that killing many times over.”",
@@ -279,6 +351,15 @@
       "summary": "<p>US stocks have almost never moved this independently of each other:<br />\n<br />\nThe S&amp;P 500's 6-month implied correlation is down to 0.15, an all-time low.<br />\n<br />\nImplied correlation measures how closely stocks are expected to move together, with a reading this low meaning individual stocks are becoming increasingly disconnected from the broader index.<br />\n<br />\nThis metric has no",
       "link": "https://nitter.net/KobeissiLetter/status/2079236583891271984#m",
       "published": "2026-07-20T16:06:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP URGES GOP TO BACK BUDGET PLAN President Donald Trump called on House Republicans to unite behind the budget resolution, describing it as the first step toward advancing the Save America Act. He said the package should include military funding, aid for farmers, voter ID and proof of citizenship requirements, while urging lawmakers to vote in favor this week.",
+      "summary": "<p>TRUMP URGES GOP TO BACK BUDGET PLAN<br />\n<br />\nPresident Donald Trump called on House Republicans to unite behind the budget resolution, describing it as the first step toward advancing the Save America Act. He said the package should include military funding, aid for farmers, voter ID and proof of citizenship requirements, while urging lawmakers to vote in favor this week.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079230135652188671#m",
+      "published": "2026-07-20T15:41:09+00:00",
       "score": 1
     },
     {
@@ -316,15 +397,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v18i1l/bought_the_recovery_sold_the_invitation_xauusd_5m/",
       "published": "2026-07-20T02:03:45+00:00",
       "score": 4
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The cost of financing US debt is rapidly rising: On Tuesday, the US sold 30-year Treasury bonds at a 5.06% yield, the highest auction result since 2007. At the same time, the 30-year Treasury yield jumped back above 5.00%, though it remains below the May 20th peak of 5.20%, the highest since July 2007. By comparison, auctions for the same maturity were priced at around 2.00% in early 2022. Long-term yields are increasing as the US debt burden expands, with heavier Treasury supply, rising inflation risks, and concerns over future borrowing needs forcing the government to pay more to attract investors. Furthermore, the AI investment boom is adding another layer of pressure, as tech companies issue record amounts of debt to fund AI infrastructure, competing with the government for the same pool of capital and pushing long-term borrowing costs higher. The US debt crisis is intensifying.",
-      "summary": "<p>The cost of financing US debt is rapidly rising:<br />\n<br />\nOn Tuesday, the US sold 30-year Treasury bonds at a 5.06% yield, the highest auction result since 2007.<br />\n<br />\nAt the same time, the 30-year Treasury yield jumped back above 5.00%, though it remains below the May 20th peak of 5.20%, the highest since July 2007.<br />\n<br />\nBy comparison, auctions for the same maturity were pri",
-      "link": "https://nitter.net/KobeissiLetter/status/2078950757421007292#m",
-      "published": "2026-07-19T21:11:00+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
