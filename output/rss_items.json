@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-07-21T18:01:10.772373+00:00",
-  "count": 85,
+  "updated_at": "2026-07-21T19:52:13.000087+00:00",
+  "count": 72,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: -623 mln<br />Nasdaq 100: -1290 mln<br />Dow 30: -78 mln<br />Mag 7: -360 mln",
+      "link": "https://www.financialjuice.com/News/9687692/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-07-21T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump announces that the US will now allow ALL airline carriers to fly directly to Lebanon after his meeting with Lebanon’s President Aoun.",
+      "summary": "<p>BREAKING: President Trump announces that the US will now allow ALL airline carriers to fly directly to Lebanon after his meeting with Lebanon’s President Aoun.</p>\n<img src=\"https://nitter.net/pic/media%2FHNxna2zXQAAGLVj.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2079651017658966379#m",
+      "published": "2026-07-21T19:33:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "There it is: The 10Y Note Yield has officially erased all of its losses since the \"Memorandum of Understanding\" was signed. This puts the 10Y Note Yield up to 4.63%, near its highest level since January 2025. 7% mortgage rates in the US are on their way.",
+      "summary": "<p>There it is:<br />\n<br />\nThe 10Y Note Yield has officially erased all of its losses since the \"Memorandum of Understanding\" was signed.<br />\n<br />\nThis puts the 10Y Note Yield up to 4.63%, near its highest level since January 2025.<br />\n<br />\n7% mortgage rates in the US are on their way.</p>\n<img src=\"https://nitter.net/pic/media%2FHNxmvC4X0AAt5FM.png\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2079650239279935862#m",
+      "published": "2026-07-21T19:30:29+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Wednesday FX Options Expiries",
+      "summary": "<ul><li><strong>EUR/USD:</strong> 1.1400 (EU2.85b), 1.1500 (EU844.7m), 1.1770 (EU534.4m)</li><li><strong>USD/JPY:</strong> 163.00 ($1.58b), 157.50 ($1.43b), 162.50 ($952.6m)</li><li><strong>AUD/USD:</strong> 0.6900 (AUD1.19b), 0.6325 (AUD1.12b), 0.6150 (AUD900m)</li><li><strong>GBP/USD:</strong> 1.2925 (GBP300m)</li><li><strong>USD/BRL:</strong> 5.1000 ($434.9m), 5.0700 ($425m), 5.0745 ($348.5m)</",
+      "link": "https://www.financialjuice.com/News/9687665/Wednesday-FX-Options-Expiries.aspx?xy=rss",
+      "published": "2026-07-21T19:21:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canada's Loonie meets another 50% tariff",
+      "summary": "USD/CAD trades just above the 1.4100 handle into the North American afternoon, up around a fifth of one percent and on track for a second consecutive daily advance.",
+      "link": "https://www.fxstreet.com/news/canadas-loonie-meets-another-50-tariff-202607211905",
+      "published": "2026-07-21T19:05:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold price rallies amid Gulf war strikes, strong US Dollar",
+      "summary": "Gold price surges on Tuesday during the North American session, up by more than 1.50% amid continued missile strikes between the US and Iran despite mediators' efforts to end the war. The XAU/USD trades at $4,071",
+      "link": "https://www.fxstreet.com/news/gold-price-rallies-amid-gulf-war-strikes-strong-us-dollar-202607211848",
+      "published": "2026-07-21T18:48:16+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: LIVE: US Sec. of Defense Hegseth testifies before Senate on Trump's supplemental funding request",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9687591/LIVE-US-Sec-of-Defense-Hegseth-testifies-before-Senate-on-Trumps-supplemental-funding-request.aspx?xy=rss",
+      "published": "2026-07-21T18:28:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index hits one-week high as US-Iran tensions intensify",
+      "summary": "The US Dollar Index (DXY) extends its gains on Tuesday as renewed tensions between the United States and Iran show no signs of easing, boosting demand for the safe-haven Greenback.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-hits-one-week-high-as-us-iran-tensions-intensify-202607211825",
+      "published": "2026-07-21T18:25:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah: Tentative stabilisation with key levels against US Dollar – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong see USD/IDR easing modestly from recent highs, helped by S&amp;P’s rating affirmation and Bank Indonesia’s prior tightening. However, elevated Oil prices, lingering fiscal concerns and still-soft portfolio inflows limit further IDR gains.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-tentative-stabilisation-with-key-levels-against-us-dollar-ocbc-202607211817",
+      "published": "2026-07-21T18:17:00+00:00",
+      "score": 1
+    },
     {
       "source": "Kobeissi Letter",
       "category": "twitter",
@@ -9,6 +90,15 @@
       "summary": "<p>The AI boom is transforming one of the biggest deflationary forces into a key source of US inflation:<br />\n<br />\nImport prices for computer and electronic products surged +7.4% in the first 6 months of 2026, to 77.1 points, the highest since January 2016.<br />\n<br />\nThis also marks a +8.0% YoY jump, the largest annual increase on record.<br />\n<br />\nThis represents a historic reversal from",
       "link": "https://nitter.net/KobeissiLetter/status/2079622661374640270#m",
       "published": "2026-07-21T17:40:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Range-bound trading holds near-term against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang expects USD/SGD to stay confined to tight ranges in the near term, with intraday price action lacking clear momentum.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-bound-trading-holds-near-term-against-us-dollar-uob-202607211738",
+      "published": "2026-07-21T17:38:00+00:00",
       "score": 1
     },
     {
@@ -48,15 +138,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump announces trade deal with Jordan.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687426/White-House-Trump-announces-trade-deal-with-Jordan-.aspx?xy=rss",
-      "published": "2026-07-21T15:57:56+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Dow Jones Industrial Average rebounds on earnings as Trump trades one war for another",
@@ -81,15 +162,6 @@
       "summary": "USD/JPY trades higher near 163.00 on Tuesday after briefly reaching 163.04, marking its first move above the 163.00 level since December 1986. The US Dollar (USD) remains supported by safe-haven demand as investors assess renewed Middle East tensions and rising Oil prices.",
       "link": "https://www.fxstreet.com/news/usd-jpy-climbs-above-16300-for-the-first-time-since-1986-202607211550",
       "published": "2026-07-21T15:50:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump's Open Press part of the Lebanon White House meeting ends.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687411/Trumps-Open-Press-part-of-the-Lebanon-White-House-meeting-ends.aspx?xy=rss",
-      "published": "2026-07-21T15:45:43+00:00",
       "score": 1
     },
     {
@@ -120,15 +192,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Will be hitting the Pickaxe Mountain area pretty soon, very heavily.",
-      "summary": "<ul><li>Israel Believes Iran Moved Nuclear Centrifuges Into Pickaxe Mountain.<br /></li></ul>",
-      "link": "https://www.financialjuice.com/News/9687407/Trump-Will-be-hitting-the-Pickaxe-Mountain-area-pretty-soon-very-heavily.aspx?xy=rss",
-      "published": "2026-07-21T15:40:18+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "*TRUMP: IRAN HASN'T SEEN ANYTHING YET, WE'VE BEEN NICE",
@@ -144,15 +207,6 @@
       "summary": "<p>TRUMP: IRAN HASN'T SEEN ANYTHING YET</p>",
       "link": "https://nitter.net/DeItaone/status/2079592145485287440#m",
       "published": "2026-07-21T15:39:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran hasn't seen anything yet. We've been nice.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687406/Trump-Iran-hasnt-seen-anything-yet-Weve-been-nice.aspx?xy=rss",
-      "published": "2026-07-21T15:39:17+00:00",
       "score": 1
     },
     {
@@ -174,15 +228,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran is probably trying to impact the elections with Hormuz.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687405/Trump-Iran-is-probably-trying-to-impact-the-elections-with-Hormuz.aspx?xy=rss",
-      "published": "2026-07-21T15:36:46+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "Trump: Rebuilding Iran will take from 20 to 25 years",
@@ -198,33 +243,6 @@
       "summary": "<p>TRUMP: CANADA TARIFFS NOT IN RESPONSE TO WILDFIRES</p>",
       "link": "https://nitter.net/DeItaone/status/2079591071265218807#m",
       "published": "2026-07-21T15:35:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump, asked on Canada tariffs: It is not related to the wildfires; it's because they have been tough on our farmers and us.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687404/Trump-asked-on-Canada-tariffs-It-is-not-related-to-the-wildfires-its-because-they-have-been-tough-on-our-farmers-and-us.aspx?xy=rss",
-      "published": "2026-07-21T15:35:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We'll hit any site that Iran is thinking about for nuclear operations.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687403/Trump-Well-hit-any-site-that-Iran-is-thinking-about-for-nuclear-operations.aspx?xy=rss",
-      "published": "2026-07-21T15:34:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We're not finished at all with Iran. We're not leaving right now; we have had a big impact on Iran.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687401/Trump-Were-not-finished-at-all-with-Iran-Were-not-leaving-right-now-we-have-had-a-big-impact-on-Iran.aspx?xy=rss",
-      "published": "2026-07-21T15:32:08+00:00",
       "score": 1
     },
     {
@@ -264,30 +282,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: I would speak to Hezbollah.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687393/Trump-I-would-speak-to-Hezbollah.aspx?xy=rss",
-      "published": "2026-07-21T15:30:56+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "Trump: Was most successful world cup ever",
       "summary": "<p>Trump: Was most successful world cup ever</p>",
       "link": "https://nitter.net/DeItaone/status/2079589544559628322#m",
       "published": "2026-07-21T15:29:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Nobody gets through the blockade.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687388/Trump-Nobody-gets-through-the-blockade.aspx?xy=rss",
-      "published": "2026-07-21T15:26:02+00:00",
       "score": 1
     },
     {
@@ -300,30 +300,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump, asked on China Election Claims: We do things to them too.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687387/Trump-asked-on-China-Election-Claims-We-do-things-to-them-too.aspx?xy=rss",
-      "published": "2026-07-21T15:24:11+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "TRUMP: IRAN WANTS TO DESPERATELY MEET",
       "summary": "<p>TRUMP: IRAN WANTS TO DESPERATELY MEET</p>",
       "link": "https://nitter.net/DeItaone/status/2079588137810968759#m",
       "published": "2026-07-21T15:23:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: I have no interest in meeting Iran until they are ready.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687386/Trump-I-have-no-interest-in-meeting-Iran-until-they-are-ready.aspx?xy=rss",
-      "published": "2026-07-21T15:23:21+00:00",
       "score": 1
     },
     {
@@ -336,66 +318,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran wants to meet; we have no interest.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687385/Trump-Iran-wants-to-meet-we-have-no-interest.aspx?xy=rss",
-      "published": "2026-07-21T15:22:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran desperately wants to meet.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687384/Trump-Iran-desperately-wants-to-meet.aspx?xy=rss",
-      "published": "2026-07-21T15:22:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Israel: We will be looking at issues in pilot zones.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687383/Trump-on-Israel-We-will-be-looking-at-issues-in-pilot-zones.aspx?xy=rss",
-      "published": "2026-07-21T15:22:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Israel is in the process of withdrawing from Lebanon, and is in the process of redeploying other sections.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687381/Trump-Israel-is-in-the-process-of-withdrawing-from-Lebanon-and-is-in-the-process-of-redeploying-other-sections.aspx?xy=rss",
-      "published": "2026-07-21T15:21:23+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Euro slips as war boosts US Dollar despite upbeat ZEW surveys",
       "summary": "EUR/USD edges lower on Tuesday as the US Dollar (USD) strengthens amid continued strikes between the US and Iran. At the time of writing, the pair trades around 1.1405, hovering near one-week lows.",
       "link": "https://www.fxstreet.com/news/euro-slips-as-middle-east-tensions-boost-the-us-dollar-despite-upbeat-zew-surveys-202607211520",
       "published": "2026-07-21T15:20:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON HOUTHI BLOCKADE: IF SOMETHING HAPPENS WE'LL JUST HAVE TO TAKE CARE OF BUSINESS",
-      "summary": "<p>TRUMP ON HOUTHI BLOCKADE: IF SOMETHING HAPPENS WE'LL JUST HAVE TO TAKE CARE OF BUSINESS</p>",
-      "link": "https://nitter.net/DeItaone/status/2079586927028695154#m",
-      "published": "2026-07-21T15:18:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON HOUTHI BLOCKADE: WE'LL SEE WHAT HAPPENS",
-      "summary": "<p>TRUMP ON HOUTHI BLOCKADE: WE'LL SEE WHAT HAPPENS</p>",
-      "link": "https://nitter.net/DeItaone/status/2079586763169792011#m",
-      "published": "2026-07-21T15:18:15+00:00",
       "score": 1
     },
     {
@@ -417,48 +345,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Range-bound against US Dollar ahead of ECB – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight the Euro (EUR) trading quietly against the US Dollar (USD) in a tight low-1.14 range, with limited reaction to stronger ZEW sentiment data. Short-term rates have stabilized after a hawkish repricing, supporting EUR via yield spreads.",
-      "link": "https://www.fxstreet.com/news/euro-range-bound-against-us-dollar-ahead-of-ecb-scotiabank-202607211440",
-      "published": "2026-07-21T14:40:40+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Mean reversion faces tariff headwinds – Societe Generale",
-      "summary": "Societe Generale strategists note that softer June inflation in Canada has stalled the Canadian Dollar’s (CAD) rebound from 1.4250 toward 1.40 against the US Dollar (USD). Failure to reclaim the 50-day moving average around 1.3991 and new US tariffs on Canadian goods complicate the mean-reversion.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-mean-reversion-faces-tariff-headwinds-societe-generale-202607211409",
-      "published": "2026-07-21T14:09:24+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar retreats as new US tariff threat, softer inflation weigh",
-      "summary": "USD/CAD trades on the front foot as tensions in the Middle East keep the US Dollar (USD) firmly bid, while the Canadian Dollar also faces pressure from renewed trade frictions with the United States.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-retreats-as-new-us-tariffs-softer-than-expected-inflation-weigh-202607211353",
-      "published": "2026-07-21T13:53:32+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: US oil prices surge to $85/barrel after Iran says it has struck an Amazon datacenter in Bahrain and water desalination plants in Kuwait in response to US strikes.",
       "summary": "<p>BREAKING: US oil prices surge to $85/barrel after Iran says it has struck an Amazon datacenter in Bahrain and water desalination plants in Kuwait in response to US strikes.</p>\n<img src=\"https://nitter.net/pic/media%2FHNwY_dRWMAAuLvM.png\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2079564611838226519#m",
       "published": "2026-07-21T13:50:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Japan’s fiscal pivot and GPIF flows reshape rates – BNY",
-      "summary": "BNY’s Geoff Yu highlights Japan’s new fiscal guidelines under Prime Minister Takaichi, which prioritize proactive spending and long-term investment over near-term consolidation.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-japans-fiscal-pivot-and-gpif-flows-reshape-rates-bny-202607211342",
-      "published": "2026-07-21T13:42:10+00:00",
       "score": 1
     },
     {
@@ -567,15 +459,6 @@
       "summary": "<p>US stocks have almost never moved this independently of each other:<br />\n<br />\nThe S&amp;P 500's 6-month implied correlation is down to 0.15, an all-time low.<br />\n<br />\nImplied correlation measures how closely stocks are expected to move together, with a reading this low meaning individual stocks are becoming increasingly disconnected from the broader index.<br />\n<br />\nThis metric has no",
       "link": "https://nitter.net/KobeissiLetter/status/2079236583891271984#m",
       "published": "2026-07-20T16:06:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Alphabet, $GOOGL, is planning on launching a new “frozen” chip to run its AI models more efficiently, per The Information. Details include: 1. This new server chip would directly integrate the blueprint of its Gemini AI model 2. The chip would then enable Alphabet to provide its AI models to users much more efficiently 3. The chip's developers estimate that it would be 6 to 10 times more efficient than the most recent version of Google's existing line of AI chips Another tech giant has entered the chip race.",
-      "summary": "<p>BREAKING: Alphabet, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GOOGL\">$GOOGL</a>, is planning on launching a new “frozen” chip to run its AI models more efficiently, per The Information.<br />\n<br />\nDetails include:<br />\n<br />\n1. This new server chip would directly integrate the blueprint of its Gemini AI model<br />\n<br />\n2. The chip would then enable Alphabet to provide its AI m",
-      "link": "https://nitter.net/KobeissiLetter/status/2079198142218588589#m",
-      "published": "2026-07-20T13:34:01+00:00",
       "score": 1
     },
     {
