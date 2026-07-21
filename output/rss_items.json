@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-07-21T19:52:13.000087+00:00",
-  "count": 72,
+  "updated_at": "2026-07-21T21:12:53.927871+00:00",
+  "count": 71,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar rises as Middle East tensions lift Oil",
+      "summary": "The US Dollar (USD) advances on Tuesday as escalating tensions between the United States (US) and Iran push energy prices higher and revive concerns that inflation could remain elevated. The Greenback also benefits from safe-haven demand despite softer US inflation and employment indicators.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-rises-as-middle-east-tensions-lift-oil-202607212049",
+      "published": "2026-07-21T20:49:54+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "Bearish bets on US stocks are surging: Short interest in the S&P 500 is up to ~3.7% of its free float, near the highest in data going back to 2010. Short interest in the Russell 3000 is up to ~6.1%, also near an all-time high. Both metrics have steadily increased since the start of 2025. Furthermore, short interest across all NYSE-listed stocks rose to a record 9.0% of shares outstanding in late June. By comparison, this metric peaked at ~5.0% during the 2008 Financial Crisis and ~6.0% during the 2020 pandemic. Conditions for a short-squeeze are rising.",
+      "summary": "<p>Bearish bets on US stocks are surging:<br />\n<br />\nShort interest in the S&amp;P 500 is up to ~3.7% of its free float, near the highest in data going back to 2010.<br />\n<br />\nShort interest in the Russell 3000 is up to ~6.1%, also near an all-time high.<br />\n<br />\nBoth metrics have steadily increased since the start of 2025.<br />\n<br />\nFurthermore, short interest across all NYSE-listed s",
+      "link": "https://nitter.net/KobeissiLetter/status/2079669740805460041#m",
+      "published": "2026-07-21T20:47:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Oklo, X-Energy join Trump's bid to speed nuclear reactors for AI.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9687721/Oklo-X-Energy-join-Trumps-bid-to-speed-nuclear-reactors-for-AI.aspx?xy=rss",
+      "published": "2026-07-21T20:27:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve seen holding rates next week amid Oil shock ‒ Reuters",
+      "summary": "A Reuters poll revealed that the Federal Reserve is most likely to keep interest rates unchanged for the rest of the year as it battles stubbornly high inflation that has remained above the Fed’s 2% goal for at least 5 years.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-seen-holding-rates-next-week-amid-oil-shock-reuters-202607212027",
+      "published": "2026-07-21T20:27:44+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen tumbles to 40-year low as US Dollar safe-haven rush deepens",
+      "summary": "The USD/JPY extends its rally on Tuesday, hitting 40-year highs above 163.00 as the Greenback continues to gain ground versus the Japanese Yen. At the time of writing, the USD/JPY trades at 163.19, slightly shy of the multi-decade high of 163.24.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-tumbles-to-40-year-low-as-dollar-haven-rush-deepens-202607212012",
+      "published": "2026-07-21T20:12:32+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -9,6 +54,15 @@
       "summary": "S&amp;P 500: -623 mln<br />Nasdaq 100: -1290 mln<br />Dow 30: -78 mln<br />Mag 7: -360 mln",
       "link": "https://www.financialjuice.com/News/9687692/MOC-Imbalance.aspx?xy=rss",
       "published": "2026-07-21T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Support cluster near 1,464/1,461 – Societe Generale",
+      "summary": "Societe Generale’s technical team notes USD/KRW failed twice to break above the June high around 1,561, triggering a deeper decline towards the 200-day moving average. The pair is now testing this key MA, with next support at a multi-month ascending trend line near 1,464/1,461.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-support-cluster-near-1-464-1-461-societe-generale-202607211939",
+      "published": "2026-07-21T19:39:00+00:00",
       "score": 1
     },
     {
@@ -41,6 +95,15 @@
     {
       "source": "FXStreet",
       "category": "news",
+      "title": "Silver Price Forecast: XAG to break resistance trendline, eyes on $60",
+      "summary": "Silver price (XAG/USD) surges over 4.50% on Tuesday, reaching five-day highs, clearing $59.00 as buyers push the white metal to test a downslope resistance trendline near the $59.65/$50.75 range, about to surpass the $60.00 mark.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-to-break-resistance-trendline-eyes-on-60-202607211918",
+      "published": "2026-07-21T19:18:39+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
       "title": "Canada's Loonie meets another 50% tariff",
       "summary": "USD/CAD trades just above the 1.4100 handle into the North American afternoon, up around a fifth of one percent and on track for a second consecutive daily advance.",
       "link": "https://www.fxstreet.com/news/canadas-loonie-meets-another-50-tariff-202607211905",
@@ -55,15 +118,6 @@
       "link": "https://www.fxstreet.com/news/gold-price-rallies-amid-gulf-war-strikes-strong-us-dollar-202607211848",
       "published": "2026-07-21T18:48:16+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: LIVE: US Sec. of Defense Hegseth testifies before Senate on Trump's supplemental funding request",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687591/LIVE-US-Sec-of-Defense-Hegseth-testifies-before-Senate-on-Trumps-supplemental-funding-request.aspx?xy=rss",
-      "published": "2026-07-21T18:28:48+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -153,15 +207,6 @@
       "summary": "Standard Chartered Bank economist Saurav Anand highlights rising inflation risks for India as deficient monsoon rains and persistent El Niño threaten food output. The report notes sowing is down and reservoir levels are low, with pulses, vegetables, sugar and oilseeds most exposed.",
       "link": "https://www.fxstreet.com/news/india-weather-driven-inflation-risks-standard-chartered-202607211551",
       "published": "2026-07-21T15:51:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY climbs above 163.00 for the first time since 1986",
-      "summary": "USD/JPY trades higher near 163.00 on Tuesday after briefly reaching 163.04, marking its first move above the 163.00 level since December 1986. The US Dollar (USD) remains supported by safe-haven demand as investors assess renewed Middle East tensions and rising Oil prices.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-climbs-above-16300-for-the-first-time-since-1986-202607211550",
-      "published": "2026-07-21T15:50:14+00:00",
       "score": 1
     },
     {
@@ -255,15 +300,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar retreats from a monthly high",
-      "summary": "AUD/USD trades lower near the 0.7010 area on Tuesday, although the pair has retreated from its four-week high. The Australian Dollar (AUD) remains above the psychological 0.7000 level as softer United States (US) economic data limits demand for the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/australian-dollar-retreats-from-a-monthly-high-202607211532",
-      "published": "2026-07-21T15:32:03+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "Trump: I feel safe",
@@ -315,33 +351,6 @@
       "summary": "<p>*TRUMP: IRAN WANTS TO MEET, WE HAVE NO INTEREST</p>",
       "link": "https://nitter.net/DeItaone/status/2079588035717484856#m",
       "published": "2026-07-21T15:23:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro slips as war boosts US Dollar despite upbeat ZEW surveys",
-      "summary": "EUR/USD edges lower on Tuesday as the US Dollar (USD) strengthens amid continued strikes between the US and Iran. At the time of writing, the pair trades around 1.1405, hovering near one-week lows.",
-      "link": "https://www.fxstreet.com/news/euro-slips-as-middle-east-tensions-boost-the-us-dollar-despite-upbeat-zew-surveys-202607211520",
-      "published": "2026-07-21T15:20:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD surges as Middle East hostilities boost safe-haven demand",
-      "summary": "Silver (XAG/USD) rallies to around $58.85 on Tuesday at the time of writing, up 4.31% on the day. The white metal is supported by strong safe-haven demand as investors continue to monitor escalating tensions between the United States (US) and Iran.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-surges-as-middle-east-tensions-boost-safe-haven-demand-202607211459",
-      "published": "2026-07-21T14:59:48+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Tariff shock weighs as Trump raises duties – BNY",
-      "summary": "BNY’s Geoff Yu explains that new 50% U.S. tariffs on selected Canadian goods are a direct trade shock, with Washington citing unfair treatment of US exports and ruling out United States-Mexico-Canada Agreement (USMCA) exemptions.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-tariff-shock-weighs-as-trump-raises-duties-bny-202607211454",
-      "published": "2026-07-21T14:54:35+00:00",
       "score": 1
     },
     {
@@ -441,24 +450,6 @@
       "summary": "<p>The AI boom is creating a generational divide in software jobs:<br />\n<br />\nUS software developer employment for those aged 22-25 has declined -23% since November 2022, when ChatGPT was launched.<br />\n<br />\nAt the same time, the 26-30 age group has seen a decrease of -5%.<br />\n<br />\nBy comparison, employment among software developers aged 41-49 has risen +18% over the same period.<br />\n<b",
       "link": "https://nitter.net/KobeissiLetter/status/2079307547610366340#m",
       "published": "2026-07-20T20:48:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump says every time Iran kills an American soldier, “they will pay for that killing many times over.”",
-      "summary": "<p>BREAKING: President Trump says every time Iran kills an American soldier, “they will pay for that killing many times over.”</p>\n<img src=\"https://nitter.net/pic/media%2FHNr4PouXYAAjxSz.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2079247129692824003#m",
-      "published": "2026-07-20T16:48:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "US stocks have almost never moved this independently of each other: The S&P 500's 6-month implied correlation is down to 0.15, an all-time low. Implied correlation measures how closely stocks are expected to move together, with a reading this low meaning individual stocks are becoming increasingly disconnected from the broader index. This metric has now more than HALVED over the last 4 months, when correlation was at 0.35 during the market selloff. By comparison, the long-term average stands at 0.43, nearly 3 times the current level, while the high over this period was 0.82 during the 2020 pandemic crash. This historic divergence highlights a market increasingly driven by a handful of mega-cap stocks, while the rest of the market trades more on its own fundamentals. Market concentration has rarely been this extreme.",
-      "summary": "<p>US stocks have almost never moved this independently of each other:<br />\n<br />\nThe S&amp;P 500's 6-month implied correlation is down to 0.15, an all-time low.<br />\n<br />\nImplied correlation measures how closely stocks are expected to move together, with a reading this low meaning individual stocks are becoming increasingly disconnected from the broader index.<br />\n<br />\nThis metric has no",
-      "link": "https://nitter.net/KobeissiLetter/status/2079236583891271984#m",
-      "published": "2026-07-20T16:06:46+00:00",
       "score": 1
     },
     {
