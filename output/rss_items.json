@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-07-21T03:45:55.281239+00:00",
-  "count": 58,
+  "updated_at": "2026-07-21T06:30:41.049202+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed Interest Rate Probabilities",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9686620/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+      "published": "2026-07-21T06:19:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9686616/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+      "published": "2026-07-21T06:17:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold looks to build on strength beyond $4,050 as subdued USD demand counters Fed hike bets",
+      "summary": "Gold (XAU/USD) builds on Asian session gains and spikes to a multi-day high above the $4,050 level in the last hour, though the upside seems limited.",
+      "link": "https://www.fxstreet.com/news/gold-rises-cautiously-as-fed-hike-bets-us-iran-tensions-and-bullish-usd-cap-gains-202607210346",
+      "published": "2026-07-21T05:19:05+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CAD Price Forecast: Intraday positive move stalls ahead of 1.4100 confluence hurdle",
+      "summary": "The USD/CAD pair attracts buyers for the second straight day on Tuesday and recovers further from its lowest level since June 17, around the 1.4000 psychological mark touched the previous day.",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-intraday-positive-move-stalls-ahead-of-14100-confluence-hurdle-202607210458",
+      "published": "2026-07-21T04:58:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah gains support amid financial hub plans, geopolitical tensions ease",
+      "summary": "USD/IDR continues its losing streak for the sixth successive day, trading around 17,940 during the Asian hours on Tuesday.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-support-amid-financial-hub-plans-geopolitical-tensions-ease-202607210443",
+      "published": "2026-07-21T04:43:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Tuesday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202607210436",
+      "published": "2026-07-21T04:36:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Bears retain control below 200-SMA on H4; break of 1.1400 awaited",
+      "summary": "The EUR/USD pair is seen consolidating during the Asian session on Tuesday and trading just above the 1.1400 mark, or a four-day low touched the previous day.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bears-retain-control-below-200-sma-on-h4-break-of-11400-awaited-202607210413",
+      "published": "2026-07-21T04:13:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen consolidates against US Dollar amid uncertainty over future of Middle East",
+      "summary": "The Japanese Yen (JPY) trades flat against the US Dollar (USD) at around 162.50 during the Asian trading session on Tuesday, closer to its multi-decade high of 162.84.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-consolidates-against-us-dollar-amid-uncertainty-over-future-of-middle-east-202607210331",
+      "published": "2026-07-21T03:31:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc weakens as safe-haven demand lifts US Dollar",
+      "summary": "USD/CHF extends its gains for the second successive day, trading around 0.8110 during the Asian hours on Tuesday.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-safe-haven-demand-lifts-us-dollar-202607210324",
+      "published": "2026-07-21T03:24:38+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -10,15 +91,6 @@
       "link": "https://www.fxstreet.com/news/rbnz-sectoral-factor-inflation-model-holds-steady-at-27-yoy-in-q2-2026-202607210308",
       "published": "2026-07-21T03:08:43+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBNZ sectoral factor inflation model rises 2.7% year on year in Q2",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9686427/RBNZ-sectoral-factor-inflation-model-rises-27-year-on-year-in-Q2.aspx?xy=rss",
-      "published": "2026-07-21T03:02:07+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -84,120 +156,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar falls to one-week low vs USD on divergent BoC-Fed bets, Trump tariffs",
-      "summary": "The USD/CAD pair is seen buying on the previous day's solid rebound from the 1.4000 psychological mark, or its lowest level since June 17, and gaining positive traction for the second straight day on Tuesday.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-to-one-week-low-vs-usd-on-divergent-boc-fed-bets-trump-tariffs-202607210112",
-      "published": "2026-07-21T01:12:01+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro declines to near 1.1400 as US launches fresh strikes on Iran",
-      "summary": "The EUR/USD pair posts modest losses around 1.1410 during the early Asian trading hours on Tuesday. Renewed tensions between the United States (US) and Iran continue to fuel risk-off sentiment, weighing on the Euro (EUR) against the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/euro-declines-to-near-11400-as-us-launches-fresh-strikes-on-iran-202607210056",
-      "published": "2026-07-21T00:56:41+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "The South Korean and US AI trades are becoming increasingly synchronized: The 60-day correlation between the KOSPI and Nasdaq 100 index is up to +0.46, the highest since July 2024. This marks a sharp reversal from a negative correlation of -0.20 recorded in March. By comparison, the 5-year average is just +0.16 or nearly one-third the 60-day metric. Furthermore, the Nasdaq 100's sensitivity to declines in South Korean stocks is up to its highest level since 1990. At the same time, the MSCI World Index's sensitivity to the South Korean market is up to its highest in 4 years. In other words, declines in South Korean equities are increasingly serving as an early read on US and global equity risk appetite, particularly in technology stocks. The AI trade has never been more global.",
       "summary": "<p>The South Korean and US AI trades are becoming increasingly synchronized:<br />\n<br />\nThe 60-day correlation between the KOSPI and Nasdaq 100 index is up to +0.46, the highest since July 2024.<br />\n<br />\nThis marks a sharp reversal from a negative correlation of -0.20 recorded in March.<br />\n<br />\nBy comparison, the 5-year average is just +0.16 or nearly one-third the 60-day metric.<br />\n",
       "link": "https://nitter.net/KobeissiLetter/status/2079362470267818031#m",
       "published": "2026-07-21T00:27:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft platforms accelerate AI modernization in Asia Pacific",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9686222/Microsoft-platforms-accelerate-AI-modernization-in-Asia-Pacific.aspx?xy=rss",
-      "published": "2026-07-21T00:00:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: CPI and MAS in focus – OCBC",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong expect USD/SGD to remain largely driven by broader US Dollar (USD) direction and risk sentiment, after recent rangebound trading around the low‑1.29s.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-cpi-and-mas-in-focus-ocbc-202607202359",
-      "published": "2026-07-20T23:59:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US President Donald Trump to impose 50% tariff on some Canadian products",
-      "summary": "US President Donald Trump is imposing a new tariff of 50% on most Canadian products in response to what it called Canada's \"discriminatory treatment\" of US cars, alcohol, and dairy, according to the White House.",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-to-impose-50-tariff-on-some-canadian-products-202607202348",
-      "published": "2026-07-20T23:48:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Japanese Yen is stuck in a stalemate nobody can afford to break",
-      "summary": "USD/JPY changes hands near 162.50 on Monday after a session range of barely 40 pips, wedged between a floor just above 162.00 and a lid just beyond the half-handle.",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-is-stuck-in-a-stalemate-nobody-can-afford-to-break-202607202347",
-      "published": "2026-07-20T23:47:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Australian Dollar keeps knocking on a door nobody opens",
-      "summary": "AUD/USD trades up around 0.2% on Monday and still cannot hold the figure that matters, climbing from near 0.6950 in early dealing, poking above the 0.7000 handle twice through the London and New York sessions, and getting sold back below it both times.",
-      "link": "https://www.fxstreet.com/news/the-australian-dollar-keeps-knocking-on-a-door-nobody-opens-202607202344",
-      "published": "2026-07-20T23:44:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound Sterling greets a new Prime Minister with a three-day slide",
-      "summary": "GBP/USD trades down around 0.17% on Monday and is on track for a third consecutive daily decline, fading from short of 1.3500 in the London morning to a New York probe just above the 1.3400 handle before steadying between the two.",
-      "link": "https://www.fxstreet.com/news/british-pound-sterling-greets-a-new-prime-minister-with-a-three-day-slide-202607202344",
-      "published": "2026-07-20T23:44:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US President Donald Trump vows Iran ‘will pay’ for US deaths",
-      "summary": "US forces struck Iranian targets after US President Donald Trump vowed Tehran “will pay” for killing three American soldiers, Bloomberg reported on Monday.",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-vows-iran-will-pay-for-us-deaths-202607202336",
-      "published": "2026-07-20T23:36:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Upside bias against US Dollar below 6.7820 – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann see USD/CNH consolidating intraday between 6.7710 and 6.7820 after quiet recent trading. For the next 1–3 weeks, the pair is expected to trade with a downside bias toward 6.7600, provided 6.7820 strong resistance is not clearly breached.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-upside-bias-against-us-dollar-below-67820-uob-202607202333",
-      "published": "2026-07-20T23:33:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold edges lower to near $4,000 as US-Iran tensions fuel inflation worries",
-      "summary": "Gold price (XAU/USD) declines to near $4,000 during the early Asian session on Tuesday. The precious metal extends its downside as escalating tensions between the United States (US) and Iran pushed oil prices up, intensifying inflation concerns.",
-      "link": "https://www.fxstreet.com/news/gold-edges-lower-to-near-4-000-as-us-iran-tensions-fuel-inflation-worries-202607202315",
-      "published": "2026-07-20T23:15:47+00:00",
-      "score": 5
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP SPEAKS WITH NEW U.K. PRIME MINISTER President Donald Trump said he had a “very good” call with new U.K. Prime Minister Andy Burnham, discussing trade, North Sea oil, the U.S.-U.K. military alliance and efforts to clear the Strait of Hormuz. Trump said the two leaders plan to meet soon and pledged U.S. support for Burnham’s government.",
-      "summary": "<p>TRUMP SPEAKS WITH NEW U.K. PRIME MINISTER<br />\n<br />\nPresident Donald Trump said he had a “very good” call with new U.K. Prime Minister Andy Burnham, discussing trade, North Sea oil, the U.S.-U.K. military alliance and efforts to clear the Strait of Hormuz. Trump said the two leaders plan to meet soon and pledged U.S. support for Burnham’s government.</p>",
-      "link": "https://nitter.net/DeItaone/status/2079332468583252394#m",
-      "published": "2026-07-20T22:27:47+00:00",
       "score": 1
     },
     {
@@ -219,42 +183,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. VOWS PRESSURE ON IRAN A senior U.S. official said President Donald Trump is focused on making Iran “pay” for allegedly violating a prior understanding and carrying out attacks in the Strait of Hormuz. According to Axios, the official said U.S. strikes will continue until Trump decides otherwise.",
-      "summary": "<p>U.S. VOWS PRESSURE ON IRAN<br />\n<br />\nA senior U.S. official said President Donald Trump is focused on making Iran “pay” for allegedly violating a prior understanding and carrying out attacks in the Strait of Hormuz. According to Axios, the official said U.S. strikes will continue until Trump decides otherwise.</p>",
-      "link": "https://nitter.net/DeItaone/status/2079288731354476667#m",
-      "published": "2026-07-20T19:33:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP SAYS NETANYAHU WILL NOT BE ARRESTED IN U.S. President Donald Trump said Israeli Prime Minister Benjamin Netanyahu will not be arrested while visiting the United States. Trump praised Netanyahu’s campaign against Iran and blamed Iran’s leadership for decades of violence, arguing they—not Netanyahu—should be held accountable.",
-      "summary": "<p>TRUMP SAYS NETANYAHU WILL NOT BE ARRESTED IN U.S.<br />\n<br />\nPresident Donald Trump said Israeli Prime Minister Benjamin Netanyahu will not be arrested while visiting the United States. Trump praised Netanyahu’s campaign against Iran and blamed Iran’s leadership for decades of violence, arguing they—not Netanyahu—should be held accountable.</p>",
-      "link": "https://nitter.net/DeItaone/status/2079248460264751362#m",
-      "published": "2026-07-20T16:53:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: NETANYAHU WILL NOT BE ARRESTED WHILE IN UNITED STATES OF AMERICA",
-      "summary": "<p>TRUMP: NETANYAHU WILL NOT BE ARRESTED WHILE IN UNITED STATES OF AMERICA</p>",
-      "link": "https://nitter.net/DeItaone/status/2079247993736220761#m",
-      "published": "2026-07-20T16:52:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: EVERY TIME IRAN KILLS AN AMERICAN SOLDIER THEY WILL PAY FOR THAT KILLING MANY TIMES OVER",
-      "summary": "<p>TRUMP: EVERY TIME IRAN KILLS AN AMERICAN SOLDIER THEY WILL PAY FOR THAT KILLING MANY TIMES OVER</p>",
-      "link": "https://nitter.net/DeItaone/status/2079247847334002858#m",
-      "published": "2026-07-20T16:51:32+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says every time Iran kills an American soldier, “they will pay for that killing many times over.”",
@@ -273,39 +201,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP URGES GOP TO BACK BUDGET PLAN President Donald Trump called on House Republicans to unite behind the budget resolution, describing it as the first step toward advancing the Save America Act. He said the package should include military funding, aid for farmers, voter ID and proof of citizenship requirements, while urging lawmakers to vote in favor this week.",
-      "summary": "<p>TRUMP URGES GOP TO BACK BUDGET PLAN<br />\n<br />\nPresident Donald Trump called on House Republicans to unite behind the budget resolution, describing it as the first step toward advancing the Save America Act. He said the package should include military funding, aid for farmers, voter ID and proof of citizenship requirements, while urging lawmakers to vote in favor this week.</p>",
-      "link": "https://nitter.net/DeItaone/status/2079230135652188671#m",
-      "published": "2026-07-20T15:41:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP AI SECURITY AGENCY HEAD RESIGNS -AXIOS",
-      "summary": "<p>TRUMP AI SECURITY AGENCY HEAD RESIGNS -AXIOS</p>",
-      "link": "https://nitter.net/DeItaone/status/2079225679455944863#m",
-      "published": "2026-07-20T15:23:26+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Alphabet, $GOOGL, is planning on launching a new “frozen” chip to run its AI models more efficiently, per The Information. Details include: 1. This new server chip would directly integrate the blueprint of its Gemini AI model 2. The chip would then enable Alphabet to provide its AI models to users much more efficiently 3. The chip's developers estimate that it would be 6 to 10 times more efficient than the most recent version of Google's existing line of AI chips Another tech giant has entered the chip race.",
       "summary": "<p>BREAKING: Alphabet, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GOOGL\">$GOOGL</a>, is planning on launching a new “frozen” chip to run its AI models more efficiently, per The Information.<br />\n<br />\nDetails include:<br />\n<br />\n1. This new server chip would directly integrate the blueprint of its Gemini AI model<br />\n<br />\n2. The chip would then enable Alphabet to provide its AI m",
       "link": "https://nitter.net/KobeissiLetter/status/2079198142218588589#m",
       "published": "2026-07-20T13:34:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*GOOGLE PLANS NEW CHIP: INFORMATION",
-      "summary": "<p>*GOOGLE PLANS NEW CHIP: INFORMATION</p>",
-      "link": "https://nitter.net/DeItaone/status/2079190528520790377#m",
-      "published": "2026-07-20T13:03:46+00:00",
       "score": 1
     },
     {
