@@ -1,141 +1,177 @@
 {
-  "updated_at": "2026-07-21T06:30:41.049202+00:00",
-  "count": 47,
+  "updated_at": "2026-07-21T09:16:31.956128+00:00",
+  "count": 57,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
+      "title": "FinancialJuice: UK 3 Yr Gilt Yield Actual 4.463% (Forecast -, Previous 4.062%)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9686620/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-07-21T06:19:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9686616/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-07-21T06:17:30+00:00",
+      "link": "https://www.financialjuice.com/News/9686839/UK-3-Yr-Gilt-Yield-Actual-4463-Forecast---Previous-4062.aspx",
+      "published": "2026-07-21T09:03:47+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold looks to build on strength beyond $4,050 as subdued USD demand counters Fed hike bets",
-      "summary": "Gold (XAU/USD) builds on Asian session gains and spikes to a multi-day high above the $4,050 level in the last hour, though the upside seems limited.",
+      "title": "Silver Price Forecasts: XAG/USD reaches $59.00 amid hopes of new US-Iran negotiations",
+      "summary": "Silver (XAG/USD) is rallying, favoured by a mild US Dollar weakness on Tuesday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-reaches-5900-amid-hopes-of-new-us-iran-negotiations-202607210849",
+      "published": "2026-07-21T08:49:57+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "IRAN CLAIMS STRIKES ON AMAZON DATA CENTER, U.S. BASE Iran’s Revolutionary Guard claimed it struck Amazon data center infrastructure in Bahrain in retaliation for a U.S. attack on the Darkhovin nuclear project. The IRGC also said it targeted a U.S. military base in Jordan, claiming to have destroyed a missile defense radar system and an F-15 fighter jet. These claims have not been independently verified.",
+      "summary": "<p>IRAN CLAIMS STRIKES ON AMAZON DATA CENTER, U.S. BASE<br />\n<br />\nIran’s Revolutionary Guard claimed it struck Amazon data center infrastructure in Bahrain in retaliation for a U.S. attack on the Darkhovin nuclear project. The IRGC also said it targeted a U.S. military base in Jordan, claiming to have destroyed a missile defense radar system and an F-15 fighter jet. These claims have not been i",
+      "link": "https://nitter.net/DeItaone/status/2079488413661532407#m",
+      "published": "2026-07-21T08:47:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index Price Forecast: Remains sticky to 20-day EMA",
+      "summary": "The US Dollar (USD) trades marginally lower against its major currency peers in Tuesday’s European session, as the appeal of safe-haven assets has diminished due to hopes of a ceasefire between the United States (US) and Iran.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-remains-sticky-to-20-day-ema-202607210845",
+      "published": "2026-07-21T08:45:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ING: The GBP - FJElite",
+      "summary": "<div>UK Prime Minister Andy Burnham's first day in office brought some market turbulence. 10-year gilts materially underperformed other European bonds after he said he intends to use flexibility within the fiscal rules, triggering a negative, albeit limited, reaction in sterling.</div><div><br /></div><div>Attention this morning will be on the bond market response to yesterday's post-market surpri",
+      "link": "https://www.financialjuice.com/News/9686783/ING-The-GBP---FJElite.aspx",
+      "published": "2026-07-21T08:44:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Credit Ágricole: Weekly FX Positions - FJElite",
+      "summary": "<div><ul><li>Last week, we made a profit of 0.66% being long AUD/USD. At present, the G10 FX PIX 3.0 signals that positioning is close to the medium-term average for all currencies in the G10 space. Subsequently, we have not entered any new trades this week. The model remains up 0.40% with a hit ratio of 52% over the past twelve months.</li><li>The EUR faced some selling interest last week, predom",
+      "link": "https://www.financialjuice.com/News/9686782/Credit-%c3%81gricole-Weekly-FX-Positions---FJElite.aspx",
+      "published": "2026-07-21T08:34:50+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones futures rise as diplomatic signals ease Middle East tensions",
+      "summary": "Dow Jones futures gain 0.29% to trade around 52,220 during European trading hours on Tuesday. Meanwhile, S&amp;P 500 futures and Nasdaq 100 futures advance 0.44% and 1.12%, trading near 7,520 and 29,100, respectively.",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-as-diplomatic-signals-ease-middle-east-tensions-202607210821",
+      "published": "2026-07-21T08:21:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold stands firm near one-week high on softer USD; remains below $4,100 amid Fed hike bets",
+      "summary": "Gold (XAU/USD) hits a one-week high during the first half of the European session on Tuesday, albeit it lacks follow-through buying and remains below the $4,100 mark.",
       "link": "https://www.fxstreet.com/news/gold-rises-cautiously-as-fed-hike-bets-us-iran-tensions-and-bullish-usd-cap-gains-202607210346",
-      "published": "2026-07-21T05:19:05+00:00",
+      "published": "2026-07-21T08:20:40+00:00",
       "score": 4
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "USD/CAD Price Forecast: Intraday positive move stalls ahead of 1.4100 confluence hurdle",
-      "summary": "The USD/CAD pair attracts buyers for the second straight day on Tuesday and recovers further from its lowest level since June 17, around the 1.4000 psychological mark touched the previous day.",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-intraday-positive-move-stalls-ahead-of-14100-confluence-hurdle-202607210458",
-      "published": "2026-07-21T04:58:27+00:00",
+      "title": "Indian Rupee: Intervention and inflows counter Brent shock – Societe Generale",
+      "summary": "Societe Generale’s Asian FX strategists, including Santosh Ejanthkar and Tanmay Purohit, report that the Indian Rupee (INR) is threatening to retest its record low near 96.9550/USD after Brent crude rose above $90.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-intervention-and-inflows-counter-brent-shock-societe-generale-202607210818",
+      "published": "2026-07-21T08:18:23+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indonesian Rupiah gains support amid financial hub plans, geopolitical tensions ease",
-      "summary": "USD/IDR continues its losing streak for the sixth successive day, trading around 17,940 during the Asian hours on Tuesday.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-support-amid-financial-hub-plans-geopolitical-tensions-ease-202607210443",
-      "published": "2026-07-21T04:43:51+00:00",
+      "title": "Canadian Dollar recovers from one-week low vs soft USD; lacks bullish conviction",
+      "summary": "The USD/CAD pair retreats around 25-30 pips from a one-week high set earlier this Tuesday, and hits a fresh daily low during the first half of the European session.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-recovers-from-one-week-low-vs-soft-usd-lacks-bullish-conviction-202607210812",
+      "published": "2026-07-21T08:12:50+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "summary": "Gold prices rose in India on Tuesday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202607210436",
-      "published": "2026-07-21T04:36:31+00:00",
+      "title": "Japanese Yen weakens against US Dollar despite easing risk aversion",
+      "summary": "USD/JPY gains ground for the fourth successive day, trading around 162.60 during the European hours on Tuesday. Japanese banks will be closed due to Marine Day bank holiday.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-against-us-dollar-despite-easing-risk-aversion-202607210757",
+      "published": "2026-07-21T07:57:51+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "EUR/USD Price Forecast: Bears retain control below 200-SMA on H4; break of 1.1400 awaited",
-      "summary": "The EUR/USD pair is seen consolidating during the Asian session on Tuesday and trading just above the 1.1400 mark, or a four-day low touched the previous day.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bears-retain-control-below-200-sma-on-h4-break-of-11400-awaited-202607210413",
-      "published": "2026-07-21T04:13:02+00:00",
+      "title": "Swiss Franc ticks up, but US Dollar dips remain contained amid risk-off markets",
+      "summary": "The Swiss Franc (CHF) has trimmed some losses against the US Dollar (USD) on Tuesday, as USD/CHF bulls failed to find acceptance above the  0.8100 area.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-ticks-up-but-us-dollar-dips-remain-contained-amid-risk-off-markets-202607210757",
+      "published": "2026-07-21T07:57:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "How do you guys connect with other traders in real life ?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I am a gold trader and im getting like really good this was my first year being profitable , however I am the only person I know that trades. I take this very seriously and wonder how I can discuss things with people outside of reddit lol.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/No-Roof-6251\"> /u/No-Roof-6251 </a> <br",
+      "link": "https://www.reddit.com/r/Forex/comments/1v2bnex/how_do_you_guys_connect_with_other_traders_in/",
+      "published": "2026-07-21T07:43:43+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Japanese Yen consolidates against US Dollar amid uncertainty over future of Middle East",
-      "summary": "The Japanese Yen (JPY) trades flat against the US Dollar (USD) at around 162.50 during the Asian trading session on Tuesday, closer to its multi-decade high of 162.84.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-consolidates-against-us-dollar-amid-uncertainty-over-future-of-middle-east-202607210331",
-      "published": "2026-07-21T03:31:51+00:00",
+      "title": "Japanese Yen: Pressured within 161.30–163.00 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang sees USD/JPY holding a firmer tone, with intraday action likely confined to a higher 162.30–162.70 range. Over the next few weeks, a broader consolidation between 161.30 and 163.00 is expected.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-pressured-within-16130-16300-against-us-dollar-uob-202607210741",
+      "published": "2026-07-21T07:41:46+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Swiss Franc weakens as safe-haven demand lifts US Dollar",
-      "summary": "USD/CHF extends its gains for the second successive day, trading around 0.8110 during the Asian hours on Tuesday.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-safe-haven-demand-lifts-us-dollar-202607210324",
-      "published": "2026-07-21T03:24:38+00:00",
+      "title": "Indian Rupee rebounds as oil prices correct on Mideast peace hopes",
+      "summary": "The Indian Rupee (INR) opens higher against the US Dollar on Tuesday. The USD/INR pair corrects to near 96.34 from its two-month high of 96.76 posted on Monday, as fresh hopes of de-escalation in military aggression between the United States (US) and Iran have offered support to the Indian currency.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-on-middle-east-peace-hopes-202607210536",
+      "published": "2026-07-21T07:25:47+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "RBNZ Sectoral Factor Inflation Model holds steady at 2.7% YoY in Q2 2026",
-      "summary": "The Reserve Bank of New Zealand (RBNZ) published its Sectoral Factor Model Inflation gauge for the second quarter of 2026, following the release of the official Consumer Price Index (CPI) by NZ Stats on Tuesday.",
-      "link": "https://www.fxstreet.com/news/rbnz-sectoral-factor-inflation-model-holds-steady-at-27-yoy-in-q2-2026-202607210308",
-      "published": "2026-07-21T03:08:43+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index holds ground near 101.00 amid rising safe-haven demand",
-      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is remaining in the positive territory and trading around 101.00 during the Asian session on Tuesday.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-ground-near-10100-amid-rising-safe-haven-demand-202607210240",
-      "published": "2026-07-21T02:40:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar strengthens above 0.7000 despite rising US-Iran tensions",
-      "summary": "The AUD/USD pair drifts higher to near 0.7010 during the Asian trading hours on Tuesday. However, the potential upside for the pair might be limited amid the escalation of the US-Iran conflict. The Australian employment report will take center stage later on Thursday.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-above-07000-despite-rising-us-iran-tensions-202607210234",
-      "published": "2026-07-21T02:34:35+00:00",
+      "title": "AUD/USD Price Forecast: Further upside likely towards 0.7100",
+      "summary": "The Australian Dollar (AUD) outperforms its major currency peers, trading 0.28% higher to near 0.7018 against the US Dollar (USD) during the European trading session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-further-upside-likely-towards-07100-202607210716",
+      "published": "2026-07-21T07:16:00+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound struggles as traders evaluate BoE policy, UK political developments",
-      "summary": "GBP/USD steadies after three days of losses, trading around 1.3430 during the Asian hours on Tuesday.",
-      "link": "https://www.fxstreet.com/news/british-pound-struggles-as-traders-evaluate-boe-policy-uk-political-developments-202607210147",
-      "published": "2026-07-21T01:47:39+00:00",
+      "title": "Euro flatlines above 1.1400 with geopolitical tensions, Oil prices capping rallies",
+      "summary": "The Euro (EUR) trades practically flat, a few pips above 1.1400 against the US Dollar (USD) on Tuesday, halfway through the last four weeks horizontal range. A mild reversal on the US Dollar Index has provided some support.",
+      "link": "https://www.fxstreet.com/news/euro-flatlines-above-11400-with-geopolitical-tensions-oil-prices-capping-rallies-202607210710",
+      "published": "2026-07-21T07:10:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Currency Strength Chart: Strongest: NZD, AUD, GBP, EUR, CAD, CHF, USD, JPY - Weakest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9686664/Currency-Strength-Chart-Strongest-NZD-AUD-GBP-EUR-CAD-CHF-USD-JPY---Weakest.aspx",
+      "published": "2026-07-21T07:01:30+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Silver Price Forecast: XAG/USD bulls flirt with descending trend-line hurdle, above $57.00",
-      "summary": "Silver (XAG/USD) attracts buyers for the third straight day and climbs back above the $57.00 mark during the Asian session on Tuesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bulls-flirt-with-descending-trend-line-hurdle-above-5700-202607210144",
-      "published": "2026-07-21T01:44:09+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar rises above 0.5850 as hotter CPI data bolsters case for more RBNZ rate hikes",
-      "summary": "The NZD/USD pair attracts some buyers to around 0.5865 during the early Asian trading hours on Tuesday. The New Zealand Dollar (NZD) edges higher against the US Dollar (USD) following hotter New Zealand inflation data.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rises-above-05850-as-hotter-cpi-data-bolsters-case-for-more-rbnz-rate-hikes-202607210143",
-      "published": "2026-07-21T01:43:32+00:00",
-      "score": 3
+      "title": "Equities: Geopolitics weigh on stocks – Deutsche Bank",
+      "summary": "Deutsche Bank strategists report the S&amp;P 500 slipping for a third straight session as geopolitical uncertainty and higher US real yields pressure risk assets.",
+      "link": "https://www.fxstreet.com/news/equities-geopolitics-weigh-on-stocks-deutsche-bank-202607210658",
+      "published": "2026-07-21T06:58:11+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -147,21 +183,21 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7917 vs. 6.7948 previous",
-      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7917 compared to the previous day's fix of 6.7948 and 6.7706 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67917-vs-67948-previous-202607210115",
-      "published": "2026-07-21T01:15:47+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "The South Korean and US AI trades are becoming increasingly synchronized: The 60-day correlation between the KOSPI and Nasdaq 100 index is up to +0.46, the highest since July 2024. This marks a sharp reversal from a negative correlation of -0.20 recorded in March. By comparison, the 5-year average is just +0.16 or nearly one-third the 60-day metric. Furthermore, the Nasdaq 100's sensitivity to declines in South Korean stocks is up to its highest level since 1990. At the same time, the MSCI World Index's sensitivity to the South Korean market is up to its highest in 4 years. In other words, declines in South Korean equities are increasingly serving as an early read on US and global equity risk appetite, particularly in technology stocks. The AI trade has never been more global.",
       "summary": "<p>The South Korean and US AI trades are becoming increasingly synchronized:<br />\n<br />\nThe 60-day correlation between the KOSPI and Nasdaq 100 index is up to +0.46, the highest since July 2024.<br />\n<br />\nThis marks a sharp reversal from a negative correlation of -0.20 recorded in March.<br />\n<br />\nBy comparison, the 5-year average is just +0.16 or nearly one-third the 60-day metric.<br />\n",
       "link": "https://nitter.net/KobeissiLetter/status/2079362470267818031#m",
       "published": "2026-07-21T00:27:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SPEAKS WITH NEW U.K. PRIME MINISTER President Donald Trump said he had a “very good” call with new U.K. Prime Minister Andy Burnham, discussing trade, North Sea oil, the U.S.-U.K. military alliance and efforts to clear the Strait of Hormuz. Trump said the two leaders plan to meet soon and pledged U.S. support for Burnham’s government.",
+      "summary": "<p>TRUMP SPEAKS WITH NEW U.K. PRIME MINISTER<br />\n<br />\nPresident Donald Trump said he had a “very good” call with new U.K. Prime Minister Andy Burnham, discussing trade, North Sea oil, the U.S.-U.K. military alliance and efforts to clear the Strait of Hormuz. Trump said the two leaders plan to meet soon and pledged U.S. support for Burnham’s government.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079332468583252394#m",
+      "published": "2026-07-20T22:27:47+00:00",
       "score": 1
     },
     {
@@ -183,6 +219,42 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. VOWS PRESSURE ON IRAN A senior U.S. official said President Donald Trump is focused on making Iran “pay” for allegedly violating a prior understanding and carrying out attacks in the Strait of Hormuz. According to Axios, the official said U.S. strikes will continue until Trump decides otherwise.",
+      "summary": "<p>U.S. VOWS PRESSURE ON IRAN<br />\n<br />\nA senior U.S. official said President Donald Trump is focused on making Iran “pay” for allegedly violating a prior understanding and carrying out attacks in the Strait of Hormuz. According to Axios, the official said U.S. strikes will continue until Trump decides otherwise.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079288731354476667#m",
+      "published": "2026-07-20T19:33:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SAYS NETANYAHU WILL NOT BE ARRESTED IN U.S. President Donald Trump said Israeli Prime Minister Benjamin Netanyahu will not be arrested while visiting the United States. Trump praised Netanyahu’s campaign against Iran and blamed Iran’s leadership for decades of violence, arguing they—not Netanyahu—should be held accountable.",
+      "summary": "<p>TRUMP SAYS NETANYAHU WILL NOT BE ARRESTED IN U.S.<br />\n<br />\nPresident Donald Trump said Israeli Prime Minister Benjamin Netanyahu will not be arrested while visiting the United States. Trump praised Netanyahu’s campaign against Iran and blamed Iran’s leadership for decades of violence, arguing they—not Netanyahu—should be held accountable.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079248460264751362#m",
+      "published": "2026-07-20T16:53:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: NETANYAHU WILL NOT BE ARRESTED WHILE IN UNITED STATES OF AMERICA",
+      "summary": "<p>TRUMP: NETANYAHU WILL NOT BE ARRESTED WHILE IN UNITED STATES OF AMERICA</p>",
+      "link": "https://nitter.net/DeItaone/status/2079247993736220761#m",
+      "published": "2026-07-20T16:52:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: EVERY TIME IRAN KILLS AN AMERICAN SOLDIER THEY WILL PAY FOR THAT KILLING MANY TIMES OVER",
+      "summary": "<p>TRUMP: EVERY TIME IRAN KILLS AN AMERICAN SOLDIER THEY WILL PAY FOR THAT KILLING MANY TIMES OVER</p>",
+      "link": "https://nitter.net/DeItaone/status/2079247847334002858#m",
+      "published": "2026-07-20T16:51:32+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says every time Iran kills an American soldier, “they will pay for that killing many times over.”",
@@ -201,12 +273,39 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP URGES GOP TO BACK BUDGET PLAN President Donald Trump called on House Republicans to unite behind the budget resolution, describing it as the first step toward advancing the Save America Act. He said the package should include military funding, aid for farmers, voter ID and proof of citizenship requirements, while urging lawmakers to vote in favor this week.",
+      "summary": "<p>TRUMP URGES GOP TO BACK BUDGET PLAN<br />\n<br />\nPresident Donald Trump called on House Republicans to unite behind the budget resolution, describing it as the first step toward advancing the Save America Act. He said the package should include military funding, aid for farmers, voter ID and proof of citizenship requirements, while urging lawmakers to vote in favor this week.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079230135652188671#m",
+      "published": "2026-07-20T15:41:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP AI SECURITY AGENCY HEAD RESIGNS -AXIOS",
+      "summary": "<p>TRUMP AI SECURITY AGENCY HEAD RESIGNS -AXIOS</p>",
+      "link": "https://nitter.net/DeItaone/status/2079225679455944863#m",
+      "published": "2026-07-20T15:23:26+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Alphabet, $GOOGL, is planning on launching a new “frozen” chip to run its AI models more efficiently, per The Information. Details include: 1. This new server chip would directly integrate the blueprint of its Gemini AI model 2. The chip would then enable Alphabet to provide its AI models to users much more efficiently 3. The chip's developers estimate that it would be 6 to 10 times more efficient than the most recent version of Google's existing line of AI chips Another tech giant has entered the chip race.",
       "summary": "<p>BREAKING: Alphabet, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GOOGL\">$GOOGL</a>, is planning on launching a new “frozen” chip to run its AI models more efficiently, per The Information.<br />\n<br />\nDetails include:<br />\n<br />\n1. This new server chip would directly integrate the blueprint of its Gemini AI model<br />\n<br />\n2. The chip would then enable Alphabet to provide its AI m",
       "link": "https://nitter.net/KobeissiLetter/status/2079198142218588589#m",
       "published": "2026-07-20T13:34:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*GOOGLE PLANS NEW CHIP: INFORMATION",
+      "summary": "<p>*GOOGLE PLANS NEW CHIP: INFORMATION</p>",
+      "link": "https://nitter.net/DeItaone/status/2079190528520790377#m",
+      "published": "2026-07-20T13:03:46+00:00",
       "score": 1
     },
     {
@@ -261,15 +360,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just want to share that fundingpips recently terminated my funded account : &quot;Shared CID&quot; &quot;Our review has determined that the Device ID associated with your account matches the Device ID of another registered user on our platform&quot; </p> <p>I swear to God I only trade on one device, and they cannot even provide proof and tell who is this another &",
       "link": "https://www.reddit.com/r/Forex/comments/1v0qdpy/fundingpips_terminated_my_funded_account/",
       "published": "2026-07-19T13:17:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Love it when price action isn't random - GBPUSD",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1uyosaq/love_it_when_price_action_isnt_random_gbpusd/\"> <img alt=\"Love it when price action isn't random - GBPUSD\" src=\"https://preview.redd.it/qwwlhq66ppdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b7b71fb0730a155b400aff23d6e0bbc7fa8f974e\" title=\"Love it when price action isn't random - GBPUSD\" /> </a> </td><td> <!-- SC_OFF",
-      "link": "https://www.reddit.com/r/Forex/comments/1uyosaq/love_it_when_price_action_isnt_random_gbpusd/",
-      "published": "2026-07-17T03:54:58+00:00",
       "score": 1
     },
     {
