@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-07-21T00:10:02.144637+00:00",
-  "count": 55,
+  "updated_at": "2026-07-21T03:45:55.281239+00:00",
+  "count": 58,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "RBNZ Sectoral Factor Inflation Model holds steady at 2.7% YoY in Q2 2026",
+      "summary": "The Reserve Bank of New Zealand (RBNZ) published its Sectoral Factor Model Inflation gauge for the second quarter of 2026, following the release of the official Consumer Price Index (CPI) by NZ Stats on Tuesday.",
+      "link": "https://www.fxstreet.com/news/rbnz-sectoral-factor-inflation-model-holds-steady-at-27-yoy-in-q2-2026-202607210308",
+      "published": "2026-07-21T03:08:43+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: RBNZ sectoral factor inflation model rises 2.7% year on year in Q2",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9686427/RBNZ-sectoral-factor-inflation-model-rises-27-year-on-year-in-Q2.aspx?xy=rss",
+      "published": "2026-07-21T03:02:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index holds ground near 101.00 amid rising safe-haven demand",
+      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is remaining in the positive territory and trading around 101.00 during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-ground-near-10100-amid-rising-safe-haven-demand-202607210240",
+      "published": "2026-07-21T02:40:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar strengthens above 0.7000 despite rising US-Iran tensions",
+      "summary": "The AUD/USD pair drifts higher to near 0.7010 during the Asian trading hours on Tuesday. However, the potential upside for the pair might be limited amid the escalation of the US-Iran conflict. The Australian employment report will take center stage later on Thursday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-above-07000-despite-rising-us-iran-tensions-202607210234",
+      "published": "2026-07-21T02:34:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound struggles as traders evaluate BoE policy, UK political developments",
+      "summary": "GBP/USD steadies after three days of losses, trading around 1.3430 during the Asian hours on Tuesday.",
+      "link": "https://www.fxstreet.com/news/british-pound-struggles-as-traders-evaluate-boe-policy-uk-political-developments-202607210147",
+      "published": "2026-07-21T01:47:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD bulls flirt with descending trend-line hurdle, above $57.00",
+      "summary": "Silver (XAG/USD) attracts buyers for the third straight day and climbs back above the $57.00 mark during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bulls-flirt-with-descending-trend-line-hurdle-above-5700-202607210144",
+      "published": "2026-07-21T01:44:09+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar rises above 0.5850 as hotter CPI data bolsters case for more RBNZ rate hikes",
+      "summary": "The NZD/USD pair attracts some buyers to around 0.5865 during the early Asian trading hours on Tuesday. The New Zealand Dollar (NZD) edges higher against the US Dollar (USD) following hotter New Zealand inflation data.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rises-above-05850-as-hotter-cpi-data-bolsters-case-for-more-rbnz-rate-hikes-202607210143",
+      "published": "2026-07-21T01:43:32+00:00",
+      "score": 3
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "US corporations have never had more foreign exposure: The proportion of S&P 500 revenue generated abroad is up to a record ~42%. This surpasses the previous peak of ~40% in 2015 and ~39% posted during the 2000 Dot-Com Bubble. This comes despite the unprecedented surge in domestic AI investment, which was expected to make corporate revenue more concentrated in the US. Technology companies are behind most of the surge, with foreign markets now accounting for over 50% of the sector's revenue. Furthermore, the communication services sector generates ~47% of its revenue abroad, up from less than 40% before the 2020 pandemic. The global economy is more connected than ever.",
+      "summary": "<p>US corporations have never had more foreign exposure:<br />\n<br />\nThe proportion of S&amp;P 500 revenue generated abroad is up to a record ~42%.<br />\n<br />\nThis surpasses the previous peak of ~40% in 2015 and ~39% posted during the 2000 Dot-Com Bubble.<br />\n<br />\nThis comes despite the unprecedented surge in domestic AI investment, which was expected to make corporate revenue more concentr",
+      "link": "https://nitter.net/KobeissiLetter/status/2079379331395342755#m",
+      "published": "2026-07-21T01:34:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7917 vs. 6.7948 previous",
+      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7917 compared to the previous day's fix of 6.7948 and 6.7706 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67917-vs-67948-previous-202607210115",
+      "published": "2026-07-21T01:15:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar falls to one-week low vs USD on divergent BoC-Fed bets, Trump tariffs",
+      "summary": "The USD/CAD pair is seen buying on the previous day's solid rebound from the 1.4000 psychological mark, or its lowest level since June 17, and gaining positive traction for the second straight day on Tuesday.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-to-one-week-low-vs-usd-on-divergent-boc-fed-bets-trump-tariffs-202607210112",
+      "published": "2026-07-21T01:12:01+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro declines to near 1.1400 as US launches fresh strikes on Iran",
+      "summary": "The EUR/USD pair posts modest losses around 1.1410 during the early Asian trading hours on Tuesday. Renewed tensions between the United States (US) and Iran continue to fuel risk-off sentiment, weighing on the Euro (EUR) against the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/euro-declines-to-near-11400-as-us-launches-fresh-strikes-on-iran-202607210056",
+      "published": "2026-07-21T00:56:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "The South Korean and US AI trades are becoming increasingly synchronized: The 60-day correlation between the KOSPI and Nasdaq 100 index is up to +0.46, the highest since July 2024. This marks a sharp reversal from a negative correlation of -0.20 recorded in March. By comparison, the 5-year average is just +0.16 or nearly one-third the 60-day metric. Furthermore, the Nasdaq 100's sensitivity to declines in South Korean stocks is up to its highest level since 1990. At the same time, the MSCI World Index's sensitivity to the South Korean market is up to its highest in 4 years. In other words, declines in South Korean equities are increasingly serving as an early read on US and global equity risk appetite, particularly in technology stocks. The AI trade has never been more global.",
+      "summary": "<p>The South Korean and US AI trades are becoming increasingly synchronized:<br />\n<br />\nThe 60-day correlation between the KOSPI and Nasdaq 100 index is up to +0.46, the highest since July 2024.<br />\n<br />\nThis marks a sharp reversal from a negative correlation of -0.20 recorded in March.<br />\n<br />\nBy comparison, the 5-year average is just +0.16 or nearly one-third the 60-day metric.<br />\n",
+      "link": "https://nitter.net/KobeissiLetter/status/2079362470267818031#m",
+      "published": "2026-07-21T00:27:00+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -75,15 +183,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Diplomatic efforts underway to dissuade Trump administration from severing ties with UN refugee agency: sources",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9686201/Diplomatic-efforts-underway-to-dissuade-Trump-administration-from-severing-ties-with-UN-refugee-agency-sources.aspx?xy=rss",
-      "published": "2026-07-20T23:30:19+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Gold edges lower to near $4,000 as US-Iran tensions fuel inflation worries",
@@ -93,103 +192,13 @@
       "score": 5
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Malaysian Ringgit: External risks weigh on MYR against US Dollar – OCBC",
-      "summary": "OCBC notes USD/MYR has risen on renewed US–Iran tensions and broader risk‑off sentiment, despite stronger Malaysian Gross Domestic Product (GDP) and better foreign equity flows.",
-      "link": "https://www.fxstreet.com/news/malaysian-ringgit-external-risks-weigh-on-myr-against-us-dollar-ocbc-202607202302",
-      "published": "2026-07-20T23:02:00+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SPEAKS WITH NEW U.K. PRIME MINISTER President Donald Trump said he had a “very good” call with new U.K. Prime Minister Andy Burnham, discussing trade, North Sea oil, the U.S.-U.K. military alliance and efforts to clear the Strait of Hormuz. Trump said the two leaders plan to meet soon and pledged U.S. support for Burnham’s government.",
+      "summary": "<p>TRUMP SPEAKS WITH NEW U.K. PRIME MINISTER<br />\n<br />\nPresident Donald Trump said he had a “very good” call with new U.K. Prime Minister Andy Burnham, discussing trade, North Sea oil, the U.S.-U.K. military alliance and efforts to clear the Strait of Hormuz. Trump said the two leaders plan to meet soon and pledged U.S. support for Burnham’s government.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079332468583252394#m",
+      "published": "2026-07-20T22:27:47+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Breaking: New Zealand’s CPI inflation climbs to 4.1% YoY in Q2, vs 4.0% expected",
-      "summary": "New Zealand’s Consumer Price Index (CPI) climbed 4.1% YoY in the second quarter (Q2) of 2026, compared with the 3.1% increase seen in the first quarter, according to the latest data published by Statistics New Zealand on Tuesday. The market consensus was for a growth of 4.0% in the reported period.",
-      "link": "https://www.fxstreet.com/news/breaking-new-zealands-cpi-inflation-climbs-to-41-yoy-in-q2-vs-40-expected-202607202246",
-      "published": "2026-07-20T22:46:19+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: NZ dollar rises slightly to $0.5843 after CPI data",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9686170/NZ-dollar-rises-slightly-to-05843-after-CPI-data.aspx?xy=rss",
-      "published": "2026-07-20T22:45:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: New Zealand CPI YoY Actual 4.1% (Forecast 4%, Previous 3.1%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9686162/New-Zealand-CPI-YoY-Actual-41-Forecast-4-Previous-31.aspx?xy=rss",
-      "published": "2026-07-20T22:45:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: New Zealand CPI QoQ Actual 1.5% (Forecast 1.4%, Previous 0.9%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9686161/New-Zealand-CPI-QoQ-Actual-15-Forecast-14-Previous-09.aspx?xy=rss",
-      "published": "2026-07-20T22:45:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: talked about North Sea oil, trade, military alliance, clearing mines in Hormuz Strait",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9686153/Trump-talked-about-North-Sea-oil-trade-military-alliance-clearing-mines-in-Hormuz-Strait.aspx?xy=rss",
-      "published": "2026-07-20T22:20:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: to meet soon on issues of shared interest",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9686152/Trump-to-meet-soon-on-issues-of-shared-interest.aspx?xy=rss",
-      "published": "2026-07-20T22:19:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: held very positive talks with new UK prime minister",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9686151/Trump-held-very-positive-talks-with-new-UK-prime-minister.aspx?xy=rss",
-      "published": "2026-07-20T22:19:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Rangebound trade guided by fix against US Dollar – OCBC",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong see USD/CNH staying broadly rangebound as the People's Bank of China (PBoC) fixing continues to anchor moves. Softer US inflation has recently weighed on the Dollar while firmer fixings allowed some gradual Renminbi (CNH) strength.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-rangebound-trade-guided-by-fix-against-us-dollar-ocbc-202607202219",
-      "published": "2026-07-20T22:19:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CHF Price Forecast: Reclaims 0.8100 as market structure is bullish",
-      "summary": "The Swiss Franc loses ground against the Greenback in a trading session marked by CHF weakness amid improving risk appetite. At the time of writing, the USD/CHF trades at 0.8101, up 0.32%.",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-reclaims-08100-as-market-structure-is-bullish-202607202146",
-      "published": "2026-07-20T21:46:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Malaysian Ringgit: Growth supports range against US Dollar – Commerzbank",
-      "summary": "Commerzbank’s Dr. Henry Hao and Moses Lim report that Malaysia’s stronger-than-expected Q2 Gross Domestic Product (GDP) growth and subdued inflation support an unchanged policy rate of 2.75%. USD/MYR has remained within a 4.05–4.10 range, recently edging higher alongside crude oil prices.",
-      "link": "https://www.fxstreet.com/news/malaysian-ringgit-growth-supports-range-against-us-dollar-commerzbank-202607202137",
-      "published": "2026-07-20T21:37:00+00:00",
-      "score": 2
     },
     {
       "source": "Kobeissi Letter",
@@ -198,24 +207,6 @@
       "summary": "<p>BREAKING: President Trump is imposing an additional 50% tariff on a range of Canadian goods in response to \"trade discrimination.\"<br />\n<br />\nDetails include:<br />\n<br />\n1. President Trump signed 3 proclamations today targeting different sets of Canadian imports<br />\n<br />\n2. The tariffs are targeting separate areas where the US says it has experienced discrimination <br />\n<br />\n3. The ",
       "link": "https://nitter.net/KobeissiLetter/status/2079312046923940275#m",
       "published": "2026-07-20T21:06:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Range trade persists against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang notes USD/SGD is stuck in a tight range after recent sideways trading, with intraday action expected between 1.2900 and 1.2930. On a 1–3 week horizon, the bank still sees downside risks if 1.2860 breaks, while 1.2930 remains strong resistance.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trade-persists-against-us-dollar-uob-202607202056",
-      "published": "2026-07-20T20:56:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso gains as risk appetite boosts Peso, weighs on USD",
-      "summary": "The Mexican Peso gains some ground versus the Greenback on Monday, up by 0.66% as risk appetite improves despite escalating tensions in the Middle East. At the time of writing, the USD/MXN trades at 17.43 after hitting a daily high of 17.55",
-      "link": "https://www.fxstreet.com/news/mexican-peso-gains-as-risk-appetite-boosts-the-peso-weighs-on-the-usd-202607202052",
-      "published": "2026-07-20T20:52:28+00:00",
       "score": 1
     },
     {
@@ -228,30 +219,39 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar rises as Gulf tensions lift, Oil and Canadian inflation cool",
-      "summary": "The US Dollar Index (DXY) rises around 0.2% toward 101.00 as higher United States (US) Treasury yields and escalating tensions in the Middle East support the Greenback.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-rises-as-gulf-tensions-lift-oil-and-canadian-inflation-cool-202607202043",
-      "published": "2026-07-20T20:43:53+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Asia FX: Oil rebound pressures INR and THB – MUFG",
-      "summary": "MUFG’s Lloyd Chan highlights that higher Oil prices and persistent inflation risks are weighing on Asian currencies, with the Indian Rupee (INR) and Thai Baht (THB) underperforming against the US Dollar.",
-      "link": "https://www.fxstreet.com/news/asia-fx-oil-rebound-pressures-inr-and-thb-mufg-202607202012",
-      "published": "2026-07-20T20:12:00+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. VOWS PRESSURE ON IRAN A senior U.S. official said President Donald Trump is focused on making Iran “pay” for allegedly violating a prior understanding and carrying out attacks in the Strait of Hormuz. According to Axios, the official said U.S. strikes will continue until Trump decides otherwise.",
+      "summary": "<p>U.S. VOWS PRESSURE ON IRAN<br />\n<br />\nA senior U.S. official said President Donald Trump is focused on making Iran “pay” for allegedly violating a prior understanding and carrying out attacks in the Strait of Hormuz. According to Axios, the official said U.S. strikes will continue until Trump decides otherwise.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079288731354476667#m",
+      "published": "2026-07-20T19:33:59+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Brent: Geopolitics support crude and cracks – Societe Generale",
-      "summary": "Societe Generale’s Michael Haigh and Jeremy Sellem highlight that Brent has surged as US-Iran tensions, Trump’s rhetoric and Houthi blockade threats lift risk premia. Crack spreads in Asia and US have outperformed as refined products stay tighter than crude.",
-      "link": "https://www.fxstreet.com/news/brent-geopolitics-support-crude-and-cracks-societe-generale-202607201950",
-      "published": "2026-07-20T19:50:00+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SAYS NETANYAHU WILL NOT BE ARRESTED IN U.S. President Donald Trump said Israeli Prime Minister Benjamin Netanyahu will not be arrested while visiting the United States. Trump praised Netanyahu’s campaign against Iran and blamed Iran’s leadership for decades of violence, arguing they—not Netanyahu—should be held accountable.",
+      "summary": "<p>TRUMP SAYS NETANYAHU WILL NOT BE ARRESTED IN U.S.<br />\n<br />\nPresident Donald Trump said Israeli Prime Minister Benjamin Netanyahu will not be arrested while visiting the United States. Trump praised Netanyahu’s campaign against Iran and blamed Iran’s leadership for decades of violence, arguing they—not Netanyahu—should be held accountable.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079248460264751362#m",
+      "published": "2026-07-20T16:53:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: NETANYAHU WILL NOT BE ARRESTED WHILE IN UNITED STATES OF AMERICA",
+      "summary": "<p>TRUMP: NETANYAHU WILL NOT BE ARRESTED WHILE IN UNITED STATES OF AMERICA</p>",
+      "link": "https://nitter.net/DeItaone/status/2079247993736220761#m",
+      "published": "2026-07-20T16:52:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: EVERY TIME IRAN KILLS AN AMERICAN SOLDIER THEY WILL PAY FOR THAT KILLING MANY TIMES OVER",
+      "summary": "<p>TRUMP: EVERY TIME IRAN KILLS AN AMERICAN SOLDIER THEY WILL PAY FOR THAT KILLING MANY TIMES OVER</p>",
+      "link": "https://nitter.net/DeItaone/status/2079247847334002858#m",
+      "published": "2026-07-20T16:51:32+00:00",
       "score": 1
     },
     {
@@ -273,12 +273,39 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP URGES GOP TO BACK BUDGET PLAN President Donald Trump called on House Republicans to unite behind the budget resolution, describing it as the first step toward advancing the Save America Act. He said the package should include military funding, aid for farmers, voter ID and proof of citizenship requirements, while urging lawmakers to vote in favor this week.",
+      "summary": "<p>TRUMP URGES GOP TO BACK BUDGET PLAN<br />\n<br />\nPresident Donald Trump called on House Republicans to unite behind the budget resolution, describing it as the first step toward advancing the Save America Act. He said the package should include military funding, aid for farmers, voter ID and proof of citizenship requirements, while urging lawmakers to vote in favor this week.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079230135652188671#m",
+      "published": "2026-07-20T15:41:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP AI SECURITY AGENCY HEAD RESIGNS -AXIOS",
+      "summary": "<p>TRUMP AI SECURITY AGENCY HEAD RESIGNS -AXIOS</p>",
+      "link": "https://nitter.net/DeItaone/status/2079225679455944863#m",
+      "published": "2026-07-20T15:23:26+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Alphabet, $GOOGL, is planning on launching a new “frozen” chip to run its AI models more efficiently, per The Information. Details include: 1. This new server chip would directly integrate the blueprint of its Gemini AI model 2. The chip would then enable Alphabet to provide its AI models to users much more efficiently 3. The chip's developers estimate that it would be 6 to 10 times more efficient than the most recent version of Google's existing line of AI chips Another tech giant has entered the chip race.",
       "summary": "<p>BREAKING: Alphabet, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GOOGL\">$GOOGL</a>, is planning on launching a new “frozen” chip to run its AI models more efficiently, per The Information.<br />\n<br />\nDetails include:<br />\n<br />\n1. This new server chip would directly integrate the blueprint of its Gemini AI model<br />\n<br />\n2. The chip would then enable Alphabet to provide its AI m",
       "link": "https://nitter.net/KobeissiLetter/status/2079198142218588589#m",
       "published": "2026-07-20T13:34:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*GOOGLE PLANS NEW CHIP: INFORMATION",
+      "summary": "<p>*GOOGLE PLANS NEW CHIP: INFORMATION</p>",
+      "link": "https://nitter.net/DeItaone/status/2079190528520790377#m",
+      "published": "2026-07-20T13:03:46+00:00",
       "score": 1
     },
     {
