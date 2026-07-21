@@ -1,13 +1,31 @@
 {
-  "updated_at": "2026-07-21T22:13:35.477783+00:00",
-  "count": 68,
+  "updated_at": "2026-07-21T23:14:24.750272+00:00",
+  "count": 53,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: After two years, tariff to rise to 100% for one year, then 200% afterward",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9687843/Trump-After-two-years-tariff-to-rise-to-100-for-one-year-then-200-afterward.aspx",
+      "published": "2026-07-21T22:55:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Starting Aug. 1, 2026, all generic drugs entering US will maintain zero percent tariff for two years",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9687842/Trump-Starting-Aug-1-2026-all-generic-drugs-entering-US-will-maintain-zero-percent-tariff-for-two-years.aspx",
+      "published": "2026-07-21T22:54:42+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Trump administration weighs banning imports of military-grade drones: Federal Communications Commission",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9687800/Trump-administration-weighs-banning-imports-of-military-grade-drones-Federal-Communications-Commission.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9687800/Trump-administration-weighs-banning-imports-of-military-grade-drones-Federal-Communications-Commission.aspx",
       "published": "2026-07-21T21:49:56+00:00",
       "score": 2
     },
@@ -43,7 +61,7 @@
       "category": "news",
       "title": "FinancialJuice: Oklo, X-Energy join Trump's bid to speed nuclear reactors for AI.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9687721/Oklo-X-Energy-join-Trumps-bid-to-speed-nuclear-reactors-for-AI.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9687721/Oklo-X-Energy-join-Trumps-bid-to-speed-nuclear-reactors-for-AI.aspx",
       "published": "2026-07-21T20:27:48+00:00",
       "score": 1
     },
@@ -63,15 +81,6 @@
       "summary": "The USD/JPY extends its rally on Tuesday, hitting 40-year highs above 163.00 as the Greenback continues to gain ground versus the Japanese Yen. At the time of writing, the USD/JPY trades at 163.19, slightly shy of the multi-decade high of 163.24.",
       "link": "https://www.fxstreet.com/news/japanese-yen-tumbles-to-40-year-low-as-dollar-haven-rush-deepens-202607212012",
       "published": "2026-07-21T20:12:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: -623 mln<br />Nasdaq 100: -1290 mln<br />Dow 30: -78 mln<br />Mag 7: -360 mln",
-      "link": "https://www.financialjuice.com/News/9687692/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-07-21T19:50:30+00:00",
       "score": 1
     },
     {
@@ -180,150 +189,6 @@
       "summary": "USD/CHF edges higher as escalating tensions in the Middle East support the US Dollar (USD), with buyers eyeing a breakout above the 0.8150 resistance level that has capped gains since July 2025. At the time of writing, the pair trades around 0.8123, up 0.27% on the day.",
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-buyers-hold-the-upper-hand-above-08000-202607211607",
       "published": "2026-07-21T16:07:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Pinned: U.S. STRIKE THREAT RAISES HORMUZ RISKS Kalshi prediction markets suggest traders expect disruptions in the Strait of Hormuz to persist well into 2027, with only a 31% chance of shipping returning to normal before December 2026. President Donald Trump said the U.S. will target the Pickaxe Mountain area near Iran’s Natanz nuclear facility “pretty soon.” The deeply fortified site is linked to Iran’s nuclear program, raising the prospect of another escalation with potential implications for global energy markets. https://kalshi.com/markets/kxhormuznorm/when-will-traffic-at-the-strait-of-hormuz-return-to-normal/kxhormuznorm-26mar17",
-      "summary": "<p>U.S. STRIKE THREAT RAISES HORMUZ RISKS<br />\n<br />\nKalshi prediction markets suggest traders expect disruptions in the Strait of Hormuz to persist well into 2027, with only a 31% chance of shipping returning to normal before December 2026.<br />\n<br />\nPresident Donald Trump said the U.S. will target the Pickaxe Mountain area near Iran’s Natanz nuclear facility “pretty soon.” The deeply fortif",
-      "link": "https://nitter.net/DeItaone/status/2079598809001202174#m",
-      "published": "2026-07-21T16:06:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US President Trump: “We’re not finished at all with Iran”",
-      "summary": "United States (US) President Donald Trump said during a press conference at the White House on Tuesday that Washington could intensify its military campaign against Iran, including possible strikes on the underground Pickaxe Mountain site.",
-      "link": "https://www.fxstreet.com/news/us-president-trump-were-not-finished-at-all-with-iran-202607211601",
-      "published": "2026-07-21T16:01:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: WILL BE HITTING PICKAXE MOUNTAIN AREA PRETTY SOON",
-      "summary": "<p>TRUMP: WILL BE HITTING PICKAXE MOUNTAIN AREA PRETTY SOON</p>",
-      "link": "https://nitter.net/DeItaone/status/2079592476713611264#m",
-      "published": "2026-07-21T15:40:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP: IRAN HAS VERY EVIL PEOPLE LEADING THAT COUNTRY",
-      "summary": "<p>*TRUMP: IRAN HAS VERY EVIL PEOPLE LEADING THAT COUNTRY</p>",
-      "link": "https://nitter.net/DeItaone/status/2079592391049105871#m",
-      "published": "2026-07-21T15:40:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP ON IRAN: WILL BE HITTING SOON, VERY HEAVILY",
-      "summary": "<p>*TRUMP ON IRAN: WILL BE HITTING SOON, VERY HEAVILY</p>",
-      "link": "https://nitter.net/DeItaone/status/2079592337785643199#m",
-      "published": "2026-07-21T15:40:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP: IRAN HASN'T SEEN ANYTHING YET, WE'VE BEEN NICE",
-      "summary": "<p>*TRUMP: IRAN HASN'T SEEN ANYTHING YET, WE'VE BEEN NICE</p>",
-      "link": "https://nitter.net/DeItaone/status/2079592194013380690#m",
-      "published": "2026-07-21T15:39:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: IRAN HASN'T SEEN ANYTHING YET",
-      "summary": "<p>TRUMP: IRAN HASN'T SEEN ANYTHING YET</p>",
-      "link": "https://nitter.net/DeItaone/status/2079592145485287440#m",
-      "published": "2026-07-21T15:39:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: We will target any Iranian facility where nuclear weapons are manufactured",
-      "summary": "<p>Trump: We will target any Iranian facility where nuclear weapons are manufactured</p>",
-      "link": "https://nitter.net/DeItaone/status/2079591813279563883#m",
-      "published": "2026-07-21T15:38:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP: IRAN PROBABLY TRYING TO IMPACT ELECTIONS WITH HORMUZ",
-      "summary": "<p>*TRUMP: IRAN PROBABLY TRYING TO IMPACT ELECTIONS WITH HORMUZ</p>",
-      "link": "https://nitter.net/DeItaone/status/2079591544550457504#m",
-      "published": "2026-07-21T15:37:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: Rebuilding Iran will take from 20 to 25 years",
-      "summary": "<p>Trump: Rebuilding Iran will take from 20 to 25 years</p>",
-      "link": "https://nitter.net/DeItaone/status/2079591137556287968#m",
-      "published": "2026-07-21T15:35:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: CANADA TARIFFS NOT IN RESPONSE TO WILDFIRES",
-      "summary": "<p>TRUMP: CANADA TARIFFS NOT IN RESPONSE TO WILDFIRES</p>",
-      "link": "https://nitter.net/DeItaone/status/2079591071265218807#m",
-      "published": "2026-07-21T15:35:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP: WE'RE NOT FINISHED AT ALL WITH IRAN",
-      "summary": "<p>*TRUMP: WE'RE NOT FINISHED AT ALL WITH IRAN</p>",
-      "link": "https://nitter.net/DeItaone/status/2079590238255542591#m",
-      "published": "2026-07-21T15:32:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: I feel safe",
-      "summary": "<p>Trump: I feel safe</p>",
-      "link": "https://nitter.net/DeItaone/status/2079590164221809103#m",
-      "published": "2026-07-21T15:31:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: The blockade on Iranian ports continues",
-      "summary": "<p>Trump: The blockade on Iranian ports continues</p>",
-      "link": "https://nitter.net/DeItaone/status/2079590120596951215#m",
-      "published": "2026-07-21T15:31:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: Was most successful world cup ever",
-      "summary": "<p>Trump: Was most successful world cup ever</p>",
-      "link": "https://nitter.net/DeItaone/status/2079589544559628322#m",
-      "published": "2026-07-21T15:29:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP, ASKED ON CHINA ELECTION CLAIMS: WE DO THINGS TO THEM TOO",
-      "summary": "<p>*TRUMP, ASKED ON CHINA ELECTION CLAIMS: WE DO THINGS TO THEM TOO</p>",
-      "link": "https://nitter.net/DeItaone/status/2079588346053927383#m",
-      "published": "2026-07-21T15:24:33+00:00",
       "score": 1
     },
     {
