@@ -1,13 +1,58 @@
 {
-  "updated_at": "2026-07-22T20:48:31.678397+00:00",
-  "count": 73,
+  "updated_at": "2026-07-22T22:05:19.582095+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar stalls after hotter-than-expected inflation",
+      "summary": "NZD/USD trades lower near the 0.5820 area on Wednesday, extending its recent pullback as the New Zealand Dollar (NZD) struggles to benefit from stronger-than-expected domestic inflation data.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-stalls-after-hotter-than-expected-inflation-202607222159",
+      "published": "2026-07-22T21:59:26+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar softens as oil and gold rally, ECB decision and Australian jobs loom",
+      "summary": "The US Dollar trades slightly lower on Wednesday as markets remain cautious amid escalating tensions surrounding Iran and the Strait of Hormuz. The US Dollar Index (DXY) slips toward 101.10, helping the Euro recover modestly, while most other major currency pairs remain relatively stable.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-softens-as-oil-and-gold-rally-ecb-decision-and-australian-jobs-loom-202607222116",
+      "published": "2026-07-22T21:16:37+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google still sees Fiscal Year 2027 capex increasing significantly, $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9689529/Google-still-sees-Fiscal-Year-2027-capex-increasing-significantly-GOOGL.aspx?xy=rss",
+      "published": "2026-07-22T21:00:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump ends remarks",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9689517/Trump-ends-remarks.aspx?xy=rss",
+      "published": "2026-07-22T20:50:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: You'll have a shutdown in September.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9689516/Trump-Youll-have-a-shutdown-in-September.aspx?xy=rss",
+      "published": "2026-07-22T20:48:51+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Google's Pichai: Company seeing strong demand for AI infrastructure. $GOOGL",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9689498/Googles-Pichai-Company-seeing-strong-demand-for-AI-infrastructure-GOOGL.aspx",
+      "link": "https://www.financialjuice.com/News/9689498/Googles-Pichai-Company-seeing-strong-demand-for-AI-infrastructure-GOOGL.aspx?xy=rss",
       "published": "2026-07-22T20:46:43+00:00",
       "score": 1
     },
@@ -18,123 +63,6 @@
       "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/SGD is trading just above 1.29 after a quiet session, with momentum only tentatively firmer.",
       "link": "https://www.fxstreet.com/news/singapore-dollar-downside-risk-persists-against-us-dollar-uob-202607222014",
       "published": "2026-07-22T20:14:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Tesla: Battery pack capacity remains limiting factor. $TSLA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689454/Tesla-Battery-pack-capacity-remains-limiting-factor-TSLA.aspx",
-      "published": "2026-07-22T20:10:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: $GOOGL Alphabet Q2 Earnings",
-      "summary": "<ul><li>Revenue $119.80B, est. $117.02B</li><li>Revenue ex-TAC $103.62B, est. $101.07B</li><li>Operating Income $40.77B, est. $40.55B</li><li>Google Services Revenue $94.54B, est. $94.32B</li><li>Google Cloud Revenue $24.77B, est. $22.46B</li><li>Google Cloud Backlog $514B</li><li>Google Advertising Revenue $81.63B, est. $81.12B</li><li>Google Search &amp; Other Revenue $63.27B, est. $63.28B (+17%",
-      "link": "https://www.financialjuice.com/News/9689451/GOOGL-Alphabet-Q2-Earnings.aspx",
-      "published": "2026-07-22T20:02:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: If you're paying a little more now, a lot has come down",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689435/Trump-If-youre-paying-a-little-more-now-a-lot-has-come-down.aspx",
-      "published": "2026-07-22T19:59:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: oil will come tumbling down.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689434/Trump-oil-will-come-tumbling-down.aspx",
-      "published": "2026-07-22T19:56:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Inflation is way down.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689433/Trump-Inflation-is-way-down.aspx",
-      "published": "2026-07-22T19:54:47+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran will be ready very soon, but they are not ready for deal yet.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689432/Trump-Iran-will-be-ready-very-soon-but-they-are-not-ready-for-deal-yet.aspx",
-      "published": "2026-07-22T19:53:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran is getting hit so hard; they want to make a deal.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689431/Trump-Iran-is-getting-hit-so-hard-they-want-to-make-a-deal.aspx",
-      "published": "2026-07-22T19:53:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: -1132 mln<br />Nasdaq 100: -197 mln<br />Dow 30: -260 mln<br />Mag 7: +119 mln",
-      "link": "https://www.financialjuice.com/News/9689430/MOC-Imbalance.aspx",
-      "published": "2026-07-22T19:50:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: We're winning in Iran",
-      "summary": "<p>Trump: We're winning in Iran</p>",
-      "link": "https://nitter.net/DeItaone/status/2080016914772787510#m",
-      "published": "2026-07-22T19:47:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: We don't need the Hormuz Strait",
-      "summary": "<p>Trump: We don't need the Hormuz Strait</p>",
-      "link": "https://nitter.net/DeItaone/status/2080016834447777860#m",
-      "published": "2026-07-22T19:47:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We're winning in Iran.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689422/Trump-Were-winning-in-Iran.aspx",
-      "published": "2026-07-22T19:44:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We don't need the Hormuz Strait.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689421/Trump-We-dont-need-the-Hormuz-Strait.aspx",
-      "published": "2026-07-22T19:43:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Venezuela working with the US to produce oil.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689420/Trump-Venezuela-working-with-the-US-to-produce-oil.aspx",
-      "published": "2026-07-22T19:42:45+00:00",
       "score": 1
     },
     {
@@ -291,57 +219,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: Iran is going to pay a big price",
-      "summary": "<p>Trump: Iran is going to pay a big price</p>",
-      "link": "https://nitter.net/DeItaone/status/2079929930851184939#m",
-      "published": "2026-07-22T14:01:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: Americans are not against the war in Iran",
-      "summary": "<p>Trump: Americans are not against the war in Iran</p>",
-      "link": "https://nitter.net/DeItaone/status/2079929703800897536#m",
-      "published": "2026-07-22T14:00:59+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The Dow Jones Industrial Average erases all losses and turns green on the day despite President Trump's threat to bomb Iranian power plants and bridge.",
       "summary": "<p>BREAKING: The Dow Jones Industrial Average erases all losses and turns green on the day despite President Trump's threat to bomb Iranian power plants and bridge.</p>\n<img src=\"https://nitter.net/pic/media%2FHN1i5uhW8AA8BSm.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2079927415535485388#m",
       "published": "2026-07-22T13:51:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Range-bound gains and episodic strength – TD Securities",
-      "summary": "TD Securities strategists expect modest US Dollar (USD) strength in Q3 2026 as positioning has room to rebuild.",
-      "link": "https://www.fxstreet.com/news/us-dollar-range-bound-gains-and-episodic-strength-td-securities-202607221345",
-      "published": "2026-07-22T13:45:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro struggles to extend gains as Iran war supports US Dollar",
-      "summary": "EUR/USD trades around 1.1415 at the time of writing on Wednesday, up 0.15% on the day, but its recovery remains limited after failing to break above 1.1420.",
-      "link": "https://www.fxstreet.com/news/euro-struggles-to-extend-gains-as-middle-east-tensions-support-the-us-dollar-202607221335",
-      "published": "2026-07-22T13:35:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ESCALATES RHETORIC President Trump warned that any attack by Iran on ships in the Strait of Hormuz would trigger U.S. strikes on Iranian infrastructure, including bridges and power plants near Tehran. The statement marks a sharp escalation in rhetoric, reinforcing tensions around one of the world’s most strategically important shipping routes.",
-      "summary": "<p>TRUMP ESCALATES RHETORIC<br />\n<br />\nPresident Trump warned that any attack by Iran on ships in the Strait of Hormuz would trigger U.S. strikes on Iranian infrastructure, including bridges and power plants near Tehran.<br />\n<br />\nThe statement marks a sharp escalation in rhetoric, reinforcing tensions around one of the world’s most strategically important shipping routes.</p>",
-      "link": "https://nitter.net/DeItaone/status/2079917299813773353#m",
-      "published": "2026-07-22T13:11:41+00:00",
       "score": 1
     },
     {
@@ -372,15 +255,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold hits two-week high as traders weigh Middle East risks, Fed outlook",
-      "summary": "Gold (XAU/USD) climbs to a two-week high on Wednesday as bargain hunters step in near the $4,000 mark, while traders weigh Middle East risks and the Federal Reserve’s (Fed) monetary policy outlook.",
-      "link": "https://www.fxstreet.com/news/gold-hits-two-week-high-as-traders-weigh-middle-east-risks-fed-outlook-202607221146",
-      "published": "2026-07-22T11:46:32+00:00",
-      "score": 4
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Have you ever traded Gold (XAU/USD) and ended up losing money?",
@@ -388,15 +262,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v3b3z7/have_you_ever_traded_gold_xauusd_and_ended_up/",
       "published": "2026-07-22T09:29:40+00:00",
       "score": 4
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. S&P 500 E-MINI FUTURES DOWN 0.4%, NASDAQ 100 FUTURES DOWN 0.9%, DOW FUTURES DOWN 0.3%",
-      "summary": "<p>U.S. S&amp;P 500 E-MINI FUTURES DOWN 0.4%, NASDAQ 100 FUTURES DOWN 0.9%, DOW FUTURES DOWN 0.3%</p>",
-      "link": "https://nitter.net/DeItaone/status/2079839158034448763#m",
-      "published": "2026-07-22T08:01:11+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -426,24 +291,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ESCALATES GENERIC DRUG TARIFFS Trump announced that generic drug imports will face a 0% tariff from 1 August 2026 for two years, rising to 100% for one year and 200% thereafter. The measure aims to reshore generic pharmaceutical manufacturing to the U.S., while existing policies on patented and branded drugs remain unchanged.",
-      "summary": "<p>TRUMP ESCALATES GENERIC DRUG TARIFFS<br />\n<br />\nTrump announced that generic drug imports will face a 0% tariff from 1 August 2026 for two years, rising to 100% for one year and 200% thereafter.<br />\n<br />\nThe measure aims to reshore generic pharmaceutical manufacturing to the U.S., while existing policies on patented and branded drugs remain unchanged.</p>",
-      "link": "https://nitter.net/DeItaone/status/2079709091514220796#m",
-      "published": "2026-07-21T23:24:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP TO SET 100% TARIFF ON GENERIC DRUGS FROM AUGUST 2028",
-      "summary": "<p>*TRUMP TO SET 100% TARIFF ON GENERIC DRUGS FROM AUGUST 2028</p>",
-      "link": "https://nitter.net/DeItaone/status/2079708802127900907#m",
-      "published": "2026-07-21T23:23:12+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says he will be imposing a 100% tariff on generic drugs being brought into the US beginning August 2028. This tariff will increase to 200% beginning in August 2029.",
@@ -459,15 +306,6 @@
       "summary": "<p>Bearish bets on US stocks are surging:<br />\n<br />\nShort interest in the S&amp;P 500 is up to ~3.7% of its free float, near the highest in data going back to 2010.<br />\n<br />\nShort interest in the Russell 3000 is up to ~6.1%, also near an all-time high.<br />\n<br />\nBoth metrics have steadily increased since the start of 2025.<br />\n<br />\nFurthermore, short interest across all NYSE-listed s",
       "link": "https://nitter.net/KobeissiLetter/status/2079669740805460041#m",
       "published": "2026-07-21T20:47:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump announces that the US will now allow ALL airline carriers to fly directly to Lebanon after his meeting with Lebanon’s President Aoun.",
-      "summary": "<p>BREAKING: President Trump announces that the US will now allow ALL airline carriers to fly directly to Lebanon after his meeting with Lebanon’s President Aoun.</p>\n<img src=\"https://nitter.net/pic/media%2FHNxna2zXQAAGLVj.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2079651017658966379#m",
-      "published": "2026-07-21T19:33:35+00:00",
       "score": 1
     },
     {
