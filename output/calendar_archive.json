@@ -1736,6 +1736,14 @@
     "previous": "5.1%"
   },
   {
+    "title": "Credit Card Spending y/y",
+    "country": "NZD",
+    "date": "2026-07-21T23:03:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "5.1%"
+  },
+  {
     "title": "CPI y/y",
     "country": "GBP",
     "date": "2026-07-22T02:00:00-04:00",
@@ -1798,6 +1806,14 @@
     "impact": "Low",
     "forecast": "-2.0M",
     "previous": "-1.7M"
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "date": "2026-07-22T15:00:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "Employment Change",
