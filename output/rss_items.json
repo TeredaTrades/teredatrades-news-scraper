@@ -1,7 +1,133 @@
 {
-  "updated_at": "2026-07-22T03:48:36.429898+00:00",
-  "count": 74,
+  "updated_at": "2026-07-22T06:30:54.703481+00:00",
+  "count": 72,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Breaking: United Kingdom CPI inflation declines to 2.6% YoY in June vs. 2.7% forecast",
+      "summary": "The United Kingdom (UK) headline Consumer Price Index (CPI) rose 2.6% over the year in June, compared to a rise of 2.8% in May, the data released by the Office for National Statistics (ONS) showed on Wednesday.",
+      "link": "https://www.fxstreet.com/news/uk-cpi-set-to-show-receding-inflation-in-june-as-gbp-usd-fails-at-may-highs-202607220200",
+      "published": "2026-07-22T06:05:14+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: UK Core CPI MoM Actual 0.3% (Forecast -, Previous 0.3%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9688292/UK-Core-CPI-MoM-Actual-03-Forecast---Previous-03.aspx?xy=rss",
+      "published": "2026-07-22T06:00:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: UK CPI YoY Actual 2.6% (Forecast 2.7%, Previous 2.8%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9688288/UK-CPI-YoY-Actual-26-Forecast-27-Previous-28.aspx?xy=rss",
+      "published": "2026-07-22T06:00:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: UK CPI MoM Actual 0.1% (Forecast 0.1%, Previous 0.2%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9688286/UK-CPI-MoM-Actual-01-Forecast-01-Previous-02.aspx?xy=rss",
+      "published": "2026-07-22T06:00:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: UK Services CPI YoY Actual 3.6% (Forecast 3.5%, Previous 3.7%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9688284/UK-Services-CPI-YoY-Actual-36-Forecast-35-Previous-37.aspx?xy=rss",
+      "published": "2026-07-22T06:00:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: UK Core CPI YoY Actual 2.6% (Forecast 2.5%, Previous 2.6%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9688283/UK-Core-CPI-YoY-Actual-26-Forecast-25-Previous-26.aspx?xy=rss",
+      "published": "2026-07-22T06:00:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee resumes decline as oil prices rise further",
+      "summary": "The Indian Rupee (INR) opens lower against the US Dollar (USD) on Wednesday after a slight relief the previous day. The USD/INR pair rises to near 96.45 as a fresh surge in oil prices due to intensifying fears of further global energy supply disruptions has weakened the Indian currency.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-resumes-decline-as-oil-prices-rise-further-202607220544",
+      "published": "2026-07-22T05:44:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah inches lower ahead of BI policy decision",
+      "summary": "USD/IDR inches higher after six days of gains, trading around 17,960 during the Asian hours on Wednesday. The pair appreciates as the Indonesian Rupiah (IDR) struggles ahead of Bank Indonesia’s (BI) upcoming policy decision due later in the day.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-inches-lower-ahead-of-bi-policy-decision-202607220526",
+      "published": "2026-07-22T05:26:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc weakens as risk aversion support US Dollar",
+      "summary": "USD/CHF continues its winning streak for the third successive day, trading around 0.8130 during the Asian hours on Wednesday. The pair appreciates as the US Dollar (USD) receives support from growing risk aversion tied to escalating geopolitical tensions between the United States and Iran.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-risk-aversion-support-us-dollar-202607220501",
+      "published": "2026-07-22T05:01:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold sticks to gains near two-week high as hopes for US-Iran diplomacy cap USD",
+      "summary": "Gold (XAU/USD) retains a short-term bullish bias through the Asian session and currently trades just below a two-week high, touched earlier this Wednesday.",
+      "link": "https://www.fxstreet.com/news/gold-rallies-to-over-two-week-high-eyes-4-150-as-traders-track-us-iran-diplomacy-efforts-202607220340",
+      "published": "2026-07-22T05:00:31+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Consolidates near 0.7000 as bulls await 38.2% Fibo. breakout",
+      "summary": "The AUD/USD pair struggles to capitalize on a modest Asian session uptick and extends its sideways consolidative price move around the 0.7000 psychological mark on Wednesday.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-consolidates-near-07000-as-bulls-await-382-fibo-breakout-202607220453",
+      "published": "2026-07-22T04:53:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Wednesday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202607220436",
+      "published": "2026-07-22T04:36:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "GBPUSD Analysis",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v35mip/gbpusd_analysis/\"> <img alt=\"GBPUSD Analysis\" src=\"https://preview.redd.it/d0i4d3x7lpeh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a52a539d743b6035fd90a3174d6edd5a0025af32\" title=\"GBPUSD Analysis\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>GBPUSD going down what's your views about it please share?</p> </div><",
+      "link": "https://www.reddit.com/r/Forex/comments/1v35mip/gbpusd_analysis/",
+      "published": "2026-07-22T04:29:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound bounces off one-week low vs USD amid Iran diplomacy hopes, ahead of UK CPI",
+      "summary": "The GBP/USD pair edges higher during the Asian session on Wednesday, snapping a four-day losing streak to the 1.3360 area, or a one-week low, touched the previous day.",
+      "link": "https://www.fxstreet.com/news/british-pound-bounces-off-one-week-low-vs-usd-amid-iran-diplomacy-hopes-ahead-of-uk-cpi-202607220415",
+      "published": "2026-07-22T04:15:09+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -12,15 +138,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China finance ministry offers 10-year bonds at 1.7147% yield: traders",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688160/China-finance-ministry-offers-10-year-bonds-at-17147-yield-traders.aspx?xy=rss",
-      "published": "2026-07-22T03:39:34+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "A Babaganz Take on Trading - Week 4: Understanding Candlestick Pattern: Part 1",
@@ -28,15 +145,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v34a88/a_babaganz_take_on_trading_week_4_understanding/",
       "published": "2026-07-22T03:24:07+00:00",
       "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump-backed Jay Feely triumphs in GOP primary in Arizona's 1st district: Politico",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688145/Trump-backed-Jay-Feely-triumphs-in-GOP-primary-in-Arizonas-1st-district-Politico.aspx?xy=rss",
-      "published": "2026-07-22T03:18:30+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -64,42 +172,6 @@
       "link": "https://www.fxstreet.com/news/us-president-donald-trump-approves-us-saudi-arabia-nuclear-deal-202607220229",
       "published": "2026-07-22T02:29:36+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US House approves temporary funding bill to support federal agencies through November elections",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688099/US-House-approves-temporary-funding-bill-to-support-federal-agencies-through-November-elections.aspx?xy=rss",
-      "published": "2026-07-22T02:11:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: New urban jobs created in first half this year: China’s Ministry of Human Resources - Xinhua",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688098/New-urban-jobs-created-in-first-half-this-year-Chinas-Ministry-of-Human-Resources---Xinhua.aspx?xy=rss",
-      "published": "2026-07-22T02:06:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China: 6.95 million new urban jobs created nationwide - Xinhua",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688097/China-695-million-new-urban-jobs-created-nationwide---Xinhua.aspx?xy=rss",
-      "published": "2026-07-22T02:05:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "UK CPI set to show receding inflation in June as GBP/USD fails at May highs",
-      "summary": "The UK Office for National Statistics (ONS) will release the June Consumer Price Index (CPI) figures on Wednesday at 06:00 GMT, a print that will matter for markets. Consensus expectations point to inflation pressures still above the Bank of England’s (BoE) target, although losing further momentum.",
-      "link": "https://www.fxstreet.com/news/uk-cpi-set-to-show-receding-inflation-in-june-as-gbp-usd-fails-at-may-highs-202607220200",
-      "published": "2026-07-22T02:00:00+00:00",
-      "score": 3
     },
     {
       "source": "FXStreet",
@@ -138,69 +210,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7933 vs. 6.7917 previous",
-      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7933 compared to the previous day's fix of 6.7917 and 6.7737 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67933-vs-67917-previous-202607220115",
-      "published": "2026-07-22T01:15:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Taiwan’s Wistron: It will also produce Nvidia’s Vera Rubin superchip at Texas facility",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687977/Taiwans-Wistron-It-will-also-produce-Nvidias-Vera-Rubin-superchip-at-Texas-facility.aspx?xy=rss",
-      "published": "2026-07-22T01:10:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Taiwan’s Wistron opens Texas facility to produce Nvidia’s first Grace Blackwell ultra superchip in U.S.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687976/Taiwans-Wistron-opens-Texas-facility-to-produce-Nvidias-first-Grace-Blackwell-ultra-superchip-in-US.aspx?xy=rss",
-      "published": "2026-07-22T01:10:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen bears turn cautious near four-decade low amid looming intervention risks",
-      "summary": "The USD/JPY enters a bullish consolidation phase during the Asian session on Wednesday and holds steady above the 163.00 mark, near its highest level since 1986 set the previous day.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-bears-turn-cautious-near-four-decade-low-amid-looming-intervention-risks-202607220109",
-      "published": "2026-07-22T01:09:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump administration to provide Congress agreement on Saudi nuclear power lacking safeguards, sources say",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687975/Trump-administration-to-provide-Congress-agreement-on-Saudi-nuclear-power-lacking-safeguards-sources-say.aspx?xy=rss",
-      "published": "2026-07-22T01:08:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump approves historic nuclear agreement with Saudi Arabia - WSJ",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687956/Trump-approves-historic-nuclear-agreement-with-Saudi-Arabia---WSJ.aspx?xy=rss",
-      "published": "2026-07-22T00:55:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro holds gains above 1.1400 on hawkish ECB expectations despite US-Iran tensions",
-      "summary": "The EUR/USD pair trades with mild gains around 1.1405 during the early Asian session on Wednesday. A hawkish tone from the European Central Bank (ECB) provides some support to the Euro (EUR) against the US Dollar (USD). Traders await the upcoming ECB interest rate decision on Thursday.",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11400-on-hawkish-ecb-expectations-despite-us-iran-tensions-202607220030",
-      "published": "2026-07-22T00:30:48+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "TRUMP ESCALATES GENERIC DRUG TARIFFS Trump announced that generic drug imports will face a 0% tariff from 1 August 2026 for two years, rising to 100% for one year and 200% thereafter. The measure aims to reshore generic pharmaceutical manufacturing to the U.S., while existing policies on patented and branded drugs remain unchanged.",
@@ -225,24 +234,6 @@
       "summary": "<p>BREAKING: President Trump says he will be imposing a 100% tariff on generic drugs being brought into the US beginning August 2028.<br />\n<br />\nThis tariff will increase to 200% beginning in August 2029.</p>\n<img src=\"https://nitter.net/pic/media%2FHNybvqeXgAAe_2r.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2079708375701459367#m",
       "published": "2026-07-21T23:21:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold rebounds above $4,050 as safe-haven demand intensified on persistent US‑Iran tensions",
-      "summary": "Gold price (XAU/USD) gains ground to around $4,080 during the early Asian session on Wednesday. The precious metal rebounds as safe-haven demand intensified globally after retreating to the $4,000 psychological level in the previous session.",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-050-as-safe-haven-demand-intensified-on-persistent-us-iran-tensions-202607212318",
-      "published": "2026-07-21T23:18:11+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound Sterling gets a decent jobs report and sells off anyway",
-      "summary": "The British Pound received a labour market report on Tuesday that beat consensus on nearly every line, and sold off anyway.",
-      "link": "https://www.fxstreet.com/news/british-pound-sterling-gets-a-decent-jobs-report-and-sells-off-anyway-202607212300",
-      "published": "2026-07-21T23:00:43+00:00",
       "score": 1
     },
     {
@@ -505,15 +496,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v18i1l/bought_the_recovery_sold_the_invitation_xauusd_5m/",
       "published": "2026-07-20T02:03:45+00:00",
       "score": 4
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Fundingpips terminated my funded account",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just want to share that fundingpips recently terminated my funded account : &quot;Shared CID&quot; &quot;Our review has determined that the Device ID associated with your account matches the Device ID of another registered user on our platform&quot; </p> <p>I swear to God I only trade on one device, and they cannot even provide proof and tell who is this another &",
-      "link": "https://www.reddit.com/r/Forex/comments/1v0qdpy/fundingpips_terminated_my_funded_account/",
-      "published": "2026-07-19T13:17:31+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
