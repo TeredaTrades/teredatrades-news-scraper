@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-07-22T09:15:50.649540+00:00",
-  "count": 77,
+  "updated_at": "2026-07-22T11:30:03.890953+00:00",
+  "count": 42,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Heavy trade as BoE seen adjusting – BBH",
+      "summary": "Brown Brothers Harriman’s Elias Haddad notes the British Pound (GBP) remains heavy versus the US Dollar (USD) and Euro (EUR) after a mixed United Kingdom (UK) June Consumer Price Index (CPI) report, with headline inflation cooling but core and services measures still sticky.",
+      "link": "https://www.fxstreet.com/news/british-pound-heavy-trade-as-boe-seen-adjusting-bbh-202607221120",
+      "published": "2026-07-22T11:20:43+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price edges higher as geopolitical tensions offset inflation concerns",
+      "summary": "Silver (XAG/USD) trades around $59.35 at the time of writing on Wednesday, up 0.94% on the day, as persistent safe-haven demand offsets the negative impact of rising inflation expectations.",
+      "link": "https://www.fxstreet.com/news/silver-price-edges-higher-as-geopolitical-tensions-offset-inflation-concerns-202607221117",
+      "published": "2026-07-22T11:17:37+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Drifting toward ECB test – ING",
+      "summary": "Chris Turner at ING notes EUR/USD has held up relatively well despite energy price gains and wider natural gas prices.",
+      "link": "https://www.fxstreet.com/news/euro-drifting-toward-ecb-test-ing-202607221106",
+      "published": "2026-07-22T11:06:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "World Bank warns of risks of global slowdown, renewed inflation",
+      "summary": "The World Bank warned that the global economy is only \"a few months\" away from a worst-case scenario in which global growth slows to 1.3% while inflation rises to 4.5%, according to comments by Chief Economist Indermit Gill reported by Reuters.",
+      "link": "https://www.fxstreet.com/news/world-bank-warns-of-risks-of-global-slowdown-renewed-inflation-202607221024",
+      "published": "2026-07-22T10:24:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: German 15 Yr Bund Yield Actual 3.46% (Forecast -, Previous 3.3%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9688637/German-15-Yr-Bund-Yield-Actual-346-Forecast---Previous-33.aspx?xy=rss",
+      "published": "2026-07-22T09:38:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold Price Forecast: XAU/USD holds gains above $4,100 undaunted by risk-off markets",
+      "summary": "Gold (XAU/USD) extends gains for the fourth consecutive day on Wednesday, standing comfortably above $4,100, unfazed by the risk-off market amid rising tensions in Iran and higher Oil prices.",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-gains-above-4-100-undaunted-by-risk-off-markets-202607220937",
+      "published": "2026-07-22T09:37:25+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Technical outlook weakens against US Dollar – Societe Generale",
+      "summary": "Societe Generale analysts highlight USD/JPY trading in breakout territory above 163 for the first time in nearly four decades, with support around 162.20 and resistance near 164.40.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-technical-outlook-weakens-against-us-dollar-societe-generale-202607220936",
+      "published": "2026-07-22T09:36:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc edges higher as US-Iran tensions, higher Swiss yields sustain support",
+      "summary": "USD/CHF trades around 0.8120 at the time of writing on Wednesday, down a modest 0.09% on the day, but remains supported by a strong risk-off environment that favors the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/swiss-franc-edges-higher-as-us-iran-tensions-higher-swiss-yields-sustain-support-202607220935",
+      "published": "2026-07-22T09:35:31+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "UK inflation cools and fiscal concerns grow: Why the British Pound is surrendering recent gains",
+      "summary": "The British Pound (GBP) is facing renewed downward pressure across major currency pairs, forfeiting its recent gains as market participants digest a combination of cooling domestic inflation and growing fiscal uncertainty surrounding Prime Minister Andy Burnham’s economic agenda.",
+      "link": "https://www.fxstreet.com/news/uk-inflation-cools-and-fiscal-concerns-grow-why-the-british-pound-is-surrendering-recent-gains-202607220930",
+      "published": "2026-07-22T09:30:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price today: Silver rises, according to FXStreet data",
+      "summary": "Silver prices (XAG/USD) rose on Wednesday, according to FXStreet data. Silver trades at $59.50 per troy ounce, up 1.19% from the $58.80 it cost on Tuesday.",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202607220930",
+      "published": "2026-07-22T09:30:30+00:00",
+      "score": 3
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Have you ever traded Gold (XAU/USD) and ended up losing money?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm curious about everyone's real experience.</p> <p>Many traders spend hours analyzing charts, following news, and waiting for the perfect setup—yet they still lose. Others seem to achieve more consistent results.</p> <p>So here's my question:</p> <p><strong>What works better in your experience?</strong></p> <p><strong>Option 1:</strong> Trading independently, re",
+      "link": "https://www.reddit.com/r/Forex/comments/1v3b3z7/have_you_ever_traded_gold_xauusd_and_ended_up/",
+      "published": "2026-07-22T09:29:40+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar weakens as global risk aversion overshadows hawkish RBNZ outlook",
+      "summary": "NZD/USD extends its losing streak for the fifth successive day, trading around 0.5810 during the European hours on Wednesday.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-global-risk-aversion-overshadows-hawkish-rbnz-outlook-202607220915",
+      "published": "2026-07-22T09:15:35+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -10,33 +118,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-sticks-to-post-uk-inflation-losses-as-faster-boj-rate-hike-bets-lift-jpy-202607220908",
       "published": "2026-07-22T09:08:00+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee resumes decline as oil prices extend rally",
-      "summary": "The Indian Rupee (INR) opens lower against the US Dollar (USD) on Wednesday after a slight relief the previous day. The USD/INR pair rises to near 96.53 as a fresh surge in oil prices due to intensifying fears of further global energy supply disruptions has weakened the Indian currency.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-resumes-decline-as-oil-prices-rise-further-202607220544",
-      "published": "2026-07-22T09:03:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING: The GBP - FJElite",
-      "summary": "<div>Despite the slightly higher-than-expected UK June core inflation data this morning, ING's UK economist, James Smith, thinks the underlying trend is heading in the right direction. Here is what he says:</div><div><br /></div><div>&quot;Firstly, headline inflation fell more than expected on a second-consecutive monthly fall in food prices. This basically never happened - and wasn’t what was sup",
-      "link": "https://www.financialjuice.com/News/9688546/ING-The-GBP---FJElite.aspx?xy=rss",
-      "published": "2026-07-22T08:59:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING: The EUR - FJElite",
-      "summary": "<div>EUR/USD has been performing relatively well despite the rebound in energy prices that has seen natural gas prices retesting the March highs of EUR60/MWh. Interest rate differentials have probably had a say here, with higher oil prices seeing investors price a more aggressive tightening response from the European Central Bank than the Federal Reserve. However, it is hard to see the market pric",
-      "link": "https://www.financialjuice.com/News/9688545/ING-The-EUR---FJElite.aspx?xy=rss",
-      "published": "2026-07-22T08:58:38+00:00",
-      "score": 3
     },
     {
       "source": "FXStreet",
@@ -66,183 +147,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Berenberg: UK Outlook - FJElite",
-      "summary": "<div><ul><li><strong>New shock, resilient growth:</strong> The Iran conflict upended some of our 2026 predictions for the UK economy. The jump in global energy prices due to the Iran war will keep CPI inflation elevated, at 3.1% this year, instead of dropping back to 2% as we predicted in January. Meanwhile, slowing pay growth and flat employment have not fed through to the major slowdown in consu",
-      "link": "https://www.financialjuice.com/News/9688536/Berenberg-UK-Outlook---FJElite.aspx?xy=rss",
-      "published": "2026-07-22T08:36:03+00:00",
-      "score": 6
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Credit Ágricole: Eurozone Inflation - FJElite",
-      "summary": "<div><ul><li> For 2028, we expect headline HICP at 1.94% YoY and core at 2.02% which is slightly below the ECB and below market fixings. Apart from the EU-ETS2 implementation (January 2028), we think second-round effects from the ongoing conflict in Iran would have totally faded by end-2028. There would however be huge disparities across countries in line with different GDP growth, labour market a",
-      "link": "https://www.financialjuice.com/News/9688535/Credit-%c3%81gricole-Eurozone-Inflation---FJElite.aspx?xy=rss",
-      "published": "2026-07-22T08:34:12+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro remains stuck near 1.1400 amid rising tensions in Iran, higher Oil prices",
-      "summary": "The Euro’s (EUR) modest upside attempt against the US Dollar (USD) witnessed during Wednesday’s Asian session has been short-lived. The EUR/USD pair was capped below 1.1420, before pulling back to levels a few pips above 1.1400 during the European trading session.",
-      "link": "https://www.fxstreet.com/news/euro-remains-stuck-near-11400-amid-rising-tensions-in-iran-higher-oil-prices-202607220829",
-      "published": "2026-07-22T08:29:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Weakness persists as BoJ hike talk grows – MUFG",
-      "summary": "MUFG’s Derek Halpenny highlights persistent Japanese Yen weakness as USD/JPY trades at levels last seen in 1986, with low volatility undermining the Ministry of Finance’s case for intervention. He notes limited contagion in Japanese bonds but rising inflation and political pressure.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakness-persists-as-boj-hike-talk-grows-mufg-202607220828",
-      "published": "2026-07-22T08:28:46+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen gains strongly on hopes of BoJ aggressive tightening cycle",
-      "summary": "The Japanese Yen (JPY) attracts significant bids against its major currency peers during the European trading session on Wednesday. The USD/JPY pair falls vertically to near 162.65, but quickly recovers some losses and rebounds to around 162.90.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gains-strongly-on-hopes-of-boj-aggressive-tightening-cycle-202607220822",
-      "published": "2026-07-22T08:22:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Norwegian Krone: Rate path hinges on inflation data – Commerzbank",
-      "summary": "Commerzbank’s Antje Praefcke highlights recent confusion in Norway after delayed core inflation data and an unexpected slowdown in both headline and core rates.",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-rate-path-hinges-on-inflation-data-commerzbank-202607220811",
-      "published": "2026-07-22T08:11:12+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones futures slip as traders adopt caution on US-Iran tensions",
-      "summary": "Dow Jones futures lose 0.30% to trade around 52,290 during European trading hours on Wednesday. Meanwhile, S&amp;P 500 futures and Nasdaq 100 futures decline 0.38% and 0.85%, trading near 7,520 and 29,070, respectively.",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-slip-as-traders-adopt-caution-on-us-iran-tensions-202607220811",
-      "published": "2026-07-22T08:11:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. S&P 500 E-MINI FUTURES DOWN 0.4%, NASDAQ 100 FUTURES DOWN 0.9%, DOW FUTURES DOWN 0.3%",
-      "summary": "<p>U.S. S&amp;P 500 E-MINI FUTURES DOWN 0.4%, NASDAQ 100 FUTURES DOWN 0.9%, DOW FUTURES DOWN 0.3%</p>",
-      "link": "https://nitter.net/DeItaone/status/2079839158034448763#m",
-      "published": "2026-07-22T08:01:11+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah weakens as BI holds rate at 5.75%",
-      "summary": "USD/IDR has recovered its daily losses, trading around 17,950 during the European hours on Wednesday. The pair appreciates as the Indonesian Rupiah (IDR) struggles after the Bank Indonesia (BI) decided to hold its benchmark rate steady at 5.75% in July.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-weakens-as-bi-holds-rate-at-575-202607220752",
-      "published": "2026-07-22T07:52:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "BoJ says open to faster rate hike pace as yen adds price risk – Bloomberg",
-      "summary": "According to a Bloomberg report, the Bank of Japan (BoJ) is widely seen holding interest rates steady at the July meeting.",
-      "link": "https://www.fxstreet.com/news/boj-says-open-to-faster-rate-hike-pace-as-yen-adds-price-risk-bloomberg-202607220748",
-      "published": "2026-07-22T07:48:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold ease from two-week top as energy-driven inflation fears bolster Fed hike bets",
-      "summary": "Gold (XAU/USD) retreats slightly from a two-week high touched earlier this Wednesday, albeit it retains an intraday bullish bias through the first half of the European session.",
-      "link": "https://www.fxstreet.com/news/gold-rallies-to-over-two-week-high-eyes-4-150-as-traders-track-us-iran-diplomacy-efforts-202607220340",
-      "published": "2026-07-22T07:46:42+00:00",
-      "score": 5
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China tells all market participants not to re-discount bills at rates below 0.5% - Sources.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688445/China-tells-all-market-participants-not-to-re-discount-bills-at-rates-below-05---Sources.aspx?xy=rss",
-      "published": "2026-07-22T07:41:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Inflation trend supports softer Sterling – ING",
-      "summary": "ING’s Chris Turner relays UK economist James Smith’s view that underlying United Kingdom (UK) inflation is moving in the right direction despite slightly higher core data. Falling food and petrol prices and softer core services inflation suggest domestically generated inflation is benign.",
-      "link": "https://www.fxstreet.com/news/british-pound-inflation-trend-supports-softer-sterling-ing-202607220736",
-      "published": "2026-07-22T07:36:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoJ officials see recent Yen weakness as upside inflation risk",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688426/BoJ-officials-see-recent-Yen-weakness-as-upside-inflation-risk.aspx?xy=rss",
-      "published": "2026-07-22T07:30:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoJ widely seen holding interest rates in July after June hike.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688425/BoJ-widely-seen-holding-interest-rates-in-July-after-June-hike.aspx?xy=rss",
-      "published": "2026-07-22T07:30:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoJ is said to be close to the stage of anchoring, not spurring inflation",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688424/BoJ-is-said-to-be-close-to-the-stage-of-anchoring-not-spurring-inflation.aspx?xy=rss",
-      "published": "2026-07-22T07:30:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoJ is said open to raising rates faster than every six months.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688098/BoJ-is-said-open-to-raising-rates-faster-than-every-six-months.aspx?xy=rss",
-      "published": "2026-07-22T07:30:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar receives support from higher oil prices",
-      "summary": "USD/CAD declines after to days of gains, trading around 1.4100 during the early European hours on Wednesday. The pair loses ground as the commodity-linked Canadian Dollar (CAD) receives support from higher oil prices.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-receives-support-from-higher-oil-prices-202607220728",
-      "published": "2026-07-22T07:28:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Currency Strength Chart: Strongest: EUR, JPY, CAD, CHF, GBP, USD, AUD, NZD - Weakest",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688391/Currency-Strength-Chart-Strongest-EUR-JPY-CAD-CHF-GBP-USD-AUD-NZD---Weakest.aspx?xy=rss",
-      "published": "2026-07-22T07:01:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: UK Core CPI MoM Actual 0.3% (Forecast -, Previous 0.3%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688292/UK-Core-CPI-MoM-Actual-03-Forecast---Previous-03.aspx?xy=rss",
-      "published": "2026-07-22T06:00:44+00:00",
+      "title": "Indian Rupee falls back as oil prices rally further",
+      "summary": "The Indian Rupee (INR) opens lower against the US Dollar (USD) on Wednesday after a slight relief the previous day. The USD/INR pair rises to near 96.53 as a fresh surge in oil prices due to intensifying fears of further global energy supply disruptions has weakened the Indian currency.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-resumes-decline-as-oil-prices-rise-further-202607220544",
+      "published": "2026-07-22T05:44:15+00:00",
       "score": 1
     },
     {
@@ -264,195 +174,6 @@
       "score": 4
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "China's rare-earth exports to the US remain critically low: China's monthly exports of rare-earth magnets to the US averaged 479 tons in H1 2026, on track for the lowest annual monthly average since 2021. By comparison, exports averaged 586 tons between 2022 and 2024, ~22% higher than the current rate. These components are critical to industries spanning electric vehicles, industrial automation, and defense, making secure access to them a key priority for US manufacturers. This comes despite October's truce between President Trump and President Xi, in which China pledged to keep rare-earth magnets flowing as a key part of pausing the trade war. China remains the dominant force in the industry, controlling over 90% of global rare-earth magnet production. Key shipments of rare-earth magnets from China are constrained.",
-      "summary": "<p>China's rare-earth exports to the US remain critically low:<br />\n<br />\nChina's monthly exports of rare-earth magnets to the US averaged 479 tons in H1 2026, on track for the lowest annual monthly average since 2021.<br />\n<br />\nBy comparison, exports averaged 586 tons between 2022 and 2024, ~22% higher than the current rate.<br />\n<br />\nThese components are critical to industries spanning e",
-      "link": "https://nitter.net/KobeissiLetter/status/2079746249067245824#m",
-      "published": "2026-07-22T01:52:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ESCALATES GENERIC DRUG TARIFFS Trump announced that generic drug imports will face a 0% tariff from 1 August 2026 for two years, rising to 100% for one year and 200% thereafter. The measure aims to reshore generic pharmaceutical manufacturing to the U.S., while existing policies on patented and branded drugs remain unchanged.",
-      "summary": "<p>TRUMP ESCALATES GENERIC DRUG TARIFFS<br />\n<br />\nTrump announced that generic drug imports will face a 0% tariff from 1 August 2026 for two years, rising to 100% for one year and 200% thereafter.<br />\n<br />\nThe measure aims to reshore generic pharmaceutical manufacturing to the U.S., while existing policies on patented and branded drugs remain unchanged.</p>",
-      "link": "https://nitter.net/DeItaone/status/2079709091514220796#m",
-      "published": "2026-07-21T23:24:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP TO SET 100% TARIFF ON GENERIC DRUGS FROM AUGUST 2028",
-      "summary": "<p>*TRUMP TO SET 100% TARIFF ON GENERIC DRUGS FROM AUGUST 2028</p>",
-      "link": "https://nitter.net/DeItaone/status/2079708802127900907#m",
-      "published": "2026-07-21T23:23:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump says he will be imposing a 100% tariff on generic drugs being brought into the US beginning August 2028. This tariff will increase to 200% beginning in August 2029.",
-      "summary": "<p>BREAKING: President Trump says he will be imposing a 100% tariff on generic drugs being brought into the US beginning August 2028.<br />\n<br />\nThis tariff will increase to 200% beginning in August 2029.</p>\n<img src=\"https://nitter.net/pic/media%2FHNybvqeXgAAe_2r.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2079708375701459367#m",
-      "published": "2026-07-21T23:21:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Bearish bets on US stocks are surging: Short interest in the S&P 500 is up to ~3.7% of its free float, near the highest in data going back to 2010. Short interest in the Russell 3000 is up to ~6.1%, also near an all-time high. Both metrics have steadily increased since the start of 2025. Furthermore, short interest across all NYSE-listed stocks rose to a record 9.0% of shares outstanding in late June. By comparison, this metric peaked at ~5.0% during the 2008 Financial Crisis and ~6.0% during the 2020 pandemic. Conditions for a short-squeeze are rising.",
-      "summary": "<p>Bearish bets on US stocks are surging:<br />\n<br />\nShort interest in the S&amp;P 500 is up to ~3.7% of its free float, near the highest in data going back to 2010.<br />\n<br />\nShort interest in the Russell 3000 is up to ~6.1%, also near an all-time high.<br />\n<br />\nBoth metrics have steadily increased since the start of 2025.<br />\n<br />\nFurthermore, short interest across all NYSE-listed s",
-      "link": "https://nitter.net/KobeissiLetter/status/2079669740805460041#m",
-      "published": "2026-07-21T20:47:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump announces that the US will now allow ALL airline carriers to fly directly to Lebanon after his meeting with Lebanon’s President Aoun.",
-      "summary": "<p>BREAKING: President Trump announces that the US will now allow ALL airline carriers to fly directly to Lebanon after his meeting with Lebanon’s President Aoun.</p>\n<img src=\"https://nitter.net/pic/media%2FHNxna2zXQAAGLVj.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2079651017658966379#m",
-      "published": "2026-07-21T19:33:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "There it is: The 10Y Note Yield has officially erased all of its losses since the \"Memorandum of Understanding\" was signed. This puts the 10Y Note Yield up to 4.63%, near its highest level since January 2025. 7% mortgage rates in the US are on their way.",
-      "summary": "<p>There it is:<br />\n<br />\nThe 10Y Note Yield has officially erased all of its losses since the \"Memorandum of Understanding\" was signed.<br />\n<br />\nThis puts the 10Y Note Yield up to 4.63%, near its highest level since January 2025.<br />\n<br />\n7% mortgage rates in the US are on their way.</p>\n<img src=\"https://nitter.net/pic/media%2FHNxmvC4X0AAt5FM.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2079650239279935862#m",
-      "published": "2026-07-21T19:30:29+00:00",
-      "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The AI boom is transforming one of the biggest deflationary forces into a key source of US inflation: Import prices for computer and electronic products surged +7.4% in the first 6 months of 2026, to 77.1 points, the highest since January 2016. This also marks a +8.0% YoY jump, the largest annual increase on record. This represents a historic reversal from a downtrend which persisted for over two decades. Between 2006 and 2019, computer and electronic product import prices fell -30%, as improving technology and manufacturing efficiency consistently pushed costs lower. Now, the AI investment boom is straining manufacturing capacity for semiconductors, servers, and electronic components, as companies race to build out AI infrastructure regardless of cost. The AI revolution has flipped technology from a long-term source of deflation into a major driver of inflation.",
-      "summary": "<p>The AI boom is transforming one of the biggest deflationary forces into a key source of US inflation:<br />\n<br />\nImport prices for computer and electronic products surged +7.4% in the first 6 months of 2026, to 77.1 points, the highest since January 2016.<br />\n<br />\nThis also marks a +8.0% YoY jump, the largest annual increase on record.<br />\n<br />\nThis represents a historic reversal from",
-      "link": "https://nitter.net/KobeissiLetter/status/2079622661374640270#m",
-      "published": "2026-07-21T17:40:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. STRIKE THREAT RAISES HORMUZ RISKS Kalshi prediction markets suggest traders expect disruptions in the Strait of Hormuz to persist well into 2027, with only a 31% chance of shipping returning to normal before December 2026. President Donald Trump said the U.S. will target the Pickaxe Mountain area near Iran’s Natanz nuclear facility “pretty soon.” The deeply fortified site is linked to Iran’s nuclear program, raising the prospect of another escalation with potential implications for global energy markets. https://kalshi.com/markets/kxhormuznorm/when-will-traffic-at-the-strait-of-hormuz-return-to-normal/kxhormuznorm-26mar17",
-      "summary": "<p>U.S. STRIKE THREAT RAISES HORMUZ RISKS<br />\n<br />\nKalshi prediction markets suggest traders expect disruptions in the Strait of Hormuz to persist well into 2027, with only a 31% chance of shipping returning to normal before December 2026.<br />\n<br />\nPresident Donald Trump said the U.S. will target the Pickaxe Mountain area near Iran’s Natanz nuclear facility “pretty soon.” The deeply fortif",
-      "link": "https://nitter.net/DeItaone/status/2079598809001202174#m",
-      "published": "2026-07-21T16:06:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: WILL BE HITTING PICKAXE MOUNTAIN AREA PRETTY SOON",
-      "summary": "<p>TRUMP: WILL BE HITTING PICKAXE MOUNTAIN AREA PRETTY SOON</p>",
-      "link": "https://nitter.net/DeItaone/status/2079592476713611264#m",
-      "published": "2026-07-21T15:40:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP: IRAN HAS VERY EVIL PEOPLE LEADING THAT COUNTRY",
-      "summary": "<p>*TRUMP: IRAN HAS VERY EVIL PEOPLE LEADING THAT COUNTRY</p>",
-      "link": "https://nitter.net/DeItaone/status/2079592391049105871#m",
-      "published": "2026-07-21T15:40:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP ON IRAN: WILL BE HITTING SOON, VERY HEAVILY",
-      "summary": "<p>*TRUMP ON IRAN: WILL BE HITTING SOON, VERY HEAVILY</p>",
-      "link": "https://nitter.net/DeItaone/status/2079592337785643199#m",
-      "published": "2026-07-21T15:40:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP: IRAN HASN'T SEEN ANYTHING YET, WE'VE BEEN NICE",
-      "summary": "<p>*TRUMP: IRAN HASN'T SEEN ANYTHING YET, WE'VE BEEN NICE</p>",
-      "link": "https://nitter.net/DeItaone/status/2079592194013380690#m",
-      "published": "2026-07-21T15:39:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: IRAN HASN'T SEEN ANYTHING YET",
-      "summary": "<p>TRUMP: IRAN HASN'T SEEN ANYTHING YET</p>",
-      "link": "https://nitter.net/DeItaone/status/2079592145485287440#m",
-      "published": "2026-07-21T15:39:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: We will target any Iranian facility where nuclear weapons are manufactured",
-      "summary": "<p>Trump: We will target any Iranian facility where nuclear weapons are manufactured</p>",
-      "link": "https://nitter.net/DeItaone/status/2079591813279563883#m",
-      "published": "2026-07-21T15:38:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP: IRAN PROBABLY TRYING TO IMPACT ELECTIONS WITH HORMUZ",
-      "summary": "<p>*TRUMP: IRAN PROBABLY TRYING TO IMPACT ELECTIONS WITH HORMUZ</p>",
-      "link": "https://nitter.net/DeItaone/status/2079591544550457504#m",
-      "published": "2026-07-21T15:37:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: Rebuilding Iran will take from 20 to 25 years",
-      "summary": "<p>Trump: Rebuilding Iran will take from 20 to 25 years</p>",
-      "link": "https://nitter.net/DeItaone/status/2079591137556287968#m",
-      "published": "2026-07-21T15:35:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: CANADA TARIFFS NOT IN RESPONSE TO WILDFIRES",
-      "summary": "<p>TRUMP: CANADA TARIFFS NOT IN RESPONSE TO WILDFIRES</p>",
-      "link": "https://nitter.net/DeItaone/status/2079591071265218807#m",
-      "published": "2026-07-21T15:35:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP: WE'RE NOT FINISHED AT ALL WITH IRAN",
-      "summary": "<p>*TRUMP: WE'RE NOT FINISHED AT ALL WITH IRAN</p>",
-      "link": "https://nitter.net/DeItaone/status/2079590238255542591#m",
-      "published": "2026-07-21T15:32:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: US oil prices surge to $85/barrel after Iran says it has struck an Amazon datacenter in Bahrain and water desalination plants in Kuwait in response to US strikes.",
-      "summary": "<p>BREAKING: US oil prices surge to $85/barrel after Iran says it has struck an Amazon datacenter in Bahrain and water desalination plants in Kuwait in response to US strikes.</p>\n<img src=\"https://nitter.net/pic/media%2FHNwY_dRWMAAuLvM.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2079564611838226519#m",
-      "published": "2026-07-21T13:50:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump is preparing to announce 10% tariffs on \"dozens of countries\" this week, per FT. Details include: 1. These new tariffs come as President Trump's current 10% tariffs expire later this week 2. President Trump's advisors have reportedly warned him against doing so 3. Advisors are reportedly worried about risking the economic shocks of the original trade war ahead of the midterm elections 4. The Trump Admin is also working on other investigations that could grant it the legal authority to propose higher tariffs More tariffs are on the way.",
-      "summary": "<p>BREAKING: President Trump is preparing to announce 10% tariffs on \"dozens of countries\" this week, per FT.<br />\n<br />\nDetails include:<br />\n<br />\n1. These new tariffs come as President Trump's current 10% tariffs expire later this week<br />\n<br />\n2. President Trump's advisors have reportedly warned him against doing so<br />\n<br />\n3. Advisors are reportedly worried about risking the econ",
-      "link": "https://nitter.net/KobeissiLetter/status/2079549452352647454#m",
-      "published": "2026-07-21T12:50:00+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "I Left Money on the Table… and I’d Do It Again.",
@@ -469,15 +190,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v2h40x/ftmo_eval_counted_loss_in_a_winning_trade/",
       "published": "2026-07-21T12:32:24+00:00",
       "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Iran says it has struck an Amazon, $AMZN, datacenter in Bahrain in retaliation for a US attack on Iran's Darkhovin nuclear project. Iran also says it targeted a US Military base in Jordan, claiming to have destroyed an F-15 fighter jet and missile defense radar system.",
-      "summary": "<p>BREAKING: Iran says it has struck an Amazon, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>, datacenter in Bahrain in retaliation for a US attack on Iran's Darkhovin nuclear project.<br />\n<br />\nIran also says it targeted a US Military base in Jordan, claiming to have destroyed an F-15 fighter jet and missile defense radar system.</p>",
-      "link": "https://nitter.net/KobeissiLetter/status/2079541147819446310#m",
-      "published": "2026-07-21T12:17:00+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -498,24 +210,6 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "US corporations have never had more foreign exposure: The proportion of S&P 500 revenue generated abroad is up to a record ~42%. This surpasses the previous peak of ~40% in 2015 and ~39% posted during the 2000 Dot-Com Bubble. This comes despite the unprecedented surge in domestic AI investment, which was expected to make corporate revenue more concentrated in the US. Technology companies are behind most of the surge, with foreign markets now accounting for over 50% of the sector's revenue. Furthermore, the communication services sector generates ~47% of its revenue abroad, up from less than 40% before the 2020 pandemic. The global economy is more connected than ever.",
-      "summary": "<p>US corporations have never had more foreign exposure:<br />\n<br />\nThe proportion of S&amp;P 500 revenue generated abroad is up to a record ~42%.<br />\n<br />\nThis surpasses the previous peak of ~40% in 2015 and ~39% posted during the 2000 Dot-Com Bubble.<br />\n<br />\nThis comes despite the unprecedented surge in domestic AI investment, which was expected to make corporate revenue more concentr",
-      "link": "https://nitter.net/KobeissiLetter/status/2079379331395342755#m",
-      "published": "2026-07-21T01:34:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The South Korean and US AI trades are becoming increasingly synchronized: The 60-day correlation between the KOSPI and Nasdaq 100 index is up to +0.46, the highest since July 2024. This marks a sharp reversal from a negative correlation of -0.20 recorded in March. By comparison, the 5-year average is just +0.16 or nearly one-third the 60-day metric. Furthermore, the Nasdaq 100's sensitivity to declines in South Korean stocks is up to its highest level since 1990. At the same time, the MSCI World Index's sensitivity to the South Korean market is up to its highest in 4 years. In other words, declines in South Korean equities are increasingly serving as an early read on US and global equity risk appetite, particularly in technology stocks. The AI trade has never been more global.",
-      "summary": "<p>The South Korean and US AI trades are becoming increasingly synchronized:<br />\n<br />\nThe 60-day correlation between the KOSPI and Nasdaq 100 index is up to +0.46, the highest since July 2024.<br />\n<br />\nThis marks a sharp reversal from a negative correlation of -0.20 recorded in March.<br />\n<br />\nBy comparison, the 5-year average is just +0.16 or nearly one-third the 60-day metric.<br />\n",
-      "link": "https://nitter.net/KobeissiLetter/status/2079362470267818031#m",
-      "published": "2026-07-21T00:27:00+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "I created my first profitable expert advisor bot and these are the results on gold",
@@ -532,15 +226,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v1cmw6/im_looking_for_a_reliable_prop_firm_that_offers/",
       "published": "2026-07-20T05:38:34+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Bought the recovery, sold the invitation — (XAUUSD 5m)",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v18i1l/bought_the_recovery_sold_the_invitation_xauusd_5m/\"> <img alt=\"Bought the recovery, sold the invitation — (XAUUSD 5m)\" src=\"https://preview.redd.it/ghc6n01flaeh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e47faeee6b5220efd60a5a36729e74d356c7eccd\" title=\"Bought the recovery, sold the invitation — (XAU",
-      "link": "https://www.reddit.com/r/Forex/comments/1v18i1l/bought_the_recovery_sold_the_invitation_xauusd_5m/",
-      "published": "2026-07-20T02:03:45+00:00",
-      "score": 4
     },
     {
       "source": "Federal Reserve",
@@ -696,5 +381,16 @@
       "score": 1
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Kobeissi Letter",
+      "type": "twitter",
+      "error": "failed to parse feed (<urlopen error [Errno 110] Connection timed out>)"
+    },
+    {
+      "source": "Walter Bloomberg",
+      "type": "twitter",
+      "error": "failed to parse feed (<urlopen error [Errno 110] Connection timed out>)"
+    }
+  ]
 }
