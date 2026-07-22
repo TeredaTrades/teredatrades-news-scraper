@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-07-22T15:10:41.472096+00:00",
-  "count": 58,
+  "updated_at": "2026-07-22T16:48:25.099757+00:00",
+  "count": 67,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "One bridge per tanker: The Dow Jones Industrial Average rallies as escalation gets a price list",
+      "summary": "The Dow Jones Industrial Average trades near 52,400 on Wednesday, up around 200 points and on track for a second consecutive daily gain, while the S&amp;P 500 hugs the flatline and the Nasdaq slips into the red.",
+      "link": "https://www.fxstreet.com/news/one-bridge-per-tanker-the-dow-jones-industrial-average-rallies-as-escalation-gets-a-price-list-202607221642",
+      "published": "2026-07-22T16:42:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: The Trump Administration is weighing military options in Mali - WaPo.",
+      "summary": "<ul><li><div>The Trump administration is considering military action in Mali to target an al-Qaeda-affiliated group known as JNIM, according to current and former US officials familiar with the situation.</div></li></ul>",
+      "link": "https://www.financialjuice.com/News/9689185/The-Trump-Administration-is-weighing-military-options-in-Mali---WaPo.aspx?xy=rss",
+      "published": "2026-07-22T16:05:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound steadies as cooler UK CPI meets Oil shock",
+      "summary": "The Pound Sterling holds firm during the North American session as UK inflation data dipped, easing pressure on the Bank of England to tackle higher prices, while attacks between the US and Iran don’t seem to be ending in the Middle East. The GBP/USD trades at 1.3377.",
+      "link": "https://www.fxstreet.com/news/british-pound-steadies-as-cooler-uk-cpi-meets-oil-shock-202607221604",
+      "published": "2026-07-22T16:04:20+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar finds support from rising Oil prices, softer Greenback",
+      "summary": "USD/CAD edges lower on Wednesday as a mildly softer US Dollar (USD) and rising Oil prices help the Canadian Dollar (CAD) snap a two-day losing streak. At the time of writing, the pair trades around 1.4085, down 0.16% on the day.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-finds-support-from-rising-oil-prices-softer-greenback-202607221540",
+      "published": "2026-07-22T15:40:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar weakens as risk aversion overshadows hawkish RBNZ outlook",
+      "summary": "NZD/USD trades around 0.5815 on Wednesday at the time of writing, down 0.16% on the day.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-as-risk-aversion-overshadows-hawkish-rbnz-outlook-202607221531",
+      "published": "2026-07-22T15:31:31+00:00",
+      "score": 1
+    },
     {
       "source": "r/Forex",
       "category": "reddit",
@@ -57,21 +102,21 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump Adviser Kratsios: Large-scale, covert industrial distillation aimed at stealing proprietary US technology and undermining American research is unacceptable.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689056/Trump-Adviser-Kratsios-Large-scale-covert-industrial-distillation-aimed-at-stealing-proprietary-US-technology-and-undermining-American-research-is-unacceptable.aspx?xy=rss",
-      "published": "2026-07-22T14:25:54+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: Iran is going to pay a big price",
+      "summary": "<p>Trump: Iran is going to pay a big price</p>",
+      "link": "https://nitter.net/DeItaone/status/2079929930851184939#m",
+      "published": "2026-07-22T14:01:53+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump Adviser Kratsios: Have information that Moonshot AI distilled Anthropic's fable for the development of its K3 model.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689055/Trump-Adviser-Kratsios-Have-information-that-Moonshot-AI-distilled-Anthropics-fable-for-the-development-of-its-K3-model.aspx?xy=rss",
-      "published": "2026-07-22T14:25:06+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: Americans are not against the war in Iran",
+      "summary": "<p>Trump: Americans are not against the war in Iran</p>",
+      "link": "https://nitter.net/DeItaone/status/2079929703800897536#m",
+      "published": "2026-07-22T14:00:59+00:00",
       "score": 1
     },
     {
@@ -117,6 +162,15 @@
       "summary": "US President Donald Trump issued a fresh warning to Iran on Wednesday, threatening strikes on the country’s infrastructure if Tehran targets vessels in the Strait of Hormuz.",
       "link": "https://www.fxstreet.com/news/trump-us-will-bomb-and-destroy-iranian-bridges-or-power-plants-202607221318",
       "published": "2026-07-22T13:18:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ESCALATES RHETORIC President Trump warned that any attack by Iran on ships in the Strait of Hormuz would trigger U.S. strikes on Iranian infrastructure, including bridges and power plants near Tehran. The statement marks a sharp escalation in rhetoric, reinforcing tensions around one of the world’s most strategically important shipping routes.",
+      "summary": "<p>TRUMP ESCALATES RHETORIC<br />\n<br />\nPresident Trump warned that any attack by Iran on ships in the Strait of Hormuz would trigger U.S. strikes on Iranian infrastructure, including bridges and power plants near Tehran.<br />\n<br />\nThe statement marks a sharp escalation in rhetoric, reinforcing tensions around one of the world’s most strategically important shipping routes.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079917299813773353#m",
+      "published": "2026-07-22T13:11:41+00:00",
       "score": 1
     },
     {
@@ -192,42 +246,6 @@
       "score": 4
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Hawkish BoJ signals versus Fed risk – Rabobank",
-      "summary": "Rabobank’s Senior FX Strategist Jane Foley discusses Japanese Yen (JPY) prospects, focusing on USD/JPY. Foley highlight that intervention by the Ministry of Finance (MoF) alone is unlikely to change the pair’s direction without improved Japanese fundamentals.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-hawkish-boj-signals-versus-fed-risk-rabobank-202607221146",
-      "published": "2026-07-22T11:46:06+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Heavy trade as BoE seen adjusting – BBH",
-      "summary": "Brown Brothers Harriman’s Elias Haddad notes the British Pound (GBP) remains heavy versus the US Dollar (USD) and Euro (EUR) after a mixed United Kingdom (UK) June Consumer Price Index (CPI) report, with headline inflation cooling but core and services measures still sticky.",
-      "link": "https://www.fxstreet.com/news/british-pound-heavy-trade-as-boe-seen-adjusting-bbh-202607221120",
-      "published": "2026-07-22T11:20:43+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price edges higher as geopolitical tensions offset inflation concerns",
-      "summary": "Silver (XAG/USD) trades around $59.35 at the time of writing on Wednesday, up 0.94% on the day, as persistent safe-haven demand offsets the negative impact of rising inflation expectations.",
-      "link": "https://www.fxstreet.com/news/silver-price-edges-higher-as-geopolitical-tensions-offset-inflation-concerns-202607221117",
-      "published": "2026-07-22T11:17:37+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Drifting toward ECB test – ING",
-      "summary": "Chris Turner at ING notes EUR/USD has held up relatively well despite energy price gains and wider natural gas prices.",
-      "link": "https://www.fxstreet.com/news/euro-drifting-toward-ecb-test-ing-202607221106",
-      "published": "2026-07-22T11:06:50+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Have you ever traded Gold (XAU/USD) and ended up losing money?",
@@ -235,6 +253,15 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v3b3z7/have_you_ever_traded_gold_xauusd_and_ended_up/",
       "published": "2026-07-22T09:29:40+00:00",
       "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. S&P 500 E-MINI FUTURES DOWN 0.4%, NASDAQ 100 FUTURES DOWN 0.9%, DOW FUTURES DOWN 0.3%",
+      "summary": "<p>U.S. S&amp;P 500 E-MINI FUTURES DOWN 0.4%, NASDAQ 100 FUTURES DOWN 0.9%, DOW FUTURES DOWN 0.3%</p>",
+      "link": "https://nitter.net/DeItaone/status/2079839158034448763#m",
+      "published": "2026-07-22T08:01:11+00:00",
+      "score": 2
     },
     {
       "source": "r/Forex",
@@ -261,6 +288,24 @@
       "summary": "<p>China's rare-earth exports to the US remain critically low:<br />\n<br />\nChina's monthly exports of rare-earth magnets to the US averaged 479 tons in H1 2026, on track for the lowest annual monthly average since 2021.<br />\n<br />\nBy comparison, exports averaged 586 tons between 2022 and 2024, ~22% higher than the current rate.<br />\n<br />\nThese components are critical to industries spanning e",
       "link": "https://nitter.net/KobeissiLetter/status/2079746249067245824#m",
       "published": "2026-07-22T01:52:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ESCALATES GENERIC DRUG TARIFFS Trump announced that generic drug imports will face a 0% tariff from 1 August 2026 for two years, rising to 100% for one year and 200% thereafter. The measure aims to reshore generic pharmaceutical manufacturing to the U.S., while existing policies on patented and branded drugs remain unchanged.",
+      "summary": "<p>TRUMP ESCALATES GENERIC DRUG TARIFFS<br />\n<br />\nTrump announced that generic drug imports will face a 0% tariff from 1 August 2026 for two years, rising to 100% for one year and 200% thereafter.<br />\n<br />\nThe measure aims to reshore generic pharmaceutical manufacturing to the U.S., while existing policies on patented and branded drugs remain unchanged.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079709091514220796#m",
+      "published": "2026-07-21T23:24:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP TO SET 100% TARIFF ON GENERIC DRUGS FROM AUGUST 2028",
+      "summary": "<p>*TRUMP TO SET 100% TARIFF ON GENERIC DRUGS FROM AUGUST 2028</p>",
+      "link": "https://nitter.net/DeItaone/status/2079708802127900907#m",
+      "published": "2026-07-21T23:23:12+00:00",
       "score": 1
     },
     {
@@ -309,12 +354,57 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
+      "source": "Walter Bloomberg",
       "category": "twitter",
-      "title": "BREAKING: US oil prices surge to $85/barrel after Iran says it has struck an Amazon datacenter in Bahrain and water desalination plants in Kuwait in response to US strikes.",
-      "summary": "<p>BREAKING: US oil prices surge to $85/barrel after Iran says it has struck an Amazon datacenter in Bahrain and water desalination plants in Kuwait in response to US strikes.</p>\n<img src=\"https://nitter.net/pic/media%2FHNwY_dRWMAAuLvM.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2079564611838226519#m",
-      "published": "2026-07-21T13:50:14+00:00",
+      "title": "U.S. STRIKE THREAT RAISES HORMUZ RISKS Kalshi prediction markets suggest traders expect disruptions in the Strait of Hormuz to persist well into 2027, with only a 31% chance of shipping returning to normal before December 2026. President Donald Trump said the U.S. will target the Pickaxe Mountain area near Iran’s Natanz nuclear facility “pretty soon.” The deeply fortified site is linked to Iran’s nuclear program, raising the prospect of another escalation with potential implications for global energy markets. https://kalshi.com/markets/kxhormuznorm/when-will-traffic-at-the-strait-of-hormuz-return-to-normal/kxhormuznorm-26mar17",
+      "summary": "<p>U.S. STRIKE THREAT RAISES HORMUZ RISKS<br />\n<br />\nKalshi prediction markets suggest traders expect disruptions in the Strait of Hormuz to persist well into 2027, with only a 31% chance of shipping returning to normal before December 2026.<br />\n<br />\nPresident Donald Trump said the U.S. will target the Pickaxe Mountain area near Iran’s Natanz nuclear facility “pretty soon.” The deeply fortif",
+      "link": "https://nitter.net/DeItaone/status/2079598809001202174#m",
+      "published": "2026-07-21T16:06:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: WILL BE HITTING PICKAXE MOUNTAIN AREA PRETTY SOON",
+      "summary": "<p>TRUMP: WILL BE HITTING PICKAXE MOUNTAIN AREA PRETTY SOON</p>",
+      "link": "https://nitter.net/DeItaone/status/2079592476713611264#m",
+      "published": "2026-07-21T15:40:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP: IRAN HAS VERY EVIL PEOPLE LEADING THAT COUNTRY",
+      "summary": "<p>*TRUMP: IRAN HAS VERY EVIL PEOPLE LEADING THAT COUNTRY</p>",
+      "link": "https://nitter.net/DeItaone/status/2079592391049105871#m",
+      "published": "2026-07-21T15:40:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP ON IRAN: WILL BE HITTING SOON, VERY HEAVILY",
+      "summary": "<p>*TRUMP ON IRAN: WILL BE HITTING SOON, VERY HEAVILY</p>",
+      "link": "https://nitter.net/DeItaone/status/2079592337785643199#m",
+      "published": "2026-07-21T15:40:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP: IRAN HASN'T SEEN ANYTHING YET, WE'VE BEEN NICE",
+      "summary": "<p>*TRUMP: IRAN HASN'T SEEN ANYTHING YET, WE'VE BEEN NICE</p>",
+      "link": "https://nitter.net/DeItaone/status/2079592194013380690#m",
+      "published": "2026-07-21T15:39:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: IRAN HASN'T SEEN ANYTHING YET",
+      "summary": "<p>TRUMP: IRAN HASN'T SEEN ANYTHING YET</p>",
+      "link": "https://nitter.net/DeItaone/status/2079592145485287440#m",
+      "published": "2026-07-21T15:39:39+00:00",
       "score": 1
     },
     {
@@ -360,15 +450,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v1g9wt/i_created_my_first_profitable_expert_advisor_bot/\"> <img alt=\"I created my first profitable expert advisor bot and these are the results on gold\" src=\"https://preview.redd.it/7dcs22gioceh1.png?width=140&amp;height=73&amp;auto=webp&amp;s=ed25723bfe1be4e151829f6d5efead289aaa89f4\" title=\"I created my first profitable expert adv",
       "link": "https://www.reddit.com/r/Forex/comments/1v1g9wt/i_created_my_first_profitable_expert_advisor_bot/",
       "published": "2026-07-20T09:09:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "I'm looking for a reliable prop firm that offers very low or near-zero spreads on major Forex pairs like EUR/USD, GBP/USD, USD/JPY, etc.",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I'm looking for a <strong>reliable prop firm</strong> that offers <strong>very low or near-zero spreads</strong> on major Forex pairs like <strong>EUR/USD, GBP/USD, USD/JPY</strong>, etc.</p> <p>My trading strategy uses <strong>very tight stop losses</strong>, so even slightly wider spreads can make a big difference.</p> <p>If you've traded with a prop firm that c",
-      "link": "https://www.reddit.com/r/Forex/comments/1v1cmw6/im_looking_for_a_reliable_prop_firm_that_offers/",
-      "published": "2026-07-20T05:38:34+00:00",
       "score": 1
     },
     {
