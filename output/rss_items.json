@@ -1,41 +1,131 @@
 {
-  "updated_at": "2026-07-22T13:00:08.814867+00:00",
-  "count": 57,
+  "updated_at": "2026-07-22T15:10:41.472096+00:00",
+  "count": 58,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Gold broke a two-week range today but the dollar didn't move - that's the part nobody's talking about",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Gold broke a two-week range today and everyone's treating it like a trend change. The thing I can't get past: the dollar didn't move. Flat on the day while gold ran ~20 handles off the break.</p> <p>That's the whole question for me. For most of this month gold has traded off rates and the dollar far more than off the war headlines - it literally fell through actua",
+      "link": "https://www.reddit.com/r/Forex/comments/1v3ippd/gold_broke_a_twoweek_range_today_but_the_dollar/",
+      "published": "2026-07-22T15:02:59+00:00",
+      "score": 3
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "It's official: The US 30Y Note Yield has now traded above 5.00% for the longest stretch since 2007. So far this year, the 30Y Note Yield has traded above 5.00% for 27 days, or ~19% of all trading sessions. Just months ago, markets saw 3+ rate cuts in 2026. Talk about a turn of events.",
+      "summary": "<p>It's official:<br />\n<br />\nThe US 30Y Note Yield has now traded above 5.00% for the longest stretch since 2007.<br />\n<br />\nSo far this year, the 30Y Note Yield has traded above 5.00% for 27 days, or ~19% of all trading sessions.<br />\n<br />\nJust months ago, markets saw 3+ rate cuts in 2026.<br />\n<br />\nTalk about a turn of events.</p>\n<img src=\"https://nitter.net/pic/media%2FHN1xeK_XMAAwP5",
+      "link": "https://nitter.net/KobeissiLetter/status/2079943370999279746#m",
+      "published": "2026-07-22T14:55:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Effective Fed Funds Rate 3.63% July 21 vs 3.63% July 20.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688922/Effective-Fed-Funds-Rate-363-July-21-vs-363-July-20.aspx?xy=rss",
-      "published": "2026-07-22T12:59:38+00:00",
+      "title": "Australian Dollar steadies ahead of Australian employment data",
+      "summary": "AUD/USD trades near 0.7000 on Wednesday, recovering from an intraday pullback but remaining marginally lower on the day. The pair briefly fell toward 0.6985 before rebounding, while the US Dollar Index (DXY) slipped toward 101.10, helping the Australian Dollar regain some ground.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-ahead-of-australian-employment-data-202607221448",
+      "published": "2026-07-22T14:48:49+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen struggles near four-decade lows despite hawkish BoJ signals",
+      "summary": "The Japanese Yen (JPY) gives up earlier gains on Wednesday, failing to capitalize on hawkish signals from the Bank of Japan (BoJ) and a softer US Dollar (USD) as Middle East tensions keep markets on edge.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-near-four-decade-lows-despite-hawkish-boj-signals-202607221440",
+      "published": "2026-07-22T14:40:51+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump: If ships are attacked, we will bomb, including in Tehran",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688921/Trump-If-ships-are-attacked-we-will-bomb-including-in-Tehran.aspx?xy=rss",
-      "published": "2026-07-22T12:58:46+00:00",
+      "title": "FinancialJuice: Amazon Cuts Jobs in Artificial General Intelligence Group $AMZN",
+      "summary": "<div><ul><li>Amazon has cut jobs within its Artificial General Intelligence (AGI) organization</li><li>Company says the move is part of efforts to focus on the highest-priority AI initiatives and accelerate execution</li><li>Amazon says developing large AI models remains one of its most important strategic priorities</li><li>The number of affected employees was not disclosed</li><li>The layoffs fo",
+      "link": "https://www.financialjuice.com/News/9689070/Amazon-Cuts-Jobs-in-Artificial-General-Intelligence-Group-AMZN.aspx?xy=rss",
+      "published": "2026-07-22T14:31:54+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Apple Preparing Broad Mac Refresh to Support AI Push $AAPL",
+      "summary": "<div><ul><li>Apple is planning a major refresh of its Mac lineup to meet growing AI demand</li><li>New iMac, MacBook Pro, MacBook Air, and MacBook models are in development</li><li>Apple is also preparing updated Mac mini and Mac Studio models</li><li>Apple is working on future OLED versions of the MacBook Air and iMac</li></ul></div>",
+      "link": "https://www.financialjuice.com/News/9689064/Apple-Preparing-Broad-Mac-Refresh-to-Support-AI-Push-AAPL.aspx?xy=rss",
+      "published": "2026-07-22T14:31:06+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump on Truth Social threatens to bomb Iran's bridges, power plants.",
+      "title": "FinancialJuice: Trump Adviser Kratsios: Large-scale, covert industrial distillation aimed at stealing proprietary US technology and undermining American research is unacceptable.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9688920/Trump-on-Truth-Social-threatens-to-bomb-Irans-bridges-power-plants.aspx?xy=rss",
-      "published": "2026-07-22T12:58:24+00:00",
+      "link": "https://www.financialjuice.com/News/9689056/Trump-Adviser-Kratsios-Large-scale-covert-industrial-distillation-aimed-at-stealing-proprietary-US-technology-and-undermining-American-research-is-unacceptable.aspx?xy=rss",
+      "published": "2026-07-22T14:25:54+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump on Truth Social: From this point forward, any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz, the US will bomb one bridge or power plant.",
+      "title": "FinancialJuice: Trump Adviser Kratsios: Have information that Moonshot AI distilled Anthropic's fable for the development of its K3 model.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9688919/Trump-on-Truth-Social-From-this-point-forward-any-time-the-Islamic-Republic-of-Iran-shoots-at-a-ship-in-the-Strait-of-Hormuz-the-US-will-bomb-one-bridge-or-power-plant.aspx?xy=rss",
-      "published": "2026-07-22T12:57:34+00:00",
+      "link": "https://www.financialjuice.com/News/9689055/Trump-Adviser-Kratsios-Have-information-that-Moonshot-AI-distilled-Anthropics-fable-for-the-development-of-its-K3-model.aspx?xy=rss",
+      "published": "2026-07-22T14:25:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The Dow Jones Industrial Average erases all losses and turns green on the day despite President Trump's threat to bomb Iranian power plants and bridge.",
+      "summary": "<p>BREAKING: The Dow Jones Industrial Average erases all losses and turns green on the day despite President Trump's threat to bomb Iranian power plants and bridge.</p>\n<img src=\"https://nitter.net/pic/media%2FHN1i5uhW8AA8BSm.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2079927415535485388#m",
+      "published": "2026-07-22T13:51:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Range-bound gains and episodic strength – TD Securities",
+      "summary": "TD Securities strategists expect modest US Dollar (USD) strength in Q3 2026 as positioning has room to rebuild.",
+      "link": "https://www.fxstreet.com/news/us-dollar-range-bound-gains-and-episodic-strength-td-securities-202607221345",
+      "published": "2026-07-22T13:45:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro struggles to extend gains as Iran war supports US Dollar",
+      "summary": "EUR/USD trades around 1.1415 at the time of writing on Wednesday, up 0.15% on the day, but its recovery remains limited after failing to break above 1.1420.",
+      "link": "https://www.fxstreet.com/news/euro-struggles-to-extend-gains-as-middle-east-tensions-support-the-us-dollar-202607221335",
+      "published": "2026-07-22T13:35:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: BoJ hints at faster hikes – BNY",
+      "summary": "BNY’s Geoff Yu notes that Bank of Japan (BoJ) officials are reported open to raising rates faster than economists expected as Japanese Yen (JPY) weakness lifts inflation risks.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-hints-at-faster-hikes-bny-202607221318",
+      "published": "2026-07-22T13:18:44+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Trump: 'US will bomb and destroy' Iranian bridges or power plants",
+      "summary": "US President Donald Trump issued a fresh warning to Iran on Wednesday, threatening strikes on the country’s infrastructure if Tehran targets vessels in the Strait of Hormuz.",
+      "link": "https://www.fxstreet.com/news/trump-us-will-bomb-and-destroy-iranian-bridges-or-power-plants-202607221318",
+      "published": "2026-07-22T13:18:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump says the US will bomb and destroy one bridge or power plant for every time Iran shoots at a ship in the Strait of Hormuz “from this point forward.” Trump says this includes bridges and power plants next to or in Tehran.",
+      "summary": "<p>BREAKING: President Trump says the US will bomb and destroy one bridge or power plant for every time Iran shoots at a ship in the Strait of Hormuz “from this point forward.”<br />\n<br />\nTrump says this includes bridges and power plants next to or in Tehran.</p>\n<img src=\"https://nitter.net/pic/media%2FHN1YGH8WcAAX6yd.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2079915469859889416#m",
+      "published": "2026-07-22T13:04:25+00:00",
       "score": 1
     },
     {
@@ -46,6 +136,15 @@
       "link": "https://www.fxstreet.com/news/united-kingdom-core-cpi-resilience-complicates-boe-path-nomura-202607221256",
       "published": "2026-07-22T12:56:23+00:00",
       "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: AMD, $AMD, and Anthropic have signed a deal for \"tens of billions of Dollars\" worth of AI servers, per WSJ. Details include: 1. Anthropic will purchase up to 2 gigawatts of AMD’s latest-generation chips, the Instinct MI450, starting in the first half of 2027 2. AMD will invest up to $5 billion in Anthropic as certain deployment milestones are met 3. AMD is also in talks to provide a financial backstop for Anthropic’s future data-center leases as well AMD continues to look for ways to strengthen its positioning against Nvidia and others.",
+      "summary": "<p>BREAKING: AMD, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMD\">$AMD</a>, and Anthropic have signed a deal for \"tens of billions of Dollars\" worth of AI servers, per WSJ.<br />\n<br />\nDetails include:<br />\n<br />\n1. Anthropic will purchase up to 2 gigawatts of AMD’s latest-generation chips, the Instinct MI450, starting in the first half of 2027<br />\n<br />\n2. AMD will invest up to $5",
+      "link": "https://nitter.net/KobeissiLetter/status/2079911256065008091#m",
+      "published": "2026-07-22T12:47:40+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
@@ -75,27 +174,9 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump administration allocates $5b for Genesis mission.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688850/Trump-administration-allocates-5b-for-Genesis-mission.aspx?xy=rss",
-      "published": "2026-07-22T12:03:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft: $60m commitment to DoE's Genesis mission.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9688848/Microsoft-60m-commitment-to-DoEs-Genesis-mission.aspx?xy=rss",
-      "published": "2026-07-22T12:02:19+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "US Dollar Index Price Forecast: keeps the Bullish bias intact above 101.00",
+      "title": "US Dollar Index Price Forecast: Bullish bias intact above 101.00",
       "summary": "The US Dollar Index (DXY) shows moderate losses on Wednesday but has retraced most of the decline seen during the Asian trading session.",
       "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-keeps-the-bullish-bias-intact-above-10100-202607221147",
       "published": "2026-07-22T11:47:24+00:00",
@@ -147,51 +228,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "World Bank warns of risks of global slowdown, renewed inflation",
-      "summary": "The World Bank warned that the global economy is only \"a few months\" away from a worst-case scenario in which global growth slows to 1.3% while inflation rises to 4.5%, according to comments by Chief Economist Indermit Gill reported by Reuters.",
-      "link": "https://www.fxstreet.com/news/world-bank-warns-of-risks-of-global-slowdown-renewed-inflation-202607221024",
-      "published": "2026-07-22T10:24:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD holds gains above $4,100 undaunted by risk-off markets",
-      "summary": "Gold (XAU/USD) extends gains for the fourth consecutive day on Wednesday, standing comfortably above $4,100, unfazed by the risk-off market amid rising tensions in Iran and higher Oil prices.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-gains-above-4-100-undaunted-by-risk-off-markets-202607220937",
-      "published": "2026-07-22T09:37:25+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Technical outlook weakens against US Dollar – Societe Generale",
-      "summary": "Societe Generale analysts highlight USD/JPY trading in breakout territory above 163 for the first time in nearly four decades, with support around 162.20 and resistance near 164.40.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-technical-outlook-weakens-against-us-dollar-societe-generale-202607220936",
-      "published": "2026-07-22T09:36:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc edges higher as US-Iran tensions, higher Swiss yields sustain support",
-      "summary": "USD/CHF trades around 0.8120 at the time of writing on Wednesday, down a modest 0.09% on the day, but remains supported by a strong risk-off environment that favors the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/swiss-franc-edges-higher-as-us-iran-tensions-higher-swiss-yields-sustain-support-202607220935",
-      "published": "2026-07-22T09:35:31+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "UK inflation cools and fiscal concerns grow: Why the British Pound is surrendering recent gains",
-      "summary": "The British Pound (GBP) is facing renewed downward pressure across major currency pairs, forfeiting its recent gains as market participants digest a combination of cooling domestic inflation and growing fiscal uncertainty surrounding Prime Minister Andy Burnham’s economic agenda.",
-      "link": "https://www.fxstreet.com/news/uk-inflation-cools-and-fiscal-concerns-grow-why-the-british-pound-is-surrendering-recent-gains-202607220930",
-      "published": "2026-07-22T09:30:52+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Have you ever traded Gold (XAU/USD) and ended up losing money?",
@@ -199,15 +235,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v3b3z7/have_you_ever_traded_gold_xauusd_and_ended_up/",
       "published": "2026-07-22T09:29:40+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee falls back as oil prices rally further",
-      "summary": "The Indian Rupee (INR) opens lower against the US Dollar (USD) on Wednesday after a slight relief the previous day. The USD/INR pair rises to near 96.53 as a fresh surge in oil prices due to intensifying fears of further global energy supply disruptions has weakened the Indian currency.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-resumes-decline-as-oil-prices-rise-further-202607220544",
-      "published": "2026-07-22T05:44:15+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -291,15 +318,6 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump is preparing to announce 10% tariffs on \"dozens of countries\" this week, per FT. Details include: 1. These new tariffs come as President Trump's current 10% tariffs expire later this week 2. President Trump's advisors have reportedly warned him against doing so 3. Advisors are reportedly worried about risking the economic shocks of the original trade war ahead of the midterm elections 4. The Trump Admin is also working on other investigations that could grant it the legal authority to propose higher tariffs More tariffs are on the way.",
-      "summary": "<p>BREAKING: President Trump is preparing to announce 10% tariffs on \"dozens of countries\" this week, per FT.<br />\n<br />\nDetails include:<br />\n<br />\n1. These new tariffs come as President Trump's current 10% tariffs expire later this week<br />\n<br />\n2. President Trump's advisors have reportedly warned him against doing so<br />\n<br />\n3. Advisors are reportedly worried about risking the econ",
-      "link": "https://nitter.net/KobeissiLetter/status/2079549452352647454#m",
-      "published": "2026-07-21T12:50:00+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "I Left Money on the Table… and I’d Do It Again.",
@@ -316,15 +334,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v2h40x/ftmo_eval_counted_loss_in_a_winning_trade/",
       "published": "2026-07-21T12:32:24+00:00",
       "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Iran says it has struck an Amazon, $AMZN, datacenter in Bahrain in retaliation for a US attack on Iran's Darkhovin nuclear project. Iran also says it targeted a US Military base in Jordan, claiming to have destroyed an F-15 fighter jet and missile defense radar system.",
-      "summary": "<p>BREAKING: Iran says it has struck an Amazon, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>, datacenter in Bahrain in retaliation for a US attack on Iran's Darkhovin nuclear project.<br />\n<br />\nIran also says it targeted a US Military base in Jordan, claiming to have destroyed an F-15 fighter jet and missile defense radar system.</p>",
-      "link": "https://nitter.net/KobeissiLetter/status/2079541147819446310#m",
-      "published": "2026-07-21T12:17:00+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
