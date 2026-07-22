@@ -1,13 +1,121 @@
 {
-  "updated_at": "2026-07-22T19:44:23.317645+00:00",
-  "count": 70,
+  "updated_at": "2026-07-22T20:48:31.678397+00:00",
+  "count": 73,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google's Pichai: Company seeing strong demand for AI infrastructure. $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9689498/Googles-Pichai-Company-seeing-strong-demand-for-AI-infrastructure-GOOGL.aspx",
+      "published": "2026-07-22T20:46:43+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Downside risk persists against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/SGD is trading just above 1.29 after a quiet session, with momentum only tentatively firmer.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-downside-risk-persists-against-us-dollar-uob-202607222014",
+      "published": "2026-07-22T20:14:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Tesla: Battery pack capacity remains limiting factor. $TSLA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9689454/Tesla-Battery-pack-capacity-remains-limiting-factor-TSLA.aspx",
+      "published": "2026-07-22T20:10:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: $GOOGL Alphabet Q2 Earnings",
+      "summary": "<ul><li>Revenue $119.80B, est. $117.02B</li><li>Revenue ex-TAC $103.62B, est. $101.07B</li><li>Operating Income $40.77B, est. $40.55B</li><li>Google Services Revenue $94.54B, est. $94.32B</li><li>Google Cloud Revenue $24.77B, est. $22.46B</li><li>Google Cloud Backlog $514B</li><li>Google Advertising Revenue $81.63B, est. $81.12B</li><li>Google Search &amp; Other Revenue $63.27B, est. $63.28B (+17%",
+      "link": "https://www.financialjuice.com/News/9689451/GOOGL-Alphabet-Q2-Earnings.aspx",
+      "published": "2026-07-22T20:02:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: If you're paying a little more now, a lot has come down",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9689435/Trump-If-youre-paying-a-little-more-now-a-lot-has-come-down.aspx",
+      "published": "2026-07-22T19:59:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: oil will come tumbling down.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9689434/Trump-oil-will-come-tumbling-down.aspx",
+      "published": "2026-07-22T19:56:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Inflation is way down.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9689433/Trump-Inflation-is-way-down.aspx",
+      "published": "2026-07-22T19:54:47+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Iran will be ready very soon, but they are not ready for deal yet.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9689432/Trump-Iran-will-be-ready-very-soon-but-they-are-not-ready-for-deal-yet.aspx",
+      "published": "2026-07-22T19:53:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Iran is getting hit so hard; they want to make a deal.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9689431/Trump-Iran-is-getting-hit-so-hard-they-want-to-make-a-deal.aspx",
+      "published": "2026-07-22T19:53:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: -1132 mln<br />Nasdaq 100: -197 mln<br />Dow 30: -260 mln<br />Mag 7: +119 mln",
+      "link": "https://www.financialjuice.com/News/9689430/MOC-Imbalance.aspx",
+      "published": "2026-07-22T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We're winning in Iran",
+      "summary": "<p>Trump: We're winning in Iran</p>",
+      "link": "https://nitter.net/DeItaone/status/2080016914772787510#m",
+      "published": "2026-07-22T19:47:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We don't need the Hormuz Strait",
+      "summary": "<p>Trump: We don't need the Hormuz Strait</p>",
+      "link": "https://nitter.net/DeItaone/status/2080016834447777860#m",
+      "published": "2026-07-22T19:47:12+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Trump: We're winning in Iran.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9689422/Trump-Were-winning-in-Iran.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9689422/Trump-Were-winning-in-Iran.aspx",
       "published": "2026-07-22T19:44:03+00:00",
       "score": 1
     },
@@ -16,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: Trump: We don't need the Hormuz Strait.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9689421/Trump-We-dont-need-the-Hormuz-Strait.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9689421/Trump-We-dont-need-the-Hormuz-Strait.aspx",
       "published": "2026-07-22T19:43:37+00:00",
       "score": 1
     },
@@ -25,8 +133,17 @@
       "category": "news",
       "title": "FinancialJuice: Trump: Venezuela working with the US to produce oil.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9689420/Trump-Venezuela-working-with-the-US-to-produce-oil.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9689420/Trump-Venezuela-working-with-the-US-to-produce-oil.aspx",
       "published": "2026-07-22T19:42:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "The 10Y Note Yield is now nearing 4.70% and a fresh 52-week high. This puts the 10Y Note Yield up over +70 basis points since the Iran War began. The market continues to brace for an energy shock.",
+      "summary": "<p>The 10Y Note Yield is now nearing 4.70% and a fresh 52-week high.<br />\n<br />\nThis puts the 10Y Note Yield up over +70 basis points since the Iran War began.<br />\n<br />\nThe market continues to brace for an energy shock.</p>\n<a href=\"https://nitter.net/KobeissiLetter/status/2080015385634418825#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080015343301320705%2",
+      "link": "https://nitter.net/KobeissiLetter/status/2080015385634418825#m",
+      "published": "2026-07-22T19:41:27+00:00",
       "score": 1
     },
     {
@@ -39,66 +156,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia Huang: There’s no scenario where China runs US companies off road - Axios $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689417/Nvidia-Huang-Theres-no-scenario-where-China-runs-US-companies-off-road---Axios-NVDA.aspx?xy=rss",
-      "published": "2026-07-22T19:36:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia CEO Huang believes US has nothing to fear from China's open-source AI models - Axios. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689415/Nvidia-CEO-Huang-believes-US-has-nothing-to-fear-from-Chinas-open-source-AI-models---Axios-NVDA.aspx?xy=rss",
-      "published": "2026-07-22T19:36:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Thursday FX Options Expiries",
-      "summary": "<ul><li><strong>EUR/USD:</strong> 1.1630 (EU2.05b), 1.1450 (EU1.93b), 1.1400 (EU1.68b)</li><li><strong>USD/JPY:</strong> 163.00 ($986.1m), 162.75 ($734.7m), 161.45 ($649.9m)</li><li><strong>AUD/USD:</strong> 0.6930 (AUD1.01b), 0.6900 (AUD744.5m), 0.7030 (AUD467.5m)</li><li><strong>GBP/USD:</strong> 1.3440 (GBP450.1m), 1.3695 (GBP408.9m), 1.3400 (GBP405.7m)</li><li><strong>USD/BRL:</strong> 5.1000 ",
-      "link": "https://www.financialjuice.com/News/9689401/Thursday-FX-Options-Expiries.aspx?xy=rss",
-      "published": "2026-07-22T19:21:58+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "USD/CHF Price Forecast: Swissy reclaims 0.81 as pair nears one-year high",
       "summary": "USD/CHF registers solid gains on Wednesday, with buyers reclaiming the 0.8100 figure amid a trading session in which the Greenback loses ground against most G8 FX currencies but posts gains versus the safe-haven status of the Swiss Franc. The pair trades at 0.8146, up more than 0.20%.",
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-reclaims-081-as-market-structure-targets-082-202607221904",
       "published": "2026-07-22T19:04:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WATCH LIVE: Trump Speaks 3 PM ET",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689361/WATCH-LIVE-Trump-Speaks-3-PM-ET.aspx?xy=rss",
-      "published": "2026-07-22T18:59:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Iran's Top Joint Military Command: Trump's repeated threats will only lead to expansion of war in the region and beyond - State Media",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689353/Irans-Top-Joint-Military-Command-Trumps-repeated-threats-will-only-lead-to-expansion-of-war-in-the-region-and-beyond---State-Media.aspx?xy=rss",
-      "published": "2026-07-22T18:46:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Treasury Secretary Bessent: 86% of Trump accounts enrollee families earn under $200k.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9689348/US-Treasury-Secretary-Bessent-86-of-Trump-accounts-enrollee-families-earn-under-200k.aspx?xy=rss",
-      "published": "2026-07-22T18:43:29+00:00",
       "score": 1
     },
     {
@@ -273,24 +336,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: BoJ hints at faster hikes – BNY",
-      "summary": "BNY’s Geoff Yu notes that Bank of Japan (BoJ) officials are reported open to raising rates faster than economists expected as Japanese Yen (JPY) weakness lifts inflation risks.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-hints-at-faster-hikes-bny-202607221318",
-      "published": "2026-07-22T13:18:44+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Trump: 'US will bomb and destroy' Iranian bridges or power plants",
-      "summary": "US President Donald Trump issued a fresh warning to Iran on Wednesday, threatening strikes on the country’s infrastructure if Tehran targets vessels in the Strait of Hormuz.",
-      "link": "https://www.fxstreet.com/news/trump-us-will-bomb-and-destroy-iranian-bridges-or-power-plants-202607221318",
-      "published": "2026-07-22T13:18:25+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "TRUMP ESCALATES RHETORIC President Trump warned that any attack by Iran on ships in the Strait of Hormuz would trigger U.S. strikes on Iranian infrastructure, including bridges and power plants near Tehran. The statement marks a sharp escalation in rhetoric, reinforcing tensions around one of the world’s most strategically important shipping routes.",
@@ -423,24 +468,6 @@
       "summary": "<p>BREAKING: President Trump announces that the US will now allow ALL airline carriers to fly directly to Lebanon after his meeting with Lebanon’s President Aoun.</p>\n<img src=\"https://nitter.net/pic/media%2FHNxna2zXQAAGLVj.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2079651017658966379#m",
       "published": "2026-07-21T19:33:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "There it is: The 10Y Note Yield has officially erased all of its losses since the \"Memorandum of Understanding\" was signed. This puts the 10Y Note Yield up to 4.63%, near its highest level since January 2025. 7% mortgage rates in the US are on their way.",
-      "summary": "<p>There it is:<br />\n<br />\nThe 10Y Note Yield has officially erased all of its losses since the \"Memorandum of Understanding\" was signed.<br />\n<br />\nThis puts the 10Y Note Yield up to 4.63%, near its highest level since January 2025.<br />\n<br />\n7% mortgage rates in the US are on their way.</p>\n<img src=\"https://nitter.net/pic/media%2FHNxmvC4X0AAt5FM.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2079650239279935862#m",
-      "published": "2026-07-21T19:30:29+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. STRIKE THREAT RAISES HORMUZ RISKS Kalshi prediction markets suggest traders expect disruptions in the Strait of Hormuz to persist well into 2027, with only a 31% chance of shipping returning to normal before December 2026. President Donald Trump said the U.S. will target the Pickaxe Mountain area near Iran’s Natanz nuclear facility “pretty soon.” The deeply fortified site is linked to Iran’s nuclear program, raising the prospect of another escalation with potential implications for global energy markets. https://kalshi.com/markets/kxhormuznorm/when-will-traffic-at-the-strait-of-hormuz-return-to-normal/kxhormuznorm-26mar17",
-      "summary": "<p>U.S. STRIKE THREAT RAISES HORMUZ RISKS<br />\n<br />\nKalshi prediction markets suggest traders expect disruptions in the Strait of Hormuz to persist well into 2027, with only a 31% chance of shipping returning to normal before December 2026.<br />\n<br />\nPresident Donald Trump said the U.S. will target the Pickaxe Mountain area near Iran’s Natanz nuclear facility “pretty soon.” The deeply fortif",
-      "link": "https://nitter.net/DeItaone/status/2079598809001202174#m",
-      "published": "2026-07-21T16:06:07+00:00",
       "score": 1
     },
     {
