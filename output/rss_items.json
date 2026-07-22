@@ -1,7 +1,205 @@
 {
-  "updated_at": "2026-07-22T00:10:44.941264+00:00",
-  "count": 67,
+  "updated_at": "2026-07-22T03:48:36.429898+00:00",
+  "count": 74,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: China Finance Ministry auctions 3-month bills at 0.9341% yield: traders",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9688161/China-Finance-Ministry-auctions-3-month-bills-at-09341-yield-traders.aspx?xy=rss",
+      "published": "2026-07-22T03:41:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: China finance ministry offers 10-year bonds at 1.7147% yield: traders",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9688160/China-finance-ministry-offers-10-year-bonds-at-17147-yield-traders.aspx?xy=rss",
+      "published": "2026-07-22T03:39:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "A Babaganz Take on Trading - Week 4: Understanding Candlestick Pattern: Part 1",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Quick background — I'm a XAUUSD trader, day trading, and I've got a 9-5 job so I'm not someone who can sit and watch screens all day. I've lost money for the last 6-8 years doing this, and I recently rebuilt my whole approach to trading — since then I'm finally seeing better results.</p> <p>So I figured I'd share what I've learned along the way — what works, what ",
+      "link": "https://www.reddit.com/r/Forex/comments/1v34a88/a_babaganz_take_on_trading_week_4_understanding/",
+      "published": "2026-07-22T03:24:07+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump-backed Jay Feely triumphs in GOP primary in Arizona's 1st district: Politico",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9688145/Trump-backed-Jay-Feely-triumphs-in-GOP-primary-in-Arizonas-1st-district-Politico.aspx?xy=rss",
+      "published": "2026-07-22T03:18:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD rises to near $60.00 despite surging inflation fears",
+      "summary": "Silver price (XAG/USD) gains ground for the fourth successive day, trading around $59.70 per troy ounce during the Asian hours on Wednesday. Silver prices are surging despite rising rate-hike expectations, as powerful market forces outweigh the drag of higher interest rates.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6000-despite-surging-inflation-fears-202607220309",
+      "published": "2026-07-22T03:09:37+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index weakens to near 101.00 despite mounting Middle East tensions",
+      "summary": "The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 101.15 in the Asian trading hours on Wednesday. The DXY declines amid US Federal Reserve (Fed) rate uncertainty.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-to-near-10100-despite-mounting-middle-east-tensions-202607220251",
+      "published": "2026-07-22T02:51:40+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Donald Trump approves US-Saudi Arabia nuclear deal",
+      "summary": "US President Donald Trump approved a landmark agreement with Saudi Arabia that could potentially provide the kingdom with uranium enrichment capability for its civilian nuclear program, the Wall Street Journal reported on Wednesday.",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-approves-us-saudi-arabia-nuclear-deal-202607220229",
+      "published": "2026-07-22T02:29:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US House approves temporary funding bill to support federal agencies through November elections",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9688099/US-House-approves-temporary-funding-bill-to-support-federal-agencies-through-November-elections.aspx?xy=rss",
+      "published": "2026-07-22T02:11:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: New urban jobs created in first half this year: China’s Ministry of Human Resources - Xinhua",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9688098/New-urban-jobs-created-in-first-half-this-year-Chinas-Ministry-of-Human-Resources---Xinhua.aspx?xy=rss",
+      "published": "2026-07-22T02:06:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: China: 6.95 million new urban jobs created nationwide - Xinhua",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9688097/China-695-million-new-urban-jobs-created-nationwide---Xinhua.aspx?xy=rss",
+      "published": "2026-07-22T02:05:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "UK CPI set to show receding inflation in June as GBP/USD fails at May highs",
+      "summary": "The UK Office for National Statistics (ONS) will release the June Consumer Price Index (CPI) figures on Wednesday at 06:00 GMT, a print that will matter for markets. Consensus expectations point to inflation pressures still above the Bank of England’s (BoE) target, although losing further momentum.",
+      "link": "https://www.fxstreet.com/news/uk-cpi-set-to-show-receding-inflation-in-june-as-gbp-usd-fails-at-may-highs-202607220200",
+      "published": "2026-07-22T02:00:00+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar edges higher amid bullish oil prices; upside potential seems limited",
+      "summary": "The USD/CAD pair struggles to capitalize on its strong weekly gains registered over the past two days and edges lower during the Asian session on Wednesday. Spot prices currently trade around the 1.4100 round figure, though the fundamental backdrop warrants caution for aggressive bearish traders.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-edges-higher-amid-bullish-oil-prices-upside-potential-seems-limited-202607220154",
+      "published": "2026-07-22T01:54:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "China's rare-earth exports to the US remain critically low: China's monthly exports of rare-earth magnets to the US averaged 479 tons in H1 2026, on track for the lowest annual monthly average since 2021. By comparison, exports averaged 586 tons between 2022 and 2024, ~22% higher than the current rate. These components are critical to industries spanning electric vehicles, industrial automation, and defense, making secure access to them a key priority for US manufacturers. This comes despite October's truce between President Trump and President Xi, in which China pledged to keep rare-earth magnets flowing as a key part of pausing the trade war. China remains the dominant force in the industry, controlling over 90% of global rare-earth magnet production. Key shipments of rare-earth magnets from China are constrained.",
+      "summary": "<p>China's rare-earth exports to the US remain critically low:<br />\n<br />\nChina's monthly exports of rare-earth magnets to the US averaged 479 tons in H1 2026, on track for the lowest annual monthly average since 2021.<br />\n<br />\nBy comparison, exports averaged 586 tons between 2022 and 2024, ~22% higher than the current rate.<br />\n<br />\nThese components are critical to industries spanning e",
+      "link": "https://nitter.net/KobeissiLetter/status/2079746249067245824#m",
+      "published": "2026-07-22T01:52:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar declines as safe-haven demand lifts US Dollar",
+      "summary": "NZD/USD depreciates after opening at a bullish gap, remaining in the positive territory and trading around 0.5830 during the Asian hours on Wednesday.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-as-safe-haven-demand-lifts-us-dollar-202607220145",
+      "published": "2026-07-22T01:45:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar strengthens above 0.7000 on RBA hawkish stance",
+      "summary": "The AUD/USD pair gathers strength to near 0.7010 during the early Asian trading hours on Wednesday. The Australian Dollar (AUD) strengthens against the US Dollar (USD) as the likelihood of the Reserve Bank of Australia (RBA) interest rate hike rises.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-above-07000-on-rba-hawkish-stance-202607220131",
+      "published": "2026-07-22T01:31:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7933 vs. 6.7917 previous",
+      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7933 compared to the previous day's fix of 6.7917 and 6.7737 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67933-vs-67917-previous-202607220115",
+      "published": "2026-07-22T01:15:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Taiwan’s Wistron: It will also produce Nvidia’s Vera Rubin superchip at Texas facility",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9687977/Taiwans-Wistron-It-will-also-produce-Nvidias-Vera-Rubin-superchip-at-Texas-facility.aspx?xy=rss",
+      "published": "2026-07-22T01:10:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Taiwan’s Wistron opens Texas facility to produce Nvidia’s first Grace Blackwell ultra superchip in U.S.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9687976/Taiwans-Wistron-opens-Texas-facility-to-produce-Nvidias-first-Grace-Blackwell-ultra-superchip-in-US.aspx?xy=rss",
+      "published": "2026-07-22T01:10:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen bears turn cautious near four-decade low amid looming intervention risks",
+      "summary": "The USD/JPY enters a bullish consolidation phase during the Asian session on Wednesday and holds steady above the 163.00 mark, near its highest level since 1986 set the previous day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bears-turn-cautious-near-four-decade-low-amid-looming-intervention-risks-202607220109",
+      "published": "2026-07-22T01:09:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump administration to provide Congress agreement on Saudi nuclear power lacking safeguards, sources say",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9687975/Trump-administration-to-provide-Congress-agreement-on-Saudi-nuclear-power-lacking-safeguards-sources-say.aspx?xy=rss",
+      "published": "2026-07-22T01:08:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump approves historic nuclear agreement with Saudi Arabia - WSJ",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9687956/Trump-approves-historic-nuclear-agreement-with-Saudi-Arabia---WSJ.aspx?xy=rss",
+      "published": "2026-07-22T00:55:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro holds gains above 1.1400 on hawkish ECB expectations despite US-Iran tensions",
+      "summary": "The EUR/USD pair trades with mild gains around 1.1405 during the early Asian session on Wednesday. A hawkish tone from the European Central Bank (ECB) provides some support to the Euro (EUR) against the US Dollar (USD). Traders await the upcoming ECB interest rate decision on Thursday.",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11400-on-hawkish-ecb-expectations-despite-us-iran-tensions-202607220030",
+      "published": "2026-07-22T00:30:48+00:00",
+      "score": 1
+    },
     {
       "source": "Walter Bloomberg",
       "category": "twitter",
@@ -32,47 +230,20 @@
     {
       "source": "FXStreet",
       "category": "news",
+      "title": "Gold rebounds above $4,050 as safe-haven demand intensified on persistent US‑Iran tensions",
+      "summary": "Gold price (XAU/USD) gains ground to around $4,080 during the early Asian session on Wednesday. The precious metal rebounds as safe-haven demand intensified globally after retreating to the $4,000 psychological level in the previous session.",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-050-as-safe-haven-demand-intensified-on-persistent-us-iran-tensions-202607212318",
+      "published": "2026-07-21T23:18:11+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
       "title": "British Pound Sterling gets a decent jobs report and sells off anyway",
       "summary": "The British Pound received a labour market report on Tuesday that beat consensus on nearly every line, and sold off anyway.",
       "link": "https://www.fxstreet.com/news/british-pound-sterling-gets-a-decent-jobs-report-and-sells-off-anyway-202607212300",
       "published": "2026-07-21T23:00:43+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: After two years, tariff to rise to 100% for one year, then 200% afterward",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687843/Trump-After-two-years-tariff-to-rise-to-100-for-one-year-then-200-afterward.aspx?xy=rss",
-      "published": "2026-07-21T22:55:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Starting Aug. 1, 2026, all generic drugs entering US will maintain zero percent tariff for two years",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9687842/Trump-Starting-Aug-1-2026-all-generic-drugs-entering-US-will-maintain-zero-percent-tariff-for-two-years.aspx?xy=rss",
-      "published": "2026-07-21T22:54:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Upside bias holds near 6.7600 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s Quek Ser Leang notes that USD/CNH retains a downside bias in both the 24-hour and 1–3 week horizons, with key support around 6.7600 and strong resistance at 6.7820.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-upside-bias-holds-near-67600-against-us-dollar-uob-202607212057",
-      "published": "2026-07-21T20:57:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar rises as Middle East tensions lift Oil",
-      "summary": "The US Dollar (USD) advances on Tuesday as escalating tensions between the United States (US) and Iran push energy prices higher and revive concerns that inflation could remain elevated. The Greenback also benefits from safe-haven demand despite softer US inflation and employment indicators.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-rises-as-middle-east-tensions-lift-oil-202607212049",
-      "published": "2026-07-21T20:49:54+00:00",
-      "score": 2
     },
     {
       "source": "Kobeissi Letter",
@@ -81,33 +252,6 @@
       "summary": "<p>Bearish bets on US stocks are surging:<br />\n<br />\nShort interest in the S&amp;P 500 is up to ~3.7% of its free float, near the highest in data going back to 2010.<br />\n<br />\nShort interest in the Russell 3000 is up to ~6.1%, also near an all-time high.<br />\n<br />\nBoth metrics have steadily increased since the start of 2025.<br />\n<br />\nFurthermore, short interest across all NYSE-listed s",
       "link": "https://nitter.net/KobeissiLetter/status/2079669740805460041#m",
       "published": "2026-07-21T20:47:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve seen holding rates next week amid Oil shock ‒ Reuters",
-      "summary": "A Reuters poll revealed that the Federal Reserve is most likely to keep interest rates unchanged for the rest of the year as it battles stubbornly high inflation that has remained above the Fed’s 2% goal for at least 5 years.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-seen-holding-rates-next-week-amid-oil-shock-reuters-202607212027",
-      "published": "2026-07-21T20:27:44+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen tumbles to 40-year low as US Dollar safe-haven rush deepens",
-      "summary": "The USD/JPY extends its rally on Tuesday, hitting 40-year highs above 163.00 as the Greenback continues to gain ground versus the Japanese Yen. At the time of writing, the USD/JPY trades at 163.19, slightly shy of the multi-decade high of 163.24.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-tumbles-to-40-year-low-as-dollar-haven-rush-deepens-202607212012",
-      "published": "2026-07-21T20:12:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South Korean Won: Support cluster near 1,464/1,461 – Societe Generale",
-      "summary": "Societe Generale’s technical team notes USD/KRW failed twice to break above the June high around 1,561, triggering a deeper decline towards the 200-day moving average. The pair is now testing this key MA, with next support at a multi-month ascending trend line near 1,464/1,461.",
-      "link": "https://www.fxstreet.com/news/south-korean-won-support-cluster-near-1-464-1-461-societe-generale-202607211939",
-      "published": "2026-07-21T19:39:00+00:00",
       "score": 1
     },
     {
@@ -129,51 +273,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG to break resistance trendline, eyes on $60",
-      "summary": "Silver price (XAG/USD) surges over 4.50% on Tuesday, reaching five-day highs, clearing $59.00 as buyers push the white metal to test a downslope resistance trendline near the $59.65/$50.75 range, about to surpass the $60.00 mark.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-to-break-resistance-trendline-eyes-on-60-202607211918",
-      "published": "2026-07-21T19:18:39+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canada's Loonie meets another 50% tariff",
-      "summary": "USD/CAD trades just above the 1.4100 handle into the North American afternoon, up around a fifth of one percent and on track for a second consecutive daily advance.",
-      "link": "https://www.fxstreet.com/news/canadas-loonie-meets-another-50-tariff-202607211905",
-      "published": "2026-07-21T19:05:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold price rallies amid Gulf war strikes, strong US Dollar",
-      "summary": "Gold price surges on Tuesday during the North American session, up by more than 1.50% amid continued missile strikes between the US and Iran despite mediators' efforts to end the war. The XAU/USD trades at $4,071",
-      "link": "https://www.fxstreet.com/news/gold-price-rallies-amid-gulf-war-strikes-strong-us-dollar-202607211848",
-      "published": "2026-07-21T18:48:16+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index hits one-week high as US-Iran tensions intensify",
-      "summary": "The US Dollar Index (DXY) extends its gains on Tuesday as renewed tensions between the United States and Iran show no signs of easing, boosting demand for the safe-haven Greenback.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-hits-one-week-high-as-us-iran-tensions-intensify-202607211825",
-      "published": "2026-07-21T18:25:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah: Tentative stabilisation with key levels against US Dollar – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong see USD/IDR easing modestly from recent highs, helped by S&amp;P’s rating affirmation and Bank Indonesia’s prior tightening. However, elevated Oil prices, lingering fiscal concerns and still-soft portfolio inflows limit further IDR gains.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-tentative-stabilisation-with-key-levels-against-us-dollar-ocbc-202607211817",
-      "published": "2026-07-21T18:17:00+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "The AI boom is transforming one of the biggest deflationary forces into a key source of US inflation: Import prices for computer and electronic products surged +7.4% in the first 6 months of 2026, to 77.1 points, the highest since January 2016. This also marks a +8.0% YoY jump, the largest annual increase on record. This represents a historic reversal from a downtrend which persisted for over two decades. Between 2006 and 2019, computer and electronic product import prices fell -30%, as improving technology and manufacturing efficiency consistently pushed costs lower. Now, the AI investment boom is straining manufacturing capacity for semiconductors, servers, and electronic components, as companies race to build out AI infrastructure regardless of cost. The AI revolution has flipped technology from a long-term source of deflation into a major driver of inflation.",
@@ -181,24 +280,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2079622661374640270#m",
       "published": "2026-07-21T17:40:54+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Range-bound trading holds near-term against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang expects USD/SGD to stay confined to tight ranges in the near term, with intraday price action lacking clear momentum.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-bound-trading-holds-near-term-against-us-dollar-uob-202607211738",
-      "published": "2026-07-21T17:38:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound drops as geopolitical risk premium revives USD",
-      "summary": "The Pound Sterling loses some ground against the US Dollar, down by 0.48%, as risk appetite in the foreign exchange markets deteriorates, with the Greenback reclaiming key technical levels in the US Dollar Index (DXY) amid the escalation of the US-Iran conflict.",
-      "link": "https://www.fxstreet.com/news/british-pound-drops-as-geopolitical-risk-premium-revives-the-usd-202607211613",
-      "published": "2026-07-21T16:13:41+00:00",
-      "score": 3
     },
     {
       "source": "Walter Bloomberg",
@@ -396,24 +477,6 @@
       "summary": "<p>The South Korean and US AI trades are becoming increasingly synchronized:<br />\n<br />\nThe 60-day correlation between the KOSPI and Nasdaq 100 index is up to +0.46, the highest since July 2024.<br />\n<br />\nThis marks a sharp reversal from a negative correlation of -0.20 recorded in March.<br />\n<br />\nBy comparison, the 5-year average is just +0.16 or nearly one-third the 60-day metric.<br />\n",
       "link": "https://nitter.net/KobeissiLetter/status/2079362470267818031#m",
       "published": "2026-07-21T00:27:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump is imposing an additional 50% tariff on a range of Canadian goods in response to \"trade discrimination.\" Details include: 1. President Trump signed 3 proclamations today targeting different sets of Canadian imports 2. The tariffs are targeting separate areas where the US says it has experienced discrimination 3. The tariffs fall under Section 338 of the Tariff Act of 1930 These tariffs are set to take effect in 30 days.",
-      "summary": "<p>BREAKING: President Trump is imposing an additional 50% tariff on a range of Canadian goods in response to \"trade discrimination.\"<br />\n<br />\nDetails include:<br />\n<br />\n1. President Trump signed 3 proclamations today targeting different sets of Canadian imports<br />\n<br />\n2. The tariffs are targeting separate areas where the US says it has experienced discrimination <br />\n<br />\n3. The ",
-      "link": "https://nitter.net/KobeissiLetter/status/2079312046923940275#m",
-      "published": "2026-07-20T21:06:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The AI boom is creating a generational divide in software jobs: US software developer employment for those aged 22-25 has declined -23% since November 2022, when ChatGPT was launched. At the same time, the 26-30 age group has seen a decrease of -5%. By comparison, employment among software developers aged 41-49 has risen +18% over the same period. This creates a 41 percentage point gap between the youngest and one of the most experienced groups within the same profession. Meanwhile, early-career workers in the most AI-exposed jobs have experienced a -16% decline in employment relative to less-exposed occupations and more experienced peers since November 2022, even after adjusting for firm-specific shocks. By contrast, employment among workers in less AI-exposed fields, as well as more experienced workers within the same occupations, has remained steady or continued to grow. The AI revolution is wiping out entry-level tech jobs.",
-      "summary": "<p>The AI boom is creating a generational divide in software jobs:<br />\n<br />\nUS software developer employment for those aged 22-25 has declined -23% since November 2022, when ChatGPT was launched.<br />\n<br />\nAt the same time, the 26-30 age group has seen a decrease of -5%.<br />\n<br />\nBy comparison, employment among software developers aged 41-49 has risen +18% over the same period.<br />\n<b",
-      "link": "https://nitter.net/KobeissiLetter/status/2079307547610366340#m",
-      "published": "2026-07-20T20:48:45+00:00",
       "score": 1
     },
     {
