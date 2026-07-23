@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-07-23T16:08:08.956154+00:00",
-  "count": 66,
+  "updated_at": "2026-07-23T17:46:37.340492+00:00",
+  "count": 61,
   "items": [
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Starting the test for this Algo System",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v4krcb/starting_the_test_for_this_algo_system/\"> <img alt=\"Starting the test for this Algo System\" src=\"https://preview.redd.it/el97ztp4m0fh1.jpg?width=140&amp;height=64&amp;auto=webp&amp;s=ed77c9be57b74de9233f7fd8b613bfbcdd00a7b6\" title=\"Starting the test for this Algo System\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Ga",
+      "link": "https://www.reddit.com/r/Forex/comments/1v4krcb/starting_the_test_for_this_algo_system/",
+      "published": "2026-07-23T17:34:22+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: AMD: The new Epyc has 20% more performance than an NVIDIA CPU. $AMD $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9691104/AMD-The-new-Epyc-has-20-more-performance-than-an-NVIDIA-CPU-AMD-NVDA.aspx?xy=rss",
+      "published": "2026-07-23T17:21:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Bears target a break below 1.1350 support",
+      "summary": "EUR/USD trades on the back foot on Thursday as the expanding war in the Middle East pushes Oil prices higher and fuels hawkish Federal Reserve (Fed) expectations, boosting demand for the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bears-target-a-break-below-11350-support-202607231704",
+      "published": "2026-07-23T17:04:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 10-Year TIPS Auction",
+      "summary": "<ul><li>High Yield 2.438% [Tail +2.8 bps]</li><li>Bid-to-cover 2.30</li><li>Sells $21 bln</li><li>Awards 61.88% of bids at high</li><li>Primary Dealers take 9.9%</li><li>Direct 25.0%</li><li>Indirect 65.2%</li></ul>",
+      "link": "https://www.financialjuice.com/News/9691076/US-10-Year-TIPS-Auction.aspx?xy=rss",
+      "published": "2026-07-23T17:03:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 10-Year TIPS High Yield Actual 2.438% (Forecast -, Previous 2.169%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9691069/US-10-Year-TIPS-High-Yield-Actual-2438-Forecast---Previous-2169.aspx?xy=rss",
+      "published": "2026-07-23T17:02:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: WI 10y tips yield about 2.41% before the $21 billion auction",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9691061/WI-10y-tips-yield-about-241-before-the-21-billion-auction.aspx?xy=rss",
+      "published": "2026-07-23T17:00:19+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -14,37 +68,10 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound slides as Gulf War risk fuels US Dollar rally",
+      "title": "British Pound slides as Gulf war risk fuels US Dollar rally",
       "summary": "The Pound Sterling drops by over 0.40% against the Greenback as risk aversion weighs on most G8 currencies amid the escalation of the Middle East conflict and growing speculation of an extended US campaign against Iran. The GBP/USD trades at 1.3313 after reaching a daily high at 1.3393.",
       "link": "https://www.fxstreet.com/news/british-pound-slides-as-gulf-war-risk-fuels-us-dollar-rally-202607231548",
       "published": "2026-07-23T15:48:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WH Press Sec. Leavitt: Trump has not yet spoken to the Saudi leader on the nuclear deal condition",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9690955/WH-Press-Sec-Leavitt-Trump-has-not-yet-spoken-to-the-Saudi-leader-on-the-nuclear-deal-condition.aspx?xy=rss",
-      "published": "2026-07-23T15:36:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.730% (Forecast -, Previous 3.660%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9690947/US-4-Week-Bill-High-Yield-Actual-3730-Forecast---Previous-3660.aspx?xy=rss",
-      "published": "2026-07-23T15:32:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 4-Week Bill Auction",
-      "summary": "<ul><li>High Yield 3.73%</li><li>Bid-to-cover 2.79</li><li>Sells $110 bln</li><li>Awards 11.81% of bids at high</li></ul>",
-      "link": "https://www.financialjuice.com/News/9690952/US-4-Week-Bill-Auction.aspx?xy=rss",
-      "published": "2026-07-23T15:32:32+00:00",
       "score": 1
     },
     {
@@ -66,51 +93,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to Israel's Channel 12 News: I am considering a massive attack. Larger than anything that has been done before. I am close to making a decision.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9690920/Trump-to-Israels-Channel-12-News-I-am-considering-a-massive-attack-Larger-than-anything-that-has-been-done-before-I-am-close-to-making-a-decision.aspx?xy=rss",
-      "published": "2026-07-23T15:27:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WH Press Sec. Leavitt: Trump will host a Cabinet Meeting at Camp David next Friday.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9690919/WH-Press-Sec-Leavitt-Trump-will-host-a-Cabinet-Meeting-at-Camp-David-next-Friday.aspx?xy=rss",
-      "published": "2026-07-23T15:26:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WH Press Sec. Leavitt: Trump is going to travel to Michigan on Monday.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9690918/WH-Press-Sec-Leavitt-Trump-is-going-to-travel-to-Michigan-on-Monday.aspx?xy=rss",
-      "published": "2026-07-23T15:25:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed bids for 4-week bills total $6.6 bln.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9690911/Fed-bids-for-4-week-bills-total-66-bln.aspx?xy=rss",
-      "published": "2026-07-23T15:15:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fitch Ratings: Chinese money market funds continue to expand despite low yields.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9690909/Fitch-Ratings-Chinese-money-market-funds-continue-to-expand-despite-low-yields.aspx?xy=rss",
-      "published": "2026-07-23T15:10:04+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The Nasdaq 100 extends losses to over -2.5% on the day as the Iran War escalates and technology stocks drop on earnings results. The S&P 500 has now erased -$900 billion in market cap today.",
@@ -122,7 +104,7 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Japanese Yen falls near multi decade low",
+      "title": "Japanese Yen falls near multi-decade low",
       "summary": "USD/JPY trades above163.90 on Thursday as the US Dollar (USD) strengthens following significantly better-than-expected United States (US) labor market data.",
       "link": "https://www.fxstreet.com/news/japanese-yen-falls-near-multi-decade-low-202607231503",
       "published": "2026-07-23T15:03:19+00:00",
@@ -252,15 +234,6 @@
       "summary": "BNY's Geoff Yu highlights that Brent has surged into the high $90s as Houthi attacks and U.S.-Iran escalation raise disruption risks around the Strait of Hormuz and Red Sea. Bond markets are treating this as an inflation shock, with higher yields and tighter financial conditions.",
       "link": "https://www.fxstreet.com/news/oil-geopolitical-shock-tightens-conditions-bny-202607231239",
       "published": "2026-07-23T12:39:53+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar eases despite stronger Retail Sales and rising Oil prices",
-      "summary": "USD/CAD rebounds on Thursday as the US Dollar (USD) regains momentum amid rising tensions in the Middle East and growing Federal Reserve (Fed) rate hike bets, while traders show a muted reaction to Canadian Retail Sales data.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-eases-despite-stronger-retail-sales-and-rising-oil-prices-202607231238",
-      "published": "2026-07-23T12:38:13+00:00",
       "score": 2
     },
     {
@@ -399,15 +372,6 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump says the US will bomb and destroy one bridge or power plant for every time Iran shoots at a ship in the Strait of Hormuz “from this point forward.” Trump says this includes bridges and power plants next to or in Tehran.",
-      "summary": "<p>BREAKING: President Trump says the US will bomb and destroy one bridge or power plant for every time Iran shoots at a ship in the Strait of Hormuz “from this point forward.”<br />\n<br />\nTrump says this includes bridges and power plants next to or in Tehran.</p>\n<img src=\"https://nitter.net/pic/media%2FHN1YGH8WcAAX6yd.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2079915469859889416#m",
-      "published": "2026-07-22T13:04:25+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Have you ever traded Gold (XAU/USD) and ended up losing money?",
@@ -432,15 +396,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v35mip/gbpusd_analysis/\"> <img alt=\"GBPUSD Analysis\" src=\"https://preview.redd.it/d0i4d3x7lpeh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a52a539d743b6035fd90a3174d6edd5a0025af32\" title=\"GBPUSD Analysis\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>GBPUSD going down what's your views about it please share?</p> </div><",
       "link": "https://www.reddit.com/r/Forex/comments/1v35mip/gbpusd_analysis/",
       "published": "2026-07-22T04:29:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "I Left Money on the Table… and I’d Do It Again.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v2hcx6/i_left_money_on_the_table_and_id_do_it_again/\"> <img alt=\"I Left Money on the Table… and I’d Do It Again.\" src=\"https://preview.redd.it/xl9cx0oewkeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=81c95d519067d01c1f9f789e613c80a690ca184f\" title=\"I Left Money on the Table… and I’d Do It Again.\" /> </a> </td><td> <!-- SC_OF",
-      "link": "https://www.reddit.com/r/Forex/comments/1v2hcx6/i_left_money_on_the_table_and_id_do_it_again/",
-      "published": "2026-07-21T12:43:11+00:00",
       "score": 1
     },
     {
