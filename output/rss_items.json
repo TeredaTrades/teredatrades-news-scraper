@@ -1,7 +1,124 @@
 {
-  "updated_at": "2026-07-23T22:40:38.748912+00:00",
-  "count": 46,
+  "updated_at": "2026-07-23T23:41:08.670509+00:00",
+  "count": 59,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold slumps to near $4,050 as Middle East conflict fuels inflation worries",
+      "summary": "Gold price (XAU/USD) faces some selling pressure to around $4,050 during the early Asian session on Friday.",
+      "link": "https://www.fxstreet.com/news/gold-slumps-to-near-4-050-as-middle-east-conflict-fuels-inflation-worries-202607232337",
+      "published": "2026-07-23T23:37:33+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japan’s National CPI climbs 1.7% YoY in June, Core CPI rises as expected",
+      "summary": "Japan’s National Consumer Price Index (CPI) rose by 1.7% YoY in June, compared to the previous reading of 1.5%, according to the latest data released by the Japan Statistics Bureau on Friday.",
+      "link": "https://www.fxstreet.com/news/japans-national-cpi-climbs-17-yoy-in-june-core-cpi-rises-as-expected-202607232331",
+      "published": "2026-07-23T23:31:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japan core-core CPI increases at slowest rate since August 2022",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9691537/Japan-core-core-CPI-increases-at-slowest-rate-since-August-2022.aspx?xy=rss",
+      "published": "2026-07-23T23:30:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japan June nationwide core CPI rises 1.6% year on year: government (Poll +1.6%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9691534/Japan-June-nationwide-core-CPI-rises-16-year-on-year-government-Poll-16.aspx?xy=rss",
+      "published": "2026-07-23T23:30:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japan June Nationwide Overall CPI Rises 1.7% Year Over Year: Govt",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9691533/Japan-June-Nationwide-Overall-CPI-Rises-17-Year-Over-Year-Govt.aspx?xy=rss",
+      "published": "2026-07-23T23:30:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japanese Core CPI Nationwide YoY Actual 1.6% (Forecast 1.6%, Previous 1.4%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9691532/Japanese-Core-CPI-Nationwide-YoY-Actual-16-Forecast-16-Previous-14.aspx?xy=rss",
+      "published": "2026-07-23T23:30:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japanese CPI Overall Nationwide Actual 1.7% (Forecast 1.7%, Previous 1.5%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9691531/Japanese-CPI-Overall-Nationwide-Actual-17-Forecast-17-Previous-15.aspx?xy=rss",
+      "published": "2026-07-23T23:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australia's S&P Global Manufacturing PMI rises to 51.7 in July",
+      "summary": "The preliminary reading of Australia's S&amp;P Global Manufacturing Purchasing Managers Index (PMI) rose to 51.7 in July versus 51.5 prior, the latest data published by S&amp;P Global showed on Friday.",
+      "link": "https://www.fxstreet.com/news/australias-sp-global-manufacturing-pmi-rises-to-517-in-july-202607232302",
+      "published": "2026-07-23T23:02:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australia S&P Global July flash composite PMI rises to 52.6 from 50.4 in June",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9691495/Australia-SP-Global-July-flash-composite-PMI-rises-to-526-from-504-in-June.aspx?xy=rss",
+      "published": "2026-07-23T23:00:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australia S&P Global July Flash Services PMI at 53, Up From 50.5 in June",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9691494/Australia-SP-Global-July-Flash-Services-PMI-at-53-Up-From-505-in-June.aspx?xy=rss",
+      "published": "2026-07-23T23:00:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australia S&P Global July flash manufacturing PMI at 51.7 vs 51.5 in June",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9691493/Australia-SP-Global-July-flash-manufacturing-PMI-at-517-vs-515-in-June.aspx?xy=rss",
+      "published": "2026-07-23T23:00:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia and Kaist open joint AI research lab to boost AI innovation in Korea",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9691492/Nvidia-and-Kaist-open-joint-AI-research-lab-to-boost-AI-innovation-in-Korea.aspx?xy=rss",
+      "published": "2026-07-23T23:00:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump says \"any and all damages\" done to ships, cargo, or anything related will be paid for by Iranian funds that the US has in its position \"from this point forth.\"",
+      "summary": "<p>BREAKING: President Trump says \"any and all damages\" done to ships, cargo, or anything related will be paid for by Iranian funds that the US has in its position \"from this point forth.\"</p>\n<img src=\"https://nitter.net/pic/media%2FHN8m5TOXsAAgg0l.png\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2080424539360571422#m",
+      "published": "2026-07-23T22:47:17+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -12,39 +129,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran Will Settle Any Damages to Ships, Cargo With Funds Held by US",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9691451/Trump-Iran-Will-Settle-Any-Damages-to-Ships-Cargo-With-Funds-Held-by-US.aspx?xy=rss",
-      "published": "2026-07-23T22:05:16+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "New Zealand Dollar falls as strong US labor data supports the Dollar",
       "summary": "NZD/USD trades lower near the 0.5770 area on Thursday as the US Dollar (USD) strengthens following better-than-expected United States (US) labor-market data.",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-falls-as-strong-us-labor-data-supports-the-dollar-202607232144",
       "published": "2026-07-23T21:44:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump administration introduces new tariffs under section 301 to combat forced labor in goods production",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9691395/Trump-administration-introduces-new-tariffs-under-section-301-to-combat-forced-labor-in-goods-production.aspx?xy=rss",
-      "published": "2026-07-23T21:04:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Amkor Technology: Nvidia deal boosts Amkor U.S. capacity growth in Arizona",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9691365/Amkor-Technology-Nvidia-deal-boosts-Amkor-US-capacity-growth-in-Arizona.aspx?xy=rss",
-      "published": "2026-07-23T21:00:51+00:00",
       "score": 1
     },
     {
@@ -129,39 +219,21 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Bears target a break below 1.1350 support",
-      "summary": "EUR/USD trades on the back foot on Thursday as the expanding war in the Middle East pushes Oil prices higher and fuels hawkish Federal Reserve (Fed) expectations, boosting demand for the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bears-target-a-break-below-11350-support-202607231704",
-      "published": "2026-07-23T17:04:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US President Trump: “I'm considering a massive attack greater than anything before”",
-      "summary": "US President Donald Trump said he is close to deciding whether to launch a new military operation against Iran, according to Israel’s N12. Trump said he is “considering a massive attack greater than anything before,” adding that Israel would join the operation “within two minutes” if requested.",
-      "link": "https://www.fxstreet.com/news/us-president-trump-im-considering-a-massive-attack-greater-than-anything-before-202607231559",
-      "published": "2026-07-23T15:59:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound slides as Gulf war risk fuels US Dollar rally",
-      "summary": "The Pound Sterling drops by over 0.40% against the Greenback as risk aversion weighs on most G8 currencies amid the escalation of the Middle East conflict and growing speculation of an extended US campaign against Iran. The GBP/USD trades at 1.3313 after reaching a daily high at 1.3393.",
-      "link": "https://www.fxstreet.com/news/british-pound-slides-as-gulf-war-risk-fuels-us-dollar-rally-202607231548",
-      "published": "2026-07-23T15:48:17+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says he is \"close\" to a decision on a \"massive attack\" on Iran, per Axios. Details include: 1. President Trump says \"we are all set for it\" regarding the attack which he has been hinting at for weeks 2. President Trump says this attack would be \"bigger than ever before\" 3. President Trump said Israel \"would join in two minutes if I ask them to,\" but added that \"we don't need anybody\" \"They haven't received enough pain yet,\" Trump says.",
       "summary": "<p>BREAKING: President Trump says he is \"close\" to a decision on a \"massive attack\" on Iran, per Axios.<br />\n<br />\nDetails include:<br />\n<br />\n1. President Trump says \"we are all set for it\" regarding the attack which he has been hinting at for weeks<br />\n<br />\n2. President Trump says this attack would be \"bigger than ever before\"<br />\n<br />\n3. President Trump said Israel \"would join in tw",
       "link": "https://nitter.net/KobeissiLetter/status/2080315122665304543#m",
       "published": "2026-07-23T15:32:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SAID ON THURSDAY THAT HE IS SERIOUSLY CONSIDERING RESTARTING MAJOR COMBAT OPERATIONS IN IRAN -AXIOS",
+      "summary": "<p>TRUMP SAID ON THURSDAY THAT HE IS SERIOUSLY CONSIDERING RESTARTING MAJOR COMBAT OPERATIONS IN IRAN -AXIOS</p>",
+      "link": "https://nitter.net/DeItaone/status/2080314904020471816#m",
+      "published": "2026-07-23T15:31:38+00:00",
       "score": 1
     },
     {
@@ -201,6 +273,15 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*FORD WILL USE APPLE SOFTWARE IN NEW SELF-DRIVING SYSTEM: NYT",
+      "summary": "<p>*FORD WILL USE APPLE SOFTWARE IN NEW SELF-DRIVING SYSTEM: NYT</p>",
+      "link": "https://nitter.net/DeItaone/status/2080277124120776851#m",
+      "published": "2026-07-23T13:01:30+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says the US will “hold Iran responsible” for strikes conducted by Yemen’s Houthis. Last night, the Houthis struck two Saudi Arabian vessels in the Red Sea.",
@@ -208,15 +289,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2080275445732286890#m",
       "published": "2026-07-23T12:54:50+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold falls as Iran war lifts Oil prices, Fed rate hike bets",
-      "summary": "Gold (XAU/USD) loses ground on Thursday, snapping a four-day winning streak as the US Dollar (USD) rebounds, while the widening war in the Middle East drives Oil prices higher. At the time of writing, XAU/USD trades around $4,050 after hitting a two-week high of $4,165 on Wednesday.",
-      "link": "https://www.fxstreet.com/news/gold-falls-as-middle-east-tensions-lift-oil-prices-fed-rate-hike-bets-202607231133",
-      "published": "2026-07-23T11:33:35+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
@@ -237,21 +309,30 @@
       "score": 3
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We're winning in Iran",
+      "summary": "<p>Trump: We're winning in Iran</p>",
+      "link": "https://nitter.net/DeItaone/status/2080016914772787510#m",
+      "published": "2026-07-22T19:47:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We don't need the Hormuz Strait",
+      "summary": "<p>Trump: We don't need the Hormuz Strait</p>",
+      "link": "https://nitter.net/DeItaone/status/2080016834447777860#m",
+      "published": "2026-07-22T19:47:12+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "The 10Y Note Yield is now nearing 4.70% and a fresh 52-week high. This puts the 10Y Note Yield up over +70 basis points since the Iran War began. The market continues to brace for an energy shock.",
       "summary": "<p>The 10Y Note Yield is now nearing 4.70% and a fresh 52-week high.<br />\n<br />\nThis puts the 10Y Note Yield up over +70 basis points since the Iran War began.<br />\n<br />\nThe market continues to brace for an energy shock.</p>\n<a href=\"https://nitter.net/KobeissiLetter/status/2080015385634418825#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2080015343301320705%2",
       "link": "https://nitter.net/KobeissiLetter/status/2080015385634418825#m",
       "published": "2026-07-22T19:41:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Iran threatens to target energy sites if the US bombs Iranian power plants. This comes just hours after President Trump said the US would begin targeting Iranian power plants and bridges for each ship Iran targets in the Strait of Hormuz.",
-      "summary": "<p>BREAKING: Iran threatens to target energy sites if the US bombs Iranian power plants.<br />\n<br />\nThis comes just hours after President Trump said the US would begin targeting Iranian power plants and bridges for each ship Iran targets in the Strait of Hormuz.</p>",
-      "link": "https://nitter.net/KobeissiLetter/status/2079968641265655823#m",
-      "published": "2026-07-22T16:35:42+00:00",
       "score": 1
     },
     {
@@ -262,6 +343,42 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v3ippd/gold_broke_a_twoweek_range_today_but_the_dollar/",
       "published": "2026-07-22T15:02:59+00:00",
       "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: Iran is going to pay a big price",
+      "summary": "<p>Trump: Iran is going to pay a big price</p>",
+      "link": "https://nitter.net/DeItaone/status/2079929930851184939#m",
+      "published": "2026-07-22T14:01:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: Americans are not against the war in Iran",
+      "summary": "<p>Trump: Americans are not against the war in Iran</p>",
+      "link": "https://nitter.net/DeItaone/status/2079929703800897536#m",
+      "published": "2026-07-22T14:00:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ESCALATES RHETORIC President Trump warned that any attack by Iran on ships in the Strait of Hormuz would trigger U.S. strikes on Iranian infrastructure, including bridges and power plants near Tehran. The statement marks a sharp escalation in rhetoric, reinforcing tensions around one of the world’s most strategically important shipping routes.",
+      "summary": "<p>TRUMP ESCALATES RHETORIC<br />\n<br />\nPresident Trump warned that any attack by Iran on ships in the Strait of Hormuz would trigger U.S. strikes on Iranian infrastructure, including bridges and power plants near Tehran.<br />\n<br />\nThe statement marks a sharp escalation in rhetoric, reinforcing tensions around one of the world’s most strategically important shipping routes.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079917299813773353#m",
+      "published": "2026-07-22T13:11:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. S&P 500 E-MINI FUTURES DOWN 0.4%, NASDAQ 100 FUTURES DOWN 0.9%, DOW FUTURES DOWN 0.3%",
+      "summary": "<p>U.S. S&amp;P 500 E-MINI FUTURES DOWN 0.4%, NASDAQ 100 FUTURES DOWN 0.9%, DOW FUTURES DOWN 0.3%</p>",
+      "link": "https://nitter.net/DeItaone/status/2079839158034448763#m",
+      "published": "2026-07-22T08:01:11+00:00",
+      "score": 2
     },
     {
       "source": "Federal Reserve",
