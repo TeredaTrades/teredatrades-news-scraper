@@ -1,7 +1,187 @@
 {
-  "updated_at": "2026-07-24T11:45:43.771229+00:00",
-  "count": 56,
+  "updated_at": "2026-07-24T13:49:27.966619+00:00",
+  "count": 66,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US S&P Services PMI Flash Actual 53.6 (Forecast 51.5, Previous 51.2)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692575/US-SP-Services-PMI-Flash-Actual-536-Forecast-515-Previous-512.aspx?xy=rss",
+      "published": "2026-07-24T13:45:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US S&P Manufacturing PMI Flash Actual 53.8 (Forecast 54.4, Previous 53.9)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692574/US-SP-Manufacturing-PMI-Flash-Actual-538-Forecast-544-Previous-539.aspx?xy=rss",
+      "published": "2026-07-24T13:45:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US S&P Composite PMI Flash  Actual 53.6 (Forecast 52.2, Previous 51.9)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692573/US-SP-Composite-PMI-Flash--Actual-536-Forecast-522-Previous-519.aspx?xy=rss",
+      "published": "2026-07-24T13:45:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South African Rand: Weakness resumes after SARB surprise – Societe Generale",
+      "summary": "Societe Generale analysts report USD/ZAR has broken above a multi-month descending trend line and reclaimed its 200-day moving average, suggesting renewed upside momentum. The South African Reserve Bank surprised markets by holding rates at 7.0%.",
+      "link": "https://www.fxstreet.com/news/south-african-rand-weakness-resumes-after-sarb-surprise-societe-generale-202607241336",
+      "published": "2026-07-24T13:36:25+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: +149 mln<br />Nasdaq 100: -27 mln<br />Dow 30: +47 mln<br />Mag 7: -15 mln",
+      "link": "https://www.financialjuice.com/News/9692566/MOO-Imbalance.aspx?xy=rss",
+      "published": "2026-07-24T13:30:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: BoJ repricing may limit JPY losses against US Dollar - BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes that USD/JPY is consolidating just below a multi-decade high as Japan’s private sector growth strengthens and Consumer Price Index (CPI) tracks below Bank of Japan (BoJ) forecasts.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-repricing-may-limit-jpy-losses-against-us-dollar-bbh-202607241320",
+      "published": "2026-07-24T13:20:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: German government spokesperson on new Us tariffs: Like the European commission, the federal government assumes that the provisions of the EU-US customs agreement will be adhered to",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692553/German-government-spokesperson-on-new-Us-tariffs-Like-the-European-commission-the-federal-government-assumes-that-the-provisions-of-the-EU-US-customs-agreement-will-be-adhered-to.aspx?xy=rss",
+      "published": "2026-07-24T13:13:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Effective Fed Funds Rate 3.63% July 23 vs 3.63% July 22.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692524/Effective-Fed-Funds-Rate-363-July-23-vs-363-July-22.aspx?xy=rss",
+      "published": "2026-07-24T12:59:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "European Central Bank: September hike risk rises with oil and PMIs – Commerzbank",
+      "summary": "Commerzbank analysts highlight that ECB President Lagarde has opened the door to a September rate hike, with sources suggesting euro area inflation must improve markedly to avoid tightening.",
+      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-risk-rises-with-oil-and-pmis-commerzbank-202607241257",
+      "published": "2026-07-24T12:57:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Blackrock kicks off us high-grade bond sale tied to Meta $META $BLK",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692523/Blackrock-kicks-off-us-high-grade-bond-sale-tied-to-Meta-META-BLK.aspx?xy=rss",
+      "published": "2026-07-24T12:57:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "Investors are worried about Oracle's credit: Oracle's, $ORCL, 5-year credit default swaps (CDS) are up to a record ~203 basis points. This means protection against Oracle's default now costs ~$203,000 for every $10 million of principal. Oracle's CDS have more than QUADRUPLED since mid-2025, even surpassing the 2008 Financial Crisis peak. The company’s borrowing costs are also rising, with the spread on its 6.7% notes due 2056 widening +8 bps on Monday, to 263 bps, and its 5.7% notes due 2036 widening +9 bps, to 205 bps. Meanwhile, S&P Global Ratings downgraded Oracle to BBB- on July 9th, just 1 notch above junk, citing its rapidly growing AI-related spending. Oracle's credit risk is at crisis levels.",
+      "summary": "<p>Investors are worried about Oracle's credit:<br />\n<br />\nOracle's, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23ORCL\">$ORCL</a>, 5-year credit default swaps (CDS) are up to a record ~203 basis points.<br />\n<br />\nThis means protection against Oracle's default now costs ~$203,000 for every $10 million of principal.<br />\n<br />\nOracle's CDS have more than QUADRUPLED since mid-2025, eve",
+      "link": "https://nitter.net/KobeissiLetter/status/2080638100204568914#m",
+      "published": "2026-07-24T12:55:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Verizon signed $1 bln agreement with Google for data center.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692521/Verizon-signed-1-bln-agreement-with-Google-for-data-center.aspx?xy=rss",
+      "published": "2026-07-24T12:51:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Crédit Agricole: A Flatter \"USD Smile\" Could Weaken the Dollar’s Safe-Haven Appeal - FJElite",
+      "summary": "<div>The financing of the US current account deficit has shifted heavily toward risk-sensitive assets, with more than 80% of foreign inflows over the past year directed into equities and other risk-correlated US assets, compared with only around 19% into Treasuries. That could alter the traditional “USD smile,” where the dollar benefits both from strong US growth and higher rates on one side, and ",
+      "link": "https://www.financialjuice.com/News/9692505/Cr%c3%a9dit-Agricole-A-Flatter-USD-Smile-Could-Weaken-the-Dollars-Safe-Haven-Appeal---FJElite.aspx?xy=rss",
+      "published": "2026-07-24T12:45:28+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United Kingdom: Energy shock keeps risks elevated – Rabobank",
+      "summary": "Rabobank's Senior Macro Strategist Stefan Koopman notes UK headline CPI fell to 2.6% in June, below the MPC’s forecast, with broad-based downside surprises and easing domestic pressures.",
+      "link": "https://www.fxstreet.com/news/united-kingdom-energy-shock-keeps-risks-elevated-rabobank-202607241241",
+      "published": "2026-07-24T12:41:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Economists Agree: Bank of England to stay on hold amid easing inflation outlook",
+      "summary": "The Bank of England (BoE) is expected to keep its interest rate unchanged at 3.75% at its July 30 monetary policy meeting, according to a Reuters poll of 70 economists. None of the respondents expects a change in interest rates at next week's meeting.",
+      "link": "https://www.fxstreet.com/news/economists-agree-bank-of-england-to-stay-on-hold-amid-easing-inflation-outlook-202607241233",
+      "published": "2026-07-24T12:33:21+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "CEE FX: Higher rates to stabilise regional currencies – ING",
+      "summary": "ING’s Frantisek Taborsky reports that surging Oil and gas prices triggered a sharp hawkish repricing of policy paths in Poland, the Czech Republic and Hungary, taking implied tightening back to stressed March–April peaks.",
+      "link": "https://www.fxstreet.com/news/cee-fx-higher-rates-to-stabilise-regional-currencies-ing-202607241216",
+      "published": "2026-07-24T12:16:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD recovers as the US Dollar eases",
+      "summary": "Silver (XAG/USD) trades around $58.55 at the time of writing on Friday, up 2.24% on the day, benefiting from a modest pullback in the US Dollar (USD) following its recent rally.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-recovers-as-the-us-dollar-eases-202607241215",
+      "published": "2026-07-24T12:15:35+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "ECB officials confirm: Eurozone inflation to stay above target for a longer period",
+      "summary": "The Euro (EUR) trades slightly lower to 1.1370 against the US Dollar (USD) during the European trading session on Friday. The major currency pair edges down as the US Dollar strengthens marginally after a strong upside move the previous day.",
+      "link": "https://www.fxstreet.com/news/ecb-officials-confirm-eurozone-inflation-to-stay-above-target-for-a-longer-period-202607241212",
+      "published": "2026-07-24T12:12:45+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Improved UK growth-inflation mix backs Sterling – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad highlights that GBP/USD is consolidating near 1.3300 as United Kingdom (UK) data signal a more favourable growth-inflation mix.",
+      "link": "https://www.fxstreet.com/news/british-pound-improved-uk-growth-inflation-mix-backs-sterling-bbh-202607241202",
+      "published": "2026-07-24T12:02:45+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: ECB hawkish but EUR still disadvantaged against US Dollar – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong observe that while the European Central Bank (ECB) left rates unchanged in July and is expected to deliver at least one more 25 bp hike to 2.50% in September, rising energy prices still tilt terms-of-trade in favor of the US Dollar (USD) over the Euro (EUR).",
+      "link": "https://www.fxstreet.com/news/euro-ecb-hawkish-but-eur-still-disadvantaged-against-us-dollar-ocbc-202607241150",
+      "published": "2026-07-24T11:50:45+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -48,49 +228,13 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB’s Makhlouf: Inflationary pressures have not gone away",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9692317/ECBs-Makhlouf-Inflationary-pressures-have-not-gone-away.aspx?xy=rss",
-      "published": "2026-07-24T10:29:51+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "US S&P Global PMI expected to show steady business growth in July",
-      "summary": "S&amp;P Global will release the July flash Purchasing Managers' Indices (PMIs) for the United States (US) on Friday. These surveys of top private-sector executives are seen as an early indicator of the country’s economic health.",
+      "title": "Breaking: United States S&P Global Composite PMI improves to 53.6 in July",
+      "summary": "Business activity in the United States' (US) private sector expanded at an accelerating pace in July, with the S&amp;P Global Composite Purchasing Managers' Index (PMI) improving to 53.6 (preliminary) from 51.9 in June.",
       "link": "https://www.fxstreet.com/news/us-sp-global-pmi-expected-to-show-steady-business-growth-in-july-202607241000",
       "published": "2026-07-24T10:00:00+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) rose on Friday, according to FXStreet data. Silver trades at $58.40 per troy ounce, up 1.98% from the $57.27 it cost on Thursday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202607240931",
-      "published": "2026-07-24T09:31:38+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Fed expectations keep upside in focus – ING",
-      "summary": "ING’s Chris Turner notes the US Dollar (USD) is supported as higher energy prices fuel expectations of further central bank tightening, with markets pricing more hikes from the European Central Bank (ECB) and Bank of England (BoE).",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-expectations-keep-upside-in-focus-ing-202607240923",
-      "published": "2026-07-24T09:23:43+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen remains pinned near 40-year low as Fed-BoJ rate gap keeps carry trade active",
-      "summary": "The USD/JPY pair edges lower on Friday as bulls turn cautious in anticipation of a potential government intervention to prop up the Japanese Yen (JPY).",
-      "link": "https://www.fxstreet.com/news/japanese-yen-remains-pinned-near-40-year-low-as-fed-boj-rate-gap-keeps-carry-trade-active-202607240906",
-      "published": "2026-07-24T09:06:08+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -104,65 +248,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "UK S&P Global Services PMI returns to growth in July, arrives at 51.8",
-      "summary": "According to preliminary data, the United Kingdom (UK) S&amp;P Global Services Purchasing Managers’ Index (PMI) arrives above 50.0 in July, a figure that separates expansion from contraction, after declining in June.",
-      "link": "https://www.fxstreet.com/news/uk-sp-global-services-pmi-returns-to-growth-in-july-arrives-at-518-202607240836",
-      "published": "2026-07-24T08:36:28+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South African Rand: SARB surprise weighs against US Dollar – Commerzbank",
-      "summary": "Commerzbank’s Volkmar Baur says the South African Reserve Bank’s (SARB) decision to keep its policy rate unchanged at 7% came as a negative surprise, particularly after June inflation rose and Brent crude moved above USD 100 per barrel.",
-      "link": "https://www.fxstreet.com/news/south-african-rand-sarb-surprise-weighs-against-us-dollar-commerzbank-202607240833",
-      "published": "2026-07-24T08:33:52+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro remains capped below 1.1400 despite bright Eurozone preliminary PMIs",
-      "summary": "The Euro (EUR) ticks up against the US Dollar (USD) on Friday but remains capped below 1.1400, and dangerously close to the year-to-date low, at 1.1324.",
-      "link": "https://www.fxstreet.com/news/euro-remains-capped-below-11400-despite-bright-eurozone-preliminary-pmis-202607240832",
-      "published": "2026-07-24T08:32:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Oil-led inflation fears cap recovery – ING",
-      "summary": "ING’s Warren Patterson and Ewa Manthey report that Gold has come under pressure as higher Oil prices stoke inflation concerns and push yields and the US Dollar higher.",
-      "link": "https://www.fxstreet.com/news/gold-oil-led-inflation-fears-cap-recovery-ing-202607240812",
-      "published": "2026-07-24T08:12:55+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound retreats from 1.3340 as bright UK data fails to offset risk aversion",
-      "summary": "The British Pound (GBP) remains depressed near three-week lows against the US Dollar (USD) on Friday, with upside attempts capped below 1.3340, and on track for a 1% weekly decline.",
-      "link": "https://www.fxstreet.com/news/british-pound-remains-depressed-near-13300-despite-upbeat-uk-retail-sales-data-202607240628",
-      "published": "2026-07-24T06:28:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Indian Rupee holds early gains amid renewed RBI intervention rumours",
       "summary": "The Indian Rupee gains strongly after a flat opening against the US Dollar (USD) on Friday. The USD/INR pair declines to near 96.50 as the Reserve Bank of India (RBI) has intervened again to support the Indian Rupee.",
       "link": "https://www.fxstreet.com/news/indian-rupee-rises-as-rbi-intervenes-again-202607240546",
       "published": "2026-07-24T05:46:05+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold climbs above $4,050 on retreating USD; upside seems limited amid Fed hike bets",
-      "summary": "Gold (XAU/USD) builds on its modest intraday bounce and climbs back above the $4,050 level, hitting a fresh daily high during the first half of the European session on Friday amid a modest US Dollar (USD) pullback.",
-      "link": "https://www.fxstreet.com/news/gold-extends-slide-as-inflation-fears-lift-fed-hike-bets-and-usd-amid-trumps-tariffs-202607240405",
-      "published": "2026-07-24T04:05:06+00:00",
-      "score": 4
     },
     {
       "source": "Kobeissi Letter",
