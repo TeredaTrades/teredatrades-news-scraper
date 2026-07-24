@@ -1,14 +1,131 @@
 {
-  "updated_at": "2026-07-24T17:06:49.496635+00:00",
-  "count": 57,
+  "updated_at": "2026-07-24T18:46:00.384000+00:00",
+  "count": 64,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro falls even amid strong Eurozone PMIs",
+      "summary": "EUR/USD trades lower near the 1.1370 area on Friday, struggling despite stronger-than-expected Eurozone business-activity figures. The US Dollar Index (DXY) remains firmer near 101.50, offering limited support to the pair.",
+      "link": "https://www.fxstreet.com/news/euro-falls-even-amid-strong-eurozone-pmis-202607241833",
+      "published": "2026-07-24T18:33:40+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold gains despite firm US Dollar",
+      "summary": "Gold price (XAU/USD) drifts higher on Friday as the Greenback stands firm, even as growing speculation that the US-Iran war may last longer than expected could, in the end, hurt the prospects of the yellow metal. The XAU/USD trades at $4,065, up 0.38%.",
+      "link": "https://www.fxstreet.com/news/gold-gains-despite-firm-us-dollar-202607241830",
+      "published": "2026-07-24T18:30:53+00:00",
+      "score": 4
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Meta Expands AI Assistant With New Productivity Features $META",
-      "summary": "<div><ul><li>Meta: New AI features will begin rolling out on July 24 in select markets through the Meta AI app and Meta.ai</li><li>Meta: New features are powered by Muse Spark 1.1, enabling Meta AI to make plans, connect to email and calendar apps, create slides, and complete tasks on users' behalf</li><li>Meta plans to expand the new AI capabilities to more countries and surfaces, including Whats",
-      "link": "https://www.financialjuice.com/News/9692887/Meta-Expands-AI-Assistant-With-New-Productivity-Features-META.aspx",
-      "published": "2026-07-24T17:02:02+00:00",
+      "title": "FinancialJuice: Trump meeting on whether to intensify Iran assault - NYT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692980/Trump-meeting-on-whether-to-intensify-Iran-assault---NYT.aspx?xy=rss",
+      "published": "2026-07-24T18:19:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump was meeting on Friday with top advisers and senior members of his cabinet to decide whether to intensify the military assault against Iran, according to four people briefed on the planned discussion - NYT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692979/Trump-was-meeting-on-Friday-with-top-advisers-and-senior-members-of-his-cabinet-to-decide-whether-to-intensify-the-military-assault-against-Iran-according-to-four-people-briefed-on-the-planned-discussion---NYT.aspx?xy=rss",
+      "published": "2026-07-24T18:18:32+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump meets with top advisers on Iran Friday - NYT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692978/Trump-meets-with-top-advisers-on-Iran-Friday---NYT.aspx?xy=rss",
+      "published": "2026-07-24T18:17:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "We need more power. Data center power demand in the US is projected to surge +253% from 2026 levels, to a record 194 gigawatts by 2035. One gigawatt is roughly equivalent to the capacity of a single traditional nuclear reactor. As a result, data centers are expected to account for ~20% of US electricity consumption by 2035, up from ~6% today. To put this into perspective, data centers are estimated to consume ~12% of US electricity by 2030. Much of this growth is concentrated in a handful of grid regions, such as PJM, which serves the District of Columbia and 13 states, including Virginia, Pennsylvania, and Ohio. Electricity is the next AI bottleneck.",
+      "summary": "<p>We need more power.<br />\n<br />\nData center power demand in the US is projected to surge +253% from 2026 levels, to a record 194 gigawatts by 2035.<br />\n<br />\nOne gigawatt is roughly equivalent to the capacity of a single traditional nuclear reactor.<br />\n<br />\nAs a result, data centers are expected to account for ~20% of US electricity consumption by 2035, up from ~6% today.<br />\n<br />\n",
+      "link": "https://nitter.net/KobeissiLetter/status/2080718541591035927#m",
+      "published": "2026-07-24T18:15:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SpaceXAI: Grok for Google workspace is free add-on. $SPCX $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692960/SpaceXAI-Grok-for-Google-workspace-is-free-add-on-SPCX-GOOGL.aspx?xy=rss",
+      "published": "2026-07-24T18:06:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SpaceXAI: today we are introducing Grok into Google Workspace. $SPCX $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692959/SpaceXAI-today-we-are-introducing-Grok-into-Google-Workspace-SPCX-GOOGL.aspx?xy=rss",
+      "published": "2026-07-24T18:05:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: AWS announces availability of Claude Opus 5 on Amazon Bedrock and Claude platform on AWS - blog. $AMZN",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692958/AWS-announces-availability-of-Claude-Opus-5-on-Amazon-Bedrock-and-Claude-platform-on-AWS---blog-AMZN.aspx?xy=rss",
+      "published": "2026-07-24T18:03:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD consolidates as bulls struggle to clear the 21-day SMA",
+      "summary": "Silver (XAG/USD) edges higher on Friday as a pullback in Oil prices pushes US Treasury yields lower, while the US Dollar (USD) fluctuates near recent highs. At the time of writing, XAG/USD trades around $58.60, up 2.40% on the day.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-as-bulls-struggle-to-clear-the-21-day-sma-202607241758",
+      "published": "2026-07-24T17:58:06+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Hawkish MAS stance supports SGD – MUFG",
+      "summary": "MUFG’s Lloyd Chan expects MAS to keep policy unchanged at the July meeting while maintaining a tightening bias, distinguishing between energy-driven and domestically generated inflation. Strong Singapore growth and a positive output gap justify tight settings.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-hawkish-mas-stance-supports-sgd-mufg-202607241744",
+      "published": "2026-07-24T17:44:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump says the US has opened a 301 investigation into the practice of the EU \"robbing\" American companies. Trump says the EU will pay \"a very big price\" and a \"substantial tariff\" is expected to be imposed as soon as possible.",
+      "summary": "<p>BREAKING: President Trump says the US has opened a 301 investigation into the practice of the EU \"robbing\" American companies. <br />\n<br />\nTrump says the EU will pay \"a very big price\" and a \"substantial tariff\" is expected to be imposed as soon as possible.</p>\n<img src=\"https://nitter.net/pic/media%2FHOAkFiPWwAAPoBo.png\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2080703198113808729#m",
+      "published": "2026-07-24T17:14:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: The EU will \"pay a very big price\" for what he described as illegal and unethical conduct - Truth Social.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692896/Trump-The-EU-will-pay-a-very-big-price-for-what-he-described-as-illegal-and-unethical-conduct---Truth-Social.aspx?xy=rss",
+      "published": "2026-07-24T17:08:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: The Administration expects to impose a substantial tariff on the European Union as soon as possible - Truth Social.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692895/Trump-The-Administration-expects-to-impose-a-substantial-tariff-on-the-European-Union-as-soon-as-possible---Truth-Social.aspx?xy=rss",
+      "published": "2026-07-24T17:08:14+00:00",
       "score": 1
     },
     {
@@ -18,15 +135,6 @@
       "summary": "<p>Investors are piling into US equities at a record pace:<br />\n<br />\nUS equity ETFs have attracted +$880 billion in inflows year-to-date, on track for their largest annual inflow on record.<br />\n<br />\nThis already surpasses every full-year total except the all-time high set in 2025.<br />\n<br />\nFurthermore, current inflows are more than twice the levels seen at the same point in 2021 and 202",
       "link": "https://nitter.net/KobeissiLetter/status/2080696357895966774#m",
       "published": "2026-07-24T16:47:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Canada disinvited the US to the opening of the Gordie Howe Bridge, which is fine; they are paying substantial tariffs to the US, but the original Deal on the Bridge, no longer stands. We changed the terms of the deal; the US now gets 50% of the Profit - Truth Social.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9692854/Trump-Canada-disinvited-the-US-to-the-opening-of-the-Gordie-Howe-Bridge-which-is-fine-they-are-paying-substantial-tariffs-to-the-US-but-the-original-Deal-on-the-Bridge-no-longer-stands-We-changed-the-terms-of-the-deal-the-US-now-gets-50-of-.aspx",
-      "published": "2026-07-24T16:42:20+00:00",
       "score": 1
     },
     {
@@ -138,42 +246,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Hawkish ECB and strong PMI cap downside – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports that EUR/USD has recovered part of its recent slump but remains below 1.1400. A stronger-than-expected Eurozone July PMI and a hawkish hold from the ECB support the Euro, though higher Oil prices keep growth risks skewed lower.",
-      "link": "https://www.fxstreet.com/news/euro-hawkish-ecb-and-strong-pmi-cap-downside-bbh-202607241446",
-      "published": "2026-07-24T14:46:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro slips as strong US PMI supports Greenback",
-      "summary": "EUR/USD pares earlier gains on Friday as the widening Middle East war and hawkish Federal Reserve (Fed) expectations keep the US Dollar (USD) pinned near recent highs.",
-      "link": "https://www.fxstreet.com/news/euro-slips-against-us-dollar-as-strong-us-pmi-supports-greenback-202607241442",
-      "published": "2026-07-24T14:42:54+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar struggles as stronger PMIs support US Dollar",
-      "summary": "USD/CAD trades around 1.4095 on Friday at the time of writing, up a modest 0.06% as the US Dollar (USD) retains a slight advantage following the release of solid US economic data, while the Canadian Dollar (CAD) remains pressured by weak domestic indicators and softer Oil prices.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-as-stronger-pmis-support-us-dollar-202607241433",
-      "published": "2026-07-24T14:33:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Range holds against US Dollar as trade risks linger – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the Canadian Dollar (CAD) is little changed against the US Dollar (USD), with slightly better fundamentals as United States (US) yields ease and spreads narrow.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-range-holds-against-us-dollar-as-trade-risks-linger-scotiabank-202607241424",
-      "published": "2026-07-24T14:24:11+00:00",
-      "score": 2
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "NETANYAHU TO TRAVEL TO WASHINGTON MONDAY AT INVITATION OF TRUMP: AXIOS NETANYAHU TO MEET TRUMP AT WHITE HOUSE ON TUESDAY: AXIOS NETANYAHU TO ATTEND FUNERAL CEREMONY FOR SENATOR LINDSEY GRAHAM: AXIOS",
@@ -190,15 +262,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2080638100204568914#m",
       "published": "2026-07-24T12:55:54+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold steadies after sharp drop as traders weigh Fed, Middle East risks",
-      "summary": "Gold (XAU/USD) steadies on Friday after falling nearly 2% the previous day, as surging Oil prices fueled expectations that the Federal Reserve (Fed) may need to raise interest rates amid a worsening inflation outlook.",
-      "link": "https://www.fxstreet.com/news/gold-steadies-after-sharp-drop-as-traders-weigh-fed-middle-east-risks-202607241133",
-      "published": "2026-07-24T11:33:48+00:00",
-      "score": 6
     },
     {
       "source": "r/Forex",
