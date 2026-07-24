@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-07-24T18:46:00.384000+00:00",
-  "count": 64,
+  "updated_at": "2026-07-24T20:21:39.494608+00:00",
+  "count": 53,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: USD CFTC Positions Week Ended July 21st - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9693138/USD-CFTC-Positions-Week-Ended-July-21st---FJElite.aspx?xy=rss",
+      "published": "2026-07-24T20:10:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Gold CFTC Positions Week Ended July 21st - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9693123/Gold-CFTC-Positions-Week-Ended-July-21st---FJElite.aspx?xy=rss",
+      "published": "2026-07-24T20:05:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "How much does spread really cost you? Convert it to R and most retail systems are already dead",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Why the same strategy is profitable with a 50 pip stop and dead with a 5 pip stop</h1> <p><strong>TLDR:</strong> Costs are not a rounding error, they're a fixed tax on every trade, and the tax gets bigger the tighter your stop. Convert spread and commission into R and it becomes visible. The same 55% win rate system nets +0.1R with a 50 pip stop and loses money w",
+      "link": "https://www.reddit.com/r/Forex/comments/1v5me24/how_much_does_spread_really_cost_you_convert_it/",
+      "published": "2026-07-24T20:05:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump concludes remarks in Oval Office",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9693098/Trump-concludes-remarks-in-Oval-Office.aspx?xy=rss",
+      "published": "2026-07-24T19:57:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: The other tariff way was easier, but we have many forms.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9693097/Trump-The-other-tariff-way-was-easier-but-we-have-many-forms.aspx?xy=rss",
+      "published": "2026-07-24T19:53:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +1253 mln<br />Nasdaq 100: +203 mln<br />Dow 30: +686 mln<br />Mag 7: +398 mln",
+      "link": "https://www.financialjuice.com/News/9693096/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-07-24T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forecasting the upcoming week: Fed, BoE and BoJ decisions take center stage",
+      "summary": "The upcoming week will be dominated by monetary policy decisions from the Federal Reserve (Fed), Bank of England (BoE) and Bank of Japan (BoJ).",
+      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boe-and-boj-decisions-take-center-stage-202607241928",
+      "published": "2026-07-24T19:28:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "NZD/USD Price Forecast: Tests 0.5800 as bullish momentum fades",
+      "summary": "The New Zealand Dollar gains over 0.30% against the US Dollar, poised to test key resistance levels, with the 50-day Simple Moving Average (SMA) at 0.5793, slightly below the 0.5800 figure. At the time of writing, the NZD/USD trades at 0.5789, after bouncing off daily lows of 0.5767.",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-tests-05800-as-bullish-momentum-fades-202607241923",
+      "published": "2026-07-24T19:23:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Thai Baht: Oil shock and dovish BoT keep THB pressured against US Dollar – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that the Thai Baht (THB) is trading near its weakest level in more than a year against the US Dollar (USD), as volatile oil prices, a firmer USD and higher US yields weigh on the currency.",
+      "link": "https://www.fxstreet.com/news/thai-baht-oil-shock-and-dovish-bot-keep-thb-pressured-against-us-dollar-ocbc-202607241858",
+      "published": "2026-07-24T18:58:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The S&P 500 erases all gains and turns red on the day as the Iran War escalates and technology stocks fall.",
+      "summary": "<p>BREAKING: The S&amp;P 500 erases all gains and turns red on the day as the Iran War escalates and technology stocks fall.</p>\n<img src=\"https://nitter.net/pic/media%2FHOA3dszXsAEi7l_.png\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2080724190089425224#m",
+      "published": "2026-07-24T18:37:59+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -21,66 +111,12 @@
       "score": 4
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump meeting on whether to intensify Iran assault - NYT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9692980/Trump-meeting-on-whether-to-intensify-Iran-assault---NYT.aspx?xy=rss",
-      "published": "2026-07-24T18:19:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump was meeting on Friday with top advisers and senior members of his cabinet to decide whether to intensify the military assault against Iran, according to four people briefed on the planned discussion - NYT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9692979/Trump-was-meeting-on-Friday-with-top-advisers-and-senior-members-of-his-cabinet-to-decide-whether-to-intensify-the-military-assault-against-Iran-according-to-four-people-briefed-on-the-planned-discussion---NYT.aspx?xy=rss",
-      "published": "2026-07-24T18:18:32+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump meets with top advisers on Iran Friday - NYT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9692978/Trump-meets-with-top-advisers-on-Iran-Friday---NYT.aspx?xy=rss",
-      "published": "2026-07-24T18:17:37+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "We need more power. Data center power demand in the US is projected to surge +253% from 2026 levels, to a record 194 gigawatts by 2035. One gigawatt is roughly equivalent to the capacity of a single traditional nuclear reactor. As a result, data centers are expected to account for ~20% of US electricity consumption by 2035, up from ~6% today. To put this into perspective, data centers are estimated to consume ~12% of US electricity by 2030. Much of this growth is concentrated in a handful of grid regions, such as PJM, which serves the District of Columbia and 13 states, including Virginia, Pennsylvania, and Ohio. Electricity is the next AI bottleneck.",
       "summary": "<p>We need more power.<br />\n<br />\nData center power demand in the US is projected to surge +253% from 2026 levels, to a record 194 gigawatts by 2035.<br />\n<br />\nOne gigawatt is roughly equivalent to the capacity of a single traditional nuclear reactor.<br />\n<br />\nAs a result, data centers are expected to account for ~20% of US electricity consumption by 2035, up from ~6% today.<br />\n<br />\n",
       "link": "https://nitter.net/KobeissiLetter/status/2080718541591035927#m",
       "published": "2026-07-24T18:15:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: SpaceXAI: Grok for Google workspace is free add-on. $SPCX $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9692960/SpaceXAI-Grok-for-Google-workspace-is-free-add-on-SPCX-GOOGL.aspx?xy=rss",
-      "published": "2026-07-24T18:06:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: SpaceXAI: today we are introducing Grok into Google Workspace. $SPCX $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9692959/SpaceXAI-today-we-are-introducing-Grok-into-Google-Workspace-SPCX-GOOGL.aspx?xy=rss",
-      "published": "2026-07-24T18:05:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: AWS announces availability of Claude Opus 5 on Amazon Bedrock and Claude platform on AWS - blog. $AMZN",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9692958/AWS-announces-availability-of-Claude-Opus-5-on-Amazon-Bedrock-and-Claude-platform-on-AWS---blog-AMZN.aspx?xy=rss",
-      "published": "2026-07-24T18:03:52+00:00",
       "score": 1
     },
     {
@@ -108,24 +144,6 @@
       "summary": "<p>BREAKING: President Trump says the US has opened a 301 investigation into the practice of the EU \"robbing\" American companies. <br />\n<br />\nTrump says the EU will pay \"a very big price\" and a \"substantial tariff\" is expected to be imposed as soon as possible.</p>\n<img src=\"https://nitter.net/pic/media%2FHOAkFiPWwAAPoBo.png\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2080703198113808729#m",
       "published": "2026-07-24T17:14:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: The EU will \"pay a very big price\" for what he described as illegal and unethical conduct - Truth Social.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9692896/Trump-The-EU-will-pay-a-very-big-price-for-what-he-described-as-illegal-and-unethical-conduct---Truth-Social.aspx?xy=rss",
-      "published": "2026-07-24T17:08:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: The Administration expects to impose a substantial tariff on the European Union as soon as possible - Truth Social.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9692895/Trump-The-Administration-expects-to-impose-a-substantial-tariff-on-the-European-Union-as-soon-as-possible---Truth-Social.aspx?xy=rss",
-      "published": "2026-07-24T17:08:14+00:00",
       "score": 1
     },
     {
@@ -210,51 +228,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Strong PMIs and retail rebound in focus – TD Securities",
-      "summary": "TD Securities notes that the UK Composite PMI climbed back into expansion at 52.1 in July, led by Manufacturing strength and a Services PMI recovery to 51.8. Input cost inflation eased and business confidence hit its highest since February.",
-      "link": "https://www.fxstreet.com/news/british-pound-strong-pmis-and-retail-rebound-in-focus-td-securities-202607241520",
-      "published": "2026-07-24T15:20:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar edges higher after mixed US PMIs",
-      "summary": "AUD/USD trades higher near the 0.6990 area on Friday, recovering from an earlier pullback as the US Dollar (USD) struggles to gain clear momentum following mixed United States (US) business-activity data.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-after-mixed-us-pmis-202607241510",
-      "published": "2026-07-24T15:10:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Multi-decade lows against US Dollar face BoJ risk – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the Japanese Yen (JPY) is slightly firmer versus the US Dollar (USD) but still underperforming most G10 currencies. USD/JPY trades near levels last seen in 1986, with limited resistance overhead.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-multi-decade-lows-against-us-dollar-face-boj-risk-scotiabank-202607241509",
-      "published": "2026-07-24T15:09:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Higher yields keep upside risks – MUFG",
-      "summary": "MUFG’s Derek Halpenny highlights that rising US and global bond yields, elevated geopolitical risks and higher energy prices are supporting the US Dollar.",
-      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-keep-upside-risks-mufg-202607241458",
-      "published": "2026-07-24T14:58:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "NETANYAHU TO TRAVEL TO WASHINGTON MONDAY AT INVITATION OF TRUMP: AXIOS NETANYAHU TO MEET TRUMP AT WHITE HOUSE ON TUESDAY: AXIOS NETANYAHU TO ATTEND FUNERAL CEREMONY FOR SENATOR LINDSEY GRAHAM: AXIOS",
-      "summary": "<p>NETANYAHU TO TRAVEL TO WASHINGTON MONDAY AT INVITATION OF TRUMP: AXIOS<br />\n<br />\nNETANYAHU TO MEET TRUMP AT WHITE HOUSE ON TUESDAY: AXIOS<br />\n<br />\nNETANYAHU TO ATTEND FUNERAL CEREMONY FOR SENATOR LINDSEY GRAHAM: AXIOS</p>",
-      "link": "https://nitter.net/DeItaone/status/2080657947282063551#m",
-      "published": "2026-07-24T14:14:46+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "Investors are worried about Oracle's credit: Oracle's, $ORCL, 5-year credit default swaps (CDS) are up to a record ~203 basis points. This means protection against Oracle's default now costs ~$203,000 for every $10 million of principal. Oracle's CDS have more than QUADRUPLED since mid-2025, even surpassing the 2008 Financial Crisis peak. The company’s borrowing costs are also rising, with the spread on its 6.7% notes due 2056 widening +8 bps on Monday, to 263 bps, and its 5.7% notes due 2036 widening +9 bps, to 205 bps. Meanwhile, S&P Global Ratings downgraded Oracle to BBB- on July 9th, just 1 notch above junk, citing its rapidly growing AI-related spending. Oracle's credit risk is at crisis levels.",
@@ -309,15 +282,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP SAID ON THURSDAY THAT HE IS SERIOUSLY CONSIDERING RESTARTING MAJOR COMBAT OPERATIONS IN IRAN -AXIOS",
-      "summary": "<p>TRUMP SAID ON THURSDAY THAT HE IS SERIOUSLY CONSIDERING RESTARTING MAJOR COMBAT OPERATIONS IN IRAN -AXIOS</p>",
-      "link": "https://nitter.net/DeItaone/status/2080314904020471816#m",
-      "published": "2026-07-23T15:31:38+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The Nasdaq 100 extends losses to over -2.5% on the day as the Iran War escalates and technology stocks drop on earnings results. The S&P 500 has now erased -$900 billion in market cap today.",
@@ -354,75 +318,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*FORD WILL USE APPLE SOFTWARE IN NEW SELF-DRIVING SYSTEM: NYT",
-      "summary": "<p>*FORD WILL USE APPLE SOFTWARE IN NEW SELF-DRIVING SYSTEM: NYT</p>",
-      "link": "https://nitter.net/DeItaone/status/2080277124120776851#m",
-      "published": "2026-07-23T13:01:30+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says the US will “hold Iran responsible” for strikes conducted by Yemen’s Houthis. Last night, the Houthis struck two Saudi Arabian vessels in the Red Sea.",
       "summary": "<p>BREAKING: President Trump says the US will “hold Iran responsible” for strikes conducted by Yemen’s Houthis.<br />\n<br />\nLast night, the Houthis struck two Saudi Arabian vessels in the Red Sea.</p>\n<img src=\"https://nitter.net/pic/media%2FHN6ffiyWkAAdM_o.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2080275445732286890#m",
       "published": "2026-07-23T12:54:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: We're winning in Iran",
-      "summary": "<p>Trump: We're winning in Iran</p>",
-      "link": "https://nitter.net/DeItaone/status/2080016914772787510#m",
-      "published": "2026-07-22T19:47:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: We don't need the Hormuz Strait",
-      "summary": "<p>Trump: We don't need the Hormuz Strait</p>",
-      "link": "https://nitter.net/DeItaone/status/2080016834447777860#m",
-      "published": "2026-07-22T19:47:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gold broke a two-week range today but the dollar didn't move - that's the part nobody's talking about",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Gold broke a two-week range today and everyone's treating it like a trend change. The thing I can't get past: the dollar didn't move. Flat on the day while gold ran ~20 handles off the break.</p> <p>That's the whole question for me. For most of this month gold has traded off rates and the dollar far more than off the war headlines - it literally fell through actua",
-      "link": "https://www.reddit.com/r/Forex/comments/1v3ippd/gold_broke_a_twoweek_range_today_but_the_dollar/",
-      "published": "2026-07-22T15:02:59+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: Iran is going to pay a big price",
-      "summary": "<p>Trump: Iran is going to pay a big price</p>",
-      "link": "https://nitter.net/DeItaone/status/2079929930851184939#m",
-      "published": "2026-07-22T14:01:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: Americans are not against the war in Iran",
-      "summary": "<p>Trump: Americans are not against the war in Iran</p>",
-      "link": "https://nitter.net/DeItaone/status/2079929703800897536#m",
-      "published": "2026-07-22T14:00:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ESCALATES RHETORIC President Trump warned that any attack by Iran on ships in the Strait of Hormuz would trigger U.S. strikes on Iranian infrastructure, including bridges and power plants near Tehran. The statement marks a sharp escalation in rhetoric, reinforcing tensions around one of the world’s most strategically important shipping routes.",
-      "summary": "<p>TRUMP ESCALATES RHETORIC<br />\n<br />\nPresident Trump warned that any attack by Iran on ships in the Strait of Hormuz would trigger U.S. strikes on Iranian infrastructure, including bridges and power plants near Tehran.<br />\n<br />\nThe statement marks a sharp escalation in rhetoric, reinforcing tensions around one of the world’s most strategically important shipping routes.</p>",
-      "link": "https://nitter.net/DeItaone/status/2079917299813773353#m",
-      "published": "2026-07-22T13:11:41+00:00",
       "score": 1
     },
     {
