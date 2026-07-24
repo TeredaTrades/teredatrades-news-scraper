@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-24T20:21:39.494608+00:00",
-  "count": 53,
+  "updated_at": "2026-07-24T21:37:43.147134+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: MAS seen on hold with cautious inflation tone – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong expect the Monetary Authority of Singapore (MAS) to leave the Singapore Dollar (SGD) Nominal Effective Exchange Rate (S$NEER) policy unchanged at Monday’s meeting despite a modest rebound in core Consumer Price Index (CPI) to 1.6% year-on-year in June.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-seen-on-hold-with-cautious-inflation-tone-ocbc-202607242105",
+      "published": "2026-07-24T21:05:00+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: USD CFTC Positions Week Ended July 21st - FJElite",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9693138/USD-CFTC-Positions-Week-Ended-July-21st---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9693138/USD-CFTC-Positions-Week-Ended-July-21st---FJElite.aspx",
       "published": "2026-07-24T20:10:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Gold CFTC Positions Week Ended July 21st - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9693123/Gold-CFTC-Positions-Week-Ended-July-21st---FJElite.aspx?xy=rss",
-      "published": "2026-07-24T20:05:18+00:00",
       "score": 1
     },
     {
@@ -27,33 +27,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Why the same strategy is profitable with a 50 pip stop and dead with a 5 pip stop</h1> <p><strong>TLDR:</strong> Costs are not a rounding error, they're a fixed tax on every trade, and the tax gets bigger the tighter your stop. Convert spread and commission into R and it becomes visible. The same 55% win rate system nets +0.1R with a 50 pip stop and loses money w",
       "link": "https://www.reddit.com/r/Forex/comments/1v5me24/how_much_does_spread_really_cost_you_convert_it/",
       "published": "2026-07-24T20:05:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump concludes remarks in Oval Office",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9693098/Trump-concludes-remarks-in-Oval-Office.aspx?xy=rss",
-      "published": "2026-07-24T19:57:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: The other tariff way was easier, but we have many forms.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9693097/Trump-The-other-tariff-way-was-easier-but-we-have-many-forms.aspx?xy=rss",
-      "published": "2026-07-24T19:53:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: +1253 mln<br />Nasdaq 100: +203 mln<br />Dow 30: +686 mln<br />Mag 7: +398 mln",
-      "link": "https://www.financialjuice.com/News/9693096/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-07-24T19:50:30+00:00",
       "score": 1
     },
     {
@@ -68,8 +41,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "NZD/USD Price Forecast: Tests 0.5800 as bullish momentum fades",
-      "summary": "The New Zealand Dollar gains over 0.30% against the US Dollar, poised to test key resistance levels, with the 50-day Simple Moving Average (SMA) at 0.5793, slightly below the 0.5800 figure. At the time of writing, the NZD/USD trades at 0.5789, after bouncing off daily lows of 0.5767.",
+      "title": "NZD/USD Price Forecast: Kiwi tests 0.5800 as bullish momentum fades",
+      "summary": "The New Zealand Dollar gains over 0.30% against the US Dollar on Friday. The pair is poised to test key resistance levels with the 50-day Simple Moving Average (SMA) at 0.5793, slightly below the 0.5800 figure.",
       "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-tests-05800-as-bullish-momentum-fades-202607241923",
       "published": "2026-07-24T19:23:23+00:00",
       "score": 1
@@ -201,24 +174,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen stays under pressure as resilient US economy supports the Dollar",
-      "summary": "USD/JPY edges lower on Friday, trading around 163.70, down 0.09% on the day at the time of writing, after hitting a fresh near 40-year high on Thursday.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-stays-under-pressure-as-resilient-us-economy-supports-the-dollar-202607241542",
-      "published": "2026-07-24T15:42:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: MAS stance supports relative resilience – MUFG",
-      "summary": "Lloyd Chan at MUFG highlights that Singapore’s June inflation data stayed benign, with modest upticks in headline and core CPI. MAS is expected to keep policy unchanged in July but retain a tightening bias.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-stance-supports-relative-resilience-mufg-202607241532",
-      "published": "2026-07-24T15:32:42+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says China's President Xi and Russia's President Putin told him that they would not sell weapons to Iran.",
@@ -315,15 +270,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v4dj4i/what_happened_to_gold_gng/\"> <img alt=\"what happened to gold gng\" src=\"https://preview.redd.it/ybefrkhbbzeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=076d0b574bdbd9a2203528b15d05fe204198d182\" title=\"what happened to gold gng\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Who tweeted now its just free falling😭😭",
       "link": "https://www.reddit.com/r/Forex/comments/1v4dj4i/what_happened_to_gold_gng/",
       "published": "2026-07-23T13:11:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump says the US will “hold Iran responsible” for strikes conducted by Yemen’s Houthis. Last night, the Houthis struck two Saudi Arabian vessels in the Red Sea.",
-      "summary": "<p>BREAKING: President Trump says the US will “hold Iran responsible” for strikes conducted by Yemen’s Houthis.<br />\n<br />\nLast night, the Houthis struck two Saudi Arabian vessels in the Red Sea.</p>\n<img src=\"https://nitter.net/pic/media%2FHN6ffiyWkAAdM_o.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2080275445732286890#m",
-      "published": "2026-07-23T12:54:50+00:00",
       "score": 1
     },
     {
