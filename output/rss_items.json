@@ -1,57 +1,219 @@
 {
-  "updated_at": "2026-07-24T07:18:35.465325+00:00",
-  "count": 46,
+  "updated_at": "2026-07-24T09:56:23.471852+00:00",
+  "count": 64,
   "items": [
     {
-      "source": "FXStreet",
+      "source": "FinancialJuice",
       "category": "news",
-      "title": "Russian Ruble: CBR seen holding rate despite pressure to cut – Commerzbank",
-      "summary": "Commerzbank’s Tatha Ghose expects Russia’s central bank to keep its key rate at 14.25%, despite political and economic pressure for a cut. Surging inflation expectations, higher Oil and commodity prices, and accelerating Consumer Price Index (CPI) argue against easing.",
-      "link": "https://www.fxstreet.com/news/russian-ruble-cbr-seen-holding-rate-despite-pressure-to-cut-commerzbank-202607240710",
-      "published": "2026-07-24T07:10:30+00:00",
-      "score": 2
+      "title": "FinancialJuice: ECB's Simkus: Inflation seen higher than target for a long time",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692277/ECBs-Simkus-Inflation-seen-higher-than-target-for-a-long-time.aspx?xy=rss",
+      "published": "2026-07-24T09:55:05+00:00",
+      "score": 1
     },
     {
-      "source": "FXStreet",
+      "source": "FinancialJuice",
       "category": "news",
-      "title": "USD/CAD Price Forecast: Softens below 1.4100, but bullish outlook stays intact above key support",
-      "summary": "The USD/CAD pair trades in negative territory near 1.4075 during the early European trading hours on Friday. Escalating conflicts in the Middle East boost crude oil prices, supporting the commodity-linked Canadian Dollar (CAD) against the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-softens-below-14100-but-bullish-outlook-stays-intact-above-key-support-202607240706",
-      "published": "2026-07-24T07:06:03+00:00",
+      "title": "FinancialJuice: ECB's Simkus: We do not see second-round effects of higher inflation",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692276/ECBs-Simkus-We-do-not-see-second-round-effects-of-higher-inflation.aspx?xy=rss",
+      "published": "2026-07-24T09:53:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ECB's Simkus: In September, again we'll have additional inflation data",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692274/ECBs-Simkus-In-September-again-well-have-additional-inflation-data.aspx?xy=rss",
+      "published": "2026-07-24T09:48:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ECB's Simkus: Inflationary environment has increased",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692272/ECBs-Simkus-Inflationary-environment-has-increased.aspx?xy=rss",
+      "published": "2026-07-24T09:47:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ECB's Simkus: $100 oil will have repercussions on inflation",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692271/ECBs-Simkus-100-oil-will-have-repercussions-on-inflation.aspx?xy=rss",
+      "published": "2026-07-24T09:46:07+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "ECB's Kocher: Don't see evidence of second-round effects",
-      "summary": "European Central Bank (ECB) Governing Council member Martin Kocher said on Friday that he doesn’t see any hard evidence of second-round effects, but the central bank will act if the inflation outlook deteriorates.",
-      "link": "https://www.fxstreet.com/news/ecbs-kocher-dont-see-evidence-of-second-round-effects-202607240655",
-      "published": "2026-07-24T06:55:23+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index: Higher yields and FOMC focus lift DXY – MUFG",
-      "summary": "Lloyd Chan at MUFG notes that US rate expectations remain volatile, with markets now pricing further Federal Reserve (Fed) tightening this year. Rising Treasury yields have pushed the US Dollar (USD) higher, lifting the US Dollar Index (DXY).",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-higher-yields-and-fomc-focus-lift-dxy-mufg-202607240649",
-      "published": "2026-07-24T06:49:50+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Oil spike caps rebound and keeps risks two-way – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note Gold has retreated back toward USD 4,040/4,050 after briefly trading above 4,160 as Brent surged past USD100 and the Dollar and US yields climbed.",
-      "link": "https://www.fxstreet.com/news/gold-oil-spike-caps-rebound-and-keeps-risks-two-way-ocbc-202607240636",
-      "published": "2026-07-24T06:36:24+00:00",
+      "title": "Silver price today: Silver rises, according to FXStreet data",
+      "summary": "Silver prices (XAG/USD) rose on Friday, according to FXStreet data. Silver trades at $58.40 per troy ounce, up 1.98% from the $57.27 it cost on Thursday.",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202607240931",
+      "published": "2026-07-24T09:31:38+00:00",
       "score": 3
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound remains depressed near 1.3300 despite upbeat UK Retail Sales data",
-      "summary": "The British Pound (GBP) remains pinned near three-week lows against the US Dollar (USD) on Friday, trading near 1.3300 and on track for a 1% weekly decline.",
+      "title": "US Dollar: Fed expectations keep upside in focus – ING",
+      "summary": "ING’s Chris Turner notes the US Dollar (USD) is supported as higher energy prices fuel expectations of further central bank tightening, with markets pricing more hikes from the European Central Bank (ECB) and Bank of England (BoE).",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-expectations-keep-upside-in-focus-ing-202607240923",
+      "published": "2026-07-24T09:23:43+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen remains pinned near 40-year low as Fed-BoJ rate gap keeps carry trade active",
+      "summary": "The USD/JPY pair edges lower on Friday as bulls turn cautious in anticipation of a potential government intervention to prop up the Japanese Yen (JPY).",
+      "link": "https://www.fxstreet.com/news/japanese-yen-remains-pinned-near-40-year-low-as-fed-boj-rate-gap-keeps-carry-trade-active-202607240906",
+      "published": "2026-07-24T09:06:08+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: UK supermarkets see food inflation peak of 4-5% vs 6-7% - BoE Survey",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692183/UK-supermarkets-see-food-inflation-peak-of-4-5-vs-6-7---BoE-Survey.aspx?xy=rss",
+      "published": "2026-07-24T08:43:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Aiming for this route for USDJPY today",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v55mo9/aiming_for_this_route_for_usdjpy_today/\"> <img alt=\"Aiming for this route for USDJPY today\" src=\"https://preview.redd.it/j496nfy145fh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=67c90286bae4d04ea1999fbff300cc213226ec79\" title=\"Aiming for this route for USDJPY today\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>",
+      "link": "https://www.reddit.com/r/Forex/comments/1v55mo9/aiming_for_this_route_for_usdjpy_today/",
+      "published": "2026-07-24T08:42:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: UK supermarkets expect lower peak of food inflation - BoE Survey",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692182/UK-supermarkets-expect-lower-peak-of-food-inflation---BoE-Survey.aspx?xy=rss",
+      "published": "2026-07-24T08:41:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "UK S&P Global Services PMI returns to growth in July, arrives at 51.8",
+      "summary": "According to preliminary data, the United Kingdom (UK) S&amp;P Global Services Purchasing Managers’ Index (PMI) arrives above 50.0 in July, a figure that separates expansion from contraction, after declining in June.",
+      "link": "https://www.fxstreet.com/news/uk-sp-global-services-pmi-returns-to-growth-in-july-arrives-at-518-202607240836",
+      "published": "2026-07-24T08:36:28+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ING: The EUR - FJElite",
+      "summary": "<div>A hawkish hold from the ECB provided little support to the euro yesterday. The reasons for that appear to be high energy prices weighing on European growth prospects and, more importantly, a larger adjustment in real rates in the US than in the eurozone. Here, two-year real EUR/USD swap differentials have widened out to levels last seen in late 2024 when EUR/USD was trading under 1.10. We do ",
+      "link": "https://www.financialjuice.com/News/9692181/ING-The-EUR---FJElite.aspx?xy=rss",
+      "published": "2026-07-24T08:36:01+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Natixis: ECB Meeting Review - FJElite",
+      "summary": "<div>At yesterday’s meeting, the ECB Governing Council decided to keep unchanged its three interest rates by 25 basis points at 2.25%, 2.40% and 2.65% for the interest rates on the deposit facility, the main refinancing operations and the marginal lending facility respectively. The decision - widely expected - was unanimous.</div><div><br /></div><div>During the press conference, President Lagarde",
+      "link": "https://www.financialjuice.com/News/9692180/Natixis-ECB-Meeting-Review---FJElite.aspx?xy=rss",
+      "published": "2026-07-24T08:35:19+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Credit Ágricole: FX Outlook - FJElite",
+      "summary": "<div><ul><li>The EUR should continue to trade as collateral damage of global geopolitical risks. We are no longer as bearish on EUR/USD from current levels as before because we expect additional ECB tightening to limit the downside risks to a degree in the coming months. Subdued growth prospects and loss of international competitiveness should continue to hurt the appeal of EUR-denominated assets.",
+      "link": "https://www.financialjuice.com/News/9692179/Credit-%c3%81gricole-FX-Outlook---FJElite.aspx?xy=rss",
+      "published": "2026-07-24T08:34:10+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South African Rand: SARB surprise weighs against US Dollar – Commerzbank",
+      "summary": "Commerzbank’s Volkmar Baur says the South African Reserve Bank’s (SARB) decision to keep its policy rate unchanged at 7% came as a negative surprise, particularly after June inflation rose and Brent crude moved above USD 100 per barrel.",
+      "link": "https://www.fxstreet.com/news/south-african-rand-sarb-surprise-weighs-against-us-dollar-commerzbank-202607240833",
+      "published": "2026-07-24T08:33:52+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro remains capped below 1.1400 despite bright Eurozone preliminary PMIs",
+      "summary": "The Euro (EUR) ticks up against the US Dollar (USD) on Friday but remains capped below 1.1400, and dangerously close to the year-to-date low, at 1.1324.",
+      "link": "https://www.fxstreet.com/news/euro-remains-capped-below-11400-despite-bright-eurozone-preliminary-pmis-202607240832",
+      "published": "2026-07-24T08:32:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: UK July decision maker year-ahead CPI expectations 3%.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9692178/UK-July-decision-maker-year-ahead-CPI-expectations-3.aspx?xy=rss",
+      "published": "2026-07-24T08:32:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Credit Ágricole: FX Weekly - FJElite",
+      "summary": "<div><p>One of the most significant recent developments regarding the USD flow- backdrop has been the dramatic shift in the way the US current account deficit is being financed by foreign investors. According to the latest US TIC data, more than 80% of all the foreign capital inflows over the past year went into risk-correlated USD assets, with the remaining c.19% used to buy safe-haven USTs. The ",
+      "link": "https://www.financialjuice.com/News/9692173/Credit-%c3%81gricole-FX-Weekly---FJElite.aspx?xy=rss",
+      "published": "2026-07-24T08:31:38+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Oil-led inflation fears cap recovery – ING",
+      "summary": "ING’s Warren Patterson and Ewa Manthey report that Gold has come under pressure as higher Oil prices stoke inflation concerns and push yields and the US Dollar higher.",
+      "link": "https://www.fxstreet.com/news/gold-oil-led-inflation-fears-cap-recovery-ing-202607240812",
+      "published": "2026-07-24T08:12:55+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index Price Forecast: Pullbacks could be bought into near 101.00",
+      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, drifts lower during the early European session on Friday and erodes a part of the previous day's strong gains back closer to the monthly high.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-price-forecast-pullbacks-could-be-bought-into-near-10100-202607240810",
+      "published": "2026-07-24T08:10:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones futures bounce back as oil cools, though geopolitical risks persist",
+      "summary": "Dow Jones futures gain 0.35% to trade around 52,070 during European trading hours on Friday. Meanwhile, S&amp;P 500 futures and Nasdaq 100 futures advance 0.21% and 0.08%, trading near 7,460 and 28,650, respectively.",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-bounce-back-as-oil-cools-though-geopolitical-risks-persist-202607240754",
+      "published": "2026-07-24T07:54:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecasts: XAG/USD edges up above $58.00 as the US Dollar trims gains",
+      "summary": "Silver (XAG/USD) edges up on Friday's early European trading session, returning to levels above $58.00 as the US Dollar trims some gains.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-edges-up-above-5800-as-the-us-dollar-trims-gains-202607240750",
+      "published": "2026-07-24T07:50:22+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound retreats from 1.3340 as bright UK data fails to offset risk aversion",
+      "summary": "The British Pound (GBP) remains depressed near three-week lows against the US Dollar (USD) on Friday, with upside attempts capped below 1.3340, and on track for a 1% weekly decline.",
       "link": "https://www.fxstreet.com/news/british-pound-remains-depressed-near-13300-despite-upbeat-uk-retail-sales-data-202607240628",
       "published": "2026-07-24T06:28:25+00:00",
       "score": 1
@@ -59,52 +221,7 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indonesian Rupiah advances as US Dollar struggles despite increasing risk aversion",
-      "summary": "USD/IDR depreciates after registering over 0.5% gains in the previous day, trading around 18,020 during the Asian hours on Friday. However, the pair may see upward momentum following Bank Indonesia's (BI) unexpected decision to hold its benchmark interest rate steady at 5.75% in July.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-advances-as-us-dollar-struggles-despite-increasing-risk-aversion-202607240628",
-      "published": "2026-07-24T06:28:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "AUD/USD Price Forecast: Surging US bond yields warrant downside",
-      "summary": "The Australian Dollar (AUD) trades marginally higher at around 0.6976 against the US Dollar (USD) during the European trading session on Friday.",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-surging-us-bond-yields-warrant-downside-202607240620",
-      "published": "2026-07-24T06:20:16+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Weakens despite ECB rate hike signals against US Dollar – UOB",
-      "summary": "UOB Global Economics & Markets Research reports that EUR/USD slipped 0.3% to 1.1377 as the Euro (EUR) weakened against the US Dollar (USD) despite the European Central Bank (ECB) leaving rates unchanged and President Lagarde acknowledging some calls for a hike.",
-      "link": "https://www.fxstreet.com/news/euro-weakens-despite-ecb-rate-hike-signals-against-us-dollar-uob-202607240615",
-      "published": "2026-07-24T06:15:11+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9691974/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-07-24T06:13:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9691970/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-07-24T06:11:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee rises as RBI intervention suppresses impact of higher oil prices",
+      "title": "Indian Rupee holds early gains as RBI intervenes again",
       "summary": "The Indian Rupee gains strongly after a flat opening against the US Dollar (USD) on Friday. The USD/INR pair declines to near 96.50 as the Reserve Bank of India (RBI) has intervened again to support the Indian Rupee.",
       "link": "https://www.fxstreet.com/news/indian-rupee-rises-as-rbi-intervenes-again-202607240546",
       "published": "2026-07-24T05:46:05+00:00",
@@ -113,35 +230,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Asian stocks decline on Trump's tariffs, US-Iran tension; South Korea's KOSPI underperform",
-      "summary": "Asian stock markets fell across the board on Friday as intensifying US-Iran conflict and US President Donald Trump's new tariffs temper investors' appetite for riskier assets. Japan’s Nikkei N225 is down nearly 3% while South Korea's KOSPI declined over 4.5%, underperforming broader markets.",
-      "link": "https://www.fxstreet.com/news/asian-stocks-decline-on-trumps-tariffs-us-iran-tension-south-koreas-kospi-underperform-202607240533",
-      "published": "2026-07-24T05:33:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro gains traction above 1.1350 as markets price in upcoming ECB rate hike",
-      "summary": "The EUR/USD pair gathers strength to near 1.1385 during the early European trading hours on Friday, bolstered by the prospect of imminent European Central Bank (ECB) rate hikes.",
-      "link": "https://www.fxstreet.com/news/euro-gains-traction-above-11350-as-ecb-holds-rates-steady-202607240501",
-      "published": "2026-07-24T05:01:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc remains weaker as US Dollar receives support amid US-Iran tensions",
-      "summary": "USD/CHF continues its winning streak for the fifth successive day, trading around 0.8170 during the Asian hours on Friday. The pair appreciates as the US Dollar (USD) pares its daily losses amid rising safe-haven demand due to escalating conflicts in the Middle East.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-remains-weaker-as-us-dollar-receives-support-amid-us-iran-tensions-202607240459",
-      "published": "2026-07-24T04:59:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold sticks to intraday losses below $4,050 amid Fed hike bets, bullish USD",
-      "summary": "Gold (XAU/USD) remains under some selling pressure for the second straight day on Friday and weakens further below the $4,050 level during the Asian session.",
+      "title": "Gold climbs above $4,050 on retreating USD; upside seems limited amid Fed hike bets",
+      "summary": "Gold (XAU/USD) builds on its modest intraday bounce and climbs back above the $4,050 level, hitting a fresh daily high during the first half of the European session on Friday amid a modest US Dollar (USD) pullback.",
       "link": "https://www.fxstreet.com/news/gold-extends-slide-as-inflation-fears-lift-fed-hike-bets-and-usd-amid-trumps-tariffs-202607240405",
       "published": "2026-07-24T04:05:06+00:00",
       "score": 4
@@ -183,6 +273,15 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SAID ON THURSDAY THAT HE IS SERIOUSLY CONSIDERING RESTARTING MAJOR COMBAT OPERATIONS IN IRAN -AXIOS",
+      "summary": "<p>TRUMP SAID ON THURSDAY THAT HE IS SERIOUSLY CONSIDERING RESTARTING MAJOR COMBAT OPERATIONS IN IRAN -AXIOS</p>",
+      "link": "https://nitter.net/DeItaone/status/2080314904020471816#m",
+      "published": "2026-07-23T15:31:38+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The Nasdaq 100 extends losses to over -2.5% on the day as the Iran War escalates and technology stocks drop on earnings results. The S&P 500 has now erased -$900 billion in market cap today.",
@@ -219,6 +318,15 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*FORD WILL USE APPLE SOFTWARE IN NEW SELF-DRIVING SYSTEM: NYT",
+      "summary": "<p>*FORD WILL USE APPLE SOFTWARE IN NEW SELF-DRIVING SYSTEM: NYT</p>",
+      "link": "https://nitter.net/DeItaone/status/2080277124120776851#m",
+      "published": "2026-07-23T13:01:30+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says the US will “hold Iran responsible” for strikes conducted by Yemen’s Houthis. Last night, the Houthis struck two Saudi Arabian vessels in the Red Sea.",
@@ -246,6 +354,24 @@
       "score": 3
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We're winning in Iran",
+      "summary": "<p>Trump: We're winning in Iran</p>",
+      "link": "https://nitter.net/DeItaone/status/2080016914772787510#m",
+      "published": "2026-07-22T19:47:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We don't need the Hormuz Strait",
+      "summary": "<p>Trump: We don't need the Hormuz Strait</p>",
+      "link": "https://nitter.net/DeItaone/status/2080016834447777860#m",
+      "published": "2026-07-22T19:47:12+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "The 10Y Note Yield is now nearing 4.70% and a fresh 52-week high. This puts the 10Y Note Yield up over +70 basis points since the Iran War began. The market continues to brace for an energy shock.",
@@ -262,6 +388,42 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v3ippd/gold_broke_a_twoweek_range_today_but_the_dollar/",
       "published": "2026-07-22T15:02:59+00:00",
       "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: Iran is going to pay a big price",
+      "summary": "<p>Trump: Iran is going to pay a big price</p>",
+      "link": "https://nitter.net/DeItaone/status/2079929930851184939#m",
+      "published": "2026-07-22T14:01:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: Americans are not against the war in Iran",
+      "summary": "<p>Trump: Americans are not against the war in Iran</p>",
+      "link": "https://nitter.net/DeItaone/status/2079929703800897536#m",
+      "published": "2026-07-22T14:00:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ESCALATES RHETORIC President Trump warned that any attack by Iran on ships in the Strait of Hormuz would trigger U.S. strikes on Iranian infrastructure, including bridges and power plants near Tehran. The statement marks a sharp escalation in rhetoric, reinforcing tensions around one of the world’s most strategically important shipping routes.",
+      "summary": "<p>TRUMP ESCALATES RHETORIC<br />\n<br />\nPresident Trump warned that any attack by Iran on ships in the Strait of Hormuz would trigger U.S. strikes on Iranian infrastructure, including bridges and power plants near Tehran.<br />\n<br />\nThe statement marks a sharp escalation in rhetoric, reinforcing tensions around one of the world’s most strategically important shipping routes.</p>",
+      "link": "https://nitter.net/DeItaone/status/2079917299813773353#m",
+      "published": "2026-07-22T13:11:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "GBPUSD Analysis",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v35mip/gbpusd_analysis/\"> <img alt=\"GBPUSD Analysis\" src=\"https://preview.redd.it/d0i4d3x7lpeh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a52a539d743b6035fd90a3174d6edd5a0025af32\" title=\"GBPUSD Analysis\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>GBPUSD going down what's your views about it please share?</p> </div><",
+      "link": "https://www.reddit.com/r/Forex/comments/1v35mip/gbpusd_analysis/",
+      "published": "2026-07-22T04:29:23+00:00",
+      "score": 1
     },
     {
       "source": "Federal Reserve",
