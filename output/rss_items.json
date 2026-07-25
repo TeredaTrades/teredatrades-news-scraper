@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-07-25T02:50:10.123572+00:00",
-  "count": 65,
+  "updated_at": "2026-07-25T05:44:57.835103+00:00",
+  "count": 51,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SK Hynix enters long-term AI memory collaboration with Nvidia",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9693531/SK-Hynix-enters-long-term-AI-memory-collaboration-with-Nvidia.aspx?xy=rss",
+      "published": "2026-07-25T05:16:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Naver, Nvidia and Brookfield to enhance South Korea’s national AI factory infrastructure development",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9693526/Naver-Nvidia-and-Brookfield-to-enhance-South-Koreas-national-AI-factory-infrastructure-development.aspx?xy=rss",
+      "published": "2026-07-25T05:10:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SK Group and Nvidia broaden strategic alliance across AI factories and next-generation memory",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9693525/SK-Group-and-Nvidia-broaden-strategic-alliance-across-AI-factories-and-next-generation-memory.aspx?xy=rss",
+      "published": "2026-07-25T05:10:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SK Group to provide $750 billion in chips to U.S. tech firms including Nvidia: Yonhap",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9693499/SK-Group-to-provide-750-billion-in-chips-to-US-tech-firms-including-Nvidia-Yonhap.aspx?xy=rss",
+      "published": "2026-07-25T04:10:36+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -18,96 +54,6 @@
       "summary": "",
       "link": "https://www.financialjuice.com/News/9693454/Trump-I-will-attend-next-years-White-House-press-dinner.aspx?xy=rss",
       "published": "2026-07-25T02:05:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: SK Group chairman Chey Tae-won: Nvidia Jensen Huang likely to request more memory chips next time we meet",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9693321/SK-Group-chairman-Chey-Tae-won-Nvidia-Jensen-Huang-likely-to-request-more-memory-chips-next-time-we-meet.aspx?xy=rss",
-      "published": "2026-07-25T00:14:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: USDA: reopening schedule to stay flexible, may adjust depending on Mexico’s progress on action plan milestones",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9693320/USDA-reopening-schedule-to-stay-flexible-may-adjust-depending-on-Mexicos-progress-on-action-plan-milestones.aspx?xy=rss",
-      "published": "2026-07-25T00:07:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: USDA: starting operational measures needed for future openings at Santa Teresa, NM and Columbus, NM ports",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9693319/USDA-starting-operational-measures-needed-for-future-openings-at-Santa-Teresa-NM-and-Columbus-NM-ports.aspx?xy=rss",
-      "published": "2026-07-25T00:05:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: USDA: Douglas, Arizona port opens to cattle trade starting August 24",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9693318/USDA-Douglas-Arizona-port-opens-to-cattle-trade-starting-August-24.aspx?xy=rss",
-      "published": "2026-07-25T00:05:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: USDA details phased reopening of southern ports for livestock trade",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9693317/USDA-details-phased-reopening-of-southern-ports-for-livestock-trade.aspx?xy=rss",
-      "published": "2026-07-25T00:04:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Naver, Nvidia, Brookfield to boost AI data center with up to $10 billion investment",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9693310/Naver-Nvidia-Brookfield-to-boost-AI-data-center-with-up-to-10-billion-investment.aspx?xy=rss",
-      "published": "2026-07-24T23:37:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia: SK Telecom plans 2-gigawatt AI data center with Vera Rubin chips, SK Hynix HBM4 memory",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9693309/Nvidia-SK-Telecom-plans-2-gigawatt-AI-data-center-with-Vera-Rubin-chips-SK-Hynix-HBM4-memory.aspx?xy=rss",
-      "published": "2026-07-24T23:37:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia to invest $1 billion, Brookfield up to $9 billion to expand Naver AI data center",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9693308/Nvidia-to-invest-1-billion-Brookfield-up-to-9-billion-to-expand-Naver-AI-data-center.aspx?xy=rss",
-      "published": "2026-07-24T23:37:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia, SK Group unveil AI project valued at over $500 billion",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9693307/Nvidia-SK-Group-unveil-AI-project-valued-at-over-500-billion.aspx?xy=rss",
-      "published": "2026-07-24T23:37:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: U.S. appeals court blocks Trump from imposing $100,000 fee on new H-1B visas: court filing",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9693268/US-appeals-court-blocks-Trump-from-imposing-100000-fee-on-new-H-1B-visas-court-filing.aspx?xy=rss",
-      "published": "2026-07-24T22:44:35+00:00",
       "score": 1
     },
     {
@@ -282,15 +228,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "NETANYAHU TO TRAVEL TO WASHINGTON MONDAY AT INVITATION OF TRUMP: AXIOS NETANYAHU TO MEET TRUMP AT WHITE HOUSE ON TUESDAY: AXIOS NETANYAHU TO ATTEND FUNERAL CEREMONY FOR SENATOR LINDSEY GRAHAM: AXIOS",
-      "summary": "<p>NETANYAHU TO TRAVEL TO WASHINGTON MONDAY AT INVITATION OF TRUMP: AXIOS<br />\n<br />\nNETANYAHU TO MEET TRUMP AT WHITE HOUSE ON TUESDAY: AXIOS<br />\n<br />\nNETANYAHU TO ATTEND FUNERAL CEREMONY FOR SENATOR LINDSEY GRAHAM: AXIOS</p>",
-      "link": "https://nitter.net/DeItaone/status/2080657947282063551#m",
-      "published": "2026-07-24T14:14:46+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "Investors are worried about Oracle's credit: Oracle's, $ORCL, 5-year credit default swaps (CDS) are up to a record ~203 basis points. This means protection against Oracle's default now costs ~$203,000 for every $10 million of principal. Oracle's CDS have more than QUADRUPLED since mid-2025, even surpassing the 2008 Financial Crisis peak. The company’s borrowing costs are also rising, with the spread on its 6.7% notes due 2056 widening +8 bps on Monday, to 263 bps, and its 5.7% notes due 2036 widening +9 bps, to 205 bps. Meanwhile, S&P Global Ratings downgraded Oracle to BBB- on July 9th, just 1 notch above junk, citing its rapidly growing AI-related spending. Oracle's credit risk is at crisis levels.",
@@ -345,15 +282,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP SAID ON THURSDAY THAT HE IS SERIOUSLY CONSIDERING RESTARTING MAJOR COMBAT OPERATIONS IN IRAN -AXIOS",
-      "summary": "<p>TRUMP SAID ON THURSDAY THAT HE IS SERIOUSLY CONSIDERING RESTARTING MAJOR COMBAT OPERATIONS IN IRAN -AXIOS</p>",
-      "link": "https://nitter.net/DeItaone/status/2080314904020471816#m",
-      "published": "2026-07-23T15:31:38+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The Nasdaq 100 extends losses to over -2.5% on the day as the Iran War escalates and technology stocks drop on earnings results. The S&P 500 has now erased -$900 billion in market cap today.",
@@ -378,60 +306,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v4dj4i/what_happened_to_gold_gng/\"> <img alt=\"what happened to gold gng\" src=\"https://preview.redd.it/ybefrkhbbzeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=076d0b574bdbd9a2203528b15d05fe204198d182\" title=\"what happened to gold gng\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Who tweeted now its just free falling😭😭",
       "link": "https://www.reddit.com/r/Forex/comments/1v4dj4i/what_happened_to_gold_gng/",
       "published": "2026-07-23T13:11:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*FORD WILL USE APPLE SOFTWARE IN NEW SELF-DRIVING SYSTEM: NYT",
-      "summary": "<p>*FORD WILL USE APPLE SOFTWARE IN NEW SELF-DRIVING SYSTEM: NYT</p>",
-      "link": "https://nitter.net/DeItaone/status/2080277124120776851#m",
-      "published": "2026-07-23T13:01:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: We're winning in Iran",
-      "summary": "<p>Trump: We're winning in Iran</p>",
-      "link": "https://nitter.net/DeItaone/status/2080016914772787510#m",
-      "published": "2026-07-22T19:47:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: We don't need the Hormuz Strait",
-      "summary": "<p>Trump: We don't need the Hormuz Strait</p>",
-      "link": "https://nitter.net/DeItaone/status/2080016834447777860#m",
-      "published": "2026-07-22T19:47:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: Iran is going to pay a big price",
-      "summary": "<p>Trump: Iran is going to pay a big price</p>",
-      "link": "https://nitter.net/DeItaone/status/2079929930851184939#m",
-      "published": "2026-07-22T14:01:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: Americans are not against the war in Iran",
-      "summary": "<p>Trump: Americans are not against the war in Iran</p>",
-      "link": "https://nitter.net/DeItaone/status/2079929703800897536#m",
-      "published": "2026-07-22T14:00:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ESCALATES RHETORIC President Trump warned that any attack by Iran on ships in the Strait of Hormuz would trigger U.S. strikes on Iranian infrastructure, including bridges and power plants near Tehran. The statement marks a sharp escalation in rhetoric, reinforcing tensions around one of the world’s most strategically important shipping routes.",
-      "summary": "<p>TRUMP ESCALATES RHETORIC<br />\n<br />\nPresident Trump warned that any attack by Iran on ships in the Strait of Hormuz would trigger U.S. strikes on Iranian infrastructure, including bridges and power plants near Tehran.<br />\n<br />\nThe statement marks a sharp escalation in rhetoric, reinforcing tensions around one of the world’s most strategically important shipping routes.</p>",
-      "link": "https://nitter.net/DeItaone/status/2079917299813773353#m",
-      "published": "2026-07-22T13:11:41+00:00",
       "score": 1
     },
     {
