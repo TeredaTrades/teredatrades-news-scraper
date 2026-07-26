@@ -1,13 +1,22 @@
 {
-  "updated_at": "2026-07-26T00:16:30.288426+00:00",
-  "count": 53,
+  "updated_at": "2026-07-26T04:06:43.895587+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump urges all Republican senators to end filibuster and approve Save America Act, budget, and debt ceiling",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9693917/Trump-urges-all-Republican-senators-to-end-filibuster-and-approve-Save-America-Act-budget-and-debt-ceiling.aspx?xy=rss",
+      "published": "2026-07-26T03:50:07+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: US appeals court blocks implementation of Trump order limiting mail-in voting",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9693776/US-appeals-court-blocks-implementation-of-Trump-order-limiting-mail-in-voting.aspx",
+      "link": "https://www.financialjuice.com/News/9693776/US-appeals-court-blocks-implementation-of-Trump-order-limiting-mail-in-voting.aspx?xy=rss",
       "published": "2026-07-25T19:13:54+00:00",
       "score": 1
     },
