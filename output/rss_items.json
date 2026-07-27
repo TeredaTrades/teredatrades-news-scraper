@@ -1,15 +1,285 @@
 {
-  "updated_at": "2026-07-27T13:59:16.945202+00:00",
-  "count": 68,
+  "updated_at": "2026-07-27T16:29:19.191938+00:00",
+  "count": 73,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: UBS cuts target price of Microsoft to $480 from $510. $MSFT",
+      "title": "FinancialJuice: Trump: A lot of Patriot missiles are being built.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9695074/UBS-cuts-target-price-of-Microsoft-to-480-from-510-MSFT.aspx?xy=rss",
-      "published": "2026-07-27T13:49:54+00:00",
+      "link": "https://www.financialjuice.com/News/9695271/Trump-A-lot-of-Patriot-missiles-are-being-built.aspx?xy=rss",
+      "published": "2026-07-27T16:28:00+00:00",
       "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: I'd like to have more ammunition to be honest.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9695270/Trump-Id-like-to-have-more-ammunition-to-be-honest.aspx?xy=rss",
+      "published": "2026-07-27T16:27:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Haven't talked to Saudi Arabia about accords.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9695269/Trump-Havent-talked-to-Saudi-Arabia-about-accords.aspx?xy=rss",
+      "published": "2026-07-27T16:27:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: LISTEN LIVE: Trump Speaks",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9695268/LISTEN-LIVE-Trump-Speaks.aspx?xy=rss",
+      "published": "2026-07-27T16:27:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Good chance something could happen with Iran in talks.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9695267/Trump-Good-chance-something-could-happen-with-Iran-in-talks.aspx?xy=rss",
+      "published": "2026-07-27T16:26:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: We're having good talks with Iran, will see what happens",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9695266/Trump-Were-having-good-talks-with-Iran-will-see-what-happens.aspx?xy=rss",
+      "published": "2026-07-27T16:26:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump, asked about patience with Iran: Plenty of time.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9695265/Trump-asked-about-patience-with-Iran-Plenty-of-time.aspx?xy=rss",
+      "published": "2026-07-27T16:26:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Iran requested a meeting through surrogates.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9695264/Trump-Iran-requested-a-meeting-through-surrogates.aspx?xy=rss",
+      "published": "2026-07-27T16:25:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Iran wants to meet and we're meeting. There's chance we can make a deal with Iran",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9695263/Trump-Iran-wants-to-meet-and-were-meeting-Theres-chance-we-can-make-a-deal-with-Iran.aspx?xy=rss",
+      "published": "2026-07-27T16:25:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound tumbles as risk-off mood boosts the US Dollar",
+      "summary": "The Pound Sterling retreats by 0.13% even though the Greenback is flat during the day, as risk appetite shifted sour on news that a Chinese state-backed company is producing chipmaking machines, prompting a sell-off in ASML, the Dutch-based company.  The GBP/USD trades at 1.3305, after reaching a hi",
+      "link": "https://www.fxstreet.com/news/british-pound-tumbles-as-risk-off-mood-boosts-the-us-dollar-202607271610",
+      "published": "2026-07-27T16:10:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc slips against the US Dollar on diverging monetary policy expectations",
+      "summary": "USD/CHF climbs to fresh highs since June 2025 on Monday after Bloomberg reported that the Swiss National Bank (SNB) could keep its policy rate at zero until the end of 2027. The SNB later declined to comment on the report, according to Reuters.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-slips-against-the-us-dollar-on-diverging-monetary-policy-expectations-202607271608",
+      "published": "2026-07-27T16:08:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen firms as easing tensions weigh on USD before Fed, BoJ",
+      "summary": "USD/JPY edges lower on Monday and trades around 163.70 at the time of writing, down 0.09% on the day, as the US Dollar (USD) comes under pressure from improving risk sentiment following the latest geopolitical developments.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-firms-as-easing-tensions-weigh-on-usd-before-fed-boj-202607271601",
+      "published": "2026-07-27T16:01:49+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump says he is ready for \"strong military action\" if Iran talks fail, per Axios. Details include: 1. \"We are in very deep talks with Iran. If they don't work out, we will go back to very strong military action,\" Trump said 2. When asked how long he's willing to give diplomacy, Trump said \"not much time\" 3. Trump said he decided to pause strikes on Friday because the countries that are mediating asked him to give negotiations another chance US oil prices are now trading near $84/barrel.",
+      "summary": "<p>BREAKING: President Trump says he is ready for \"strong military action\" if Iran talks fail, per Axios.<br />\n<br />\nDetails include:<br />\n<br />\n1. \"We are in very deep talks with Iran. If they don't work out, we will go back to very strong military action,\" Trump said<br />\n<br />\n2. When asked how long he's willing to give diplomacy, Trump said \"not much time\"<br />\n<br />\n3. Trump said he d",
+      "link": "https://nitter.net/KobeissiLetter/status/2081769311799026132#m",
+      "published": "2026-07-27T15:50:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 6-Month Bill Auction",
+      "summary": "<div><ul><li>High Yield 3.945%</li><li>Bid-to-cover 3.12</li><li>US sells $79 bln</li><li>Awards 36.13% of bids at high</li></ul></div>",
+      "link": "https://www.financialjuice.com/News/9695214/US-6-Month-Bill-Auction.aspx?xy=rss",
+      "published": "2026-07-27T15:34:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 2 Yr Note Auction",
+      "summary": "<ul><li>High Yield 4.315% (Stop-through of 0.5 BPS)</li><li>Bid-to-cover 2.66</li><li>Sells $69 bln</li><li>Awards 69.04% of bids at high</li><li>Primary Dealers take 9.36%</li><li>Direct 34.05%</li><li>Indirect 56.59%</li></ul>",
+      "link": "https://www.financialjuice.com/News/9695213/US-2-Yr-Note-Auction.aspx?xy=rss",
+      "published": "2026-07-27T15:33:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 6-Month Bill High Yield Actual 3.945% (Forecast -, Previous 3.835%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9695202/US-6-Month-Bill-High-Yield-Actual-3945-Forecast---Previous-3835.aspx?xy=rss",
+      "published": "2026-07-27T15:32:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 2-Year Note High Yield Actual 4.315% (Forecast -, Previous 4.189%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9695199/US-2-Year-Note-High-Yield-Actual-4315-Forecast---Previous-4189.aspx?xy=rss",
+      "published": "2026-07-27T15:32:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Treasury WI 2 Yr yield 4.320% before $69 bln auction",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9695195/Treasury-WI-2-Yr-yield-4320-before-69-bln-auction.aspx?xy=rss",
+      "published": "2026-07-27T15:30:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed bids for 6-Month bills total $5.6 bln",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9695182/Fed-bids-for-6-Month-bills-total-56-bln.aspx?xy=rss",
+      "published": "2026-07-27T15:15:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed bids for 2-year notes total $7.6 bln.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9695181/Fed-bids-for-2-year-notes-total-76-bln.aspx?xy=rss",
+      "published": "2026-07-27T15:15:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The S&P 500 erases all gains and turns red on the day as chip stocks fall.",
+      "summary": "<p>BREAKING: The S&amp;P 500 erases all gains and turns red on the day as chip stocks fall.</p>\n<img src=\"https://nitter.net/pic/media%2FHOPk4JbWYAAfqVE.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2081759109754360120#m",
+      "published": "2026-07-27T15:10:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP WARNS OF MILITARY ACTION President Trump said the window for negotiations is limited, warning that if talks fail, the U.S. will resume a “very powerful” military operation.",
+      "summary": "<p>TRUMP WARNS OF MILITARY ACTION<br />\n<br />\nPresident Trump said the window for negotiations is limited, warning that if talks fail, the U.S. will resume a “very powerful” military operation.</p>",
+      "link": "https://nitter.net/DeItaone/status/2081758564498977214#m",
+      "published": "2026-07-27T15:08:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: MAS signals inflation concern – Commerzbank",
+      "summary": "Commerzbank’s Charlie Lay notes Monetary Authority of Singapore (MAS) unexpectedly tightened policy for a second meeting, slightly increasing the Singapore Dollar (SGD) Nominal Effective Exchange Rate (NEER) slope and stressing the move was smaller than April’s.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-signals-inflation-concern-commerzbank-202607271504",
+      "published": "2026-07-27T15:04:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BITCOIN FACES DOWNSIDE RISK Bitcoin slipped 0.2% as Nansen warned the market has yet to confirm a durable bottom, with a retest of $52,000–$58,000 possible. The firm said this week's Federal Reserve decision and Strategy's second-quarter earnings could be key catalysts for Bitcoin's next move.",
+      "summary": "<p>BITCOIN FACES DOWNSIDE RISK<br />\n<br />\nBitcoin slipped 0.2% as Nansen warned the market has yet to confirm a durable bottom, with a retest of $52,000–$58,000 possible.<br />\n<br />\nThe firm said this week's Federal Reserve decision and Strategy's second-quarter earnings could be key catalysts for Bitcoin's next move.</p>",
+      "link": "https://nitter.net/DeItaone/status/2081757382527299659#m",
+      "published": "2026-07-27T15:03:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar retreats from intraday gains ahead of Australian CPI and Fed decision",
+      "summary": "AUD/USD retreats to 0.6990 on Monday, though still up on Friday's close, after briefly rising as high as 0.7011 during the Asian session as investors prepare for key Australian inflation data and the Federal Reserve’s interest-rate decision.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-retreats-from-intraday-gains-ahead-of-australian-cpi-and-fed-decision-202607271502",
+      "published": "2026-07-27T15:02:00+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CAD Price Forecast: Technical outlook remains constructive above 1.4000",
+      "summary": "USD/CAD edges higher on Monday, paring earlier losses as the US Dollar (USD) rebounds after opening the week with a bearish gap. The Greenback initially weakened as a temporary pause in attacks between the United States (US) and Iran improved risk sentiment.",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-technical-outlook-remains-constructive-above-14000-202607271500",
+      "published": "2026-07-27T15:00:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Bank of England: Higher bar seen for rate hikes - ING",
+      "summary": "ING’s James Smith expects the Bank of England to keep rates on hold on 30 July and sees a prolonged pause extending through 2026. New forecasts are likely to show UK inflation peaking near 3%, below the 4% level seen as risky.",
+      "link": "https://www.fxstreet.com/news/bank-of-england-higher-bar-seen-for-rate-hikes-ing-202607271451",
+      "published": "2026-07-27T14:51:21+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ALTMAN TO BRIEF U.S. OFFICIALS OpenAI CEO Sam Altman is expected to meet with Trump administration officials, senators, and economists this week to showcase upcoming AI models, CNBC reported. Altman is also expected to discuss cybersecurity and OpenAI's approach to open-weight AI models, as Chinese rivals rapidly narrow the gap with leading U.S. developers.",
+      "summary": "<p>ALTMAN TO BRIEF U.S. OFFICIALS<br />\n<br />\nOpenAI CEO Sam Altman is expected to meet with Trump administration officials, senators, and economists this week to showcase upcoming AI models, CNBC reported.<br />\n<br />\nAltman is also expected to discuss cybersecurity and OpenAI's approach to open-weight AI models, as Chinese rivals rapidly narrow the gap with leading U.S. developers.</p>",
+      "link": "https://nitter.net/DeItaone/status/2081752843644461299#m",
+      "published": "2026-07-27T14:45:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "NASDAQ AND S&P 500 ERASE GAINS; NASDAQ DOWN 0.5%, S&P 500 DOWN 0.1%",
+      "summary": "<p>NASDAQ AND S&amp;P 500 ERASE GAINS; NASDAQ DOWN 0.5%, S&amp;P 500 DOWN 0.1%</p>",
+      "link": "https://nitter.net/DeItaone/status/2081751031226957984#m",
+      "published": "2026-07-27T14:38:17+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Growth slowdown and higher rates – BNP Paribas",
+      "summary": "BNP Paribas strategists expect United Kingdom (UK) growth to slow to 1% in 2026 from 1.3% in 2025, with renewed inflation pressures from the war in Iran pushing inflation to 3.2%.",
+      "link": "https://www.fxstreet.com/news/british-pound-growth-slowdown-and-higher-rates-bnp-paribas-202607271427",
+      "published": "2026-07-27T14:27:41+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro trims gains as geopolitical risks, Fed outlook support US Dollar",
+      "summary": "EUR/USD reverses its early gains on Monday and moves toward filling the bullish gap at the weekly open. The pair initially rose after a temporary pause in attacks between the United States (US) and Iran improved risk sentiment, sent Oil prices sharply lower and weighed on the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/euro-trims-gains-as-geopolitical-risks-fed-outlook-support-us-dollar-202607271400",
+      "published": "2026-07-27T14:00:42+00:00",
+      "score": 2
     },
     {
       "source": "FXStreet",
@@ -57,15 +327,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: +231 mln<br />Nasdaq 100: 0 mln<br />Dow 30: +58 mln<br />Mag 7: -8 mln",
-      "link": "https://www.financialjuice.com/News/9695034/MOO-Imbalance.aspx?xy=rss",
-      "published": "2026-07-27T13:30:35+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "BITCOIN RISES AS TENSIONS EASE Bitcoin gained 0.5% as risk sentiment improved after President Trump delayed a major escalation against Iran, raising hopes for renewed diplomacy. Investors are also watching progress on the U.S. Clarity Act, while Strategy reported no new Bitcoin purchases last week.",
@@ -93,24 +354,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP PUSHES TO END FILIBUSTER President Trump said the first party to abolish the Senate filibuster will \"survive and thrive,\" urging Republicans to act before Democrats. He warned that if Democrats eliminate the rule first, it would have severe consequences for the United States.",
-      "summary": "<p>TRUMP PUSHES TO END FILIBUSTER<br />\n<br />\nPresident Trump said the first party to abolish the Senate filibuster will \"survive and thrive,\" urging Republicans to act before Democrats.<br />\n<br />\nHe warned that if Democrats eliminate the rule first, it would have severe consequences for the United States.</p>",
-      "link": "https://nitter.net/DeItaone/status/2081730862568059137#m",
-      "published": "2026-07-27T13:18:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$MSTR - STRATEGY LAUNCHES STRC BUYBACK Strategy launched an ongoing STRC share repurchase program, buying back 288,930 shares for $25 million at an average price of $86.52 per share. The company also said its USD reserve increased to $3.75 billion.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSTR\">$MSTR</a>  - STRATEGY LAUNCHES STRC BUYBACK<br />\n<br />\nStrategy launched an ongoing STRC share repurchase program, buying back 288,930 shares for $25 million at an average price of $86.52 per share.<br />\n<br />\nThe company also said its USD reserve increased to $3.75 billion.</p>",
-      "link": "https://nitter.net/DeItaone/status/2081730468190281920#m",
-      "published": "2026-07-27T13:16:34+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "British Pound: Downside risks from softer UK data – HSBC",
@@ -118,42 +361,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-downside-risks-from-softer-uk-data-hsbc-202607271308",
       "published": "2026-07-27T13:08:46+00:00",
       "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP URGES FILIBUSTER END President Trump urged Senate Majority Leader John Thune to keep the Senate in session until Republicans pass the Save America Act or abolish the filibuster. Trump said ending the filibuster would allow Republicans to quickly pass their agenda, including the budget and debt ceiling measures, while accusing Democratic leadership of benefiting from current Senate rules.",
-      "summary": "<p>TRUMP URGES FILIBUSTER END<br />\n<br />\nPresident Trump urged Senate Majority Leader John Thune to keep the Senate in session until Republicans pass the Save America Act or abolish the filibuster.<br />\n<br />\nTrump said ending the filibuster would allow Republicans to quickly pass their agenda, including the budget and debt ceiling measures, while accusing Democratic leadership of benefiting f",
-      "link": "https://nitter.net/DeItaone/status/2081727107743289732#m",
-      "published": "2026-07-27T13:03:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia has additionally made an investment in SSI. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9695014/Nvidia-has-additionally-made-an-investment-in-SSI-NVDA.aspx?xy=rss",
-      "published": "2026-07-27T13:02:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$NVDA - *NVIDIA MAKES INVESTMENT IN SAFE SUPERINTELLIGENCE; NO TERMS",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - *NVIDIA MAKES INVESTMENT IN SAFE SUPERINTELLIGENCE; NO TERMS</p>",
-      "link": "https://nitter.net/DeItaone/status/2081726767325151560#m",
-      "published": "2026-07-27T13:01:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$AMZN - AMAZON: LEO WILL PARTNER WITH MOBILE NETWORK OPERATORS TO EXTEND MOBILE CONNECTIVITY SERVICES GLOBALLY, WITH SATELLITE DEPLOYMENT BEGINNING IN 2028",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>  - AMAZON: LEO WILL PARTNER WITH MOBILE NETWORK OPERATORS TO EXTEND MOBILE CONNECTIVITY SERVICES GLOBALLY, WITH SATELLITE DEPLOYMENT BEGINNING IN 2028</p>",
-      "link": "https://nitter.net/DeItaone/status/2081725452897353832#m",
-      "published": "2026-07-27T12:56:39+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -165,148 +372,13 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$AMZN - AMAZON LEO HAS PROPOSED NEW CONSTELLATION OF UP TO 5,105 SATELLITES TO CONNECT COMPATIBLE MOBILE DEVICES DIRECTLY FROM SPACE",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>  - AMAZON LEO HAS PROPOSED NEW CONSTELLATION OF UP TO 5,105 SATELLITES TO CONNECT COMPATIBLE MOBILE DEVICES DIRECTLY FROM SPACE</p>",
-      "link": "https://nitter.net/DeItaone/status/2081725345338704206#m",
-      "published": "2026-07-27T12:56:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$TSLA - *DEUTSCHE BANK CUTS TESLA PRICE TARGET TO $420 *DEUTSCHE BANK MAINTAINS BUY RATING ON TESLA *ANALYST EDISON YU LOWERS TESLA TARGET FROM $465",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23TSLA\">$TSLA</a>  - <br />\n<br />\n*DEUTSCHE BANK CUTS TESLA PRICE TARGET TO $420<br />\n*DEUTSCHE BANK MAINTAINS BUY RATING ON TESLA<br />\n*ANALYST EDISON YU LOWERS TESLA TARGET FROM $465</p>",
-      "link": "https://nitter.net/DeItaone/status/2081723912191160506#m",
-      "published": "2026-07-27T12:50:31+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "CEE FX: Softer geopolitics aids high beta – ING",
-      "summary": "ING’s Frantisek Taborsky expects upcoming Czech and Hungarian Gross Domestic Product (GDP) data to confirm improving growth momentum, while Polish inflation should re-accelerate on higher fuel prices.",
-      "link": "https://www.fxstreet.com/news/cee-fx-softer-geopolitics-aids-high-beta-ing-202607271237",
-      "published": "2026-07-27T12:37:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nomura: Expectations for a shorter rate-hike interval accounted for two-thirds of responses - FJElite",
-      "summary": "<div><strong>The timing of BOJ rate hikes: </strong>The consensus expects the BOJ to skip a rate hike at the July meeting. Around two-thirds of respondents expected the interval from the previous rate hike to be shorter than six months.</div><div><br /><strong>The BOJ’s terminal rate:</strong> Compared with the previous survey, fewer respondents expected the BOJ to raise rates to 2% or higher. Vie",
-      "link": "https://www.financialjuice.com/News/9694972/Nomura-Expectations-for-a-shorter-rate-hike-interval-accounted-for-two-thirds-of-responses---FJElite.aspx?xy=rss",
-      "published": "2026-07-27T12:32:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Russian Ruble: CBR credibility risks after cut – Commerzbank",
-      "summary": "Commerzbank’s Tatha Ghose reports the Russian central bank cut its key rate to 14.0% despite raising its 2026 inflation forecast and projecting stagflationary macro conditions.",
-      "link": "https://www.fxstreet.com/news/russian-ruble-cbr-credibility-risks-after-cut-commerzbank-202607271227",
-      "published": "2026-07-27T12:27:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs on Upcoming Fed Rate Decision - FJElite",
-      "summary": "<div>Market pricing implies that investors see the outcome of the July meeting as unusually uncertain. If current pricing implying a roughly 40% chance of a hike persists going into the meeting, either outcome would be the largest surprise in a few decades at a meeting where the Fed hiked or held (Exhibit 2), because the Fed has historically avoided delivering surprise rate hikes at its meetings.<",
-      "link": "https://www.financialjuice.com/News/9694942/Goldman-Sachs-on-Upcoming-Fed-Rate-Decision---FJElite.aspx?xy=rss",
-      "published": "2026-07-27T12:25:10+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: Extended pause but hike risk rising – UOB",
-      "summary": "UOB strategists expect the Federal Reserve (Fed) to keep the Fed Funds Target Rate at 3.50%–3.75% at the July Federal Open Market Committee (FOMC) meeting and maintain a base case of an extended pause through 2026, with easing only in 2Q and 4Q 2027 once transitory inflation fades.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-extended-pause-but-hike-risk-rising-uob-202607271218",
-      "published": "2026-07-27T12:18:38+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Oil: Lower prices ease inflation risks – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that easing Oil prices, helped by reduced Iran–US tensions, are bringing crude closer to their base case of a gradual downtrend.",
-      "link": "https://www.fxstreet.com/news/oil-lower-prices-ease-inflation-risks-ocbc-202607271208",
-      "published": "2026-07-27T12:08:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia plans to invest $1b into Naver. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9694910/Nvidia-plans-to-invest-1b-into-Naver-NVDA.aspx?xy=rss",
-      "published": "2026-07-27T12:01:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Fed uncertainty tempers USD strength – MUFG",
-      "summary": "MUFG’s Lee Hardman notes the US Dollar has softened as Middle East tensions ease and Brent Oil retreats below USD90, reducing energy-driven inflation fears. The correction in energy prices has slightly lowered market-implied odds of a near-term Fed rate hike.",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-uncertainty-tempers-usd-strength-mufg-202607271152",
-      "published": "2026-07-27T11:52:05+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD is looking for direction around $4,100",
-      "summary": "Gold (XAU/USD) has been consolidating gains during the European trading session, following a bullish gap at the week’s opening as a moderate improvement of risk sentiment hurt the safe-haven USD.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-is-looking-for-direction-around-4-100-202607271145",
-      "published": "2026-07-27T11:45:45+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Fiber resumes decline after testing Bearish Flag breakdown",
-      "summary": "The Euro (EUR) gives back a majority of its early gains against the US Dollar (USD) after failing to rise above the intraday high of 1.1418 on Monday.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-resumes-decline-after-testing-bearish-flag-breakdown-202607271133",
-      "published": "2026-07-27T11:33:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: BoE pause risks dovish repricing – ING",
-      "summary": "ING’s Francesco Pesole expects the Bank of England (BoE) to leave rates unchanged this week, with a 7–2 vote remaining the base case, although Catherine Mann could join Huw Pill and Megan Greene in supporting a rate hike.",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-pause-risks-dovish-repricing-ing-202607271129",
-      "published": "2026-07-27T11:29:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Growth and policy doubts point lower against US Dollar – HSBC",
-      "summary": "HSBC strategists see EUR/USD at risk of moving lower as the European Central Bank (ECB) maintains a cautious, data-dependent stance and refrains from signalling further rate hikes.",
-      "link": "https://www.fxstreet.com/news/euro-growth-and-policy-doubts-point-lower-against-us-dollar-hsbc-202607271121",
-      "published": "2026-07-27T11:21:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold trims early gains as Oil prices and US Dollar rebound, Fed decision looms",
+      "title": "Gold struggles below $4,100 as US Dollar rebounds, Fed decision looms",
       "summary": "Gold (XAU/USD) opens the week with a bullish gap on Monday but struggles to build on its early advance as optimism over a temporary pause in attacks between the United States (US) and Iran fades and Oil prices recover from intraday lows.",
       "link": "https://www.fxstreet.com/news/gold-firms-as-oil-prices-fall-on-temporary-us-iran-pause-202607271114",
       "published": "2026-07-27T11:14:49+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swedish Krona: Moderately firmer tone into year-end – Rabobank",
-      "summary": "Rabobank’s Senior FX Strategist Jane Foley notes that benign Consumer Price Index (CPI) and CPIF inflation leave Sweden and the Riksbank better positioned than many G10 peers to delay rate hikes despite supply disruptions from the Iran war.",
-      "link": "https://www.fxstreet.com/news/swedish-krona-moderately-firmer-tone-into-year-end-rabobank-202607271112",
-      "published": "2026-07-27T11:12:33+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -417,33 +489,6 @@
       "score": 2
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump ordered the US Military to not carry out planned strikes on Iran Friday night, despite previously approving the strikes, per Axios. This came just hours after talks mediated by Oman over reopening the Strait of Hormuz reportedly resumed.",
-      "summary": "<p>BREAKING: President Trump ordered the US Military to not carry out planned strikes on Iran Friday night, despite previously approving the strikes, per Axios.<br />\n<br />\nThis came just hours after talks mediated by Oman over reopening the Strait of Hormuz reportedly resumed.</p>",
-      "link": "https://nitter.net/KobeissiLetter/status/2081070935587639452#m",
-      "published": "2026-07-25T17:35:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Stocks are significantly outperforming housing over the US over the long run: Since 1975, the S&P 500 has delivered an average annual total return of +12.2%. This is more than double the +5.1% annual gain in US home prices over the same period. Even without reinvesting dividends, the S&P 500 has still returned an average of +9.3% per year, outperforming house price appreciation. After adjusting for inflation, the gap is even wider, with the S&P 500's real total return at +8.3% over the last 50 years, nearly 6 times the +1.4% real annual return of US home prices. At the same time, the S&P 500 excluding dividends and adjusted for inflation has returned +5.4% per year, on average. Stocks have been a far more powerful driver of wealth creation than housing.",
-      "summary": "<p>Stocks are significantly outperforming housing over the US over the long run:<br />\n<br />\nSince 1975, the S&amp;P 500 has delivered an average annual total return of +12.2%. <br />\n<br />\nThis is more than double the +5.1% annual gain in US home prices over the same period.<br />\n<br />\nEven without reinvesting dividends, the S&amp;P 500 has still returned an average of +9.3% per year, outperf",
-      "link": "https://nitter.net/KobeissiLetter/status/2081058898380026156#m",
-      "published": "2026-07-25T16:48:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: China imported +173 tonnes of gold in June, the largest monthly import since March 2024. This also marks their 3rd consecutive monthly increase. As a result, China's total gold imports in the first half of 2026 doubled, to ~820 tonnes, the 2nd-largest first-half total on record. This is just ~10 tonnes below the first-half total record of ~830 tonnes set in 2025. The surge was driven by investors buying the dip and banks increasing gold imports to rebuild inventories amid strong retail demand. Meanwhile, gold-backed ETFs in China have attracted +28 tonnes of inflows year-to-date. China's appetite for gold is incredibly strong.",
-      "summary": "<p>BREAKING: China imported +173 tonnes of gold in June, the largest monthly import since March 2024.<br />\n<br />\nThis also marks their 3rd consecutive monthly increase.<br />\n<br />\nAs a result, China's total gold imports in the first half of 2026 doubled, to ~820 tonnes, the 2nd-largest first-half total on record.<br />\n<br />\nThis is just ~10 tonnes below the first-half total record of ~830 to",
-      "link": "https://nitter.net/KobeissiLetter/status/2081054836749922637#m",
-      "published": "2026-07-25T16:31:51+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "How much does spread really cost you? Convert it to R and most retail systems are already dead",
@@ -455,10 +500,10 @@
     {
       "source": "r/Forex",
       "category": "reddit",
-      "title": "Forex reputation",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I saw a post with someone saying Forex is a gambler's market, and I have seen many posts and videos like this over the years. This isn't true, and I'll explain why.</p> <p>Forex operates on leverage; brokers offer ridiculous leverage such as 1:100 or beyond when only 1:30 is all you need. The high amount of leverage offered gives retail traders/investors not only ",
-      "link": "https://www.reddit.com/r/Forex/comments/1v4q2n5/forex_reputation/",
-      "published": "2026-07-23T20:41:44+00:00",
+      "title": "Aiming for this route for USDJPY today",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v55mo9/aiming_for_this_route_for_usdjpy_today/\"> <img alt=\"Aiming for this route for USDJPY today\" src=\"https://preview.redd.it/j496nfy145fh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=67c90286bae4d04ea1999fbff300cc213226ec79\" title=\"Aiming for this route for USDJPY today\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>",
+      "link": "https://www.reddit.com/r/Forex/comments/1v55mo9/aiming_for_this_route_for_usdjpy_today/",
+      "published": "2026-07-24T08:42:01+00:00",
       "score": 1
     },
     {
