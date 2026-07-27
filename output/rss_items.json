@@ -1,23 +1,275 @@
 {
-  "updated_at": "2026-07-27T11:40:25.269903+00:00",
-  "count": 61,
+  "updated_at": "2026-07-27T13:59:16.945202+00:00",
+  "count": 68,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: UBS cuts target price of Microsoft to $480 from $510. $MSFT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9695074/UBS-cuts-target-price-of-Microsoft-to-480-from-510-MSFT.aspx?xy=rss",
+      "published": "2026-07-27T13:49:54+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "EUR/USD Price Forecast: Resumes decline after testing Bearish Flag breakdown",
-      "summary": "The Euro (EUR) gives back a majority of its early gains against the US Dollar (USD) after failing to rise above the intraday high of 1.1418 on Monday.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-resumes-decline-after-testing-bearish-flag-breakdown-202607271133",
-      "published": "2026-07-27T11:33:34+00:00",
+      "title": "European Central Bank: Rate path and yields after sharp rise – Societe Generale",
+      "summary": "Societe Generale strategists argue July’s global fixed income selloff looks stretched, especially in Western Europe where 2-year and 10-year yields have risen about 30bp in four weeks.",
+      "link": "https://www.fxstreet.com/news/european-central-bank-rate-path-and-yields-after-sharp-rise-societe-generale-202607271345",
+      "published": "2026-07-27T13:45:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "S&P 500 BANKS INDEX HITS RECORD HIGH, LAST UP 1.3%",
+      "summary": "<p>S&amp;P 500 BANKS INDEX HITS RECORD HIGH, LAST UP 1.3%</p>",
+      "link": "https://nitter.net/DeItaone/status/2081735725779759220#m",
+      "published": "2026-07-27T13:37:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "GOLDMAN SEES GAS PRICE RISKS Goldman Sachs maintained its Q3 2026 TTF gas forecast at €60/MWh but said risks remain skewed to the upside. If U.S.-Iran talks succeed, prices could fall below €50/MWh. However, if Middle East energy exports recover only gradually through 2027, December 2026 TTF prices could exceed €100/MWh.",
+      "summary": "<p>GOLDMAN SEES GAS PRICE RISKS<br />\n<br />\nGoldman Sachs maintained its Q3 2026 TTF gas forecast at €60/MWh but said risks remain skewed to the upside.<br />\n<br />\nIf U.S.-Iran talks succeed, prices could fall below €50/MWh. However, if Middle East energy exports recover only gradually through 2027, December 2026 TTF prices could exceed €100/MWh.</p>",
+      "link": "https://nitter.net/DeItaone/status/2081735188493561875#m",
+      "published": "2026-07-27T13:35:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: Mixed signals keep rates on hold – DBS",
+      "summary": "DBS Group Research economists Taimur Baig and Chang Wei Liang argue that sticky United States (US) inflation keeps pressure on the Federal Reserve (Fed), but soft consumption, weak investment and fading labour market resilience justify a pause in Fed Funds rate hikes.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-mixed-signals-keep-rates-on-hold-dbs-202607271334",
+      "published": "2026-07-27T13:34:14+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "AIRLINES JUMP AS OIL PLUNGES U.S. airline stocks rallied after crude oil prices fell more than 7%, boosting expectations for lower fuel costs. JetBlue surged 6.5%, while United and Alaska Air gained 4% each, American Airlines rose 3.7%, Delta added 3.5%, and Southwest climbed 2.4%. The S&P Composite 1500 Passenger Airlines Index advanced 3.5%.",
+      "summary": "<p>AIRLINES JUMP AS OIL PLUNGES<br />\n<br />\nU.S. airline stocks rallied after crude oil prices fell more than 7%, boosting expectations for lower fuel costs.<br />\n<br />\nJetBlue surged 6.5%, while United and Alaska Air gained 4% each, American Airlines rose 3.7%, Delta added 3.5%, and Southwest climbed 2.4%.<br />\n<br />\nThe S&amp;P Composite 1500 Passenger Airlines Index advanced 3.5%.</p>",
+      "link": "https://nitter.net/DeItaone/status/2081734300177678466#m",
+      "published": "2026-07-27T13:31:48+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Israel's Prime Minister Netanyahu: Will discuss Iran, other issues with Trump",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: +231 mln<br />Nasdaq 100: 0 mln<br />Dow 30: +58 mln<br />Mag 7: -8 mln",
+      "link": "https://www.financialjuice.com/News/9695034/MOO-Imbalance.aspx?xy=rss",
+      "published": "2026-07-27T13:30:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BITCOIN RISES AS TENSIONS EASE Bitcoin gained 0.5% as risk sentiment improved after President Trump delayed a major escalation against Iran, raising hopes for renewed diplomacy. Investors are also watching progress on the U.S. Clarity Act, while Strategy reported no new Bitcoin purchases last week.",
+      "summary": "<p>BITCOIN RISES AS TENSIONS EASE<br />\n<br />\nBitcoin gained 0.5% as risk sentiment improved after President Trump delayed a major escalation against Iran, raising hopes for renewed diplomacy.<br />\n<br />\nInvestors are also watching progress on the U.S. Clarity Act, while Strategy reported no new Bitcoin purchases last week.</p>",
+      "link": "https://nitter.net/DeItaone/status/2081731327670235243#m",
+      "published": "2026-07-27T13:19:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Policy uncertainty supports USD – BNY",
+      "summary": "BNY’s Geoff Yu says softer June Consumer Price Index (CPI) has reduced immediate inflation concerns, but limited Fed guidance continues to support policy uncertainty and US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/us-dollar-policy-uncertainty-supports-usd-bny-202607271319",
+      "published": "2026-07-27T13:19:52+00:00",
+      "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP WARNS U.S. RISKS THIRD WORLD NATION STATUS",
+      "summary": "<p>*TRUMP WARNS U.S. RISKS THIRD WORLD NATION STATUS</p>\n<hr />\n<blockquote>\n<b>*Walter Bloomberg (@DeItaone)</b>\n<p>\n<p>TRUMP PUSHES TO END FILIBUSTER<br />\n<br />\nPresident Trump said the first party to abolish the Senate filibuster will \"survive and thrive,\" urging Republicans to act before Democrats.<br />\n<br />\nHe warned that if Democrats eliminate the rule first, it would have severe conseq",
+      "link": "https://nitter.net/DeItaone/status/2081731155435380778#m",
+      "published": "2026-07-27T13:19:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP PUSHES TO END FILIBUSTER President Trump said the first party to abolish the Senate filibuster will \"survive and thrive,\" urging Republicans to act before Democrats. He warned that if Democrats eliminate the rule first, it would have severe consequences for the United States.",
+      "summary": "<p>TRUMP PUSHES TO END FILIBUSTER<br />\n<br />\nPresident Trump said the first party to abolish the Senate filibuster will \"survive and thrive,\" urging Republicans to act before Democrats.<br />\n<br />\nHe warned that if Democrats eliminate the rule first, it would have severe consequences for the United States.</p>",
+      "link": "https://nitter.net/DeItaone/status/2081730862568059137#m",
+      "published": "2026-07-27T13:18:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$MSTR - STRATEGY LAUNCHES STRC BUYBACK Strategy launched an ongoing STRC share repurchase program, buying back 288,930 shares for $25 million at an average price of $86.52 per share. The company also said its USD reserve increased to $3.75 billion.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSTR\">$MSTR</a>  - STRATEGY LAUNCHES STRC BUYBACK<br />\n<br />\nStrategy launched an ongoing STRC share repurchase program, buying back 288,930 shares for $25 million at an average price of $86.52 per share.<br />\n<br />\nThe company also said its USD reserve increased to $3.75 billion.</p>",
+      "link": "https://nitter.net/DeItaone/status/2081730468190281920#m",
+      "published": "2026-07-27T13:16:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Downside risks from softer UK data – HSBC",
+      "summary": "HSBC argues that GBP/USD faces renewed downside as UK disinflation and a softer labour market reduce urgency for further Bank of England tightening, even though markets still price hikes out to 2027.",
+      "link": "https://www.fxstreet.com/news/british-pound-downside-risks-from-softer-uk-data-hsbc-202607271308",
+      "published": "2026-07-27T13:08:46+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP URGES FILIBUSTER END President Trump urged Senate Majority Leader John Thune to keep the Senate in session until Republicans pass the Save America Act or abolish the filibuster. Trump said ending the filibuster would allow Republicans to quickly pass their agenda, including the budget and debt ceiling measures, while accusing Democratic leadership of benefiting from current Senate rules.",
+      "summary": "<p>TRUMP URGES FILIBUSTER END<br />\n<br />\nPresident Trump urged Senate Majority Leader John Thune to keep the Senate in session until Republicans pass the Save America Act or abolish the filibuster.<br />\n<br />\nTrump said ending the filibuster would allow Republicans to quickly pass their agenda, including the budget and debt ceiling measures, while accusing Democratic leadership of benefiting f",
+      "link": "https://nitter.net/DeItaone/status/2081727107743289732#m",
+      "published": "2026-07-27T13:03:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia has additionally made an investment in SSI. $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9694864/Israels-Prime-Minister-Netanyahu-Will-discuss-Iran-other-issues-with-Trump.aspx?xy=rss",
-      "published": "2026-07-27T11:30:29+00:00",
+      "link": "https://www.financialjuice.com/News/9695014/Nvidia-has-additionally-made-an-investment-in-SSI-NVDA.aspx?xy=rss",
+      "published": "2026-07-27T13:02:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$NVDA - *NVIDIA MAKES INVESTMENT IN SAFE SUPERINTELLIGENCE; NO TERMS",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - *NVIDIA MAKES INVESTMENT IN SAFE SUPERINTELLIGENCE; NO TERMS</p>",
+      "link": "https://nitter.net/DeItaone/status/2081726767325151560#m",
+      "published": "2026-07-27T13:01:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AMZN - AMAZON: LEO WILL PARTNER WITH MOBILE NETWORK OPERATORS TO EXTEND MOBILE CONNECTIVITY SERVICES GLOBALLY, WITH SATELLITE DEPLOYMENT BEGINNING IN 2028",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>  - AMAZON: LEO WILL PARTNER WITH MOBILE NETWORK OPERATORS TO EXTEND MOBILE CONNECTIVITY SERVICES GLOBALLY, WITH SATELLITE DEPLOYMENT BEGINNING IN 2028</p>",
+      "link": "https://nitter.net/DeItaone/status/2081725452897353832#m",
+      "published": "2026-07-27T12:56:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar hesitates despite weaker US Dollar on renewed Iran diplomacy hopes",
+      "summary": "NZD/USD trades around 0.5790 at the time of writing on Monday, virtually unchanged on the day.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-hesitates-despite-weaker-us-dollar-on-renewed-iran-diplomacy-hopes-202607271256",
+      "published": "2026-07-27T12:56:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AMZN - AMAZON LEO HAS PROPOSED NEW CONSTELLATION OF UP TO 5,105 SATELLITES TO CONNECT COMPATIBLE MOBILE DEVICES DIRECTLY FROM SPACE",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>  - AMAZON LEO HAS PROPOSED NEW CONSTELLATION OF UP TO 5,105 SATELLITES TO CONNECT COMPATIBLE MOBILE DEVICES DIRECTLY FROM SPACE</p>",
+      "link": "https://nitter.net/DeItaone/status/2081725345338704206#m",
+      "published": "2026-07-27T12:56:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$TSLA - *DEUTSCHE BANK CUTS TESLA PRICE TARGET TO $420 *DEUTSCHE BANK MAINTAINS BUY RATING ON TESLA *ANALYST EDISON YU LOWERS TESLA TARGET FROM $465",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23TSLA\">$TSLA</a>  - <br />\n<br />\n*DEUTSCHE BANK CUTS TESLA PRICE TARGET TO $420<br />\n*DEUTSCHE BANK MAINTAINS BUY RATING ON TESLA<br />\n*ANALYST EDISON YU LOWERS TESLA TARGET FROM $465</p>",
+      "link": "https://nitter.net/DeItaone/status/2081723912191160506#m",
+      "published": "2026-07-27T12:50:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "CEE FX: Softer geopolitics aids high beta – ING",
+      "summary": "ING’s Frantisek Taborsky expects upcoming Czech and Hungarian Gross Domestic Product (GDP) data to confirm improving growth momentum, while Polish inflation should re-accelerate on higher fuel prices.",
+      "link": "https://www.fxstreet.com/news/cee-fx-softer-geopolitics-aids-high-beta-ing-202607271237",
+      "published": "2026-07-27T12:37:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nomura: Expectations for a shorter rate-hike interval accounted for two-thirds of responses - FJElite",
+      "summary": "<div><strong>The timing of BOJ rate hikes: </strong>The consensus expects the BOJ to skip a rate hike at the July meeting. Around two-thirds of respondents expected the interval from the previous rate hike to be shorter than six months.</div><div><br /><strong>The BOJ’s terminal rate:</strong> Compared with the previous survey, fewer respondents expected the BOJ to raise rates to 2% or higher. Vie",
+      "link": "https://www.financialjuice.com/News/9694972/Nomura-Expectations-for-a-shorter-rate-hike-interval-accounted-for-two-thirds-of-responses---FJElite.aspx?xy=rss",
+      "published": "2026-07-27T12:32:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Russian Ruble: CBR credibility risks after cut – Commerzbank",
+      "summary": "Commerzbank’s Tatha Ghose reports the Russian central bank cut its key rate to 14.0% despite raising its 2026 inflation forecast and projecting stagflationary macro conditions.",
+      "link": "https://www.fxstreet.com/news/russian-ruble-cbr-credibility-risks-after-cut-commerzbank-202607271227",
+      "published": "2026-07-27T12:27:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Goldman Sachs on Upcoming Fed Rate Decision - FJElite",
+      "summary": "<div>Market pricing implies that investors see the outcome of the July meeting as unusually uncertain. If current pricing implying a roughly 40% chance of a hike persists going into the meeting, either outcome would be the largest surprise in a few decades at a meeting where the Fed hiked or held (Exhibit 2), because the Fed has historically avoided delivering surprise rate hikes at its meetings.<",
+      "link": "https://www.financialjuice.com/News/9694942/Goldman-Sachs-on-Upcoming-Fed-Rate-Decision---FJElite.aspx?xy=rss",
+      "published": "2026-07-27T12:25:10+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: Extended pause but hike risk rising – UOB",
+      "summary": "UOB strategists expect the Federal Reserve (Fed) to keep the Fed Funds Target Rate at 3.50%–3.75% at the July Federal Open Market Committee (FOMC) meeting and maintain a base case of an extended pause through 2026, with easing only in 2Q and 4Q 2027 once transitory inflation fades.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-extended-pause-but-hike-risk-rising-uob-202607271218",
+      "published": "2026-07-27T12:18:38+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Oil: Lower prices ease inflation risks – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that easing Oil prices, helped by reduced Iran–US tensions, are bringing crude closer to their base case of a gradual downtrend.",
+      "link": "https://www.fxstreet.com/news/oil-lower-prices-ease-inflation-risks-ocbc-202607271208",
+      "published": "2026-07-27T12:08:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia plans to invest $1b into Naver. $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9694910/Nvidia-plans-to-invest-1b-into-Naver-NVDA.aspx?xy=rss",
+      "published": "2026-07-27T12:01:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Fed uncertainty tempers USD strength – MUFG",
+      "summary": "MUFG’s Lee Hardman notes the US Dollar has softened as Middle East tensions ease and Brent Oil retreats below USD90, reducing energy-driven inflation fears. The correction in energy prices has slightly lowered market-implied odds of a near-term Fed rate hike.",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-uncertainty-tempers-usd-strength-mufg-202607271152",
+      "published": "2026-07-27T11:52:05+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold Price Forecast: XAU/USD is looking for direction around $4,100",
+      "summary": "Gold (XAU/USD) has been consolidating gains during the European trading session, following a bullish gap at the week’s opening as a moderate improvement of risk sentiment hurt the safe-haven USD.",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-is-looking-for-direction-around-4-100-202607271145",
+      "published": "2026-07-27T11:45:45+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Fiber resumes decline after testing Bearish Flag breakdown",
+      "summary": "The Euro (EUR) gives back a majority of its early gains against the US Dollar (USD) after failing to rise above the intraday high of 1.1418 on Monday.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-resumes-decline-after-testing-bearish-flag-breakdown-202607271133",
+      "published": "2026-07-27T11:33:34+00:00",
       "score": 1
     },
     {
@@ -41,8 +293,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold firms as Oil prices fall on temporary US-Iran pause, Fed in focus",
-      "summary": "Gold (XAU/USD) opens the week with a bullish gap on Monday as a temporary pause in attacks between the United States (US) and Iran improves risk sentiment and sends Oil prices sharply lower. At the time of writing, XAU/USD is trading around $4,102, up 1.24% on the day.",
+      "title": "Gold trims early gains as Oil prices and US Dollar rebound, Fed decision looms",
+      "summary": "Gold (XAU/USD) opens the week with a bullish gap on Monday but struggles to build on its early advance as optimism over a temporary pause in attacks between the United States (US) and Iran fades and Oil prices recover from intraday lows.",
       "link": "https://www.fxstreet.com/news/gold-firms-as-oil-prices-fall-on-temporary-us-iran-pause-202607271114",
       "published": "2026-07-27T11:14:49+00:00",
       "score": 4
@@ -55,186 +307,6 @@
       "link": "https://www.fxstreet.com/news/swedish-krona-moderately-firmer-tone-into-year-end-rabobank-202607271112",
       "published": "2026-07-27T11:12:33+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar holds losses against US Dollar, weighed by lower Oil prices",
-      "summary": "The Canadian Dollar (CAD) remains vulnerable, despite the safe-haven US Dollar’s (USD) weakness on Monday, and extends losses for the second consecutive day.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-losses-against-us-dollar-weighed-by-lower-oil-prices-202607271043",
-      "published": "2026-07-27T10:43:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar advances to 0.7000 as Middle East de-escalation weighs on the USD",
-      "summary": "AUD/USD trades around 0.7000 on Monday at the time of writing, up 0.33% on the day, supported by a weaker US Dollar (USD) as geopolitical tensions in the Middle East show signs of easing.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-advances-to-07000-as-middle-east-de-escalation-weighs-on-the-usd-202607271031",
-      "published": "2026-07-27T10:31:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING FX Daily - FJElite",
-      "summary": "<div>The dollar enters Fed week ahead of Wednesday's decision with better momentum. Last week, EUR/USD finally edged lower from its recent range as markets took the escalation in the Middle East more seriously. However, Brent has fallen back to $92/bbl, likely on the back of news that Iran and Oman are negotiating over the Strait of Hormuz and a second day of a pause in fighting with the US.</div>",
-      "link": "https://www.financialjuice.com/News/9694797/ING-FX-Daily---FJElite.aspx?xy=rss",
-      "published": "2026-07-27T10:25:20+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MUFG: Middle East Daily - FJElite",
-      "summary": "<div>Oil retreat as US pauses strikes on Iran. Brent crude fell more than 7% before recovering to trade above USD93/b, while WTI also declined, after the US paused military strikes against Iran, raising hopes for a temporary de-escalation in the Middle East conflict. The pullback came despite Houthi claims of attacks on Saudi energy facilities in Yanbu and Jizan, although the incidents were not co",
-      "link": "https://www.financialjuice.com/News/9694796/MUFG-Middle-East-Daily---FJElite.aspx?xy=rss",
-      "published": "2026-07-27T10:23:18+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Macro backdrop favors recovery against US Dollar - BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad anticipates the Bank of Japan (BoJ) will leave its policy rate at 1.00% after June’s hike, with inflation still below target and markets pricing only gradual tightening.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-macro-backdrop-favors-recovery-against-us-dollar-bbh-202607271005",
-      "published": "2026-07-27T10:05:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. FACES CRITICAL MINERALS SHORTAGE President Trump aims to end U.S. reliance on Chinese critical minerals by January 2027, but industry leaders warn domestic supply is nowhere near ready. Despite billions in government support, the U.S. still lacks enough mining and processing capacity, while China controls over 80% of rare earth refining. Many Pentagon-backed projects won't reach meaningful production until 2027–2030, making the deadline difficult to achieve.",
-      "summary": "<p>U.S. FACES CRITICAL MINERALS SHORTAGE<br />\n<br />\nPresident Trump aims to end U.S. reliance on Chinese critical minerals by January 2027, but industry leaders warn domestic supply is nowhere near ready.<br />\n<br />\nDespite billions in government support, the U.S. still lacks enough mining and processing capacity, while China controls over 80% of rare earth refining.<br />\n<br />\nMany Pentagon",
-      "link": "https://nitter.net/DeItaone/status/2081681582138511453#m",
-      "published": "2026-07-27T10:02:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Japan's PM Takaichi: Japan is no longer in deflation, if deflation is defined as sustained price declines, as CPI and GDP deflator are in an uptrend",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9694762/Japans-PM-Takaichi-Japan-is-no-longer-in-deflation-if-deflation-is-defined-as-sustained-price-declines-as-CPI-and-GDP-deflator-are-in-an-uptrend.aspx?xy=rss",
-      "published": "2026-07-27T09:49:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: Eases to 163.50 with the broader bullish trend intact",
-      "summary": "The Japanese Yen (JPY) pares recent losses against the US Dollar (USD) on Monday, favoured by a relief rally, as the US and Iran halted their hostilities, opening the door for further negotiations.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-eases-to-16350-with-the-broader-bullish-trend-intact-202607270944",
-      "published": "2026-07-27T09:44:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "INVESTORS WARNED OF STAGFLATION RISKS CG Asset Management says investors should prepare for a low-growth, high-inflation environment after the U.S. imposed new tariffs on 60 trading partners, including the EU and China. The firm warns the tariffs, combined with energy market pressures and ongoing supply chain disruptions, could weigh on global economic growth while keeping inflation elevated.",
-      "summary": "<p>INVESTORS WARNED OF STAGFLATION RISKS<br />\n<br />\nCG Asset Management says investors should prepare for a low-growth, high-inflation environment after the U.S. imposed new tariffs on 60 trading partners, including the EU and China.<br />\n<br />\nThe firm warns the tariffs, combined with energy market pressures and ongoing supply chain disruptions, could weigh on global economic growth while kee",
-      "link": "https://nitter.net/DeItaone/status/2081676283327459761#m",
-      "published": "2026-07-27T09:41:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) rose on Monday, according to FXStreet data. Silver trades at $59.43 per troy ounce, up 2.26% from the $58.12 it cost on Friday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202607270935",
-      "published": "2026-07-27T09:35:11+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Fed communication key for path – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong highlight that markets have repriced the risk of a July Fed hike higher after Oil-driven inflation worries, but still expect no move.",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-communication-key-for-path-ocbc-202607270927",
-      "published": "2026-07-27T09:27:35+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD rallies near $60 as markets embrace US-Iran de-escalation",
-      "summary": "Silver (XAG/USD) rallies on Monday and trades around $59.45 at the time of writing, up 2.27% on the day.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rallies-near-60-as-markets-embrace-us-iran-de-escalation-202607270918",
-      "published": "2026-07-27T09:18:30+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "NVIDIA LEADS OPEN AI SECURITY ALLIANCE $NVDA has launched the Open Secure AI Alliance, partnering with Palantir, IBM, CrowdStrike, SpaceX, and Hugging Face to strengthen open-source AI security. The group will share open models, data, and cybersecurity tools while urging policymakers to support open AI with safeguards rather than broad restrictions, as the U.S. debates limits on Chinese AI models.",
-      "summary": "<p>NVIDIA LEADS OPEN AI SECURITY ALLIANCE<br />\n<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  has launched the Open Secure AI Alliance, partnering with Palantir, IBM, CrowdStrike, SpaceX, and Hugging Face to strengthen open-source AI security.<br />\n<br />\nThe group will share open models, data, and cybersecurity tools while urging policymakers to support open AI wit",
-      "link": "https://nitter.net/DeItaone/status/2081668838798626956#m",
-      "published": "2026-07-27T09:11:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$NVDA - NVIDIA LAUNCHES NEW SECURITY INITIATIVE FOR OPEN-SOURCE AI - SEMAFOR",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - NVIDIA LAUNCHES NEW SECURITY INITIATIVE FOR OPEN-SOURCE AI - SEMAFOR</p>",
-      "link": "https://nitter.net/DeItaone/status/2081668340678885467#m",
-      "published": "2026-07-27T09:09:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: BoJ guidance and Fed surprise risk steer the yen – MUFG",
-      "summary": "MUFG’s Lee Hardman highlights that lower energy prices have eased pressure on Japanese policymakers and slowed USD/JPY’s climb below 164.00. Markets expect the Bank of Japan (BoJ) to keep rates unchanged but are focused on any hawkish signals on future hikes.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-guidance-and-fed-surprise-risk-steer-the-yen-mufg-202607270856",
-      "published": "2026-07-27T08:56:51+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP'S MONDAY SCHEDULE 🔸8:00 AM: Executive Time at the White House. 🔸1:55 PM: Views a drag race and vehicle demonstration. 🔸2:10 PM: Takes part in a facility tour and gift ceremony. 🔸2:50 PM: Delivers public remarks. Media pool coverage is scheduled throughout the day, including White House and out-of-town events.",
-      "summary": "<p>TRUMP'S MONDAY SCHEDULE<br />\n<br />\n🔸8:00 AM: Executive Time at the White House.<br />\n<br />\n🔸1:55 PM: Views a drag race and vehicle demonstration.<br />\n<br />\n🔸2:10 PM: Takes part in a facility tour and gift ceremony.<br />\n<br />\n🔸2:50 PM: Delivers public remarks.<br />\n<br />\nMedia pool coverage is scheduled throughout the day, including White House and out-of-town events.</p>",
-      "link": "https://nitter.net/DeItaone/status/2081663247309000757#m",
-      "published": "2026-07-27T08:49:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "YIELDS, DOLLAR DROP AS TRUMP PAUSES IRAN STRIKES Global bond yields, the U.S. dollar, and oil prices fell after President Trump paused planned strikes on Iran, easing fears of a wider Middle East conflict. The 10-year U.S. Treasury yield dropped to 4.63%, while the U.S. Dollar Index (DXY) slipped 0.2%. Brent crude fell nearly 7% to around $90/barrel after briefly topping $100 last week. Markets see the pause as a potential opening for diplomacy, though analysts caution geopolitical risks remain elevated and the situation is still uncertain. The decline in oil and bond yields could ease inflation concerns ahead of this week's Federal Reserve and Bank of England policy meetings. Both central banks are widely expected to keep interest rates unchanged, although markets still assign some probability to a Fed rate hike.",
-      "summary": "<p>YIELDS, DOLLAR DROP AS TRUMP PAUSES IRAN STRIKES<br />\n<br />\nGlobal bond yields, the U.S. dollar, and oil prices fell after President Trump paused planned strikes on Iran, easing fears of a wider Middle East conflict.<br />\n<br />\nThe 10-year U.S. Treasury yield dropped to 4.63%, while the U.S. Dollar Index (DXY) slipped 0.2%. Brent crude fell nearly 7% to around $90/barrel after briefly toppi",
-      "link": "https://nitter.net/DeItaone/status/2081662411157754014#m",
-      "published": "2026-07-27T08:46:08+00:00",
-      "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Extended RBA pause may weigh on AUD – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad sees above-target Australian inflation keeping Reserve Bank of Australia (RBA) hike risks alive, with June and Q2 Consumer Price Index (CPI) expected to show firm trimmed mean readings.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-extended-rba-pause-may-weigh-on-aud-bbh-202607270837",
-      "published": "2026-07-27T08:37:52+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee gains vertically as oil prices sink",
-      "summary": "The Indian Rupee (INR) extends its recovery against the US Dollar (USD) at the start of the Federal Reserve’s (Fed) monetary policy week.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-recovers-further-as-us-iran-war-pause-hits-oil-prices-202607270552",
-      "published": "2026-07-27T05:52:07+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold extends range play below $4,100 as bulls keenly await Fed decision on Wednesday",
-      "summary": "Gold (XAU/USD) extends its consolidative price move through the first half of the European session on Monday and remains below the $4,100 mark as bulls seem hesitant ahead of the crucial FOMC meeting this week.",
-      "link": "https://www.fxstreet.com/news/gold-edges-higher-as-us-iran-diplomacy-and-weak-oil-weigh-on-usd-ahead-of-fomc-meeting-202607270517",
-      "published": "2026-07-27T05:17:04+00:00",
-      "score": 5
     },
     {
       "source": "r/Forex",
@@ -307,15 +379,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v79qks/xauusd_sell_setup/",
       "published": "2026-07-26T17:09:11+00:00",
       "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "IRAN TIES MILITARY PAUSE TO U.S. STRIKE SUSPENSION Iran will suspend its military operations as long as the United States maintains its pause in air strikes, a senior Iranian official told Reuters, following President Donald Trump’s decision to halt a two-week bombing campaign. After 13 consecutive nights of U.S. strikes, Washington has now gone two days without launching new attacks. Iran, which had responded to each wave of U.S. strikes by targeting neighbouring countries hosting American military bases, has also refrained from retaliatory operations during the same period. According to the Iranian official, Tehran’s position remains based on “attack for attack”: if U.S. military action resumes, Iran is prepared to launch a broad response. While Washington says the pause is intended to create space for diplomacy, Iranian officials remain deeply sceptical, describing the move as likely tactical rather than a genuine shift in U.S. policy. U.S. Ambassador to the United Nations Mike Waltz said Trump wants to give negotiations an opportunity, though no further details were provided. Meanwhile, reports from The New York Times, CNN and Axios suggest Trump halted planned strikes after advisers raised concerns over missile defence stockpiles and the risks of further escalation. The temporary lull comes as tensions remain high across the region, with the Houthis expanding attacks on Saudi oil infrastructure and energy markets continuing to react to uncertainty surrounding the conflict.",
-      "summary": "<p>IRAN TIES MILITARY PAUSE TO U.S. STRIKE SUSPENSION<br />\n<br />\nIran will suspend its military operations as long as the United States maintains its pause in air strikes, a senior Iranian official told Reuters, following President Donald Trump’s decision to halt a two-week bombing campaign.<br />\n<br />\nAfter 13 consecutive nights of U.S. strikes, Washington has now gone two days without launch",
-      "link": "https://nitter.net/DeItaone/status/2081393667613323739#m",
-      "published": "2026-07-26T14:58:15+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
