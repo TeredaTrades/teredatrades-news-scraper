@@ -1,12 +1,129 @@
 {
-  "updated_at": "2026-07-28T04:29:38.124754+00:00",
-  "count": 53,
+  "updated_at": "2026-07-28T07:19:34.017339+00:00",
+  "count": 67,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold weakens as geopolitics support USD ahead of FOMC meeting",
-      "summary": "Gold (XAU/USD) attracts some follow-through selling after the previous day's failure to find acceptance above $4,100, weakening below the $4,050 level during the Asian session on Tuesday.",
+      "title": "Gold: Supported by lower oil prices and yields – ING",
+      "summary": "ING’s Warren Patterson and Ewa Manthey report that Gold has moved higher on Monday as falling Oil prices ease inflation concerns and weigh on the US Dollar (USD) and Treasury yields.",
+      "link": "https://www.fxstreet.com/news/gold-supported-by-lower-oil-prices-and-yields-ing-202607280716",
+      "published": "2026-07-28T07:16:48+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah drops as Bank Indonesia shakeup",
+      "summary": "USD/IDR extends gains for the second successive day, trading around 18,130 during the early European hours on Tuesday. The currency pair appreciates as the Indonesian Rupiah (IDR) faces pressure following the surprise resignation of Bank Indonesia (BI) Governor Perry Warjiyo on Monday.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-drops-as-bank-indonesia-shakeup-202607280705",
+      "published": "2026-07-28T07:05:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Currency Strength Chart: Strongest: GBP, CAD, JPY, EUR, USD, CHF, NZD, AUD - Weakest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9696186/Currency-Strength-Chart-Strongest-GBP-CAD-JPY-EUR-USD-CHF-NZD-AUD---Weakest.aspx?xy=rss",
+      "published": "2026-07-28T07:03:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "GBP/USD Price Forecast: Trades vulnerably near 1.3300 ahead of Fed-BoE policy",
+      "summary": "The British Pound (GBP) trades with caution at around 1.3300 against the US Dollar (USD) during the European trading session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-trades-vulnerably-near-13300-ahead-of-fed-boe-policy-202607280659",
+      "published": "2026-07-28T06:59:26+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Brent: Price slide reflects de-escalation hopes – Commerzbank",
+      "summary": "Commerzbank strategist Charlie Lay, notes Brent Oil tumbled 8.7% to USD 88.36, reversing much of last week’s surge as US–Iran tensions eased and markets priced in de-escalation.",
+      "link": "https://www.fxstreet.com/news/brent-price-slide-reflects-de-escalation-hopes-commerzbank-202607280629",
+      "published": "2026-07-28T06:29:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro revisits monthly low against US Dollar in countdown to Fed’s policy",
+      "summary": "The Euro (EUR) falls to its monthly low at around 1.1362 against the US Dollar (USD) during the early European trading session on Tuesday. The major currency pair weakens as the US Dollar extends gains amid caution ahead of the Federal Reserve’s (Fed) monetary policy announcement on Wednesday.",
+      "link": "https://www.fxstreet.com/news/euro-revisits-monthly-low-against-us-dollar-in-countdown-to-feds-policy-202607280605",
+      "published": "2026-07-28T06:05:29+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee rallies futher as falling oil prices reduce foreign reserve concerns",
+      "summary": "The Indian Rupee (INR) extends its winning streak against the US Dollar (USD) for the third trading day on Tuesday. The USD/INR pair falls to near 95.65 as a further decline in oil prices has strengthened the Indian currency.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-further-as-oil-prices-extend-losses-202607280556",
+      "published": "2026-07-28T05:56:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Slides to 0.6970 after failing to clear 38.2% Fibo. hurdle",
+      "summary": "The AUD/USD pair attracts some follow-through selling following the previous day's failure to find acceptance above the 0.7000 psychological mark and weakens to the 0.6970 area during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-slides-to-06970-after-failing-to-clear-382-fibo-hurdle-202607280526",
+      "published": "2026-07-28T05:26:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoJ: Core CPI excluding special factors rises 2.7% in June after May increase of 2.7%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9696073/BoJ-Core-CPI-excluding-special-factors-rises-27-in-June-after-May-increase-of-27.aspx?xy=rss",
+      "published": "2026-07-28T05:01:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Taiwan detains Nvidia staff in China chip trafficking investigation",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9696071/Taiwan-detains-Nvidia-staff-in-China-chip-trafficking-investigation.aspx?xy=rss",
+      "published": "2026-07-28T04:54:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar struggles above mid-0.5700s as USD stays firm ahead of FOMC meeting",
+      "summary": "The NZD/USD pair turns lower for the second consecutive day following a modest Asian session uptick to the 0.5785 region on Tuesday.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-above-mid-05700s-as-usd-stays-firm-ahead-of-fomc-meeting-202607280445",
+      "published": "2026-07-28T04:45:22+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index remains subdued near 101.50 amid Fed policy uncertainty",
+      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is losing ground after three days of gains and trading around 101.50 during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-remains-subdued-near-10150-amid-fed-policy-uncertainty-202607280435",
+      "published": "2026-07-28T04:35:24+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "summary": "Gold prices fell in India on Tuesday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202607280435",
+      "published": "2026-07-28T04:35:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold retains intraday bearish bias near $4,050; eyes further losses ahead of FOMC meeting",
+      "summary": "Gold (XAU/USD) recovers slightly from the daily low, though it retains a negative bias near the $4,050 area heading into the European session on Tuesday. The US Dollar (USD) pauses near the monthly peak and offers some support to the bullion.",
       "link": "https://www.fxstreet.com/news/gold-weakens-as-geopolitics-support-usd-ahead-of-fomc-meeting-202607280419",
       "published": "2026-07-28T04:19:15+00:00",
       "score": 4
@@ -16,7 +133,7 @@
       "category": "news",
       "title": "FinancialJuice: Nvidia behind $50 billion lease on Texas data center using its chips: FT",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9696042/Nvidia-behind-50-billion-lease-on-Texas-data-center-using-its-chips-FT.aspx",
+      "link": "https://www.financialjuice.com/News/9696042/Nvidia-behind-50-billion-lease-on-Texas-data-center-using-its-chips-FT.aspx?xy=rss",
       "published": "2026-07-28T04:03:03+00:00",
       "score": 1
     },
@@ -43,7 +160,7 @@
       "category": "news",
       "title": "FinancialJuice: RBA Governor Bullock: board faces tough choices if inflation doesn’t ease",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9695988/RBA-Governor-Bullock-board-faces-tough-choices-if-inflation-doesnt-ease.aspx",
+      "link": "https://www.financialjuice.com/News/9695988/RBA-Governor-Bullock-board-faces-tough-choices-if-inflation-doesnt-ease.aspx?xy=rss",
       "published": "2026-07-28T03:42:23+00:00",
       "score": 1
     },
@@ -52,26 +169,8 @@
       "category": "news",
       "title": "FinancialJuice: China finance ministry offers 3-month bills at 1.0053% yield: traders",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9695985/China-finance-ministry-offers-3-month-bills-at-10053-yield-traders.aspx",
+      "link": "https://www.financialjuice.com/News/9695985/China-finance-ministry-offers-3-month-bills-at-10053-yield-traders.aspx?xy=rss",
       "published": "2026-07-28T03:38:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBA Governor Bullock: inflation is largely in line with expectations",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9695984/RBA-Governor-Bullock-inflation-is-largely-in-line-with-expectations.aspx",
-      "published": "2026-07-28T03:33:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Underlying inflation has progressed as anticipated, but remains too elevated",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9695958/Underlying-inflation-has-progressed-as-anticipated-but-remains-too-elevated.aspx",
-      "published": "2026-07-28T03:13:59+00:00",
       "score": 1
     },
     {
@@ -102,60 +201,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar struggles near two-week low vs USD amid bearish oil prices, ahead of FOMC",
-      "summary": "The USD/CAD pair enters a bullish consolidation phase near a two-week high, touched during the Asian session on Tuesday, and currently trades around 1.4120.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-near-two-week-low-vs-usd-amid-bearish-oil-prices-ahead-of-fomc-202607280224",
-      "published": "2026-07-28T02:24:46+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar gains ahead of RBA Governor Bullock’s speech",
-      "summary": "AUD/USD inches higher after recovering its daily losses, trading around 0.6990 during the Asian hours on Tuesday. Traders are keeping a close watch on scheduled remarks from Reserve Bank of Australia (RBA) Governor Michele Bullock later in the day.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gains-ahead-of-rba-governor-bullocks-speech-202607280212",
-      "published": "2026-07-28T02:12:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound softens as Fed rate uncertainty supports US Dollar",
-      "summary": "GBP/USD edges lower after opening at a bullish gap, remaining within positive territory and trading around 1.3290 during the Asian hours on Tuesday.",
-      "link": "https://www.fxstreet.com/news/british-pound-softens-as-fed-rate-uncertainty-supports-us-dollar-202607280138",
-      "published": "2026-07-28T01:38:11+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro hangs near monthly low, holds above 1.1350 as USD bulls pause ahead of FOMC meeting",
-      "summary": "The EUR/USD pair is seen consolidating near the monthly trough and trading just above mid-1.1300s during the Asian session on Tuesday. Traders seem hesitant and await the outcome of a two-day FOMC policy meeting before placing aggressive directional bets.",
-      "link": "https://www.fxstreet.com/news/euro-hangs-near-monthly-low-holds-above-11350-as-usd-bulls-pause-ahead-of-fomc-meeting-202607280118",
-      "published": "2026-07-28T01:18:14+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7928 vs. 6.7911 previous",
-      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7928 compared to the previous day's fix of 6.7911.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67928-vs-67911-previous-202607280115",
-      "published": "2026-07-28T01:15:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold declines despite easing concerns over inflation, interest rate hikes",
-      "summary": "Gold price (XAU/USD) loses ground after registering gains in the previous day, trading around $4,050 per troy ounce during the Asian hours on Tuesday.",
-      "link": "https://www.fxstreet.com/news/gold-declines-despite-easing-concerns-over-inflation-interest-rate-hikes-202607280112",
-      "published": "2026-07-28T01:12:49+00:00",
-      "score": 4
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: South Korea’s stock market falls nearly -8% as the global chip stock selloff accelerates.",
@@ -163,42 +208,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2081905425104908660#m",
       "published": "2026-07-28T00:51:47+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Tokyo can still afford to defend the Japanese Yen, just not for very long",
-      "summary": "The Japanese Yen trades a little firmer on Monday, with USD/JPY down 0.05% and sitting short of 164.00 after last week's high stalled a hundredth of a Yen beneath the figure.",
-      "link": "https://www.fxstreet.com/news/tokyo-can-still-afford-to-defend-the-japanese-yen-just-not-for-very-long-202607272314",
-      "published": "2026-07-27T23:14:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: MAS tightening underpins Singapore Dollar – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes that USD/SGD is consolidating around 1.2900 after pulling back from near 1.3000, as the Monetary Authority of Singapore (MAS) unexpectedly tightened policy for a second consecutive meeting.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-tightening-underpins-singapore-dollar-bbh-202607272243",
-      "published": "2026-07-27T22:43:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Trump urges Fed rate cuts as Gulf War ends, seen lowering prices",
-      "summary": "On Monday, late in the North American session, US President Donald Trump stated that there was a good inflation report recently, adding that costs were falling rapidly and that prices should drop significantly once the Gulf War ends.",
-      "link": "https://www.fxstreet.com/news/trump-urges-fed-rate-cuts-as-gulf-war-ends-seen-lowering-prices-202607272234",
-      "published": "2026-07-27T22:34:10+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US President Trump keeps Iran diplomacy alive after halting strikes",
-      "summary": "On Monday, US President Donald Trump grabbed the headlines as investors awaited monetary policy meetings by three of the eight major central banks, led by the Federal Reserve, the Bank of England, and the Bank of Japan.",
-      "link": "https://www.fxstreet.com/news/us-president-trump-keeps-iran-diplomacy-alive-after-halting-strikes-202607272211",
-      "published": "2026-07-27T22:11:38+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -210,12 +219,129 @@
       "score": 3
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: VERY FRIENDLY TALKS ONGOING",
+      "summary": "<p>TRUMP ON IRAN: VERY FRIENDLY TALKS ONGOING</p>",
+      "link": "https://nitter.net/DeItaone/status/2081825153068015996#m",
+      "published": "2026-07-27T19:32:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP: LET'S GET RID OF DAYLIGHT SAVINGS TIME",
+      "summary": "<p>*TRUMP: LET'S GET RID OF DAYLIGHT SAVINGS TIME</p>",
+      "link": "https://nitter.net/DeItaone/status/2081820054018990214#m",
+      "published": "2026-07-27T19:12:33+00:00",
+      "score": 1
+    },
+    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "your backtest has a dead month in it somewhere. if it doesnt, its too short",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>had an interesting one this year. my nq system went basically flat for over a month. signals firing, nothing sticking, chop everywhere. few years ago that wouldve sent me into full rebuild mode, changing params, doubting everything</p> <p>this time i just... checked the logs and left it alone. because the gold system on the same account carried that whole stretch.",
       "link": "https://www.reddit.com/r/Forex/comments/1v89zu0/your_backtest_has_a_dead_month_in_it_somewhere_if/",
       "published": "2026-07-27T19:09:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$NVDA - NVIDIA CREDIT RISK JUMPS The cost of insuring Nvidia's debt surged to a record after reports the company is discussing more than $750 billion in AI infrastructure financing tied to OpenAI. Investors are growing concerned about Nvidia's expanding financial commitments, with analysts warning complex financing structures could increase credit risks.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - NVIDIA CREDIT RISK JUMPS<br />\n<br />\nThe cost of insuring Nvidia's debt surged to a record after reports the company is discussing more than $750 billion in AI infrastructure financing tied to OpenAI.<br />\n<br />\nInvestors are growing concerned about Nvidia's expanding financial commitments, with analysts warning complex ",
+      "link": "https://nitter.net/DeItaone/status/2081814254542590388#m",
+      "published": "2026-07-27T18:49:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "JPMORGAN TURNS BULLISH ON STOCKS JPMorgan said its tactical positioning monitor is flashing a buy signal, pointing to further upside for the S&P 500. The bank expects lower bond yields, a weaker dollar, steady Fed policy, and strong earnings to support equities, while warning that semiconductor positioning and U.S.-Iran tensions remain key risks.",
+      "summary": "<p>JPMORGAN TURNS BULLISH ON STOCKS<br />\n<br />\nJPMorgan said its tactical positioning monitor is flashing a buy signal, pointing to further upside for the S&amp;P 500.<br />\n<br />\nThe bank expects lower bond yields, a weaker dollar, steady Fed policy, and strong earnings to support equities, while warning that semiconductor positioning and U.S.-Iran tensions remain key risks.</p>",
+      "link": "https://nitter.net/DeItaone/status/2081813769630421367#m",
+      "published": "2026-07-27T18:47:35+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BITCOIN ETF OUTFLOWS RETURN Bitcoin ETFs posted two straight days of net outflows, totaling more than $465 million, after briefly returning to inflows. Analysts said the reversal reflects cautious investor sentiment rather than heavy selling. Markets are now focused on this week's Federal Reserve meeting, with policymakers' guidance expected to shape the near-term outlook for cryptocurrencies.",
+      "summary": "<p>BITCOIN ETF OUTFLOWS RETURN<br />\n<br />\nBitcoin ETFs posted two straight days of net outflows, totaling more than $465 million, after briefly returning to inflows.<br />\n<br />\nAnalysts said the reversal reflects cautious investor sentiment rather than heavy selling. Markets are now focused on this week's Federal Reserve meeting, with policymakers' guidance expected to shape the near-term outl",
+      "link": "https://nitter.net/DeItaone/status/2081809990369554507#m",
+      "published": "2026-07-27T18:32:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRADERS DRIVE STRONG DEMAND IN FIRST WEEKEND OF CME GROUP'S 24/7 GOLD FUTURES",
+      "summary": "<p>TRADERS DRIVE STRONG DEMAND IN FIRST WEEKEND OF CME GROUP'S 24/7 GOLD FUTURES</p>",
+      "link": "https://nitter.net/DeItaone/status/2081808950039544276#m",
+      "published": "2026-07-27T18:28:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "MACQUARIE SEES CHINA TAPPING OIL STOCKPILES Macquarie said China's state-owned refiners could begin accessing commercial oil reserves from Q3 2026, supporting refining margins and benefiting Sinopec. The firm also expects China to expand its tanker fleet to strengthen energy security, which could cap VLCC freight rates over time while boosting demand for new tanker construction.",
+      "summary": "<p>MACQUARIE SEES CHINA TAPPING OIL STOCKPILES<br />\n<br />\nMacquarie said China's state-owned refiners could begin accessing commercial oil reserves from Q3 2026, supporting refining margins and benefiting Sinopec.<br />\n<br />\nThe firm also expects China to expand its tanker fleet to strengthen energy security, which could cap VLCC freight rates over time while boosting demand for new tanker con",
+      "link": "https://nitter.net/DeItaone/status/2081783040892620852#m",
+      "published": "2026-07-27T16:45:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "GOLDMAN WARNS MACRO RISKS RISING Goldman Sachs said rising oil volatility is shifting investor focus from company earnings to broader macro risks, including inflation and higher interest rates. The bank expects the Fed to hold rates this week but said markets are pricing a more hawkish outlook. Goldman also raised its U.S. and European default forecasts while remaining underweight credit.",
+      "summary": "<p>GOLDMAN WARNS MACRO RISKS RISING<br />\n<br />\nGoldman Sachs said rising oil volatility is shifting investor focus from company earnings to broader macro risks, including inflation and higher interest rates.<br />\n<br />\nThe bank expects the Fed to hold rates this week but said markets are pricing a more hawkish outlook. Goldman also raised its U.S. and European default forecasts while remaining",
+      "link": "https://nitter.net/DeItaone/status/2081782933099045309#m",
+      "published": "2026-07-27T16:45:03+00:00",
+      "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP PUSHES FOR LOWER FED RATES President Trump said the Federal Reserve should cut interest rates and argued the U.S. should have the world's lowest borrowing costs. He added that Fed board members are \"political\" and said Fed Governor Kevin Warsh would have to work with the board.",
+      "summary": "<p>TRUMP PUSHES FOR LOWER FED RATES<br />\n<br />\nPresident Trump said the Federal Reserve should cut interest rates and argued the U.S. should have the world's lowest borrowing costs.<br />\n<br />\nHe added that Fed board members are \"political\" and said Fed Governor Kevin Warsh would have to work with the board.</p>",
+      "link": "https://nitter.net/DeItaone/status/2081782495985418475#m",
+      "published": "2026-07-27T16:43:19+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON FED: WE SHOULD HAVE WORLD'S LOWEST INTEREST RATE",
+      "summary": "<p>TRUMP ON FED: WE SHOULD HAVE WORLD'S LOWEST INTEREST RATE</p>",
+      "link": "https://nitter.net/DeItaone/status/2081780560653955084#m",
+      "published": "2026-07-27T16:35:37+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: WILL ASK RUSSIA'S PUTIN ABOUT SATELLITE IMAGERY TO IRAN",
+      "summary": "<p>TRUMP: WILL ASK RUSSIA'S PUTIN ABOUT SATELLITE IMAGERY TO IRAN</p>",
+      "link": "https://nitter.net/DeItaone/status/2081779374865436711#m",
+      "published": "2026-07-27T16:30:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: Netanyahu and I have a little difference on Iran",
+      "summary": "<p>Trump: Netanyahu and I have a little difference on Iran</p>",
+      "link": "https://nitter.net/DeItaone/status/2081778983817887877#m",
+      "published": "2026-07-27T16:29:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: A lot of Patriot missiles are being built.",
+      "summary": "<p>Trump: A lot of Patriot missiles are being built.</p>",
+      "link": "https://nitter.net/DeItaone/status/2081778797666324676#m",
+      "published": "2026-07-27T16:28:37+00:00",
       "score": 1
     },
     {
