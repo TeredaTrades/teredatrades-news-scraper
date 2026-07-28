@@ -1,7 +1,214 @@
 {
-  "updated_at": "2026-07-28T12:14:42.143068+00:00",
-  "count": 55,
+  "updated_at": "2026-07-28T14:43:47.639588+00:00",
+  "count": 58,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: RBA keeps hike option alive – BNY",
+      "summary": "BNY’s Geoff Yu highlights that Reserve Bank of Australia (RBA) Governor Michele Bullock signaled a possible rate hike at the August 10–11 meeting, stressing inflation is still too high and productivity weak.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-keeps-hike-option-alive-bny-202607281439",
+      "published": "2026-07-28T14:39:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar benefits from softer US Dollar despite lower Oil prices",
+      "summary": "USD/CAD trades near 1.4105 on Tuesday at the time of writing, down 0.14% on the day, though the pair remains close to its recent highs as traders refrain from taking aggressive positions ahead of the Federal Reserve (Fed) monetary policy decision.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-benefits-from-softer-us-dollar-despite-lower-oil-prices-202607281430",
+      "published": "2026-07-28T14:30:36+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: Knife-edge policy risks surprise – ING",
+      "summary": "ING’s Padhraic Garvey expects the Federal Reserve (Fed) to leave rates unchanged at the upcoming Federal Open Market Committee (FOMC) meeting, with odds seen around 60:40 for no move.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-knife-edge-policy-risks-surprise-ing-202607281424",
+      "published": "2026-07-28T14:24:09+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro holds near recent lows as Fed interest rate decision looms",
+      "summary": "EUR/USD struggles for direction on Tuesday as traders avoid taking directional positions ahead of the Federal Reserve’s (Fed) interest-rate decision on Wednesday while closely monitoring US-Iran developments.",
+      "link": "https://www.fxstreet.com/news/euro-holds-near-recent-lows-against-us-dollar-as-fed-interest-rate-decision-looms-202607281415",
+      "published": "2026-07-28T14:15:16+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Pressured by softer ECB expectations – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight a softer Euro (EUR), with EUR/USD drifting toward the mid-1.13s and levels last seen in May 2025.",
+      "link": "https://www.fxstreet.com/news/euro-pressured-by-softer-ecb-expectations-scotiabank-202607281410",
+      "published": "2026-07-28T14:10:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US CB: Most consumers—61.3%, unchanged from June—still expected higher interest rates over the next 12 months",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9696794/US-CB-Most-consumers613-unchanged-from-Junestill-expected-higher-interest-rates-over-the-next-12-months.aspx?xy=rss",
+      "published": "2026-07-28T14:02:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US CB: Consumers' average and median 12-month inflation expectations were less elevated in July.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9696793/US-CB-Consumers-average-and-median-12-month-inflation-expectations-were-less-elevated-in-July.aspx?xy=rss",
+      "published": "2026-07-28T14:02:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Why hot Australian inflation could reignite the Reserve Bank of Australia hike debate",
+      "summary": "The Australian Dollar (AUD) is balancing stickier-than-expected domestic inflation against broader global market volatility.",
+      "link": "https://www.fxstreet.com/news/why-hot-australian-inflation-could-reignite-the-reserve-bank-of-australia-hike-debate-202607281401",
+      "published": "2026-07-28T14:01:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Richmond Fed Comp. Index Actual 5 (Forecast 6, Previous 4)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9696774/Richmond-Fed-Comp-Index-Actual-5-Forecast-6-Previous-4.aspx?xy=rss",
+      "published": "2026-07-28T14:00:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc: Weak performance tied to carry and Gold – TD Securities",
+      "summary": "TD Securities strategists argue that the Swiss Franc’s (CHF) underperformance since the February 2026 Iran shock reflects both low-yield carry dynamics and sensitivity to Gold prices.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weak-performance-tied-to-carry-and-gold-td-securities-202607281357",
+      "published": "2026-07-28T13:57:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump's meeting with Benjamin Netanyahu will be held away from the cameras - Israel's N12 News",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9696771/Trumps-meeting-with-Benjamin-Netanyahu-will-be-held-away-from-the-cameras---Israels-N12-News.aspx?xy=rss",
+      "published": "2026-07-28T13:53:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Apple surpasses $5 trln in market value for the first time. $AAPL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9696770/Apple-surpasses-5-trln-in-market-value-for-the-first-time-AAPL.aspx?xy=rss",
+      "published": "2026-07-28T13:51:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: NASDAQ 100 poised to enter correction with 10% drop from record",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9696740/NASDAQ-100-poised-to-enter-correction-with-10-drop-from-record.aspx?xy=rss",
+      "published": "2026-07-28T13:44:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "It’s official: Apple, $AAPL, is now the second company in history to surpass $5 trillion in market cap. This makes Apple the largest company in the world, now 6% larger than Nvidia. If you invested $10,000 in Apple in 2003, you would have $15.5 million today. Truly historic.",
+      "summary": "<p>It’s official:<br />\n<br />\nApple, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a>, is now the second company in history to surpass $5 trillion in market cap.<br />\n<br />\nThis makes Apple the largest company in the world, now 6% larger than Nvidia.<br />\n<br />\nIf you invested $10,000 in Apple in 2003, you would have $15.5 million today.<br />\n<br />\nTruly historic.</p>\n<i",
+      "link": "https://nitter.net/KobeissiLetter/status/2082099016163058153#m",
+      "published": "2026-07-28T13:41:03+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: +221 mln<br />Nasdaq 100: -113 mln<br />Dow 30: +18 mln<br />Mag 7: -99 mln",
+      "link": "https://www.financialjuice.com/News/9696725/MOO-Imbalance.aspx?xy=rss",
+      "published": "2026-07-28T13:30:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Limited upside for CAD against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note USD/CAD is trading near fair value around 1.4115, with the Canadian Dollar (CAD) constrained by wide short-term rate differentials versus the Dollar.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-limited-upside-for-cad-against-us-dollar-scotiabank-202607281323",
+      "published": "2026-07-28T13:23:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Trump downplays escalation risks while warning Iran against breaking agreements",
+      "summary": "In an interview with Fox News, US President Donald Trump said that Pickaxe Mountain, an Iranian underground nuclear site, is not a big problem, adding that the United States (US) is now in a very strong position with Iran.",
+      "link": "https://www.fxstreet.com/news/trump-downplays-escalation-risks-while-warning-iran-against-breaking-agreements-202607281303",
+      "published": "2026-07-28T13:03:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Moonshot seeks Nvidia Blackwell chips for KIMI4 - The Information. $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9696695/Moonshot-seeks-Nvidia-Blackwell-chips-for-KIMI4---The-Information-NVDA.aspx?xy=rss",
+      "published": "2026-07-28T13:02:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Moonshot looks for additional Nvidia chips for next model - The Information. $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9696694/Moonshot-looks-for-additional-Nvidia-chips-for-next-model---The-Information-NVDA.aspx?xy=rss",
+      "published": "2026-07-28T13:02:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Apple plans launch smart home gadgets with Siri artificial intelligence $AAPL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9696692/Apple-plans-launch-smart-home-gadgets-with-Siri-artificial-intelligence-AAPL.aspx?xy=rss",
+      "published": "2026-07-28T13:02:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: Scenarios into FOMC – DBS",
+      "summary": "DBS Group Research economist Eugene Leow notes that investors remain cautious on upcoming FOMC decisions, with markets pricing a 34% chance of a July hike and nearly full odds for September.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-scenarios-into-fomc-dbs-202607281245",
+      "published": "2026-07-28T12:45:47+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar struggles as firm US Dollar keeps NZD/USD pinned",
+      "summary": "NZD/USD trades around 0.5770 on Tuesday at the time of writing, slightly lower on the day. The New Zealand Dollar (NZD) remains pressured by the firm US Dollar (USD), which continues to benefit from safe-haven demand amid persistent geopolitical tensions.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-as-firm-us-dollar-keeps-nzd-usd-pinned-202607281236",
+      "published": "2026-07-28T12:36:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US ADP Employment Change 4-week average drops to 15K",
+      "summary": "Private-sector hiring in the US has further cooled in mid-July. According to the NER Pulse, the weekly companion to the ADP National Employment Report, companies added an average of 15K jobs per week in the four weeks ending July 11.",
+      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-drops-to-15k-202607281221",
+      "published": "2026-07-28T12:21:57+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -14,146 +221,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound drops against US Dollar, Fed-BoE policy in focus",
-      "summary": "The British Pound (GBP) extends its decline against the US Dollar (USD) to near 1.3277 during the European trading session on Tuesday, the lowest level seen in over three weeks.",
-      "link": "https://www.fxstreet.com/news/british-pound-drops-against-us-dollar-fed-boe-policy-in-focus-202607281137",
-      "published": "2026-07-28T11:37:29+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Inflation risks keep hike debate alive – TD Securities",
-      "summary": "TD Securities strategists expect the Reserve Bank of Australia’s (RBA) preferred core Consumer Price Index (CPI) to rise 0.9% q/q in Q2, matching consensus and up from 0.8% in Q1. This would lift annual core inflation to 3.7%, just below the RBA’s 3.8% projection.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-inflation-risks-keep-hike-debate-alive-td-securities-202607281127",
-      "published": "2026-07-28T11:27:50+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Under pressure with YTD lows at 1.1324 coming closer",
-      "summary": "The Euro (EUR) is failing to draw any significant support from the truce in the Middle East and the lower Oil prices and keeps heading south against the US Dollar (USD) on Tuesday. EUR/USD bears are testing fresh one-month lows below 1.1360, drawing near the year-to-date low of 1.1324.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-under-pressure-with-ytd-lows-at-11324-coming-closer-202607281121",
-      "published": "2026-07-28T11:21:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "$4,000: Gold’s key support faces a crucial Fed test",
-      "summary": "Gold (XAU/USD) trades on the back foot on Tuesday, pressured by a firmer US Dollar (USD), even as Oil prices extend their pullback on hopes of an end to the US-Iran war.",
+      "summary": "Gold (XAU/USD) trades on the back foot on Tuesday, pressured by a firmer US Dollar (USD), even as Oil prices extend their pullback on hopes of an end to the US-Iran war. At the time of writing, XAU/USD trades around $4,034, down 1.0% on the day, after failing to sustain gains above $4,100 on Monday.",
       "link": "https://www.fxstreet.com/news/4-000-golds-key-support-faces-a-crucial-fed-test-202607281114",
       "published": "2026-07-28T11:14:24+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "CEE FX: Normalising rates leave room for gains – ING",
-      "summary": "ING’s Frantisek Taborsky notes Central and Eastern European (CEE) rate curves have repriced sharply, with more tightening now expected in Czech Republic and Poland and further easing in Hungary.",
-      "link": "https://www.fxstreet.com/news/cee-fx-normalising-rates-leave-room-for-gains-ing-202607281109",
-      "published": "2026-07-28T11:09:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar underperforms after RBA Bullock’s remarks on economy",
-      "summary": "The Australian Dollar (AUD) is down against its major currency peers, trading 0.35% lower at around 0.6965 against the US Dollar (USD) during the European trading session on Tuesday.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-underperforms-after-rba-bullocks-remarks-on-economy-202607281054",
-      "published": "2026-07-28T10:54:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen stays range-bound as Fed, BoJ seen on hold but hawkish",
-      "summary": "USD/JPY trades around 163.90 on Tuesday at the time of writing, up 0.11% on the day, as investors remain cautious ahead of the Federal Reserve’s (Fed) monetary policy decision on Wednesday and the Bank of Japan’s (BoJ) policy announcement on Friday.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-stays-range-bound-as-fed-boj-seen-on-hold-but-hawkish-202607281053",
-      "published": "2026-07-28T10:53:21+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: GS US Economics Analyst - FJElite",
-      "summary": "<div>The inflation data have improved but the geopolitical news has worsened in recent weeks. We expect the -2bp core CPI print for June to translate to 18bp on core PCE and mark the start of a softer trend. We also expect the BEA’s recently announced methodological changes designed in part to fix the mismeasurement of AI effects to shave 0.2pp off of year-over-year inflation. But the re-escalatio",
-      "link": "https://www.financialjuice.com/News/9696390/GS-US-Economics-Analyst---FJElite.aspx",
-      "published": "2026-07-28T10:10:56+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: $UPS United Parcel Service Q2 Earnings",
-      "summary": "<ul><li>Adj. EPS $1.76, est. $1.67</li><li>Rev. $22.8B, est. $21.84B</li><li>Capex about $3.0B, est. $3B</li><li>Sees FY rev. about $91.2B, saw about $89.7B, est. $90.39B</li><li>Successfully completed Amazon glide down</li></ul>",
-      "link": "https://www.financialjuice.com/News/9696389/UPS-United-Parcel-Service-Q2-Earnings.aspx",
-      "published": "2026-07-28T10:02:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah: Leadership change at BI sustains rupiah pressure – Commerzbank",
-      "summary": "Commerzbank’s Moses Lim argues that Bank Indonesia Governor Perry Warjiyo’s surprise resignation, following earlier high-profile departures, heightens concerns over policy continuity and institutional credibility as the Indonesian Rupiah (IDR) trades near historic lows versus the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-leadership-change-at-bi-sustains-rupiah-pressure-commerzbank-202607280955",
-      "published": "2026-07-28T09:55:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Meta announces new strategic venture with BlackRock $META $BLK",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9696345/Meta-announces-new-strategic-venture-with-BlackRock-META-BLK.aspx",
-      "published": "2026-07-28T09:33:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) fell on Tuesday, according to FXStreet data. Silver trades at $57.53 per troy ounce, down 1.49% from the $58.40 it cost on Monday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607280930",
-      "published": "2026-07-28T09:30:36+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Fed hike odds and asymmetric risks – DBS",
-      "summary": "DBS Group Research’s Philip Wee notes that the Dollar is trading on diverging themes versus Developed Market and Asia-ex Japan currencies, with Fed expectations central. Futures are pricing a 38% chance of a surprise rate hike at Fed Chairman Kevin Warsh’s second FOMC meeting.",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-hike-odds-and-asymmetric-risks-dbs-202607280930",
-      "published": "2026-07-28T09:30:31+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver weakens as easing geopolitical tensions weigh on safe-haven demand",
-      "summary": "Silver (XAG/USD) trades around $57.55 on Tuesday at the time of writing, down 1.45% on the day, as investors remain cautious ahead of the Federal Reserve's (Fed) monetary policy decision.",
-      "link": "https://www.fxstreet.com/news/silver-weakens-as-easing-geopolitical-tensions-weigh-on-safe-haven-demand-202607280928",
-      "published": "2026-07-28T09:28:29+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Westpac Morning Report - FJElite",
-      "summary": "<div>Markets settled on Friday as investors responded to reports that Pakistan and Iran were exploring options to enter new peace talks with the US. alongside reports that oil was still able to flow out of the Middle East. Brent crude prices retreated from US$100 a barrel, falling 4%. its biggest one- day drop since late June.</div><div><br /></div><div>Over the weekend, reports suggested the US p",
-      "link": "https://www.financialjuice.com/News/9696474/Westpac-Morning-Report---FJElite.aspx",
-      "published": "2026-07-28T09:15:57+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CAD Price Forecast: Lower oil prices ensure further weakness for Canadian Dollar",
-      "summary": "The USD/CAD pair trades marginally lower to near 1.4113 during the European trading session on Tuesday. The Loonie pair edges down as the Canadian Dollar (CAD) outperforms its major currency peers.",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-lower-oil-prices-ensure-further-weakness-for-canadian-dollar-202607280902",
-      "published": "2026-07-28T09:02:54+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -165,15 +237,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: Close July call keeps Dollar traders data-focused – BNY",
-      "summary": "BNY strategists John Velis and David Tam expect the Federal Reserve (Fed) to keep the federal funds rate unchanged at the upcoming July Federal Open Market Committee (FOMC) meeting, while stressing it is a close call.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-close-july-call-keeps-dollar-traders-data-focused-bny-202607280815",
-      "published": "2026-07-28T08:15:27+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "What does your trading workflow look like outside of TradingView?",
@@ -181,24 +244,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v8qb1i/what_does_your_trading_workflow_look_like_outside/",
       "published": "2026-07-28T06:44:15+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee reflects strength amid lower oil prices, Fed policy eyed",
-      "summary": "The Indian Rupee (INR) extends its winning streak against the US Dollar (USD) for the third trading day on Tuesday. The USD/INR pair falls to near 95.65 as a further decline in oil prices has strengthened the Indian currency.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-further-as-oil-prices-extend-losses-202607280556",
-      "published": "2026-07-28T05:56:03+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold languishes below $4,050; eyes further losses as focus remains on FOMC decision",
-      "summary": "Gold (XAU/USD) maintains its offered tone through the first half of the European session on Tuesday and currently trades just below $4,050, down nearly 0.80% for the day.",
-      "link": "https://www.fxstreet.com/news/gold-weakens-as-geopolitics-support-usd-ahead-of-fomc-meeting-202607280419",
-      "published": "2026-07-28T04:19:15+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
@@ -320,29 +365,11 @@
     {
       "source": "r/Forex",
       "category": "reddit",
-      "title": "USDJPY — clean rejection call at 162.70, book excerpt below",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v7bqib/usdjpy_clean_rejection_call_at_16270_book_excerpt/\"> <img alt=\"USDJPY — clean rejection call at 162.70, book excerpt below\" src=\"https://preview.redd.it/agy7c5uj9mfh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb9e72d4b352ea30a4f3e2fec739f8fb806c3170\" title=\"USDJPY — clean rejection call at 162.70, book excerpt below\"",
-      "link": "https://www.reddit.com/r/Forex/comments/1v7bqib/usdjpy_clean_rejection_call_at_16270_book_excerpt/",
-      "published": "2026-07-26T18:22:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
       "title": "XAUUSD Sell Setup",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v79qks/xauusd_sell_setup/\"> <img alt=\"XAUUSD Sell Setup\" src=\"https://preview.redd.it/kxds59ueulfh1.jpg?width=140&amp;height=75&amp;auto=webp&amp;s=e552f26095e0c38eeb166e7b71de7c32757dcf7d\" title=\"XAUUSD Sell Setup\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Price is currently sitting in the middle of the range (4052). Do ",
       "link": "https://www.reddit.com/r/Forex/comments/1v79qks/xauusd_sell_setup/",
       "published": "2026-07-26T17:09:11+00:00",
       "score": 3
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Key Events This Week: 1. Markets React to US/Iran Pausing Strikes - Today, 6 PM ET 2. July Consumer Confidence data - Tuesday 3. July Fed Interest Rate Decision - Wednesday 4. Microsoft, $MSFT, Meta, $META, Report Earnings - Wednesday 5. July PCE Inflation data - Thursday 6. Apple, $AAPL, Amazon, $AMZN, Report Earnings - Thursday 7. July MI Consumer Sentiment data - Friday 8. July MI Inflation Expectations data - Friday We have a huge week ahead.",
-      "summary": "<p>Key Events This Week:<br />\n<br />\n1. Markets React to US/Iran Pausing Strikes - Today, 6 PM ET<br />\n<br />\n2. July Consumer Confidence data - Tuesday<br />\n<br />\n3. July Fed Interest Rate Decision - Wednesday<br />\n<br />\n4. Microsoft, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>, Meta, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23META\">$META</a>, Report Earni",
-      "link": "https://nitter.net/KobeissiLetter/status/2081376483705069752#m",
-      "published": "2026-07-26T13:49:58+00:00",
-      "score": 6
     },
     {
       "source": "Federal Reserve",
