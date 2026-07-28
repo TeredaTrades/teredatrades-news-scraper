@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-07-28T22:05:57.398424+00:00",
-  "count": 47,
+  "updated_at": "2026-07-28T23:16:16.194482+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: U.S. Senate Approves Trump Pick Jay Clayton as Director of National Intelligence by 51-47",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9697420/US-Senate-Approves-Trump-Pick-Jay-Clayton-as-Director-of-National-Intelligence-by-51-47.aspx?xy=rss",
+      "published": "2026-07-28T23:14:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Majority of U.S. Senate backs Trump nominee Jay Clayton for director of national intelligence, voting ongoing",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9697419/Majority-of-US-Senate-backs-Trump-nominee-Jay-Clayton-for-director-of-national-intelligence-voting-ongoing.aspx?xy=rss",
+      "published": "2026-07-28T23:12:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "My discipline was so bad I built an EA to roast me and turn off my lights whenever I trade out of strategy.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v9dwtj/my_discipline_was_so_bad_i_built_an_ea_to_roast/\"> <img alt=\"My discipline was so bad I built an EA to roast me and turn off my lights whenever I trade out of strategy.\" src=\"https://preview.redd.it/u22q61lgu1gh1.png?width=140&amp;height=126&amp;auto=webp&amp;s=a0ae6cd00c541981feff14c62de405676ff4d205\" title=\"My discipline w",
+      "link": "https://www.reddit.com/r/Forex/comments/1v9dwtj/my_discipline_was_so_bad_i_built_an_ea_to_roast/",
+      "published": "2026-07-28T22:49:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australia CPI could boost Aussie if inflation arrives above 4%",
+      "summary": "The Australian Bureau of Statistics (ABS) will publish the June Consumer Price Index (CPI)  on Wednesday at 01:30 GMT. The report is expected to show that inflation rose 4% from a year earlier, matching the May reading. The monthly CPI is foreseen at 0.2% following the -0.7% print from May.",
+      "link": "https://www.fxstreet.com/news/australia-cpi-could-boost-aussie-if-inflation-arrives-above-4-202607282230",
+      "published": "2026-07-28T22:30:00+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -57,15 +93,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: -364 mln<br />Nasdaq 100: +285 mln<br />Dow 30: +326 mln<br />Mag 7: -11 mln",
-      "link": "https://www.financialjuice.com/News/9697211/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-07-28T19:50:31+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Silver: Forecast cut but deficit supports upside – Commerzbank",
@@ -82,6 +109,33 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-holds-as-markets-await-tokyo-inflation-data-202607281901",
       "published": "2026-07-28T19:01:52+00:00",
       "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "NETANYAHU: TRUMP MEETING WAS 'ONE OF THE BEST' Netanyahu said his meeting with Trump was \"excellent\" and \"one of the best conversations\" they've had, citing full partnership on preventing Iran from obtaining nuclear weapons. The talks also covered expanding the Abraham Accords, while Iran's Pickaxe Mountain nuclear site was not discussed, according to Israeli officials.",
+      "summary": "<p>NETANYAHU: TRUMP MEETING WAS 'ONE OF THE BEST'<br />\n<br />\nNetanyahu said his meeting with Trump was \"excellent\" and \"one of the best conversations\" they've had, citing full partnership on preventing Iran from obtaining nuclear weapons.<br />\n<br />\nThe talks also covered expanding the Abraham Accords, while Iran's Pickaxe Mountain nuclear site was not discussed, according to Israeli officials",
+      "link": "https://nitter.net/DeItaone/status/2082179693315281127#m",
+      "published": "2026-07-28T19:01:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP TO BAN CHINESE ROBOTS, POWER INVERTERS The Trump administration is set to ban imports of new Chinese humanoid robots, quadruped robots, and connected power inverters. The move aims to protect the U.S. AI supply chain from cybersecurity and national security risks while encouraging manufacturers to shift production to the U.S. amid growing demand for AI infrastructure.",
+      "summary": "<p>TRUMP TO BAN CHINESE ROBOTS, POWER INVERTERS<br />\n<br />\nThe Trump administration is set to ban imports of new Chinese humanoid robots, quadruped robots, and connected power inverters.<br />\n<br />\nThe move aims to protect the U.S. AI supply chain from cybersecurity and national security risks while encouraging manufacturers to shift production to the U.S. amid growing demand for AI infrastruc",
+      "link": "https://nitter.net/DeItaone/status/2082179190107869552#m",
+      "published": "2026-07-28T18:59:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ADMINISTRATION PLANS ON TUESDAY TO ROLL OUT BANS ON FOREIGN IMPORTS OF NEW MODELS OF ROBOTS AND INVERTERS, TARGETING CHINA — U.S. OFFICIALS",
+      "summary": "<p>TRUMP ADMINISTRATION PLANS ON TUESDAY TO ROLL OUT BANS ON FOREIGN IMPORTS OF NEW MODELS OF ROBOTS AND INVERTERS, TARGETING CHINA — U.S. OFFICIALS</p>",
+      "link": "https://nitter.net/DeItaone/status/2082172119744409788#m",
+      "published": "2026-07-28T18:31:32+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
@@ -129,48 +183,66 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro skyrockets amid softer US confidence",
-      "summary": "EUR/USD trades higher near the 1.1400 area on Tuesday, gaining around 0.3% as the US Dollar (USD) weakens following softer United States (US) consumer-confidence data. The US Dollar Index falls toward 101.30, helping the Euro extend its recovery.",
-      "link": "https://www.fxstreet.com/news/euro-skyrockets-amid-softer-us-confidence-202607281544",
-      "published": "2026-07-28T15:44:03+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "NETANYAHU ARRIVES AT WHITE HOUSE FOR MEETING WITH TRUMP",
+      "summary": "<p>NETANYAHU ARRIVES AT WHITE HOUSE FOR MEETING WITH TRUMP</p>",
+      "link": "https://nitter.net/DeItaone/status/2082119290547806574#m",
+      "published": "2026-07-28T15:01:37+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Hawkish Fed delays Gold recovery path – Commerzbank",
-      "summary": "Commerzbank’s Carsten Fritsch and Thu Lan Nguyen note that the Gold price has dropped nearly 30% from its January record as higher real yields and hawkish Federal Reserve expectations weigh on the metal.",
-      "link": "https://www.fxstreet.com/news/gold-hawkish-fed-delays-gold-recovery-path-commerzbank-202607281516",
-      "published": "2026-07-28T15:16:16+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "MUSK'S FORTUNE PLUNGES, STILL TOPS $700B Elon Musk has lost roughly $650 billion in wealth since SpaceX's June peak as Tesla and SpaceX shares continue to slide. Despite the sharp decline, Musk remains worth more than $700 billion—around 45 times the fortune of China's CXMT billionaire Zhu Yiming. Investors remain focused on whether AI-driven growth can justify lofty valuations.",
+      "summary": "<p>MUSK'S FORTUNE PLUNGES, STILL TOPS $700B<br />\n<br />\nElon Musk has lost roughly $650 billion in wealth since SpaceX's June peak as Tesla and SpaceX shares continue to slide.<br />\n<br />\nDespite the sharp decline, Musk remains worth more than $700 billion—around 45 times the fortune of China's CXMT billionaire Zhu Yiming.<br />\n<br />\nInvestors remain focused on whether AI-driven growth can ju",
+      "link": "https://nitter.net/DeItaone/status/2082115298543751412#m",
+      "published": "2026-07-28T14:45:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AAPL - APPLE TOPS $5 TRILLION VALUATION Apple briefly reached a $5 trillion market capitalization in Tuesday trading, becoming only the second company after Nvidia to hit the milestone. The move reflects shifting investor confidence as Wall Street reassesses the AI race. Nvidia, which previously peaked near $5.7 trillion, has pulled back amid concerns over slowing AI spending.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a>  - APPLE TOPS $5 TRILLION VALUATION<br />\n<br />\nApple briefly reached a $5 trillion market capitalization in Tuesday trading, becoming only the second company after Nvidia to hit the milestone.<br />\n<br />\nThe move reflects shifting investor confidence as Wall Street reassesses the AI race.<br />\n<br />\nNvidia, which previou",
+      "link": "https://nitter.net/DeItaone/status/2082109928869695492#m",
+      "published": "2026-07-28T14:24:25+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "SPOT SILVER FALLS NEARLY 3% TO $56.73/OZ",
+      "summary": "<p>SPOT SILVER  FALLS NEARLY 3% TO $56.73/OZ</p>",
+      "link": "https://nitter.net/DeItaone/status/2082109774527611027#m",
+      "published": "2026-07-28T14:23:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "NASDAQ NEARS CORRECTION AS AI FEARS GROW The Nasdaq 100 fell 1.6% Tuesday, putting the index on the verge of a market correction after a 10% drop from its June peak. Investors are increasingly worried that massive AI spending by Big Tech may not deliver strong returns. Focus now shifts to earnings from Microsoft, Meta and Amazon, which could determine whether the tech selloff deepens or stabilizes.",
+      "summary": "<p>NASDAQ NEARS CORRECTION AS AI FEARS GROW<br />\n<br />\nThe Nasdaq 100 fell 1.6% Tuesday, putting the index on the verge of a market correction after a 10% drop from its June peak.<br />\n<br />\nInvestors are increasingly worried that massive AI spending by Big Tech may not deliver strong returns.<br />\n<br />\nFocus now shifts to earnings from Microsoft, Meta and Amazon, which could determine whet",
+      "link": "https://nitter.net/DeItaone/status/2082109589600739723#m",
+      "published": "2026-07-28T14:23:04+00:00",
       "score": 4
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Oil: Weakens on deal hopes and fragile flows – ING",
-      "summary": "ING’s Warren Patterson and Ewa Manthey note that Brent has sold off sharply as US–Iran strikes pause and President Trump signals a “good chance” of a deal. They stress that flows through the Strait of Hormuz and Bab el-Mandeb, as well as Black Sea exports, remain critical.",
-      "link": "https://www.fxstreet.com/news/oil-weakens-on-deal-hopes-and-fragile-flows-ing-202607281508",
-      "published": "2026-07-28T15:08:09+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP, ZELENSKY MEET AT WHITE HOUSE President Donald Trump and Ukrainian President Volodymyr Zelensky reportedly met at the White House on Tuesday. The meeting had not been officially confirmed, but a White House source told reporter Emily Goodin the talks began at 9:47 a.m. ET. The leaders are expected to discuss diplomatic efforts to end the war in Ukraine.",
+      "summary": "<p>TRUMP, ZELENSKY MEET AT WHITE HOUSE<br />\n<br />\nPresident Donald Trump and Ukrainian President Volodymyr Zelensky reportedly met at the White House on Tuesday.<br />\n<br />\nThe meeting had not been officially confirmed, but a White House source told reporter Emily Goodin the talks began at 9:47 a.m. ET.<br />\n<br />\nThe leaders are expected to discuss diplomatic efforts to end the war in Ukrai",
+      "link": "https://nitter.net/DeItaone/status/2082109220292329720#m",
+      "published": "2026-07-28T14:21:36+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar holds onto losses after Bullock keeps further rate hikes on the table",
-      "summary": "AUD/USD trades lower near the 0.6970 area on Tuesday, falling around 0.3% as the Australian Dollar (AUD) comes under pressure despite hawkish remarks from Reserve Bank of Australia (RBA) Governor Michele Bullock.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-onto-losses-after-bullock-keeps-further-rate-hikes-on-the-table-202607281455",
-      "published": "2026-07-28T14:55:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Bearish reversal extends before BoE – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report GBP/USD is extending its bearish reversal toward early-July levels as markets scale back Bank of England (BoE) tightening expectations. September pricing has been cut and cumulative hikes by December reduced.",
-      "link": "https://www.fxstreet.com/news/british-pound-bearish-reversal-extends-before-boe-scotiabank-202607281452",
-      "published": "2026-07-28T14:52:24+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S., IRAN REMAIN FAR APART DESPITE CEASEFIRE The U.S. and Iran continue to send conflicting signals despite the ceasefire. Trump said Iran requested talks, but Tehran denied seeking negotiations and said no U.S. talks are underway. Iran is instead holding discussions with Oman on the Strait of Hormuz, though officials say the talks are unrelated to the U.S. and remain focused on Iran's security and sovereignty.",
+      "summary": "<p>U.S., IRAN REMAIN FAR APART DESPITE CEASEFIRE<br />\n<br />\nThe U.S. and Iran continue to send conflicting signals despite the ceasefire.<br />\n<br />\nTrump said Iran requested talks, but Tehran denied seeking negotiations and said no U.S. talks are underway.<br />\n<br />\nIran is instead holding discussions with Oman on the Strait of Hormuz, though officials say the talks are unrelated to the U.",
+      "link": "https://nitter.net/DeItaone/status/2082108824232874067#m",
+      "published": "2026-07-28T14:20:02+00:00",
       "score": 1
     },
     {
