@@ -1,13 +1,94 @@
 {
-  "updated_at": "2026-07-28T10:08:26.092697+00:00",
-  "count": 59,
+  "updated_at": "2026-07-28T12:14:42.143068+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc: Tariffs and steady SNB stance pressure currency – Commerzbank",
+      "summary": "Commerzbank’s Michael Pfister notes that reports of the Swiss National Bank (SNB) planning to keep rates unchanged until early 2028, if accurate, clash with still-ambitious market expectations for hikes by 2027.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-tariffs-and-steady-snb-stance-pressure-currency-commerzbank-202607281200",
+      "published": "2026-07-28T12:00:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound drops against US Dollar, Fed-BoE policy in focus",
+      "summary": "The British Pound (GBP) extends its decline against the US Dollar (USD) to near 1.3277 during the European trading session on Tuesday, the lowest level seen in over three weeks.",
+      "link": "https://www.fxstreet.com/news/british-pound-drops-against-us-dollar-fed-boe-policy-in-focus-202607281137",
+      "published": "2026-07-28T11:37:29+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: Inflation risks keep hike debate alive – TD Securities",
+      "summary": "TD Securities strategists expect the Reserve Bank of Australia’s (RBA) preferred core Consumer Price Index (CPI) to rise 0.9% q/q in Q2, matching consensus and up from 0.8% in Q1. This would lift annual core inflation to 3.7%, just below the RBA’s 3.8% projection.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-inflation-risks-keep-hike-debate-alive-td-securities-202607281127",
+      "published": "2026-07-28T11:27:50+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Under pressure with YTD lows at 1.1324 coming closer",
+      "summary": "The Euro (EUR) is failing to draw any significant support from the truce in the Middle East and the lower Oil prices and keeps heading south against the US Dollar (USD) on Tuesday. EUR/USD bears are testing fresh one-month lows below 1.1360, drawing near the year-to-date low of 1.1324.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-under-pressure-with-ytd-lows-at-11324-coming-closer-202607281121",
+      "published": "2026-07-28T11:21:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "$4,000: Gold’s key support faces a crucial Fed test",
+      "summary": "Gold (XAU/USD) trades on the back foot on Tuesday, pressured by a firmer US Dollar (USD), even as Oil prices extend their pullback on hopes of an end to the US-Iran war.",
+      "link": "https://www.fxstreet.com/news/4-000-golds-key-support-faces-a-crucial-fed-test-202607281114",
+      "published": "2026-07-28T11:14:24+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "CEE FX: Normalising rates leave room for gains – ING",
+      "summary": "ING’s Frantisek Taborsky notes Central and Eastern European (CEE) rate curves have repriced sharply, with more tightening now expected in Czech Republic and Poland and further easing in Hungary.",
+      "link": "https://www.fxstreet.com/news/cee-fx-normalising-rates-leave-room-for-gains-ing-202607281109",
+      "published": "2026-07-28T11:09:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar underperforms after RBA Bullock’s remarks on economy",
+      "summary": "The Australian Dollar (AUD) is down against its major currency peers, trading 0.35% lower at around 0.6965 against the US Dollar (USD) during the European trading session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-underperforms-after-rba-bullocks-remarks-on-economy-202607281054",
+      "published": "2026-07-28T10:54:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen stays range-bound as Fed, BoJ seen on hold but hawkish",
+      "summary": "USD/JPY trades around 163.90 on Tuesday at the time of writing, up 0.11% on the day, as investors remain cautious ahead of the Federal Reserve’s (Fed) monetary policy decision on Wednesday and the Bank of Japan’s (BoJ) policy announcement on Friday.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-stays-range-bound-as-fed-boj-seen-on-hold-but-hawkish-202607281053",
+      "published": "2026-07-28T10:53:21+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: GS US Economics Analyst - FJElite",
+      "summary": "<div>The inflation data have improved but the geopolitical news has worsened in recent weeks. We expect the -2bp core CPI print for June to translate to 18bp on core PCE and mark the start of a softer trend. We also expect the BEA’s recently announced methodological changes designed in part to fix the mismeasurement of AI effects to shave 0.2pp off of year-over-year inflation. But the re-escalatio",
+      "link": "https://www.financialjuice.com/News/9696390/GS-US-Economics-Analyst---FJElite.aspx",
+      "published": "2026-07-28T10:10:56+00:00",
+      "score": 4
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: $UPS United Parcel Service Q2 Earnings",
       "summary": "<ul><li>Adj. EPS $1.76, est. $1.67</li><li>Rev. $22.8B, est. $21.84B</li><li>Capex about $3.0B, est. $3B</li><li>Sees FY rev. about $91.2B, saw about $89.7B, est. $90.39B</li><li>Successfully completed Amazon glide down</li></ul>",
-      "link": "https://www.financialjuice.com/News/9696389/UPS-United-Parcel-Service-Q2-Earnings.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9696389/UPS-United-Parcel-Service-Q2-Earnings.aspx",
       "published": "2026-07-28T10:02:16+00:00",
       "score": 1
     },
@@ -21,38 +102,11 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "GLOBAL CHIP SELLOFF DEEPENS Chip stocks extended losses across Asia after a sharp U.S. selloff, fueled by concerns over AI spending and China's technological progress. South Korea's Kospi plunged 10%, triggering two trading halts, while Japan's Nikkei fell 4%. U.S. chip stocks remained under pressure premarket, with Micron, Super Micro, Intel and Nvidia all trading lower.",
-      "summary": "<p>GLOBAL CHIP SELLOFF DEEPENS<br />\n<br />\nChip stocks extended losses across Asia after a sharp U.S. selloff, fueled by concerns over AI spending and China's technological progress. South Korea's Kospi plunged 10%, triggering two trading halts, while Japan's Nikkei fell 4%. U.S. chip stocks remained under pressure premarket, with Micron, Super Micro, Intel and Nvidia all trading lower.</p>",
-      "link": "https://nitter.net/DeItaone/status/2082040065946185926#m",
-      "published": "2026-07-28T09:46:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "AI CUTS THOUSANDS OF CUSTOMER SERVICE JOBS AI is rapidly replacing customer service workers as companies including Commonwealth Bank, Microsoft, Uber and Hyatt automate chat and call centers. Bloomberg reports thousands of jobs have already been eliminated, with Microsoft alone cutting its support workforce from 50,000 to 40,000. Analysts expect AI to impact nearly half of customer service roles by 2030, with outsourced markets facing the biggest losses.",
-      "summary": "<p>AI CUTS THOUSANDS OF CUSTOMER SERVICE JOBS<br />\n<br />\nAI is rapidly replacing customer service workers as companies including Commonwealth Bank, Microsoft, Uber and Hyatt automate chat and call centers. Bloomberg reports thousands of jobs have already been eliminated, with Microsoft alone cutting its support workforce from 50,000 to 40,000. Analysts expect AI to impact nearly half of customer",
-      "link": "https://nitter.net/DeItaone/status/2082038786972946918#m",
-      "published": "2026-07-28T09:41:43+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$META - *META, BLACKROCK TO DEVELOP DATA CENTER CAMPUS IN EL PASO, TEXAS",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23META\">$META</a>  - *META, BLACKROCK TO DEVELOP DATA CENTER CAMPUS IN EL PASO, TEXAS</p>",
-      "link": "https://nitter.net/DeItaone/status/2082036780035969401#m",
-      "published": "2026-07-28T09:33:45+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Meta announces new strategic venture with BlackRock $META $BLK",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9696345/Meta-announces-new-strategic-venture-with-BlackRock-META-BLK.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9696345/Meta-announces-new-strategic-venture-with-BlackRock-META-BLK.aspx",
       "published": "2026-07-28T09:33:10+00:00",
       "score": 1
     },
@@ -84,30 +138,21 @@
       "score": 4
     },
     {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Westpac Morning Report - FJElite",
+      "summary": "<div>Markets settled on Friday as investors responded to reports that Pakistan and Iran were exploring options to enter new peace talks with the US. alongside reports that oil was still able to flow out of the Middle East. Brent crude prices retreated from US$100 a barrel, falling 4%. its biggest one- day drop since late June.</div><div><br /></div><div>Over the weekend, reports suggested the US p",
+      "link": "https://www.financialjuice.com/News/9696474/Westpac-Morning-Report---FJElite.aspx",
+      "published": "2026-07-28T09:15:57+00:00",
+      "score": 3
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "USD/CAD Price Forecast: Lower oil prices ensure further weakness for Canadian Dollar",
       "summary": "The USD/CAD pair trades marginally lower to near 1.4113 during the European trading session on Tuesday. The Loonie pair edges down as the Canadian Dollar (CAD) outperforms its major currency peers.",
       "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-lower-oil-prices-ensure-further-weakness-for-canadian-dollar-202607280902",
       "published": "2026-07-28T09:02:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: \t\nFed Interest Rate Probabilities",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9696291/%09Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-07-28T08:49:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: \t\nTop S&P 500 Stock Names Implied Volatility",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9696287/%09Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-07-28T08:47:23+00:00",
       "score": 1
     },
     {
@@ -129,78 +174,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. S&P 500 E-MINI FUTURES DOWN 0.25%, NASDAQ 100 FUTURES DOWN 1%, DOW FUTURES UP 0.1%",
-      "summary": "<p>U.S. S&amp;P 500 E-MINI FUTURES DOWN 0.25%, NASDAQ 100 FUTURES DOWN 1%, DOW FUTURES UP 0.1%</p>",
-      "link": "https://nitter.net/DeItaone/status/2082013461706338470#m",
-      "published": "2026-07-28T08:01:05+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar shows resilience ahead of Fed meeting",
-      "summary": "Here is what you need to know on Tuesday, July 28:",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-shows-resilience-ahead-of-fed-meeting-202607280736",
-      "published": "2026-07-28T07:36:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FED DISSENTS COULD SIGNAL SEPTEMBER HIKE Investors are watching this week's Fed vote for clues on interest rates. A 10-2 split is expected, with two officials backing a 25bp rate hike. If more than three members dissent, it could signal growing support for a September hike. Still, T. Rowe Price expects the Fed to keep rates unchanged over the next 12 months.",
-      "summary": "<p>FED DISSENTS COULD SIGNAL SEPTEMBER HIKE<br />\n<br />\nInvestors are watching this week's Fed vote for clues on interest rates.<br />\n<br />\nA 10-2 split is expected, with two officials backing a 25bp rate hike.<br />\n<br />\nIf more than three members dissent, it could signal growing support for a September hike. Still, T. Rowe Price expects the Fed to keep rates unchanged over the next 12 month",
-      "link": "https://nitter.net/DeItaone/status/2082006960711651578#m",
-      "published": "2026-07-28T07:35:15+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Stronger into FOMC on hawkish expectations – MUFG",
-      "summary": "MUFG’s Lee Hardman notes the US Dollar (USD) has reversed early-week losses and is trading near year-to-date highs ahead of tomorrow’s Federal Open Market Committee (FOMC) meeting.",
-      "link": "https://www.fxstreet.com/news/us-dollar-stronger-into-fomc-on-hawkish-expectations-mufg-202607280725",
-      "published": "2026-07-28T07:25:57+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc weakens on easing safe-haven demand, US tariffs",
-      "summary": "USD/CHF continues its winning streak for the seventh successive day, trading around 0.8190 during the European hours on Tuesday.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-on-easing-safe-haven-demand-us-tariffs-202607280721",
-      "published": "2026-07-28T07:21:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Supported by lower oil prices and yields – ING",
-      "summary": "ING’s Warren Patterson and Ewa Manthey report that Gold has moved higher on Monday as falling Oil prices ease inflation concerns and weigh on the US Dollar (USD) and Treasury yields.",
-      "link": "https://www.fxstreet.com/news/gold-supported-by-lower-oil-prices-and-yields-ing-202607280716",
-      "published": "2026-07-28T07:16:48+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah drops as Bank Indonesia shakeup",
-      "summary": "USD/IDR extends gains for the second successive day, trading around 18,130 during the early European hours on Tuesday. The currency pair appreciates as the Indonesian Rupiah (IDR) faces pressure following the surprise resignation of Bank Indonesia (BI) Governor Perry Warjiyo on Monday.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-drops-as-bank-indonesia-shakeup-202607280705",
-      "published": "2026-07-28T07:05:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/USD Price Forecast: Trades vulnerably near 1.3300 ahead of Fed-BoE policy",
-      "summary": "The British Pound (GBP) trades with caution at around 1.3300 against the US Dollar (USD) during the European trading session on Tuesday.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-trades-vulnerably-near-13300-ahead-of-fed-boe-policy-202607280659",
-      "published": "2026-07-28T06:59:26+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "What does your trading workflow look like outside of TradingView?",
@@ -212,11 +185,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee gains firmly as lower oil prices ease foreign reserve concerns",
+      "title": "Indian Rupee reflects strength amid lower oil prices, Fed policy eyed",
       "summary": "The Indian Rupee (INR) extends its winning streak against the US Dollar (USD) for the third trading day on Tuesday. The USD/INR pair falls to near 95.65 as a further decline in oil prices has strengthened the Indian currency.",
       "link": "https://www.fxstreet.com/news/indian-rupee-gains-further-as-oil-prices-extend-losses-202607280556",
       "published": "2026-07-28T05:56:03+00:00",
-      "score": 1
+      "score": 2
     },
     {
       "source": "FXStreet",
@@ -370,15 +343,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2081376483705069752#m",
       "published": "2026-07-26T13:49:58+00:00",
       "score": 6
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "How much does spread really cost you? Convert it to R and most retail systems are already dead",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Why the same strategy is profitable with a 50 pip stop and dead with a 5 pip stop</h1> <p><strong>TLDR:</strong> Costs are not a rounding error, they're a fixed tax on every trade, and the tax gets bigger the tighter your stop. Convert spread and commission into R and it becomes visible. The same 55% win rate system nets +0.1R with a 50 pip stop and loses money w",
-      "link": "https://www.reddit.com/r/Forex/comments/1v5me24/how_much_does_spread_really_cost_you_convert_it/",
-      "published": "2026-07-24T20:05:07+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
