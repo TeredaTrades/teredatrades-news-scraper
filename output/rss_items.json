@@ -1,7 +1,160 @@
 {
-  "updated_at": "2026-07-29T04:19:27.947105+00:00",
-  "count": 59,
+  "updated_at": "2026-07-29T07:20:24.434321+00:00",
+  "count": 61,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Hawkish Fed hold may support USD – MUFG",
+      "summary": "MUFG’s Lloyd Chan expects the Federal Open Market Committee (FOMC) to deliver a hawkish hold, with the Federal Reserve (Fed) keeping rates unchanged while stressing elevated inflation risks. He notes softer recent US data but highlights that markets still price some probability of a July hike.",
+      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-hold-may-support-usd-mufg-202607290718",
+      "published": "2026-07-29T07:18:52+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Equities: Record highs with tech under pressure – Deutsche Bank",
+      "summary": "Deutsche Bank analysts note that lower oil prices and bond yields supported US equities, helping the equal-weighted S&amp;P 500 reach a record high as investors rotated into defensive and non-tech sectors.",
+      "link": "https://www.fxstreet.com/news/equities-record-highs-with-tech-under-pressure-deutsche-bank-202607290710",
+      "published": "2026-07-29T07:10:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen recovery halts below 163.30 US Dollar with Fed’s decision on tap",
+      "summary": "The Japanese Yen (JPY) has trimmed some losses against the US Dollar (USD) on Wednesday, but USD/JPY dips have been capped above previous highs, in the 163.30 area so far.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-recovery-halts-below-16330-us-dollar-with-feds-decision-on-tap-202607290709",
+      "published": "2026-07-29T07:09:52+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Currency Strength Chart: Strongest: JPY, CHF, GBP, CAD, EUR, NZD, USD, AUD - Weakest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9697942/Currency-Strength-Chart-Strongest-JPY-CHF-GBP-CAD-EUR-NZD-USD-AUD---Weakest.aspx?xy=rss",
+      "published": "2026-07-29T07:02:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED IN FOCUS The Fed is widely expected to keep rates unchanged, but Chairman Kevin Warsh has made this meeting unusually unpredictable. The key isn't just the decision — it's the message. If rates stay on hold, markets will look for clues on September. If the Fed surprises with a hike, investors will want to know whether it's the start of a tougher inflation fight or a one-off move.",
+      "summary": "<p>FED IN FOCUS<br />\n<br />\nThe Fed is widely expected to keep rates unchanged, but Chairman Kevin Warsh has made this meeting unusually unpredictable.<br />\n<br />\nThe key isn't just the decision — it's the message.<br />\n<br />\nIf rates stay on hold, markets will look for clues on September.<br />\n<br />\nIf the Fed surprises with a hike, investors will want to know whether it's the start of a t",
+      "link": "https://nitter.net/DeItaone/status/2082360770537365552#m",
+      "published": "2026-07-29T07:01:10+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Oil: Volatile on Iran conflict swings – UOB",
+      "summary": "UOB strategists report that Oil prices initially fell sharply as the United States (US) military campaign against Iran remained paused, with WTI dropping to USD 79.26 and Brent to USD 84.10.",
+      "link": "https://www.fxstreet.com/news/oil-volatile-on-iran-conflict-swings-uob-202607290658",
+      "published": "2026-07-29T06:58:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro edges higher against US Dollar, focus is on Fed’s policy",
+      "summary": "The Euro (EUR) ticks higher against the US Dollar (USD) at around 1.1393 during the European trading session on Wednesday. The major currency pair edges up as the US Dollar is slightly down ahead of the Federal Reserve’s (Fed) monetary policy announcement at 18:00 GMT.",
+      "link": "https://www.fxstreet.com/news/euro-edges-higher-against-us-dollar-focus-is-on-feds-policy-202607290641",
+      "published": "2026-07-29T06:41:43+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Fed and energy drivers outweigh BoJ – ING",
+      "summary": "ING’s Chris Turner and Padhraic Garvey expect the Bank of Japan to keep its policy rate at 1.00% on 31 July, with any modestly hawkish shift seen as unlikely to materially boost the Yen or change the USD/JPY trajectory.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-fed-and-energy-drivers-outweigh-boj-ing-202607290630",
+      "published": "2026-07-29T06:30:22+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won nears four-month highs despite the KOSPI index selloff",
+      "summary": "The South Korean Won (KRW) extends gains for the second consecutive day against the US Dollar (USD), and is set for a 6.5% monthly rally. Strong South Korean macroeconomic data and market expectations of monetary tightening by the Bank of Korea have offset the KOSPI Index’s sell-off.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-nears-four-month-highs-despite-the-kospi-index-selloff-202607290630",
+      "published": "2026-07-29T06:30:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Softer Fed signals may lift EUR against US Dollar - Commerzbank",
+      "summary": "Commerzbank’s Antje Praefcke argues that the FOMC under Chair Kevin Warsh is likely to deliver a \"hawkish hold\", with markets already pricing at least one Fed rate hike by year-end.",
+      "link": "https://www.fxstreet.com/news/euro-softer-fed-signals-may-lift-eur-against-us-dollar-commerzbank-202607290621",
+      "published": "2026-07-29T06:21:16+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Seems vulnerable near 0.6950 after soft CPI-driven breakdown",
+      "summary": "The AUD/USD pair attracts sellers for the third straight day on Wednesday and dives to an over two-week trough following the release of softer Australian consumer inflation figures.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-seems-vulnerable-near-06950-after-soft-cpi-driven-breakdown-202607290551",
+      "published": "2026-07-29T05:51:23+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah gains as Fed uncertainty weighs on US Dollar",
+      "summary": "USD/IDR depreciates after two days of gains, trading around 18,120 during the Asian hours on Wednesday. However, the pair has lost ground as the US Dollar (USD) struggles ahead of the Federal Reserve’s (Fed) upcoming policy decision.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-as-fed-uncertainty-weighs-on-us-dollar-202607290548",
+      "published": "2026-07-29T05:48:23+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee corrects after three-day advance as oil price rebounds",
+      "summary": "The Indian Rupee (INR) trades marginally lower against the US Dollar (USD) on Wednesday after a three-day winning streak. The USD/INR pair rebounds to near 95.85, the intraday high, as oil prices have rebounded strongly due to revived geopolitical risks.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-fails-to-extend-winning-streak-as-oil-prices-bounce-back-202607290528",
+      "published": "2026-07-29T05:28:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar holds steady below 0.5900 vs USD as traders seem hesitant ahead of FOMC",
+      "summary": "The NZD/USD pair struggles to build on the overnight bounce from the 0.5860 horizontal support and seesaws between tepid gains/minor losses during the Asian session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-below-05900-vs-usd-as-traders-seem-hesitant-ahead-of-fomc-202607290502",
+      "published": "2026-07-29T05:02:46+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold bounces off one-week low as USD bulls turn cautious ahead of FOMC decision",
+      "summary": "Gold (XAU/USD) recovers slightly from the vicinity of the $4,000 psychological mark, or an over one-week low touched during the Asian session on Wednesday, amid a modest US Dollar (USD) downtick.",
+      "link": "https://www.fxstreet.com/news/gold-consolidates-near-two-week-low-holds-above-4-000-as-traders-await-fomc-decision-202607290437",
+      "published": "2026-07-29T04:37:22+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "summary": "Gold prices fell in India on Wednesday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202607290436",
+      "published": "2026-07-29T04:36:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound gains ground as US Dollar struggles ahead of Fed decision",
+      "summary": "GBP/USD edges higher after remaining flat in the previous day, trading around 1.3300 during the Asian hours on Wednesday. The currency pair gains ground as the US Dollar (USD) struggles ahead of the Federal Reserve’s (Fed) upcoming policy decision.",
+      "link": "https://www.fxstreet.com/news/british-pound-gains-ground-as-us-dollar-struggles-ahead-of-fed-decision-202607290431",
+      "published": "2026-07-29T04:31:00+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -10,24 +163,6 @@
       "link": "https://www.financialjuice.com/News/9697753/Bank-of-Korea-Governor-Shin-maintaining-tightening-stance-most-rational-to-curb-core-inflation.aspx?xy=rss",
       "published": "2026-07-29T03:35:55+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD gains even as oil prices rebound, Fed policy awaited",
-      "summary": "Silver price (XAG/USD) trades 1.14% higher to near $57.80 during the Asian trading session on Wednesday. The white metal gains even as oil prices rebound strongly due to renewed conflicts between the United States (US) and Iran.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-gains-even-as-oil-prices-rebound-fed-policy-awaited-202607290312",
-      "published": "2026-07-29T03:12:09+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro advances as US Dollar declines ahead of Fed policy decision",
-      "summary": "EUR/USD holds ground for the second successive day, trading around 1.1390 during the Asian hours on Wednesday.",
-      "link": "https://www.fxstreet.com/news/euro-advances-as-us-dollar-declines-ahead-of-fed-policy-decision-202607290300",
-      "published": "2026-07-29T03:00:55+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -39,105 +174,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar remains on the front foot as USD bulls turn cautious ahead of Fed decision",
-      "summary": "The USD/CAD pair is seen consolidating around the 1.4100 mark during the Asian session as traders keenly await the outcome of a two-day FOMC policy meeting, due later this Wednesday.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-on-the-front-foot-as-usd-bulls-turn-cautious-ahead-of-fed-decision-202607290242",
-      "published": "2026-07-29T02:42:23+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index (DXY) flat below 101.50 as bulls await FOMC amid Iran risks",
-      "summary": "The United States Dollar Index (DXY), which tracks the Greenback against a basket of currencies, is seen consolidating below the 101.50 level during the Asian session as traders await the outcome of a two-day FOMC meeting, due later this Wednesday.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-flat-below-10150-as-bulls-await-fomc-amid-iran-risks-202607290200",
-      "published": "2026-07-29T02:00:48+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar falls to one-week low vs Yen as soft CPI triggers heavy selling",
-      "summary": "The AUD/JPY cross extends this week's retracement slide from the 114.65 zone, or its highest level since June 3, and attracts some follow-through selling for the second straight day.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-falls-to-one-week-low-vs-yen-as-soft-cpi-triggers-heavy-selling-202607290151",
-      "published": "2026-07-29T01:51:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar slips as softer inflation cools domestic rate expectations",
-      "summary": "AUD/USD depreciates for the second successive day, trading around 0.6970 during the Asian hours on Wednesday. The pair falls as the Australian Dollar (AUD) continues to struggle following the release of domestic Consumer Price Index (CPI) data.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-softer-inflation-cools-domestic-rate-expectations-202607290143",
-      "published": "2026-07-29T01:43:54+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Australian CPI YoY Actual 4.0% (Forecast -, Previous 4.1%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9697564/Australian-CPI-YoY-Actual-40-Forecast---Previous-41.aspx?xy=rss",
-      "published": "2026-07-29T01:33:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Australia Q2 CPI (all groups) rises 4.0% yr/yr, slightly below poll of 4.1%",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9697565/Australia-Q2-CPI-all-groups-rises-40-yryr-slightly-below-poll-of-41.aspx?xy=rss",
-      "published": "2026-07-29T01:32:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBA Weighted Mean CPI YoY Actual 3.6% (Forecast -, Previous 3.5%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9697552/RBA-Weighted-Mean-CPI-YoY-Actual-36-Forecast---Previous-35.aspx?xy=rss",
-      "published": "2026-07-29T01:32:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBA Weighted Median CPI QoQ Actual 0.7% (Forecast -, Previous 0.8%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9697548/RBA-Weighted-Median-CPI-QoQ-Actual-07-Forecast---Previous-08.aspx?xy=rss",
-      "published": "2026-07-29T01:31:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen holds ground despite rising oil prices",
-      "summary": "USD/JPY loses ground after registering minor gains in the previous day, trading around 163.70 during the Asian hours on Wednesday. The pair may regain ground as the Japanese Yen could come under pressure from rebounding oil prices.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-holds-ground-despite-rising-oil-prices-202607290122",
-      "published": "2026-07-29T01:22:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7899 vs. 6.7928 previous",
-      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7899 compared to the previous day's fix of 6.7928.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67899-vs-67928-previous-202607290115",
-      "published": "2026-07-29T01:15:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold holds losses near $4,000 due to Middle East tensions, Fed rate uncertainty",
-      "summary": "Gold price (XAU/USD) remains subdued for the second successive day, trading around $4,020 per troy ounce during the Asian hours on Wednesday.",
-      "link": "https://www.fxstreet.com/news/gold-holds-losses-near-4-000-due-to-middle-east-tensions-fed-rate-uncertainty-202607290056",
-      "published": "2026-07-29T00:56:18+00:00",
-      "score": 4
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "The market is experiencing historically high volatility: The performance gap between the S&P 500’s best- and worst-performing sectors has exceeded 10% in 8 weeks so far in 2026, the highest count since the 2020 pandemic. Half of these 8 episodes have occurred since late-May, even as the index itself has remained relatively unchanged. The only 3 other times that this has happened at this point in the year: 2000, 2001, and 2009, all periods of severe market stress. The full-year record was set in 2000 at 21 weeks, followed by the 2008 Financial Crisis with 15 weeks. The market is showing severe volatility beneath the surface.",
@@ -145,24 +181,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2082256872602546679#m",
       "published": "2026-07-29T00:08:19+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australia’s CPI inflation cools to 3.8% YoY in June vs. 4% forecast",
-      "summary": "Australia’s Consumer Price Index (CPI) increased by 3.8% year-over-year (YoY) in June, compared to a 4% growth reported in May, the latest data published by the Australian Bureau of Statistics (ABS) showed on Wednesday.",
-      "link": "https://www.fxstreet.com/news/australia-cpi-could-boost-aussie-if-inflation-arrives-above-4-202607282230",
-      "published": "2026-07-28T22:30:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "NZD/USD holds ahead of the Fed's decision",
-      "summary": "NZD/USD trades nearly unchanged around the 0.5785 area on Tuesday, struggling to extend its earlier recovery despite a modest decline in the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/nzd-usd-holds-ahead-of-the-feds-decision-202607282137",
-      "published": "2026-07-28T21:37:15+00:00",
-      "score": 2
     },
     {
       "source": "Kobeissi Letter",
