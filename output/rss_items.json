@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-07-29T22:15:36.799545+00:00",
-  "count": 72,
+  "updated_at": "2026-07-29T23:31:08.309366+00:00",
+  "count": 69,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold rebounds to near $4,100 as Fed leaves interest rates unchanged",
+      "summary": "Gold price (XAU/USD) rebounds to around $4,095 during the early Asian session on Thursday.",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-to-near-4-100-as-fed-leaves-interest-rates-unchanged-202607292320",
+      "published": "2026-07-29T23:20:15+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "GBP/JPY Price Forecast: Bulls reclaim 218.00 as RSI improves",
+      "summary": "The GBP/JPY advances by over 0.30%, rising above 218.00, as risk appetite improves amid overall US Dollar weakness following the Federal Reserve's monetary policy decision. The pair trades near 218.50 after hitting a low of the day (LOD) of 217.16.",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-reclaim-21800-as-rsi-improves-202607292312",
+      "published": "2026-07-29T23:12:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Microsoft stock, $MSFT, surges over +8% after reporting stronger than expected earnings.",
+      "summary": "<p>BREAKING: Microsoft stock, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>, surges over +8% after reporting stronger than expected earnings.</p>\n<img src=\"https://nitter.net/pic/media%2FHObdSoZXsAAX6jj.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2082601814982283600#m",
+      "published": "2026-07-29T22:59:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "A Fed hold, a Warsh non-answer, and one day of cover for the Japanese Yen",
+      "summary": "The Federal Reserve (Fed) held its target range at 3.50% to 3.75% for a fifth consecutive meeting at 18:00 GMT, and the pair did what a market short the Yen against a 1.00% policy rate does when a hike it partly paid for fails to arrive.",
+      "link": "https://www.fxstreet.com/news/a-fed-hold-a-warsh-non-answer-and-one-day-of-cover-for-the-japanese-yen-202607292247",
+      "published": "2026-07-29T22:47:52+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -93,15 +129,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: FOMC Rate Decision Market Reactions & Deviations - FJElite",
-      "summary": "Fed Rate Statement: Fed vote in favor of policy was 9-3, with Fed's Hammack, Kashkari and Logan dissenting in favor of a 25 BPS increase. Inflation remains elevated relative to the 2% goal, in part reflecting supply shocks in certain sectors, including energy. <br /><br /><strong>Sentiment</strong><br />Fed swaps no longer fully price in a September rate hike <br /><br /><strong>Warsh Press Confer",
-      "link": "https://www.financialjuice.com/News/9699121/FOMC-Rate-Decision-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
-      "published": "2026-07-29T19:53:32+00:00",
-      "score": 3
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "Fed days have become a complete free-for-all. The S&P 500 has now seen THREE swings totaling ~$2.9 TRILLION in market cap during today's session. Between 9:30 AM ET and 12:15 PM ET, the S&P 500 fell -85 points, losing -$770 billion. Between 12:15 PM ET and 2:55 PM ET, the S&P 500 rallied +110 points, adding +$1 trillion. Between 2:55 PM ET and 3:45 PM ET, the S&P 500 fell 120 points, losing -$1.1 trillion. The era of Fed guidance is over and the market is not liking it.",
@@ -111,15 +138,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: -850 mln<br />Nasdaq 100: -1388 mln<br />Dow 30: -191 mln<br />Mag 7: -233 mln",
-      "link": "https://www.financialjuice.com/News/9699120/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-07-29T19:50:30+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "WTI remains muted after Fed hold",
@@ -127,24 +145,6 @@
       "link": "https://www.fxstreet.com/news/wti-remains-muted-after-fed-hold-202607291945",
       "published": "2026-07-29T19:45:46+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump ends his remarks to reporters in the Oval Office.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9699099/Trump-ends-his-remarks-to-reporters-in-the-Oval-Office.aspx?xy=rss",
-      "published": "2026-07-29T19:42:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on China: I'd be disappointed if weapons were given to Iran.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9699097/Trump-on-China-Id-be-disappointed-if-weapons-were-given-to-Iran.aspx?xy=rss",
-      "published": "2026-07-29T19:40:53+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -354,39 +354,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc falls against US Dollar for eighth straight day as Fed decision looms",
-      "summary": "USD/CHF edges higher on Wednesday, hovering near its highest level in more than a year as hawkish Federal Reserve (Fed) expectations contrast with a steady Swiss National Bank (SNB) outlook, weighing on the Swiss Franc (CHF).",
-      "link": "https://www.fxstreet.com/news/swiss-franc-falls-against-us-dollar-for-eighth-straight-day-as-fed-decision-looms-202607291659",
-      "published": "2026-07-29T16:59:03+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Planing to fullport in FOMC, need advice",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>lol, here we go again. I have 50$ extra cash that i dont care even if it losses. Just before 1 min of news i will buy in one account and sell in other account, Best case is one will win and other will loss and worst case is a doji forms and both account get loss that is ended up in -50$. </p> <p>What is your opinion, its just for fun and maybe my 50$ might convert",
       "link": "https://www.reddit.com/r/Forex/comments/1va1nca/planing_to_fullport_in_fomc_need_advice/",
       "published": "2026-07-29T16:43:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: FOMC risk guides downside scope – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the US Dollar (USD) is narrowly mixed to softer ahead of the Federal Open Market Committee (FOMC), with swaps pricing a modest chance of a hike but the bank seeing that risk as much lower.",
-      "link": "https://www.fxstreet.com/news/us-dollar-fomc-risk-guides-downside-scope-scotiabank-202607291637",
-      "published": "2026-07-29T16:37:00+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones Industrial Average pulls back hours before the Fed's answer",
-      "summary": "The Dow Jones Industrial Average trades just above 51,800 on Wednesday afternoon, down roughly 900 points and 1.7% from Tuesday's close.",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-pulls-back-hours-before-the-feds-answer-202607291633",
-      "published": "2026-07-29T16:33:33+00:00",
       "score": 1
     },
     {
