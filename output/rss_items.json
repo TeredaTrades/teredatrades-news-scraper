@@ -1,12 +1,75 @@
 {
-  "updated_at": "2026-07-29T20:03:09.546572+00:00",
-  "count": 78,
+  "updated_at": "2026-07-29T21:12:58.498311+00:00",
+  "count": 73,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
+      "title": "FinancialJuice: Meta CEO Zuckerberg: We plan to monetize AI products as a business-in-a-box service, with a mix of subscriptions and volume-based pricing. $META",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9699189/Meta-CEO-Zuckerberg-We-plan-to-monetize-AI-products-as-a-business-in-a-box-service-with-a-mix-of-subscriptions-and-volume-based-pricing-META.aspx?xy=rss",
+      "published": "2026-07-29T20:53:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar tumbles after divided Fed hold, Oil surges on Middle East escalation",
+      "summary": "The US Dollar (USD) falls sharply during the American session on Wednesday after the Federal Reserve (Fed) left interest rates unchanged. The Federal Open Market Committee (FOMC) maintained the federal funds target range at 3.50%–3.75% in a divided 9–3 vote.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-tumbles-after-divided-fed-hold-oil-surges-on-middle-east-escalation-202607292050",
+      "published": "2026-07-29T20:50:01+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft's future leases at $329 billion, up from $197 billion. $MSFT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9699151/Microsofts-future-leases-at-329-billion-up-from-197-billion-MSFT.aspx?xy=rss",
+      "published": "2026-07-29T20:28:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver holds firm as Dollar slides after split Fed decision",
+      "summary": "Silver price clings to gains on Wednesday late in the North American session, as the Federal Reserve held rates unchanged, which, instead of strengthening the Dollar, weakened it, while US Treasury yields spiked. The XAG/USD trades at $57.17, barely unchanged.",
+      "link": "https://www.fxstreet.com/news/silver-holds-firm-as-dollar-slides-after-split-fed-decision-202607292024",
+      "published": "2026-07-29T20:24:50+00:00",
+      "score": 6
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft: Leases that hadn't commenced $329.18 as of June 30th. $MSFT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9699139/Microsoft-Leases-that-hadnt-commenced-32918-as-of-June-30th-MSFT.aspx?xy=rss",
+      "published": "2026-07-29T20:13:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "No soft target: Warsh vows to return inflation to 2%",
+      "summary": "The Fed left interest rates unchanged at 3.50%-3.75%, but the decision carried a distinctly hawkish edge as three officials voted for an immediate 25-basis-point increase.",
+      "link": "https://www.fxstreet.com/news/no-soft-target-warsh-vows-to-return-inflation-to-2-202607292011",
+      "published": "2026-07-29T20:11:49+00:00",
+      "score": 3
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Meta stock, $META, crashes over -9% after reporting weaker than expected earnings.",
+      "summary": "<p>BREAKING: Meta stock, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23META\">$META</a>, crashes over -9% after reporting weaker than expected earnings.</p>\n<img src=\"https://nitter.net/pic/media%2FHOa7ZsjXwAAoz_M.png\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2082557946672644580#m",
+      "published": "2026-07-29T20:04:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
       "title": "FinancialJuice: $MSFT Microsoft Q4 Earnings",
-      "summary": "<div><ul><li>EPS $4.81</li><li>Adjusted EPS $4.74, est. $4.25</li><li>Revenue $90.01B, est. $87.72B</li><li>Operating income $40.60B, est. $39.02B</li><li>Cloud revenue $59.3B, est. $58.71B</li><li>Intelligent Cloud revenue $39.31B, est. $38.17B</li><li>Azure &amp; other cloud revenue ex-FX +43%, est. +39.6%</li></ul></div>",
+      "summary": "<ul><li>EPS $4.81</li><li>Adjusted EPS $4.74, est. $4.25</li><li><div>CAPEX including leases $41b, est. $42.05b</div></li><li><div>CAPEX $35.80B, est. $35.22B</div></li><li>Revenue $90.01B, est. $87.72B</li><li>Operating income $40.60B, est. $39.02B</li><li>Cloud revenue $59.3B, est. $58.71B</li><li>Intelligent Cloud revenue $39.31B, est. $38.17B</li><li>Azure &amp; other cloud revenue ex-FX +43%,",
       "link": "https://www.financialjuice.com/News/9699137/MSFT-Microsoft-Q4-Earnings.aspx?xy=rss",
       "published": "2026-07-29T20:02:10+00:00",
       "score": 1
@@ -93,33 +156,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: I'd like Congress to add Iran tariffs in russia sanctions bill.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9699095/Trump-Id-like-Congress-to-add-Iran-tariffs-in-russia-sanctions-bill.aspx?xy=rss",
-      "published": "2026-07-29T19:39:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We're going to smack Iran a little bit.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9699094/Trump-Were-going-to-smack-Iran-a-little-bit.aspx?xy=rss",
-      "published": "2026-07-29T19:37:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on AI: We're looking at controls.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9699093/Trump-on-AI-Were-looking-at-controls.aspx?xy=rss",
-      "published": "2026-07-29T19:36:33+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The Dow Jones Industrial Average extends losses to over -1,000 points on the day as chip stocks crash and the Fed holds rates.",
@@ -127,60 +163,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2082550844898029577#m",
       "published": "2026-07-29T19:36:28+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Treasury 30-year yield tops 5.20% for the first time since 2007.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9699092/Treasury-30-year-yield-tops-520-for-the-first-time-since-2007.aspx?xy=rss",
-      "published": "2026-07-29T19:33:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: UK's PM Burnham told me he'd open the North Sea for oil.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9699073/Trump-UKs-PM-Burnham-told-me-hed-open-the-North-Sea-for-oil.aspx?xy=rss",
-      "published": "2026-07-29T19:28:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump, when asked about UK's PM Burnham, reiterates should open the North Sea.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9699072/Trump-when-asked-about-UKs-PM-Burnham-reiterates-should-open-the-North-Sea.aspx?xy=rss",
-      "published": "2026-07-29T19:26:42+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We'll see if we get there on the Iran deal.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9699071/Trump-Well-see-if-we-get-there-on-the-Iran-deal.aspx?xy=rss",
-      "published": "2026-07-29T19:22:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Thursday FX Option Expiries",
-      "summary": "<div><ul><li><strong>EUR/USD: </strong>1.1375 (EU2.31b), 1.1400 (EU2.04b), 1.1285 (EU1.85b)</li><li><strong>USD/JPY: </strong>165.00 ($3.96b), 163.00 ($2.04b), 163.50 ($1.49b)</li><li><strong>USD/CAD: </strong>1.4015 ($1.12b), 1.4100 ($713.5m), 1.3580 ($540m)</li><li><strong>AUD/USD: </strong>0.6780 (AUD751.6m), 0.7000 (AUD726.4m), 0.7025 (AUD718.9m)</li><li><strong>USD/CNY: </strong>6.9250 ($1.47",
-      "link": "https://www.financialjuice.com/News/9699070/Thursday-FX-Option-Expiries.aspx?xy=rss",
-      "published": "2026-07-29T19:22:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran is asking us not to hit them.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9699069/Trump-Iran-is-asking-us-not-to-hit-them.aspx?xy=rss",
-      "published": "2026-07-29T19:22:19+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -258,7 +240,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "British Pound Sterling rents a rally it has to pay for in the morning",
-      "summary": "The Federal Reserve held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase, and Sterling rallied through the 1.3300 shelf it lost last week to trade just above 1.3350. None of that is a British story.",
+      "summary": "The Federal Reserve (Fed) held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase, and Sterling rallied through the 1.3300 shelf it lost last week to trade just above 1.3350. None of that is a British story.",
       "link": "https://www.fxstreet.com/news/british-pound-sterling-collects-a-refund-on-the-fed-hike-that-never-came-202607291809",
       "published": "2026-07-29T18:09:16+00:00",
       "score": 1
@@ -414,33 +396,6 @@
       "summary": "The Dow Jones Industrial Average trades just above 51,800 on Wednesday afternoon, down roughly 900 points and 1.7% from Tuesday's close.",
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-pulls-back-hours-before-the-feds-answer-202607291633",
       "published": "2026-07-29T16:33:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Hedging pressure builds on USD – BNY",
-      "summary": "BNY’s Geoff Yu notes that USD exposure is elevated across global portfolios, with strong buying in both equities and bonds generating sizeable rebalancing signals. The bank recommends increasing FX hedges instead of selling U.S. assets, as hedge ratios remain low and Dollar allocations high.",
-      "link": "https://www.fxstreet.com/news/us-dollar-hedging-pressure-builds-on-usd-bny-202607291628",
-      "published": "2026-07-29T16:28:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver slips below $57 as Fed meeting keeps markets on edge",
-      "summary": "Silver (XAG/USD) trades around $56.90 on Wednesday at the time of writing, down 0.43% on the day. Price action remains cautious as investors avoid taking large directional positions ahead of the Federal Reserve (Fed) monetary policy announcement.",
-      "link": "https://www.fxstreet.com/news/silver-slips-below-57-as-fed-meeting-keeps-markets-on-edge-202607291619",
-      "published": "2026-07-29T16:19:56+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Policy risk with range-bound trade against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight that GBP/USD is flat around 1.33, supported by stronger United Kingdom (UK) lending data and stabilizing Bank of England (BoE) expectations. They stress that UK fiscal narratives remain important for sentiment toward government debt.",
-      "link": "https://www.fxstreet.com/news/british-pound-policy-risk-with-range-bound-trade-against-us-dollar-scotiabank-202607291613",
-      "published": "2026-07-29T16:13:59+00:00",
       "score": 1
     },
     {
