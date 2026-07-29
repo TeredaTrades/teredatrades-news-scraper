@@ -1,42 +1,132 @@
 {
-  "updated_at": "2026-07-29T12:21:39.017031+00:00",
-  "count": 65,
+  "updated_at": "2026-07-29T14:42:59.155204+00:00",
+  "count": 46,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Trump: US and Saudi strikes were coordinated with the Iraqi government.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9698402/Trump-US-and-Saudi-strikes-were-coordinated-with-the-Iraqi-government.aspx?xy=rss",
-      "published": "2026-07-29T12:19:07+00:00",
+      "title": "Euro holds below 1.1400 against US Dollar as Fed interest rate decision looms",
+      "summary": "EUR/USD struggles below 1.1400 on Wednesday as traders brace for the Federal Reserve’s (Fed) interest-rate decision at 18:00 GMT, while the war in the Middle East fuels volatility across financial markets. At the time of writing, the pair trades around 1.1393, little changed on the day.",
+      "link": "https://www.fxstreet.com/news/euro-holds-below-11400-against-us-dollar-as-fed-interest-rate-decision-looms-202607291431",
+      "published": "2026-07-29T14:31:22+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Fed risk caps CTA upside – TD Securities",
+      "summary": "TD Securities’ Ryan McKay and Bart Melek note that Gold remains under pressure as markets price a hawkish Federal Reserve (Fed) path and renewed energy strength.",
+      "link": "https://www.fxstreet.com/news/gold-fed-risk-caps-cta-upside-td-securities-202607291424",
+      "published": "2026-07-29T14:24:40+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The Dow Jones Industrial Average extends losses to -800 points on the day as chip stocks fall, rate hike odds rise, and President Trump vows to strike Iran.",
+      "summary": "<p>BREAKING: The Dow Jones Industrial Average extends losses to -800 points on the day as chip stocks fall, rate hike odds rise, and President Trump vows to strike Iran.</p>\n<img src=\"https://nitter.net/pic/media%2FHOZri5LX0AEdU3p.png\" />\n\n<hr />\n<blockquote>\n<b>The Kobeissi Letter (@KobeissiLetter)</b>\n<p>\n<p>Absolutely incredible.<br />\n<br />\nIn an unprecedented move, South Korea's stock market",
+      "link": "https://nitter.net/KobeissiLetter/status/2082470168937001357#m",
+      "published": "2026-07-29T14:15:53+00:00",
       "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve set to hold interest rates steady, yet a hike can’t be ruled out",
+      "summary": "The United States (US) Federal Reserve (Fed) announces its interest rate decision on Wednesday, another pivotal meeting for markets to gauge the stance of policymakers as they assess how rising crude Oil prices could impact the inflation outlook.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-steady-yet-a-hike-cant-be-ruled-out-202607291400",
+      "published": "2026-07-29T14:00:00+00:00",
+      "score": 3
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "R to @KobeissiLetter: Unusual times lead to unusual swings in the market, and the S&P 500 is swinging trillions in market cap. Our subscribers are capitalizing on it. Want to access our premium research? Subscribe at the link below to access our latest analysis and alerts: http://thekobeissiletter.com/subscribe",
+      "summary": "<p>Unusual times lead to unusual swings in the market, and the S&amp;P 500 is swinging trillions in market cap.<br />\n<br />\nOur subscribers are capitalizing on it.<br />\n<br />\nWant to access our premium research?<br />\n<br />\nSubscribe at the link below to access our latest analysis and alerts:<br />\n<br />\n<a href=\"http://thekobeissiletter.com/subscribe\">thekobeissiletter.com/subscr…</a></p>\n<h",
+      "link": "https://nitter.net/KobeissiLetter/status/2082463914932019421#m",
+      "published": "2026-07-29T13:51:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss National Bank: Rates seen on prolonged hold – Commerzbank",
+      "summary": "Michael Pfister of Commerzbank argues that subdued imported inflation and low exchange rate pass-through give the Swiss National Bank (SNB) little reason to tighten policy.",
+      "link": "https://www.fxstreet.com/news/swiss-national-bank-rates-seen-on-prolonged-hold-commerzbank-202607291337",
+      "published": "2026-07-29T13:37:58+00:00",
+      "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump To Fox: we'll be hitting Iran hard.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9698385/Trump-To-Fox-well-be-hitting-Iran-hard.aspx?xy=rss",
-      "published": "2026-07-29T12:16:39+00:00",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: -128 mln<br />Nasdaq 100: -42 mln<br />Dow 30: -103 mln<br />Mag 7: -32 mln",
+      "link": "https://www.financialjuice.com/News/9698494/MOO-Imbalance.aspx?xy=rss",
+      "published": "2026-07-29T13:30:36+00:00",
       "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Range guidance around NEER band – UOB",
+      "summary": "UOB’s SGD NEER model shows the index at 1.68% above the midpoint of the policy band, after ending the previous session 171 basis points above it. The model is expected to remain between 1.40% and 1.90% above the midpoint today, implying a USD/SGD trading range of 1.2898–1.2963.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-guidance-around-neer-band-uob-202607291319",
+      "published": "2026-07-29T13:19:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Trump vows fresh strikes on Iran after missiles targeting US forces are intercepted",
+      "summary": "According to Reuters, United States (US) President Donald Trump said in a phone interview with Fox News on Wednesday that the US would carry out further strikes against Iran in response to attacks targeting US positions in Jordan.",
+      "link": "https://www.fxstreet.com/news/trump-vows-fresh-strikes-on-iran-after-missiles-targeting-us-forces-are-intercepted-202607291310",
+      "published": "2026-07-29T13:10:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar strengthens modestly against US Dollar ahead of Fed decision",
+      "summary": "The Canadian Dollar (CAD) modestly outperforms the US Dollar (USD) on Wednesday, drawing support from a rebound in Oil prices as the war in the Middle East intensifies again following a brief calm. At the time of writing, USD/CAD trades around 1.4093, trapped within a week-old range.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-modestly-against-us-dollar-ahead-of-fed-decision-202607291306",
+      "published": "2026-07-29T13:06:20+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Oil: Middle East tensions revive inflation channel – BNY",
+      "summary": "BNY reports that renewed Iranian–U.S. hostilities lifted Brent above 3%, reviving the inflation channel but remaining secondary to Fed and AI valuation drivers.",
+      "link": "https://www.fxstreet.com/news/oil-middle-east-tensions-revive-inflation-channel-bny-202607291301",
+      "published": "2026-07-29T13:01:24+00:00",
+      "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump on Iran: Going to let them keep talking - Fox Interview.",
+      "title": "FinancialJuice: Effective Fed funds rate 3.63% July 28th vs 3.63% July 27th.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9698384/Trump-on-Iran-Going-to-let-them-keep-talking---Fox-Interview.aspx?xy=rss",
-      "published": "2026-07-29T12:16:32+00:00",
+      "link": "https://www.financialjuice.com/News/9698448/Effective-Fed-funds-rate-363-July-28th-vs-363-July-27th.aspx?xy=rss",
+      "published": "2026-07-29T12:59:41+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: US strikes will take place against Iran in response to attacks on US targets in Jordan - Fox.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9698400/Trump-US-strikes-will-take-place-against-Iran-in-response-to-attacks-on-US-targets-in-Jordan---Fox.aspx?xy=rss",
-      "published": "2026-07-29T12:16:08+00:00",
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump says the US will respond to Iranian strikes on a US airbase in Jordan. US oil prices extend gains to +7% on the day.",
+      "summary": "<p>BREAKING: President Trump says the US will respond to Iranian strikes on a US airbase in Jordan.<br />\n<br />\nUS oil prices extend gains to +7% on the day.</p>\n<img src=\"https://nitter.net/pic/media%2FHOZTBeqWEAAk6yF.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2082443165982765196#m",
+      "published": "2026-07-29T12:28:35+00:00",
       "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Stretched positioning caps gains against peers – BNY",
+      "summary": "BNY’s Geoff Yu notes the US Dollar (USD) enters the Federal Open Market Committee (FOMC) with strong recent demand but stretched positioning, as cross-border buying and late-July spot demand remain supportive.",
+      "link": "https://www.fxstreet.com/news/us-dollar-stretched-positioning-caps-gains-against-peers-bny-202607291222",
+      "published": "2026-07-29T12:22:04+00:00",
+      "score": 3
     },
     {
       "source": "FXStreet",
@@ -57,30 +147,12 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FED PLAYBOOK: JPM'S S&P 500 SCENARIOS JPMorgan expects the Fed to hold rates, with a hawkish hold as its base case (50%), leaving the S&P 500 roughly flat to down 0.5%. A dovish hold (28%) is seen as the most bullish outcome, lifting the index up to 1%. A 25bp hike (20%) could send the S&P 500 down 1.5%-2%, with the Nasdaq likely underperforming.",
-      "summary": "<p>FED PLAYBOOK: JPM'S S&amp;P 500 SCENARIOS<br />\n<br />\nJPMorgan expects the Fed to hold rates, with a hawkish hold as its base case (50%), leaving the S&amp;P 500 roughly flat to down 0.5%.<br />\n<br />\nA dovish hold (28%) is seen as the most bullish outcome, lifting the index up to 1%.<br />\n<br />\nA 25bp hike (20%) could send the S&amp;P 500 down 1.5%-2%, with the Nasdaq likely underperformin",
-      "link": "https://nitter.net/DeItaone/status/2082436428504441311#m",
-      "published": "2026-07-29T12:01:49+00:00",
-      "score": 4
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Federal Reserve: Hawkish hold could restore Dollar support – BBH",
       "summary": "Brown Brothers Harriman’s Elias Haddad expects the Federal Open Market Committee to keep the federal funds target range unchanged at 3.50%-3.75% for a fifth consecutive meeting.",
       "link": "https://www.fxstreet.com/news/federal-reserve-hawkish-hold-could-restore-dollar-support-bbh-202607291157",
       "published": "2026-07-29T11:57:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Interest Rate Futures Pricing Ahead of the FOMC Meeting Today - FJElite",
-      "summary": "<p>Markets are seeing a lot more uncertainty than usual going into this meeting in terms of the rate decision itself.<br />Market pricing this morning sees a <strong>64% chance of no change</strong> at today's meeting, with a <strong>36% chance of a hike</strong>.</p><p>With no SEP today and Warsh's shorter rate statement and reluctance to give forward guidance, the markets may have less to go on ",
-      "link": "https://www.financialjuice.com/News/9698367/US-Interest-Rate-Futures-Pricing-Ahead-of-the-FOMC-Meeting-Today---FJElite.aspx?xy=rss",
-      "published": "2026-07-29T11:52:35+00:00",
       "score": 1
     },
     {
@@ -93,24 +165,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ZUCKERBERG PUSHES FOR FASTER AI Mark Zuckerberg urged the U.S. to accelerate AI development, arguing the technology's benefits outweigh its risks and warning against regulations that could slow innovation. The Meta CEO also opposed restricting open-source AI models, saying the focus should be on boosting U.S. competitiveness rather than limiting access. His comments come as Meta ramps up AI spending ahead of earnings.",
-      "summary": "<p>ZUCKERBERG PUSHES FOR FASTER AI<br />\n<br />\nMark Zuckerberg urged the U.S. to accelerate AI development, arguing the technology's benefits outweigh its risks and warning against regulations that could slow innovation.<br />\n<br />\nThe Meta CEO also opposed restricting open-source AI models, saying the focus should be on boosting U.S. competitiveness rather than limiting access.<br />\n<br />\nHi",
-      "link": "https://nitter.net/DeItaone/status/2082432213270896947#m",
-      "published": "2026-07-29T11:45:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "IRAN PUSHES BACK ON US TALK CLAIMS Iran says it has not sought negotiations with the U.S. over the past two weeks, rejecting President Trump's claim that Tehran wants talks. A senior Iranian official also insisted Iran will not give up control of the Strait of Hormuz, calling it central to the country's war objectives. The comments came hours before Iran launched fresh missile attacks on U.S. bases in Jordan.",
-      "summary": "<p>IRAN PUSHES BACK ON US TALK CLAIMS<br />\n<br />\nIran says it has not sought negotiations with the U.S. over the past two weeks, rejecting President Trump's claim that Tehran wants talks.<br />\n<br />\nA senior Iranian official also insisted Iran will not give up control of the Strait of Hormuz, calling it central to the country's war objectives.<br />\n<br />\nThe comments came hours before Iran l",
-      "link": "https://nitter.net/DeItaone/status/2082430588179366262#m",
-      "published": "2026-07-29T11:38:36+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "US Dollar: Fed hold to test recent resilience – ING",
@@ -118,24 +172,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-fed-hold-to-test-recent-resilience-ing-202607291138",
       "published": "2026-07-29T11:38:05+00:00",
       "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ECOMMERCE MOMENTUM BUILDS Bernstein raised its U.S. eCommerce forecasts after estimating Q2 sales growth of 11%, up from 5-6% in recent quarters. The firm expects strong results from Etsy, eBay and Wayfair, while Amazon's earnings will hinge more on AWS, where investors are looking for 30%+ cloud growth. Bernstein also expects AI-driven capex to rise further in 2027.",
-      "summary": "<p>ECOMMERCE MOMENTUM BUILDS<br />\n<br />\nBernstein raised its U.S. eCommerce forecasts after estimating Q2 sales growth of 11%, up from 5-6% in recent quarters.<br />\n<br />\nThe firm expects strong results from Etsy, eBay and Wayfair, while Amazon's earnings will hinge more on AWS, where investors are looking for 30%+ cloud growth.<br />\n<br />\nBernstein also expects AI-driven capex to rise furth",
-      "link": "https://nitter.net/DeItaone/status/2082430126617157716#m",
-      "published": "2026-07-29T11:36:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc: Moderate pass-through weigh on CHF against Euro – Commerzbank",
-      "summary": "Commerzbank’s Michael Pfister analyses how the Swiss National Bank’s recent shift toward tolerating a weaker Swiss Franc affects inflation and EUR/CHF.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-moderate-pass-through-weigh-on-chf-against-euro-commerzbank-202607291129",
-      "published": "2026-07-29T11:29:37+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -149,155 +185,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Why is the US Dollar vulnerable when the Federal Reserve is expected to deliver a hawkish hold?",
-      "summary": "The US Dollar (USD) stands at a critical juncture as financial markets prepare for the Federal Open Market Committee's (FOMC) upcoming interest rate announcement.",
-      "link": "https://www.fxstreet.com/news/why-is-the-us-dollar-vulnerable-when-the-federal-reserve-is-expected-to-deliver-a-hawkish-hold-202607291116",
-      "published": "2026-07-29T11:16:52+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Pressured against US Dollar by softer CPI – Societe Generale",
-      "summary": "Societe Generale analyst highlight that AUD/USD is offered below 0.6950 after softer June Consumer Price Index (CPI), with markets scaling back expectations for an RBA hike.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-pressured-against-us-dollar-by-softer-cpi-societe-generale-202607291110",
-      "published": "2026-07-29T11:10:03+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold struggles for direction ahead of Federal Reserve policy verdict",
-      "summary": "Gold (XAU/USD) consolidates above $4,000 on Wednesday, as price action remains choppy amid growing caution ahead of the Federal Reserve’s (Fed) monetary policy announcement, while the war in the Middle East intensifies again after a brief lull.",
+      "title": "Gold struggles near $4,000 ahead of Federal Reserve policy verdict",
+      "summary": "Gold (XAU/USD) consolidates above $4,000 on Wednesday as price action remains choppy amid growing caution ahead of the Federal Reserve’s (Fed) monetary policy announcement, while the war in the Middle East intensifies again after a brief lull.",
       "link": "https://www.fxstreet.com/news/gold-struggles-for-direction-ahead-of-federal-reserve-policy-verdict-202607291108",
       "published": "2026-07-29T11:08:44+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Struggling below 1.1400 with YTD lows at a short distance",
-      "summary": "The Euro (EUR) holds marginal gains against the US Dollar on Wednesday after finding some support in the mid-range of the 1.1300s earlier this week but remains unable to find acceptance above 1.1400.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-struggling-below-11400-with-all-eyes-on-the-fed-202607291059",
-      "published": "2026-07-29T10:59:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: Extended pause guidance – UOB",
-      "summary": "UOB Global Economics & Markets Research notes that the Federal Reserve is widely expected to keep the Federal Funds Target Rate at 3.50%-3.75% at the July FOMC meeting.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-extended-pause-guidance-uob-202607291001",
-      "published": "2026-07-29T10:01:26+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: BoC minutes watched for inflation tone – TD Securities",
-      "summary": "TD Securities strategists expect the Bank of Canada’s (BoC) Summary of Deliberations to shed light on the July decision, focusing on how policymakers view inflation amid recent energy price moves and Consumer Price Index (CPI) forecast revisions.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-minutes-watched-for-inflation-tone-td-securities-202607290955",
-      "published": "2026-07-29T09:55:47+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Seen back toward 1.15 against US Dollar – ING",
-      "summary": "ING’s Francesco Pesole notes that EUR/USD may have bottomed last week if markets maintain a constructive view on further geopolitical de-escalation. He argues a sustained move above 1.15 still requires dovish Federal Reserve (Fed) repricing and stabilised risk sentiment.",
-      "link": "https://www.fxstreet.com/news/euro-seen-back-toward-115-against-us-dollar-ing-202607290945",
-      "published": "2026-07-29T09:45:21+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc: Policy gap favours further losses against Euro – MUFG",
-      "summary": "MUFG’s Lee Hardman reports that the Swiss Franc (CHF) continues to weaken versus the Euro, with EUR/CHF reaching new highs as widening yield differentials favour the Euro.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-policy-gap-favours-further-losses-against-euro-mufg-202607290934",
-      "published": "2026-07-29T09:34:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) rose on Wednesday, according to FXStreet data. Silver trades at $57.92 per troy ounce, up 1.36% from the $57.14 it cost on Tuesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202607290930",
-      "published": "2026-07-29T09:30:08+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/USD Price Forecast: Near-term bias remains bearish ahead of Fed-BoE policy",
-      "summary": "The British Pound (GBP) is marginally higher at around 1.3300 against the US Dollar (USD) during the European trading session on Wednesday. The GBP/USD pair edges up as the US Dollar ticks lower ahead of the Federal Reserve’s (Fed) monetary policy announcement at 18:00 GMT.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-near-term-bias-remains-bearish-ahead-of-fed-boe-policy-202607290929",
-      "published": "2026-07-29T09:29:21+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Pinned: 🏛️ FED WATCH Kalshi traders see a 77% chance the Fed holds rates today and a 23% chance of a surprise 25bp hike. Citadel Securities disagrees, expecting Chair Kevin Warsh to raise rates to reinforce the Fed's inflation-fighting credibility and signal the end of the forward-guidance era. With markets split, today's decision and Warsh's remarks could set the tone for the rest of 2026. https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26jul?utm_source=walterbloomberg",
-      "summary": "<p>🏛️ FED WATCH<br />\n<br />\nKalshi traders see a 77% chance the Fed holds rates today and a 23% chance of a surprise 25bp hike.<br />\n<br />\nCitadel Securities disagrees, expecting Chair Kevin Warsh to raise rates to reinforce the Fed's inflation-fighting credibility and signal the end of the forward-guidance era.<br />\n<br />\nWith markets split, today's decision and Warsh's remarks could set the",
-      "link": "https://nitter.net/DeItaone/status/2082381179966140814#m",
-      "published": "2026-07-29T08:22:16+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "MIDDLE EAST CONFLICT ESCALATES Fighting between Iran and the US intensified overnight as Iran launched ballistic missiles at US forces, while the US and Saudi Arabia responded with strikes on Iran-backed militias in Iraq, ending a brief diplomatic pause. Saudi Arabia said it intercepted drones targeting its oil facilities for a second consecutive day. The US said all Iranian missiles aimed at its forces were intercepted. Oil prices jumped nearly 4%, with Brent crude rising to around $87 a barrel, as traders reacted to renewed supply concerns. The Strait of Hormuz remains effectively closed, with shipping heavily disrupted, while tensions are also rising in the Red Sea after attacks by Iran-backed Houthi rebels. The widening conflict now spans Iran, Iraq, Saudi Arabia and Yemen, raising fears of a broader regional war. Markets are increasingly focused on energy security, inflation risks and the potential economic fallout, while hopes for renewed US-Iran peace talks continue to fade.",
-      "summary": "<p>MIDDLE EAST CONFLICT ESCALATES<br />\n<br />\nFighting between Iran and the US intensified overnight as Iran launched ballistic missiles at US forces, while the US and Saudi Arabia responded with strikes on Iran-backed militias in Iraq, ending a brief diplomatic pause.<br />\n<br />\nSaudi Arabia said it intercepted drones targeting its oil facilities for a second consecutive day. The US said all I",
-      "link": "https://nitter.net/DeItaone/status/2082379881082396893#m",
-      "published": "2026-07-29T08:17:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FED DECISION: WHAT TO WATCH The Fed is expected to keep rates at 3.5%-3.75%, but markets still see a roughly one-in-three chance of a surprise hike. The focus is on Chair Kevin Warsh's message as higher oil prices fuel inflation concerns despite softer June CPI. Morgan Stanley expects no hikes this year, while BofA believes Warsh could begin raising rates as soon as September.",
-      "summary": "<p>FED DECISION: WHAT TO WATCH<br />\n<br />\nThe Fed is expected to keep rates at 3.5%-3.75%, but markets still see a roughly one-in-three chance of a surprise hike.<br />\n<br />\nThe focus is on Chair Kevin Warsh's message as higher oil prices fuel inflation concerns despite softer June CPI.<br />\n<br />\nMorgan Stanley expects no hikes this year, while BofA believes Warsh could begin raising rates ",
-      "link": "https://nitter.net/DeItaone/status/2082375810409742779#m",
-      "published": "2026-07-29T08:00:56+00:00",
-      "score": 4
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP'S WEDNESDAY CALENDAR — JULY 29 ▶ 8:00 AM — Executive Time ▶ 10:30 AM — Greets Montana State FCS National Champions (Rose Garden) ▶ 11:00 AM — Intelligence Briefing ▶ 3:00 PM — Announcement with the Secretary of Transportation (Oval Office) ▶ 4:30 PM — Policy Meeting ▶ 5:30 PM — Policy Meeting ▶ 6:30 PM — Tele-Rally for Kansas gubernatorial candidate Ty Masterson ▶ 7:00 PM — Tele-Rally for Wisconsin congressional candidate Michael Alfonso",
-      "summary": "<p>TRUMP'S WEDNESDAY CALENDAR — JULY 29<br />\n<br />\n▶ 8:00 AM — Executive Time<br />\n▶ 10:30 AM — Greets Montana State FCS National Champions (Rose Garden)<br />\n▶ 11:00 AM — Intelligence Briefing<br />\n▶ 3:00 PM — Announcement with the Secretary of Transportation (Oval Office)<br />\n▶ 4:30 PM — Policy Meeting<br />\n▶ 5:30 PM — Policy Meeting<br />\n▶ 6:30 PM — Tele-Rally for Kansas gubernatorial ",
-      "link": "https://nitter.net/DeItaone/status/2082374516060094569#m",
-      "published": "2026-07-29T07:55:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "BITCOIN EYES THE FED Bitcoin climbed 0.8% to $64,344 as the dollar weakened ahead of the Fed's rate decision. Markets expect no change, but any hawkish signals could lift the dollar and pressure BTC. Geopolitical tensions add near-term risk, while growing crypto adoption and corporate bitcoin buying continue to support the long-term outlook.",
-      "summary": "<p>BITCOIN EYES THE FED<br />\n<br />\nBitcoin climbed 0.8% to $64,344 as the dollar weakened ahead of the Fed's rate decision.<br />\n<br />\nMarkets expect no change, but any hawkish signals could lift the dollar and pressure BTC.<br />\n<br />\nGeopolitical tensions add near-term risk, while growing crypto adoption and corporate bitcoin buying continue to support the long-term outlook.</p>",
-      "link": "https://nitter.net/DeItaone/status/2082363023822303548#m",
-      "published": "2026-07-29T07:10:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FED IN FOCUS The Fed is widely expected to keep rates unchanged, but Chairman Kevin Warsh has made this meeting unusually unpredictable. The key isn't just the decision — it's the message. If rates stay on hold, markets will look for clues on September. If the Fed surprises with a hike, investors will want to know whether it's the start of a tougher inflation fight or a one-off move.",
-      "summary": "<p>FED IN FOCUS<br />\n<br />\nThe Fed is widely expected to keep rates unchanged, but Chairman Kevin Warsh has made this meeting unusually unpredictable.<br />\n<br />\nThe key isn't just the decision — it's the message.<br />\n<br />\nIf rates stay on hold, markets will look for clues on September.<br />\n<br />\nIf the Fed surprises with a hike, investors will want to know whether it's the start of a t",
-      "link": "https://nitter.net/DeItaone/status/2082360770537365552#m",
-      "published": "2026-07-29T07:01:10+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee rally hits pause as oil price recovers strongly, Fed policy awaited",
-      "summary": "The Indian Rupee (INR) trades marginally lower against the US Dollar (USD) on Wednesday after a three-day winning streak. The USD/INR pair rebounds to near 95.85, the intraday high, as oil prices have rebounded strongly due to revived geopolitical risks.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-fails-to-extend-winning-streak-as-oil-prices-bounce-back-202607290528",
-      "published": "2026-07-29T05:28:57+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -318,24 +210,6 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The Trump Administration is planning to end a subsidy program that helped hold down premiums for Medicare drug plans, per WSJ. Details include: 1. The move will eliminate a program that is giving insurance companies an estimated $3.6 billion in subsidies this year 2. These funds are currently used to blunt increases in premiums for the Medicare prescription plans, known as Part D 3. Roughly 25 million people have Part D plans, and they will learn about their 2027 rates in the fall 4. Around 75% of Part D plan enrollees are expected see premiums for their plans increase Medicare remains a key area of focus for the Trump Admin.",
-      "summary": "<p>BREAKING: The Trump Administration is planning to end a subsidy program that helped hold down premiums for Medicare drug plans, per WSJ.<br />\n<br />\nDetails include:<br />\n<br />\n1. The move will eliminate a program that is giving insurance companies an estimated $3.6 billion in subsidies this year<br />\n<br />\n2. These funds are currently used to blunt increases in premiums for the Medicare p",
-      "link": "https://nitter.net/KobeissiLetter/status/2082201641978392952#m",
-      "published": "2026-07-28T20:28:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Tomorrow is going to be a historic day. Market expectations for tomorrow's Fed decision are among the most divided in recent history. Currently, interest rate futures imply a ~30% chance of a rate hike and a ~70% chance of rates remaining unchanged. By comparison, nearly every Fed meeting since March 2020 has entered decision day with ~99% consensus. Adding to the uncertainty, Fed Chair Warsh has effectively eliminated forward guidance, leaving markets with little direction ahead of the announcement. That said, we continue to believe that the Fed will NOT hike interest rates tomorrow. It's important to not forget that just months ago, President Trump said a \"pre-condition\" for his next Fed Chair was a willingness to cut rates. And, the Iran War energy shock is likely to continue being labeled as a \"temporary inflationary event\" rather than a structural one, the labor market is weak, and Americans are already struggling with high interest rates. We think the Fed PAUSE continues tomorrow.",
-      "summary": "<p>Tomorrow is going to be a historic day.<br />\n<br />\nMarket expectations for tomorrow's Fed decision are among the most divided in recent history.<br />\n<br />\nCurrently, interest rate futures imply a ~30% chance of a rate hike and a ~70% chance of rates remaining unchanged.<br />\n<br />\nBy comparison, nearly every Fed meeting since March 2020 has entered decision day with ~99% consensus.<br />",
-      "link": "https://nitter.net/KobeissiLetter/status/2082154863815786521#m",
-      "published": "2026-07-28T17:22:58+00:00",
-      "score": 4
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Forex",
@@ -343,15 +217,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v94whb/forex/",
       "published": "2026-07-28T17:19:55+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "It’s official: Apple, $AAPL, is now the second company in history to surpass $5 trillion in market cap. This makes Apple the largest company in the world, now 6% larger than Nvidia. If you invested $10,000 in Apple in 2003, you would have $15.5 million today. Truly historic.",
-      "summary": "<p>It’s official:<br />\n<br />\nApple, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a>, is now the second company in history to surpass $5 trillion in market cap.<br />\n<br />\nThis makes Apple the largest company in the world, now 6% larger than Nvidia.<br />\n<br />\nIf you invested $10,000 in Apple in 2003, you would have $15.5 million today.<br />\n<br />\nTruly historic.</p>\n<i",
-      "link": "https://nitter.net/KobeissiLetter/status/2082099016163058153#m",
-      "published": "2026-07-28T13:41:03+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -381,24 +246,6 @@
       "score": 2
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The private credit industry is struggling in Asia: Asian private credit funds raised just $1.2 billion in the first half of 2026, the lowest amount for this period in at least 10 years. This marks a sharp decline from $9.5 billion in 2025 and $20.2 billion in 2022. This comes as only 5 private credit funds completed fundraising, down from 29 funds in 2025 and 53 funds in 2022. If this pace continues through the second half of the year, 2026 would mark the weakest fundraising year for Asian private credit in at least 12 years. The decline has been driven by concerns over rising corporate bankruptcies, with higher interest rates and weaker economic conditions putting pressure on heavily indebted companies. While large institutions are still allocating capital to the asset class, they are becoming increasingly selective, favoring large US managers with stronger track records over smaller Asian funds. Investor appetite for private credit is weakening globally.",
-      "summary": "<p>The private credit industry is struggling in Asia:<br />\n<br />\nAsian private credit funds raised just $1.2 billion in the first half of 2026, the lowest amount for this period in at least 10 years.<br />\n<br />\nThis marks a sharp decline from $9.5 billion in 2025 and $20.2 billion in 2022.<br />\n<br />\nThis comes as only 5 private credit funds completed fundraising, down from 29 funds in 2025 ",
-      "link": "https://nitter.net/KobeissiLetter/status/2081928874049343992#m",
-      "published": "2026-07-28T02:24:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: South Korea’s stock market falls nearly -8% as the global chip stock selloff accelerates.",
-      "summary": "<p>BREAKING: South Korea’s stock market falls nearly -8% as the global chip stock selloff accelerates.</p>\n<img src=\"https://nitter.net/pic/media%2FHORp84QXgAA9MrG.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2081905425104908660#m",
-      "published": "2026-07-28T00:51:47+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "XAUUSD Trading help",
@@ -414,24 +261,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>had an interesting one this year. my nq system went basically flat for over a month. signals firing, nothing sticking, chop everywhere. few years ago that wouldve sent me into full rebuild mode, changing params, doubting everything</p> <p>this time i just... checked the logs and left it alone. because the gold system on the same account carried that whole stretch.",
       "link": "https://www.reddit.com/r/Forex/comments/1v89zu0/your_backtest_has_a_dead_month_in_it_somewhere_if/",
       "published": "2026-07-27T19:09:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump says he is ready for \"strong military action\" if Iran talks fail, per Axios. Details include: 1. \"We are in very deep talks with Iran. If they don't work out, we will go back to very strong military action,\" Trump said 2. When asked how long he's willing to give diplomacy, Trump said \"not much time\" 3. Trump said he decided to pause strikes on Friday because the countries that are mediating asked him to give negotiations another chance US oil prices are now trading near $84/barrel.",
-      "summary": "<p>BREAKING: President Trump says he is ready for \"strong military action\" if Iran talks fail, per Axios.<br />\n<br />\nDetails include:<br />\n<br />\n1. \"We are in very deep talks with Iran. If they don't work out, we will go back to very strong military action,\" Trump said<br />\n<br />\n2. When asked how long he's willing to give diplomacy, Trump said \"not much time\"<br />\n<br />\n3. Trump said he d",
-      "link": "https://nitter.net/KobeissiLetter/status/2081769311799026132#m",
-      "published": "2026-07-27T15:50:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "All roads lead to GOLD 📈",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v7kltf/all_roads_lead_to_gold/\"> <img alt=\"All roads lead to GOLD 📈\" src=\"https://preview.redd.it/vpdqt33hznfh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7705a6f6c07cd963e8b396b718e03de1c8d611c7\" title=\"All roads lead to GOLD 📈\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RoosterNo2334\"> ",
-      "link": "https://www.reddit.com/r/Forex/comments/1v7kltf/all_roads_lead_to_gold/",
-      "published": "2026-07-27T00:09:50+00:00",
       "score": 1
     },
     {
