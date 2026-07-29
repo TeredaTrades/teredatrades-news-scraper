@@ -1,13 +1,49 @@
 {
-  "updated_at": "2026-07-28T23:16:16.194482+00:00",
-  "count": 55,
+  "updated_at": "2026-07-29T00:57:38.196152+00:00",
+  "count": 57,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold holds losses near $4,000 due to Middle East tensions, Fed rate uncertainty",
+      "summary": "Gold price (XAU/USD) remains subdued for the second successive day, trading around $4,020 per troy ounce during the Asian hours on Wednesday.",
+      "link": "https://www.fxstreet.com/news/gold-holds-losses-near-4-000-due-to-middle-east-tensions-fed-rate-uncertainty-202607290056",
+      "published": "2026-07-29T00:56:18+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: meeting with Ukraine's Zelenskiy went 'very well'",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9697502/Trump-meeting-with-Ukraines-Zelenskiy-went-very-well.aspx",
+      "published": "2026-07-29T00:55:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "The market is experiencing historically high volatility: The performance gap between the S&P 500’s best- and worst-performing sectors has exceeded 10% in 8 weeks so far in 2026, the highest count since the 2020 pandemic. Half of these 8 episodes have occurred since late-May, even as the index itself has remained relatively unchanged. The only 3 other times that this has happened at this point in the year: 2000, 2001, and 2009, all periods of severe market stress. The full-year record was set in 2000 at 21 weeks, followed by the 2008 Financial Crisis with 15 weeks. The market is showing severe volatility beneath the surface.",
+      "summary": "<p>The market is experiencing historically high volatility:<br />\n<br />\nThe performance gap between the S&amp;P 500’s best- and worst-performing sectors has exceeded 10% in 8 weeks so far in 2026, the highest count since the 2020 pandemic.<br />\n<br />\nHalf of these 8 episodes have occurred since late-May, even as the index itself has remained relatively unchanged.<br />\n<br />\nThe only 3 other t",
+      "link": "https://nitter.net/KobeissiLetter/status/2082256872602546679#m",
+      "published": "2026-07-29T00:08:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Zelenskiy: I told Trump, senators Ukraine's main issue is shortage of anti-ballistic systems and missiles",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9697433/Zelenskiy-I-told-Trump-senators-Ukraines-main-issue-is-shortage-of-anti-ballistic-systems-and-missiles.aspx",
+      "published": "2026-07-28T23:23:09+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: U.S. Senate Approves Trump Pick Jay Clayton as Director of National Intelligence by 51-47",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9697420/US-Senate-Approves-Trump-Pick-Jay-Clayton-as-Director-of-National-Intelligence-by-51-47.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9697420/US-Senate-Approves-Trump-Pick-Jay-Clayton-as-Director-of-National-Intelligence-by-51-47.aspx",
       "published": "2026-07-28T23:14:01+00:00",
       "score": 1
     },
@@ -16,23 +52,14 @@
       "category": "news",
       "title": "FinancialJuice: Majority of U.S. Senate backs Trump nominee Jay Clayton for director of national intelligence, voting ongoing",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9697419/Majority-of-US-Senate-backs-Trump-nominee-Jay-Clayton-for-director-of-national-intelligence-voting-ongoing.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9697419/Majority-of-US-Senate-backs-Trump-nominee-Jay-Clayton-for-director-of-national-intelligence-voting-ongoing.aspx",
       "published": "2026-07-28T23:12:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "My discipline was so bad I built an EA to roast me and turn off my lights whenever I trade out of strategy.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1v9dwtj/my_discipline_was_so_bad_i_built_an_ea_to_roast/\"> <img alt=\"My discipline was so bad I built an EA to roast me and turn off my lights whenever I trade out of strategy.\" src=\"https://preview.redd.it/u22q61lgu1gh1.png?width=140&amp;height=126&amp;auto=webp&amp;s=a0ae6cd00c541981feff14c62de405676ff4d205\" title=\"My discipline w",
-      "link": "https://www.reddit.com/r/Forex/comments/1v9dwtj/my_discipline_was_so_bad_i_built_an_ea_to_roast/",
-      "published": "2026-07-28T22:49:13+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Australia CPI could boost Aussie if inflation arrives above 4%",
+      "title": "Australia CPI projected to arrive at 4% for June",
       "summary": "The Australian Bureau of Statistics (ABS) will publish the June Consumer Price Index (CPI)  on Wednesday at 01:30 GMT. The report is expected to show that inflation rose 4% from a year earlier, matching the May reading. The monthly CPI is foreseen at 0.2% following the -0.7% print from May.",
       "link": "https://www.fxstreet.com/news/australia-cpi-could-boost-aussie-if-inflation-arrives-above-4-202607282230",
       "published": "2026-07-28T22:30:00+00:00",
@@ -43,7 +70,7 @@
       "category": "news",
       "title": "FinancialJuice: Chile central bank board: will take all actions needed to ensure projected inflation remains at 3% over two years",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9697346/Chile-central-bank-board-will-take-all-actions-needed-to-ensure-projected-inflation-remains-at-3-over-two-years.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9697346/Chile-central-bank-board-will-take-all-actions-needed-to-ensure-projected-inflation-remains-at-3-over-two-years.aspx",
       "published": "2026-07-28T22:01:17+00:00",
       "score": 1
     },
@@ -172,15 +199,6 @@
       "link": "https://www.fxstreet.com/news/silver-loses-ground-as-hopes-for-us-iran-deal-improve-risk-appetite-202607281605",
       "published": "2026-07-28T16:05:37+00:00",
       "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index eases from tops, back to 101.30 ahead of Fed",
-      "summary": "The Greenback, when tracked by the US Dollar Index (DXY), abandons the area of monthly peaks and recedes toward the 101.30 zone on turnaround Tuesday.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-eases-from-tops-back-to-10130-ahead-of-fed-202607281557",
-      "published": "2026-07-28T15:57:16+00:00",
-      "score": 2
     },
     {
       "source": "Walter Bloomberg",
