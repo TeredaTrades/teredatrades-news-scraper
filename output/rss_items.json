@@ -1,41 +1,302 @@
 {
-  "updated_at": "2026-07-29T17:40:10.977207+00:00",
-  "count": 59,
+  "updated_at": "2026-07-29T18:41:52.354555+00:00",
+  "count": 67,
   "items": [
     {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen gains after hawkish Fed hold",
+      "summary": "USD/JPY trades near the 163.60 area on Wednesday, recovering from its immediate post-announcement decline as investors assess a generally hawkish Federal Reserve (Fed) monetary policy decision.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gains-after-hawkish-fed-hold-202607291841",
+      "published": "2026-07-29T18:41:47+00:00",
+      "score": 2
+    },
+    {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Boc Meeting Minutes: Some members are concerned about signs of a rise in medium-term inflation expectations, but all agree longer-term expectations remain anchored.",
+      "title": "FinancialJuice: Fed's Market: Even if we haven't done much, markets have quite a bit.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9698827/Boc-Meeting-Minutes-Some-members-are-concerned-about-signs-of-a-rise-in-medium-term-inflation-expectations-but-all-agree-longer-term-expectations-remain-anchored.aspx?xy=rss",
-      "published": "2026-07-29T17:31:26+00:00",
+      "link": "https://www.financialjuice.com/News/9698966/Feds-Market-Even-if-we-havent-done-much-markets-have-quite-a-bit.aspx?xy=rss",
+      "published": "2026-07-29T18:41:33+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BOC Meeting Minutes: Given the resumption of growth and easing inflation. Members agreed that the trade-off facing monetary policy had diminished.",
+      "title": "FinancialJuice: Fed's Warsh: The Bond market seems to be saying the economy is strong and steady.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9698826/BOC-Meeting-Minutes-Given-the-resumption-of-growth-and-easing-inflation-Members-agreed-that-the-trade-off-facing-monetary-policy-had-diminished.aspx?xy=rss",
-      "published": "2026-07-29T17:31:17+00:00",
+      "link": "https://www.financialjuice.com/News/9698965/Feds-Warsh-The-Bond-market-seems-to-be-saying-the-economy-is-strong-and-steady.aspx?xy=rss",
+      "published": "2026-07-29T18:41:10+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BoC Meeting Minutes: Members say the longer oil prices stay high, the greater the risk that inflationary impacts spread.",
+      "title": "FinancialJuice: Fed's Warsh: Interpreting markets is an imperfect business.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9698825/BoC-Meeting-Minutes-Members-say-the-longer-oil-prices-stay-high-the-greater-the-risk-that-inflationary-impacts-spread.aspx?xy=rss",
-      "published": "2026-07-29T17:31:13+00:00",
+      "link": "https://www.financialjuice.com/News/9698964/Feds-Warsh-Interpreting-markets-is-an-imperfect-business.aspx?xy=rss",
+      "published": "2026-07-29T18:40:27+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BoC Meeting Minutes: Members agreed to reiterate in communications that higher oil prices won't trigger lasting inflation.",
+      "title": "FinancialJuice: Fed's Warsh: We're observing a rise in yields, trying to stay out of it.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9698824/BoC-Meeting-Minutes-Members-agreed-to-reiterate-in-communications-that-higher-oil-prices-wont-trigger-lasting-inflation.aspx?xy=rss",
-      "published": "2026-07-29T17:31:12+00:00",
+      "link": "https://www.financialjuice.com/News/9698963/Feds-Warsh-Were-observing-a-rise-in-yields-trying-to-stay-out-of-it.aspx?xy=rss",
+      "published": "2026-07-29T18:40:03+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Warsh: Markets are reacting to events much more directly.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698962/Feds-Warsh-Markets-are-reacting-to-events-much-more-directly.aspx?xy=rss",
+      "published": "2026-07-29T18:39:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Warsh: We're trying not to interfere with that market signal.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698961/Feds-Warsh-Were-trying-not-to-interfere-with-that-market-signal.aspx?xy=rss",
+      "published": "2026-07-29T18:39:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Warsh: I've been trying to get an unfiltered message from the markets.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698960/Feds-Warsh-Ive-been-trying-to-get-an-unfiltered-message-from-the-markets.aspx?xy=rss",
+      "published": "2026-07-29T18:39:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Warsh: Discussed monetary policy tools and strategies.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698959/Feds-Warsh-Discussed-monetary-policy-tools-and-strategies.aspx?xy=rss",
+      "published": "2026-07-29T18:38:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Chair Warsh: The CAPEX boom is driving up prices of AI infrastructure.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698958/Feds-Chair-Warsh-The-CAPEX-boom-is-driving-up-prices-of-AI-infrastructure.aspx?xy=rss",
+      "published": "2026-07-29T18:38:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Warsh: Talked about price increases arising from shocks.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698957/Feds-Warsh-Talked-about-price-increases-arising-from-shocks.aspx?xy=rss",
+      "published": "2026-07-29T18:37:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Warsh: Considered recent economic shocks.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698956/Feds-Warsh-Considered-recent-economic-shocks.aspx?xy=rss",
+      "published": "2026-07-29T18:37:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Warsh: We talked a lot about the past five years of high inflation.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698955/Feds-Warsh-We-talked-a-lot-about-the-past-five-years-of-high-inflation.aspx?xy=rss",
+      "published": "2026-07-29T18:36:46+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Warsh: AI investment is laying the groundwork for future growth.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698954/Feds-Warsh-AI-investment-is-laying-the-groundwork-for-future-growth.aspx?xy=rss",
+      "published": "2026-07-29T18:36:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Chair Warsh: CAPEX is preparing the ground for future growth.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698953/Feds-Chair-Warsh-CAPEX-is-preparing-the-ground-for-future-growth.aspx?xy=rss",
+      "published": "2026-07-29T18:36:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Warsh: Investment is strong.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698952/Feds-Warsh-Investment-is-strong.aspx?xy=rss",
+      "published": "2026-07-29T18:35:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Chair Warsh: Markets will continue to respond in direction and magnitude as they see fit.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698951/Feds-Chair-Warsh-Markets-will-continue-to-respond-in-direction-and-magnitude-as-they-see-fit.aspx?xy=rss",
+      "published": "2026-07-29T18:35:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Warsh: Surge in high-tech capex has been remarkable.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698950/Feds-Warsh-Surge-in-high-tech-capex-has-been-remarkable.aspx?xy=rss",
+      "published": "2026-07-29T18:35:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Warsh: This, in my view, is a change for the better.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698949/Feds-Warsh-This-in-my-view-is-a-change-for-the-better.aspx?xy=rss",
+      "published": "2026-07-29T18:35:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Warsh: Less forward guidance may have influenced market moves.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698948/Feds-Warsh-Less-forward-guidance-may-have-influenced-market-moves.aspx?xy=rss",
+      "published": "2026-07-29T18:35:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Warsh: Prices reacted in real time to incoming information; a reduction in guidance may have been a factor.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9698947/Feds-Warsh-Prices-reacted-in-real-time-to-incoming-information-a-reduction-in-guidance-may-have-been-a-factor.aspx?xy=rss",
+      "published": "2026-07-29T18:34:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar trims losses after Fed holds",
+      "summary": "The Aussie Dollar trimmed some of its earlier losses after the Federal Reserve kept rates steady, by a 9 to 3 vote, with three dissenters who supported a 25-basis-point rate hike. The AUD/USD trades at around 0.6950, down 0.32%.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-trims-losses-after-fed-holds-202607291833",
+      "published": "2026-07-29T18:33:03+00:00",
+      "score": 3
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "What just happened to USD?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Why the sudden spike? Anyone know any news?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Twnc\"> /u/Twnc </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1va4bzw/what_just_happened_to_usd/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1va4bzw/what_just_happened_to_usd/\">[c",
+      "link": "https://www.reddit.com/r/Forex/comments/1va4bzw/what_just_happened_to_usd/",
+      "published": "2026-07-29T18:17:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro rises despite Fed hawkish hold, eyes on Warsh’s speech",
+      "summary": "The shared currency surged after the Federal Reserve kept rates steady, by a 9 to 3 vote, with three dissenters who supported a 25-basis-point rate hike. The EUR/USD trades volatily above 1.1420, up 0.28%.",
+      "link": "https://www.fxstreet.com/news/euro-rises-despite-fed-hawkish-hold-eyes-on-warshs-speech-202607291814",
+      "published": "2026-07-29T18:14:41+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones Industrial Average finds a bid in the thing the Fed did not do",
+      "summary": "The Federal Reserve left its target range at 3.50% to 3.75% at 18:00 GMT, three voting members dissenting in favour of an immediate quarter-point increase. Equities bought the hold and ignored the split, the index adding roughly 200 points in the minutes after the headline to trade near 52,100.",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-finds-a-bid-in-the-thing-the-fed-did-not-do-202607291810",
+      "published": "2026-07-29T18:10:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound Sterling collects a refund on the Fed hike that never came",
+      "summary": "The Federal Reserve held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase.",
+      "link": "https://www.fxstreet.com/news/british-pound-sterling-collects-a-refund-on-the-fed-hike-that-never-came-202607291809",
+      "published": "2026-07-29T18:09:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold surges after Fed holds as hawkish dissent fuels volatility",
+      "summary": "Gold price rises during the North American session after the Federal Reserve decided to hold rates unchanged, with a 9-3 vote split, as three members of the FOMC opted to increase the Fed funds rate by 25 basis points.",
+      "link": "https://www.fxstreet.com/news/gold-surges-after-fed-holds-as-hawkish-dissent-fuels-volatility-202607291809",
+      "published": "2026-07-29T18:09:11+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The US Dollar Index sells the hold and ignores the hawks",
+      "summary": "A 9-3 vote held the federal funds target range at 3.50% to 3.75% at 18:00 GMT, the three dissenters all preferring an immediate quarter-point increase.",
+      "link": "https://www.fxstreet.com/news/the-us-dollar-index-sells-the-hold-and-ignores-the-hawks-202607291808",
+      "published": "2026-07-29T18:08:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "RT by @KobeissiLetter: SUMMARY OF FED DECISION (7/29/2026): 1. Fed leaves rates unchanged for the 5th straight meeting 2. Fed votes 9-3 to hold benchmark rate in 3.50%-3.75% zone 3. Hammack, Kashkari, and Logan dissent in favor of rate hike 4. Fed says economic activity is expanding at a \"solid pace\" despite uncertainty 5. Fed says job gains have \"kept pace with the workforce\" 6. Fed says it remains committed to its 2% inflation goal The longest Fed pause since the 2008 cycle continues.",
+      "summary": "<p>SUMMARY OF FED DECISION (7/29/2026):<br />\n<br />\n1. Fed leaves rates unchanged for the 5th straight meeting<br />\n<br />\n2. Fed votes 9-3 to hold benchmark rate in 3.50%-3.75% zone<br />\n<br />\n3. Hammack, Kashkari, and Logan dissent in favor of rate hike<br />\n<br />\n4. Fed says economic activity is expanding at a \"solid pace\" despite uncertainty<br />\n<br />\n5. Fed says job gains have \"kept ",
+      "link": "https://nitter.net/KobeissiLetter/status/2082527378312745188#m",
+      "published": "2026-07-29T18:03:13+00:00",
+      "score": 3
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: In one of the most divided decisions in years, the Federal Reserve leaves interest rates unchanged. This marks the 5th consecutive meeting with no change in rates, extending the Fed’s longest pause since the 2008 cycle.",
+      "summary": "<p>BREAKING: In one of the most divided decisions in years, the Federal Reserve leaves interest rates unchanged.<br />\n<br />\nThis marks the 5th consecutive meeting with no change in rates, extending the Fed’s longest pause since the 2008 cycle.</p>",
+      "link": "https://nitter.net/KobeissiLetter/status/2082526632506450097#m",
+      "published": "2026-07-29T18:00:15+00:00",
+      "score": 2
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve issues FOMC statement",
+      "summary": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "published": "2026-07-29T18:00:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso tumbles as Gulf War escalation weighs on mood, Fed eyed",
+      "summary": "The Mexican Peso loses ground against the US Dollar on Wednesday as risk appetite turns sour amid the escalation of the Gulf War, while traders await the Federal Reserve’s (Fed) monetary policy decision. The USD/MXN trades at 17.51, up 0.47%.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-tumbles-as-gulf-war-escalation-weighs-on-mood-fed-eyed-202607291747",
+      "published": "2026-07-29T17:47:14+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Bank of Canada shows its work, while the Canadian Dollar reads Washington",
+      "summary": "The Bank of Canada published the deliberations behind its July 15 hold this morning, roughly half an hour before the Federal Reserve (Fed) announces whether it does the same thing.",
+      "link": "https://www.fxstreet.com/news/the-bank-of-canada-shows-its-work-while-the-canadian-dollar-reads-washington-202607291744",
+      "published": "2026-07-29T17:44:19+00:00",
       "score": 1
     },
     {
@@ -129,102 +390,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. STOCKS EXTEND FALL, S&P 500 DOWN 1.00 PCT",
-      "summary": "<p>U.S. STOCKS EXTEND FALL, S&amp;P 500 DOWN 1.00 PCT</p>",
-      "link": "https://nitter.net/DeItaone/status/2082495254691827993#m",
-      "published": "2026-07-29T15:55:34+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "Traders are making record bets on the Fed's next move: Open interest in the August federal funds futures contract, which settles after this week's Fed decision, is up to a record 967,136 contracts. The total number of outstanding contracts has more than doubled since the 2nd week of June. This also surpasses the prior record set in October 2024, when uncertainty around the Fed decision was similarly elevated. This comes as the market is pricing in a ~36% chance of a rate hike today. To put this into perspective, since the end of the 2008 Financial Crisis, the Fed has held 135 FOMC meetings, and only 4 of them, or 3%, have seen the odds of a hike sit between 33% and 66% in the days leading up to the decision, according to Bianco Research. Markets have rarely been this uncertain about a Fed decision.",
       "summary": "<p>Traders are making record bets on the Fed's next move:<br />\n<br />\nOpen interest in the August federal funds futures contract, which settles after this week's Fed decision, is up to a record 967,136 contracts.<br />\n<br />\nThe total number of outstanding contracts has more than doubled since the 2nd week of June.<br />\n<br />\nThis also surpasses the prior record set in October 2024, when uncer",
       "link": "https://nitter.net/KobeissiLetter/status/2082494951393210464#m",
       "published": "2026-07-29T15:54:21+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "BOFA CLIENTS KEEP BUYING THE DIP Bank of America clients remained aggressive buyers of U.S. equities last week, extending their buying streak to four consecutive weeks, even as the S&P 500 slipped 0.6%. Institutional investors led the move, posting their largest weekly net purchases since December 2020 and the second-biggest on BofA's records dating back to 2008. Retail investors also continued buying, while hedge funds were net sellers for a third straight week. Technology, Financials and Industrials attracted the strongest inflows, with Industrials seeing record demand after months of outflows. Communication Services, Energy and Materials were the weakest sectors. Corporate buybacks slowed during earnings season but remain supportive overall, with BofA's four-week average buyback activity running 19% above year-ago levels.",
-      "summary": "<p>BOFA CLIENTS KEEP BUYING THE DIP<br />\n<br />\nBank of America clients remained aggressive buyers of U.S. equities last week, extending their buying streak to four consecutive weeks, even as the S&amp;P 500 slipped 0.6%.<br />\n<br />\nInstitutional investors led the move, posting their largest weekly net purchases since December 2020 and the second-biggest on BofA's records dating back to 2008. R",
-      "link": "https://nitter.net/DeItaone/status/2082493562722099642#m",
-      "published": "2026-07-29T15:48:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold remains under pressure near $4,000 as Fed decision looms",
-      "summary": "Gold (XAU/USD) trades lower near the $4,003 area on Wednesday, extending its recent decline as investors remain cautious ahead of the Federal Reserve’s (Fed) monetary policy announcement.",
-      "link": "https://www.fxstreet.com/news/gold-remains-under-pressure-near-4-000-as-fed-decision-looms-202607291548",
-      "published": "2026-07-29T15:48:16+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound holds below 1.33 as Trump warns Iran, Oil jumps",
-      "summary": "The Pound Sterling holds firm on Wednesday as the US-Iran conflict escalates, with US President Donald Trump warning of further attacks on Iran in retaliation for Tehran's strikes on US forces in Jordan. The GBP/USD trades below 1.3300, barely unchanged.",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-below-133-as-trump-warns-iran-oil-jumps-202607291530",
-      "published": "2026-07-29T15:30:31+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: Hawkish hold may offer US Dollar limited support – BNY",
-      "summary": "BNY’s Geoff Yu highlights that markets face a genuinely live Federal Reserve (Fed) decision, with futures implying about a 35% chance of a hike and a hold still the base case.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-hawkish-hold-may-offer-us-dollar-limited-support-bny-202607291517",
-      "published": "2026-07-29T15:17:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen faces its moment of truth ahead of Fed decision",
-      "summary": "USD/JPY trades around 163.80 on Wednesday at the time of writing, virtually unchanged on the day, as investors remain cautious ahead of the Federal Reserve's (Fed) monetary policy decision, which is due later in the day.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-faces-its-moment-of-truth-ahead-of-fed-decision-202607291502",
-      "published": "2026-07-29T15:02:57+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Range holds against USD with Fed and BoC in focus – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret describe USD/CAD as broadly stable around 1.41, with Canadian Dollar (CAD) performance driven mainly by front‑end rate differentials despite support from stronger Oil prices.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-range-holds-against-usd-with-fed-and-boc-in-focus-scotiabank-202607291454",
-      "published": "2026-07-29T14:54:44+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar extends decline ahead of Fed's decision",
-      "summary": "AUD/USD trades 0.4% lower near the 0.6945 area on Wednesday, extending its recent decline as the Australian Dollar (AUD) weakens following softer-than-expected domestic inflation data.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-extends-decline-ahead-of-feds-decision-202607291450",
-      "published": "2026-07-29T14:50:05+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro holds below 1.1400 against US Dollar as Fed interest rate decision looms",
-      "summary": "EUR/USD struggles below 1.1400 on Wednesday as traders brace for the Federal Reserve’s (Fed) interest-rate decision at 18:00 GMT, while the war in the Middle East fuels volatility across financial markets. At the time of writing, the pair trades around 1.1393, little changed on the day.",
-      "link": "https://www.fxstreet.com/news/euro-holds-below-11400-against-us-dollar-as-fed-interest-rate-decision-looms-202607291431",
-      "published": "2026-07-29T14:31:22+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Fed risk caps CTA upside – TD Securities",
-      "summary": "TD Securities’ Ryan McKay and Bart Melek note that Gold remains under pressure as markets price a hawkish Federal Reserve (Fed) path and renewed energy strength.",
-      "link": "https://www.fxstreet.com/news/gold-fed-risk-caps-cta-upside-td-securities-202607291424",
-      "published": "2026-07-29T14:24:40+00:00",
       "score": 2
     },
     {
@@ -239,11 +410,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Federal Reserve set to hold interest rates as pressure to hike mounts",
-      "summary": "The United States (US) Federal Reserve (Fed) announces its interest rate decision on Wednesday, another pivotal meeting for markets to gauge the stance of policymakers as they assess how rising crude Oil prices could impact the inflation outlook.",
+      "title": "Chair Warsh discusses the outlook after holding rates steady",
+      "summary": "At the post-meeting press conference, Fed Chair Kevin Warsh explains why policymakers decided to keep interest rates unchanged after the July meeting and takes questions from reporters about the decision.",
       "link": "https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-steady-yet-a-hike-cant-be-ruled-out-202607291400",
       "published": "2026-07-29T14:00:00+00:00",
-      "score": 3
+      "score": 2
     },
     {
       "source": "Kobeissi Letter",
@@ -255,33 +426,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FED DECISION: JPM'S MARKET PLAYBOOK JPMorgan expects the Fed to hold rates, despite markets pricing a sizable chance of a surprise hike. Its base case is a hawkish hold (50%), leaving the S&P 500 roughly flat to down 0.5%. A dovish hold could lift stocks up to 1%, while a 25bp hike could send the S&P 500 down 1.5%-2%, with tech stocks likely hit hardest.",
-      "summary": "<p>FED DECISION: JPM'S MARKET PLAYBOOK<br />\n<br />\nJPMorgan expects the Fed to hold rates, despite markets pricing a sizable chance of a surprise hike.<br />\n<br />\nIts base case is a hawkish hold (50%), leaving the S&amp;P 500 roughly flat to down 0.5%.<br />\n<br />\nA dovish hold could lift stocks up to 1%, while a 25bp hike could send the S&amp;P 500 down 1.5%-2%, with tech stocks likely hit ha",
-      "link": "https://nitter.net/DeItaone/status/2082449654331936887#m",
-      "published": "2026-07-29T12:54:22+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$UAL - TRUMP, UNITED AIRLINES CEO KIRBY TO UNVEIL $22 BILLION PLAN TO EXPAND, IMPROVE WASHINGTON DULLES AIRPORT - SOURCES",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23UAL\">$UAL</a>  - TRUMP, UNITED AIRLINES CEO KIRBY TO UNVEIL $22 BILLION PLAN TO EXPAND, IMPROVE WASHINGTON DULLES AIRPORT - SOURCES</p>",
-      "link": "https://nitter.net/DeItaone/status/2082444866341019677#m",
-      "published": "2026-07-29T12:35:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: 'WE'LL HIT THEM HARD' President Trump vowed a forceful response after U.S. forces intercepted an Iranian missile attack in Jordan, saying, \"We're going to beat the effing S out of them\" and \"We'll be hitting them hard.\" He also said overnight U.S.-Saudi strikes on Iran-backed militias in Iraq were coordinated with Baghdad and warned further action against Iranian proxies is under consideration.",
-      "summary": "<p>TRUMP: 'WE'LL HIT THEM HARD'<br />\n<br />\nPresident Trump vowed a forceful response after U.S. forces intercepted an Iranian missile attack in Jordan, saying, \"We're going to beat the effing S out of them\" and \"We'll be hitting them hard.\"<br />\n<br />\nHe also said overnight U.S.-Saudi strikes on Iran-backed militias in Iraq were coordinated with Baghdad and warned further action against Irania",
-      "link": "https://nitter.net/DeItaone/status/2082444602779308236#m",
-      "published": "2026-07-29T12:34:17+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says the US will respond to Iranian strikes on a US airbase in Jordan. US oil prices extend gains to +7% on the day.",
@@ -289,60 +433,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2082443165982765196#m",
       "published": "2026-07-29T12:28:35+00:00",
       "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "S&P 500, NASDAQ FUTURES TURN NEGATIVE AFTER TRUMP'S COMMENTS ON IRAN",
-      "summary": "<p>S&amp;P 500, NASDAQ FUTURES TURN NEGATIVE AFTER TRUMP'S COMMENTS ON IRAN</p>\n<hr />\n<blockquote>\n<b>*Walter Bloomberg (@DeItaone)</b>\n<p>\n<p>TRUMP TO FOX: WE'LL BE HITTING IRAN HARD</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/DeItaone/status/2082440499802054672#m\">https://nitter.net/DeItaone/status/2082440499802054672#m</a>\n</footer>\n</blockquote>",
-      "link": "https://nitter.net/DeItaone/status/2082440866203849173#m",
-      "published": "2026-07-29T12:19:27+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP TO FOX: WE'LL BE HITTING IRAN HARD",
-      "summary": "<p>TRUMP TO FOX: WE'LL BE HITTING IRAN HARD</p>",
-      "link": "https://nitter.net/DeItaone/status/2082440499802054672#m",
-      "published": "2026-07-29T12:17:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: U.S. STRIKES WILL TAKE PLACE AGAINST IRAN IN RESPONSE TO ATTACKS ON U.S. TARGETS IN JORDAN -FOX",
-      "summary": "<p>TRUMP: U.S. STRIKES WILL TAKE PLACE AGAINST IRAN IN RESPONSE TO ATTACKS ON U.S. TARGETS IN JORDAN -FOX</p>",
-      "link": "https://nitter.net/DeItaone/status/2082440321179193454#m",
-      "published": "2026-07-29T12:17:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: GOING TO LET THEM KEEP TALKING -FOX INTERVIEW",
-      "summary": "<p>TRUMP ON IRAN: GOING TO LET THEM KEEP TALKING -FOX INTERVIEW</p>",
-      "link": "https://nitter.net/DeItaone/status/2082440283812147347#m",
-      "published": "2026-07-29T12:17:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The officially the most uncertain Fed day in years. Our view remains unchanged: no Fed hike today.",
-      "summary": "<p>The officially the most uncertain Fed day in years.<br />\n<br />\nOur view remains unchanged: no Fed hike today.</p>\n<img src=\"https://nitter.net/pic/media%2FHOZDERiW8AAhtNC.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2082425621561442615#m",
-      "published": "2026-07-29T11:18:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold struggles near $4,000 ahead of Federal Reserve policy verdict",
-      "summary": "Gold (XAU/USD) consolidates above $4,000 on Wednesday as price action remains choppy amid growing caution ahead of the Federal Reserve’s (Fed) monetary policy announcement, while the war in the Middle East intensifies again after a brief lull.",
-      "link": "https://www.fxstreet.com/news/gold-struggles-for-direction-ahead-of-federal-reserve-policy-verdict-202607291108",
-      "published": "2026-07-29T11:08:44+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
@@ -370,15 +460,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v8s08x/audusd_outlook_4h/",
       "published": "2026-07-28T08:19:11+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Asking for instructional guidance regarding using ai to run a meta trader 5 expert advisor",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all so I have a prop fund account worth $100,000 with ftuk and I have copilot with the latest version of meta trader 5 but copilot is based on chat gpt 5.6 so please provide instructions on how to find a and insert a plug-in so that a bridge would be set up to use the built-in ChatGPT 5.6 that’s inside of the latest version of copilot for Microsoft 365 personal",
-      "link": "https://www.reddit.com/r/Forex/comments/1v8lyaa/asking_for_instructional_guidance_regarding_using/",
-      "published": "2026-07-28T03:05:14+00:00",
-      "score": 2
     },
     {
       "source": "Federal Reserve",
@@ -523,15 +604,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
       "published": "2026-06-17T18:00:00+00:00",
       "score": 2
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
-      "summary": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
-      "published": "2026-06-11T15:00:00+00:00",
-      "score": 1
     }
   ],
   "errors": []
