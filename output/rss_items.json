@@ -1,7 +1,133 @@
 {
-  "updated_at": "2026-07-29T00:57:38.196152+00:00",
-  "count": 57,
+  "updated_at": "2026-07-29T04:19:27.947105+00:00",
+  "count": 59,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Bank of Korea Governor Shin: maintaining tightening stance most rational to curb core inflation",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9697753/Bank-of-Korea-Governor-Shin-maintaining-tightening-stance-most-rational-to-curb-core-inflation.aspx?xy=rss",
+      "published": "2026-07-29T03:35:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD gains even as oil prices rebound, Fed policy awaited",
+      "summary": "Silver price (XAG/USD) trades 1.14% higher to near $57.80 during the Asian trading session on Wednesday. The white metal gains even as oil prices rebound strongly due to renewed conflicts between the United States (US) and Iran.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-gains-even-as-oil-prices-rebound-fed-policy-awaited-202607290312",
+      "published": "2026-07-29T03:12:09+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro advances as US Dollar declines ahead of Fed policy decision",
+      "summary": "EUR/USD holds ground for the second successive day, trading around 1.1390 during the Asian hours on Wednesday.",
+      "link": "https://www.fxstreet.com/news/euro-advances-as-us-dollar-declines-ahead-of-fed-policy-decision-202607290300",
+      "published": "2026-07-29T03:00:55+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Any robust and profitable EURUSD automated strategy?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi Guys! I'm researching using AI about strategies that can be automated for EURUSD pair, no scalping, no HFT, grid, hedge or martingale. I tested some using Python and Dukascopy data, I would find nothing profitable testing the last 10 years. Anyone could find good strategies with these constraints?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https",
+      "link": "https://www.reddit.com/r/Forex/comments/1v9jqbx/any_robust_and_profitable_eurusd_automated/",
+      "published": "2026-07-29T02:58:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar remains on the front foot as USD bulls turn cautious ahead of Fed decision",
+      "summary": "The USD/CAD pair is seen consolidating around the 1.4100 mark during the Asian session as traders keenly await the outcome of a two-day FOMC policy meeting, due later this Wednesday.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-on-the-front-foot-as-usd-bulls-turn-cautious-ahead-of-fed-decision-202607290242",
+      "published": "2026-07-29T02:42:23+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index (DXY) flat below 101.50 as bulls await FOMC amid Iran risks",
+      "summary": "The United States Dollar Index (DXY), which tracks the Greenback against a basket of currencies, is seen consolidating below the 101.50 level during the Asian session as traders await the outcome of a two-day FOMC meeting, due later this Wednesday.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-flat-below-10150-as-bulls-await-fomc-amid-iran-risks-202607290200",
+      "published": "2026-07-29T02:00:48+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar falls to one-week low vs Yen as soft CPI triggers heavy selling",
+      "summary": "The AUD/JPY cross extends this week's retracement slide from the 114.65 zone, or its highest level since June 3, and attracts some follow-through selling for the second straight day.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-falls-to-one-week-low-vs-yen-as-soft-cpi-triggers-heavy-selling-202607290151",
+      "published": "2026-07-29T01:51:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar slips as softer inflation cools domestic rate expectations",
+      "summary": "AUD/USD depreciates for the second successive day, trading around 0.6970 during the Asian hours on Wednesday. The pair falls as the Australian Dollar (AUD) continues to struggle following the release of domestic Consumer Price Index (CPI) data.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-softer-inflation-cools-domestic-rate-expectations-202607290143",
+      "published": "2026-07-29T01:43:54+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australian CPI YoY Actual 4.0% (Forecast -, Previous 4.1%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9697564/Australian-CPI-YoY-Actual-40-Forecast---Previous-41.aspx?xy=rss",
+      "published": "2026-07-29T01:33:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australia Q2 CPI (all groups) rises 4.0% yr/yr, slightly below poll of 4.1%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9697565/Australia-Q2-CPI-all-groups-rises-40-yryr-slightly-below-poll-of-41.aspx?xy=rss",
+      "published": "2026-07-29T01:32:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: RBA Weighted Mean CPI YoY Actual 3.6% (Forecast -, Previous 3.5%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9697552/RBA-Weighted-Mean-CPI-YoY-Actual-36-Forecast---Previous-35.aspx?xy=rss",
+      "published": "2026-07-29T01:32:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: RBA Weighted Median CPI QoQ Actual 0.7% (Forecast -, Previous 0.8%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9697548/RBA-Weighted-Median-CPI-QoQ-Actual-07-Forecast---Previous-08.aspx?xy=rss",
+      "published": "2026-07-29T01:31:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen holds ground despite rising oil prices",
+      "summary": "USD/JPY loses ground after registering minor gains in the previous day, trading around 163.70 during the Asian hours on Wednesday. The pair may regain ground as the Japanese Yen could come under pressure from rebounding oil prices.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-holds-ground-despite-rising-oil-prices-202607290122",
+      "published": "2026-07-29T01:22:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7899 vs. 6.7928 previous",
+      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7899 compared to the previous day's fix of 6.7928.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67899-vs-67928-previous-202607290115",
+      "published": "2026-07-29T01:15:31+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -10,15 +136,6 @@
       "link": "https://www.fxstreet.com/news/gold-holds-losses-near-4-000-due-to-middle-east-tensions-fed-rate-uncertainty-202607290056",
       "published": "2026-07-29T00:56:18+00:00",
       "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: meeting with Ukraine's Zelenskiy went 'very well'",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9697502/Trump-meeting-with-Ukraines-Zelenskiy-went-very-well.aspx",
-      "published": "2026-07-29T00:55:48+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -30,49 +147,13 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Zelenskiy: I told Trump, senators Ukraine's main issue is shortage of anti-ballistic systems and missiles",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9697433/Zelenskiy-I-told-Trump-senators-Ukraines-main-issue-is-shortage-of-anti-ballistic-systems-and-missiles.aspx",
-      "published": "2026-07-28T23:23:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: U.S. Senate Approves Trump Pick Jay Clayton as Director of National Intelligence by 51-47",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9697420/US-Senate-Approves-Trump-Pick-Jay-Clayton-as-Director-of-National-Intelligence-by-51-47.aspx",
-      "published": "2026-07-28T23:14:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Majority of U.S. Senate backs Trump nominee Jay Clayton for director of national intelligence, voting ongoing",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9697419/Majority-of-US-Senate-backs-Trump-nominee-Jay-Clayton-for-director-of-national-intelligence-voting-ongoing.aspx",
-      "published": "2026-07-28T23:12:57+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "Australia CPI projected to arrive at 4% for June",
-      "summary": "The Australian Bureau of Statistics (ABS) will publish the June Consumer Price Index (CPI)  on Wednesday at 01:30 GMT. The report is expected to show that inflation rose 4% from a year earlier, matching the May reading. The monthly CPI is foreseen at 0.2% following the -0.7% print from May.",
+      "title": "Australia’s CPI inflation cools to 3.8% YoY in June vs. 4% forecast",
+      "summary": "Australia’s Consumer Price Index (CPI) increased by 3.8% year-over-year (YoY) in June, compared to a 4% growth reported in May, the latest data published by the Australian Bureau of Statistics (ABS) showed on Wednesday.",
       "link": "https://www.fxstreet.com/news/australia-cpi-could-boost-aussie-if-inflation-arrives-above-4-202607282230",
       "published": "2026-07-28T22:30:00+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Chile central bank board: will take all actions needed to ensure projected inflation remains at 3% over two years",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9697346/Chile-central-bank-board-will-take-all-actions-needed-to-ensure-projected-inflation-remains-at-3-over-two-years.aspx",
-      "published": "2026-07-28T22:01:17+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -84,57 +165,12 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States: Supercore and measurement debates shape Fed path – BNY",
-      "summary": "BNY strategists John Velis and David Tam see elevated US supercore inflation as a key argument for further tightening but still favor a July hold.",
-      "link": "https://www.fxstreet.com/news/united-states-supercore-and-measurement-debates-shape-fed-path-bny-202607282039",
-      "published": "2026-07-28T20:39:00+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The Trump Administration is planning to end a subsidy program that helped hold down premiums for Medicare drug plans, per WSJ. Details include: 1. The move will eliminate a program that is giving insurance companies an estimated $3.6 billion in subsidies this year 2. These funds are currently used to blunt increases in premiums for the Medicare prescription plans, known as Part D 3. Roughly 25 million people have Part D plans, and they will learn about their 2027 rates in the fall 4. Around 75% of Part D plan enrollees are expected see premiums for their plans increase Medicare remains a key area of focus for the Trump Admin.",
       "summary": "<p>BREAKING: The Trump Administration is planning to end a subsidy program that helped hold down premiums for Medicare drug plans, per WSJ.<br />\n<br />\nDetails include:<br />\n<br />\n1. The move will eliminate a program that is giving insurance companies an estimated $3.6 billion in subsidies this year<br />\n<br />\n2. These funds are currently used to blunt increases in premiums for the Medicare p",
       "link": "https://nitter.net/KobeissiLetter/status/2082201641978392952#m",
       "published": "2026-07-28T20:28:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar eases ahead of Fed as Oil and Gold extend losses",
-      "summary": "The US Dollar (USD) trades slightly lower on Tuesday as investors reduce some exposure ahead of Wednesday’s Federal Reserve (Fed) monetary policy announcement.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-eases-ahead-of-fed-as-oil-and-gold-extend-losses-202607282015",
-      "published": "2026-07-28T20:15:14+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso advances within range against the US Dollar",
-      "summary": "USD/MXN trades around 17.40 on Tuesday, posting modest losses for a third consecutive session. The US Dollar (USD) retains a broadly firm tone despite softer-than-expected United States (US) data, as investors await the Federal Reserve’s (Fed) monetary policy announcement on Wednesday.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-advances-within-range-against-the-us-dollar-202607282001",
-      "published": "2026-07-28T20:01:47+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver: Forecast cut but deficit supports upside – Commerzbank",
-      "summary": "Commerzbank’s Norman Liebke reports that Silver has fallen from USD 70 to USD 57.50 per troy ounce and that the bank has lowered its forecasts, now seeing USD 67 by year-end and USD 80 by end‑2027.",
-      "link": "https://www.fxstreet.com/news/silver-forecast-cut-but-deficit-supports-upside-commerzbank-202607281942",
-      "published": "2026-07-28T19:42:38+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen holds as markets await Tokyo inflation data",
-      "summary": "USD/JPY trades slightly higher near the 163.80 area on Tuesday, remaining close to multi-decade highs as the Japanese Yen (JPY) struggles to attract demand. Softer United States (US) consumer confidence data limited the US Dollar’s advance, although the pair maintained its upward bias.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-holds-as-markets-await-tokyo-inflation-data-202607281901",
-      "published": "2026-07-28T19:01:52+00:00",
       "score": 2
     },
     {
@@ -165,15 +201,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc steadies against US Dollar as Fed decision looms",
-      "summary": "The Swiss Franc (CHF) steadies against the US Dollar (USD) on Tuesday as the Greenback gives up its early gains, with traders turning cautious ahead of the Federal Reserve’s (Fed) monetary policy announcement on Wednesday.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-steadies-against-us-dollar-as-fed-decision-looms-202607281801",
-      "published": "2026-07-28T18:01:29+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "Tomorrow is going to be a historic day. Market expectations for tomorrow's Fed decision are among the most divided in recent history. Currently, interest rate futures imply a ~30% chance of a rate hike and a ~70% chance of rates remaining unchanged. By comparison, nearly every Fed meeting since March 2020 has entered decision day with ~99% consensus. Adding to the uncertainty, Fed Chair Warsh has effectively eliminated forward guidance, leaving markets with little direction ahead of the announcement. That said, we continue to believe that the Fed will NOT hike interest rates tomorrow. It's important to not forget that just months ago, President Trump said a \"pre-condition\" for his next Fed Chair was a willingness to cut rates. And, the Iran War energy shock is likely to continue being labeled as a \"temporary inflationary event\" rather than a structural one, the labor market is weak, and Americans are already struggling with high interest rates. We think the Fed PAUSE continues tomorrow.",
@@ -190,15 +217,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1v94whb/forex/",
       "published": "2026-07-28T17:19:55+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver loses ground as hopes for US-Iran deal improve risk appetite",
-      "summary": "Silver (XAG/USD) trades around $57.40 on Tuesday at the time of writing, down 1.7% on the day. The white metal is under pressure as the US Dollar (USD) loses some strength and investors reduce their exposure to safe-haven assets ahead of the Federal Reserve's (Fed) monetary policy decision.",
-      "link": "https://www.fxstreet.com/news/silver-loses-ground-as-hopes-for-us-iran-deal-improve-risk-appetite-202607281605",
-      "published": "2026-07-28T16:05:37+00:00",
-      "score": 5
     },
     {
       "source": "Walter Bloomberg",
