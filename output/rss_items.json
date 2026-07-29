@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-07-29T14:42:59.155204+00:00",
-  "count": 46,
+  "updated_at": "2026-07-29T16:11:45.597167+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Options signal downside risk against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note that EUR/USD is consolidating within a very tight range in the mid-to-upper 1.13s.",
+      "link": "https://www.fxstreet.com/news/euro-options-signal-downside-risk-against-us-dollar-scotiabank-202607291556",
+      "published": "2026-07-29T15:56:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "Traders are making record bets on the Fed's next move: Open interest in the August federal funds futures contract, which settles after this week's Fed decision, is up to a record 967,136 contracts. The total number of outstanding contracts has more than doubled since the 2nd week of June. This also surpasses the prior record set in October 2024, when uncertainty around the Fed decision was similarly elevated. This comes as the market is pricing in a ~36% chance of a rate hike today. To put this into perspective, since the end of the 2008 Financial Crisis, the Fed has held 135 FOMC meetings, and only 4 of them, or 3%, have seen the odds of a hike sit between 33% and 66% in the days leading up to the decision, according to Bianco Research. Markets have rarely been this uncertain about a Fed decision.",
+      "summary": "<p>Traders are making record bets on the Fed's next move:<br />\n<br />\nOpen interest in the August federal funds futures contract, which settles after this week's Fed decision, is up to a record 967,136 contracts.<br />\n<br />\nThe total number of outstanding contracts has more than doubled since the 2nd week of June.<br />\n<br />\nThis also surpasses the prior record set in October 2024, when uncer",
+      "link": "https://nitter.net/KobeissiLetter/status/2082494951393210464#m",
+      "published": "2026-07-29T15:54:21+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BOFA CLIENTS KEEP BUYING THE DIP Bank of America clients remained aggressive buyers of U.S. equities last week, extending their buying streak to four consecutive weeks, even as the S&P 500 slipped 0.6%. Institutional investors led the move, posting their largest weekly net purchases since December 2020 and the second-biggest on BofA's records dating back to 2008. Retail investors also continued buying, while hedge funds were net sellers for a third straight week. Technology, Financials and Industrials attracted the strongest inflows, with Industrials seeing record demand after months of outflows. Communication Services, Energy and Materials were the weakest sectors. Corporate buybacks slowed during earnings season but remain supportive overall, with BofA's four-week average buyback activity running 19% above year-ago levels.",
+      "summary": "<p>BOFA CLIENTS KEEP BUYING THE DIP<br />\n<br />\nBank of America clients remained aggressive buyers of U.S. equities last week, extending their buying streak to four consecutive weeks, even as the S&amp;P 500 slipped 0.6%.<br />\n<br />\nInstitutional investors led the move, posting their largest weekly net purchases since December 2020 and the second-biggest on BofA's records dating back to 2008. R",
+      "link": "https://nitter.net/DeItaone/status/2082493562722099642#m",
+      "published": "2026-07-29T15:48:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold remains under pressure near $4,000 as Fed decision looms",
+      "summary": "Gold (XAU/USD) trades lower near the $4,003 area on Wednesday, extending its recent decline as investors remain cautious ahead of the Federal Reserve’s (Fed) monetary policy announcement.",
+      "link": "https://www.fxstreet.com/news/gold-remains-under-pressure-near-4-000-as-fed-decision-looms-202607291548",
+      "published": "2026-07-29T15:48:16+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound holds below 1.33 as Trump warns Iran, Oil jumps",
+      "summary": "The Pound Sterling holds firm on Wednesday as the US-Iran conflict escalates, with US President Donald Trump warning of further attacks on Iran in retaliation for Tehran's strikes on US forces in Jordan. The GBP/USD trades below 1.3300, barely unchanged.",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-below-133-as-trump-warns-iran-oil-jumps-202607291530",
+      "published": "2026-07-29T15:30:31+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: Hawkish hold may offer US Dollar limited support – BNY",
+      "summary": "BNY’s Geoff Yu highlights that markets face a genuinely live Federal Reserve (Fed) decision, with futures implying about a 35% chance of a hike and a hold still the base case.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-hawkish-hold-may-offer-us-dollar-limited-support-bny-202607291517",
+      "published": "2026-07-29T15:17:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen faces its moment of truth ahead of Fed decision",
+      "summary": "USD/JPY trades around 163.80 on Wednesday at the time of writing, virtually unchanged on the day, as investors remain cautious ahead of the Federal Reserve's (Fed) monetary policy decision, which is due later in the day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-faces-its-moment-of-truth-ahead-of-fed-decision-202607291502",
+      "published": "2026-07-29T15:02:57+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Range holds against USD with Fed and BoC in focus – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret describe USD/CAD as broadly stable around 1.41, with Canadian Dollar (CAD) performance driven mainly by front‑end rate differentials despite support from stronger Oil prices.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-range-holds-against-usd-with-fed-and-boc-in-focus-scotiabank-202607291454",
+      "published": "2026-07-29T14:54:44+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar extends decline ahead of Fed's decision",
+      "summary": "AUD/USD trades 0.4% lower near the 0.6945 area on Wednesday, extending its recent decline as the Australian Dollar (AUD) weakens following softer-than-expected domestic inflation data.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-extends-decline-ahead-of-feds-decision-202607291450",
+      "published": "2026-07-29T14:50:05+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -32,11 +113,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Federal Reserve set to hold interest rates steady, yet a hike can’t be ruled out",
+      "title": "Federal Reserve widely expected to stand pat as markets increase bets of imminent interest-rate hike",
       "summary": "The United States (US) Federal Reserve (Fed) announces its interest rate decision on Wednesday, another pivotal meeting for markets to gauge the stance of policymakers as they assess how rising crude Oil prices could impact the inflation outlook.",
       "link": "https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-steady-yet-a-hike-cant-be-ruled-out-202607291400",
       "published": "2026-07-29T14:00:00+00:00",
-      "score": 3
+      "score": 2
     },
     {
       "source": "Kobeissi Letter",
@@ -55,15 +136,6 @@
       "link": "https://www.fxstreet.com/news/swiss-national-bank-rates-seen-on-prolonged-hold-commerzbank-202607291337",
       "published": "2026-07-29T13:37:58+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: -128 mln<br />Nasdaq 100: -42 mln<br />Dow 30: -103 mln<br />Mag 7: -32 mln",
-      "link": "https://www.financialjuice.com/News/9698494/MOO-Imbalance.aspx?xy=rss",
-      "published": "2026-07-29T13:30:36+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -102,12 +174,30 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Effective Fed funds rate 3.63% July 28th vs 3.63% July 27th.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9698448/Effective-Fed-funds-rate-363-July-28th-vs-363-July-27th.aspx?xy=rss",
-      "published": "2026-07-29T12:59:41+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED DECISION: JPM'S MARKET PLAYBOOK JPMorgan expects the Fed to hold rates, despite markets pricing a sizable chance of a surprise hike. Its base case is a hawkish hold (50%), leaving the S&P 500 roughly flat to down 0.5%. A dovish hold could lift stocks up to 1%, while a 25bp hike could send the S&P 500 down 1.5%-2%, with tech stocks likely hit hardest.",
+      "summary": "<p>FED DECISION: JPM'S MARKET PLAYBOOK<br />\n<br />\nJPMorgan expects the Fed to hold rates, despite markets pricing a sizable chance of a surprise hike.<br />\n<br />\nIts base case is a hawkish hold (50%), leaving the S&amp;P 500 roughly flat to down 0.5%.<br />\n<br />\nA dovish hold could lift stocks up to 1%, while a 25bp hike could send the S&amp;P 500 down 1.5%-2%, with tech stocks likely hit ha",
+      "link": "https://nitter.net/DeItaone/status/2082449654331936887#m",
+      "published": "2026-07-29T12:54:22+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$UAL - TRUMP, UNITED AIRLINES CEO KIRBY TO UNVEIL $22 BILLION PLAN TO EXPAND, IMPROVE WASHINGTON DULLES AIRPORT - SOURCES",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23UAL\">$UAL</a>  - TRUMP, UNITED AIRLINES CEO KIRBY TO UNVEIL $22 BILLION PLAN TO EXPAND, IMPROVE WASHINGTON DULLES AIRPORT - SOURCES</p>",
+      "link": "https://nitter.net/DeItaone/status/2082444866341019677#m",
+      "published": "2026-07-29T12:35:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: 'WE'LL HIT THEM HARD' President Trump vowed a forceful response after U.S. forces intercepted an Iranian missile attack in Jordan, saying, \"We're going to beat the effing S out of them\" and \"We'll be hitting them hard.\" He also said overnight U.S.-Saudi strikes on Iran-backed militias in Iraq were coordinated with Baghdad and warned further action against Iranian proxies is under consideration.",
+      "summary": "<p>TRUMP: 'WE'LL HIT THEM HARD'<br />\n<br />\nPresident Trump vowed a forceful response after U.S. forces intercepted an Iranian missile attack in Jordan, saying, \"We're going to beat the effing S out of them\" and \"We'll be hitting them hard.\"<br />\n<br />\nHe also said overnight U.S.-Saudi strikes on Iran-backed militias in Iraq were coordinated with Baghdad and warned further action against Irania",
+      "link": "https://nitter.net/DeItaone/status/2082444602779308236#m",
+      "published": "2026-07-29T12:34:17+00:00",
       "score": 1
     },
     {
@@ -120,58 +210,49 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Stretched positioning caps gains against peers – BNY",
-      "summary": "BNY’s Geoff Yu notes the US Dollar (USD) enters the Federal Open Market Committee (FOMC) with strong recent demand but stretched positioning, as cross-border buying and late-July spot demand remain supportive.",
-      "link": "https://www.fxstreet.com/news/us-dollar-stretched-positioning-caps-gains-against-peers-bny-202607291222",
-      "published": "2026-07-29T12:22:04+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "S&P 500, NASDAQ FUTURES TURN NEGATIVE AFTER TRUMP'S COMMENTS ON IRAN",
+      "summary": "<p>S&amp;P 500, NASDAQ FUTURES TURN NEGATIVE AFTER TRUMP'S COMMENTS ON IRAN</p>\n<hr />\n<blockquote>\n<b>*Walter Bloomberg (@DeItaone)</b>\n<p>\n<p>TRUMP TO FOX: WE'LL BE HITTING IRAN HARD</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/DeItaone/status/2082440499802054672#m\">https://nitter.net/DeItaone/status/2082440499802054672#m</a>\n</footer>\n</blockquote>",
+      "link": "https://nitter.net/DeItaone/status/2082440866203849173#m",
+      "published": "2026-07-29T12:19:27+00:00",
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Softer CPI keeps RBA on hold – TD Securities",
-      "summary": "TD Securities strategists note that Australia’s Q2 Consumer Price Index (CPI) and June headline inflation came in below expectations, easing pressure on the Reserve Bank of Australia (RBA).",
-      "link": "https://www.fxstreet.com/news/australian-dollar-softer-cpi-keeps-rba-on-hold-td-securities-202607291212",
-      "published": "2026-07-29T12:12:47+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound languishes below 1.3300 heading into Fed and BoE decisions",
-      "summary": "The British Pound (GBP) has given away previous gains against the US Dollar (USD) on Wednesday and remains practically flat in the daily chart, trading below 1.3300 and on track to complete a nearly 1.20% decline over the last two weeks.",
-      "link": "https://www.fxstreet.com/news/british-pound-languishes-below-13300-heading-into-fed-and-boe-decisions-202607291202",
-      "published": "2026-07-29T12:02:21+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: Hawkish hold could restore Dollar support – BBH",
-      "summary": "Brown Brothers Harriman’s Elias Haddad expects the Federal Open Market Committee to keep the federal funds target range unchanged at 3.50%-3.75% for a fifth consecutive meeting.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-hawkish-hold-could-restore-dollar-support-bbh-202607291157",
-      "published": "2026-07-29T11:57:24+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP TO FOX: WE'LL BE HITTING IRAN HARD",
+      "summary": "<p>TRUMP TO FOX: WE'LL BE HITTING IRAN HARD</p>",
+      "link": "https://nitter.net/DeItaone/status/2082440499802054672#m",
+      "published": "2026-07-29T12:17:59+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Fed risk clouds recovery against US Dollar – Rabobank",
-      "summary": "Rabobank's Senior FX Strategist Jane Foley discusses how the Federal Reserve (Fed) and Bank of Japan (BoJ) decisions could shape USD/JPY, noting that Fed Chair Warsh’s stance on forward guidance adds uncertainty.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-fed-risk-clouds-recovery-against-us-dollar-rabobank-202607291148",
-      "published": "2026-07-29T11:48:56+00:00",
-      "score": 2
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: U.S. STRIKES WILL TAKE PLACE AGAINST IRAN IN RESPONSE TO ATTACKS ON U.S. TARGETS IN JORDAN -FOX",
+      "summary": "<p>TRUMP: U.S. STRIKES WILL TAKE PLACE AGAINST IRAN IN RESPONSE TO ATTACKS ON U.S. TARGETS IN JORDAN -FOX</p>",
+      "link": "https://nitter.net/DeItaone/status/2082440321179193454#m",
+      "published": "2026-07-29T12:17:17+00:00",
+      "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Fed hold to test recent resilience – ING",
-      "summary": "ING strategists Francesco Pesole and Frantisek Taborsky expect the Federal Reserve to keep rates unchanged, with two dissenters possibly voting for a hike, limiting downside in front-end USD rates.",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-hold-to-test-recent-resilience-ing-202607291138",
-      "published": "2026-07-29T11:38:05+00:00",
-      "score": 3
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: GOING TO LET THEM KEEP TALKING -FOX INTERVIEW",
+      "summary": "<p>TRUMP ON IRAN: GOING TO LET THEM KEEP TALKING -FOX INTERVIEW</p>",
+      "link": "https://nitter.net/DeItaone/status/2082440283812147347#m",
+      "published": "2026-07-29T12:17:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED PLAYBOOK: JPM'S S&P 500 SCENARIOS JPMorgan expects the Fed to hold rates, with a hawkish hold as its base case (50%), leaving the S&P 500 roughly flat to down 0.5%. A dovish hold (28%) is seen as the most bullish outcome, lifting the index up to 1%. A 25bp hike (20%) could send the S&P 500 down 1.5%-2%, with the Nasdaq likely underperforming.",
+      "summary": "<p>FED PLAYBOOK: JPM'S S&amp;P 500 SCENARIOS<br />\n<br />\nJPMorgan expects the Fed to hold rates, with a hawkish hold as its base case (50%), leaving the S&amp;P 500 roughly flat to down 0.5%.<br />\n<br />\nA dovish hold (28%) is seen as the most bullish outcome, lifting the index up to 1%.<br />\n<br />\nA 25bp hike (20%) could send the S&amp;P 500 down 1.5%-2%, with the Nasdaq likely underperformin",
+      "link": "https://nitter.net/DeItaone/status/2082436428504441311#m",
+      "published": "2026-07-29T12:01:49+00:00",
+      "score": 4
     },
     {
       "source": "Kobeissi Letter",
@@ -198,15 +279,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi Guys! I'm researching using AI about strategies that can be automated for EURUSD pair, no scalping, no HFT, grid, hedge or martingale. I tested some using Python and Dukascopy data, I would find nothing profitable testing the last 10 years. Anyone could find good strategies with these constraints?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https",
       "link": "https://www.reddit.com/r/Forex/comments/1v9jqbx/any_robust_and_profitable_eurusd_automated/",
       "published": "2026-07-29T02:58:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The market is experiencing historically high volatility: The performance gap between the S&P 500’s best- and worst-performing sectors has exceeded 10% in 8 weeks so far in 2026, the highest count since the 2020 pandemic. Half of these 8 episodes have occurred since late-May, even as the index itself has remained relatively unchanged. The only 3 other times that this has happened at this point in the year: 2000, 2001, and 2009, all periods of severe market stress. The full-year record was set in 2000 at 21 weeks, followed by the 2008 Financial Crisis with 15 weeks. The market is showing severe volatility beneath the surface.",
-      "summary": "<p>The market is experiencing historically high volatility:<br />\n<br />\nThe performance gap between the S&amp;P 500’s best- and worst-performing sectors has exceeded 10% in 8 weeks so far in 2026, the highest count since the 2020 pandemic.<br />\n<br />\nHalf of these 8 episodes have occurred since late-May, even as the index itself has remained relatively unchanged.<br />\n<br />\nThe only 3 other t",
-      "link": "https://nitter.net/KobeissiLetter/status/2082256872602546679#m",
-      "published": "2026-07-29T00:08:19+00:00",
       "score": 1
     },
     {
