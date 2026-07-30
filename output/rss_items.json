@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-07-30T16:00:53.743280+00:00",
-  "count": 57,
+  "updated_at": "2026-07-30T17:49:18.099866+00:00",
+  "count": 56,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: US mortgage rates rise to 6.66%, highest level in a year",
+      "title": "FinancialJuice: Anthropic data center backed by Google: WSJ $GOOGL",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9700897/US-mortgage-rates-rise-to-666-highest-level-in-a-year.aspx?xy=rss",
-      "published": "2026-07-30T16:00:28+00:00",
+      "link": "https://www.financialjuice.com/News/9701029/Anthropic-data-center-backed-by-Google-WSJ-GOOGL.aspx",
+      "published": "2026-07-30T17:43:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: LIVE: Trump announces 'Freedom Haulers' program for veterans to replace immigrant truckers",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9701007/LIVE-Trump-announces-Freedom-Haulers-program-for-veterans-to-replace-immigrant-truckers.aspx",
+      "published": "2026-07-30T17:20:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "NASDAQ 100 rallies on one earnings report, while Dow Jones Industrial Average barely moves",
+      "summary": "The rebound in United States equities on Thursday is real, and it is one name deep. The NASDAQ 100 (NDX) trades near 27,950 after a gain of almost 3%, having printed its lowest level in two months in the 27,200 area inside the opening minutes.",
+      "link": "https://www.fxstreet.com/news/the-nasdaq-100-rallies-on-one-earnings-report-while-the-dow-jones-industrial-average-barely-moves-202607301604",
+      "published": "2026-07-30T16:04:30+00:00",
       "score": 1
     },
     {
@@ -33,7 +51,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "British Pound surges on BoE hawkish hold, Yen intervention crushes USD",
-      "summary": "The Pound Sterling registers gains versus the US Dollar after the Bank of England decided to hold rates unchanged, in a 6-3 vote, while suspected intervention to propel the Japanese Yen weakened the Greenback against most G8 currencies. The GBP/USD trades at !.3430, up 0.40%.",
+      "summary": "The Pound Sterling registers gains versus the US Dollar after the Bank of England decided to hold rates unchanged, in a 6-3 vote, while suspected intervention to propel the Japanese Yen weakened the Greenback against most G8 currencies. The GBP/USD trades at 1.3430, up 0.40%.",
       "link": "https://www.fxstreet.com/news/british-pound-surges-on-boe-hawkish-hold-yen-intervention-crushes-usd-202607301550",
       "published": "2026-07-30T15:50:59+00:00",
       "score": 2
@@ -48,48 +66,21 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman involved in Situational Awareness book sale talks - FT.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9700871/Goldman-involved-in-Situational-Awareness-book-sale-talks---FT.aspx?xy=rss",
-      "published": "2026-07-30T15:41:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 4-Week Bill Auction",
-      "summary": "<div><ul><li>High Yield 3.630%</li><li>Bid-to-cover 2.80</li><li>US sells $110 bln</li><li>Awards 50.42% of bids at high</li></ul></div>",
-      "link": "https://www.financialjuice.com/News/9700866/US-4-Week-Bill-Auction.aspx?xy=rss",
-      "published": "2026-07-30T15:32:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.63% (Forecast -, Previous 3.730%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9700865/US-4-Week-Bill-High-Yield-Actual-363-Forecast---Previous-3730.aspx?xy=rss",
-      "published": "2026-07-30T15:32:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoE Gov. Bailey: Seeing slow labor market softening and slow disinflation.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9700858/BoE-Gov-Bailey-Seeing-slow-labor-market-softening-and-slow-disinflation.aspx?xy=rss",
-      "published": "2026-07-30T15:30:25+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Australian Dollar tumbles against Japanese Yen on suspected intervention",
       "summary": "AUD/JPY tumbles on Thursday as a sudden surge in the Japanese Yen (JPY) sweeps across Yen crosses, fuelling speculation that Japanese authorities intervened to support the currency after USD/JPY hit a 40-year high earlier this month.",
       "link": "https://www.fxstreet.com/news/australian-dollar-tumbles-against-japanese-yen-on-suspected-intervention-202607301512",
       "published": "2026-07-30T15:12:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ABC SAYS TRUMP ADMINISTRATION IS RETALIATING AGAINST NETWORK OVER ITS NEWS COVERAGE IN EARLY LICENSE REVIEW, SENDING WARNING TO ALL OTHER MEDIA COMPANIES -- FILING",
+      "summary": "<p>ABC SAYS TRUMP ADMINISTRATION IS RETALIATING AGAINST NETWORK OVER ITS NEWS COVERAGE IN EARLY LICENSE REVIEW, SENDING WARNING TO ALL OTHER MEDIA COMPANIES -- FILING</p>",
+      "link": "https://nitter.net/DeItaone/status/2082845587733426257#m",
+      "published": "2026-07-30T15:07:40+00:00",
       "score": 1
     },
     {
@@ -138,6 +129,15 @@
       "score": 3
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$MSFT - MICROSOFT SHARES JUMP 15%, ON TRACK FOR BIGGEST PERCENTAGE GAIN SINCE 2008",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>  - MICROSOFT SHARES JUMP 15%, ON TRACK FOR BIGGEST PERCENTAGE GAIN SINCE 2008</p>",
+      "link": "https://nitter.net/DeItaone/status/2082828461828198705#m",
+      "published": "2026-07-30T13:59:37+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "Germany: War-driven energy shock shapes outlook – Commerzbank",
@@ -174,22 +174,31 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen gains the upper hand after US GDP miss, BoJ eyed",
-      "summary": "USD/JPY trades around 162.90 at the time of writing on Thursday, down 0.31% on the day, as the US Dollar (USD) comes under pressure following the Federal Reserve (Fed) meeting on Wednesday and a series of weaker-than-expected United States (US) economic data released earlier in the day, ahead of the",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gains-the-upper-hand-after-us-gdp-miss-boj-eyed-202607301329",
-      "published": "2026-07-30T13:29:31+00:00",
-      "score": 2
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$MSFT - *MICROSOFT SHARES JUMP 12% IN BIGGEST ONE-DAY GAIN SINCE 2020",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>  - *MICROSOFT SHARES JUMP 12% IN BIGGEST ONE-DAY GAIN SINCE 2020</p>",
+      "link": "https://nitter.net/DeItaone/status/2082821361999688071#m",
+      "published": "2026-07-30T13:31:24+00:00",
+      "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Warsh rhetoric weakens policy credibility – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is struggling to recover after the Federal Reserve’s (Fed) hawkish hold, as Chair Kevin Warsh’s tough inflation rhetoric failed to convince markets.",
-      "link": "https://www.fxstreet.com/news/us-dollar-warsh-rhetoric-weakens-policy-credibility-bbh-202607301329",
-      "published": "2026-07-30T13:29:21+00:00",
-      "score": 3
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "HASSETT: THINK WARSH’S JOB JUST GOT A BIT EASIER WITH TODAY’S INFLATION DATA",
+      "summary": "<p>HASSETT: THINK WARSH’S JOB JUST GOT A BIT EASIER WITH TODAY’S INFLATION DATA</p>",
+      "link": "https://nitter.net/DeItaone/status/2082820768182731184#m",
+      "published": "2026-07-30T13:29:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "HASSETT: I AM VERY BULLISH ON FED POLICY GOING IN THE PROPER DIRECTION.",
+      "summary": "<p>HASSETT: I AM VERY BULLISH ON FED POLICY GOING IN THE PROPER DIRECTION.</p>",
+      "link": "https://nitter.net/DeItaone/status/2082820596665098260#m",
+      "published": "2026-07-30T13:28:21+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -369,24 +378,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>lol, here we go again. I have 50$ extra cash that i dont care even if it losses. Just before 1 min of news i will buy in one account and sell in other account, Best case is one will win and other will loss and worst case is a doji forms and both account get loss that is ended up in -50$. </p> <p>What is your opinion, its just for fun and maybe my 50$ might convert",
       "link": "https://www.reddit.com/r/Forex/comments/1va1nca/planing_to_fullport_in_fomc_need_advice/",
       "published": "2026-07-29T16:43:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Traders are making record bets on the Fed's next move: Open interest in the August federal funds futures contract, which settles after this week's Fed decision, is up to a record 967,136 contracts. The total number of outstanding contracts has more than doubled since the 2nd week of June. This also surpasses the prior record set in October 2024, when uncertainty around the Fed decision was similarly elevated. This comes as the market is pricing in a ~36% chance of a rate hike today. To put this into perspective, since the end of the 2008 Financial Crisis, the Fed has held 135 FOMC meetings, and only 4 of them, or 3%, have seen the odds of a hike sit between 33% and 66% in the days leading up to the decision, according to Bianco Research. Markets have rarely been this uncertain about a Fed decision.",
-      "summary": "<p>Traders are making record bets on the Fed's next move:<br />\n<br />\nOpen interest in the August federal funds futures contract, which settles after this week's Fed decision, is up to a record 967,136 contracts.<br />\n<br />\nThe total number of outstanding contracts has more than doubled since the 2nd week of June.<br />\n<br />\nThis also surpasses the prior record set in October 2024, when uncer",
-      "link": "https://nitter.net/KobeissiLetter/status/2082494951393210464#m",
-      "published": "2026-07-29T15:54:21+00:00",
-      "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Any robust and profitable EURUSD automated strategy?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi Guys! I'm researching using AI about strategies that can be automated for EURUSD pair, no scalping, no HFT, grid, hedge or martingale. I tested some using Python and Dukascopy data, I would find nothing profitable testing the last 10 years. Anyone could find good strategies with these constraints?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https",
-      "link": "https://www.reddit.com/r/Forex/comments/1v9jqbx/any_robust_and_profitable_eurusd_automated/",
-      "published": "2026-07-29T02:58:26+00:00",
       "score": 1
     },
     {
