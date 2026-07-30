@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-07-29T23:31:08.309366+00:00",
-  "count": 69,
+  "updated_at": "2026-07-30T01:02:44.089798+00:00",
+  "count": 65,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump met Wednesday with Saudi Defense Minister Prince Khalid bin Salman: Axios, citing U.S. official",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9699407/Trump-met-Wednesday-with-Saudi-Defense-Minister-Prince-Khalid-bin-Salman-Axios-citing-US-official.aspx",
+      "published": "2026-07-30T00:42:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro edges lower to near 1.1450 as Fed holds rates steady, traders await Eurozone and German GDP",
+      "summary": "The EUR/USD pair trades with mild losses around 1.1465 during the early Asian session on Thursday. The US Dollar (USD) edges higher against the Euro (EUR) on a hawkish Federal Reserve (Fed) rate hold.",
+      "link": "https://www.fxstreet.com/news/euro-edges-lower-to-near-11450-as-fed-holds-rates-steady-traders-await-eurozone-and-german-gdp-202607300026",
+      "published": "2026-07-30T00:26:45+00:00",
+      "score": 3
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The equal-weighted Nasdaq 100 is now underperforming the equal-weighted S&P 500 by 6.8 percentage points so far in July, on track for its worst relative monthly performance on record. This follows 4 consecutive months of outperformance by equal-weighted technology stocks. There has not been a single month over the last 20 years in which the average tech stock underperformed the average S&P 500 stock by more than 5 percentage points. This comes as the equal-weighted S&P 500 is up +2.2% month-to-date, trading at an all-time high. At the same time, the equal-weighted Nasdaq 100 is down -4.6%, near its lowest since mid-May. Investors are taking profits on technology stocks at a historic pace.",
+      "summary": "<p>BREAKING: The equal-weighted Nasdaq 100 is now underperforming the equal-weighted S&amp;P 500 by 6.8 percentage points so far in July, on track for its worst relative monthly performance on record.<br />\n<br />\nThis follows 4 consecutive months of outperformance by equal-weighted technology stocks.<br />\n<br />\nThere has not been a single month over the last 20 years in which the average tech s",
+      "link": "https://nitter.net/KobeissiLetter/status/2082620135265775731#m",
+      "published": "2026-07-30T00:11:48+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Donald Trump says US will strike Iran hard",
+      "summary": "US President Donald Trump said that he will order heavy strikes on Iran in retaliation for its “surprise attack” on US forces overnight, Bloomberg reported on Wednesday.",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-us-will-strike-iran-hard-202607292338",
+      "published": "2026-07-29T23:38:28+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -39,15 +75,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Meta CEO Zuckerberg: We plan to monetize AI products as a business-in-a-box service, with a mix of subscriptions and volume-based pricing. $META",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9699189/Meta-CEO-Zuckerberg-We-plan-to-monetize-AI-products-as-a-business-in-a-box-service-with-a-mix-of-subscriptions-and-volume-based-pricing-META.aspx?xy=rss",
-      "published": "2026-07-29T20:53:09+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Forex Today: US Dollar tumbles after divided Fed hold, Oil surges on Middle East escalation",
@@ -57,15 +84,6 @@
       "score": 4
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft's future leases at $329 billion, up from $197 billion. $MSFT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9699151/Microsofts-future-leases-at-329-billion-up-from-197-billion-MSFT.aspx?xy=rss",
-      "published": "2026-07-29T20:28:40+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Silver holds firm as Dollar slides after split Fed decision",
@@ -73,15 +91,6 @@
       "link": "https://www.fxstreet.com/news/silver-holds-firm-as-dollar-slides-after-split-fed-decision-202607292024",
       "published": "2026-07-29T20:24:50+00:00",
       "score": 6
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft: Leases that hadn't commenced $329.18 as of June 30th. $MSFT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9699139/Microsoft-Leases-that-hadnt-commenced-32918-as-of-June-30th-MSFT.aspx?xy=rss",
-      "published": "2026-07-29T20:13:20+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -99,24 +108,6 @@
       "summary": "<p>BREAKING: Meta stock, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23META\">$META</a>, crashes over -9% after reporting weaker than expected earnings.</p>\n<img src=\"https://nitter.net/pic/media%2FHOa7ZsjXwAAoz_M.png\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2082557946672644580#m",
       "published": "2026-07-29T20:04:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: $MSFT Microsoft Q4 Earnings",
-      "summary": "<ul><li>EPS $4.81</li><li>Adjusted EPS $4.74, est. $4.25</li><li><div>CAPEX including leases $41b, est. $42.05b</div></li><li><div>CAPEX $35.80B, est. $35.22B</div></li><li>Revenue $90.01B, est. $87.72B</li><li>Operating income $40.60B, est. $39.02B</li><li>Cloud revenue $59.3B, est. $58.71B</li><li>Intelligent Cloud revenue $39.31B, est. $38.17B</li><li>Azure &amp; other cloud revenue ex-FX +43%,",
-      "link": "https://www.financialjuice.com/News/9699137/MSFT-Microsoft-Q4-Earnings.aspx?xy=rss",
-      "published": "2026-07-29T20:02:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: $META Meta Q2 Earnings & Q3 Guidance",
-      "summary": "<ul><li>EPS $6.18 vs. $7.14 y/y</li><li>Revenue $60.80B, est. $60.24B</li><li>Sees Q3 Revenue $61B–$64B, est. $63.17B</li><li>Operating Income $18.78B, -8.2% y/y</li><li>Advertising Revenue $59.36B, est. $59.07B</li><li>Family of Apps Revenue $60.37B, est. $59.77B</li><li>Family of Apps Operating Income $23.39B, est. $26.11B</li><li>Reality Labs Revenue $431M, est. $428.7M</li><li>Reality Labs Ope",
-      "link": "https://www.financialjuice.com/News/9699136/META-Meta-Q2-Earnings--Q3-Guidance.aspx?xy=rss",
-      "published": "2026-07-29T20:02:07+00:00",
       "score": 1
     },
     {
@@ -316,33 +307,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
       "published": "2026-07-29T18:00:00+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso tumbles as Gulf War escalation weighs on mood, Fed eyed",
-      "summary": "The Mexican Peso loses ground against the US Dollar on Wednesday as risk appetite turns sour amid the escalation of the Gulf War, while traders await the Federal Reserve’s (Fed) monetary policy decision. The USD/MXN trades at 17.51, up 0.47%.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-tumbles-as-gulf-war-escalation-weighs-on-mood-fed-eyed-202607291747",
-      "published": "2026-07-29T17:47:14+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Bank of Canada shows its work, while the Canadian Dollar reads Washington",
-      "summary": "The Bank of Canada published the deliberations behind its July 15 hold this morning, roughly half an hour before the Federal Reserve (Fed) announces whether it does the same thing.",
-      "link": "https://www.fxstreet.com/news/the-bank-of-canada-shows-its-work-while-the-canadian-dollar-reads-washington-202607291744",
-      "published": "2026-07-29T17:44:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar slides on softer inflation, intervention fears bolster Japanese Yen",
-      "summary": "AUD/JPY trades around 113.60 on Wednesday at the time of writing, down 0.61% on the day, after weaker-than-expected Australian inflation data triggered broad selling pressure on the Australian Dollar (AUD).",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slides-on-softer-inflation-intervention-fears-bolster-japanese-yen-202607291727",
-      "published": "2026-07-29T17:27:51+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
