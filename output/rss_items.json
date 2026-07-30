@@ -1,7 +1,133 @@
 {
-  "updated_at": "2026-07-30T14:07:35.005262+00:00",
-  "count": 56,
+  "updated_at": "2026-07-30T16:00:53.743280+00:00",
+  "count": 57,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US mortgage rates rise to 6.66%, highest level in a year",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9700897/US-mortgage-rates-rise-to-666-highest-level-in-a-year.aspx?xy=rss",
+      "published": "2026-07-30T16:00:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index slumps as suspected Japanese intervention rattles markets",
+      "summary": "The US Dollar Index (DXY) tumbles on Thursday as a sharp surge in the Japanese Yen (JPY) fuels speculation that Japanese authorities intervened to support the currency. USD/JPY plunged nearly 480 pips, falling below the psychological 160 mark and dragging the Greenback lower across the board.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-slumps-as-suspected-japanese-intervention-rattles-markets-202607301554",
+      "published": "2026-07-30T15:54:37+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Malaysia: Balanced macro profile supports Ringgit – MUFG",
+      "summary": "MUFG notes Malaysia remains one of Asia’s stronger-performing economies, with above-trend growth, low inflation and robust external demand, especially in electronics.",
+      "link": "https://www.fxstreet.com/news/malaysia-balanced-macro-profile-supports-ringgit-mufg-202607301551",
+      "published": "2026-07-30T15:51:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound surges on BoE hawkish hold, Yen intervention crushes USD",
+      "summary": "The Pound Sterling registers gains versus the US Dollar after the Bank of England decided to hold rates unchanged, in a 6-3 vote, while suspected intervention to propel the Japanese Yen weakened the Greenback against most G8 currencies. The GBP/USD trades at !.3430, up 0.40%.",
+      "link": "https://www.fxstreet.com/news/british-pound-surges-on-boe-hawkish-hold-yen-intervention-crushes-usd-202607301550",
+      "published": "2026-07-30T15:50:59+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro rises as Eurozone growth outpaces forecasts",
+      "summary": "EUR/USD trades higher near the 1.1460 area on Thursday as stronger-than-expected European economic data and softer United States (US) growth figures place pressure on the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/euro-rises-as-eurozone-growth-outpaces-forecasts-202607301547",
+      "published": "2026-07-30T15:47:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Goldman involved in Situational Awareness book sale talks - FT.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9700871/Goldman-involved-in-Situational-Awareness-book-sale-talks---FT.aspx?xy=rss",
+      "published": "2026-07-30T15:41:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 4-Week Bill Auction",
+      "summary": "<div><ul><li>High Yield 3.630%</li><li>Bid-to-cover 2.80</li><li>US sells $110 bln</li><li>Awards 50.42% of bids at high</li></ul></div>",
+      "link": "https://www.financialjuice.com/News/9700866/US-4-Week-Bill-Auction.aspx?xy=rss",
+      "published": "2026-07-30T15:32:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.63% (Forecast -, Previous 3.730%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9700865/US-4-Week-Bill-High-Yield-Actual-363-Forecast---Previous-3730.aspx?xy=rss",
+      "published": "2026-07-30T15:32:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoE Gov. Bailey: Seeing slow labor market softening and slow disinflation.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9700858/BoE-Gov-Bailey-Seeing-slow-labor-market-softening-and-slow-disinflation.aspx?xy=rss",
+      "published": "2026-07-30T15:30:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar tumbles against Japanese Yen on suspected intervention",
+      "summary": "AUD/JPY tumbles on Thursday as a sudden surge in the Japanese Yen (JPY) sweeps across Yen crosses, fuelling speculation that Japanese authorities intervened to support the currency after USD/JPY hit a 40-year high earlier this month.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-tumbles-against-japanese-yen-on-suspected-intervention-202607301512",
+      "published": "2026-07-30T15:12:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+      "published": "2026-07-30T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+      "published": "2026-07-30T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar rallies despite softer CPI as US Dollar tumbles after Fed, weaker data",
+      "summary": "AUD/USD trades around 0.7010 on Thursday at the time of writing, up 0.82% on the day as broad-based US Dollar (USD) weakness outweighs the negative impact of softer Australian inflation.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rallies-despite-softer-cpi-as-us-dollar-tumbles-after-fed-weaker-data-202607301450",
+      "published": "2026-07-30T14:50:17+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: FOMC repricing caps CTA upside – TD Securities",
+      "summary": "TD Securities strategists explain that Gold has bounced after the Federal Open Market Committee (FOMC) left rates unchanged and Chair Warsh signaled tolerance for an inflation shock.",
+      "link": "https://www.fxstreet.com/news/gold-fomc-repricing-caps-cta-upside-td-securities-202607301419",
+      "published": "2026-07-30T14:19:27+00:00",
+      "score": 5
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -24,7 +150,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Breaking: Japanese Yen surges on suspected intervention, USD/JPY plunges below 160.00",
-      "summary": "The Japanese Yen is surging across the board in the American session on Thursday, without a clear catalyst. This development hints that Japanese authorities may finally be intervening in foreign exchange markets following days of speculation.",
+      "summary": "The Japanese Yen (JPY) is surging across the board in the American session on Thursday, without a clear catalyst. This development hints that Japanese authorities may finally be intervening in foreign exchange markets following days of speculation.",
       "link": "https://www.fxstreet.com/news/breaking-japanese-yen-surges-on-suspected-intervention-usd-jpy-plunges-below-16100-202607301350",
       "published": "2026-07-30T13:50:01+00:00",
       "score": 1
@@ -48,24 +174,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: UK PM Burnham: I indicated to Trump that I would take a pragmatic approach to the North Sea.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9700660/UK-PM-Burnham-I-indicated-to-Trump-that-I-would-take-a-pragmatic-approach-to-the-North-Sea.aspx?xy=rss",
-      "published": "2026-07-30T13:31:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: -147 mln<br />Nasdaq 100: +31 mln<br />Dow 30: -74 mln<br />Mag 7: +2 mln",
-      "link": "https://www.financialjuice.com/News/9700654/MOO-Imbalance.aspx?xy=rss",
-      "published": "2026-07-30T13:30:36+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Japanese Yen gains the upper hand after US GDP miss, BoJ eyed",
@@ -84,51 +192,6 @@
       "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WH Sr. Adviser Hassett: I am very bullish on Fed policy going in the proper direction.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9700645/WH-Sr-Adviser-Hassett-I-am-very-bullish-on-Fed-policy-going-in-the-proper-direction.aspx?xy=rss",
-      "published": "2026-07-30T13:24:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: Fed holds rates and supports Dollar – HSBC",
-      "summary": "HSBC’s Jose Rasco and Michael Zervos note that the US Federal Reserve (Fed) kept rates unchanged for a fifth straight meeting, with a 9-3 split highlighting internal debate.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-fed-holds-rates-and-supports-dollar-hsbc-202607301318",
-      "published": "2026-07-30T13:18:24+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Rally against EUR and USD unlikely to last – TD Securities",
-      "summary": "TD Securities FX strategist Howard Du highlights that GBP/USD initially rose 0.3% on the hawkish 6-3 BoE vote split, with Mann joining the hike camp. However, the rest of the committee appears comfortable holding rates given limited second-round effects.",
-      "link": "https://www.fxstreet.com/news/british-pound-rally-against-eur-and-usd-unlikely-to-last-td-securities-202607301253",
-      "published": "2026-07-30T12:53:10+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US PCE inflation data confirm steady disinflation",
-      "summary": "The United States (US) Personal Consumption Expenditures (PCE) Price Index pointed to a further moderation in inflation in June. The headline index fell by 0.1% MoM after a revised 0.5% increase in May, while the annual rate eased to 3.7% from 4.1%, in line with market expectations.",
-      "link": "https://www.fxstreet.com/news/us-pce-inflation-data-confirm-steady-disinflation-202607301250",
-      "published": "2026-07-30T12:50:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: RBA sees inflation still above target – BNY",
-      "summary": "BNY’s Geoff Yu reports that Reserve Bank of Australia (RBA) Assistant Governor Sarah Hunter described Australia’s Consumer Price Index (CPI) as slightly softer than expected, mainly due to fuel prices, but stressed inflation remains above the 2–3% band.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-sees-inflation-still-above-target-bny-202607301243",
-      "published": "2026-07-30T12:43:38+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: US June PCE inflation, the Fed's preferred inflation metric, falls to 3.7%, in-line with expectations. Core PCE inflation fell to 3.3%, the second highest reading since October 2024. US inflation continues to run at nearly double the Fed's 2.0% target.",
@@ -136,33 +199,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2082806470182125741#m",
       "published": "2026-07-30T12:32:13+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: September hike risk stays elevated – ABN AMRO",
-      "summary": "ABN AMRO strategists analyze the latest Federal Reserve decision to keep the federal funds rate at 3.5-3.75%. They highlight dissenting votes, Kevin Warsh’s emphasis on the 2% inflation target, and the Fed’s reliance on market signals.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-september-hike-risk-stays-elevated-abn-amro-202607301226",
-      "published": "2026-07-30T12:26:27+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Bailey speech: Encouraging CPI is below where we thought it would be",
-      "summary": "Bank of England (BoE) Governor Andrew Bailey explains the decision to maintain the bank rate at 3.75% in a 6-3 vote split following the July monetary policy meeting and responds to questions from the press.",
-      "link": "https://www.fxstreet.com/news/bailey-speech-encouraging-cpi-is-below-where-we-thought-it-would-be-202607301222",
-      "published": "2026-07-30T12:22:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Bailey speech: Need to raise rates if Mideast conflict leads to second-round effects",
-      "summary": "Bank of England (BoE) Governor Andrew Bailey explains the decision to maintain the bank rate at 3.75% in a 6-3 vote split following the July monetary policy meeting and responds to questions from the press.",
-      "link": "https://www.fxstreet.com/news/bailey-speech-need-to-raise-rates-if-mideast-conflict-leads-to-2nd-round-effects-202607301217",
-      "published": "2026-07-30T12:17:45+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -185,7 +221,7 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold trades sideways as US GDP disappoints, core PCE cools",
+      "title": "Gold approaches $4,100 as suspected Japanese intervention hits US Dollar",
       "summary": "Gold (XAU/USD) remains trapped in its month-old $4,000-$4,200 range as the Federal Reserve’s (Fed) new era of limited forward guidance fails to shake the precious metal out of its sideways grind after policymakers left interest rates unchanged at 3.50%-3.75%.",
       "link": "https://www.fxstreet.com/news/gold-caught-between-softer-us-dollar-and-rising-treasury-yields-us-pce-awaited-202607301120",
       "published": "2026-07-30T11:20:05+00:00",
@@ -345,15 +381,6 @@
       "score": 2
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The Dow Jones Industrial Average extends losses to -800 points on the day as chip stocks fall, rate hike odds rise, and President Trump vows to strike Iran.",
-      "summary": "<p>BREAKING: The Dow Jones Industrial Average extends losses to -800 points on the day as chip stocks fall, rate hike odds rise, and President Trump vows to strike Iran.</p>\n<img src=\"https://nitter.net/pic/media%2FHOZri5LX0AEdU3p.png\" />\n\n<hr />\n<blockquote>\n<b>The Kobeissi Letter (@KobeissiLetter)</b>\n<p>\n<p>Absolutely incredible.<br />\n<br />\nIn an unprecedented move, South Korea's stock market",
-      "link": "https://nitter.net/KobeissiLetter/status/2082470168937001357#m",
-      "published": "2026-07-29T14:15:53+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Any robust and profitable EURUSD automated strategy?",
@@ -487,24 +514,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
       "published": "2026-06-18T13:00:00+00:00",
       "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve issues FOMC statement",
-      "summary": "Federal Reserve issues FOMC statement",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
-      "published": "2026-06-17T18:00:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
-      "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
-      "published": "2026-06-17T18:00:00+00:00",
-      "score": 2
     }
   ],
   "errors": []
