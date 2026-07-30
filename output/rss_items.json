@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-07-30T19:35:32.650821+00:00",
-  "count": 58,
+  "updated_at": "2026-07-30T20:51:04.730873+00:00",
+  "count": 44,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: $AAPL Apple Q3 Earnings",
+      "summary": "<ul><li>EPS $2.02, est. $1.89</li><li>EPS included a $0.11 favorable impact from tariff refunds</li><li>Revenue $109.42B, est. $108.85B</li><li>Products Revenue $78.68B, est. $77.25B</li><li>Services Revenue $30.74B, est. $31.36B</li><li>iPhone Revenue $54.25B, est. $53.60B</li><li>Mac Revenue $10.35B, est. $8.62B</li><li>iPad Revenue $6.19B, est. $6.89B</li><li>Wearables, Home &amp; Accessories R",
+      "link": "https://www.financialjuice.com/News/9701208/AAPL-Apple-Q3-Earnings.aspx",
+      "published": "2026-07-30T20:30:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google: Gemini Spark now integrates with Chrome $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9701202/Google-Gemini-Spark-now-integrates-with-Chrome-GOOGL.aspx",
+      "published": "2026-07-30T20:25:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Oil: Key driver of UK inflation scenarios – Rabobank",
+      "summary": "RaboResearch highlights Oil as the dominant input for UK monetary policy. The Bank of England’s central forecast assumes Oil prices fall from $76 to around $71, with inflation peaking near 3.2%, but Brent already trades above $90.",
+      "link": "https://www.fxstreet.com/news/oil-key-driver-of-uk-inflation-scenarios-rabobank-202607302024",
+      "published": "2026-07-30T20:24:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: $AMZN Amazon Q2 Earnings & Q3 Guidance",
+      "summary": "<ul><li>EPS $5.75 est. $1.99</li><li>Net Sales $200.6B, est. $197.01B</li><li>Sees Q3 Net Sales $197.0B–$202.0B, est. $203.93B</li><li>Sees Q3 Operating Income $22.5B–$26.5B, est. $25.07B</li><li>Operating Income $27.46B, est. $23.61B</li><li>Operating Margin 13.7%, est. 12.0%</li><li>AWS Net Sales $42.23B, est. $40.57B</li><li>AWS Net Sales (ex-FX) +37%, est. +31.3%</li><li>North America Net Sale",
+      "link": "https://www.financialjuice.com/News/9701186/AMZN-Amazon-Q2-Earnings--Q3-Guidance.aspx",
+      "published": "2026-07-30T20:02:02+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG eyes $60.00 as rebound builds",
+      "summary": "Silver price advances for the second straight day and hits a three-day high above $59.00mid growing speculation of intervention in the foreign exchange markets, to boost the Yen, and weaken the Greenback.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-eyes-6000-as-rebound-builds-202607302000",
+      "published": "2026-07-30T20:00:06+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: -2104 mln<br />Nasdaq 100: -1123 mln<br />Dow 30: -509 mln<br />Mag 7: -287 mln",
+      "link": "https://www.financialjuice.com/News/9701170/MOC-Imbalance.aspx",
+      "published": "2026-07-30T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold jumps as suspected Yen intervention crushes US Dollar as Fed bets ease",
+      "summary": "Gold price advances some 0.92% on Thursday after the US Dollar drops following a suspected intervention in the foreign exchange markets, with the Japanese Yen hitting a near two-month high versus the Greenback. The XAU/USD trades at $4,100 after bouncing off the low of the day (LOD) at $4,028.",
+      "link": "https://www.fxstreet.com/news/gold-jumps-as-suspected-yen-intervention-crushes-dollar-fed-bets-ease-202607301938",
+      "published": "2026-07-30T19:38:38+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Malaysian Ringgit: Political risks rise as fundamentals hold firm – MUFG",
+      "summary": "MUFG’s Lloyd Chan highlights that Malaysia’s solid growth, low inflation and prudent policy are supporting the Ringgit, but rising domestic political risks could drive USD/MYR in coming months.",
+      "link": "https://www.fxstreet.com/news/malaysian-ringgit-political-risks-rise-as-fundamentals-hold-firm-mufg-202607301938",
+      "published": "2026-07-30T19:38:00+00:00",
+      "score": 2
+    },
     {
       "source": "r/Forex",
       "category": "reddit",
@@ -16,17 +88,8 @@
       "category": "news",
       "title": "FinancialJuice: Friday FX Options Expiries",
       "summary": "<ul><li><strong>EUR/USD: </strong>1.1500 (EU3.59b), 1.1450 (EU2.24b), 1.1400 (EU1.55b)</li><li><strong>USD/JPY: </strong>163.00 ($1.51b), 162.50 ($880.8m), 164.00 ($854.9m)</li><li><strong>USD/CAD: </strong>1.4100 ($3.21b), 1.3600 ($1.12b), 1.3400 ($834m)</li><li><strong>AUD/USD: </strong>0.6900 (AUD552.2m), 0.7025 (AUD538.7m), 0.6975 (AUD537.5m)</li><li><strong>USD/BRL:</strong> 5.0750 ($1.19b), ",
-      "link": "https://www.financialjuice.com/News/9701141/Friday-FX-Options-Expiries.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9701141/Friday-FX-Options-Expiries.aspx",
       "published": "2026-07-30T19:24:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP'S BOARD OF PEACE BELIEVE HAMAS COULD SIGN AN AGREEMENT IN COMING DAYS TO BEGIN DISARMING AND DEMILITARIZING GAZA STRIP -AXIOS",
-      "summary": "<p>TRUMP'S BOARD OF PEACE BELIEVE HAMAS COULD SIGN AN AGREEMENT IN COMING DAYS TO BEGIN DISARMING AND DEMILITARIZING GAZA STRIP -AXIOS</p>",
-      "link": "https://nitter.net/DeItaone/status/2082909884933140497#m",
-      "published": "2026-07-30T19:23:09+00:00",
       "score": 1
     },
     {
@@ -43,17 +106,8 @@
       "category": "news",
       "title": "FinancialJuice: Meta reports almost $700 billion in future spending commitments $META",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9701102/Meta-reports-almost-700-billion-in-future-spending-commitments-META.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9701102/Meta-reports-almost-700-billion-in-future-spending-commitments-META.aspx",
       "published": "2026-07-30T18:47:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "AI generated content is rapidly growing. But no one wants to read it. A new study shows that AI generated content now accounts for 41% of long-form content on LinkedIn, 13% on Reddit, and 10% on Substack. Even short-form content is now AI generated, with 30% of short-form posts on LinkedIn and 12% on Substack coming from AI. At the same time, AI-generated posts on LinkedIn receive 45% LESS engagement than human-written posts, on average. Amid the growth of AI, humans are behind all of our posts, research, and analysis. The gap between AI-written and human-sounding content is becoming one of the biggest differentiators on social media.",
-      "summary": "<p>AI generated content is rapidly growing. But no one wants to read it.<br />\n<br />\nA new study shows that AI generated content now accounts for 41% of long-form content on LinkedIn, 13% on Reddit, and 10% on Substack.<br />\n<br />\nEven short-form content is now AI generated, with 30% of short-form posts on LinkedIn and 12% on Substack coming from AI.<br />\n<br />\nAt the same time, AI-generated ",
-      "link": "https://nitter.net/KobeissiLetter/status/2082894699761950753#m",
-      "published": "2026-07-30T18:22:49+00:00",
       "score": 1
     },
     {
@@ -73,33 +127,6 @@
       "link": "https://www.fxstreet.com/news/silver-rises-as-softer-us-inflation-weighs-on-us-dollar-202607301800",
       "published": "2026-07-30T18:00:35+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Democrats demand Apple reject Chinese military-linked chips $AAPL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9701041/Democrats-demand-Apple-reject-Chinese-military-linked-chips-AAPL.aspx?xy=rss",
-      "published": "2026-07-30T17:52:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Anthropic data center backed by Google: WSJ $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9701029/Anthropic-data-center-backed-by-Google-WSJ-GOOGL.aspx?xy=rss",
-      "published": "2026-07-30T17:43:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The S&P 500 extends gains to over +100 points on the day as dip buyers rotate into technology and chip stocks.",
-      "summary": "<p>BREAKING: The S&amp;P 500 extends gains to over +100 points on the day as dip buyers rotate into technology and chip stocks.</p>\n<img src=\"https://nitter.net/pic/media%2FHOfjlNvWMAAO0uU.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2082883595648008581#m",
-      "published": "2026-07-30T17:38:41+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -156,15 +183,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ABC SAYS TRUMP ADMINISTRATION IS RETALIATING AGAINST NETWORK OVER ITS NEWS COVERAGE IN EARLY LICENSE REVIEW, SENDING WARNING TO ALL OTHER MEDIA COMPANIES -- FILING",
-      "summary": "<p>ABC SAYS TRUMP ADMINISTRATION IS RETALIATING AGAINST NETWORK OVER ITS NEWS COVERAGE IN EARLY LICENSE REVIEW, SENDING WARNING TO ALL OTHER MEDIA COMPANIES -- FILING</p>",
-      "link": "https://nitter.net/DeItaone/status/2082845587733426257#m",
-      "published": "2026-07-30T15:07:40+00:00",
-      "score": 1
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
@@ -192,69 +210,6 @@
       "score": 4
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: FOMC repricing caps CTA upside – TD Securities",
-      "summary": "TD Securities strategists explain that Gold has bounced after the Federal Open Market Committee (FOMC) left rates unchanged and Chair Warsh signaled tolerance for an inflation shock.",
-      "link": "https://www.fxstreet.com/news/gold-fomc-repricing-caps-cta-upside-td-securities-202607301419",
-      "published": "2026-07-30T14:19:27+00:00",
-      "score": 5
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$MSFT - MICROSOFT SHARES JUMP 15%, ON TRACK FOR BIGGEST PERCENTAGE GAIN SINCE 2008",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>  - MICROSOFT SHARES JUMP 15%, ON TRACK FOR BIGGEST PERCENTAGE GAIN SINCE 2008</p>",
-      "link": "https://nitter.net/DeItaone/status/2082828461828198705#m",
-      "published": "2026-07-30T13:59:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Microsoft stock, $MSFT, surges +15% and is now on track for its biggest daily gain since 2020. From one of the most hated to one of the most loved names literally overnight.",
-      "summary": "<p>BREAKING: Microsoft stock, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>, surges +15% and is now on track for its biggest daily gain since 2020.<br />\n<br />\nFrom one of the most hated to one of the most loved names literally overnight.</p>\n<img src=\"https://nitter.net/pic/media%2FHOesKvXXUAAxlt4.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2082822657943208419#m",
-      "published": "2026-07-30T13:36:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$MSFT - *MICROSOFT SHARES JUMP 12% IN BIGGEST ONE-DAY GAIN SINCE 2020",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>  - *MICROSOFT SHARES JUMP 12% IN BIGGEST ONE-DAY GAIN SINCE 2020</p>",
-      "link": "https://nitter.net/DeItaone/status/2082821361999688071#m",
-      "published": "2026-07-30T13:31:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "HASSETT: THINK WARSH’S JOB JUST GOT A BIT EASIER WITH TODAY’S INFLATION DATA",
-      "summary": "<p>HASSETT: THINK WARSH’S JOB JUST GOT A BIT EASIER WITH TODAY’S INFLATION DATA</p>",
-      "link": "https://nitter.net/DeItaone/status/2082820768182731184#m",
-      "published": "2026-07-30T13:29:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "HASSETT: I AM VERY BULLISH ON FED POLICY GOING IN THE PROPER DIRECTION.",
-      "summary": "<p>HASSETT: I AM VERY BULLISH ON FED POLICY GOING IN THE PROPER DIRECTION.</p>",
-      "link": "https://nitter.net/DeItaone/status/2082820596665098260#m",
-      "published": "2026-07-30T13:28:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: US June PCE inflation, the Fed's preferred inflation metric, falls to 3.7%, in-line with expectations. Core PCE inflation fell to 3.3%, the second highest reading since October 2024. US inflation continues to run at nearly double the Fed's 2.0% target.",
-      "summary": "<p>BREAKING: US June PCE inflation, the Fed's preferred inflation metric, falls to 3.7%, in-line with expectations.<br />\n<br />\nCore PCE inflation fell to 3.3%, the second highest reading since October 2024.<br />\n<br />\nUS inflation continues to run at nearly double the Fed's 2.0% target.</p>",
-      "link": "https://nitter.net/KobeissiLetter/status/2082806470182125741#m",
-      "published": "2026-07-30T12:32:13+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Forex",
@@ -262,24 +217,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1varftb/forex/",
       "published": "2026-07-30T11:52:15+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: More than 1.2 million leveraged retail trading accounts in South Korea triggered margin calls as ​of July 13th, with an estimated 320,000–360,000 accounts fully liquidated, per Goldman Sachs. This means around 3.4% of the adult ⁠population in South Korea has received margin calls. The KOSPI is currently down another ~18% since July 13th. We believe that the total number of fully liquidated accounts is now above 500,000.",
-      "summary": "<p>BREAKING: More than 1.2 million leveraged retail trading accounts in South Korea triggered margin calls as ​of July 13th, with an estimated 320,000–360,000 accounts fully liquidated, per Goldman Sachs.<br />\n<br />\nThis means around 3.4% of the adult ⁠population in South Korea has received margin calls.<br />\n<br />\nThe KOSPI is currently down another ~18% since July 13th.<br />\n<br />\nWe belie",
-      "link": "https://nitter.net/KobeissiLetter/status/2082792020993536283#m",
-      "published": "2026-07-30T11:34:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold approaches $4,100 as suspected Japanese intervention hits US Dollar",
-      "summary": "Gold (XAU/USD) remains trapped in its month-old $4,000-$4,200 range as the Federal Reserve’s (Fed) new era of limited forward guidance fails to shake the precious metal out of its sideways grind after policymakers left interest rates unchanged at 3.50%-3.75%.",
-      "link": "https://www.fxstreet.com/news/gold-caught-between-softer-us-dollar-and-rising-treasury-yields-us-pce-awaited-202607301120",
-      "published": "2026-07-30T11:20:05+00:00",
-      "score": 6
     },
     {
       "source": "r/Forex",
@@ -298,69 +235,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vaezc8/forex/",
       "published": "2026-07-30T01:06:30+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The equal-weighted Nasdaq 100 is now underperforming the equal-weighted S&P 500 by 6.8 percentage points so far in July, on track for its worst relative monthly performance on record. This follows 4 consecutive months of outperformance by equal-weighted technology stocks. There has not been a single month over the last 20 years in which the average tech stock underperformed the average S&P 500 stock by more than 5 percentage points. This comes as the equal-weighted S&P 500 is up +2.2% month-to-date, trading at an all-time high. At the same time, the equal-weighted Nasdaq 100 is down -4.6%, near its lowest since mid-May. Investors are taking profits on technology stocks at a historic pace.",
-      "summary": "<p>BREAKING: The equal-weighted Nasdaq 100 is now underperforming the equal-weighted S&amp;P 500 by 6.8 percentage points so far in July, on track for its worst relative monthly performance on record.<br />\n<br />\nThis follows 4 consecutive months of outperformance by equal-weighted technology stocks.<br />\n<br />\nThere has not been a single month over the last 20 years in which the average tech s",
-      "link": "https://nitter.net/KobeissiLetter/status/2082620135265775731#m",
-      "published": "2026-07-30T00:11:48+00:00",
-      "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Microsoft stock, $MSFT, surges over +8% after reporting stronger than expected earnings.",
-      "summary": "<p>BREAKING: Microsoft stock, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>, surges over +8% after reporting stronger than expected earnings.</p>\n<img src=\"https://nitter.net/pic/media%2FHObdSoZXsAAX6jj.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2082601814982283600#m",
-      "published": "2026-07-29T22:59:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Meta stock, $META, crashes over -9% after reporting weaker than expected earnings.",
-      "summary": "<p>BREAKING: Meta stock, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23META\">$META</a>, crashes over -9% after reporting weaker than expected earnings.</p>\n<img src=\"https://nitter.net/pic/media%2FHOa7ZsjXwAAoz_M.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2082557946672644580#m",
-      "published": "2026-07-29T20:04:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "There it is. US long-term borrowing costs are officially up to their highest level since 2007. The US 30Y Yield is now above 5.20%. \"Higher for longer\" is back.",
-      "summary": "<p>There it is.<br />\n<br />\nUS long-term borrowing costs are officially up to their highest level since 2007.<br />\n<br />\nThe US 30Y Yield is now above 5.20%.<br />\n<br />\n\"Higher for longer\" is back.</p>\n<img src=\"https://nitter.net/pic/media%2FHOa5Mg-XQAAQHpi.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2082555759221424551#m",
-      "published": "2026-07-29T19:55:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Fed days have become a complete free-for-all. The S&P 500 has now seen THREE swings totaling ~$2.9 TRILLION in market cap during today's session. Between 9:30 AM ET and 12:15 PM ET, the S&P 500 fell -85 points, losing -$770 billion. Between 12:15 PM ET and 2:55 PM ET, the S&P 500 rallied +110 points, adding +$1 trillion. Between 2:55 PM ET and 3:45 PM ET, the S&P 500 fell 120 points, losing -$1.1 trillion. The era of Fed guidance is over and the market is not liking it.",
-      "summary": "<p>Fed days have become a complete free-for-all.<br />\n<br />\nThe S&amp;P 500 has now seen THREE swings totaling ~$2.9 TRILLION in market cap during today's session.<br />\n<br />\nBetween 9:30 AM ET and 12:15 PM ET, the S&amp;P 500 fell -85 points, losing -$770 billion.<br />\n<br />\nBetween 12:15 PM ET and 2:55 PM ET, the S&amp;P 500 rallied +110 points, adding +$1 trillion.<br />\n<br />\nBetween 2:",
-      "link": "https://nitter.net/KobeissiLetter/status/2082554640273412580#m",
-      "published": "2026-07-29T19:51:32+00:00",
-      "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The Dow Jones Industrial Average extends losses to over -1,000 points on the day as chip stocks crash and the Fed holds rates.",
-      "summary": "<p>BREAKING: The Dow Jones Industrial Average extends losses to over -1,000 points on the day as chip stocks crash and the Fed holds rates.</p>\n<img src=\"https://nitter.net/pic/media%2FHOa09LhXgAAhigg.jpg\" />\n\n<hr />\n<blockquote>\n<b>The Kobeissi Letter (@KobeissiLetter)</b>\n<p>\n<p>Absolutely incredible.<br />\n<br />\nIn an unprecedented move, South Korea's stock market just collapsed -44% in 40 day",
-      "link": "https://nitter.net/KobeissiLetter/status/2082550844898029577#m",
-      "published": "2026-07-29T19:36:28+00:00",
-      "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The S&P 500 erases all losses and turns green on the day after the Fed decides to leave interest rates unchanged.",
-      "summary": "<p>BREAKING: The S&amp;P 500 erases all losses and turns green on the day after the Fed decides to leave interest rates unchanged.</p>\n<img src=\"https://nitter.net/pic/media%2FHOapZ83XkAEFG9b.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2082538157392687190#m",
-      "published": "2026-07-29T18:46:03+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
@@ -525,5 +399,16 @@
       "score": 1
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Kobeissi Letter",
+      "type": "twitter",
+      "error": "failed to parse feed (<urlopen error [Errno 110] Connection timed out>)"
+    },
+    {
+      "source": "Walter Bloomberg",
+      "type": "twitter",
+      "error": "failed to parse feed (<urlopen error [Errno 110] Connection timed out>)"
+    }
+  ]
 }
