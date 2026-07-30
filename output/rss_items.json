@@ -1,14 +1,104 @@
 {
-  "updated_at": "2026-07-30T01:02:44.089798+00:00",
-  "count": 65,
+  "updated_at": "2026-07-30T04:22:00.310272+00:00",
+  "count": 61,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Trump met Wednesday with Saudi Defense Minister Prince Khalid bin Salman: Axios, citing U.S. official",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9699407/Trump-met-Wednesday-with-Saudi-Defense-Minister-Prince-Khalid-bin-Salman-Axios-citing-US-official.aspx",
-      "published": "2026-07-30T00:42:41+00:00",
+      "title": "Silver Price Forecast: XAG/USD remains below $58.00 amid Fed hawkish pause",
+      "summary": "Silver price (XAG/USD) depreciates after registering modest gains in the previous day, trading around $57.90 per troy ounce during the Asian hours on Thursday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-below-5800-amid-fed-hawkish-pause-202607300355",
+      "published": "2026-07-30T03:55:24+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Struggles near 0.6950 as bears retain control below 100-EMA on H4",
+      "summary": "The AUD/USD pair turns lower following a modest Asian session uptick to the 0.6965 region on Thursday amid the emergence of some US Dollar (USD) dip-buying.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-struggles-near-06950-as-bears-retain-control-below-100-ema-on-h4-202607300350",
+      "published": "2026-07-30T03:50:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "$4,100: Gold fails near a key hurdle as Mideast tensions and Fed hike bets support USD",
+      "summary": "Gold (XAU/USD) attracts buyers for the second straight day, though it remains confined within the previous day's range and trades below the $4,100 mark during the Asian session on Thursday.",
+      "link": "https://www.fxstreet.com/news/4-100-gold-fails-near-a-key-hurdle-as-mideast-tensions-and-fed-hike-bets-support-usd-202607300340",
+      "published": "2026-07-30T03:40:35+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index regains ground on further escalation in Middle East war",
+      "summary": "The US Dollar (USD) trades slightly positive in the Asian session on Thursday after a juggernaut fall the previous day. At press time, the US Dollar Index (DXY), which gauges the Greenback’s value against six major currencies, trades 0.12% higher to near 100.92.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-regains-ground-on-further-escalation-in-middle-east-war-202607300318",
+      "published": "2026-07-30T03:18:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen softens after Fed leaves rates on hold",
+      "summary": "The USD/JPY pair posts modest gains near 163.50 during the Asian trading hours on Thursday. The US Dollar (USD) strengthens against the Japanese Yen (JPY) on a hawkish hold from the US Federal Reserve (Fed).",
+      "link": "https://www.fxstreet.com/news/japanese-yen-softens-after-fed-leaves-rates-on-hold-202607300232",
+      "published": "2026-07-30T02:32:22+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar rises as ANZ Business Outlook Index jumps in July",
+      "summary": "NZD/USD extends its gains for the third consecutive day, trading around 0.5810 during the Asian hours on Thursday. The currency pair climbs higher as the New Zealand Dollar (NZD) receives support from a sharp rise in domestic business confidence.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rises-as-anz-business-outlook-index-jumps-in-july-202607300155",
+      "published": "2026-07-30T01:55:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar consolidates as Mideast crisis supports oil and USD ahead of US data",
+      "summary": "The USD/CAD pair is seen consolidating below mid-1.4000s during the Asian session on Thursday, though it remains close to an over one-week trough touched the previous day.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-as-mideast-crisis-supports-oil-and-usd-ahead-of-us-data-202607300148",
+      "published": "2026-07-30T01:48:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar gains despite cooling domestic Inflation, hawkish Fed hold",
+      "summary": "AUD/USD inches higher after two days of losses, trading around 0.6960 during the Asian hours on Thursday. The currency pair may face potential downside pressure as the US Dollar (USD) could gain strength following a hawkish interest rate pause by the Federal Reserve (Fed).",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gains-despite-cooling-domestic-inflation-hawkish-fed-hold-202607300118",
+      "published": "2026-07-30T01:18:26+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7892 vs. 6.7899 previous",
+      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7892 compared to the previous day's fix of 6.7899.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67892-vs-67899-previous-202607300115",
+      "published": "2026-07-30T01:15:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound retreats from weekly high vs firmer USD as focus shifts to BoE, US data",
+      "summary": "The GBP/USD pair struggles to capitalize on the previous day's strong move up to the weekly high and drifts lower during the Asian session on Thursday.",
+      "link": "https://www.fxstreet.com/news/british-pound-retreats-from-weekly-high-vs-firmer-usd-as-focus-shifts-to-boe-us-data-202607300106",
+      "published": "2026-07-30T01:06:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Forex",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vaezc8/forex/\"> <img alt=\"Forex\" src=\"https://preview.redd.it/ppct1rdbo9gh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aeb6b802dafa3a7c68e8f828cdba59018378aaf0\" title=\"Forex\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>EurUsd: break upper black line go for long , break lower black line go for short</p> </div><!-- SC_",
+      "link": "https://www.reddit.com/r/Forex/comments/1vaezc8/forex/",
+      "published": "2026-07-30T01:06:30+00:00",
       "score": 1
     },
     {
@@ -75,33 +165,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar tumbles after divided Fed hold, Oil surges on Middle East escalation",
-      "summary": "The US Dollar (USD) falls sharply during the American session on Wednesday after the Federal Reserve (Fed) left interest rates unchanged. The Federal Open Market Committee (FOMC) maintained the federal funds target range at 3.50%–3.75% in a divided 9–3 vote.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-tumbles-after-divided-fed-hold-oil-surges-on-middle-east-escalation-202607292050",
-      "published": "2026-07-29T20:50:01+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver holds firm as Dollar slides after split Fed decision",
-      "summary": "Silver price clings to gains on Wednesday late in the North American session, as the Federal Reserve held rates unchanged, which, instead of strengthening the Dollar, weakened it, while US Treasury yields spiked. The XAG/USD trades at $57.17, barely unchanged.",
-      "link": "https://www.fxstreet.com/news/silver-holds-firm-as-dollar-slides-after-split-fed-decision-202607292024",
-      "published": "2026-07-29T20:24:50+00:00",
-      "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "No soft target: Warsh vows to return inflation to 2%",
-      "summary": "The Fed left interest rates unchanged at 3.50%-3.75%, but the decision carried a distinctly hawkish edge as three officials voted for an immediate 25-basis-point increase.",
-      "link": "https://www.fxstreet.com/news/no-soft-target-warsh-vows-to-return-inflation-to-2-202607292011",
-      "published": "2026-07-29T20:11:49+00:00",
-      "score": 3
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Meta stock, $META, crashes over -9% after reporting weaker than expected earnings.",
@@ -129,15 +192,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "WTI remains muted after Fed hold",
-      "summary": "West Texas Intermediate (WTI) Oil stayed muted near $83 per barrel following the Federal Reserve's (Fed) decision to hold interest rates constant on Wednesday afternoon. The price consolidation comes after recovering sharply from an intraday low near $78.90.",
-      "link": "https://www.fxstreet.com/news/wti-remains-muted-after-fed-hold-202607291945",
-      "published": "2026-07-29T19:45:46+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The Dow Jones Industrial Average extends losses to over -1,000 points on the day as chip stocks crash and the Fed holds rates.",
@@ -156,39 +210,12 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar rebounds after Fed hold",
-      "summary": "NZD/USD trades higher near the 0.5790 area on Wednesday, reversing its earlier decline as the US Dollar (USD) weakens sharply following the Federal Reserve’s (Fed) monetary policy announcement.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rebounds-after-fed-hold-202607291844",
-      "published": "2026-07-29T18:44:08+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen gains after hawkish Fed hold",
-      "summary": "USD/JPY trades near the 163.60 area on Wednesday, recovering from its immediate post-announcement decline as investors assess a generally hawkish Federal Reserve (Fed) monetary policy decision.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gains-after-hawkish-fed-hold-202607291841",
-      "published": "2026-07-29T18:41:47+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "SUMMARY OF FED CHAIR WARSH'S STATEMENT: 1. The US economy is showing \"impressive resilience\" 2. Inflation \"remains elevated\" relative to the Fed's 2% target 3. The policy statement displays \"just the facts\" and \"steers clear\" of guidance 4. There is no soft inflation target, the only target is 2% 5. Fed notes nominal and real yields are materially higher since last Fed meeting 6. Market participants are \"learning to play the ball, not the referee\" Once again, the Fed has declined to provide guidance.",
       "summary": "<p>SUMMARY OF FED CHAIR WARSH'S STATEMENT:<br />\n<br />\n1. The US economy is showing \"impressive resilience\"<br />\n<br />\n2. Inflation \"remains elevated\" relative to the Fed's 2% target<br />\n<br />\n3. The policy statement displays \"just the facts\" and \"steers clear\" of guidance<br />\n<br />\n4. There is no soft inflation target, the only target is 2%<br />\n<br />\n5. Fed notes nominal and real yiel",
       "link": "https://nitter.net/KobeissiLetter/status/2082536177140420638#m",
       "published": "2026-07-29T18:38:10+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar trims losses after Fed holds",
-      "summary": "The Aussie Dollar trimmed some of its earlier losses after the Federal Reserve kept rates steady, by a 9 to 3 vote, with three dissenters who supported a 25-basis-point rate hike. The AUD/USD trades at around 0.6950, down 0.32%.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-trims-losses-after-fed-holds-202607291833",
-      "published": "2026-07-29T18:33:03+00:00",
       "score": 3
     },
     {
@@ -199,60 +226,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1va4bzw/what_just_happened_to_usd/",
       "published": "2026-07-29T18:17:41+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro rises despite Fed hawkish hold, eyes on Warsh’s speech",
-      "summary": "The shared currency surged after the Federal Reserve (Fed) kept rates steady by a 9 to 3 vote. Three dissenters supported a 25-basis-point rate hike. The EUR/USD trades in a volatile fashion above 1.1420, up 0.3%.",
-      "link": "https://www.fxstreet.com/news/euro-rises-despite-fed-hawkish-hold-eyes-on-warshs-speech-202607291814",
-      "published": "2026-07-29T18:14:41+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones Industrial Average gets its rate relief and cannot hold it",
-      "summary": "The Federal Reserve (Fed) held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase.",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-finds-a-bid-in-the-thing-the-fed-did-not-do-202607291810",
-      "published": "2026-07-29T18:10:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound Sterling rents a rally it has to pay for in the morning",
-      "summary": "The Federal Reserve (Fed) held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase, and Sterling rallied through the 1.3300 shelf it lost last week to trade just above 1.3350. None of that is a British story.",
-      "link": "https://www.fxstreet.com/news/british-pound-sterling-collects-a-refund-on-the-fed-hike-that-never-came-202607291809",
-      "published": "2026-07-29T18:09:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold surges after Fed holds as hawkish dissent fuels volatility",
-      "summary": "Gold price rises during the North American session after the Federal Reserve (Fed) decided to hold rates unchanged, with a 9-3 vote split, as three members of the FOMC opted to increase the fed funds rate by 25 basis points.",
-      "link": "https://www.fxstreet.com/news/gold-surges-after-fed-holds-as-hawkish-dissent-fuels-volatility-202607291809",
-      "published": "2026-07-29T18:09:11+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The US Dollar Index discovers that a vote record is not a reaction function",
-      "summary": "The Federal Reserve held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase. Previews had that configuration as the hawkish tail, the outcome that would bid the Dollar and punish risk assets.",
-      "link": "https://www.fxstreet.com/news/the-us-dollar-index-sells-the-hold-and-ignores-the-hawks-202607291808",
-      "published": "2026-07-29T18:08:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Canadian Dollar waited for the Fed and got paid",
-      "summary": "The Federal Reserve held its target range at 3.50% to 3.75% at 18:00 GMT on a 9-3 vote, with three voting members preferring an immediate quarter-point increase, and USD/CAD fell out of a session-long range to print its low just beneath 1.4050.",
-      "link": "https://www.fxstreet.com/news/the-canadian-dollar-takes-its-bid-from-washington-as-usual-202607291808",
-      "published": "2026-07-29T18:08:24+00:00",
-      "score": 2
     },
     {
       "source": "Kobeissi Letter",
@@ -361,15 +334,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2082470168937001357#m",
       "published": "2026-07-29T14:15:53+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed's Warsh: We will deliver the 2% target",
-      "summary": "At the post-meeting press conference, Fed Chair Kevin Warsh explains why policymakers decided to keep interest rates unchanged after the July meeting and takes questions from reporters about the decision.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-set-to-hold-interest-rates-steady-yet-a-hike-cant-be-ruled-out-202607291400",
-      "published": "2026-07-29T14:00:00+00:00",
-      "score": 2
     },
     {
       "source": "Kobeissi Letter",
