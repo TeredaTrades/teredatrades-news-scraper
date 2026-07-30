@@ -1,7 +1,142 @@
 {
-  "updated_at": "2026-07-30T04:22:00.310272+00:00",
-  "count": 61,
+  "updated_at": "2026-07-30T07:13:55.140808+00:00",
+  "count": 64,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar gains ground above 0.5800 as Fed hold mutes US Dollar",
+      "summary": "The NZD/USD pair gathers strength to near 0.5810 during early European trading hours on Thursday, bolstered by the Reserve Bank of New Zealand (RBNZ) rate hike bets.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-ground-above-05800-as-fed-hold-mutes-us-dollar-202607300700",
+      "published": "2026-07-30T07:00:40+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Spanish CPI YoY Flash Actual 3.5% (Forecast 3.2%, Previous 3.2%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9699890/Spanish-CPI-YoY-Flash-Actual-35-Forecast-32-Previous-32.aspx?xy=rss",
+      "published": "2026-07-30T07:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Spanish CPI MoM Flash Actual 0.2% (Forecast 0%, Previous 0.60%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9699888/Spanish-CPI-MoM-Flash-Actual-02-Forecast-0-Previous-060.aspx?xy=rss",
+      "published": "2026-07-30T07:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Real yields drive correction risk – ING",
+      "summary": "ING’s Chris Turner notes that US real yields and the US Dollar (USD) fell after a confusing FOMC press conference, as markets sensed the Federal Reserve (Fed) may avoid further tightening.",
+      "link": "https://www.fxstreet.com/news/us-dollar-real-yields-drive-correction-risk-ing-202607300654",
+      "published": "2026-07-30T06:54:20+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: Rising 20-day EMA backs bullish bias",
+      "summary": "The USD/JPY pair trades 0.1% higher at around 163.60 during the European trading session on Thursday. The pair rises as the US Dollar (USD) regains ground due to intensifying military aggression between the United States (US) and Iran.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-rising-20-day-ema-backs-bullish-bias-202607300649",
+      "published": "2026-07-30T06:49:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar stabilizes after post-Fed volatility, eyes on BoE and US GDP data",
+      "summary": "Here is what you need to know on Thursday, July 30:",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-stabilizes-after-post-fed-volatility-eyes-on-boe-and-us-gdp-data-202607300642",
+      "published": "2026-07-30T06:42:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Fed split supports EUR against US Dollar – Commerzbank",
+      "summary": "Commerzbank’s FX Research team, including Charlie Lay and colleagues, notes that the Dollar Index fell and EUR/USD climbed after the Federal Reserve left rates unchanged but revealed a significant internal split.",
+      "link": "https://www.fxstreet.com/news/euro-fed-split-supports-eur-against-us-dollar-commerzbank-202607300624",
+      "published": "2026-07-30T06:24:13+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CAD Price Forecast: Rebounds above 1.4050, constructive outlook prevails above 100-day SMA",
+      "summary": "The USD/CAD pair trades in positive territory near 1.4050 during the early European session on Thursday. The US Dollar (USD) strengthens against the Canadian Dollar (CAD) on hawkish signals from the US Federal Reserve (Fed).",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-rebounds-above-14050-constructive-outlook-prevails-above-100-day-sma-202607300602",
+      "published": "2026-07-30T06:02:34+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: A bullish comeback seems underway",
+      "summary": "The Euro (EUR) trades marginally lower to near 1.1455 against the US Dollar (USD) during the early European trading session on Thursday.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-a-bullish-comeback-seems-underway-202607300555",
+      "published": "2026-07-30T05:55:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound declines as Fed hawkish rate holds boost US Dollar, BoE rate decision looms",
+      "summary": "The GBP/USD pair attracts some sellers to near 1.3345 during the early European trading hours on Thursday. The US Dollar (USD) edges higher against the British Pound (GBP) amid hawkish Federal Reserve (Fed) signals and escalating Middle East tensions.",
+      "link": "https://www.fxstreet.com/news/british-pound-declines-as-fed-hawkish-rate-holds-boost-us-dollar-boe-rate-decision-looms-202607300538",
+      "published": "2026-07-30T05:38:05+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee drops amid surging US Treasury Yields",
+      "summary": "The Indian Rupee (INR) drops against the US Dollar (USD) on Thursday. The USD/INR pair edges down to near 95.60, with the Indian currency facing a tough fight against higher United States (US) Treasury Yields.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-edges-up-despite-surging-us-treasury-yields-202607300536",
+      "published": "2026-07-30T05:36:20+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah holds ground as Bank Indonesia intensifies efforts to stabilize markets",
+      "summary": "USD/IDR inches higher after opening at a bearish gap, remaining in negative territory and trading around 18,110 during the Asian hours on Thursday.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-holds-ground-as-bank-indonesia-intensifies-efforts-to-stabilize-markets-202607300526",
+      "published": "2026-07-30T05:26:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar weakens against Japanese Yen as chances of RBA rate hikes fall",
+      "summary": "The AUD/JPY cross declines to around 113.65 during the early European session on Thursday. The pair currently trades 0.65% lower on the week as the likelihood of the Reserve Bank of Australia (RBA) raising interest rates has fallen.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-against-japanese-yen-as-chances-of-rba-rate-hikes-fall-202607300445",
+      "published": "2026-07-30T04:45:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc erodes part of Wednesday's gains to one-week top amid reviving USD demand",
+      "summary": "The USD/CHF pair regains positive traction on Thursday, rebounding from a one-week low and stalling its retracement slide from over a one-year high – levels just above the 0.8200 mark.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-erodes-part-of-wednesdays-gains-to-one-week-top-amid-reviving-usd-demand-202607300436",
+      "published": "2026-07-30T04:36:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "summary": "Gold prices fell in India on Thursday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202607300435",
+      "published": "2026-07-30T04:35:12+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -23,74 +158,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "$4,100: Gold fails near a key hurdle as Mideast tensions and Fed hike bets support USD",
-      "summary": "Gold (XAU/USD) attracts buyers for the second straight day, though it remains confined within the previous day's range and trades below the $4,100 mark during the Asian session on Thursday.",
+      "title": "Gold sticks to intraday losses as Mideast crisis fuel inflation risks and Fed hike bets",
+      "summary": "Gold (XAU/USD) remains depressed heading into the European session on Thursday and seems poised to extend its intraday rejection slide from the $4,100 mark.",
       "link": "https://www.fxstreet.com/news/4-100-gold-fails-near-a-key-hurdle-as-mideast-tensions-and-fed-hike-bets-support-usd-202607300340",
       "published": "2026-07-30T03:40:35+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index regains ground on further escalation in Middle East war",
-      "summary": "The US Dollar (USD) trades slightly positive in the Asian session on Thursday after a juggernaut fall the previous day. At press time, the US Dollar Index (DXY), which gauges the Greenback’s value against six major currencies, trades 0.12% higher to near 100.92.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-regains-ground-on-further-escalation-in-middle-east-war-202607300318",
-      "published": "2026-07-30T03:18:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen softens after Fed leaves rates on hold",
-      "summary": "The USD/JPY pair posts modest gains near 163.50 during the Asian trading hours on Thursday. The US Dollar (USD) strengthens against the Japanese Yen (JPY) on a hawkish hold from the US Federal Reserve (Fed).",
-      "link": "https://www.fxstreet.com/news/japanese-yen-softens-after-fed-leaves-rates-on-hold-202607300232",
-      "published": "2026-07-30T02:32:22+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar rises as ANZ Business Outlook Index jumps in July",
-      "summary": "NZD/USD extends its gains for the third consecutive day, trading around 0.5810 during the Asian hours on Thursday. The currency pair climbs higher as the New Zealand Dollar (NZD) receives support from a sharp rise in domestic business confidence.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rises-as-anz-business-outlook-index-jumps-in-july-202607300155",
-      "published": "2026-07-30T01:55:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar consolidates as Mideast crisis supports oil and USD ahead of US data",
-      "summary": "The USD/CAD pair is seen consolidating below mid-1.4000s during the Asian session on Thursday, though it remains close to an over one-week trough touched the previous day.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-as-mideast-crisis-supports-oil-and-usd-ahead-of-us-data-202607300148",
-      "published": "2026-07-30T01:48:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar gains despite cooling domestic Inflation, hawkish Fed hold",
-      "summary": "AUD/USD inches higher after two days of losses, trading around 0.6960 during the Asian hours on Thursday. The currency pair may face potential downside pressure as the US Dollar (USD) could gain strength following a hawkish interest rate pause by the Federal Reserve (Fed).",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gains-despite-cooling-domestic-inflation-hawkish-fed-hold-202607300118",
-      "published": "2026-07-30T01:18:26+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7892 vs. 6.7899 previous",
-      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7892 compared to the previous day's fix of 6.7899.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67892-vs-67899-previous-202607300115",
-      "published": "2026-07-30T01:15:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound retreats from weekly high vs firmer USD as focus shifts to BoE, US data",
-      "summary": "The GBP/USD pair struggles to capitalize on the previous day's strong move up to the weekly high and drifts lower during the Asian session on Thursday.",
-      "link": "https://www.fxstreet.com/news/british-pound-retreats-from-weekly-high-vs-firmer-usd-as-focus-shifts-to-boe-us-data-202607300106",
-      "published": "2026-07-30T01:06:57+00:00",
-      "score": 1
+      "score": 5
     },
     {
       "source": "r/Forex",
@@ -102,15 +174,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro edges lower to near 1.1450 as Fed holds rates steady, traders await Eurozone and German GDP",
-      "summary": "The EUR/USD pair trades with mild losses around 1.1465 during the early Asian session on Thursday. The US Dollar (USD) edges higher against the Euro (EUR) on a hawkish Federal Reserve (Fed) rate hold.",
-      "link": "https://www.fxstreet.com/news/euro-edges-lower-to-near-11450-as-fed-holds-rates-steady-traders-await-eurozone-and-german-gdp-202607300026",
-      "published": "2026-07-30T00:26:45+00:00",
-      "score": 3
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The equal-weighted Nasdaq 100 is now underperforming the equal-weighted S&P 500 by 6.8 percentage points so far in July, on track for its worst relative monthly performance on record. This follows 4 consecutive months of outperformance by equal-weighted technology stocks. There has not been a single month over the last 20 years in which the average tech stock underperformed the average S&P 500 stock by more than 5 percentage points. This comes as the equal-weighted S&P 500 is up +2.2% month-to-date, trading at an all-time high. At the same time, the equal-weighted Nasdaq 100 is down -4.6%, near its lowest since mid-May. Investors are taking profits on technology stocks at a historic pace.",
@@ -120,48 +183,12 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US President Donald Trump says US will strike Iran hard",
-      "summary": "US President Donald Trump said that he will order heavy strikes on Iran in retaliation for its “surprise attack” on US forces overnight, Bloomberg reported on Wednesday.",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-us-will-strike-iran-hard-202607292338",
-      "published": "2026-07-29T23:38:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold rebounds to near $4,100 as Fed leaves interest rates unchanged",
-      "summary": "Gold price (XAU/USD) rebounds to around $4,095 during the early Asian session on Thursday.",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-to-near-4-100-as-fed-leaves-interest-rates-unchanged-202607292320",
-      "published": "2026-07-29T23:20:15+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/JPY Price Forecast: Bulls reclaim 218.00 as RSI improves",
-      "summary": "The GBP/JPY advances by over 0.30%, rising above 218.00, as risk appetite improves amid overall US Dollar weakness following the Federal Reserve's monetary policy decision. The pair trades near 218.50 after hitting a low of the day (LOD) of 217.16.",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-reclaim-21800-as-rsi-improves-202607292312",
-      "published": "2026-07-29T23:12:14+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Microsoft stock, $MSFT, surges over +8% after reporting stronger than expected earnings.",
       "summary": "<p>BREAKING: Microsoft stock, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>, surges over +8% after reporting stronger than expected earnings.</p>\n<img src=\"https://nitter.net/pic/media%2FHObdSoZXsAAX6jj.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2082601814982283600#m",
       "published": "2026-07-29T22:59:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "A Fed hold, a Warsh non-answer, and one day of cover for the Japanese Yen",
-      "summary": "The Federal Reserve (Fed) held its target range at 3.50% to 3.75% for a fifth consecutive meeting at 18:00 GMT, and the pair did what a market short the Yen against a 1.00% policy rate does when a hike it partly paid for fails to arrive.",
-      "link": "https://www.fxstreet.com/news/a-fed-hold-a-warsh-non-answer-and-one-day-of-cover-for-the-japanese-yen-202607292247",
-      "published": "2026-07-29T22:47:52+00:00",
       "score": 1
     },
     {
