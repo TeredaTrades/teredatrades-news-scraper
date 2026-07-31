@@ -1,96 +1,195 @@
 {
-  "updated_at": "2026-07-31T04:42:10.046624+00:00",
-  "count": 51,
+  "updated_at": "2026-07-31T07:37:04.486962+00:00",
+  "count": 64,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "summary": "Gold prices fell in India on Friday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202607310435",
-      "published": "2026-07-31T04:35:21+00:00",
+      "title": "USD/JPY Price Forecast: Likely extend decline below 158.00",
+      "summary": "The US Dollar (USD) gives back some of its early gains against the Japanese Yen (JPY), but is still 0.5% higher at around 160.30 during the European trading session on Friday.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-likely-extend-decline-below-15800-202607310725",
+      "published": "2026-07-31T07:25:43+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indonesian Rupiah loses ground following China PMI release",
-      "summary": "USD/IDR gains ground after two days of losses, trading around 18,120 during the Asian hours on Friday. The pair appreciates as the Indonesian Rupiah (IDR) struggles following the release of disappointing Purchasing Managers' Index (PMI) data from China, Indonesia’s largest trading partner.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-loses-ground-following-china-pmi-release-202607310424",
-      "published": "2026-07-31T04:24:01+00:00",
+      "title": "Silver Price Forecast: XAG/USD falls to near $58.00 on hawkish Fed sentiment",
+      "summary": "Silver price (XAG/USD) declines after two days of gains, trading around $58.10 per troy ounce during the early European hours on Friday. The non-yielding white metal is facing notable challenges amid expectations for tighter Federal Reserve (Fed) monetary policy.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-5800-on-hawkish-fed-sentiment-202607310717",
+      "published": "2026-07-31T07:17:50+00:00",
+      "score": 6
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoJ's Governor Ueda: FX impact on inflation is bigger than before",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702067/BoJs-Governor-Ueda-FX-impact-on-inflation-is-bigger-than-before.aspx?xy=rss",
+      "published": "2026-07-31T07:10:24+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "EUR/USD Price Forecast: Weakens to near 1.1500 as 100-day SMA caps upside",
-      "summary": "The EUR/USD pair trades in negative territory around 1.1500 during the early European trading hours on Friday. The Euro (EUR) softens against the US Dollar (USD) as escalating tensions in the Middle East weigh on riskier assets.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-weakens-to-near-11500-as-100-day-sma-caps-upside-202607310416",
-      "published": "2026-07-31T04:16:55+00:00",
+      "title": "Euro holds gains above 1.1500 awaiting of Eurozone inflation data",
+      "summary": "The Euro (EUR) nudges lower against the US Dollar (USD) on Friday, but remains near six-week highs, holding well above 1.1500 so far, on track for a 1.3% rally this week, its best weekly performance in nearly four months.",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11500-awaiting-of-eurozone-inflation-data-202607310703",
+      "published": "2026-07-31T07:03:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Currency Strength Chart: Strongest: AUD, USD, CAD, EUR, GBP, NZD, CHF, JPY - Weakest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702051/Currency-Strength-Chart-Strongest-AUD-USD-CAD-EUR-GBP-NZD-CHF-JPY---Weakest.aspx?xy=rss",
+      "published": "2026-07-31T07:01:32+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold drifts lower as USD recovers amid Fed hike bets and geopolitical tensions",
-      "summary": "Gold (XAU/USD) continues with its struggle to build on gains beyond the $4,100 mark and drifts lower during the Asian session on Friday, snapping a two-day winning streak.",
+      "title": "Equities: Tech rebound spreads across global markets – Deutsche Bank",
+      "summary": "Deutsche Bank strategists note that strong Microsoft earnings triggered a global technology rebound, lifting the KOSPI, Nasdaq and semiconductor stocks.",
+      "link": "https://www.fxstreet.com/news/equities-tech-rebound-spreads-across-global-markets-deutsche-bank-202607310700",
+      "published": "2026-07-31T07:00:13+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar gathers strength above 0.7000 amid softer US GDP data",
+      "summary": "The AUD/USD pair gathers strength to near 0.7035, the highest since June 17, during the early European session on Friday. Expectations that the Reserve Bank of Australia (RBA) might implement another interest rate hike this year underpin the Australian Dollar (AUD) against the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gathers-strength-above-07000-amid-softer-us-gdp-data-202607310654",
+      "published": "2026-07-31T06:54:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index Price Forecast: Exposes to 99.00 on Double Top breakdown",
+      "summary": "The US Dollar (USD) attempts to snap its three-day losing streak on Friday. In European trade, the US Dollar Index (DXY), which tracks the Greenback’s value against six major currencies, trades 0.27% higher to near 100.23. The DXY attracts bids after posting a fresh six-week low at 99.85.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-exposes-to-9900-on-double-top-breakdown-202607310654",
+      "published": "2026-07-31T06:54:16+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoJ's Governor Ueda: Underlying inflation approaching 2%, can't ignore risk of overshooting 2%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702038/BoJs-Governor-Ueda-Underlying-inflation-approaching-2-cant-ignore-risk-of-overshooting-2.aspx?xy=rss",
+      "published": "2026-07-31T06:53:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoJ's Governor Ueda: Policy can move before inflation trend fully entrenched",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702037/BoJs-Governor-Ueda-Policy-can-move-before-inflation-trend-fully-entrenched.aspx?xy=rss",
+      "published": "2026-07-31T06:52:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Upside risks after sharp Dollar shift – ING",
+      "summary": "ING’s Francesco Pesole writes that EUR/USD broke above 1.150 as broad Dollar weakness persisted, even as the Euro underperformed some G10 peers despite stronger Eurozone data.",
+      "link": "https://www.fxstreet.com/news/euro-upside-risks-after-sharp-dollar-shift-ing-202607310646",
+      "published": "2026-07-31T06:46:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: French CPI YoY NSA Prelim Actual 2.1% (Forecast 1.8%, Previous 1.8%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702023/French-CPI-YoY-NSA-Prelim-Actual-21-Forecast-18-Previous-18.aspx?xy=rss",
+      "published": "2026-07-31T06:45:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: French CPI MoM NSA Prelim Actual 0.6% (Forecast 0.3%, Previous -0.3%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702022/French-CPI-MoM-NSA-Prelim-Actual-06-Forecast-03-Previous--03.aspx?xy=rss",
+      "published": "2026-07-31T06:45:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc holds losses following weaker Real Retail Sales",
+      "summary": "USD/CHF gains ground after two days of losses, trading around 0.8070 during the Asian hours on Friday.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-holds-losses-following-weaker-real-retail-sales-202607310641",
+      "published": "2026-07-31T06:41:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Intervention and cautious BoJ stance – Commerzbank",
+      "summary": "Commerzbank’s Volkmar Baur reports that Japan’s Ministry of Finance intervened in FX markets, with apparent US Treasury support, to address a weak Japanese Yen as Tokyo inflation stabilises around 2% with upside risks.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-and-cautious-boj-stance-commerzbank-202607310629",
+      "published": "2026-07-31T06:29:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "GBP/USD Price Forecast: Weakens below 1.3450 while technical uptrend stays intact",
+      "summary": "The GBP/USD pair trades in negative territory around 1.3445 during the early European trading hours on Friday. Heightened Middle East tensions and rising global oil prices provide some support to a safe-haven currency such as the US Dollar (USD) against the British Pound (GBP).",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-weakens-below-13450-while-technical-uptrend-stays-intact-202607310552",
+      "published": "2026-07-31T05:52:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee rallies further against US Dollar, RBI policy awaited",
+      "summary": "The Indian Rupee (INR) extends the week-long rally against the US Dollar (USD) on Friday.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-week-high-against-us-dollar-202607310543",
+      "published": "2026-07-31T05:43:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Asian stocks surge, led by KOSPI on AI optimism, Wall Street gains",
+      "summary": "Asian stock markets move higher on Friday, tracking overnight gains on Wall Street as a global rally in semiconductor stocks and renewed AI optimism lifted sentiment. Strong earnings from Microsoft and Amazon reinforced expectations for continued hyperscaler investment and resilient AI demand.",
+      "link": "https://www.fxstreet.com/news/asian-stocks-surge-led-by-kospi-on-ai-optimism-wall-street-gains-202607310508",
+      "published": "2026-07-31T05:08:44+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar retreats on sliding oil prices as USD recovers on Fed bets, Mideast risks",
+      "summary": "The USD/CAD pair edges higher during the Asian session on Friday and, for now, seems to have snapped a three-day losing streak to the lowest level since June 17, touched the previous day.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-retreats-on-sliding-oil-prices-as-usd-recovers-on-fed-bets-mideast-risks-202607310503",
+      "published": "2026-07-31T05:03:36+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "A Babaganz Take on Trading - Week 5: Understanding Candlestick Pattern: Part 2",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Quick background — I'm a XAUUSD trader, day trading, and I've got a 9-5 job so I'm not someone who can sit and watch screens all day. I've lost money for the last 6-8 years doing this, and I recently rebuilt my whole approach to trading — since then I'm finally seeing better results.</p> <p>So I figured I'd share what I've learned along the way — what works, what ",
+      "link": "https://www.reddit.com/r/Forex/comments/1vbgxre/a_babaganz_take_on_trading_week_5_understanding/",
+      "published": "2026-07-31T04:52:00+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold seems vulnerable below $4,100 as USD recovers on Iran risks and Fed hike bets",
+      "summary": "Gold (XAU/USD) maintains its offered tone heading into the European session on Friday and seems vulnerable after struggling to build on a two-day-old move up above the $4,100 mark.",
       "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-usd-recovers-amid-fed-hike-bets-and-geopolitical-tensions-202607310355",
       "published": "2026-07-31T03:55:06+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD declines to near $58.40 as US Dollar regains ground",
-      "summary": "Silver price (XAG/USD) is down almost 1% to near $58.40 during the Asian trading session on Friday. The white metal faces selling pressure as the US Dollar (USD) rebounds slightly, attempting to snap a three-day losing streak.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-declines-to-near-5840-as-us-dollar-regains-ground-202607310342",
-      "published": "2026-07-31T03:42:05+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Musk: \"fake news\" in reply to report Tesla considers sale of China business for possible SpaceX merger",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9701826/Musk-fake-news-in-reply-to-report-Tesla-considers-sale-of-China-business-for-possible-SpaceX-merger.aspx?xy=rss",
-      "published": "2026-07-31T03:41:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "1%: Japanese Yen weakens as BoJ holds rates",
-      "summary": "USD/JPY rises after two days of losses, trading around 160.80 during the Asian hours on Friday. The currency pair continues to appreciate as the Japanese Yen (JPY) weakens following the Bank of Japan’s (BoJ) decision to keep its short-term interest rate unchanged at 1.00%.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-bank-of-japan-holds-rates-at-1-202607310337",
-      "published": "2026-07-31T03:37:25+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoJ report on risks: maintaining core CPI inflation near 2% crucial to prevent upward deviation and negative economic impact",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9701812/BoJ-report-on-risks-maintaining-core-CPI-inflation-near-2-crucial-to-prevent-upward-deviation-and-negative-economic-impact.aspx?xy=rss",
-      "published": "2026-07-31T03:23:05+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro rallies further above 185.00 against Japanese Yen after BoJ’s policy decision",
-      "summary": "The Euro (EUR) extends the intraday rally to near 185.20 against the Japanese Yen (JPY) after the Bank of Japan’ (BoJ) monetary policy decision during the Asian trading session on Friday. The BoJ has kept interest rates steady at 1%, as expected, with an 8-1 majority.",
-      "link": "https://www.fxstreet.com/news/eur-jpy-rallies-further-above-18500-against-japanese-yen-after-bojs-policy-decision-202607310321",
-      "published": "2026-07-31T03:21:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound falls as US Dollar receives from internal FOMC policy split",
-      "summary": "GBP/USD loses ground after three days of gains, trading around 1.3450 during the Asian hours on Friday. The pair depreciates as the US Dollar (USD) gains support from a hawkish pause by the Federal Reserve (Fed) and an internal FOMC policy split.",
-      "link": "https://www.fxstreet.com/news/british-pound-falls-as-us-dollar-receives-from-internal-fomc-policy-split-202607310312",
-      "published": "2026-07-31T03:12:08+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
@@ -99,60 +198,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vbev6f/18_rr_gold_buys/\"> <img alt=\"1:8 rr gold buys\" src=\"https://preview.redd.it/ohjqqgvkfhgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f02fe214437095f65f777dd95882121cec55c14\" title=\"1:8 rr gold buys\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>We are currently in a bullish market on gold , I have an entry at 4",
       "link": "https://www.reddit.com/r/Forex/comments/1vbev6f/18_rr_gold_buys/",
       "published": "2026-07-31T03:11:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar inches lower as China’s NBS Manufacturing PMI falls in July",
-      "summary": "AUD/USD inches lower after registering over 1% gains in the previous day, trading around 0.7020 during the Asian hours on Friday. The pair remains subdued following the release of disappointing Chinese Purchasing Managers' Index (PMI) data.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-inches-lower-as-chinas-nbs-manufacturing-pmi-falls-in-july-202607310213",
-      "published": "2026-07-31T02:13:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: Climbs back above mid-160.00s as BoJ rate decision looms",
-      "summary": "The USD/JPY pair is seen building on the previous day's late recovery from sub-158.00 levels, or the lowest since May 14, and gaining positive traction during the Asian session on Friday.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-climbs-back-above-mid-16000s-as-boj-rate-decision-looms-202607310159",
-      "published": "2026-07-31T01:59:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index bounces off its lowest level since June 17, back above 100.00",
-      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, gains some positive traction and climbs back above the 100.00 psychological mark during the Asian session on Friday.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-bounces-off-its-lowest-level-since-june-17-back-above-10000-202607310133",
-      "published": "2026-07-31T01:33:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar holds losses following China PMI data",
-      "summary": "NZD/USD loses ground after three days of gains, trading around 0.5870 during the Asian hours on Friday. The pair remains subdued following the release of China's Purchasing Managers Index (PMI) data.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-ahead-of-china-pmi-data-202607310124",
-      "published": "2026-07-31T01:24:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7894 vs. 6.7892 previous",
-      "summary": "On Friday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7894 compared to the previous day's fix of 6.7892.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67894-vs-67892-previous-202607310116",
-      "published": "2026-07-31T01:16:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro softens to near 1.1500 as US-Iran war widens",
-      "summary": "The EUR/ USD pair loses ground to near 1.1515 during the early Asian trading hours on Friday. The Euro (EUR) softens against the US Dollar (USD) amid risk-off sentiment and fears of wider war in the Middle East.",
-      "link": "https://www.fxstreet.com/news/euro-softens-to-near-11500-as-us-iran-war-widens-202607310112",
-      "published": "2026-07-31T01:12:07+00:00",
       "score": 1
     },
     {
@@ -165,12 +210,30 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "APPLE BEATS ESTIMATES ON IPHONE, MAC STRENGTH Results EPS: $2.02 ($1.91 ex-tariff refunds) vs. $1.89 est. ✅ Revenue: $109.42B vs. $108.65B est. ✅ Gross Margin: 50.1% (48.1% ex-tariff refunds) vs. 47.9% est. ✅ iPhone Revenue: $54.25B vs. $53.86B est. ✅ Mac Revenue: $10.35B vs. $8.74B est. ✅ iPad Revenue: $6.19B vs. $6.92B est. ❌ Services Revenue: $30.74B vs. $31.22B est. ❌ Wearables Revenue: $7.88B vs. $7.82B est. ✅ Greater China Revenue: $18.82B, +22.4% YoY. Key Takeaways CEO: Advanced chipmaking bottlenecks remain the primary supply constraint. Shares: Fell ~4% in extended trading.",
+      "summary": "<p>APPLE BEATS ESTIMATES ON IPHONE, MAC STRENGTH<br />\n<br />\nResults<br />\n<br />\nEPS: $2.02 ($1.91 ex-tariff refunds) vs. $1.89 est. ✅<br />\nRevenue: $109.42B vs. $108.65B est. ✅<br />\nGross Margin: 50.1% (48.1% ex-tariff refunds) vs. 47.9% est. ✅<br />\niPhone Revenue: $54.25B vs. $53.86B est. ✅<br />\nMac Revenue: $10.35B vs. $8.74B est. ✅<br />\niPad Revenue: $6.19B vs. $6.92B est. ❌<br />\nServi",
+      "link": "https://nitter.net/DeItaone/status/2082933232874426433#m",
+      "published": "2026-07-30T20:55:56+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Apple stock, $AAPL, falls nearly -4% despite posting stronger than expected earnings.",
       "summary": "<p>BREAKING: Apple stock, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a>, falls nearly -4% despite posting stronger than expected earnings.</p>\n<img src=\"https://nitter.net/pic/media%2FHOgLY3PXYAA9cQO.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2082927354406437045#m",
       "published": "2026-07-30T20:32:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ORDERS RESTRICTIONS ON EXPORT OF CRITICAL MINERALS SCRAP - WHITE HOUSE OFFICIALS",
+      "summary": "<p>TRUMP ORDERS RESTRICTIONS ON EXPORT OF CRITICAL MINERALS SCRAP - WHITE HOUSE OFFICIALS</p>",
+      "link": "https://nitter.net/DeItaone/status/2082925876342051125#m",
+      "published": "2026-07-30T20:26:42+00:00",
       "score": 1
     },
     {
@@ -201,6 +264,15 @@
       "score": 2
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP'S BOARD OF PEACE BELIEVE HAMAS COULD SIGN AN AGREEMENT IN COMING DAYS TO BEGIN DISARMING AND DEMILITARIZING GAZA STRIP -AXIOS",
+      "summary": "<p>TRUMP'S BOARD OF PEACE BELIEVE HAMAS COULD SIGN AN AGREEMENT IN COMING DAYS TO BEGIN DISARMING AND DEMILITARIZING GAZA STRIP -AXIOS</p>",
+      "link": "https://nitter.net/DeItaone/status/2082909884933140497#m",
+      "published": "2026-07-30T19:23:09+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "AI generated content is rapidly growing. But no one wants to read it. A new study shows that AI generated content now accounts for 41% of long-form content on LinkedIn, 13% on Reddit, and 10% on Substack. Even short-form content is now AI generated, with 30% of short-form posts on LinkedIn and 12% on Substack coming from AI. At the same time, AI-generated posts on LinkedIn receive 45% LESS engagement than human-written posts, on average. Amid the growth of AI, humans are behind all of our posts, research, and analysis. The gap between AI-written and human-sounding content is becoming one of the biggest differentiators on social media.",
@@ -216,6 +288,15 @@
       "summary": "<p>BREAKING: The S&amp;P 500 extends gains to over +100 points on the day as dip buyers rotate into technology and chip stocks.</p>\n<img src=\"https://nitter.net/pic/media%2FHOfjlNvWMAAO0uU.png\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2082883595648008581#m",
       "published": "2026-07-30T17:38:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ABC SAYS TRUMP ADMINISTRATION IS RETALIATING AGAINST NETWORK OVER ITS NEWS COVERAGE IN EARLY LICENSE REVIEW, SENDING WARNING TO ALL OTHER MEDIA COMPANIES -- FILING",
+      "summary": "<p>ABC SAYS TRUMP ADMINISTRATION IS RETALIATING AGAINST NETWORK OVER ITS NEWS COVERAGE IN EARLY LICENSE REVIEW, SENDING WARNING TO ALL OTHER MEDIA COMPANIES -- FILING</p>",
+      "link": "https://nitter.net/DeItaone/status/2082845587733426257#m",
+      "published": "2026-07-30T15:07:40+00:00",
       "score": 1
     },
     {
@@ -237,12 +318,48 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$MSFT - MICROSOFT SHARES JUMP 15%, ON TRACK FOR BIGGEST PERCENTAGE GAIN SINCE 2008",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>  - MICROSOFT SHARES JUMP 15%, ON TRACK FOR BIGGEST PERCENTAGE GAIN SINCE 2008</p>",
+      "link": "https://nitter.net/DeItaone/status/2082828461828198705#m",
+      "published": "2026-07-30T13:59:37+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Microsoft stock, $MSFT, surges +15% and is now on track for its biggest daily gain since 2020. From one of the most hated to one of the most loved names literally overnight.",
       "summary": "<p>BREAKING: Microsoft stock, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>, surges +15% and is now on track for its biggest daily gain since 2020.<br />\n<br />\nFrom one of the most hated to one of the most loved names literally overnight.</p>\n<img src=\"https://nitter.net/pic/media%2FHOesKvXXUAAxlt4.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2082822657943208419#m",
       "published": "2026-07-30T13:36:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$MSFT - *MICROSOFT SHARES JUMP 12% IN BIGGEST ONE-DAY GAIN SINCE 2020",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>  - *MICROSOFT SHARES JUMP 12% IN BIGGEST ONE-DAY GAIN SINCE 2020</p>",
+      "link": "https://nitter.net/DeItaone/status/2082821361999688071#m",
+      "published": "2026-07-30T13:31:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "HASSETT: THINK WARSH’S JOB JUST GOT A BIT EASIER WITH TODAY’S INFLATION DATA",
+      "summary": "<p>HASSETT: THINK WARSH’S JOB JUST GOT A BIT EASIER WITH TODAY’S INFLATION DATA</p>",
+      "link": "https://nitter.net/DeItaone/status/2082820768182731184#m",
+      "published": "2026-07-30T13:29:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "HASSETT: I AM VERY BULLISH ON FED POLICY GOING IN THE PROPER DIRECTION.",
+      "summary": "<p>HASSETT: I AM VERY BULLISH ON FED POLICY GOING IN THE PROPER DIRECTION.</p>",
+      "link": "https://nitter.net/DeItaone/status/2082820596665098260#m",
+      "published": "2026-07-30T13:28:21+00:00",
       "score": 1
     },
     {
