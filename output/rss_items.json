@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-07-31T18:25:22.507598+00:00",
-  "count": 65,
+  "updated_at": "2026-07-31T20:03:05.000292+00:00",
+  "count": 72,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +465 mln<br />Nasdaq 100: +1044 mln<br />Dow 30: +788 mln<br />Mag 7: +1093 mln",
+      "link": "https://www.financialjuice.com/News/9703129/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-07-31T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CHF Price Forecast: Bulls defend 50-day SMA as rebound builds",
+      "summary": "The USD/CHF bounces off weekly lows and meanders around 0.8080 after hitting a daily high of 0.8127, amid presumed intervention, with Nikkei reporting that the US Treasury Department has told currency market participants to prepare for additional intervention, following Thursday's action by Japanese",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-defend-50-day-sma-as-rebound-builds-202607311949",
+      "published": "2026-07-31T19:49:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold slides as US yields surge, keeping $4,100 out of reach",
+      "summary": "Gold price tumbles nearly 1.50% on Friday as the US Dollar recovers some ground after Japanese authorities intervened in the foreign exchange markets a day ago, driving the Greenback to a 30-day low before recovering, according to the US Dollar Index (DXY). The XAU/USD trades at $4,045.",
+      "link": "https://www.fxstreet.com/news/gold-slides-as-us-yields-surge-keeping-4-100-out-of-reach-202607311944",
+      "published": "2026-07-31T19:44:44+00:00",
+      "score": 5
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Monday FX Options Expiries",
+      "summary": "<ul><li><strong>USD/JPY:</strong> 162.50 ($1.75b), 160.00 ($1.48b), 158.60 ($994.2m)</li><li><strong>EUR/USD: </strong>1.1500 (EU1.45b), 1.1400 (EU961.1m), 1.2500 (EU786.4m)</li><li><strong>AUD/USD: </strong>0.6950 (AUD1.54b), 0.7000 (AUD674.6m), 0.7145 (AUD321m)</li><li><strong>USD/BRL:</strong> 5.2500 ($928.4m), 5.2000 ($461.5m), 5.1200 ($320.3m)</li><li><strong>USD/CNY: </strong>6.8660 ($900m)<",
+      "link": "https://www.financialjuice.com/News/9703091/Monday-FX-Options-Expiries-.aspx?xy=rss",
+      "published": "2026-07-31T19:22:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index struggles near 100 after suspected Japanese intervention",
+      "summary": "The US Dollar Index (DXY) struggles to hold its early recovery on Friday as the fallout from suspected Japanese intervention and the possibility of direct action by the United States (US) keep the Greenback under pressure.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-struggles-near-100-after-suspected-japanese-intervention-202607311855",
+      "published": "2026-07-31T18:55:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US banks are said to have been asked by the NY Fed to check EUR/JPY rate.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9703031/US-banks-are-said-to-have-been-asked-by-the-NY-Fed-to-check-EURJPY-rate.aspx?xy=rss",
+      "published": "2026-07-31T18:26:00+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -75,75 +129,57 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Barkin: It's a close call whether rates are high enough to bring inflation down - WSJ.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702940/Feds-Barkin-Its-a-close-call-whether-rates-are-high-enough-to-bring-inflation-down---WSJ.aspx?xy=rss",
-      "published": "2026-07-31T16:50:18+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump concludes the Cabinet Meeting.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702913/Trump-concludes-the-Cabinet-Meeting.aspx?xy=rss",
-      "published": "2026-07-31T16:28:03+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP SAYS IRAN LIED DURING NEGOTIATIONS *TRUMP SAYS IRAN FIRED FIVE MISSILES AT JORDAN",
+      "summary": "<p>*TRUMP SAYS IRAN LIED DURING NEGOTIATIONS<br />\n<br />\n*TRUMP SAYS IRAN FIRED FIVE MISSILES AT JORDAN</p>",
+      "link": "https://nitter.net/DeItaone/status/2083227777105363352#m",
+      "published": "2026-07-31T16:26:21+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump, asked about the possibility of an Iran deal: I am losing faith in Iran because they lie.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702912/Trump-asked-about-the-possibility-of-an-Iran-deal-I-am-losing-faith-in-Iran-because-they-lie.aspx?xy=rss",
-      "published": "2026-07-31T16:23:11+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: CAN REACH A DEAL",
+      "summary": "<p>TRUMP ON IRAN: CAN REACH A DEAL</p>",
+      "link": "https://nitter.net/DeItaone/status/2083226995131867572#m",
+      "published": "2026-07-31T16:23:14+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Iran: Witkoff, Kushner, Vance, and Rubio are involved in talks.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702911/Trump-on-Iran-Witkoff-Kushner-Vance-and-Rubio-are-involved-in-talks.aspx?xy=rss",
-      "published": "2026-07-31T16:22:42+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON UKRAINE, MISSILES: WE HAVE TO BE VERY CAREFUL ABOUT LETTING SOMEBODY BUILD THEM TRUMP ON UKRAINE, MISSILES: HAVE NOT AGREED TO THAT TRUMP ON UKRAINE, MISSILES: I DON'T THINK THIS WOULD EVER HAPPEN",
+      "summary": "<p>TRUMP ON UKRAINE, MISSILES: WE HAVE TO BE VERY CAREFUL ABOUT LETTING SOMEBODY BUILD THEM<br />\n<br />\nTRUMP ON UKRAINE, MISSILES: HAVE NOT AGREED TO THAT<br />\n<br />\nTRUMP ON UKRAINE, MISSILES: I DON'T THINK THIS WOULD EVER HAPPEN</p>",
+      "link": "https://nitter.net/DeItaone/status/2083226145139437821#m",
+      "published": "2026-07-31T16:19:52+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump praises NVIDIA. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702910/Trump-praises-NVIDIA-NVDA.aspx?xy=rss",
-      "published": "2026-07-31T16:22:05+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Iran Attacks: We've already gone big.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702909/Trump-on-Iran-Attacks-Weve-already-gone-big.aspx?xy=rss",
-      "published": "2026-07-31T16:17:57+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON ISRAEL, HAMAS DEAL: BIG STEP FOR MIDDLE EAST",
+      "summary": "<p>TRUMP ON ISRAEL, HAMAS DEAL: BIG STEP FOR MIDDLE EAST</p>",
+      "link": "https://nitter.net/DeItaone/status/2083224374669177006#m",
+      "published": "2026-07-31T16:12:50+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Iran: We'll be hitting them very hard.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702887/Trump-on-Iran-Well-be-hitting-them-very-hard.aspx?xy=rss",
-      "published": "2026-07-31T16:11:51+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: WE'LL BE HITTING THEM",
+      "summary": "<p>TRUMP ON IRAN: WE'LL BE HITTING THEM</p>",
+      "link": "https://nitter.net/DeItaone/status/2083224121115050038#m",
+      "published": "2026-07-31T16:11:49+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Iran Diplomacy: We just want to win.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702886/Trump-on-Iran-Diplomacy-We-just-want-to-win.aspx?xy=rss",
-      "published": "2026-07-31T16:11:05+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: IRAN ARE BEING DECIMATED",
+      "summary": "<p>TRUMP: IRAN ARE BEING DECIMATED</p>",
+      "link": "https://nitter.net/DeItaone/status/2083224066748555522#m",
+      "published": "2026-07-31T16:11:36+00:00",
       "score": 1
     },
     {
@@ -156,15 +192,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Treasury Secretary Bessent: Core inflation is low, consumer confidence is strong.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702885/US-Treasury-Secretary-Bessent-Core-inflation-is-low-consumer-confidence-is-strong.aspx?xy=rss",
-      "published": "2026-07-31T16:03:03+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "British Pound holds firm as USD rebounds from intervention rout",
@@ -174,21 +201,21 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Soon, Iran won't have some military capacity left.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702873/Trump-Soon-Iran-wont-have-some-military-capacity-left.aspx?xy=rss",
-      "published": "2026-07-31T15:47:57+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: IRAN'S MISSILE CAPABILITY WEAKENED President Donald Trump said Iran still has \"a few missiles,\" but far fewer than it did four to five months ago. Trump added that Iran's missile production capabilities have almost completely disappeared, signaling continued pressure on the country's military capabilities.",
+      "summary": "<p>TRUMP: IRAN'S MISSILE CAPABILITY WEAKENED<br />\n<br />\nPresident Donald Trump said Iran still has \"a few missiles,\" but far fewer than it did four to five months ago.<br />\n<br />\nTrump added that Iran's missile production capabilities have almost completely disappeared, signaling continued pressure on the country's military capabilities.</p>",
+      "link": "https://nitter.net/DeItaone/status/2083220216410984522#m",
+      "published": "2026-07-31T15:56:18+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: I want defense firms to move fast.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702861/Trump-I-want-defense-firms-to-move-fast.aspx?xy=rss",
-      "published": "2026-07-31T15:45:55+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: SAYS THERE'S NO INFORMATION ICC IS AFTER ME",
+      "summary": "<p>TRUMP: SAYS THERE'S NO INFORMATION ICC IS AFTER ME</p>",
+      "link": "https://nitter.net/DeItaone/status/2083219588351754626#m",
+      "published": "2026-07-31T15:53:48+00:00",
       "score": 1
     },
     {
@@ -219,6 +246,15 @@
       "score": 2
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "AMAZON SHARES JUMP 15.2%, SET FOR BIGGEST PERCENTAGE GAIN SINCE 2012",
+      "summary": "<p>AMAZON SHARES JUMP 15.2%, SET FOR BIGGEST PERCENTAGE GAIN SINCE 2012</p>",
+      "link": "https://nitter.net/DeItaone/status/2083201071065747468#m",
+      "published": "2026-07-31T14:40:14+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "New Zealand Dollar weakens after China PMI miss as the US Dollar rebounds",
@@ -246,12 +282,48 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TREASURY SELLOFF GATHERS MOMENTUM U.S. Treasury yields climbed across the curve after Fed officials Lorie Logan and Beth Hammack defended their calls for a 25 bp rate hike, boosting expectations of near-term tightening. The 10-year Treasury yield rose to 4.737%, its highest intraday level since January 2025, as investors increased bets on higher rates.",
+      "summary": "<p>TREASURY SELLOFF GATHERS MOMENTUM<br />\n<br />\nU.S. Treasury yields climbed across the curve after Fed officials Lorie Logan and Beth Hammack defended their calls for a 25 bp rate hike, boosting expectations of near-term tightening.<br />\n<br />\nThe 10-year Treasury yield rose to 4.737%, its highest intraday level since January 2025, as investors increased bets on higher rates.</p>",
+      "link": "https://nitter.net/DeItaone/status/2083194321780535337#m",
+      "published": "2026-07-31T14:13:24+00:00",
+      "score": 3
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The S&P 500 erases all gains and turns red on the day as the US 10Y Note Yield surges to its highest level since January 2025.",
       "summary": "<p>BREAKING: The S&amp;P 500 erases all gains and turns red on the day as the US 10Y Note Yield surges to its highest level since January 2025.</p>\n<img src=\"https://nitter.net/pic/media%2FHOj9YaTWgAAJtvX.png\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2083193516226728093#m",
       "published": "2026-07-31T14:10:12+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "US 10-YEAR TREASURY YIELDS RISE TO 4.7388%, HIGHEST SINCE JANUARY 2025",
+      "summary": "<p>US 10-YEAR TREASURY YIELDS RISE TO 4.7388%, HIGHEST SINCE JANUARY 2025</p>",
+      "link": "https://nitter.net/DeItaone/status/2083193216048763024#m",
+      "published": "2026-07-31T14:09:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. CONSUMER SENTIMENT TOPS ESTIMATES University of Michigan consumer sentiment rose to 55.2 in July, above the 54.0 consensus and up from 49.5 in June. One-year inflation expectations held at 4.2%, down from 4.6% in June, while the five-year outlook remained at 3.3%, pointing to stable long-term inflation expectations.",
+      "summary": "<p>U.S. CONSUMER SENTIMENT TOPS ESTIMATES<br />\n<br />\nUniversity of Michigan consumer sentiment rose to 55.2 in July, above the 54.0 consensus and up from 49.5 in June.<br />\n<br />\nOne-year inflation expectations held at 4.2%, down from 4.6% in June, while the five-year outlook remained at 3.3%, pointing to stable long-term inflation expectations.</p>",
+      "link": "https://nitter.net/DeItaone/status/2083191571382448205#m",
+      "published": "2026-07-31T14:02:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "LOGAN BACKS IMMEDIATE RATE HIKE Fed Governor Lorie Logan said she preferred a 25 bp rate hike, arguing inflation is not on track to sustainably return to the Fed's 2% target. Logan said taking modest action now would reduce the risk of more aggressive tightening later, while stressing the Fed cannot rely on unexpected shocks to achieve its inflation goal.",
+      "summary": "<p>LOGAN BACKS IMMEDIATE RATE HIKE<br />\n<br />\nFed Governor Lorie Logan said she preferred a 25 bp rate hike, arguing inflation is not on track to sustainably return to the Fed's 2% target.<br />\n<br />\nLogan said taking modest action now would reduce the risk of more aggressive tightening later, while stressing the Fed cannot rely on unexpected shocks to achieve its inflation goal.</p>",
+      "link": "https://nitter.net/DeItaone/status/2083191177403056565#m",
+      "published": "2026-07-31T14:00:55+00:00",
       "score": 2
     },
     {
@@ -282,30 +354,21 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Aluminium: Tightness points to higher prices – Commerzbank",
-      "summary": "Commerzbank’s Norman Liebke highlights that China’s July trade data will be key for base metals, especially Aluminium. Chinese Aluminium output in H1 exceeded the official cap, suggesting production may ease later this year.",
-      "link": "https://www.fxstreet.com/news/aluminium-tightness-points-to-higher-prices-commerzbank-202607311349",
-      "published": "2026-07-31T13:49:43+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Intervention risk and hawkish BoJ support Yen – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports that USD/JPY briefly fell about five big figures to 158.00 on suspected Japanese intervention before rebounding near 161.00 and then dropping again.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-and-hawkish-boj-support-yen-bbh-202607311334",
-      "published": "2026-07-31T13:34:12+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "SPOT GOLD EXTENDS LOSSES, LAST DOWN NEARLY 2% AT $4,024.69/OZ",
+      "summary": "<p>SPOT GOLD  EXTENDS LOSSES, LAST DOWN NEARLY 2% AT $4,024.69/OZ</p>",
+      "link": "https://nitter.net/DeItaone/status/2083187347139494373#m",
+      "published": "2026-07-31T13:45:41+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "India: RBI hold expectations shape policy outlook – ING",
-      "summary": "ING economists Deepali Bhargava and Lynn Song expect the Reserve Bank of India to keep the repo rate at 5.25% this week. They note that while June headline inflation rose on higher fuel prices, core inflation remains below target.",
-      "link": "https://www.fxstreet.com/news/india-rbi-hold-expectations-shape-policy-outlook-ing-202607311320",
-      "published": "2026-07-31T13:20:47+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "US TREASURY HAS INFORMED BANKS THAT IT MAY INTERVENE IN YEN MARKET ON FRIDAY - SOURCE FAMILIAR WITH THE MATTER US TREASURY TOLD A NUMBER OF BANKS VIA NEW YORK FED THAT BANKS SHOULD STAND BY FOR 'FUTURE ACTIONS' - SOURCE FAMILIAR WITH THE MATTER",
+      "summary": "<p>US TREASURY HAS INFORMED BANKS THAT IT MAY INTERVENE IN YEN MARKET ON FRIDAY - SOURCE FAMILIAR WITH THE MATTER<br />\n<br />\nUS TREASURY TOLD A NUMBER OF BANKS VIA NEW YORK FED THAT BANKS SHOULD STAND BY FOR 'FUTURE ACTIONS' - SOURCE FAMILIAR WITH THE MATTER</p>",
+      "link": "https://nitter.net/DeItaone/status/2083184633777205755#m",
+      "published": "2026-07-31T13:34:55+00:00",
       "score": 1
     },
     {
@@ -316,6 +379,15 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vbqf2v/liquidity_sweeps/",
       "published": "2026-07-31T13:05:19+00:00",
       "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRADERS BRACE FOR S&P 500 VOLATILITY Investors are increasing hedges against broader S&P 500 swings as macro risks—including inflation, Fed uncertainty and geopolitical tensions—take center stage after earnings season. Goldman Sachs favors a reverse dispersion trade, betting on higher index volatility but lower single-stock volatility. Demand for downside protection is also rising ahead of the historically volatile August-September period.",
+      "summary": "<p>TRADERS BRACE FOR S&amp;P 500 VOLATILITY<br />\n<br />\nInvestors are increasing hedges against broader S&amp;P 500 swings as macro risks—including inflation, Fed uncertainty and geopolitical tensions—take center stage after earnings season.<br />\n<br />\nGoldman Sachs favors a reverse dispersion trade, betting on higher index volatility but lower single-stock volatility. Demand for downside prote",
+      "link": "https://nitter.net/DeItaone/status/2083171783494996414#m",
+      "published": "2026-07-31T12:43:51+00:00",
+      "score": 4
     },
     {
       "source": "FXStreet",
@@ -459,15 +531,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vaezc8/forex/\"> <img alt=\"Forex\" src=\"https://preview.redd.it/ppct1rdbo9gh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aeb6b802dafa3a7c68e8f828cdba59018378aaf0\" title=\"Forex\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>EurUsd: break upper black line go for long , break lower black line go for short</p> </div><!-- SC_",
       "link": "https://www.reddit.com/r/Forex/comments/1vaezc8/forex/",
       "published": "2026-07-30T01:06:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "What just happened to USD?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Why the sudden spike? Anyone know any news?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Twnc\"> /u/Twnc </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1va4bzw/what_just_happened_to_usd/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1va4bzw/what_just_happened_to_usd/\">[c",
-      "link": "https://www.reddit.com/r/Forex/comments/1va4bzw/what_just_happened_to_usd/",
-      "published": "2026-07-29T18:17:41+00:00",
       "score": 1
     },
     {
