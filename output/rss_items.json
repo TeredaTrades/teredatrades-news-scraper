@@ -1,7 +1,322 @@
 {
-  "updated_at": "2026-07-31T12:26:51.861942+00:00",
-  "count": 65,
+  "updated_at": "2026-07-31T15:00:43.285644+00:00",
+  "count": 72,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump convenes Cabinet meeting at Camp David - WATCH LIVE",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702800/Trump-convenes-Cabinet-meeting-at-Camp-David---WATCH-LIVE.aspx?xy=rss",
+      "published": "2026-07-31T14:50:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Intervention slows but does not reverse trend – ING",
+      "summary": "ING’s Chris Turner describes USD/JPY’s rollercoaster, with a 3% drop on reported Japanese intervention followed by a near 2% rebound. He notes that coordinated Fed-Treasury involvement was key in January but now sees the story as having moved on.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-slows-but-does-not-reverse-trend-ing-202607311446",
+      "published": "2026-07-31T14:46:25+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "AMAZON SHARES JUMP 15.2%, SET FOR BIGGEST PERCENTAGE GAIN SINCE 2012",
+      "summary": "<p>AMAZON SHARES JUMP 15.2%, SET FOR BIGGEST PERCENTAGE GAIN SINCE 2012</p>",
+      "link": "https://nitter.net/DeItaone/status/2083201071065747468#m",
+      "published": "2026-07-31T14:40:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealnd Dollar weakens after China PMI miss as the US Dollar rebounds",
+      "summary": "NZD/USD trades around 0.5860 on Friday, down 0.33% on the day, as investors react to another deterioration in Chinese business activity.",
+      "link": "https://www.fxstreet.com/news/new-zealnd-dollar-weakens-after-china-pmi-miss-as-the-us-dollar-rebounds-202607311436",
+      "published": "2026-07-31T14:36:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Range seen around mid‑1.15s against US Dollar – Scotiabank",
+      "summary": "Scotiabank’s FX team notes EUR/USD is drifting toward 1.15 after a Fed‑driven rally, with euro area CPI broadly in line with expectations and French data briefly lifting the Euro. Rate expectations are stabilizing, with about 42 bps of tightening priced by December.",
+      "link": "https://www.fxstreet.com/news/euro-range-seen-around-mid-115s-against-us-dollar-scotiabank-202607311435",
+      "published": "2026-07-31T14:35:34+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen surges amid hawkish BoJ",
+      "summary": "USD/JPY trades sharply lower near the 159.50 area on Friday as the Japanese Yen (JPY) strengthens following intervention by Japanese authorities and a relatively hawkish Bank of Japan (BoJ) policy announcement.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-surges-amid-hawkish-boj-202607311420",
+      "published": "2026-07-31T14:20:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TREASURY SELLOFF GATHERS MOMENTUM U.S. Treasury yields climbed across the curve after Fed officials Lorie Logan and Beth Hammack defended their calls for a 25 bp rate hike, boosting expectations of near-term tightening. The 10-year Treasury yield rose to 4.737%, its highest intraday level since January 2025, as investors increased bets on higher rates.",
+      "summary": "<p>TREASURY SELLOFF GATHERS MOMENTUM<br />\n<br />\nU.S. Treasury yields climbed across the curve after Fed officials Lorie Logan and Beth Hammack defended their calls for a 25 bp rate hike, boosting expectations of near-term tightening.<br />\n<br />\nThe 10-year Treasury yield rose to 4.737%, its highest intraday level since January 2025, as investors increased bets on higher rates.</p>",
+      "link": "https://nitter.net/DeItaone/status/2083194321780535337#m",
+      "published": "2026-07-31T14:13:24+00:00",
+      "score": 3
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The S&P 500 erases all gains and turns red on the day as the US 10Y Note Yield surges to its highest level since January 2025.",
+      "summary": "<p>BREAKING: The S&amp;P 500 erases all gains and turns red on the day as the US 10Y Note Yield surges to its highest level since January 2025.</p>\n<img src=\"https://nitter.net/pic/media%2FHOj9YaTWgAAJtvX.png\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2083193516226728093#m",
+      "published": "2026-07-31T14:10:12+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "US 10-YEAR TREASURY YIELDS RISE TO 4.7388%, HIGHEST SINCE JANUARY 2025",
+      "summary": "<p>US 10-YEAR TREASURY YIELDS RISE TO 4.7388%, HIGHEST SINCE JANUARY 2025</p>",
+      "link": "https://nitter.net/DeItaone/status/2083193216048763024#m",
+      "published": "2026-07-31T14:09:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. CONSUMER SENTIMENT TOPS ESTIMATES University of Michigan consumer sentiment rose to 55.2 in July, above the 54.0 consensus and up from 49.5 in June. One-year inflation expectations held at 4.2%, down from 4.6% in June, while the five-year outlook remained at 3.3%, pointing to stable long-term inflation expectations.",
+      "summary": "<p>U.S. CONSUMER SENTIMENT TOPS ESTIMATES<br />\n<br />\nUniversity of Michigan consumer sentiment rose to 55.2 in July, above the 54.0 consensus and up from 49.5 in June.<br />\n<br />\nOne-year inflation expectations held at 4.2%, down from 4.6% in June, while the five-year outlook remained at 3.3%, pointing to stable long-term inflation expectations.</p>",
+      "link": "https://nitter.net/DeItaone/status/2083191571382448205#m",
+      "published": "2026-07-31T14:02:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Logan: Modest Fed action in the near term would reduce the likelihood of needing sharper action later.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702706/Feds-Logan-Modest-Fed-action-in-the-near-term-would-reduce-the-likelihood-of-needing-sharper-action-later.aspx?xy=rss",
+      "published": "2026-07-31T14:01:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Logan: Without any policy restraint, inflation will likely continue to trend above target until there's an unanticipated shock.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702704/Feds-Logan-Without-any-policy-restraint-inflation-will-likely-continue-to-trend-above-target-until-theres-an-unanticipated-shock.aspx?xy=rss",
+      "published": "2026-07-31T14:01:27+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Logan: I would have preferred a quarter-point rate increase to better balance outlook and risks.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702701/Feds-Logan-I-would-have-preferred-a-quarter-point-rate-increase-to-better-balance-outlook-and-risks.aspx?xy=rss",
+      "published": "2026-07-31T14:01:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Logan: Risks to inflation are to the upside, the solid job market is strengthening a bit.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702700/Feds-Logan-Risks-to-inflation-are-to-the-upside-the-solid-job-market-is-strengthening-a-bit.aspx?xy=rss",
+      "published": "2026-07-31T14:01:09+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "LOGAN BACKS IMMEDIATE RATE HIKE Fed Governor Lorie Logan said she preferred a 25 bp rate hike, arguing inflation is not on track to sustainably return to the Fed's 2% target. Logan said taking modest action now would reduce the risk of more aggressive tightening later, while stressing the Fed cannot rely on unexpected shocks to achieve its inflation goal.",
+      "summary": "<p>LOGAN BACKS IMMEDIATE RATE HIKE<br />\n<br />\nFed Governor Lorie Logan said she preferred a 25 bp rate hike, arguing inflation is not on track to sustainably return to the Fed's 2% target.<br />\n<br />\nLogan said taking modest action now would reduce the risk of more aggressive tightening later, while stressing the Fed cannot rely on unexpected shocks to achieve its inflation goal.</p>",
+      "link": "https://nitter.net/DeItaone/status/2083191177403056565#m",
+      "published": "2026-07-31T14:00:55+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "AUDUSD and GBPUSD 1h outlook",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vbrshu/audusd_and_gbpusd_1h_outlook/\"> <img alt=\"AUDUSD and GBPUSD 1h outlook\" src=\"https://preview.redd.it/a6qukwncnkgh1.jpg?width=140&amp;height=98&amp;auto=webp&amp;s=2f35723d0095cca5dc7888264895d0b4b7a64105\" title=\"AUDUSD and GBPUSD 1h outlook\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Reason for taking this trade is ",
+      "link": "https://www.reddit.com/r/Forex/comments/1vbrshu/audusd_and_gbpusd_1h_outlook/",
+      "published": "2026-07-31T14:00:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank &quot;insiders&quot;—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+      "published": "2026-07-31T14:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+      "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
+      "published": "2026-07-31T14:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: University Michigan 1 Yr Inflation Final Actual 4.2% (Forecast 4.3%, Previous 4.2%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702686/University-Michigan-1-Yr-Inflation-Final-Actual-42-Forecast-43-Previous-42.aspx?xy=rss",
+      "published": "2026-07-31T14:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: University Michigan 5 Yr Inflation Final Actual 3.3% (Forecast 3.3%, Previous 3.3%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702685/University-Michigan-5-Yr-Inflation-Final-Actual-33-Forecast-33-Previous-33.aspx?xy=rss",
+      "published": "2026-07-31T14:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Aluminium: Tightness points to higher prices – Commerzbank",
+      "summary": "Commerzbank’s Norman Liebke highlights that China’s July trade data will be key for base metals, especially Aluminium. Chinese Aluminium output in H1 exceeded the official cap, suggesting production may ease later this year.",
+      "link": "https://www.fxstreet.com/news/aluminium-tightness-points-to-higher-prices-commerzbank-202607311349",
+      "published": "2026-07-31T13:49:43+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "SPOT GOLD EXTENDS LOSSES, LAST DOWN NEARLY 2% AT $4,024.69/OZ",
+      "summary": "<p>SPOT GOLD  EXTENDS LOSSES, LAST DOWN NEARLY 2% AT $4,024.69/OZ</p>",
+      "link": "https://nitter.net/DeItaone/status/2083187347139494373#m",
+      "published": "2026-07-31T13:45:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "US TREASURY HAS INFORMED BANKS THAT IT MAY INTERVENE IN YEN MARKET ON FRIDAY - SOURCE FAMILIAR WITH THE MATTER US TREASURY TOLD A NUMBER OF BANKS VIA NEW YORK FED THAT BANKS SHOULD STAND BY FOR 'FUTURE ACTIONS' - SOURCE FAMILIAR WITH THE MATTER",
+      "summary": "<p>US TREASURY HAS INFORMED BANKS THAT IT MAY INTERVENE IN YEN MARKET ON FRIDAY - SOURCE FAMILIAR WITH THE MATTER<br />\n<br />\nUS TREASURY TOLD A NUMBER OF BANKS VIA NEW YORK FED THAT BANKS SHOULD STAND BY FOR 'FUTURE ACTIONS' - SOURCE FAMILIAR WITH THE MATTER</p>",
+      "link": "https://nitter.net/DeItaone/status/2083184633777205755#m",
+      "published": "2026-07-31T13:34:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Intervention risk and hawkish BoJ support Yen – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports that USD/JPY briefly fell about five big figures to 158.00 on suspected Japanese intervention before rebounding near 161.00 and then dropping again.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-and-hawkish-boj-support-yen-bbh-202607311334",
+      "published": "2026-07-31T13:34:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India: RBI hold expectations shape policy outlook – ING",
+      "summary": "ING economists Deepali Bhargava and Lynn Song expect the Reserve Bank of India to keep the repo rate at 5.25% this week. They note that while June headline inflation rose on higher fuel prices, core inflation remains below target.",
+      "link": "https://www.fxstreet.com/news/india-rbi-hold-expectations-shape-policy-outlook-ing-202607311320",
+      "published": "2026-07-31T13:20:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro slips back below 1.1500 as US Dollar recovers",
+      "summary": "The Euro (EUR) weakens against the US Dollar (USD) on Friday as short-covering in the Greenback following the previous day’s sharp sell-off pushes EUR/USD back below 1.1500. At the time of writing, the pair trades around 1.1488, easing from the six-week high of 1.1537 touched on Thursday.",
+      "link": "https://www.fxstreet.com/news/euro-slips-back-below-11500-as-us-dollar-recovers-202607311308",
+      "published": "2026-07-31T13:08:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Liquidity sweeps",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vbqf2v/liquidity_sweeps/\"> <img alt=\"Liquidity sweeps\" src=\"https://preview.redd.it/ew4wgm1hdkgh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0bcc039818e8f474f0e8bc1fe102a9e92b0b601\" title=\"Liquidity sweeps\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Guys..</p> <p>Can you spot those multiple sweeps in EURUSD. How do ",
+      "link": "https://www.reddit.com/r/Forex/comments/1vbqf2v/liquidity_sweeps/",
+      "published": "2026-07-31T13:05:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar shrugs off upbeat GDP as US Dollar stages a comeback",
+      "summary": "USD/CAD trades around 1.4045 on Friday at the time of writing, recovering from a two-week low hit on Thursday at 1.3991.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-shrugs-off-upbeat-gdp-as-us-dollar-stages-a-comeback-202607311302",
+      "published": "2026-07-31T13:02:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRADERS BRACE FOR S&P 500 VOLATILITY Investors are increasing hedges against broader S&P 500 swings as macro risks—including inflation, Fed uncertainty and geopolitical tensions—take center stage after earnings season. Goldman Sachs favors a reverse dispersion trade, betting on higher index volatility but lower single-stock volatility. Demand for downside protection is also rising ahead of the historically volatile August-September period.",
+      "summary": "<p>TRADERS BRACE FOR S&amp;P 500 VOLATILITY<br />\n<br />\nInvestors are increasing hedges against broader S&amp;P 500 swings as macro risks—including inflation, Fed uncertainty and geopolitical tensions—take center stage after earnings season.<br />\n<br />\nGoldman Sachs favors a reverse dispersion trade, betting on higher index volatility but lower single-stock volatility. Demand for downside prote",
+      "link": "https://nitter.net/DeItaone/status/2083171783494996414#m",
+      "published": "2026-07-31T12:43:51+00:00",
+      "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BCA RESEARCH TURNS BULLISH ON GOLD BCA Research said it's time to buy gold, arguing the recent selloff is nearing an end as headwinds from higher real yields fade. The firm expects a weaker U.S. dollar to become a tailwind for gold, while continued central bank buying, geopolitical risks, and reserve diversification should provide long-term support.",
+      "summary": "<p>BCA RESEARCH TURNS BULLISH ON GOLD<br />\n<br />\nBCA Research said it's time to buy gold, arguing the recent selloff is nearing an end as headwinds from higher real yields fade.<br />\n<br />\nThe firm expects a weaker U.S. dollar to become a tailwind for gold, while continued central bank buying, geopolitical risks, and reserve diversification should provide long-term support.</p>",
+      "link": "https://nitter.net/DeItaone/status/2083170817110593774#m",
+      "published": "2026-07-31T12:40:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP WARNS ISRAEL ON GAZA DEAL A U.S. official said President Donald Trump would be \"very disappointed\" if Israel fails to honor the agreed 20-point Gaza peace plan. The U.S. expects Israel to comply, while Hamas' disarmament is expected to be refined over the coming weeks, with progress anticipated within one to two months despite opposition from members of Israel's governing coalition.",
+      "summary": "<p>TRUMP WARNS ISRAEL ON GAZA DEAL<br />\n<br />\nA U.S. official said President Donald Trump would be \"very disappointed\" if Israel fails to honor the agreed 20-point Gaza peace plan.<br />\n<br />\nThe U.S. expects Israel to comply, while Hamas' disarmament is expected to be refined over the coming weeks, with progress anticipated within one to two months despite opposition from members of Israel's ",
+      "link": "https://nitter.net/DeItaone/status/2083170513120030825#m",
+      "published": "2026-07-31T12:38:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Pinned: 📊 SEPTEMBER FED HIKE BACK IN PLAY The Fed held rates steady and offered no guidance, but markets viewed the meeting as dovish after Chair Kevin Warsh suggested tighter financial conditions may already be doing some of the Fed's work. Despite the pause, three FOMC officials dissented in favor of a 25 bp hike. Kalshi now prices a 53% chance of a September rate hike, versus 46% for no change. https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep?utm_source=walterbloomberg",
+      "summary": "<p>📊 SEPTEMBER FED HIKE BACK IN PLAY<br />\n<br />\nThe Fed held rates steady and offered no guidance, but markets viewed the meeting as dovish after Chair Kevin Warsh suggested tighter financial conditions may already be doing some of the Fed's work.<br />\n<br />\nDespite the pause, three FOMC officials dissented in favor of a 25 bp hike. Kalshi now prices a 53% chance of a September rate hike, vers",
+      "link": "https://nitter.net/DeItaone/status/2083170032335380637#m",
+      "published": "2026-07-31T12:36:53+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Reduced Fed hike bets support prices - Commerzbank",
+      "summary": "Commerzbank’s Carsten Fritsch notes that gold briefly traded above USD 4,100 after the Fed meeting as markets pared back expectations of further rate hikes. Fed funds futures nevertheless continue to imply additional tightening, while persistent inflation is keeping those expectations alive.",
+      "link": "https://www.fxstreet.com/news/gold-reduced-fed-hike-bets-support-prices-commerzbank-202607311230",
+      "published": "2026-07-31T12:30:50+00:00",
+      "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "MOONSHOT BUILDS AI ON ALIBABA'S NVIDIA CLUSTER Chinese AI startup Moonshot built its Kimi model using access to an Alibaba computing cluster of around 20,000 Nvidia GPUs, according to Bloomberg. The partnership highlights Alibaba's role in supplying large-scale AI infrastructure as competition among Chinese AI developers intensifies.",
+      "summary": "<p>MOONSHOT BUILDS AI ON ALIBABA'S NVIDIA CLUSTER<br />\n<br />\nChinese AI startup Moonshot built its Kimi model using access to an Alibaba computing cluster of around 20,000 Nvidia GPUs, according to Bloomberg.<br />\n<br />\nThe partnership highlights Alibaba's role in supplying large-scale AI infrastructure as competition among Chinese AI developers intensifies.</p>\n<hr />\n<blockquote>\n<b>*Walter ",
+      "link": "https://nitter.net/DeItaone/status/2083167059601494076#m",
+      "published": "2026-07-31T12:25:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$NVDA - MOONSHOT'S KIMI BUILT ON 20,000 NVIDIA CHIP CLUSTER VIA ALIBABA",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - MOONSHOT'S KIMI BUILT ON 20,000 NVIDIA CHIP CLUSTER VIA ALIBABA</p>",
+      "link": "https://nitter.net/DeItaone/status/2083165969652871250#m",
+      "published": "2026-07-31T12:20:45+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -12,30 +327,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Moonshot’s Kimi built on 20,000 Nvidia chip cluster via Alibaba $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702535/Moonshots-Kimi-built-on-20000-Nvidia-chip-cluster-via-Alibaba-NVDA.aspx?xy=rss",
-      "published": "2026-07-31T12:20:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WH Sr. Adviser Hassett: Think the 10-year Treasury yield climb is a temporary matter.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702531/WH-Sr-Adviser-Hassett-Think-the-10-year-Treasury-yield-climb-is-a-temporary-matter.aspx?xy=rss",
-      "published": "2026-07-31T12:16:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WH Sr. Adviser Hassett: Expect AI productivity to help push inflation down.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702526/WH-Sr-Adviser-Hassett-Expect-AI-productivity-to-help-push-inflation-down.aspx?xy=rss",
-      "published": "2026-07-31T12:15:20+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "HASSETT: THINK THE 10-YEAR TREASURY YIELD CLIMB IS A TEMPORARY MATTER",
+      "summary": "<p>HASSETT: THINK THE 10-YEAR TREASURY YIELD CLIMB IS A TEMPORARY MATTER</p>",
+      "link": "https://nitter.net/DeItaone/status/2083165723900232023#m",
+      "published": "2026-07-31T12:19:46+00:00",
       "score": 1
     },
     {
@@ -48,112 +345,22 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WH Sr. Adviser Hassett on rates: Think we could stay where we are. - Fox Business",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702521/WH-Sr-Adviser-Hassett-on-rates-Think-we-could-stay-where-we-are---Fox-Business.aspx?xy=rss",
-      "published": "2026-07-31T12:06:00+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "HASSETT SAYS RATES COULD STAY STEADY",
+      "summary": "<p>HASSETT SAYS RATES COULD STAY STEADY</p>",
+      "link": "https://nitter.net/DeItaone/status/2083162853977034784#m",
+      "published": "2026-07-31T12:08:22+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Kashkari: If inflation remains elevated, a potential series of small policy moves would be better than waiting and concluding that bolder actions were necessary.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702517/Feds-Kashkari-If-inflation-remains-elevated-a-potential-series-of-small-policy-moves-would-be-better-than-waiting-and-concluding-that-bolder-actions-were-necessary.aspx?xy=rss",
-      "published": "2026-07-31T12:03:02+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Kashkari: To manage against the risk of inflation becoming entrenched, would prefer to tighten policy incrementally.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702516/Feds-Kashkari-To-manage-against-the-risk-of-inflation-becoming-entrenched-would-prefer-to-tighten-policy-incrementally.aspx?xy=rss",
-      "published": "2026-07-31T12:02:56+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Kashkari: If inflation durably fades, a strategy of small steps would allow the FOMC to slow or pause subsequent adjustments without unnecessary impact on the real economy.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702515/Feds-Kashkari-If-inflation-durably-fades-a-strategy-of-small-steps-would-allow-the-FOMC-to-slow-or-pause-subsequent-adjustments-without-unnecessary-impact-on-the-real-economy.aspx?xy=rss",
-      "published": "2026-07-31T12:02:49+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "KASHKARI BACKED A RATE HIKE Minneapolis Fed President Neel Kashkari said he dissented at the latest FOMC meeting because he preferred a 25 bp rate hike. Kashkari said repeated supply shocks and rising AI data center investment risk making inflation more persistent. He favors gradual rate increases to prevent entrenched inflation while preserving flexibility to pause if price pressures ease.",
+      "summary": "<p>KASHKARI BACKED A RATE HIKE<br />\n<br />\nMinneapolis Fed President Neel Kashkari said he dissented at the latest FOMC meeting because he preferred a 25 bp rate hike.<br />\n<br />\nKashkari said repeated supply shocks and rising AI data center investment risk making inflation more persistent. He favors gradual rate increases to prevent entrenched inflation while preserving flexibility to pause if",
+      "link": "https://nitter.net/DeItaone/status/2083162198914842781#m",
+      "published": "2026-07-31T12:05:46+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Hammack: With the job market stable, the Fed should focus on inflation.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702514/Feds-Hammack-With-the-job-market-stable-the-Fed-should-focus-on-inflation.aspx?xy=rss",
-      "published": "2026-07-31T12:02:31+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Hammack: Fed rate policy is not restrictive enough.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702513/Feds-Hammack-Fed-rate-policy-is-not-restrictive-enough.aspx?xy=rss",
-      "published": "2026-07-31T12:02:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Kashkari: Monetary policy can look through individual supply shocks.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702511/Feds-Kashkari-Monetary-policy-can-look-through-individual-supply-shocks.aspx?xy=rss",
-      "published": "2026-07-31T12:02:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Kashkari: Increasingly believe monetary policy has a role to play in addressing successive supply shocks that might lead to entrenched inflation.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702510/Feds-Kashkari-Increasingly-believe-monetary-policy-has-a-role-to-play-in-addressing-successive-supply-shocks-that-might-lead-to-entrenched-inflation.aspx?xy=rss",
-      "published": "2026-07-31T12:02:17+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Hammack: The longer inflation stays high, the harder it will be to bring it back to target.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702509/Feds-Hammack-The-longer-inflation-stays-high-the-harder-it-will-be-to-bring-it-back-to-target.aspx?xy=rss",
-      "published": "2026-07-31T12:02:04+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Kashkari: More recently, data center investments have added a new demand element to inflation.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702508/Feds-Kashkari-More-recently-data-center-investments-have-added-a-new-demand-element-to-inflation.aspx?xy=rss",
-      "published": "2026-07-31T12:02:03+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Policy credibility and intervention dynamics – BNY",
-      "summary": "BNY’s Geoff Yu highlights that the Japanese Yen (JPY) entered the latest Bank of Japan (BoJ) decision and suspected intervention with weak flow momentum and lighter positioning, even as investors remained net long JPY and net short USD/JPY.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-policy-credibility-and-intervention-dynamics-bny-202607311157",
-      "published": "2026-07-31T11:57:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD remains under pressure as bond yields, US Dollar rebound",
-      "summary": "Silver price (XAG/USD) is down 1.7% to near $58.00 during the European trading session on Friday. The white metal continues to decline throughout the day as United States (US) Treasury Yields have bounced back amid fears that inflationary pressures will remain elevated.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-under-pressure-as-bond-yields-us-dollar-rebound-202607311149",
-      "published": "2026-07-31T11:49:27+00:00",
-      "score": 6
     },
     {
       "source": "FXStreet",
@@ -174,111 +381,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen dips back to 160.00 against the US Dollar as post-BoJ gains fade",
-      "summary": "The Japanese Yen (JPY) posts moderate losses against the US Dollar (USD) on Friday, with the USD/JPY pair trading just above 160.00 at the time of writing, after whipsawing within a rough 240-pip range between 158.60 and 161.00 earlier on the day.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-dips-back-to-16000-against-the-us-dollar-as-post-boj-gains-fade-202607311132",
-      "published": "2026-07-31T11:32:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index: DXY seen returning to 96.00–100.00 range – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes that the Dollar stabilized after a sharp sell-off linked to suspected USD/JPY intervention, but argues the broader USD rally since May has likely ended, with US Dollar Index (DXY) expected to move back into a 96.00–100.00 range.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-dxy-seen-returning-to-9600-10000-range-bbh-202607311128",
-      "published": "2026-07-31T11:28:10+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar holds firm despite weak Chinese data, fading RBA rate hike bets",
-      "summary": "AUD/USD trades around 0.7030 at the time of writing on Friday, little changed on the day after Thursday's strong rally.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-despite-weak-chinese-data-fading-rba-rate-hike-bets-202607311121",
-      "published": "2026-07-31T11:21:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Experts agree: The US Dollar rally might have found serious headwinds",
-      "summary": "The US Dollar Index (DXY) attempts to cling above the 100.00 psychological level on Friday after a nearly 1.5% selloff in the previous three days, as the Federal Reserve's (Fed) lack of forward guidance at Wednesday's monetary policy meeting raised concerns that the bank might fail on its commitment",
-      "link": "https://www.fxstreet.com/news/experts-agree-the-us-dollar-rally-might-have-found-serious-headwinds-202607311025",
-      "published": "2026-07-31T10:25:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Post-Fed losses extend as positioning unwinds – ING",
-      "summary": "ING’s Francesco Pesole notes the Dollar’s post-FOMC selloff has accelerated, with DXY briefly dipping below 100.0 and returning to levels seen after Kevin Warsh’s June press conference. He highlights stretched net-long USD positioning versus G9 and large EUR/USD shorts.",
-      "link": "https://www.fxstreet.com/news/us-dollar-post-fed-losses-extend-as-positioning-unwinds-ing-202607311005",
-      "published": "2026-07-31T10:05:31+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro rebounds vs Yen as BoJ rate hold, Eurozone inflation support",
-      "summary": "EUR/JPY trades around 184.00 on Friday, stabilizing after the sharp volatility seen on Thursday. The cross plunged to near 182.00 from around 187.00, losing almost 500 pips within minutes after what appears to have been another intervention by Japanese authorities in the foreign exchange market.",
-      "link": "https://www.fxstreet.com/news/euro-rebounds-vs-yen-as-boj-rate-hold-eurozone-inflation-support-202607311002",
-      "published": "2026-07-31T10:02:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro hits session lows against the British Pound following Eurozone inflation data",
-      "summary": "The Euro (EUR) edges lower against the British Pound (GBP) on Friday, hitting session lows at 0.8554 following the Eurozone’s preliminary inflation figures from July.",
-      "link": "https://www.fxstreet.com/news/euro-hits-session-lows-against-the-british-pound-following-eurozone-inflation-data-202607310939",
-      "published": "2026-07-31T09:39:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound underperforms as traders reconsider BoE interest rate hike bets",
-      "summary": "The British Pound (GBP) is down against its major currency peers, trading marginally lower at around 1.3444 against the US Dollar (USD) during the European trading session on Friday.",
-      "link": "https://www.fxstreet.com/news/british-pound-underperforms-as-traders-reconsider-boe-interest-rate-hike-bets-202607310936",
-      "published": "2026-07-31T09:36:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) fell on Friday, according to FXStreet data. Silver trades at $58.08 per troy ounce, down 1.59% from the $59.02 it cost on Thursday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202607310931",
-      "published": "2026-07-31T09:31:32+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "ECB’s Kocher: Central bank policies will remain data-dependent",
-      "summary": "European Central Bank (ECB) Governing Council member Martin Kocher said in European trade on Friday that recent weeks have demonstrated how quickly geopolitical developments can alter energy prices and, consequently, the inflation outlook.",
-      "link": "https://www.fxstreet.com/news/ecbs-kocher-central-bank-policies-will-remain-data-dependent-202607310927",
-      "published": "2026-07-31T09:27:52+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Difficulty in entering the trade",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vbl5nj/difficulty_in_entering_the_trade/\"> <img alt=\"Difficulty in entering the trade\" src=\"https://preview.redd.it/uvgtfb9s1jgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=17345fa6f296afed92d3f5a4a0a92155673da2da\" title=\"Difficulty in entering the trade\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I am much better t",
       "link": "https://www.reddit.com/r/Forex/comments/1vbl5nj/difficulty_in_entering_the_trade/",
       "published": "2026-07-31T08:38:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee sets for bets weekly close in four months",
-      "summary": "The Indian Rupee (INR) extends the week-long rally against the US Dollar (USD) on Friday.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-week-high-against-us-dollar-202607310543",
-      "published": "2026-07-31T05:43:47+00:00",
       "score": 1
     },
     {
@@ -356,18 +464,18 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
       "published": "2026-07-30T15:00:00+00:00",
       "score": 1
     },
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-      "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
       "published": "2026-07-30T15:00:00+00:00",
       "score": 1
     },
@@ -399,15 +507,6 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: More than 1.2 million leveraged retail trading accounts in South Korea triggered margin calls as ​of July 13th, with an estimated 320,000–360,000 accounts fully liquidated, per Goldman Sachs. This means around 3.4% of the adult ⁠population in South Korea has received margin calls. The KOSPI is currently down another ~18% since July 13th. We believe that the total number of fully liquidated accounts is now above 500,000.",
-      "summary": "<p>BREAKING: More than 1.2 million leveraged retail trading accounts in South Korea triggered margin calls as ​of July 13th, with an estimated 320,000–360,000 accounts fully liquidated, per Goldman Sachs.<br />\n<br />\nThis means around 3.4% of the adult ⁠population in South Korea has received margin calls.<br />\n<br />\nThe KOSPI is currently down another ~18% since July 13th.<br />\n<br />\nWe belie",
-      "link": "https://nitter.net/KobeissiLetter/status/2082792020993536283#m",
-      "published": "2026-07-30T11:34:48+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Another one from the EA — this time AUDUSD on the H4",
@@ -426,15 +525,6 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The equal-weighted Nasdaq 100 is now underperforming the equal-weighted S&P 500 by 6.8 percentage points so far in July, on track for its worst relative monthly performance on record. This follows 4 consecutive months of outperformance by equal-weighted technology stocks. There has not been a single month over the last 20 years in which the average tech stock underperformed the average S&P 500 stock by more than 5 percentage points. This comes as the equal-weighted S&P 500 is up +2.2% month-to-date, trading at an all-time high. At the same time, the equal-weighted Nasdaq 100 is down -4.6%, near its lowest since mid-May. Investors are taking profits on technology stocks at a historic pace.",
-      "summary": "<p>BREAKING: The equal-weighted Nasdaq 100 is now underperforming the equal-weighted S&amp;P 500 by 6.8 percentage points so far in July, on track for its worst relative monthly performance on record.<br />\n<br />\nThis follows 4 consecutive months of outperformance by equal-weighted technology stocks.<br />\n<br />\nThere has not been a single month over the last 20 years in which the average tech s",
-      "link": "https://nitter.net/KobeissiLetter/status/2082620135265775731#m",
-      "published": "2026-07-30T00:11:48+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "What just happened to USD?",
@@ -451,15 +541,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
       "published": "2026-07-29T18:00:00+00:00",
       "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Forex",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1va2551/forex/\"> <img alt=\"Forex\" src=\"https://preview.redd.it/0xwuoq4r97gh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d4172a87d1af50461b2f91c751d1778586d4f6a\" title=\"Forex\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>UsdAud break Black line go for long </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"htt",
-      "link": "https://www.reddit.com/r/Forex/comments/1va2551/forex/",
-      "published": "2026-07-29T17:01:19+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
@@ -527,18 +608,18 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
-      "summary": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
+      "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+      "summary": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
       "published": "2026-06-25T15:00:00+00:00",
       "score": 1
     },
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
-      "summary": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
+      "title": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+      "summary": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
       "published": "2026-06-25T15:00:00+00:00",
       "score": 1
     },
@@ -567,24 +648,6 @@
       "summary": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
       "published": "2026-06-18T19:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
-      "summary": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
-      "published": "2026-06-18T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
-      "summary": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
-      "published": "2026-06-18T13:00:00+00:00",
       "score": 1
     }
   ],
