@@ -592,9 +592,17 @@
     "previous": "50.2"
   },
   {
+    "title": "BOJ Outlook Report",
+    "country": "JPY",
+    "date": "2026-07-30T23:11:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "BOJ Policy Rate",
     "country": "JPY",
-    "date": "2026-07-30T22:30:00-04:00",
+    "date": "2026-07-30T23:11:00-04:00",
     "impact": "High",
     "forecast": "<1.00%",
     "previous": "<1.00%"
@@ -602,15 +610,7 @@
   {
     "title": "Monetary Policy Statement",
     "country": "JPY",
-    "date": "2026-07-30T22:30:00-04:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "BOJ Outlook Report",
-    "country": "JPY",
-    "date": "2026-07-30T22:31:00-04:00",
+    "date": "2026-07-30T23:11:00-04:00",
     "impact": "High",
     "forecast": "",
     "previous": ""
@@ -622,14 +622,6 @@
     "impact": "Low",
     "forecast": "12.7%",
     "previous": "33.9%"
-  },
-  {
-    "title": "BOJ Press Conference",
-    "country": "JPY",
-    "date": "2026-07-31T01:30:00-04:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
   },
   {
     "title": "Nationwide HPI m/m",
@@ -646,6 +638,14 @@
     "impact": "Low",
     "forecast": "3.1%",
     "previous": "3.5%"
+  },
+  {
+    "title": "BOJ Press Conference",
+    "country": "JPY",
+    "date": "2026-07-31T02:30:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "French Prelim CPI m/m",
