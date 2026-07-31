@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-07-31T16:57:26.405542+00:00",
-  "count": 84,
+  "updated_at": "2026-07-31T18:25:22.507598+00:00",
+  "count": 65,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed's Barkin: It's a close call whether interest rates are high enough",
+      "summary": "Richmond Federal Reserve (Fed) President Tom Barkin said on Friday that it remains uncertain whether the current level of interest rates is sufficiently restrictive to bring inflation back to the Fed's 2% target, according to an interview with The Wall Street Journal.",
+      "link": "https://www.fxstreet.com/news/feds-barkin-its-a-close-call-whether-interest-rates-are-high-enough-202607311824",
+      "published": "2026-07-31T18:24:36+00:00",
+      "score": 3
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "The bond market carnage just won’t stop. Yields are moving in a literal straight-line higher. At what point does the Trump Administration intervene or shift course? It happened in April 2025 and can happen again.",
+      "summary": "<p>The bond market carnage just won’t stop.<br />\n<br />\nYields are moving in a literal straight-line higher.<br />\n<br />\nAt what point does the Trump Administration intervene or shift course?<br />\n<br />\nIt happened in April 2025 and can happen again.</p>\n<img src=\"https://nitter.net/pic/media%2FHOkyfMHXcAE4Cv0.jpg\" />\n\n<hr />\n<blockquote>\n<b>The Kobeissi Letter (@KobeissiLetter)</b>\n<p>\n<p>The",
+      "link": "https://nitter.net/KobeissiLetter/status/2083251816460898718#m",
+      "published": "2026-07-31T18:01:52+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro recovers as Eurozone inflation stays firm",
+      "summary": "EUR/USD trades near the 1.1530 area during Friday's American session, consolidating after a strong rally off intraday lows. The Euro found support from resilient Eurozone inflation data, although gains remain capped as hawkish Federal Reserve (Fed) rhetoric boosts the US Dollar.",
+      "link": "https://www.fxstreet.com/news/euro-recovers-as-eurozone-inflation-stays-firm-202607311800",
+      "published": "2026-07-31T18:00:10+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD consolidates above $55 as downside momentum eases",
+      "summary": "Silver (XAG/USD) trades on the back foot on Friday as rising US Treasury yields outweigh support from a weaker US Dollar (USD). At the time of writing, XAG/USD trades around $57.50, down 2% on the day and on track to close July in negative territory.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-above-55-as-downside-momentum-eases-202607311740",
+      "published": "2026-07-31T17:40:43+00:00",
+      "score": 4
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -57,24 +93,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP SAYS IRAN LIED DURING NEGOTIATIONS *TRUMP SAYS IRAN FIRED FIVE MISSILES AT JORDAN",
-      "summary": "<p>*TRUMP SAYS IRAN LIED DURING NEGOTIATIONS<br />\n<br />\n*TRUMP SAYS IRAN FIRED FIVE MISSILES AT JORDAN</p>",
-      "link": "https://nitter.net/DeItaone/status/2083227777105363352#m",
-      "published": "2026-07-31T16:26:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: CAN REACH A DEAL",
-      "summary": "<p>TRUMP ON IRAN: CAN REACH A DEAL</p>",
-      "link": "https://nitter.net/DeItaone/status/2083226995131867572#m",
-      "published": "2026-07-31T16:23:14+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Trump, asked about the possibility of an Iran deal: I am losing faith in Iran because they lie.",
@@ -102,15 +120,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON UKRAINE, MISSILES: WE HAVE TO BE VERY CAREFUL ABOUT LETTING SOMEBODY BUILD THEM TRUMP ON UKRAINE, MISSILES: HAVE NOT AGREED TO THAT TRUMP ON UKRAINE, MISSILES: I DON'T THINK THIS WOULD EVER HAPPEN",
-      "summary": "<p>TRUMP ON UKRAINE, MISSILES: WE HAVE TO BE VERY CAREFUL ABOUT LETTING SOMEBODY BUILD THEM<br />\n<br />\nTRUMP ON UKRAINE, MISSILES: HAVE NOT AGREED TO THAT<br />\n<br />\nTRUMP ON UKRAINE, MISSILES: I DON'T THINK THIS WOULD EVER HAPPEN</p>",
-      "link": "https://nitter.net/DeItaone/status/2083226145139437821#m",
-      "published": "2026-07-31T16:19:52+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Trump on Iran Attacks: We've already gone big.",
@@ -120,39 +129,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON ISRAEL, HAMAS DEAL: BIG STEP FOR MIDDLE EAST",
-      "summary": "<p>TRUMP ON ISRAEL, HAMAS DEAL: BIG STEP FOR MIDDLE EAST</p>",
-      "link": "https://nitter.net/DeItaone/status/2083224374669177006#m",
-      "published": "2026-07-31T16:12:50+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Trump on Iran: We'll be hitting them very hard.",
       "summary": "",
       "link": "https://www.financialjuice.com/News/9702887/Trump-on-Iran-Well-be-hitting-them-very-hard.aspx?xy=rss",
       "published": "2026-07-31T16:11:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: WE'LL BE HITTING THEM",
-      "summary": "<p>TRUMP ON IRAN: WE'LL BE HITTING THEM</p>",
-      "link": "https://nitter.net/DeItaone/status/2083224121115050038#m",
-      "published": "2026-07-31T16:11:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: IRAN ARE BEING DECIMATED",
-      "summary": "<p>TRUMP: IRAN ARE BEING DECIMATED</p>",
-      "link": "https://nitter.net/DeItaone/status/2083224066748555522#m",
-      "published": "2026-07-31T16:11:36+00:00",
       "score": 1
     },
     {
@@ -192,24 +174,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: IRAN'S MISSILE CAPABILITY WEAKENED President Donald Trump said Iran still has \"a few missiles,\" but far fewer than it did four to five months ago. Trump added that Iran's missile production capabilities have almost completely disappeared, signaling continued pressure on the country's military capabilities.",
-      "summary": "<p>TRUMP: IRAN'S MISSILE CAPABILITY WEAKENED<br />\n<br />\nPresident Donald Trump said Iran still has \"a few missiles,\" but far fewer than it did four to five months ago.<br />\n<br />\nTrump added that Iran's missile production capabilities have almost completely disappeared, signaling continued pressure on the country's military capabilities.</p>",
-      "link": "https://nitter.net/DeItaone/status/2083220216410984522#m",
-      "published": "2026-07-31T15:56:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: SAYS THERE'S NO INFORMATION ICC IS AFTER ME",
-      "summary": "<p>TRUMP: SAYS THERE'S NO INFORMATION ICC IS AFTER ME</p>",
-      "link": "https://nitter.net/DeItaone/status/2083219588351754626#m",
-      "published": "2026-07-31T15:53:48+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Trump: Soon, Iran won't have some military capacity left.",
@@ -225,33 +189,6 @@
       "summary": "",
       "link": "https://www.financialjuice.com/News/9702861/Trump-I-want-defense-firms-to-move-fast.aspx?xy=rss",
       "published": "2026-07-31T15:45:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran has been dishonest to deal with.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702857/Trump-Iran-has-been-dishonest-to-deal-with.aspx?xy=rss",
-      "published": "2026-07-31T15:45:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran is having a hard time.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702856/Trump-Iran-is-having-a-hard-time.aspx?xy=rss",
-      "published": "2026-07-31T15:44:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran is doing very poorly.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702855/Trump-Iran-is-doing-very-poorly.aspx?xy=rss",
-      "published": "2026-07-31T15:44:50+00:00",
       "score": 1
     },
     {
@@ -273,15 +210,6 @@
       "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump touts the stock market.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702854/Trump-touts-the-stock-market.aspx?xy=rss",
-      "published": "2026-07-31T15:34:52+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Japanese Yen: Intervention slows but does not reverse trend – ING",
@@ -291,18 +219,9 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "AMAZON SHARES JUMP 15.2%, SET FOR BIGGEST PERCENTAGE GAIN SINCE 2012",
-      "summary": "<p>AMAZON SHARES JUMP 15.2%, SET FOR BIGGEST PERCENTAGE GAIN SINCE 2012</p>",
-      "link": "https://nitter.net/DeItaone/status/2083201071065747468#m",
-      "published": "2026-07-31T14:40:14+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "New Zealnd Dollar weakens after China PMI miss as the US Dollar rebounds",
+      "title": "New Zealand Dollar weakens after China PMI miss as the US Dollar rebounds",
       "summary": "NZD/USD trades around 0.5860 on Friday, down 0.33% on the day, as investors react to another deterioration in Chinese business activity.",
       "link": "https://www.fxstreet.com/news/new-zealnd-dollar-weakens-after-china-pmi-miss-as-the-us-dollar-rebounds-202607311436",
       "published": "2026-07-31T14:36:06+00:00",
@@ -327,48 +246,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TREASURY SELLOFF GATHERS MOMENTUM U.S. Treasury yields climbed across the curve after Fed officials Lorie Logan and Beth Hammack defended their calls for a 25 bp rate hike, boosting expectations of near-term tightening. The 10-year Treasury yield rose to 4.737%, its highest intraday level since January 2025, as investors increased bets on higher rates.",
-      "summary": "<p>TREASURY SELLOFF GATHERS MOMENTUM<br />\n<br />\nU.S. Treasury yields climbed across the curve after Fed officials Lorie Logan and Beth Hammack defended their calls for a 25 bp rate hike, boosting expectations of near-term tightening.<br />\n<br />\nThe 10-year Treasury yield rose to 4.737%, its highest intraday level since January 2025, as investors increased bets on higher rates.</p>",
-      "link": "https://nitter.net/DeItaone/status/2083194321780535337#m",
-      "published": "2026-07-31T14:13:24+00:00",
-      "score": 3
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The S&P 500 erases all gains and turns red on the day as the US 10Y Note Yield surges to its highest level since January 2025.",
       "summary": "<p>BREAKING: The S&amp;P 500 erases all gains and turns red on the day as the US 10Y Note Yield surges to its highest level since January 2025.</p>\n<img src=\"https://nitter.net/pic/media%2FHOj9YaTWgAAJtvX.png\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2083193516226728093#m",
       "published": "2026-07-31T14:10:12+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "US 10-YEAR TREASURY YIELDS RISE TO 4.7388%, HIGHEST SINCE JANUARY 2025",
-      "summary": "<p>US 10-YEAR TREASURY YIELDS RISE TO 4.7388%, HIGHEST SINCE JANUARY 2025</p>",
-      "link": "https://nitter.net/DeItaone/status/2083193216048763024#m",
-      "published": "2026-07-31T14:09:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. CONSUMER SENTIMENT TOPS ESTIMATES University of Michigan consumer sentiment rose to 55.2 in July, above the 54.0 consensus and up from 49.5 in June. One-year inflation expectations held at 4.2%, down from 4.6% in June, while the five-year outlook remained at 3.3%, pointing to stable long-term inflation expectations.",
-      "summary": "<p>U.S. CONSUMER SENTIMENT TOPS ESTIMATES<br />\n<br />\nUniversity of Michigan consumer sentiment rose to 55.2 in July, above the 54.0 consensus and up from 49.5 in June.<br />\n<br />\nOne-year inflation expectations held at 4.2%, down from 4.6% in June, while the five-year outlook remained at 3.3%, pointing to stable long-term inflation expectations.</p>",
-      "link": "https://nitter.net/DeItaone/status/2083191571382448205#m",
-      "published": "2026-07-31T14:02:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "LOGAN BACKS IMMEDIATE RATE HIKE Fed Governor Lorie Logan said she preferred a 25 bp rate hike, arguing inflation is not on track to sustainably return to the Fed's 2% target. Logan said taking modest action now would reduce the risk of more aggressive tightening later, while stressing the Fed cannot rely on unexpected shocks to achieve its inflation goal.",
-      "summary": "<p>LOGAN BACKS IMMEDIATE RATE HIKE<br />\n<br />\nFed Governor Lorie Logan said she preferred a 25 bp rate hike, arguing inflation is not on track to sustainably return to the Fed's 2% target.<br />\n<br />\nLogan said taking modest action now would reduce the risk of more aggressive tightening later, while stressing the Fed cannot rely on unexpected shocks to achieve its inflation goal.</p>",
-      "link": "https://nitter.net/DeItaone/status/2083191177403056565#m",
-      "published": "2026-07-31T14:00:55+00:00",
       "score": 2
     },
     {
@@ -408,24 +291,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "SPOT GOLD EXTENDS LOSSES, LAST DOWN NEARLY 2% AT $4,024.69/OZ",
-      "summary": "<p>SPOT GOLD  EXTENDS LOSSES, LAST DOWN NEARLY 2% AT $4,024.69/OZ</p>",
-      "link": "https://nitter.net/DeItaone/status/2083187347139494373#m",
-      "published": "2026-07-31T13:45:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "US TREASURY HAS INFORMED BANKS THAT IT MAY INTERVENE IN YEN MARKET ON FRIDAY - SOURCE FAMILIAR WITH THE MATTER US TREASURY TOLD A NUMBER OF BANKS VIA NEW YORK FED THAT BANKS SHOULD STAND BY FOR 'FUTURE ACTIONS' - SOURCE FAMILIAR WITH THE MATTER",
-      "summary": "<p>US TREASURY HAS INFORMED BANKS THAT IT MAY INTERVENE IN YEN MARKET ON FRIDAY - SOURCE FAMILIAR WITH THE MATTER<br />\n<br />\nUS TREASURY TOLD A NUMBER OF BANKS VIA NEW YORK FED THAT BANKS SHOULD STAND BY FOR 'FUTURE ACTIONS' - SOURCE FAMILIAR WITH THE MATTER</p>",
-      "link": "https://nitter.net/DeItaone/status/2083184633777205755#m",
-      "published": "2026-07-31T13:34:55+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Japanese Yen: Intervention risk and hawkish BoJ support Yen – BBH",
@@ -444,15 +309,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro slips back below 1.1500 as US Dollar recovers",
-      "summary": "The Euro (EUR) weakens against the US Dollar (USD) on Friday as short-covering in the Greenback following the previous day’s sharp sell-off pushes EUR/USD back below 1.1500. At the time of writing, the pair trades around 1.1488, easing from the six-week high of 1.1537 touched on Thursday.",
-      "link": "https://www.fxstreet.com/news/euro-slips-back-below-11500-as-us-dollar-recovers-202607311308",
-      "published": "2026-07-31T13:08:56+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Liquidity sweeps",
@@ -460,24 +316,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vbqf2v/liquidity_sweeps/",
       "published": "2026-07-31T13:05:19+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar shrugs off upbeat GDP as US Dollar stages a comeback",
-      "summary": "USD/CAD trades around 1.4045 on Friday at the time of writing, recovering from a two-week low hit on Thursday at 1.3991.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-shrugs-off-upbeat-gdp-as-us-dollar-stages-a-comeback-202607311302",
-      "published": "2026-07-31T13:02:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRADERS BRACE FOR S&P 500 VOLATILITY Investors are increasing hedges against broader S&P 500 swings as macro risks—including inflation, Fed uncertainty and geopolitical tensions—take center stage after earnings season. Goldman Sachs favors a reverse dispersion trade, betting on higher index volatility but lower single-stock volatility. Demand for downside protection is also rising ahead of the historically volatile August-September period.",
-      "summary": "<p>TRADERS BRACE FOR S&amp;P 500 VOLATILITY<br />\n<br />\nInvestors are increasing hedges against broader S&amp;P 500 swings as macro risks—including inflation, Fed uncertainty and geopolitical tensions—take center stage after earnings season.<br />\n<br />\nGoldman Sachs favors a reverse dispersion trade, betting on higher index volatility but lower single-stock volatility. Demand for downside prote",
-      "link": "https://nitter.net/DeItaone/status/2083171783494996414#m",
-      "published": "2026-07-31T12:43:51+00:00",
-      "score": 4
     },
     {
       "source": "FXStreet",
@@ -594,15 +432,6 @@
       "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
       "published": "2026-07-30T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Microsoft stock, $MSFT, surges +15% and is now on track for its biggest daily gain since 2020. From one of the most hated to one of the most loved names literally overnight.",
-      "summary": "<p>BREAKING: Microsoft stock, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>, surges +15% and is now on track for its biggest daily gain since 2020.<br />\n<br />\nFrom one of the most hated to one of the most loved names literally overnight.</p>\n<img src=\"https://nitter.net/pic/media%2FHOesKvXXUAAxlt4.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2082822657943208419#m",
-      "published": "2026-07-30T13:36:33+00:00",
       "score": 1
     },
     {
