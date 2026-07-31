@@ -1,7 +1,214 @@
 {
-  "updated_at": "2026-07-31T10:17:50.283767+00:00",
+  "updated_at": "2026-07-31T12:26:51.861942+00:00",
   "count": 65,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Softer BoE stance seen weighing on Sterling – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad highlights that the Bank of England (BoE) left rates at 3.75% with a 6–3 vote, while Governor Andrew Bailey pushed back against expectations of an imminent hike.",
+      "link": "https://www.fxstreet.com/news/british-pound-softer-boe-stance-seen-weighing-on-sterling-bbh-202607311220",
+      "published": "2026-07-31T12:20:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Moonshot’s Kimi built on 20,000 Nvidia chip cluster via Alibaba $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702535/Moonshots-Kimi-built-on-20000-Nvidia-chip-cluster-via-Alibaba-NVDA.aspx?xy=rss",
+      "published": "2026-07-31T12:20:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: WH Sr. Adviser Hassett: Think the 10-year Treasury yield climb is a temporary matter.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702531/WH-Sr-Adviser-Hassett-Think-the-10-year-Treasury-yield-climb-is-a-temporary-matter.aspx?xy=rss",
+      "published": "2026-07-31T12:16:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: WH Sr. Adviser Hassett: Expect AI productivity to help push inflation down.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702526/WH-Sr-Adviser-Hassett-Expect-AI-productivity-to-help-push-inflation-down.aspx?xy=rss",
+      "published": "2026-07-31T12:15:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: ECB September hike still base case – TD Securities",
+      "summary": "TD Securities strategists highlight that Euro area Harmonised Index of Consumer Prices (HICP) inflation rose to 2.9% y/y in July, with core inflation at 2.5% and services inflation at 3.3%, indicating only limited evidence of meaningful second-round effects.",
+      "link": "https://www.fxstreet.com/news/euro-ecb-september-hike-still-base-case-td-securities-202607311209",
+      "published": "2026-07-31T12:09:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: WH Sr. Adviser Hassett on rates: Think we could stay where we are. - Fox Business",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702521/WH-Sr-Adviser-Hassett-on-rates-Think-we-could-stay-where-we-are---Fox-Business.aspx?xy=rss",
+      "published": "2026-07-31T12:06:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Kashkari: If inflation remains elevated, a potential series of small policy moves would be better than waiting and concluding that bolder actions were necessary.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702517/Feds-Kashkari-If-inflation-remains-elevated-a-potential-series-of-small-policy-moves-would-be-better-than-waiting-and-concluding-that-bolder-actions-were-necessary.aspx?xy=rss",
+      "published": "2026-07-31T12:03:02+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Kashkari: To manage against the risk of inflation becoming entrenched, would prefer to tighten policy incrementally.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702516/Feds-Kashkari-To-manage-against-the-risk-of-inflation-becoming-entrenched-would-prefer-to-tighten-policy-incrementally.aspx?xy=rss",
+      "published": "2026-07-31T12:02:56+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Kashkari: If inflation durably fades, a strategy of small steps would allow the FOMC to slow or pause subsequent adjustments without unnecessary impact on the real economy.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702515/Feds-Kashkari-If-inflation-durably-fades-a-strategy-of-small-steps-would-allow-the-FOMC-to-slow-or-pause-subsequent-adjustments-without-unnecessary-impact-on-the-real-economy.aspx?xy=rss",
+      "published": "2026-07-31T12:02:49+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: With the job market stable, the Fed should focus on inflation.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702514/Feds-Hammack-With-the-job-market-stable-the-Fed-should-focus-on-inflation.aspx?xy=rss",
+      "published": "2026-07-31T12:02:31+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: Fed rate policy is not restrictive enough.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702513/Feds-Hammack-Fed-rate-policy-is-not-restrictive-enough.aspx?xy=rss",
+      "published": "2026-07-31T12:02:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Kashkari: Monetary policy can look through individual supply shocks.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702511/Feds-Kashkari-Monetary-policy-can-look-through-individual-supply-shocks.aspx?xy=rss",
+      "published": "2026-07-31T12:02:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Kashkari: Increasingly believe monetary policy has a role to play in addressing successive supply shocks that might lead to entrenched inflation.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702510/Feds-Kashkari-Increasingly-believe-monetary-policy-has-a-role-to-play-in-addressing-successive-supply-shocks-that-might-lead-to-entrenched-inflation.aspx?xy=rss",
+      "published": "2026-07-31T12:02:17+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: The longer inflation stays high, the harder it will be to bring it back to target.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702509/Feds-Hammack-The-longer-inflation-stays-high-the-harder-it-will-be-to-bring-it-back-to-target.aspx?xy=rss",
+      "published": "2026-07-31T12:02:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Kashkari: More recently, data center investments have added a new demand element to inflation.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9702508/Feds-Kashkari-More-recently-data-center-investments-have-added-a-new-demand-element-to-inflation.aspx?xy=rss",
+      "published": "2026-07-31T12:02:03+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Policy credibility and intervention dynamics – BNY",
+      "summary": "BNY’s Geoff Yu highlights that the Japanese Yen (JPY) entered the latest Bank of Japan (BoJ) decision and suspected intervention with weak flow momentum and lighter positioning, even as investors remained net long JPY and net short USD/JPY.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-credibility-and-intervention-dynamics-bny-202607311157",
+      "published": "2026-07-31T11:57:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD remains under pressure as bond yields, US Dollar rebound",
+      "summary": "Silver price (XAG/USD) is down 1.7% to near $58.00 during the European trading session on Friday. The white metal continues to decline throughout the day as United States (US) Treasury Yields have bounced back amid fears that inflationary pressures will remain elevated.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-under-pressure-as-bond-yields-us-dollar-rebound-202607311149",
+      "published": "2026-07-31T11:49:27+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold declines as firmer US Dollar, hawkish Fed outlook weigh",
+      "summary": "Gold (XAU/USD) edges lower on Friday as the US Dollar (USD) stabilizes following the previous day’s sharp sell-off, while hawkish Federal Reserve (Fed) expectations remain a key headwind for the non-yielding metal.",
+      "link": "https://www.fxstreet.com/news/gold-declines-as-firmer-us-dollar-and-hawkish-fed-outlook-weigh-202607311148",
+      "published": "2026-07-31T11:48:49+00:00",
+      "score": 6
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "It’s my very first trade with USDJPY 🫱🏻‍🫲🏿🫪",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vbodsh/its_my_very_first_trade_with_usdjpy/\"> <img alt=\"It’s my very first trade with USDJPY 🫱🏻‍🫲🏿🫪\" src=\"https://preview.redd.it/r8txxt32xjgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=da06c4c9ff911737f3a4be25a4bdd171f41c4e6f\" title=\"It’s my very first trade with USDJPY 🫱🏻‍🫲🏿🫪\" /> </a> </td><td> &#32; submitted by &#32; <a",
+      "link": "https://www.reddit.com/r/Forex/comments/1vbodsh/its_my_very_first_trade_with_usdjpy/",
+      "published": "2026-07-31T11:33:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen dips back to 160.00 against the US Dollar as post-BoJ gains fade",
+      "summary": "The Japanese Yen (JPY) posts moderate losses against the US Dollar (USD) on Friday, with the USD/JPY pair trading just above 160.00 at the time of writing, after whipsawing within a rough 240-pip range between 158.60 and 161.00 earlier on the day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-dips-back-to-16000-against-the-us-dollar-as-post-boj-gains-fade-202607311132",
+      "published": "2026-07-31T11:32:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index: DXY seen returning to 96.00–100.00 range – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes that the Dollar stabilized after a sharp sell-off linked to suspected USD/JPY intervention, but argues the broader USD rally since May has likely ended, with US Dollar Index (DXY) expected to move back into a 96.00–100.00 range.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-dxy-seen-returning-to-9600-10000-range-bbh-202607311128",
+      "published": "2026-07-31T11:28:10+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar holds firm despite weak Chinese data, fading RBA rate hike bets",
+      "summary": "AUD/USD trades around 0.7030 at the time of writing on Friday, little changed on the day after Thursday's strong rally.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-despite-weak-chinese-data-fading-rba-rate-hike-bets-202607311121",
+      "published": "2026-07-31T11:21:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Experts agree: The US Dollar rally might have found serious headwinds",
+      "summary": "The US Dollar Index (DXY) attempts to cling above the 100.00 psychological level on Friday after a nearly 1.5% selloff in the previous three days, as the Federal Reserve's (Fed) lack of forward guidance at Wednesday's monetary policy meeting raised concerns that the bank might fail on its commitment",
+      "link": "https://www.fxstreet.com/news/experts-agree-the-us-dollar-rally-might-have-found-serious-headwinds-202607311025",
+      "published": "2026-07-31T10:25:00+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -10,15 +217,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-post-fed-losses-extend-as-positioning-unwinds-ing-202607311005",
       "published": "2026-07-31T10:05:31+00:00",
       "score": 4
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$AMZN - AMAZON - DURING Q2 2026, WE RECEIVED ABOUT $640 MILLION OF TARIFF REFUNDS UNDER IEEPA - FILING",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>  - AMAZON - DURING Q2 2026, WE RECEIVED ABOUT $640 MILLION OF TARIFF REFUNDS UNDER IEEPA - FILING</p>",
-      "link": "https://nitter.net/DeItaone/status/2083131833919647912#m",
-      "published": "2026-07-31T10:05:06+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -32,7 +230,7 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro hits session lows against the British Pound following Eurozone Inflation data",
+      "title": "Euro hits session lows against the British Pound following Eurozone inflation data",
       "summary": "The Euro (EUR) edges lower against the British Pound (GBP) on Friday, hitting session lows at 0.8554 following the Eurozone’s preliminary inflation figures from July.",
       "link": "https://www.fxstreet.com/news/euro-hits-session-lows-against-the-british-pound-following-eurozone-inflation-data-202607310939",
       "published": "2026-07-31T09:39:18+00:00",
@@ -66,69 +264,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "EUROZONE INFLATION REACCELERATES Eurozone inflation rose to 2.9% in July from 2.8%, matching forecasts, as higher oil prices following renewed US-Iran tensions lifted energy costs. The data reinforced expectations the ECB will raise interest rates again, with markets and economists now focused on a potential September hike. Core and services inflation also accelerated, while the eurozone economy continued to show resilient growth.",
-      "summary": "<p>EUROZONE INFLATION REACCELERATES<br />\n<br />\nEurozone inflation rose to 2.9% in July from 2.8%, matching forecasts, as higher oil prices following renewed US-Iran tensions lifted energy costs.<br />\n<br />\nThe data reinforced expectations the ECB will raise interest rates again, with markets and economists now focused on a potential September hike. Core and services inflation also accelerated,",
-      "link": "https://nitter.net/DeItaone/status/2083121599343927397#m",
-      "published": "2026-07-31T09:24:26+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB's Kocher: In autumn, the ECB governing council will make decisions based on incoming data to bring inflation in the Euro area back to the target level of 2% on a sustainable basis",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702245/ECBs-Kocher-In-autumn-the-ECB-governing-council-will-make-decisions-based-on-incoming-data-to-bring-inflation-in-the-Euro-area-back-to-the-target-level-of-2-on-a-sustainable-basis.aspx?xy=rss",
-      "published": "2026-07-31T09:07:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB's Kocher: Recent weeks have demonstrated how quickly geopolitical developments can alter energy prices and, consequently, the inflation outlook",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702244/ECBs-Kocher-Recent-weeks-have-demonstrated-how-quickly-geopolitical-developments-can-alter-energy-prices-and-consequently-the-inflation-outlook.aspx?xy=rss",
-      "published": "2026-07-31T09:07:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Eurozone CPI YoY Flash Actual 2.9% (Forecast 2.9%, Previous 2.8%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702224/Eurozone-CPI-YoY-Flash-Actual-29-Forecast-29-Previous-28.aspx?xy=rss",
-      "published": "2026-07-31T09:00:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Eurozone Core CPI YoY Flash Actual 2.5% (Forecast 2.4%, Previous 2.4%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702223/Eurozone-Core-CPI-YoY-Flash-Actual-25-Forecast-24-Previous-24.aspx?xy=rss",
-      "published": "2026-07-31T09:00:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Central bank buying offsets ETF outflows – ING",
-      "summary": "ING’s commodities team reports that Gold demand was steady in 2Q 2026, with total demand flat year-on-year at 1,269 tonnes as strong central bank purchases balanced weaker ETF demand.",
-      "link": "https://www.fxstreet.com/news/gold-central-bank-buying-offsets-etf-outflows-ing-202607310855",
-      "published": "2026-07-31T08:55:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Limited support from BoE policy – Commerzbank",
-      "summary": "Commerzbank’s Michael Pfister notes that the Bank of England kept rates unchanged and avoided signalling future hikes, despite a closer-than-expected 6–3 vote and Governor Bailey’s insistence that the BoE is not edging toward tightening.",
-      "link": "https://www.fxstreet.com/news/british-pound-limited-support-from-boe-policy-commerzbank-202607310843",
-      "published": "2026-07-31T08:43:01+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Difficulty in entering the trade",
@@ -138,90 +273,9 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$AMZN - BERNSTEIN RAISES AMAZON PT ON AWS, AI MOMENTUM Bernstein raised its Amazon price target to $320 from $315, maintaining an Outperform rating. The firm cited stronger-than-expected 37% AWS revenue growth, a $25B AI revenue run rate, expanding AI chip business and clear returns on AI investment. Bernstein also highlighted Amazon's higher 2026 capex of $220B, backed by strong demand and attractive payback periods.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>  - BERNSTEIN RAISES AMAZON PT ON AWS, AI MOMENTUM<br />\n<br />\nBernstein raised its Amazon price target to $320 from $315, maintaining an Outperform rating.<br />\n<br />\nThe firm cited stronger-than-expected 37% AWS revenue growth, a $25B AI revenue run rate, expanding AI chip business and clear returns on AI investment. Berns",
-      "link": "https://nitter.net/DeItaone/status/2083108671823761477#m",
-      "published": "2026-07-31T08:33:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$AMZN - PIPER RAISES AMAZON PT AFTER STRONG AWS QUARTER Piper Sandler raised its Amazon price target to $320 from $315, maintaining an Overweight rating. The firm said Q2 was one of Amazon's strongest quarters, driven by 37% AWS revenue growth, better-than-expected operating income and margins. Piper also highlighted the increase in 2026 capex to $220B, saying underlying business momentum remains strong.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>  - PIPER RAISES AMAZON PT AFTER STRONG AWS QUARTER<br />\n<br />\nPiper Sandler raised its Amazon price target to $320 from $315, maintaining an Overweight rating.<br />\n<br />\nThe firm said Q2 was one of Amazon's strongest quarters, driven by 37% AWS revenue growth, better-than-expected operating income and margins. Piper also ",
-      "link": "https://nitter.net/DeItaone/status/2083108506492670326#m",
-      "published": "2026-07-31T08:32:24+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "Federal Reserve: Prolonged pause with hike risks – UOB",
-      "summary": "UOB strategists observe that the Federal Open Market Committee (FOMC) kept the Fed Funds Target Rate at 3.50%–3.75% for a fifth meeting, with a 9–3 split as three presidents sought a 25 bps hike.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-prolonged-pause-with-hike-risks-uob-202607310830",
-      "published": "2026-07-31T08:30:46+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CAD Price Forecast: Steadies above June low as bears await 1.4000 breakdown",
-      "summary": "The USD/CAD pair seesaws between tepid gains/minor losses through the early European session on Friday, consolidating its recent losses to the lowest level since June 17, touched the previous day.",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-steadies-above-june-low-as-bears-await-14000-breakdown-202607310818",
-      "published": "2026-07-31T08:18:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$AAPL - APPLE SHARES FALL 6.6% PREMARKET AFTER CURRENT-QUARTER SALES FORECAST MISSES WALL STREET TARGET",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a>  - APPLE SHARES FALL 6.6% PREMARKET AFTER CURRENT-QUARTER SALES FORECAST MISSES WALL STREET TARGET</p>",
-      "link": "https://nitter.net/DeItaone/status/2083100689316610369#m",
-      "published": "2026-07-31T08:01:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. S&P 500 E-MINI FUTURES UP 0.45%, NASDAQ 100 FUTURES UP 1.2%, DOW FUTURES UP 0.5%",
-      "summary": "<p>U.S. S&amp;P 500 E-MINI FUTURES UP 0.45%, NASDAQ 100 FUTURES UP 1.2%, DOW FUTURES UP 0.5%</p>",
-      "link": "https://nitter.net/DeItaone/status/2083100544378216677#m",
-      "published": "2026-07-31T08:00:46+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$AAPL - GOLDMAN CUTS APPLE PT ON SOFTER OUTLOOK Goldman Sachs cut its Apple price target to $360 from $370, while maintaining a Buy rating. The firm said Q3 results were largely in line, but weaker-than-expected Q4 guidance on revenue growth and margins weighed on the outlook. Goldman expects sentiment to improve as price increases, new AI features and product launches support revenue and margins.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a>  - GOLDMAN CUTS APPLE PT ON SOFTER OUTLOOK<br />\n<br />\nGoldman Sachs cut its Apple price target to $360 from $370, while maintaining a Buy rating.<br />\n<br />\nThe firm said Q3 results were largely in line, but weaker-than-expected Q4 guidance on revenue growth and margins weighed on the outlook. Goldman expects sentiment to ",
-      "link": "https://nitter.net/DeItaone/status/2083096142737240066#m",
-      "published": "2026-07-31T07:43:17+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoJ's Governor Ueda: Some indicators for medium- to long-term inflation expectations are rising significantly, so watching carefully",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9702116/BoJs-Governor-Ueda-Some-indicators-for-medium--to-long-term-inflation-expectations-are-rising-significantly-so-watching-carefully.aspx?xy=rss",
-      "published": "2026-07-31T07:42:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$AMZN - GOLDMAN RAISES AMAZON PT TO $375 Goldman Sachs raised its Amazon price target to $375 from $335, maintaining a Buy rating. The firm cited accelerating AWS growth, strong AI and custom chip momentum, a higher 2026 capex plan of $220B, robust $496B backlog, solid Prime demand, and 26% advertising growth, saying the results reinforce Amazon's long-term AI and cloud leadership.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>  - GOLDMAN RAISES AMAZON PT TO $375<br />\n<br />\nGoldman Sachs raised its Amazon price target to $375 from $335, maintaining a Buy rating.<br />\n<br />\nThe firm cited accelerating AWS growth, strong AI and custom chip momentum, a higher 2026 capex plan of $220B, robust $496B backlog, solid Prime demand, and 26% advertising gro",
-      "link": "https://nitter.net/DeItaone/status/2083095834820829374#m",
-      "published": "2026-07-31T07:42:03+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee refreshes two-week high vs. US Dollar",
+      "title": "Indian Rupee sets for bets weekly close in four months",
       "summary": "The Indian Rupee (INR) extends the week-long rally against the US Dollar (USD) on Friday.",
       "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-week-high-against-us-dollar-202607310543",
       "published": "2026-07-31T05:43:47+00:00",
@@ -237,15 +291,6 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold weakens towards $4,050 as USD preserves gains on Iran risks and Fed hike bets",
-      "summary": "Gold (XAU/USD) extends its steady intraday descent through the first half of the European session on Friday and hits a fresh daily low, around the $4,060 area in the last hour.",
-      "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-usd-recovers-amid-fed-hike-bets-and-geopolitical-tensions-202607310355",
-      "published": "2026-07-31T03:55:06+00:00",
-      "score": 4
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Apple stock, $AAPL, extends losses to -8% after reporting weaker than expected revenue guidance. The stock has now erased -$390 billion in market cap in 60 minutes.",
@@ -255,30 +300,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "APPLE BEATS ESTIMATES ON IPHONE, MAC STRENGTH Results EPS: $2.02 ($1.91 ex-tariff refunds) vs. $1.89 est. ✅ Revenue: $109.42B vs. $108.65B est. ✅ Gross Margin: 50.1% (48.1% ex-tariff refunds) vs. 47.9% est. ✅ iPhone Revenue: $54.25B vs. $53.86B est. ✅ Mac Revenue: $10.35B vs. $8.74B est. ✅ iPad Revenue: $6.19B vs. $6.92B est. ❌ Services Revenue: $30.74B vs. $31.22B est. ❌ Wearables Revenue: $7.88B vs. $7.82B est. ✅ Greater China Revenue: $18.82B, +22.4% YoY. Key Takeaways CEO: Advanced chipmaking bottlenecks remain the primary supply constraint. Shares: Fell ~4% in extended trading.",
-      "summary": "<p>APPLE BEATS ESTIMATES ON IPHONE, MAC STRENGTH<br />\n<br />\nResults<br />\n<br />\nEPS: $2.02 ($1.91 ex-tariff refunds) vs. $1.89 est. ✅<br />\nRevenue: $109.42B vs. $108.65B est. ✅<br />\nGross Margin: 50.1% (48.1% ex-tariff refunds) vs. 47.9% est. ✅<br />\niPhone Revenue: $54.25B vs. $53.86B est. ✅<br />\nMac Revenue: $10.35B vs. $8.74B est. ✅<br />\niPad Revenue: $6.19B vs. $6.92B est. ❌<br />\nServi",
-      "link": "https://nitter.net/DeItaone/status/2082933232874426433#m",
-      "published": "2026-07-30T20:55:56+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Apple stock, $AAPL, falls nearly -4% despite posting stronger than expected earnings.",
       "summary": "<p>BREAKING: Apple stock, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a>, falls nearly -4% despite posting stronger than expected earnings.</p>\n<img src=\"https://nitter.net/pic/media%2FHOgLY3PXYAA9cQO.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2082927354406437045#m",
       "published": "2026-07-30T20:32:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ORDERS RESTRICTIONS ON EXPORT OF CRITICAL MINERALS SCRAP - WHITE HOUSE OFFICIALS",
-      "summary": "<p>TRUMP ORDERS RESTRICTIONS ON EXPORT OF CRITICAL MINERALS SCRAP - WHITE HOUSE OFFICIALS</p>",
-      "link": "https://nitter.net/DeItaone/status/2082925876342051125#m",
-      "published": "2026-07-30T20:26:42+00:00",
       "score": 1
     },
     {
@@ -309,15 +336,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP'S BOARD OF PEACE BELIEVE HAMAS COULD SIGN AN AGREEMENT IN COMING DAYS TO BEGIN DISARMING AND DEMILITARIZING GAZA STRIP -AXIOS",
-      "summary": "<p>TRUMP'S BOARD OF PEACE BELIEVE HAMAS COULD SIGN AN AGREEMENT IN COMING DAYS TO BEGIN DISARMING AND DEMILITARIZING GAZA STRIP -AXIOS</p>",
-      "link": "https://nitter.net/DeItaone/status/2082909884933140497#m",
-      "published": "2026-07-30T19:23:09+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "AI generated content is rapidly growing. But no one wants to read it. A new study shows that AI generated content now accounts for 41% of long-form content on LinkedIn, 13% on Reddit, and 10% on Substack. Even short-form content is now AI generated, with 30% of short-form posts on LinkedIn and 12% on Substack coming from AI. At the same time, AI-generated posts on LinkedIn receive 45% LESS engagement than human-written posts, on average. Amid the growth of AI, humans are behind all of our posts, research, and analysis. The gap between AI-written and human-sounding content is becoming one of the biggest differentiators on social media.",
@@ -333,15 +351,6 @@
       "summary": "<p>BREAKING: The S&amp;P 500 extends gains to over +100 points on the day as dip buyers rotate into technology and chip stocks.</p>\n<img src=\"https://nitter.net/pic/media%2FHOfjlNvWMAAO0uU.png\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2082883595648008581#m",
       "published": "2026-07-30T17:38:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ABC SAYS TRUMP ADMINISTRATION IS RETALIATING AGAINST NETWORK OVER ITS NEWS COVERAGE IN EARLY LICENSE REVIEW, SENDING WARNING TO ALL OTHER MEDIA COMPANIES -- FILING",
-      "summary": "<p>ABC SAYS TRUMP ADMINISTRATION IS RETALIATING AGAINST NETWORK OVER ITS NEWS COVERAGE IN EARLY LICENSE REVIEW, SENDING WARNING TO ALL OTHER MEDIA COMPANIES -- FILING</p>",
-      "link": "https://nitter.net/DeItaone/status/2082845587733426257#m",
-      "published": "2026-07-30T15:07:40+00:00",
       "score": 1
     },
     {
@@ -450,15 +459,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1va2551/forex/\"> <img alt=\"Forex\" src=\"https://preview.redd.it/0xwuoq4r97gh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d4172a87d1af50461b2f91c751d1778586d4f6a\" title=\"Forex\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>UsdAud break Black line go for long </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"htt",
       "link": "https://www.reddit.com/r/Forex/comments/1va2551/forex/",
       "published": "2026-07-29T17:01:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Planing to fullport in FOMC, need advice",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>lol, here we go again. I have 50$ extra cash that i dont care even if it losses. Just before 1 min of news i will buy in one account and sell in other account, Best case is one will win and other will loss and worst case is a doji forms and both account get loss that is ended up in -50$. </p> <p>What is your opinion, its just for fun and maybe my 50$ might convert",
-      "link": "https://www.reddit.com/r/Forex/comments/1va1nca/planing_to_fullport_in_fomc_need_advice/",
-      "published": "2026-07-29T16:43:56+00:00",
       "score": 1
     },
     {
