@@ -1,13 +1,5 @@
 [
   {
-    "title": "BusinessNZ Services Index",
-    "country": "NZD",
-    "date": "2026-07-12T18:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "47.5"
-  },
-  {
     "title": "M2 Money Supply y/y",
     "country": "CNY",
     "date": "2026-07-13T04:03:00-04:00",
@@ -3078,6 +3070,14 @@
     "impact": "Low",
     "forecast": "12.1B",
     "previous": "-0.2B"
+  },
+  {
+    "title": "FOMC Member Bowman Speaks",
+    "country": "USD",
+    "date": "2026-08-08T12:45:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "CPI y/y",
