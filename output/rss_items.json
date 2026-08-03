@@ -1,14 +1,131 @@
 {
-  "updated_at": "2026-08-03T00:14:33.388279+00:00",
-  "count": 68,
+  "updated_at": "2026-08-03T04:00:38.796229+00:00",
+  "count": 57,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD rises above $58.00 on renewed US-Iran peace talks",
+      "summary": "Silver price (XAG/USD) rises after registering modest gains in the previous day, trading around $58.20 per troy ounce during the Asian hours on Monday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-above-5800-on-renewed-us-iran-peace-talks-202608030359",
+      "published": "2026-08-03T03:59:55+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index weakens below 100.00 as Trump says new Iran talks would begin Monday",
+      "summary": "The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 99.70 in the Asian trading hours on Monday. The DXY declines amid improved risk sentiment.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-below-10000-as-trump-says-new-iran-talks-would-begin-monday-202608030305",
+      "published": "2026-08-03T03:05:40+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar drifts lower as falling oil prices counter weak USD amid Iran hopes",
+      "summary": "The USD/CAD pair kicks off the new week on a positive note, though it lacks bullish conviction and remains confined within Friday's broader range. Spot prices currently trade around the 1.4030 region, up less than 0.10% for the day amid mixed fundamental cues.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-drifts-lower-as-falling-oil-prices-counter-weak-usd-amid-iran-hopes-202608030243",
+      "published": "2026-08-03T02:43:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar remains stronger following China’s RatingDog Manufacturing PMI data",
+      "summary": "AUD/USD depreciates after opening at a bullish gap, remaining in the positive territory and trading around 0.7030 during the Asian hours on Monday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-stronger-following-chinas-ratingdog-manufacturing-pmi-data-202608030221",
+      "published": "2026-08-03T02:21:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand holds gains near 0.5900 despite weaker China PMI data",
+      "summary": "The NZD/USD pair holds positive ground near 0.5890 during the Asian trading hours on Monday. The New Zealand Dollar (NZD) remains firm despite the downbeat Chinese economic data.",
+      "link": "https://www.fxstreet.com/news/new-zealand-holds-gains-near-05900-despite-weaker-china-pmi-data-202608030207",
+      "published": "2026-08-03T02:07:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound struggles despite easing risk aversion",
+      "summary": "GBP/USD holds losses after three days of gains, trading around 1.3470 during the Asian hours on Monday.",
+      "link": "https://www.fxstreet.com/news/british-pound-struggles-despite-easing-risk-aversion-202608030153",
+      "published": "2026-08-03T01:53:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Manual Trading Strategy",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vdzzjg/manual_trading_strategy/\"> <img alt=\"Manual Trading Strategy\" src=\"https://preview.redd.it/bx4ceyyse2hh1.png?width=140&amp;height=138&amp;auto=webp&amp;s=f64108b3000846a87c53c81c313103022bede7e1\" title=\"Manual Trading Strategy\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Real (USD) , June 2026~ July 2026</p> <p>Next ",
+      "link": "https://www.reddit.com/r/Forex/comments/1vdzzjg/manual_trading_strategy/",
+      "published": "2026-08-03T01:47:27+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Japan's top currency diplomat Mimura: no response to Trump remarks on forex intervention",
+      "title": "FinancialJuice: S. Korea central bank sells 91-day monetary stabilisation bonds at 2.83% yield",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9704290/Japans-top-currency-diplomat-Mimura-no-response-to-Trump-remarks-on-forex-intervention.aspx?xy=rss",
-      "published": "2026-08-03T00:12:56+00:00",
+      "link": "https://www.financialjuice.com/News/9704365/S-Korea-central-bank-sells-91-day-monetary-stabilisation-bonds-at-283-yield.aspx?xy=rss",
+      "published": "2026-08-03T01:40:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Donald Trump says Iran talks to begin Monday after canceling attack",
+      "summary": "US President Donald Trump said that fresh round of Iran talks would begin Monday after he cancelled a planned attack on Iran partially in response to pleas from US allies in the Middle East, including Saudi Arabia, Bloomberg reported on Monday.",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-iran-talks-to-begin-monday-after-canceling-attack-202608030122",
+      "published": "2026-08-03T01:22:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro holds near mid-1.1500s, highest level since June 17 as receding Fed hike bets hit USD",
+      "summary": "The EUR/USD pair builds on last week's breakout momentum above the 1.1460-1.1470 horizontal barrier and attracts buyers for the fifth straight day on Monday.",
+      "link": "https://www.fxstreet.com/news/euro-holds-near-mid-11500s-highest-level-since-june-17-as-receding-fed-hike-bets-hit-usd-202608030119",
+      "published": "2026-08-03T01:19:08+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7898 vs. 6.7894 previous",
+      "summary": "On Monday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7898 compared to Friday's fix of 6.7894.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67898-vs-67894-previous-202608030115",
+      "published": "2026-08-03T01:15:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold recovers above $4,050 as Trump pauses Iran strikes",
+      "summary": "Gold price (XAU/USD) attracts some buyers to around $4,060 during the early Asian session on Monday. The precious metal edges higher amid hopes of a breakthrough between the United States (US) and Iran after reports that US President Donald Trump has held off Iran strikes.",
+      "link": "https://www.fxstreet.com/news/gold-recovers-above-4-050-as-trump-pauses-iran-strikes-202608030102",
+      "published": "2026-08-03T01:02:33+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Breaking: Japanese Yen rises above 155.50 as Japan announces joint intervention with the US",
+      "summary": "The USD/JPY pair tumbles to near 155.45, the lowest since May 6, during the early Asian trading hours on Monday. The Japanese Yen (JPY) attracts some buyers following reports of more joint intervention by the United States (US) and Japan.",
+      "link": "https://www.fxstreet.com/news/breaking-japanese-yen-rises-above-15550-as-japan-announces-joint-intervention-with-the-us-202608030055",
+      "published": "2026-08-03T00:55:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen softens, traders watch further US-Japan joint currency intervention",
+      "summary": "The USD/JPY pair recovers some lost ground to near 157.65, snapping the three-day losing streak during the early Asian trading hours on Monday.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-softens-traders-watch-further-us-japan-joint-currency-intervention-202608030016",
+      "published": "2026-08-03T00:16:18+00:00",
       "score": 1
     },
     {
@@ -30,24 +147,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Japan MOF: Japan plans to use Federal Reserve’s foreign and international repo facility in future",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9704266/Japan-MOF-Japan-plans-to-use-Federal-Reserves-foreign-and-international-repo-facility-in-future.aspx?xy=rss",
-      "published": "2026-08-02T23:03:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Middle East War updates: Trump holds off Iran strikes on pledge Hormuz deal is close",
-      "summary": "Here’s a brief recap of the key developments in the Middle East war that occurred over the weekend, which are expected to have a significant impact on markets in the upcoming week.",
-      "link": "https://www.fxstreet.com/news/middle-east-war-updates-trump-holds-off-iran-strikes-on-pledge-hormuz-deal-is-close-202608022237",
-      "published": "2026-08-02T22:37:57+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: US stock market futures rise after President Trump calls off strikes on Iran and says a deal is near: 1. S&P 500: +0.5% 2. Nasdaq 100: +0.8% 3. Dow Jones: +0.4% 4. WTI Crude: -7.5% 5. Brent: -10.0% 6. Gold: +0.7% Peace deal headlines are back.",
@@ -63,87 +162,6 @@
       "summary": "<p>BREAKING: US oil prices crash below $79/barrel after President Trump cancels US strikes on Iran and says a deal is near.</p>\n<img src=\"https://nitter.net/pic/media%2FHOv8flQWYAIzfXV.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2084036898977144985#m",
       "published": "2026-08-02T22:01:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP SAYS US INTERVENTION IN YEN WAS A SIGNAL OF FRIENDSHIP",
-      "summary": "<p>*TRUMP SAYS US INTERVENTION IN YEN WAS A SIGNAL OF FRIENDSHIP</p>",
-      "link": "https://nitter.net/DeItaone/status/2084034159060676940#m",
-      "published": "2026-08-02T21:50:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: HAVE DECIDED A PUNISHMENT FOR CANADA ON WILDFIRES , BUT WON'T SAY YET",
-      "summary": "<p>TRUMP: HAVE DECIDED A PUNISHMENT FOR CANADA ON WILDFIRES , BUT WON'T SAY YET</p>",
-      "link": "https://nitter.net/DeItaone/status/2084033241963512272#m",
-      "published": "2026-08-02T21:46:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP SAYS NEW IRAN NEGOTIATIONS TO BEGIN MONDAY AFTERNOON",
-      "summary": "<p>*TRUMP SAYS NEW IRAN NEGOTIATIONS TO BEGIN MONDAY AFTERNOON</p>",
-      "link": "https://nitter.net/DeItaone/status/2084032935452201406#m",
-      "published": "2026-08-02T21:45:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "HORMUZ DEAL IN SIGHT Trump says Saudi Arabia, the UAE, Qatar, and Iran all urged him to delay planned strikes. He says the attack would have been massive but paused after allies pushed for diplomacy. According to Trump, allies believe a deal is close—first on the Strait of Hormuz, then on Iran's nuclear program.",
-      "summary": "<p>HORMUZ DEAL IN SIGHT<br />\n<br />\nTrump says Saudi Arabia, the UAE, Qatar, and Iran all urged him to delay planned strikes.<br />\n<br />\nHe says the attack would have been massive but paused after allies pushed for diplomacy.<br />\n<br />\nAccording to Trump, allies believe a deal is close—first on the Strait of Hormuz, then on Iran's nuclear program.</p>",
-      "link": "https://nitter.net/DeItaone/status/2084032541283979730#m",
-      "published": "2026-08-02T21:44:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON YEN: U.S. INTERVENING BECAUSE U.S. HAS A GOOD RELATIONSHIP WITH JAPAN",
-      "summary": "<p>TRUMP ON YEN: U.S. INTERVENING BECAUSE U.S. HAS A GOOD RELATIONSHIP WITH JAPAN</p>",
-      "link": "https://nitter.net/DeItaone/status/2084032284718514213#m",
-      "published": "2026-08-02T21:43:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "- TRUMP ON IRAN: TALKING TO THEM IN THE FORM OF A NEGOTIATION",
-      "summary": "<p>- TRUMP ON IRAN: TALKING TO THEM IN THE FORM OF A NEGOTIATION</p>",
-      "link": "https://nitter.net/DeItaone/status/2084032031629955277#m",
-      "published": "2026-08-02T21:42:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: THERE'S A DEAL ON HORMUZ AND THERE WILL BE A DEAL ON DENUCLEARIZATION",
-      "summary": "<p>TRUMP ON IRAN: THERE'S A DEAL ON HORMUZ AND THERE WILL BE A DEAL ON DENUCLEARIZATION</p>",
-      "link": "https://nitter.net/DeItaone/status/2084031997362454807#m",
-      "published": "2026-08-02T21:42:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: I THINK THERE IS A DEAL ON HORMUZ",
-      "summary": "<p>TRUMP: I THINK THERE IS A DEAL ON HORMUZ</p>",
-      "link": "https://nitter.net/DeItaone/status/2084031781209026744#m",
-      "published": "2026-08-02T21:41:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: I WAS ASKED TO CALL OF STRIKES BY SAUDI ARABIA, UAE, QATAR AND IRAN",
-      "summary": "<p>TRUMP: I WAS ASKED TO CALL OF STRIKES BY SAUDI ARABIA, UAE, QATAR AND IRAN</p>",
-      "link": "https://nitter.net/DeItaone/status/2084031730084724881#m",
-      "published": "2026-08-02T21:40:58+00:00",
       "score": 1
     },
     {
@@ -216,15 +234,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vddje4/gold_starts_the_week_at_a_critical_level/\"> <img alt=\"Gold Starts the Week at a Critical Level?\" src=\"https://preview.redd.it/drrxgrsckxgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76299b1c8967977d8b1c66608d968350c1aaa0f1\" title=\"Gold Starts the Week at a Critical Level?\" /> </a> </td><td> <!-- SC_OFF --><div class=",
       "link": "https://www.reddit.com/r/Forex/comments/1vddje4/gold_starts_the_week_at_a_critical_level/",
       "published": "2026-08-02T09:27:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP PAUSES IRAN STRIKE FOR DEAL President Donald Trump said the U.S. will hold off on a planned attack on Iran if a rapid agreement is reached to curb Tehran’s nuclear program and fully reopen the Strait of Hormuz. Trump said Iran and other Middle Eastern countries requested time to finalize a deal, adding Israel supports the pause while the U.S. remains ready to strike if talks fail. Iran denied seeking a pause and said its forces remain on the highest level of readiness. Earlier, Foreign Minister Abbas Araqchi warned any new U.S. or Israeli attack would prompt a “proportionate response.” Saudi Arabia urged dialogue and de-escalation.",
-      "summary": "<p>TRUMP PAUSES IRAN STRIKE FOR DEAL<br />\n<br />\nPresident Donald Trump said the U.S. will hold off on a planned attack on Iran if a rapid agreement is reached to curb Tehran’s nuclear program and fully reopen the Strait of Hormuz.<br />\n<br />\nTrump said Iran and other Middle Eastern countries requested time to finalize a deal, adding Israel supports the pause while the U.S. remains ready to str",
-      "link": "https://nitter.net/DeItaone/status/2083839612917535075#m",
-      "published": "2026-08-02T08:57:34+00:00",
       "score": 1
     },
     {
@@ -325,114 +334,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vcbn53/need_help/",
       "published": "2026-08-01T03:07:01+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "NZD/USD Price Forecast: Bulls eye 0.6000 after SMA break",
-      "summary": "The Kiwi Dollar extends its three-day rally, climbing above 0.5850 and is poised to challenge 0.5900 amid improving risk appetite and broad US Dollar weakness. The clearance of the 200-day Simple Moving Average (SMA) supports the bullish trend, as traders eye the May monthly high at 0.5995.",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bulls-eye-06000-after-sma-break-202607312015",
-      "published": "2026-07-31T20:15:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forecasting the upcoming week: US labor market takes center stage after hawkish Fed split",
-      "summary": "The first full week of August will test whether the US Dollar can recover from its sell-off during the last week of July as investors shift their attention from central bank decisions to a fresh round of economic data.",
-      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-us-labor-market-takes-center-stage-after-hawkish-fed-split-202607312014",
-      "published": "2026-07-31T20:14:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CHF Price Forecast: Bulls defend 50-day SMA as rebound builds",
-      "summary": "The USD/CHF bounces off weekly lows and meanders around 0.8080 after hitting a daily high of 0.8127, amid presumed intervention, with Nikkei reporting that the US Treasury Department has told currency market participants to prepare for additional intervention, following Thursday's action by Japanese",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-defend-50-day-sma-as-rebound-builds-202607311949",
-      "published": "2026-07-31T19:49:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold slides as US yields surge, keeping $4,100 out of reach",
-      "summary": "Gold price tumbles nearly 1.50% on Friday as the US Dollar recovers some ground after Japanese authorities intervened in the foreign exchange markets a day ago, driving the Greenback to a 30-day low before recovering, according to the US Dollar Index (DXY). The XAU/USD trades at $4,045.",
-      "link": "https://www.fxstreet.com/news/gold-slides-as-us-yields-surge-keeping-4-100-out-of-reach-202607311944",
-      "published": "2026-07-31T19:44:44+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index struggles near 100 after suspected Japanese intervention",
-      "summary": "The US Dollar Index (DXY) struggles to hold its early recovery on Friday as the fallout from suspected Japanese intervention and the possibility of direct action by the United States (US) keep the Greenback under pressure.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-struggles-near-100-after-suspected-japanese-intervention-202607311855",
-      "published": "2026-07-31T18:55:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed's Barkin: It's a close call whether interest rates are high enough",
-      "summary": "Richmond Federal Reserve (Fed) President Tom Barkin said on Friday that it remains uncertain whether the current level of interest rates is sufficiently restrictive to bring inflation back to the Fed's 2% target, according to an interview with The Wall Street Journal.",
-      "link": "https://www.fxstreet.com/news/feds-barkin-its-a-close-call-whether-interest-rates-are-high-enough-202607311824",
-      "published": "2026-07-31T18:24:36+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro recovers as Eurozone inflation stays firm",
-      "summary": "EUR/USD trades near the 1.1530 area during Friday's American session, consolidating after a strong rally off intraday lows. The Euro found support from resilient Eurozone inflation data, although gains remain capped as hawkish Federal Reserve (Fed) rhetoric boosts the US Dollar.",
-      "link": "https://www.fxstreet.com/news/euro-recovers-as-eurozone-inflation-stays-firm-202607311800",
-      "published": "2026-07-31T18:00:10+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD consolidates above $55 as downside momentum eases",
-      "summary": "Silver (XAG/USD) trades on the back foot on Friday as rising US Treasury yields outweigh support from a weaker US Dollar (USD). At the time of writing, XAG/USD trades around $57.50, down 2% on the day and on track to close July in negative territory.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-above-55-as-downside-momentum-eases-202607311740",
-      "published": "2026-07-31T17:40:43+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar holds despite weak Chinese PMIs",
-      "summary": "AUD/USD trades around the 0.7020 area during Friday's American session.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-despite-weak-chinese-pmis-202607311605",
-      "published": "2026-07-31T16:05:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound holds firm as USD rebounds from intervention rout",
-      "summary": "The Pound Sterling retreats some 0.02% on Friday as the Greenback stages a recovery following Thursday’s intervention day, which weakened the US Dollar Index (DXY) to a 30-day low. At the time of writing, the GBP/USD trades at 1.3458, virtually unchanged.",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-firm-as-usd-rebounds-from-intervention-rout-202607311600",
-      "published": "2026-07-31T16:00:45+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc trims losses against US Dollar amid Japanese intervention concerns",
-      "summary": "USD/CHF trims part of its earlier gains on Friday as the US Dollar (USD) struggles to regain momentum following Thursday’s sharp sell-off, which was driven by suspected intervention by Japanese authorities to curb excessive weakness in the Japanese Yen (JPY).",
-      "link": "https://www.fxstreet.com/news/swiss-franc-trims-losses-against-us-dollar-amid-japanese-intervention-concerns-202607311544",
-      "published": "2026-07-31T15:44:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Intervention slows but does not reverse trend – ING",
-      "summary": "ING’s Chris Turner describes USD/JPY’s rollercoaster, with a 3% drop on reported Japanese intervention followed by a near 2% rebound. He notes that coordinated Fed-Treasury involvement was key in January but now sees the story as having moved on.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-slows-but-does-not-reverse-trend-ing-202607311446",
-      "published": "2026-07-31T14:46:25+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
