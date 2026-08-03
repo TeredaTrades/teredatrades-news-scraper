@@ -1,12 +1,30 @@
 {
-  "updated_at": "2026-08-03T20:13:53.201957+00:00",
-  "count": 66,
+  "updated_at": "2026-08-03T21:32:28.630950+00:00",
+  "count": 60,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Teads Holding filed lawsuit against Google LLC and Alphabet Inc. seeking financial damages and legal remedies",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9705750/Teads-Holding-filed-lawsuit-against-Google-LLC-and-Alphabet-Inc-seeking-financial-damages-and-legal-remedies.aspx?xy=rss",
+      "published": "2026-08-03T21:31:15+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Mexican Peso outpace broad US Dollar strength, ahead of Banxico’s day",
-      "summary": "The Mexican Peso gains ground versus the US Dollar on Monday as risk appetite increases the carry-trade appeal of the emerging-market currency, while traders await the release of the Bank of Mexico (Banxico) monetary policy meeting late this week. The USD/MXN trades at 17.32, down 0.14%.",
+      "title": "Forex Today: Oil collapses on Iran talks, Yen holds gains",
+      "summary": "Oil prices fell sharply on Monday amid growing expectations that talks between the US and Iran will resume soon. US President Donald Trump stated that conversations are underway after Tehran said it had no plans for direct negotiations.",
+      "link": "https://www.fxstreet.com/news/forex-today-oil-collapses-on-iran-talks-yen-holds-gains-202608032043",
+      "published": "2026-08-03T20:43:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso outpaces broad US Dollar strength ahead of Banxico’s rate decision",
+      "summary": "The Mexican Peso (MXN) gains ground against the US Dollar (USD) on Monday as risk appetite increases the carry-trade appeal of the emerging-market currency, while traders await the release of the Bank of Mexico (Banxico) monetary policy meeting later this week.",
       "link": "https://www.fxstreet.com/news/mexican-peso-outpace-broad-us-dollar-strength-ahead-of-banxicos-day-202608031952",
       "published": "2026-08-03T19:52:36+00:00",
       "score": 1
@@ -16,7 +34,7 @@
       "category": "news",
       "title": "FinancialJuice: MOC Imbalance",
       "summary": "S&amp;P 500: +1492 mln<br />Nasdaq 100: +1237 mln<br />Dow 30: +727 mln<br />Mag 7: +269 mln",
-      "link": "https://www.financialjuice.com/News/9705665/MOC-Imbalance.aspx?xy=free",
+      "link": "https://www.financialjuice.com/News/9705665/MOC-Imbalance.aspx?xy=rss",
       "published": "2026-08-03T19:50:30+00:00",
       "score": 1
     },
@@ -25,7 +43,7 @@
       "category": "news",
       "title": "FinancialJuice: Tuesday FX Options Expiries",
       "summary": "<ul><li><strong>USD/JPY:</strong> 163.50 ($1.42b), 164.00 ($1.18b), 163.00 ($755.3m)</li><li><strong>EUR/USD:</strong> 1.1450 (EU2.06b), 1.1500 (EU1.09b), 1.1550 (EU907.4m)</li><li><strong>AUD/USD:</strong> 0.6900 (AUD1.35b), 0.7000 (AUD1.19b), 0.7200 (AUD536.1m)</li><li><strong>USD/CAD:</strong> 1.4050 ($1.15b), 1.4300 ($710.8m), 1.4085 ($500m)</li><li><strong>EUR/GBP:</strong> 0.8500 (EU577.9m),",
-      "link": "https://www.financialjuice.com/News/9705627/Tuesday-FX-Options-Expiries.aspx?xy=free",
+      "link": "https://www.financialjuice.com/News/9705627/Tuesday-FX-Options-Expiries.aspx?xy=rss",
       "published": "2026-08-03T19:21:56+00:00",
       "score": 1
     },
@@ -45,15 +63,6 @@
       "summary": "United States (US) President Donald Trump said on Monday that Washington is currently holding talks with Iran, adding that the discussions are taking place at Tehran's request and describing them as a final opportunity for the Islamic Republic.",
       "link": "https://www.fxstreet.com/news/trump-this-is-a-last-chance-for-iran-202608031900",
       "published": "2026-08-03T19:00:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump ends his remarks to reporters in the Oval Office.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705595/Trump-ends-his-remarks-to-reporters-in-the-Oval-Office.aspx?xy=free",
-      "published": "2026-08-03T18:40:44+00:00",
       "score": 1
     },
     {
@@ -82,33 +91,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2084345839724490821#m",
       "published": "2026-08-03T18:29:08+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Iran: I'm under no time constraint.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705579/Trump-on-Iran-Im-under-no-time-constraint.aspx?xy=free",
-      "published": "2026-08-03T18:24:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: I want to give Iran every last chance before decapitation.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705578/Trump-I-want-to-give-Iran-every-last-chance-before-decapitation.aspx?xy=free",
-      "published": "2026-08-03T18:22:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump reiterates oil firms better cut the retail price. $XOM $CVX",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705577/Trump-reiterates-oil-firms-better-cut-the-retail-price-XOM-CVX.aspx?xy=free",
-      "published": "2026-08-03T18:17:54+00:00",
-      "score": 2
     },
     {
       "source": "FXStreet",
@@ -248,15 +230,6 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Canadian Dollar weakens on Oil price slump as markets eye data releases",
-      "summary": "USD/CAD trades around 1.4040 on Monday at the time of writing, up 0.14% on the day as the Canadian Dollar (CAD) comes under pressure following a sharp decline in Oil prices.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-on-oil-price-slump-as-markets-eye-data-releases-202608031337",
-      "published": "2026-08-03T13:37:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Gold consolidates as conflicting US-Iran headlines and hawkish Fed bets cap gains",
       "summary": "Gold (XAU/USD) trims gains after opening the week with a bullish gap as buyers lack conviction amid conflicting US-Iran headlines and caution ahead of key US employment data. At the time of writing, XAU/USD trades around $4,036, easing from an intraday high of $4,084.",
       "link": "https://www.fxstreet.com/news/gold-struggles-to-hold-gains-amid-mixed-us-iran-headlines-hawkish-fed-202608031058",
@@ -372,39 +345,12 @@
       "score": 3
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Iran says reports stating that it has agreed to a deal with the US to reopen the Strait of Hormuz are false, per Iran's Fars News. Iran also says that the Strait of Hormuz remains closed to any ship that does not coordinate with the IRGC. President Trump said the \"perimeters of a deal\" were reached last night. US stock market futures open in 9 hours.",
-      "summary": "<p>BREAKING: Iran says reports stating that it has agreed to a deal with the US to reopen the Strait of Hormuz are false, per Iran's Fars News.<br />\n<br />\nIran also says that the Strait of Hormuz remains closed to any ship that does not coordinate with the IRGC.<br />\n<br />\nPresident Trump said the \"perimeters of a deal\" were reached last night.<br />\n<br />\nUS stock market futures open in 9 ho",
-      "link": "https://nitter.net/KobeissiLetter/status/2083899817348964690#m",
-      "published": "2026-08-02T12:56:48+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gold Starts the Week at a Critical Level?",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vddje4/gold_starts_the_week_at_a_critical_level/\"> <img alt=\"Gold Starts the Week at a Critical Level?\" src=\"https://preview.redd.it/drrxgrsckxgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76299b1c8967977d8b1c66608d968350c1aaa0f1\" title=\"Gold Starts the Week at a Critical Level?\" /> </a> </td><td> <!-- SC_OFF --><div class=",
       "link": "https://www.reddit.com/r/Forex/comments/1vddje4/gold_starts_the_week_at_a_critical_level/",
       "published": "2026-08-02T09:27:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump says he has cancelled the US attack on Iran and that the “perimeters of a deal” have been agreed to. Trump says this deal will include “a total reopening of the Strait of Hormuz.”",
-      "summary": "<p>BREAKING: President Trump says he has cancelled the US attack on Iran and that the “perimeters of a deal” have been agreed to.<br />\n<br />\nTrump says this deal will include “a total reopening of the Strait of Hormuz.”</p>\n<img src=\"https://nitter.net/pic/media%2FHOrsuXdXkAApCjE.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2083738062694011177#m",
-      "published": "2026-08-02T02:14:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The US personal savings rate fell -0.1 percentage point in June, to 2.7%, the lowest since June 2022. This marks the 5th consecutive monthly decline, bringing the cumulative drop to -1.7 percentage points. This is also the 3rd-lowest monthly reading since April 2008, during the Financial Crisis. To put this into perspective, the personal savings rate averaged ~5.5% between 2014 and 2019. The only period in modern history with similarly low saving rates was 2005-2007, when the rate fluctuated between 1.4% and 3.3%. US households are struggling to save money.",
-      "summary": "<p>BREAKING: The US personal savings rate fell -0.1 percentage point in June, to 2.7%, the lowest since June 2022.<br />\n<br />\nThis marks the 5th consecutive monthly decline, bringing the cumulative drop to -1.7 percentage points.<br />\n<br />\nThis is also the 3rd-lowest monthly reading since April 2008, during the Financial Crisis.<br />\n<br />\nTo put this into perspective, the personal savings ",
-      "link": "https://nitter.net/KobeissiLetter/status/2083723707545997432#m",
-      "published": "2026-08-02T01:17:00+00:00",
       "score": 1
     },
     {
