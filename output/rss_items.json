@@ -1,13 +1,94 @@
 {
-  "updated_at": "2026-08-03T18:26:27.034429+00:00",
-  "count": 91,
+  "updated_at": "2026-08-03T20:13:53.201957+00:00",
+  "count": 66,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso outpace broad US Dollar strength, ahead of Banxico’s day",
+      "summary": "The Mexican Peso gains ground versus the US Dollar on Monday as risk appetite increases the carry-trade appeal of the emerging-market currency, while traders await the release of the Bank of Mexico (Banxico) monetary policy meeting late this week. The USD/MXN trades at 17.32, down 0.14%.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-outpace-broad-us-dollar-strength-ahead-of-banxicos-day-202608031952",
+      "published": "2026-08-03T19:52:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +1492 mln<br />Nasdaq 100: +1237 mln<br />Dow 30: +727 mln<br />Mag 7: +269 mln",
+      "link": "https://www.financialjuice.com/News/9705665/MOC-Imbalance.aspx?xy=free",
+      "published": "2026-08-03T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Tuesday FX Options Expiries",
+      "summary": "<ul><li><strong>USD/JPY:</strong> 163.50 ($1.42b), 164.00 ($1.18b), 163.00 ($755.3m)</li><li><strong>EUR/USD:</strong> 1.1450 (EU2.06b), 1.1500 (EU1.09b), 1.1550 (EU907.4m)</li><li><strong>AUD/USD:</strong> 0.6900 (AUD1.35b), 0.7000 (AUD1.19b), 0.7200 (AUD536.1m)</li><li><strong>USD/CAD:</strong> 1.4050 ($1.15b), 1.4300 ($710.8m), 1.4085 ($500m)</li><li><strong>EUR/GBP:</strong> 0.8500 (EU577.9m),",
+      "link": "https://www.financialjuice.com/News/9705627/Tuesday-FX-Options-Expiries.aspx?xy=free",
+      "published": "2026-08-03T19:21:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold slips as USD rebounds, strong ISM data clouds Fed path",
+      "summary": "Gold (XAU/USD) price retreats on Monday as the US Dollar (USD) recovers some ground, even though hostilities in the Middle East paused at the request of Iran and other Middle Eastern countries, according to US President Donald Trump. The XAU/USD pair trades at $4,037, down 0.12%.",
+      "link": "https://www.fxstreet.com/news/gold-slips-as-usd-rebounds-strong-ism-data-clouds-fed-path-202608031917",
+      "published": "2026-08-03T19:17:11+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Trump: This is a last chance for Iran",
+      "summary": "United States (US) President Donald Trump said on Monday that Washington is currently holding talks with Iran, adding that the discussions are taking place at Tehran's request and describing them as a final opportunity for the Islamic Republic.",
+      "link": "https://www.fxstreet.com/news/trump-this-is-a-last-chance-for-iran-202608031900",
+      "published": "2026-08-03T19:00:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump ends his remarks to reporters in the Oval Office.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9705595/Trump-ends-his-remarks-to-reporters-in-the-Oval-Office.aspx?xy=free",
+      "published": "2026-08-03T18:40:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The S&P 500 surges above 7,600 for the first time since June 3rd, now up +1.5% today. Despite all the noise, we are just 20 point away from a new record high.",
+      "summary": "<p>BREAKING: The S&amp;P 500 surges above 7,600 for the first time since June 3rd, now up +1.5% today.<br />\n<br />\nDespite all the noise, we are just 20 point away from a new record high.</p>\n<img src=\"https://nitter.net/pic/media%2FHO0XmJPWQAA0esQ.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2084348150131634558#m",
+      "published": "2026-08-03T18:38:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "EURUSD finally did something after all this time lol",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1velybt/eurusd_finally_did_something_after_all_this_time/\"> <img alt=\"EURUSD finally did something after all this time lol\" src=\"https://preview.redd.it/5xp9nrn7f7hh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=950b453648b320831a5a8b666b8ac72fec7d883a\" title=\"EURUSD finally did something after all this time lol\" /> </a> </td><t",
+      "link": "https://www.reddit.com/r/Forex/comments/1velybt/eurusd_finally_did_something_after_all_this_time/",
+      "published": "2026-08-03T18:38:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "US business investment in software remains robust. In Q1 2026, US businesses invested an annualized $797.6 billion in software. That is nearly 2x the pace seen a decade ago and one of the highest levels on record. As AI adoption accelerates, software is increasingly becoming core infrastructure rather than a discretionary expense. In our view, this reflects the next phase of the AI boom. It will no longer be about simply building new AI models. Rather, it will be about companies investing trillions of dollars to deploy these models across various industries.",
+      "summary": "<p>US business investment in software remains robust.<br />\n<br />\nIn Q1 2026, US businesses invested an annualized $797.6 billion in software. <br />\n<br />\nThat is nearly 2x the pace seen a decade ago and one of the highest levels on record.<br />\n<br />\nAs AI adoption accelerates, software is increasingly becoming core infrastructure rather than a discretionary expense.<br />\n<br />\nIn our view",
+      "link": "https://nitter.net/KobeissiLetter/status/2084345839724490821#m",
+      "published": "2026-08-03T18:29:08+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Trump on Iran: I'm under no time constraint.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9705579/Trump-on-Iran-Im-under-no-time-constraint.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9705579/Trump-on-Iran-Im-under-no-time-constraint.aspx?xy=free",
       "published": "2026-08-03T18:24:12+00:00",
       "score": 1
     },
@@ -16,7 +97,7 @@
       "category": "news",
       "title": "FinancialJuice: Trump: I want to give Iran every last chance before decapitation.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9705578/Trump-I-want-to-give-Iran-every-last-chance-before-decapitation.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9705578/Trump-I-want-to-give-Iran-every-last-chance-before-decapitation.aspx?xy=free",
       "published": "2026-08-03T18:22:28+00:00",
       "score": 1
     },
@@ -25,162 +106,9 @@
       "category": "news",
       "title": "FinancialJuice: Trump reiterates oil firms better cut the retail price. $XOM $CVX",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9705577/Trump-reiterates-oil-firms-better-cut-the-retail-price-XOM-CVX.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9705577/Trump-reiterates-oil-firms-better-cut-the-retail-price-XOM-CVX.aspx?xy=free",
       "published": "2026-08-03T18:17:54+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Exxon and Chevron making too much money $CVX",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705575/Trump-Exxon-and-Chevron-making-too-much-money-CVX.aspx?xy=rss",
-      "published": "2026-08-03T18:17:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Oil firms are making too much money based on the shortage.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705563/Trump-Oil-firms-are-making-too-much-money-based-on-the-shortage.aspx?xy=rss",
-      "published": "2026-08-03T18:16:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: I think we will have a very good relationship with UK PM.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705555/Trump-I-think-we-will-have-a-very-good-relationship-with-UK-PM.aspx?xy=rss",
-      "published": "2026-08-03T18:15:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Oil companies are making too much money.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705562/Trump-Oil-companies-are-making-too-much-money.aspx?xy=rss",
-      "published": "2026-08-03T18:15:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: I'm not going to let Iran charge to go through the Hormuz Strait.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705551/Trump-Im-not-going-to-let-Iran-charge-to-go-through-the-Hormuz-Strait.aspx?xy=rss",
-      "published": "2026-08-03T18:12:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran denuclearization phase will take a little while.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705550/Trump-Iran-denuclearization-phase-will-take-a-little-while.aspx?xy=rss",
-      "published": "2026-08-03T18:04:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP: TALKING ABOUT HAVING STRAIT OPEN BY TOMORROW",
-      "summary": "<p>*TRUMP: TALKING ABOUT HAVING STRAIT OPEN BY TOMORROW</p>",
-      "link": "https://nitter.net/DeItaone/status/2084339483005087997#m",
-      "published": "2026-08-03T18:03:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Phase two with Iran is denuclearization, after opening the Strait.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705549/Trump-Phase-two-with-Iran-is-denuclearization-after-opening-the-Strait.aspx?xy=rss",
-      "published": "2026-08-03T18:03:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Phase one of Iran talks is reopening the Strait of Hormuz.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705548/Trump-Phase-one-of-Iran-talks-is-reopening-the-Strait-of-Hormuz.aspx?xy=rss",
-      "published": "2026-08-03T18:03:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Talking about having the Straight open by tomorrow.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705547/Trump-Talking-about-having-the-Straight-open-by-tomorrow.aspx?xy=rss",
-      "published": "2026-08-03T18:02:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: You'll find out today or tomorrow where the Iran talks are.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705546/Trump-Youll-find-out-today-or-tomorrow-where-the-Iran-talks-are.aspx?xy=rss",
-      "published": "2026-08-03T18:02:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP: THIS IS THE LAST CHANCE FOR IRAN TO SIGN A DEAL",
-      "summary": "<p>*TRUMP: THIS IS THE LAST CHANCE FOR IRAN TO SIGN A DEAL</p>",
-      "link": "https://nitter.net/DeItaone/status/2084338943428825511#m",
-      "published": "2026-08-03T18:01:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Gulf nations wanted to give talks a last chance.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705541/Trump-Gulf-nations-wanted-to-give-talks-a-last-chance.aspx?xy=rss",
-      "published": "2026-08-03T18:01:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: This is the last chance for Iran to sign a deal.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705540/Trump-This-is-the-last-chance-for-Iran-to-sign-a-deal.aspx?xy=rss",
-      "published": "2026-08-03T18:01:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We are talking at the request of Iran.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705539/Trump-We-are-talking-at-the-request-of-Iran.aspx?xy=rss",
-      "published": "2026-08-03T18:00:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran said it wants to talk about denuclearization.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705536/Trump-Iran-said-it-wants-to-talk-about-denuclearization.aspx?xy=rss",
-      "published": "2026-08-03T18:00:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran said it wanted to talk about the Strait.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705535/Trump-Iran-said-it-wanted-to-talk-about-the-Strait.aspx?xy=rss",
-      "published": "2026-08-03T18:00:14+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -190,69 +118,6 @@
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-rebounds-toward-100-amid-us-iran-fed-uncertainty-202608031759",
       "published": "2026-08-03T17:59:29+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: When Iran is talking, they don't like to say so.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705534/Trump-When-Iran-is-talking-they-dont-like-to-say-so.aspx?xy=rss",
-      "published": "2026-08-03T17:59:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran talks are going on now.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705533/Trump-Iran-talks-are-going-on-now.aspx?xy=rss",
-      "published": "2026-08-03T17:58:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP TELLS HEGSETH: YOU ARE DOING A FANTASTIC JOB",
-      "summary": "<p>TRUMP TELLS HEGSETH: YOU ARE DOING A FANTASTIC JOB</p>",
-      "link": "https://nitter.net/DeItaone/status/2084336474082697311#m",
-      "published": "2026-08-03T17:51:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "META INVITED TO WHITE HOUSE TUESDAY TO DISCUSS AI SAFETY TESTING BY U.S. GOVERNMENT - COMPANY SPOKESPERSON",
-      "summary": "<p>META INVITED TO WHITE HOUSE TUESDAY TO DISCUSS AI SAFETY TESTING BY U.S. GOVERNMENT - COMPANY SPOKESPERSON</p>",
-      "link": "https://nitter.net/DeItaone/status/2084336159845409014#m",
-      "published": "2026-08-03T17:50:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: IRAN CONFLICT IS WORKING OUT VERY WELL",
-      "summary": "<p>TRUMP: IRAN CONFLICT IS WORKING OUT VERY WELL</p>",
-      "link": "https://nitter.net/DeItaone/status/2084335496025473532#m",
-      "published": "2026-08-03T17:48:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "CITADEL WARNS FED MESSAGING IS HURTING CREDIBILITY Citadel Securities said Fed Chair Kevin Warsh's policy framework is creating uncertainty by pledging to curb inflation without clearly explaining how. The firm warned that relying on higher market yields to tighten financial conditions risks a negative feedback loop, where delayed rate hikes fuel higher inflation expectations and push long-term Treasury yields even higher. Citadel said the recent selloff in Treasuries reflects growing doubts about the Fed's policy credibility.",
-      "summary": "<p>CITADEL WARNS FED MESSAGING IS HURTING CREDIBILITY<br />\n<br />\nCitadel Securities said Fed Chair Kevin Warsh's policy framework is creating uncertainty by pledging to curb inflation without clearly explaining how.<br />\n<br />\nThe firm warned that relying on higher market yields to tighten financial conditions risks a negative feedback loop, where delayed rate hikes fuel higher inflation expec",
-      "link": "https://nitter.net/DeItaone/status/2084332524264652922#m",
-      "published": "2026-08-03T17:36:13+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "IRAN SEES TRUMP FAVORING TALKS OVER ESCALATION Iranian leaders reportedly believe President Trump is seeking leverage through military threats rather than a broader war. According to sources, Tehran believes it can withstand pressure by using regional proxies and maintaining pressure on global shipping until Washington favors diplomacy. The assessment comes despite Trump's warnings of military action, with Iran insisting no direct U.S. negotiations are currently planned.",
-      "summary": "<p>IRAN SEES TRUMP FAVORING TALKS OVER ESCALATION<br />\n<br />\nIranian leaders reportedly believe President Trump is seeking leverage through military threats rather than a broader war.<br />\n<br />\nAccording to sources, Tehran believes it can withstand pressure by using regional proxies and maintaining pressure on global shipping until Washington favors diplomacy.<br />\n<br />\nThe assessment come",
-      "link": "https://nitter.net/DeItaone/status/2084326883907289155#m",
-      "published": "2026-08-03T17:13:48+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -291,33 +156,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "NASDAQ EXTENDS GAINS, LAST UP 2.1%",
-      "summary": "<p>NASDAQ EXTENDS GAINS, LAST UP 2.1%</p>",
-      "link": "https://nitter.net/DeItaone/status/2084317177419559364#m",
-      "published": "2026-08-03T16:35:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. OFFICIALS SAY NO NEW IRAN TALKS PLANNED: CBS U.S. officials told CBS News there are no new negotiations with Iran planned, despite President Trump's comments that talks would begin Monday. Officials said discussions continue through mediators involving U.S. envoy Steve Witkoff and the Iranian team. Meanwhile, Iran said it is not negotiating directly with the U.S., insisting current talks are with Oman and focus solely on shipping through the Strait of Hormuz.",
-      "summary": "<p>U.S. OFFICIALS SAY NO NEW IRAN TALKS PLANNED: CBS<br />\n<br />\nU.S. officials told CBS News there are no new negotiations with Iran planned, despite President Trump's comments that talks would begin Monday.<br />\n<br />\nOfficials said discussions continue through mediators involving U.S. envoy Steve Witkoff and the Iranian team.<br />\n<br />\nMeanwhile, Iran said it is not negotiating directly w",
-      "link": "https://nitter.net/DeItaone/status/2084315803613061381#m",
-      "published": "2026-08-03T16:29:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP EXPECTED TO ATTEND A ROUNDTABLE OF MINING EXECUTIVES ON FRIDAY AT U.S. STATE DEPARTMENT - SOURCES",
-      "summary": "<p>TRUMP EXPECTED TO ATTEND A ROUNDTABLE OF MINING EXECUTIVES ON FRIDAY AT U.S. STATE DEPARTMENT - SOURCES</p>",
-      "link": "https://nitter.net/DeItaone/status/2084312110763254011#m",
-      "published": "2026-08-03T16:15:06+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "WTI Oil plunges as Trump revives US-Iran peace hopes",
@@ -343,51 +181,6 @@
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-technical-outlook-stays-constructive-above-08000-202608031531",
       "published": "2026-08-03T15:31:28+00:00",
       "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP SAYS IRAN PRIVATELY SEEKING TALKS *TRUMP SAYS U.S. NAVY CONTROLS STRAIT OF HORMUZ *TRUMP SAYS SANCTIONS STAY UNTIL IRAN DEAL *TRUMP SAYS IRAN WILL NEVER HAVE NUCLEAR WEAPON *TRUMP SAYS TALKS WITH IRAN ARE CONTINUING",
-      "summary": "<p>*TRUMP SAYS IRAN PRIVATELY SEEKING TALKS<br />\n<br />\n*TRUMP SAYS U.S. NAVY CONTROLS STRAIT OF HORMUZ<br />\n<br />\n*TRUMP SAYS SANCTIONS STAY UNTIL IRAN DEAL<br />\n<br />\n*TRUMP SAYS IRAN WILL NEVER HAVE NUCLEAR WEAPON<br />\n<br />\n*TRUMP SAYS TALKS WITH IRAN ARE CONTINUING</p>",
-      "link": "https://nitter.net/DeItaone/status/2084300377332105386#m",
-      "published": "2026-08-03T15:28:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: WHETHER IRAN WANTS TO ADMIT IT OR NOT, WE ARE, IN FACT, TALKING OF A SOLUTION TO A PROBLEM THAT THEY HAVE CAUSED, FOR DECADES",
-      "summary": "<p>TRUMP: WHETHER IRAN WANTS TO ADMIT IT OR NOT, WE ARE, IN FACT, TALKING OF A SOLUTION TO A PROBLEM THAT THEY HAVE CAUSED, FOR DECADES</p>",
-      "link": "https://nitter.net/DeItaone/status/2084300159425372214#m",
-      "published": "2026-08-03T15:27:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: NOTHING GETS THROUGH TO IRAN, UNLESS WE WANT IT TO, AND NOTHING WILL GET THROUGH, UNLESS A DEAL, OR TOTAL SURRENDER, IS ACCOMPLISHED",
-      "summary": "<p>TRUMP: NOTHING GETS THROUGH TO IRAN, UNLESS WE WANT IT TO, AND NOTHING WILL GET THROUGH, UNLESS A DEAL, OR TOTAL SURRENDER, IS ACCOMPLISHED</p>",
-      "link": "https://nitter.net/DeItaone/status/2084300104006009005#m",
-      "published": "2026-08-03T15:27:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: IRAN 'WILL NEVER HAVE A NUCLEAR WEAPON' President Trump accused Iran of publicly denying negotiations while privately seeking talks. He claimed the U.S. Navy fully controls access to the Strait of Hormuz, saying nothing reaches Iran without U.S. approval. Trump added sanctions and restrictions will remain until a deal—or what he called Iran's \"total surrender\"—is achieved, reiterating that \"Iran will never have a nuclear weapon.\"",
-      "summary": "<p>TRUMP: IRAN 'WILL NEVER HAVE A NUCLEAR WEAPON'<br />\n<br />\nPresident Trump accused Iran of publicly denying negotiations while privately seeking talks.<br />\n<br />\nHe claimed the U.S. Navy fully controls access to the Strait of Hormuz, saying nothing reaches Iran without U.S. approval. Trump added sanctions and restrictions will remain until a deal—or what he called Iran's \"total surrender\"—i",
-      "link": "https://nitter.net/DeItaone/status/2084300052122513731#m",
-      "published": "2026-08-03T15:27:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: IRANIAN LEADERSHIP IS UNBELIEVABLY DUPLICITOUS",
-      "summary": "<p>TRUMP: IRANIAN LEADERSHIP IS UNBELIEVABLY DUPLICITOUS</p>",
-      "link": "https://nitter.net/DeItaone/status/2084299919884468626#m",
-      "published": "2026-08-03T15:26:39+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -459,24 +252,6 @@
       "summary": "USD/CAD trades around 1.4040 on Monday at the time of writing, up 0.14% on the day as the Canadian Dollar (CAD) comes under pressure following a sharp decline in Oil prices.",
       "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-on-oil-price-slump-as-markets-eye-data-releases-202608031337",
       "published": "2026-08-03T13:37:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Intervention supports JPY against US Dollar – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports USD/JPY plunged in Tokyo after confirmed joint US-Japan intervention to stop the Japanese Yen’s slide, with officials warning they may act again.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-supports-jpy-against-us-dollar-bbh-202608031330",
-      "published": "2026-08-03T13:30:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South African Rand: Recovery scenarios after SARB surprise – Commerzbank",
-      "summary": "Commerzbank's Volkmar Baur reviews the South African Rand (ZAR) after its earlier appreciation against the US Dollar (USD) stalled with the Iran conflict.",
-      "link": "https://www.fxstreet.com/news/south-african-rand-recovery-scenarios-after-sarb-surprise-commerzbank-202608031320",
-      "published": "2026-08-03T13:20:27+00:00",
       "score": 1
     },
     {
