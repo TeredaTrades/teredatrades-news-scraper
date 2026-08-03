@@ -1,95 +1,329 @@
 {
-  "updated_at": "2026-08-03T07:46:42.955388+00:00",
-  "count": 68,
+  "updated_at": "2026-08-03T11:26:44.549122+00:00",
+  "count": 80,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US Dollar Index: Fed hike expectations support DXY – ING",
-      "summary": "ING’s Chris Turner notes that despite sizeable joint FX intervention in USD/JPY and lower Oil prices, the US Dollar (USD) is not broadly weaker as markets still price a Federal Reserve (Fed) hike in September.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-fed-hike-expectations-support-dxy-ing-202608030722",
-      "published": "2026-08-03T07:22:01+00:00",
+      "title": "Federal Reserve: Data driven rate path – HSBC",
+      "summary": "HSBC strategists note that the Federal Reserve (Fed) left policy rates unchanged in July, with markets now assigning a two-thirds probability to a September hike.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-data-driven-rate-path-hsbc-202608031126",
+      "published": "2026-08-03T11:26:42+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold struggles to hold gains amid mixed US-Iran headlines, hawkish Fed",
+      "summary": "Gold (XAU/USD) starts the week on a positive note, although buyers lack conviction as markets weigh conflicting US-Iran headlines and look ahead to US employment data for fresh clues on the Federal Reserve’s (Fed) policy outlook.",
+      "link": "https://www.fxstreet.com/news/gold-struggles-to-hold-gains-amid-mixed-us-iran-headlines-hawkish-fed-202608031058",
+      "published": "2026-08-03T10:58:17+00:00",
+      "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FIFA PRESIDENT GIANNI INFANTINO WANTS TRUMP ADMINISTRATION TO HELP KEEP HIM IN OFFICE & SCHEDULED PRIVATE TALKS WITH SECRETARY OF STATE RUBIO - NY POST",
+      "summary": "<p>FIFA PRESIDENT GIANNI INFANTINO WANTS TRUMP ADMINISTRATION TO HELP KEEP HIM IN OFFICE &amp; SCHEDULED PRIVATE TALKS WITH SECRETARY OF STATE RUBIO - NY POST</p>",
+      "link": "https://nitter.net/DeItaone/status/2084230985827144025#m",
+      "published": "2026-08-03T10:52:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "GOLDMAN WARNS ON FED COMMUNICATION SHIFT Goldman Sachs cautioned that reducing Fed policy guidance could increase market volatility and pricing errors. The bank argued Chair Kevin Warsh's proposal to give markets less insight into the Fed's reaction function would not improve policymaker feedback, but could instead delay monetary policy transmission and create unnecessary volatility in financial markets.",
+      "summary": "<p>GOLDMAN WARNS ON FED COMMUNICATION SHIFT<br />\n<br />\nGoldman Sachs cautioned that reducing Fed policy guidance could increase market volatility and pricing errors.<br />\n<br />\nThe bank argued Chair Kevin Warsh's proposal to give markets less insight into the Fed's reaction function would not improve policymaker feedback, but could instead delay monetary policy transmission and create unnecess",
+      "link": "https://nitter.net/DeItaone/status/2084228837542400128#m",
+      "published": "2026-08-03T10:44:12+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "📅 THIS WEEK'S U.S. ECONOMIC CALENDAR (ET) 🟢 Monday • 9:45 AM – S&P Global Manufacturing PMI • 10:00 AM – ISM Manufacturing PMI (Est. 54.0), Construction Spending (Est. +0.3% m/m) • 4:00 PM – Auto Sales 🔵 Tuesday • 8:30 AM – Trade Balance (Est. -$73.0B) • 10:00 AM – JOLTS Job Openings (Est. 7.5M), Factory Orders (Est. +0.3% m/m) • 4:30 PM – API Crude Inventories 🟠 Wednesday • 8:15 AM – ADP Employment (Est. +75K) • 10:00 AM – ISM Services PMI (Est. 54.4) • 10:30 AM – EIA Oil Inventories • 4:05 PM – Fed's Lisa Cook Speaks 🟡 Thursday • 8:30 AM – Initial Jobless Claims (Est. 200K), Productivity (Est. +0.7%), Unit Labor Costs (Est. +2.0%) • 10:30 AM – Natural Gas Storage 🔴 Friday (KEY EVENT) • 8:30 AM – 🇺🇸 U.S. Jobs Report • NFP (Est. +85K) • Unemployment Rate (Est. 4.3%) • Avg. Hourly Earnings (Est. +0.3% m/m)",
+      "summary": "<p>📅 THIS WEEK'S U.S. ECONOMIC CALENDAR (ET)<br />\n<br />\n🟢 Monday<br />\n• 9:45 AM – S&amp;P Global Manufacturing PMI<br />\n• 10:00 AM – ISM Manufacturing PMI (Est. 54.0), Construction Spending (Est. +0.3% m/m)<br />\n• 4:00 PM – Auto Sales<br />\n<br />\n🔵 Tuesday<br />\n• 8:30 AM – Trade Balance (Est. -$73.0B)<br />\n• 10:00 AM – JOLTS Job Openings (Est. 7.5M), Factory Orders (Est. +0.3% m/m)<br />\n•",
+      "link": "https://nitter.net/DeItaone/status/2084226903452307858#m",
+      "published": "2026-08-03T10:36:31+00:00",
+      "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "IRAN DISMISSES TRUMP'S TALKS PUSH Iran signaled no interest in resuming negotiations with the U.S., despite President Trump's comments about a possible agreement. Tehran said its focus is a separate shipping arrangement with Oman, not reopening the Strait of Hormuz, and blamed Washington for violating June's memorandum, warning no meaningful change is likely while U.S. measures remain in place.",
+      "summary": "<p>IRAN DISMISSES TRUMP'S TALKS PUSH<br />\n<br />\nIran signaled no interest in resuming negotiations with the U.S., despite President Trump's comments about a possible agreement.<br />\n<br />\nTehran said its focus is a separate shipping arrangement with Oman, not reopening the Strait of Hormuz, and blamed Washington for violating June's memorandum, warning no meaningful change is likely while U.S.",
+      "link": "https://nitter.net/DeItaone/status/2084224864961884639#m",
+      "published": "2026-08-03T10:28:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Williams: Affirms confidence for inflation to return to 2% target",
+      "summary": "The remarks from New York Federal Reserve (Fed) Bank President John Williams, in an interview with Reuters that took place on Friday and was released during the European trading session on Monday, signal that he was confident about inflation returning to the central bank’s 2% target.",
+      "link": "https://www.fxstreet.com/news/feds-williams-affirms-confidence-for-inflation-to-return-to-2-target-202608031027",
+      "published": "2026-08-03T10:27:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BNP SEES FED HIKES PUSHING YIELDS HIGHER BNP Paribas expects U.S. Treasury yields to keep rising as markets price in future Fed rate hikes. The bank forecasts three Fed hikes starting in December, arguing investors will continue to question the Fed's credibility after last week's decision to hold rates steady despite three dissenting votes for a hike.",
+      "summary": "<p>BNP SEES FED HIKES PUSHING YIELDS HIGHER<br />\n<br />\nBNP Paribas expects U.S. Treasury yields to keep rising as markets price in future Fed rate hikes.<br />\n<br />\nThe bank forecasts three Fed hikes starting in December, arguing investors will continue to question the Fed's credibility after last week's decision to hold rates steady despite three dissenting votes for a hike.</p>",
+      "link": "https://nitter.net/DeItaone/status/2084221919801315610#m",
+      "published": "2026-08-03T10:16:43+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "GOLDMAN REFRESHES U.S. CONVICTION LIST Goldman Sachs added Applied Materials ( $AMAT), Delta ( $DAL), Microsoft ( $MSFT), O'Reilly Automotive ( $ORLY), Viking Holdings ( $VIK) and UPS to its U.S. Conviction List. The firm removed Broadcom ( $AVGO), Dick's Sporting Goods ( $DKS), Johnson & Johnson ( $JNJ) and ServiceNow ( $NOW).",
+      "summary": "<p>GOLDMAN REFRESHES U.S. CONVICTION LIST<br />\n<br />\nGoldman Sachs added Applied Materials ( <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMAT\">$AMAT</a>), Delta ( <a href=\"https://nitter.net/search?f=tweets&amp;q=%23DAL\">$DAL</a>), Microsoft ( <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>), O'Reilly Automotive ( <a href=\"https://nitter.net/search?f=tweets&amp;q=%2",
+      "link": "https://nitter.net/DeItaone/status/2084221392862511118#m",
+      "published": "2026-08-03T10:14:37+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: If inflation is not on track to 2%, action is appropriate - Sources",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9704952/Feds-Williams-If-inflation-is-not-on-track-to-2-action-is-appropriate---Sources.aspx?xy=rss",
+      "published": "2026-08-03T10:09:29+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams sees inflation coming down in H2 and more next year",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9704951/Feds-Williams-sees-inflation-coming-down-in-H2-and-more-next-year.aspx?xy=rss",
+      "published": "2026-08-03T10:06:18+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED’S WILLIAMS BACKS CURRENT POLICY STANCE John Williams said Fed policy remains well positioned to return inflation to 2%. He strongly supported the latest FOMC decision and said the Fed will act if inflation stalls. Williams expects Middle East-driven price pressures to fade, stressed the Fed need not follow market pricing, and sees no financial-stability threat from AI investment.",
+      "summary": "<p>FED’S WILLIAMS BACKS CURRENT POLICY STANCE<br />\n<br />\nJohn Williams said Fed policy remains well positioned to return inflation to 2%.<br />\n<br />\nHe strongly supported the latest FOMC decision and said the Fed will act if inflation stalls.<br />\n<br />\nWilliams expects Middle East-driven price pressures to fade, stressed the Fed need not follow market pricing, and sees no financial-stabilit",
+      "link": "https://nitter.net/DeItaone/status/2084218576345444624#m",
+      "published": "2026-08-03T10:03:26+00:00",
       "score": 3
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "AUD/USD Price Forecast: Faces rejection near 100-day SMA at 0.7050; bullish bias intact",
-      "summary": "The AUD/USD pair faces rejection near the 100-day Simple Moving Average (SMA) and retreats slightly after hitting a fresh high since June 17, around the 0.7050 level earlier this Monday.",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-faces-rejection-near-100-day-sma-at-07050-bullish-bias-intact-202608030716",
-      "published": "2026-08-03T07:16:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc declines against US Dollar amid hawkish Fed bets",
-      "summary": "The Swiss Franc (CHF) trades lower against its major currency peers at the start of the week. The USD/CHF pair rises 0.15% to near 0.8082 as a market-sentiment revival following the announcement of a ceasefire in the Middle East has diminished the appeal of safe-haven assets.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-declines-against-us-dollar-amid-hawkish-fed-bets-202608030707",
-      "published": "2026-08-03T07:07:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9704704/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-08-03T07:06:19+00:00",
+      "title": "New Zealand Dollar eases as markets focus on US-Iran talks",
+      "summary": "NZD/USD trades around 0.5870 on Monday at the time of writing, down 0.11% on the day.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-eases-as-markets-focus-on-us-iran-talks-202608031000",
+      "published": "2026-08-03T10:00:31+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: \t\nTop S&P 500 Stock Names Implied Volatility",
+      "title": "FinancialJuice: Fed’s Williams: Rate policy still well positioned to reach 2% inflation",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9704700/%09Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-08-03T07:04:40+00:00",
+      "link": "https://www.financialjuice.com/News/9704935/Feds-Williams-Rate-policy-still-well-positioned-to-reach-2-inflation.aspx?xy=rss",
+      "published": "2026-08-03T10:00:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed’s Williams remains confident inflation pressures will gradually ease",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9704934/Feds-Williams-remains-confident-inflation-pressures-will-gradually-ease.aspx?xy=rss",
+      "published": "2026-08-03T10:00:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: Central bank very committed to returning inflation to 2%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9704933/Feds-Williams-Central-bank-very-committed-to-returning-inflation-to-2.aspx?xy=rss",
+      "published": "2026-08-03T10:00:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed’s Williams: aware of market pricing, Fed not required to endorse market levels",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9704932/Feds-Williams-aware-of-market-pricing-Fed-not-required-to-endorse-market-levels.aspx?xy=rss",
+      "published": "2026-08-03T10:00:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: I strongly backed the FOMC's latest move",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9704931/Feds-Williams-I-strongly-backed-the-FOMCs-latest-move.aspx?xy=rss",
+      "published": "2026-08-03T10:00:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed’s Williams: Volatility in AI sector is unsurprising",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9704930/Feds-Williams-Volatility-in-AI-sector-is-unsurprising.aspx?xy=rss",
+      "published": "2026-08-03T10:00:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: Anticipate Middle East war inflation effect to ease",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9704929/Feds-Williams-Anticipate-Middle-East-war-inflation-effect-to-ease.aspx?xy=rss",
+      "published": "2026-08-03T10:00:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed’s Williams: Market pricing offers Fed valuable insight",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9704928/Feds-Williams-Market-pricing-offers-Fed-valuable-insight.aspx?xy=rss",
+      "published": "2026-08-03T10:00:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: If inflation is not on track to 2%, the Fed will intervene to restore price stability",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9704927/Feds-Williams-If-inflation-is-not-on-track-to-2-the-Fed-will-intervene-to-restore-price-stability.aspx?xy=rss",
+      "published": "2026-08-03T10:00:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed’s Williams: No financial stability risks seen from AI investment",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9704926/Feds-Williams-No-financial-stability-risks-seen-from-AI-investment.aspx?xy=rss",
+      "published": "2026-08-03T10:00:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "R to @DeItaone: 📉 PRICE TARGET CUT $BOH: KBW PT cut to $92 from $95 $BKU: KBW PT cut to $49 from $51 $BEPC: JP Morgan PT cut to $36 from $38 $CVX: HSBC PT cut to $218 from $221 $C: Jefferies PT cut to $160 from $165 $CL: JP Morgan PT cut to $103 from $104 $FMC: RBC PT cut to $11 from $12 $FTAI: Jefferies PT cut to $325 from $400 $GLPI: RBC PT cut to $52 from $54 $GDDY: Jefferies PT cut to $85 from $95 $HUN: RBC PT cut to $10 from $11 $INO: Piper Sandler PT cut to $4 from $6 $MTZ: JP Morgan PT cut to $369 from $549 $META: Jefferies PT cut to $710 from $825 $OLN: RBC PT cut to $20 from $24 $OMCL: Piper Sandler PT cut to $45 from $55 $PRM: JP Morgan PT cut to $45 from $50 $SONO: Jefferies PT cut to $20 from $21 $SBSI: KBW PT cut to $35 from $37 $SPCX: Zephirin Group PT cut to $190 from $310 $TROW: KBW PT cut to $115 from $120 $TEM: JP Morgan PT cut to $45 from $50 $TW: JP Morgan PT cut to $117 from $125 $UHS: RBC PT cut to $183 from $190 $UNM: JP Morgan PT cut to $98 from $101 $VCYT: Canaccord Genuity PT cut to $50 from $60",
+      "summary": "<p>📉 PRICE TARGET CUT<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23BOH\">$BOH</a>: KBW PT cut to $92 from $95<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23BKU\">$BKU</a>: KBW PT cut to $49 from $51<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23BEPC\">$BEPC</a>: JP Morgan PT cut to $36 from $38<br />\n<a href=\"https://nitter.net/search?f=tweets&amp;q=%23CVX\">$CV",
+      "link": "https://nitter.net/DeItaone/status/2084217268641165377#m",
+      "published": "2026-08-03T09:58:14+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Japanese Yen: Joint intervention signals potential turning point – MUFG",
-      "summary": "MUFG’s Michael Wan highlights that the Japanese Yen (JPY) has strengthened sharply, with USD/JPY dropping from around 164 after suspected intervention by Japan’s Ministry of Finance (MoF) and confirmed joint action with the US Treasury.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-joint-intervention-signals-potential-turning-point-mufg-202608030651",
-      "published": "2026-08-03T06:51:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar weakens on falling oil prices amid US-Iran talk hopes",
-      "summary": "The USD/CAD pair gathers strength to near 1.4030 during the early European session on Monday. A fall in crude oil prices weighs on the commodity-linked Canadian Dollar (CAD) against the US Dollar (USD). The US ISM Manufacturing Purchasing Managers Index (PMI) data will be released later on Monday.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-on-falling-oil-prices-amid-us-iran-talk-hopes-202608030648",
-      "published": "2026-08-03T06:48:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Oil: Prices slide on halted strikes – Commerzbank",
-      "summary": "Commerzbank’s FX Research team reports that Brent Oil opened over 7% lower under USD84 into the Asian session after President Trump said the US would hold off on new strikes against Iran.",
-      "link": "https://www.fxstreet.com/news/oil-prices-slide-on-halted-strikes-commerzbank-202608030636",
-      "published": "2026-08-03T06:36:37+00:00",
+      "title": "Euro area: Services PMI and inflation risks – BNY",
+      "summary": "Geoff Yu at BNY argues that the lack of further Fed tightening has eased global financial conditions and partially offset European Central Bank (ECB) tightening, but European inflation dynamics remain distinct from the U.S.",
+      "link": "https://www.fxstreet.com/news/euro-area-services-pmi-and-inflation-risks-bny-202608030954",
+      "published": "2026-08-03T09:54:48+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "GBP/USD Price Forecast: At make or a break around 1.3500",
-      "summary": "The British Pound (GBP) underperforms its major currency peers, trading 0.1% lower at around 1.3470 against the US Dollar (USD) during the early European trading session on Monday.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-at-make-or-a-break-around-13500-202608030610",
-      "published": "2026-08-03T06:10:50+00:00",
+      "title": "British Pound eases to 1.3450 area following downwardly revised Manufacturing PMI data",
+      "summary": "The British Pound (GBP) is trimming previous gains against the US Dollar (USD) on Monday, returning to the mid-range of the 1.3400s down from fresh seven-week highs, above 1.3500 earlier on the day.",
+      "link": "https://www.fxstreet.com/news/british-pound-eases-to-13450-area-following-downwardly-revised-manufacturing-pmi-data-202608030952",
+      "published": "2026-08-03T09:52:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Is Gold Running Into Trouble Here?",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1ve8v0o/is_gold_running_into_trouble_here/\"> <img alt=\"Is Gold Running Into Trouble Here?\" src=\"https://preview.redd.it/c442xupks4hh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7d1bcb38b2d0632c83bc928733e7029dc893d5a\" title=\"Is Gold Running Into Trouble Here?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Price is appr",
+      "link": "https://www.reddit.com/r/Forex/comments/1ve8v0o/is_gold_running_into_trouble_here/",
+      "published": "2026-08-03T09:45:39+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro: Rebound eyes key resistance band against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang observes EUR/USD rebounded sharply after a dip to 1.1453, with scope to extend gains toward 1.1565 intraday, provided it holds above 1.1495.",
-      "link": "https://www.fxstreet.com/news/euro-rebound-eyes-key-resistance-band-against-us-dollar-uob-202608030610",
-      "published": "2026-08-03T06:10:11+00:00",
+      "title": "Gold: Explosive phase, muted correction – Deutsche Bank",
+      "summary": "Deutsche Bank Research analysts Michael Hsueh and Bryant Xu argue that Gold has been in an explosive price phase since August 2024, but recent moves suggest a muted correction.",
+      "link": "https://www.fxstreet.com/news/gold-explosive-phase-muted-correction-deutsche-bank-202608030937",
+      "published": "2026-08-03T09:37:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price today: Silver rises, according to FXStreet data",
+      "summary": "Silver prices (XAG/USD) rose on Monday, according to FXStreet data. Silver trades at $58.38 per troy ounce, up 1.37% from the $57.59 it cost on Friday.",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608030931",
+      "published": "2026-08-03T09:31:22+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$TSLA - STIFEL CUTS TESLA PRICE TARGET, KEEPS BUY Stifel lowered its Tesla price target to $491 from $508, while maintaining a Buy rating. The firm cited weaker profitability after Q2, with gross margin falling to 16.8% and adjusted EBITDA missing expectations. Despite this, Stifel remains bullish on FSD and Robotaxi, pointing to a growing order backlog and the Model YL launch as key long-term catalysts.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23TSLA\">$TSLA</a>  - STIFEL CUTS TESLA PRICE TARGET, KEEPS BUY<br />\n<br />\nStifel lowered its Tesla price target to $491 from $508, while maintaining a Buy rating.<br />\n<br />\nThe firm cited weaker profitability after Q2, with gross margin falling to 16.8% and adjusted EBITDA missing expectations.<br />\n<br />\nDespite this, Stifel remains bul",
+      "link": "https://nitter.net/DeItaone/status/2084209511774953775#m",
+      "published": "2026-08-03T09:27:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD struggles to extend opening gains amid hawkish Fed bets",
+      "summary": "Silver price (XAG/USD) opens strongly due to a sharp decline in oil prices, but struggles to extend gains beyond $58.68 during the day. At press time, the Silver price is up 1% to near $58.20.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-to-extend-opening-gains-amid-hawkish-fed-bets-202608030920",
+      "published": "2026-08-03T09:20:57+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Oil: prices slide on halted strikes – Commerzbank",
+      "summary": "Commerzbank strategists report that Brent Oil opened over 7% lower under USD84 into the Asian session after President Trump said the United States (US) would hold off on new strikes against Iran.",
+      "link": "https://www.fxstreet.com/news/oil-prices-slide-on-halted-strikes-commerzbank-202608030916",
+      "published": "2026-08-03T09:16:40+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc weakens following soft inflation, manufacturing data",
+      "summary": "USD/CHF extends its gains for the second successive day, trading around 0.8090 during the European hours on Monday. The pair remains on a stronger footing as the Swiss Franc (CHF) holds onto losses following the release of soft domestic inflation and manufacturing data.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-following-soft-inflation-manufacturing-data-202608030912",
+      "published": "2026-08-03T09:12:08+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Intervention fears cap losses against US Dollar – Rabobank",
+      "summary": "Rabobank's Senior FX Strategist Jane Foley discusses recent joint intervention by Japan’s Ministry of Finance (MoF) and the United States (US) Treasury to support the Japanese Yen (JPY) and its implications for USD/JPY.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-fears-cap-losses-against-us-dollar-rabobank-202608030901",
+      "published": "2026-08-03T09:01:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc: inflation undershoots SNB outlook – Nomura",
+      "summary": "Nomura strategists note that Swiss Consumer Price Index (CPI) slowed to 0.4% year-on-year in July, helped by weaker car fuel prices and easing imported energy costs.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-inflation-undershoots-snb-outlook-nomura-202608030840",
+      "published": "2026-08-03T08:40:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro remains near seven-week highs after downwardly revised Eurozone Manufacturing PMI",
+      "summary": "The Euro (EUR) posts moderate losses against the  US Dollar (USD) on Monday, trading at 1.1525 at the time of writing, but standing close to the seven-week highs, at 1.1556 hit earlier on the day.",
+      "link": "https://www.fxstreet.com/news/euro-remains-near-seven-week-highs-after-downwardly-revised-eurozone-manufacturing-pmi-202608030833",
+      "published": "2026-08-03T08:33:44+00:00",
       "score": 1
     },
     {
@@ -104,26 +338,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indonesian Rupiah holds gains as manufacturing PMI expands in July",
-      "summary": "USD/IDR remains subdued for the fourth successive day, trading around 18,040 during the Asian hours on Monday. The pair experiences notable downside pressure as the Indonesian Rupiah (IDR) strengthens in response to encouraging domestic economic indicators.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-holds-gains-as-manufacturing-pmi-expands-in-july-202608030548",
-      "published": "2026-08-03T05:48:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen jumps as US-Japan confirm joint intervention, hint further action",
-      "summary": "The USD/JPY pair tumbles to near 156.45 during the early European trading hours on Monday. The Japanese Yen (JPY) climbs amid speculation that Japanese authorities may have intervened to prop up the currency again after coordinated action between the US and Japan last week.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-jumps-as-us-japan-confirm-joint-intervention-hint-further-action-202608030534",
-      "published": "2026-08-03T05:34:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee gains as market applauses second US-Iran peace effort",
-      "summary": "The Indian Rupee (INR) opens strongly against the US Dollar (USD) at the start of the week. The USD/INR extends its losing streak for the third trading day, is down 0.25% to near 95.15, the lowest level seen in over three weeks.",
+      "title": "Indian Rupee gives back major early gains while approaching closing bell",
+      "summary": "The Indian Rupee (INR) surrenders a majority of its early gains against the US Dollar (USD) near the closing session on Monday. The USD/INR is slightly lower at near 95.35, having recovered from its over three-week low of 95.15.",
       "link": "https://www.fxstreet.com/news/indian-rupee-starts-the-week-with-a-bang-on-us-iran-peace-20-202608030528",
       "published": "2026-08-03T05:28:27+00:00",
       "score": 1
@@ -131,17 +347,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "EUR/USD Price Forecast: Gains traction above 1.1500, while remaining constrained below 100-day SMA",
-      "summary": "The EUR/USD pair trades in positive territory near 1.1535 during the early European trading hours on Monday, bolstered by improved risk sentiment.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-gains-traction-above-11500-while-remaining-constrained-below-100-day-sma-202608030449",
-      "published": "2026-08-03T04:49:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold extends range play below $4,100 as rebounding USD meets receding Fed hike bets",
-      "summary": "Gold (XAU/USD) struggles to capitalize on a modest weekly bullish gap opening and remains below the $4,100 mark heading into the European session. The US Dollar (USD) stages a modest recovery from its lowest level since June 17, which, in turn, is seen capping the upside for the commodity.",
+      "title": "Gold bulls seem hesitant amid rebounding USD; receding Fed hike bets limit the downside",
+      "summary": "Gold (XAU/USD) extends its sideways consolidative price move through the first half of the European session and trades above the $4,050 level following a modest bullish gap on Monday.",
       "link": "https://www.fxstreet.com/news/gold-holds-above-4-050-as-easing-inflation-fears-curb-fed-hike-bets-usd-bounce-caps-gains-202608030440",
       "published": "2026-08-03T04:40:49+00:00",
       "score": 4
@@ -180,87 +387,6 @@
       "summary": "<p>BREAKING: US oil prices crash below $79/barrel after President Trump cancels US strikes on Iran and says a deal is near.</p>\n<img src=\"https://nitter.net/pic/media%2FHOv8flQWYAIzfXV.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2084036898977144985#m",
       "published": "2026-08-02T22:01:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP SAYS US INTERVENTION IN YEN WAS A SIGNAL OF FRIENDSHIP",
-      "summary": "<p>*TRUMP SAYS US INTERVENTION IN YEN WAS A SIGNAL OF FRIENDSHIP</p>",
-      "link": "https://nitter.net/DeItaone/status/2084034159060676940#m",
-      "published": "2026-08-02T21:50:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: HAVE DECIDED A PUNISHMENT FOR CANADA ON WILDFIRES , BUT WON'T SAY YET",
-      "summary": "<p>TRUMP: HAVE DECIDED A PUNISHMENT FOR CANADA ON WILDFIRES , BUT WON'T SAY YET</p>",
-      "link": "https://nitter.net/DeItaone/status/2084033241963512272#m",
-      "published": "2026-08-02T21:46:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP SAYS NEW IRAN NEGOTIATIONS TO BEGIN MONDAY AFTERNOON",
-      "summary": "<p>*TRUMP SAYS NEW IRAN NEGOTIATIONS TO BEGIN MONDAY AFTERNOON</p>",
-      "link": "https://nitter.net/DeItaone/status/2084032935452201406#m",
-      "published": "2026-08-02T21:45:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "HORMUZ DEAL IN SIGHT Trump says Saudi Arabia, the UAE, Qatar, and Iran all urged him to delay planned strikes. He says the attack would have been massive but paused after allies pushed for diplomacy. According to Trump, allies believe a deal is close—first on the Strait of Hormuz, then on Iran's nuclear program.",
-      "summary": "<p>HORMUZ DEAL IN SIGHT<br />\n<br />\nTrump says Saudi Arabia, the UAE, Qatar, and Iran all urged him to delay planned strikes.<br />\n<br />\nHe says the attack would have been massive but paused after allies pushed for diplomacy.<br />\n<br />\nAccording to Trump, allies believe a deal is close—first on the Strait of Hormuz, then on Iran's nuclear program.</p>",
-      "link": "https://nitter.net/DeItaone/status/2084032541283979730#m",
-      "published": "2026-08-02T21:44:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON YEN: U.S. INTERVENING BECAUSE U.S. HAS A GOOD RELATIONSHIP WITH JAPAN",
-      "summary": "<p>TRUMP ON YEN: U.S. INTERVENING BECAUSE U.S. HAS A GOOD RELATIONSHIP WITH JAPAN</p>",
-      "link": "https://nitter.net/DeItaone/status/2084032284718514213#m",
-      "published": "2026-08-02T21:43:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "- TRUMP ON IRAN: TALKING TO THEM IN THE FORM OF A NEGOTIATION",
-      "summary": "<p>- TRUMP ON IRAN: TALKING TO THEM IN THE FORM OF A NEGOTIATION</p>",
-      "link": "https://nitter.net/DeItaone/status/2084032031629955277#m",
-      "published": "2026-08-02T21:42:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: THERE'S A DEAL ON HORMUZ AND THERE WILL BE A DEAL ON DENUCLEARIZATION",
-      "summary": "<p>TRUMP ON IRAN: THERE'S A DEAL ON HORMUZ AND THERE WILL BE A DEAL ON DENUCLEARIZATION</p>",
-      "link": "https://nitter.net/DeItaone/status/2084031997362454807#m",
-      "published": "2026-08-02T21:42:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: I THINK THERE IS A DEAL ON HORMUZ",
-      "summary": "<p>TRUMP: I THINK THERE IS A DEAL ON HORMUZ</p>",
-      "link": "https://nitter.net/DeItaone/status/2084031781209026744#m",
-      "published": "2026-08-02T21:41:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: I WAS ASKED TO CALL OF STRIKES BY SAUDI ARABIA, UAE, QATAR AND IRAN",
-      "summary": "<p>TRUMP: I WAS ASKED TO CALL OF STRIKES BY SAUDI ARABIA, UAE, QATAR AND IRAN</p>",
-      "link": "https://nitter.net/DeItaone/status/2084031730084724881#m",
-      "published": "2026-08-02T21:40:58+00:00",
       "score": 1
     },
     {
@@ -333,15 +459,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vddje4/gold_starts_the_week_at_a_critical_level/\"> <img alt=\"Gold Starts the Week at a Critical Level?\" src=\"https://preview.redd.it/drrxgrsckxgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76299b1c8967977d8b1c66608d968350c1aaa0f1\" title=\"Gold Starts the Week at a Critical Level?\" /> </a> </td><td> <!-- SC_OFF --><div class=",
       "link": "https://www.reddit.com/r/Forex/comments/1vddje4/gold_starts_the_week_at_a_critical_level/",
       "published": "2026-08-02T09:27:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP PAUSES IRAN STRIKE FOR DEAL President Donald Trump said the U.S. will hold off on a planned attack on Iran if a rapid agreement is reached to curb Tehran’s nuclear program and fully reopen the Strait of Hormuz. Trump said Iran and other Middle Eastern countries requested time to finalize a deal, adding Israel supports the pause while the U.S. remains ready to strike if talks fail. Iran denied seeking a pause and said its forces remain on the highest level of readiness. Earlier, Foreign Minister Abbas Araqchi warned any new U.S. or Israeli attack would prompt a “proportionate response.” Saudi Arabia urged dialogue and de-escalation.",
-      "summary": "<p>TRUMP PAUSES IRAN STRIKE FOR DEAL<br />\n<br />\nPresident Donald Trump said the U.S. will hold off on a planned attack on Iran if a rapid agreement is reached to curb Tehran’s nuclear program and fully reopen the Strait of Hormuz.<br />\n<br />\nTrump said Iran and other Middle Eastern countries requested time to finalize a deal, adding Israel supports the pause while the U.S. remains ready to str",
-      "link": "https://nitter.net/DeItaone/status/2083839612917535075#m",
-      "published": "2026-08-02T08:57:34+00:00",
       "score": 1
     },
     {
@@ -468,15 +585,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vbqf2v/liquidity_sweeps/\"> <img alt=\"Liquidity sweeps\" src=\"https://preview.redd.it/ew4wgm1hdkgh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0bcc039818e8f474f0e8bc1fe102a9e92b0b601\" title=\"Liquidity sweeps\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Guys..</p> <p>Can you spot those multiple sweeps in EURUSD. How do ",
       "link": "https://www.reddit.com/r/Forex/comments/1vbqf2v/liquidity_sweeps/",
       "published": "2026-07-31T13:05:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "It’s my very first trade with USDJPY 🫱🏻‍🫲🏿🫪",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vbodsh/its_my_very_first_trade_with_usdjpy/\"> <img alt=\"It’s my very first trade with USDJPY 🫱🏻‍🫲🏿🫪\" src=\"https://preview.redd.it/r8txxt32xjgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=da06c4c9ff911737f3a4be25a4bdd171f41c4e6f\" title=\"It’s my very first trade with USDJPY 🫱🏻‍🫲🏿🫪\" /> </a> </td><td> &#32; submitted by &#32; <a",
-      "link": "https://www.reddit.com/r/Forex/comments/1vbodsh/its_my_very_first_trade_with_usdjpy/",
-      "published": "2026-07-31T11:33:18+00:00",
       "score": 1
     },
     {
