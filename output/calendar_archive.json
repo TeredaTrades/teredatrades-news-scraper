@@ -2490,6 +2490,14 @@
   {
     "title": "Loan Officer Survey",
     "country": "USD",
+    "date": "2026-08-03T14:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "Loan Officer Survey",
+    "country": "USD",
     "date": "2026-08-03T14:03:00-04:00",
     "impact": "Low",
     "forecast": "",
@@ -2548,7 +2556,7 @@
     "country": "EUR",
     "date": "2026-08-04T03:00:00-04:00",
     "impact": "Low",
-    "forecast": "-20.3K",
+    "forecast": "-18.4K",
     "previous": "-28.7K"
   },
   {
@@ -2556,7 +2564,7 @@
     "country": "EUR",
     "date": "2026-08-04T04:00:00-04:00",
     "impact": "Low",
-    "forecast": "0.1%",
+    "forecast": "0.3%",
     "previous": "0.2%"
   },
   {
@@ -2580,7 +2588,7 @@
     "country": "CAD",
     "date": "2026-08-04T09:30:00-04:00",
     "impact": "Low",
-    "forecast": "50.2",
+    "forecast": "52.2",
     "previous": "53.0"
   },
   {
@@ -2588,7 +2596,7 @@
     "country": "USD",
     "date": "2026-08-04T10:00:00-04:00",
     "impact": "Medium",
-    "forecast": "7.42M",
+    "forecast": "7.44M",
     "previous": "7.59M"
   },
   {
@@ -2596,7 +2604,7 @@
     "country": "USD",
     "date": "2026-08-04T10:00:00-04:00",
     "impact": "Low",
-    "forecast": "0.0%",
+    "forecast": "0.2%",
     "previous": "-1.3%"
   },
   {
@@ -2664,6 +2672,14 @@
     "previous": ""
   },
   {
+    "title": "FOMC Member Schmid Speaks",
+    "country": "USD",
+    "date": "2026-08-04T20:15:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "ANZ Commodity Prices m/m",
     "country": "NZD",
     "date": "2026-08-04T21:00:00-04:00",
@@ -2692,7 +2708,7 @@
     "country": "EUR",
     "date": "2026-08-05T03:15:00-04:00",
     "impact": "Low",
-    "forecast": "54.8",
+    "forecast": "54.9",
     "previous": "54.2"
   },
   {
@@ -2700,7 +2716,7 @@
     "country": "EUR",
     "date": "2026-08-05T03:45:00-04:00",
     "impact": "Low",
-    "forecast": "51.2",
+    "forecast": "51.0",
     "previous": "50.2"
   },
   {
@@ -2740,7 +2756,7 @@
     "country": "EUR",
     "date": "2026-08-05T05:00:00-04:00",
     "impact": "Low",
-    "forecast": "-0.3%",
+    "forecast": "-0.2%",
     "previous": "0.2%"
   },
   {
@@ -2748,7 +2764,7 @@
     "country": "USD",
     "date": "2026-08-05T08:15:00-04:00",
     "impact": "Medium",
-    "forecast": "71K",
+    "forecast": "68K",
     "previous": "98K"
   },
   {
@@ -2796,7 +2812,7 @@
     "country": "AUD",
     "date": "2026-08-05T21:30:00-04:00",
     "impact": "Low",
-    "forecast": "-1.08B",
+    "forecast": "-1.06B",
     "previous": "-3.02B"
   },
   {
@@ -2884,7 +2900,7 @@
     "country": "USD",
     "date": "2026-08-06T08:30:00-04:00",
     "impact": "Medium",
-    "forecast": "205K",
+    "forecast": "203K",
     "previous": "197K"
   },
   {
