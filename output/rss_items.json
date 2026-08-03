@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-03T21:32:28.630950+00:00",
-  "count": 60,
+  "updated_at": "2026-08-03T22:41:47.461034+00:00",
+  "count": 81,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar slides to 0.70 as US ISM PMI, revives the US Dollar",
+      "summary": "The Aussie Dollar retraces despite an overall risk-on mood as the US Dollar recovers some ground, sponsored by positive data, and easing geopolitical tensions in the Middle East. The AUD/USD trades at 0.7000 after reaching a daily high of 0.7050.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slides-to-070-as-us-ism-pmi-revives-the-us-dollar-202608032230",
+      "published": "2026-08-03T22:30:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "Leveraged ETFs in chip stocks are seeing historic capital flows. Global leveraged and inverse ETFs tracking SK Hynix now hold ~$5.5 billion in assets, the most of any single stock worldwide. This is followed by Micron, $MU, and Nvidia, $NVDA, which account for ~$5.1 billion and ~$4.8 billion in leveraged and inverse ETF assets, respectively. By comparison, Tesla, $TSLA, is the largest non-chip name on the list, with ~$3.7 billion tied to the stock. In total, semiconductor-related names account for ~$21.0 billion in leveraged and inverse ETF assets. Meanwhile, the 3x leveraged US semiconductor ETF, $SOXL, attracted +$6.9 billion in inflows in July, the largest monthly intake in the fund’s history. Chip stocks have become the center of leveraged ETF exposure.",
+      "summary": "<p>Leveraged ETFs in chip stocks are seeing historic capital flows.<br />\n<br />\nGlobal leveraged and inverse ETFs tracking SK Hynix now hold ~$5.5 billion in assets, the most of any single stock worldwide.<br />\n<br />\nThis is followed by Micron, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MU\">$MU</a>, and Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, whic",
+      "link": "https://nitter.net/KobeissiLetter/status/2084404234892570969#m",
+      "published": "2026-08-03T22:21:10+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CHF Price Forecast: Bulls target 0.8150 after SMA bounce",
+      "summary": "The USD/CHF rises by about 0.27% on Monday as traders buy the Greenback following an intervention in FX markets by US and Japanese authorities.",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-target-08150-after-sma-bounce-202608032154",
+      "published": "2026-08-03T21:54:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar holds as traders brace for New Zealand jobs data",
+      "summary": "NZD/USD trades with a flat tone near the 0.5870 zone on Monday, holding onto the bulk of last week's advance but struggling to extend it as the US Dollar (USD) regains composure.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-as-traders-brace-for-new-zealand-jobs-data-202608032136",
+      "published": "2026-08-03T21:36:05+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Teads: lawsuit follows court ruling that Google engaged in illegal anticompetitive behavior in certain digital advertising technology markets",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9705766/Teads-lawsuit-follows-court-ruling-that-Google-engaged-in-illegal-anticompetitive-behavior-in-certain-digital-advertising-technology-markets.aspx?xy=rss",
+      "published": "2026-08-03T21:33:18+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -93,6 +138,42 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: CHEVRON, EXXON MADE TOO MUCH MONEY",
+      "summary": "<p>TRUMP: CHEVRON, EXXON MADE TOO MUCH MONEY</p>",
+      "link": "https://nitter.net/DeItaone/status/2084342821775884332#m",
+      "published": "2026-08-03T18:17:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: I'M NOT GOING TO LET IRAN CHARGE TO GO THROUGH HORMUZ STRAIT",
+      "summary": "<p>TRUMP: I'M NOT GOING TO LET IRAN CHARGE TO GO THROUGH HORMUZ STRAIT</p>",
+      "link": "https://nitter.net/DeItaone/status/2084342010245251125#m",
+      "published": "2026-08-03T18:13:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP: TALKING ABOUT HAVING STRAIT OPEN BY TOMORROW",
+      "summary": "<p>*TRUMP: TALKING ABOUT HAVING STRAIT OPEN BY TOMORROW</p>",
+      "link": "https://nitter.net/DeItaone/status/2084339483005087997#m",
+      "published": "2026-08-03T18:03:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP: THIS IS THE LAST CHANCE FOR IRAN TO SIGN A DEAL",
+      "summary": "<p>*TRUMP: THIS IS THE LAST CHANCE FOR IRAN TO SIGN A DEAL</p>",
+      "link": "https://nitter.net/DeItaone/status/2084338943428825511#m",
+      "published": "2026-08-03T18:01:43+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "United States Dollar Index rebounds toward 100 amid US-Iran, Fed uncertainty",
@@ -100,6 +181,51 @@
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-rebounds-toward-100-amid-us-iran-fed-uncertainty-202608031759",
       "published": "2026-08-03T17:59:29+00:00",
       "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP TELLS HEGSETH: YOU ARE DOING A FANTASTIC JOB",
+      "summary": "<p>TRUMP TELLS HEGSETH: YOU ARE DOING A FANTASTIC JOB</p>",
+      "link": "https://nitter.net/DeItaone/status/2084336474082697311#m",
+      "published": "2026-08-03T17:51:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "META INVITED TO WHITE HOUSE TUESDAY TO DISCUSS AI SAFETY TESTING BY U.S. GOVERNMENT - COMPANY SPOKESPERSON",
+      "summary": "<p>META INVITED TO WHITE HOUSE TUESDAY TO DISCUSS AI SAFETY TESTING BY U.S. GOVERNMENT - COMPANY SPOKESPERSON</p>",
+      "link": "https://nitter.net/DeItaone/status/2084336159845409014#m",
+      "published": "2026-08-03T17:50:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: IRAN CONFLICT IS WORKING OUT VERY WELL",
+      "summary": "<p>TRUMP: IRAN CONFLICT IS WORKING OUT VERY WELL</p>",
+      "link": "https://nitter.net/DeItaone/status/2084335496025473532#m",
+      "published": "2026-08-03T17:48:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "CITADEL WARNS FED MESSAGING IS HURTING CREDIBILITY Citadel Securities said Fed Chair Kevin Warsh's policy framework is creating uncertainty by pledging to curb inflation without clearly explaining how. The firm warned that relying on higher market yields to tighten financial conditions risks a negative feedback loop, where delayed rate hikes fuel higher inflation expectations and push long-term Treasury yields even higher. Citadel said the recent selloff in Treasuries reflects growing doubts about the Fed's policy credibility.",
+      "summary": "<p>CITADEL WARNS FED MESSAGING IS HURTING CREDIBILITY<br />\n<br />\nCitadel Securities said Fed Chair Kevin Warsh's policy framework is creating uncertainty by pledging to curb inflation without clearly explaining how.<br />\n<br />\nThe firm warned that relying on higher market yields to tighten financial conditions risks a negative feedback loop, where delayed rate hikes fuel higher inflation expec",
+      "link": "https://nitter.net/DeItaone/status/2084332524264652922#m",
+      "published": "2026-08-03T17:36:13+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "IRAN SEES TRUMP FAVORING TALKS OVER ESCALATION Iranian leaders reportedly believe President Trump is seeking leverage through military threats rather than a broader war. According to sources, Tehran believes it can withstand pressure by using regional proxies and maintaining pressure on global shipping until Washington favors diplomacy. The assessment comes despite Trump's warnings of military action, with Iran insisting no direct U.S. negotiations are currently planned.",
+      "summary": "<p>IRAN SEES TRUMP FAVORING TALKS OVER ESCALATION<br />\n<br />\nIranian leaders reportedly believe President Trump is seeking leverage through military threats rather than a broader war.<br />\n<br />\nAccording to sources, Tehran believes it can withstand pressure by using regional proxies and maintaining pressure on global shipping until Washington favors diplomacy.<br />\n<br />\nThe assessment come",
+      "link": "https://nitter.net/DeItaone/status/2084326883907289155#m",
+      "published": "2026-08-03T17:13:48+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
@@ -138,6 +264,33 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "NASDAQ EXTENDS GAINS, LAST UP 2.1%",
+      "summary": "<p>NASDAQ EXTENDS GAINS, LAST UP 2.1%</p>",
+      "link": "https://nitter.net/DeItaone/status/2084317177419559364#m",
+      "published": "2026-08-03T16:35:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. OFFICIALS SAY NO NEW IRAN TALKS PLANNED: CBS U.S. officials told CBS News there are no new negotiations with Iran planned, despite President Trump's comments that talks would begin Monday. Officials said discussions continue through mediators involving U.S. envoy Steve Witkoff and the Iranian team. Meanwhile, Iran said it is not negotiating directly with the U.S., insisting current talks are with Oman and focus solely on shipping through the Strait of Hormuz.",
+      "summary": "<p>U.S. OFFICIALS SAY NO NEW IRAN TALKS PLANNED: CBS<br />\n<br />\nU.S. officials told CBS News there are no new negotiations with Iran planned, despite President Trump's comments that talks would begin Monday.<br />\n<br />\nOfficials said discussions continue through mediators involving U.S. envoy Steve Witkoff and the Iranian team.<br />\n<br />\nMeanwhile, Iran said it is not negotiating directly w",
+      "link": "https://nitter.net/DeItaone/status/2084315803613061381#m",
+      "published": "2026-08-03T16:29:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP EXPECTED TO ATTEND A ROUNDTABLE OF MINING EXECUTIVES ON FRIDAY AT U.S. STATE DEPARTMENT - SOURCES",
+      "summary": "<p>TRUMP EXPECTED TO ATTEND A ROUNDTABLE OF MINING EXECUTIVES ON FRIDAY AT U.S. STATE DEPARTMENT - SOURCES</p>",
+      "link": "https://nitter.net/DeItaone/status/2084312110763254011#m",
+      "published": "2026-08-03T16:15:06+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "WTI Oil plunges as Trump revives US-Iran peace hopes",
@@ -163,6 +316,51 @@
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-technical-outlook-stays-constructive-above-08000-202608031531",
       "published": "2026-08-03T15:31:28+00:00",
       "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP SAYS IRAN PRIVATELY SEEKING TALKS *TRUMP SAYS U.S. NAVY CONTROLS STRAIT OF HORMUZ *TRUMP SAYS SANCTIONS STAY UNTIL IRAN DEAL *TRUMP SAYS IRAN WILL NEVER HAVE NUCLEAR WEAPON *TRUMP SAYS TALKS WITH IRAN ARE CONTINUING",
+      "summary": "<p>*TRUMP SAYS IRAN PRIVATELY SEEKING TALKS<br />\n<br />\n*TRUMP SAYS U.S. NAVY CONTROLS STRAIT OF HORMUZ<br />\n<br />\n*TRUMP SAYS SANCTIONS STAY UNTIL IRAN DEAL<br />\n<br />\n*TRUMP SAYS IRAN WILL NEVER HAVE NUCLEAR WEAPON<br />\n<br />\n*TRUMP SAYS TALKS WITH IRAN ARE CONTINUING</p>",
+      "link": "https://nitter.net/DeItaone/status/2084300377332105386#m",
+      "published": "2026-08-03T15:28:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: WHETHER IRAN WANTS TO ADMIT IT OR NOT, WE ARE, IN FACT, TALKING OF A SOLUTION TO A PROBLEM THAT THEY HAVE CAUSED, FOR DECADES",
+      "summary": "<p>TRUMP: WHETHER IRAN WANTS TO ADMIT IT OR NOT, WE ARE, IN FACT, TALKING OF A SOLUTION TO A PROBLEM THAT THEY HAVE CAUSED, FOR DECADES</p>",
+      "link": "https://nitter.net/DeItaone/status/2084300159425372214#m",
+      "published": "2026-08-03T15:27:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: NOTHING GETS THROUGH TO IRAN, UNLESS WE WANT IT TO, AND NOTHING WILL GET THROUGH, UNLESS A DEAL, OR TOTAL SURRENDER, IS ACCOMPLISHED",
+      "summary": "<p>TRUMP: NOTHING GETS THROUGH TO IRAN, UNLESS WE WANT IT TO, AND NOTHING WILL GET THROUGH, UNLESS A DEAL, OR TOTAL SURRENDER, IS ACCOMPLISHED</p>",
+      "link": "https://nitter.net/DeItaone/status/2084300104006009005#m",
+      "published": "2026-08-03T15:27:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: IRAN 'WILL NEVER HAVE A NUCLEAR WEAPON' President Trump accused Iran of publicly denying negotiations while privately seeking talks. He claimed the U.S. Navy fully controls access to the Strait of Hormuz, saying nothing reaches Iran without U.S. approval. Trump added sanctions and restrictions will remain until a deal—or what he called Iran's \"total surrender\"—is achieved, reiterating that \"Iran will never have a nuclear weapon.\"",
+      "summary": "<p>TRUMP: IRAN 'WILL NEVER HAVE A NUCLEAR WEAPON'<br />\n<br />\nPresident Trump accused Iran of publicly denying negotiations while privately seeking talks.<br />\n<br />\nHe claimed the U.S. Navy fully controls access to the Strait of Hormuz, saying nothing reaches Iran without U.S. approval. Trump added sanctions and restrictions will remain until a deal—or what he called Iran's \"total surrender\"—i",
+      "link": "https://nitter.net/DeItaone/status/2084300052122513731#m",
+      "published": "2026-08-03T15:27:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: IRANIAN LEADERSHIP IS UNBELIEVABLY DUPLICITOUS",
+      "summary": "<p>TRUMP: IRANIAN LEADERSHIP IS UNBELIEVABLY DUPLICITOUS</p>",
+      "link": "https://nitter.net/DeItaone/status/2084299919884468626#m",
+      "published": "2026-08-03T15:26:39+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
@@ -334,15 +532,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2083973604086104426#m",
       "published": "2026-08-02T17:50:00+00:00",
       "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Key Events This Week: 1. Markets React to Trump Cancelling US Strikes on Iran - Today, 6 PM ET 2. July ISM Manufacturing PMI data - Monday 3. June JOLTS Job Openings data - Tuesday 4. AMD, $AMD, and SpaceX, $SPCX, Report Earnings - Tuesday 5. July ADP Nonfarm Employment Change data - Wednesday 6. SanDisk, $SNDK, Reports Earnings - Wednesday 7. July Jobs Report - Friday 8. ~20% of S&P 500 companies report earnings this week We have a huge week ahead of us.",
-      "summary": "<p>Key Events This Week:<br />\n<br />\n1. Markets React to Trump Cancelling US Strikes on Iran - Today, 6 PM ET<br />\n<br />\n2. July ISM Manufacturing PMI data - Monday<br />\n<br />\n3. June JOLTS Job Openings data - Tuesday<br />\n<br />\n4. AMD, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMD\">$AMD</a>, and SpaceX, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SPCX\">$SPCX</a>, Report",
-      "link": "https://nitter.net/KobeissiLetter/status/2083924910615773234#m",
-      "published": "2026-08-02T14:36:30+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
