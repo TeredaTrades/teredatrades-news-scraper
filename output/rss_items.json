@@ -1,23 +1,203 @@
 {
-  "updated_at": "2026-08-04T13:04:03.174704+00:00",
-  "count": 71,
+  "updated_at": "2026-08-04T15:35:58.614100+00:00",
+  "count": 60,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Effective fed funds rate 3.63% on August 3 vs 3.63% on July 31st.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9706903/Effective-fed-funds-rate-363-on-August-3-vs-363-on-July-31st.aspx?xy=rss",
-      "published": "2026-08-04T13:00:10+00:00",
+      "title": "FinancialJuice: US 52-Week Bill Auction",
+      "summary": "<ul><li>High Yield 3.880%</li><li>Bid-to-cover 3.62</li><li>Sells $52 bln</li><li>Awards 12.98% of bids at high</li></ul>",
+      "link": "https://www.financialjuice.com/News/9707163/US-52-Week-Bill-Auction.aspx?xy=rss",
+      "published": "2026-08-04T15:33:30+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: The US seeks comment on including more products in metals tariffs.",
+      "title": "FinancialJuice: US 52-Week Bill High Yield Actual 3.88% (Forecast -, Previous 3.860%)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9706900/The-US-seeks-comment-on-including-more-products-in-metals-tariffs.aspx?xy=rss",
-      "published": "2026-08-04T12:51:19+00:00",
+      "link": "https://www.financialjuice.com/News/9707162/US-52-Week-Bill-High-Yield-Actual-388-Forecast---Previous-3860.aspx?xy=rss",
+      "published": "2026-08-04T15:32:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index: Rally questioned as safe-haven role tested – Rabobank",
+      "summary": "Rabobank’s Senior FX Strategist Jane Foley notes the US Dollar (USD) has been the weakest G10 currency over the past week, with US Dollar Index (DXY) down about 2% from late July.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-rally-questioned-as-safe-haven-role-tested-rabobank-202608041529",
+      "published": "2026-08-04T15:29:57+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Asia FX: Yen-led winners and export backdrop – MUFG",
+      "summary": "Michael Wan at MUFG explains that South Korean Won (KRW), Thai Baht (THB), Singapore Dollar (SGD) and, to a smaller extent, Philippine Peso (PHP) are the main Asian FX beneficiaries if Japanese Yen strength persists, given their higher sensitivity to USD/JPY.",
+      "link": "https://www.fxstreet.com/news/asia-fx-yen-led-winners-and-export-backdrop-mufg-202608041515",
+      "published": "2026-08-04T15:15:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "Onchain investors are piling into tokenized US Treasuries. Total onchain Treasury funds now have a record high market cap of $16.2 billion, up +77% year-to-date. But, why? The growth is being driven by a surge in demand to earn a yield onchain by using US Treasury Bills as collateral. Increasingly, users are depositing tokenized Treasuries, borrowing stablecoins against them, and deploying those stablecoins into DeFi strategies. Using onchain platforms like Jupiter, these positions can even be \"looped\" through a lending program. This looping mechanism allows users to repeatedly borrow and redeploy capital, pushing annualized yields above 10% in some cases. In our view, tokenized Treasuries are becoming a key part of the foundation of onchain finance.",
+      "summary": "<p>Onchain investors are piling into tokenized US Treasuries.<br />\n<br />\nTotal onchain Treasury funds now have a record high market cap of $16.2 billion, up +77% year-to-date.<br />\n<br />\nBut, why?<br />\n<br />\nThe growth is being driven by a surge in demand to earn a yield onchain by using US Treasury Bills as collateral. <br />\n<br />\nIncreasingly, users are depositing tokenized Treasuries, b",
+      "link": "https://nitter.net/KobeissiLetter/status/2084658081896505659#m",
+      "published": "2026-08-04T15:09:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia: Nvidia Alpamayo 2 Super, the frontier open model for robotaxis and autonomous vehicles, now available for commercial use. $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9707129/Nvidia-Nvidia-Alpamayo-2-Super-the-frontier-open-model-for-robotaxis-and-autonomous-vehicles-now-available-for-commercial-use-NVDA.aspx?xy=rss",
+      "published": "2026-08-04T15:06:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: DDN and Nvidia Collaborate on GPU-Initiated Data Access for AI $NVDA",
+      "summary": "<div><ul><li>DDN and Nvidia are collaborating under the Storage-Next initiative to improve AI infrastructure efficiency</li><li>The companies are developing capabilities that allow GPUs to initiate data operations directly, reducing latency and improving data access</li><li>The collaboration is designed to keep GPU resources more fully utilized and accelerate AI workloads at scale</li><li>The new ",
+      "link": "https://www.financialjuice.com/News/9707125/DDN-and-Nvidia-Collaborate-on-GPU-Initiated-Data-Access-for-AI-NVDA.aspx?xy=rss",
+      "published": "2026-08-04T15:02:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen stalls amid soft JOLTS data",
+      "summary": "USD/JPY trades on the back foot near the 157.40 area during Tuesday's American session as the Japanese Yen (JPY) builds on the gains secured over the past week.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-stalls-amid-soft-jolts-data-202608041440",
+      "published": "2026-08-04T14:40:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "EURUSD",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vfc0ml/eurusd/\"> <img alt=\"EURUSD\" src=\"https://preview.redd.it/wjn53r2dcdhh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=63720dac256c5da62ccdfe8dc14d779f9d3decf2\" title=\"EURUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Guys..</p> <p>What's your view on EURUSD.. it's currently rising but I think it can't break previ",
+      "link": "https://www.reddit.com/r/Forex/comments/1vfc0ml/eurusd/",
+      "published": "2026-08-04T14:30:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "MORGAN STANLEY: OPEN AI MODELS EXPAND THE MARKET Morgan Stanley says the rise of open-weight AI models such as Kimi K3, Qwen, and Llama should accelerate AI adoption by lowering costs, not hurt the industry's leaders. The bank argues cheaper AI will drive broader enterprise usage, citing the \"Jevons Paradox.\" Morgan Stanley expects open and closed models to coexist, with 63% of enterprises already using both. It says Nvidia remains the biggest winner regardless of which AI model architecture prevails, as demand for AI computing infrastructure continues to grow.",
+      "summary": "<p>MORGAN STANLEY: OPEN AI MODELS EXPAND THE MARKET<br />\n<br />\nMorgan Stanley says the rise of open-weight AI models such as Kimi K3, Qwen, and Llama should accelerate AI adoption by lowering costs, not hurt the industry's leaders.<br />\n<br />\nThe bank argues cheaper AI will drive broader enterprise usage, citing the \"Jevons Paradox.\"<br />\n<br />\nMorgan Stanley expects open and closed models t",
+      "link": "https://nitter.net/DeItaone/status/2084647801619669320#m",
+      "published": "2026-08-04T14:29:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold recovers as Hormuz reopening hopes drag US Dollar, Oil prices lower",
+      "summary": "Gold (XAU/USD) catches a fresh bid on Tuesday as traders react to encouraging headlines about the possible reopening of the Strait of Hormuz. At the time of writing, XAU/USD trades around $4,087, recovering from an intraday low near $4,042.",
+      "link": "https://www.fxstreet.com/news/gold-recovers-as-hormuz-reopening-hopes-drag-us-dollar-oil-prices-lower-202608041427",
+      "published": "2026-08-04T14:27:11+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed's Paulson: Underlying inflation is too high",
+      "summary": "Anna Paulson, President of the Federal Reserve (Fed) Bank of Philadelphia,  said in an interview with CNBC on Tuesday that underlying inflation remains too high and that monetary policy needs to stay mildly restrictive, adding that the current environment likely meets that description.",
+      "link": "https://www.fxstreet.com/news/feds-paulson-underlying-inflation-is-too-high-202608041420",
+      "published": "2026-08-04T14:20:58+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar climbs above 0.7000 as hopes of an Iran deal lift risk sentiment",
+      "summary": "AUD/USD trades around 0.7035 on Tuesday at the time of writing, up 0.50% on the day. The pair is supported by improving market sentiment after US Treasury Secretary Scott Bessent said that an agreement with Iran to reopen the Strait of Hormuz could be reached as soon as Tuesday or Wednesday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-above-07000-as-hopes-of-an-iran-deal-lift-risk-sentiment-202608041414",
+      "published": "2026-08-04T14:14:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States: Growth impulse questioned – Standard Chartered",
+      "summary": "Standard Chartered analysts Dan Pan and Steve Englander discuss the Federal Reserve’s Financial Conditions Impulse on Growth (FCI-G) index, noting it was highly accommodative in May 2026 and still supportive after the July FOMC.",
+      "link": "https://www.fxstreet.com/news/united-states-growth-impulse-questioned-standard-chartered-202608041412",
+      "published": "2026-08-04T14:12:18+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "NASDAQ EXTENDS GAINS, LAST UP 2.1%",
+      "summary": "<p>NASDAQ EXTENDS GAINS, LAST UP 2.1%</p>",
+      "link": "https://nitter.net/DeItaone/status/2084643511287099645#m",
+      "published": "2026-08-04T14:11:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Dip after FOMC but strength expected – HSBC",
+      "summary": "HSBC strategists discuss the US Dollar (USD) reaction to the July Federal Open Market Committee (FOMC) meeting, where the Federal Reserve (Fed) kept rates at 3.50-3.75% despite some dissent for a hike.",
+      "link": "https://www.fxstreet.com/news/us-dollar-dip-after-fomc-but-strength-expected-hsbc-202608041347",
+      "published": "2026-08-04T13:47:17+00:00",
+      "score": 4
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "R to @KobeissiLetter: On Friday, we posted the below alert for our premium members. We called for the S&P 500 to rise above 7600 and hit new record highs. Today, these longs are up +200 points in a matter of days. Subscribe to access our premium analysis below: http://thekobeissiletter.com/subscribe",
+      "summary": "<p>On Friday, we posted the below alert for our premium members.<br />\n<br />\nWe called for the S&amp;P 500 to rise above 7600 and hit new record highs.<br />\n<br />\nToday, these longs are up +200 points in a matter of days.<br />\n<br />\nSubscribe to access our premium analysis below:<br />\n<br />\n<a href=\"http://thekobeissiletter.com/subscribe\">thekobeissiletter.com/subscr…</a></p>\n<img src=\"http",
+      "link": "https://nitter.net/KobeissiLetter/status/2084633371926274265#m",
+      "published": "2026-08-04T13:31:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "S&P 500 HITS INTRADAY RECORD HIGH, LAST UP 0.5%",
+      "summary": "<p>S&amp;P 500 HITS INTRADAY RECORD HIGH, LAST UP 0.5%</p>",
+      "link": "https://nitter.net/DeItaone/status/2084633269031551132#m",
+      "published": "2026-08-04T13:31:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "S&P 500 BREAKS OUT, RECORD HIGH IN SIGHT The S&P 500 has regained momentum, closing just 0.12% below its record high after a nearly 4% three-day rally. Mega-cap stocks are leading the advance, with the Magnificent Seven posting their strongest three-day gain since May 2025. Technically, the index has broken above a multi-month consolidation pattern, signaling buyers are back in control. A new record could open the door toward the 7,900–8,000 range, while support sits near 7,560.",
+      "summary": "<p>S&amp;P 500 BREAKS OUT, RECORD HIGH IN SIGHT<br />\n<br />\nThe S&amp;P 500 has regained momentum, closing just 0.12% below its record high after a nearly 4% three-day rally.<br />\n<br />\nMega-cap stocks are leading the advance, with the Magnificent Seven posting their strongest three-day gain since May 2025.<br />\n<br />\nTechnically, the index has broken above a multi-month consolidation pattern",
+      "link": "https://nitter.net/DeItaone/status/2084633207673155645#m",
+      "published": "2026-08-04T13:31:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The S&P 500 officially hits a new record high, now worth $69.7 trillion. This continues to be the best economy in history for asset owners. All-time highs are officially back.",
+      "summary": "<p>BREAKING: The S&amp;P 500 officially hits a new record high, now worth $69.7 trillion.<br />\n<br />\nThis continues to be the best economy in history for asset owners.<br />\n<br />\nAll-time highs are officially back.</p>\n<img src=\"https://nitter.net/pic/media%2FHO4axJYWMAA5mMt.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2084633133442363526#m",
+      "published": "2026-08-04T13:30:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar weakens as Oil prices slide on US-Iran deal hopes",
+      "summary": "USD/CAD reverses its earlier losses on Tuesday as falling Oil prices weigh on the commodity-linked Canadian Dollar (CAD) following comments from US Treasury Secretary Scott Bessent on US-Iran talks.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-as-oil-prices-slide-on-us-iran-deal-hopes-202608041329",
+      "published": "2026-08-04T13:29:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Anthropic has signed a $10 billion deal for computing capacity with Volta, a months-old infrastructure startup backed by Nvidia, $NVDA. Details include: 1. The agreement runs 6 years and will be delivered in partnership with Bitdeer Technologies, a Bitcoin miner that operates data centers 2. The data center site in Norway offers 133MW of capacity and will be operated with Nvidia’s newest Vera Rubin chips 3. Volta announced today that it raised $300 million in venture funding, valuing it at $2.4 billion The race for compute continues.",
+      "summary": "<p>BREAKING: Anthropic has signed a $10 billion deal for computing capacity with Volta, a months-old infrastructure startup backed by Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>.<br />\n<br />\nDetails include:<br />\n<br />\n1. The agreement runs 6 years and will be delivered in partnership with Bitdeer Technologies, a Bitcoin miner that operates data centers<br />\n<b",
+      "link": "https://nitter.net/KobeissiLetter/status/2084623916744544484#m",
+      "published": "2026-08-04T12:54:06+00:00",
       "score": 2
     },
     {
@@ -30,42 +210,6 @@
       "score": 4
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Paulson: Want to understand the tradeoffs of 6 vs 8 FOMC meetings.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9706893/Feds-Paulson-Want-to-understand-the-tradeoffs-of-6-vs-8-FOMC-meetings.aspx?xy=rss",
-      "published": "2026-08-04T12:46:52+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Paulson: Can't provide rate guidance now when keeping an open mind.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9706886/Feds-Paulson-Cant-provide-rate-guidance-now-when-keeping-an-open-mind.aspx?xy=rss",
-      "published": "2026-08-04T12:43:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Paulson: It's great to take a fresh look at how the Fed does its work.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9706885/Feds-Paulson-Its-great-to-take-a-fresh-look-at-how-the-Fed-does-its-work.aspx?xy=rss",
-      "published": "2026-08-04T12:43:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Paulson: When rates are at zero, forward guidance is appropriate.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9706884/Feds-Paulson-When-rates-are-at-zero-forward-guidance-is-appropriate.aspx?xy=rss",
-      "published": "2026-08-04T12:43:23+00:00",
-      "score": 2
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Silver shines near $60 as falling Oil supports precious metals",
@@ -73,96 +217,6 @@
       "link": "https://www.fxstreet.com/news/silver-shines-near-60-as-falling-oil-supports-precious-metals-202608041243",
       "published": "2026-08-04T12:43:18+00:00",
       "score": 5
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Paulson: Uncertainty in current climate complicates forward guidance.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9706883/Feds-Paulson-Uncertainty-in-current-climate-complicates-forward-guidance.aspx?xy=rss",
-      "published": "2026-08-04T12:43:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Paulson: Forward guidance means something pretty specific.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9706882/Feds-Paulson-Forward-guidance-means-something-pretty-specific.aspx?xy=rss",
-      "published": "2026-08-04T12:42:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Paulson: It is right to look through supply shocks.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9706881/Feds-Paulson-It-is-right-to-look-through-supply-shocks.aspx?xy=rss",
-      "published": "2026-08-04T12:41:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FED'S PAULSON: IF PROGRESS NOT MADE ON INFLATION, FED WILL NEED TO ACT",
-      "summary": "<p>FED'S PAULSON: IF PROGRESS NOT MADE ON INFLATION, FED WILL NEED TO ACT</p>",
-      "link": "https://nitter.net/DeItaone/status/2084620553437020361#m",
-      "published": "2026-08-04T12:40:44+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Paulson: It was not a close call to keep rates steady at FOMC.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9706880/Feds-Paulson-It-was-not-a-close-call-to-keep-rates-steady-at-FOMC.aspx?xy=rss",
-      "published": "2026-08-04T12:40:15+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Paulson: Economy is strong, inflation too high.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9706878/Feds-Paulson-Economy-is-strong-inflation-too-high.aspx?xy=rss",
-      "published": "2026-08-04T12:39:33+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FED'S PAULSON: THIS IS A COMPLICATED TIME FOR MONETARY POLICY - CNBC PAULSON: INFLATION IS TOO HIGH, WANTS TO BRING IT DOWN PAULSON: NEED MILDLY RESTRICTIVE MONETARY POLICY AND FED LIKELY HAS THAT NOW",
-      "summary": "<p>FED'S PAULSON: THIS IS A COMPLICATED TIME FOR MONETARY POLICY - CNBC<br />\n<br />\nPAULSON: INFLATION IS TOO HIGH, WANTS TO BRING IT DOWN<br />\n<br />\nPAULSON: NEED MILDLY RESTRICTIVE MONETARY POLICY AND FED LIKELY HAS THAT NOW</p>",
-      "link": "https://nitter.net/DeItaone/status/2084620070676725794#m",
-      "published": "2026-08-04T12:38:49+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Paulson: Need a mildly restrictive monetary policy, and the Fed likely has that now.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9706877/Feds-Paulson-Need-a-mildly-restrictive-monetary-policy-and-the-Fed-likely-has-that-now.aspx?xy=rss",
-      "published": "2026-08-04T12:38:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "SPOT SILVER RISES 3% TO $59.90/OZ",
-      "summary": "<p>SPOT SILVER  RISES 3% TO $59.90/OZ</p>",
-      "link": "https://nitter.net/DeItaone/status/2084619571487494649#m",
-      "published": "2026-08-04T12:36:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "SOCGEN: BUY THE DIP, SEES S&P 500 AT 8,000 Societe Generale says U.S. earnings strength is broadening beyond Big Tech and continues to support equities. The bank notes 86% of companies have beaten earnings estimates, margins are at record highs, and 2026 EPS forecasts have risen to $335. SocGen says AI investment remains strong and expects the S&P 500 to reach 8,000, urging investors to \"buy the momentum dip.\"",
-      "summary": "<p>SOCGEN: BUY THE DIP, SEES S&amp;P 500 AT 8,000<br />\n<br />\nSociete Generale says U.S. earnings strength is broadening beyond Big Tech and continues to support equities.<br />\n<br />\nThe bank notes 86% of companies have beaten earnings estimates, margins are at record highs, and 2026 EPS forecasts have risen to $335.<br />\n<br />\nSocGen says AI investment remains strong and expects the S&amp;P ",
-      "link": "https://nitter.net/DeItaone/status/2084618634853220859#m",
-      "published": "2026-08-04T12:33:07+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -174,84 +228,12 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP'S IRAN STRIKE THREATS: A TIMELINE 🔸 March 21: Trump threatened to \"hit and obliterate\" Iranian power plants unless Hormuz reopened within 48 hours. 🔸 March 23: Delayed strikes for five days, citing \"productive conversations\" with Iran. 🔸 April 7: Warned \"a whole civilization will die tonight.\" 🔸 Hours later: A two-week ceasefire was announced. 🔸 April 21: Said he expected \"to be bombing\" if talks failed. 🔸 Later that day: Extended the ceasefire. 🔸 May 17: Warned, \"the Clock is Ticking.\" 🔸 May 18: Paused planned strikes after requests from Qatar, Saudi Arabia, and the UAE. 🔸 June 11: Said the U.S. would hit Iran \"VERY HARD TONIGHT.\" 🔸 Hours later: Canceled the operation, saying a deal was near. 🔸 August 1: Said the U.S. was \"locked and loaded.\" 🔸 Later: Called off the attack to pursue a deal with Tehran.",
-      "summary": "<p>TRUMP'S IRAN STRIKE THREATS: A TIMELINE<br />\n<br />\n🔸 March 21: Trump threatened to \"hit and obliterate\" Iranian power plants unless Hormuz reopened within 48 hours.<br />\n<br />\n🔸 March 23: Delayed strikes for five days, citing \"productive conversations\" with Iran.<br />\n<br />\n🔸 April 7: Warned \"a whole civilization will die tonight.\"<br />\n🔸 Hours later: A two-week ceasefire was announced.<",
-      "link": "https://nitter.net/DeItaone/status/2084613778117665148#m",
-      "published": "2026-08-04T12:13:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro defends the 1.1500 level ahead of a string of US labour data",
-      "summary": "The Euro (EUR) posts marginal gains against the US Dollar (USD) on Tuesday as Monday’s reversal from three-week highs at 1.1560 has been contained at 1.1500 so far.",
-      "link": "https://www.fxstreet.com/news/euro-defends-the-11500-level-ahead-of-a-string-of-us-labour-data-202608041149",
-      "published": "2026-08-04T11:49:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "BESSENT: WE ARE SEEING A DETOX IN THE FED",
-      "summary": "<p>BESSENT: WE ARE SEEING A DETOX IN THE FED</p>",
-      "link": "https://nitter.net/DeItaone/status/2084607331652735411#m",
-      "published": "2026-08-04T11:48:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Relief rallies seen as selling opportunity – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports USD/JPY has fully retraced its prior slump and is testing key resistance at the 200-day moving average near 158.02.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-relief-rallies-seen-as-selling-opportunity-bbh-202608041135",
-      "published": "2026-08-04T11:35:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TESLA CHINA JULY DELIVERIES RISE 37.8% Y/Y: CPCA *CPCA SAYS TESLA CHINA JULY DELIVERIES HIT 93,579 UNITS",
-      "summary": "<p>*TESLA CHINA JULY DELIVERIES RISE 37.8% Y/Y: CPCA<br />\n<br />\n*CPCA SAYS TESLA CHINA JULY DELIVERIES HIT 93,579 UNITS</p>",
-      "link": "https://nitter.net/DeItaone/status/2084603470712107029#m",
-      "published": "2026-08-04T11:32:52+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Tired and angry of this BOJ intervention BS",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Man, I am angry, very angry with this BS from BOJ messing up my gold trades. It is SO annoying. Last week was the same BS, trades were doing great until this BS started.</p> <p>When are they gonna learn they can't control de market by force! they will burn this 50 billion and yen will go back to 160 in a matter of weeks. </p> <p>Is anyone elses trades going bad fr",
       "link": "https://www.reddit.com/r/Forex/comments/1vf7qys/tired_and_angry_of_this_boj_intervention_bs/",
       "published": "2026-08-04T11:32:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Rebound supported by lower energy – ING",
-      "summary": "ING strategist Ewa Manthey highlights that Gold has extended its recovery, posting its first monthly gain since February. The metal is supported by easing Middle East geopolitical tensions and sharply lower Oil prices, which reduce inflation concerns.",
-      "link": "https://www.fxstreet.com/news/gold-rebound-supported-by-lower-energy-ing-202608041123",
-      "published": "2026-08-04T11:23:43+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold holds steady as traders weigh US-Iran talks, Fed outlook",
-      "summary": "Gold (XAU/USD) trades flat on Tuesday, extending its sideways grind as uncertainty surrounding US-Iran peace efforts and the Federal Reserve’s (Fed) monetary policy path keeps traders cautious.",
-      "link": "https://www.fxstreet.com/news/gold-holds-steady-as-traders-weigh-us-iran-talks-fed-outlook-202608041122",
-      "published": "2026-08-04T11:22:32+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound finds footing at 1.3420 with markets awaiting US Job Openings data",
-      "summary": "The British Pound (GBP) edges higher against the US Dollar (USD) on Tuesday, reaching session highs above 1.3440 after finding support at the 1.3420 area earlier on the day.",
-      "link": "https://www.fxstreet.com/news/british-pound-finds-footing-at-13420-with-markets-awaiting-us-job-openings-data-202608041117",
-      "published": "2026-08-04T11:17:29+00:00",
       "score": 1
     },
     {
@@ -262,33 +244,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vf79pr/xauusd_weekly_market_outlook_educational_analysis/",
       "published": "2026-08-04T11:08:35+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD remains sideways around $4,050 during US NFP week",
-      "summary": "Gold price (XAU/USD) remains in a tight range at around $4,050 during the European trading session on Tuesday. The precious metal struggles to get direction, with investors awaiting the United States (US) Nonfarm Payrolls (NFP) data for July, which will be released later this week.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-remains-sideways-around-4-050-during-us-nfp-week-202608041045",
-      "published": "2026-08-04T10:45:48+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen weakens despite intervention warnings as USD/JPY rebounds near 158",
-      "summary": "USD/JPY trades around 157.95 on Tuesday at the time of writing, up 0.49% on the day.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-despite-intervention-warnings-as-usd-jpy-rebounds-near-158-202608041038",
-      "published": "2026-08-04T10:38:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CHF Price Forecast: Dollar, capped at 0.8100, hints at a potential “H&S” pattern",
-      "summary": "The US Dollar (USD) shows marginal losses against the Swiss Franc (CHF) on Tuesday, as Dollar bulls struggle to find acceptance above 0.8100.",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-dollar-capped-at-08100-hints-at-a-potential-hs-pattern-202608041010",
-      "published": "2026-08-04T10:10:18+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -306,15 +261,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vf1r4p/could_gold_be_setting_up_for_a_rebound/\"> <img alt=\"Could GOLD be setting up for a rebound?\" src=\"https://preview.redd.it/lbi8inuqsahh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87070fa37d4cce2f359a2164da0179b2959cb972\" title=\"Could GOLD be setting up for a rebound?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><",
       "link": "https://www.reddit.com/r/Forex/comments/1vf1r4p/could_gold_be_setting_up_for_a_rebound/",
       "published": "2026-08-04T05:57:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee struggles for direction as RBI policy awaited",
-      "summary": "The Indian Rupee (INR) trades flat at around 95.33 against the US Dollar (USD) on Tuesday. The Indian currency is expected to trade sideways as investors await the Reserve Bank of India’s (RBI) monetary policy announcement on Wednesday.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-flattens-as-focus-shifts-to-rbi-policy-202608040548",
-      "published": "2026-08-04T05:48:07+00:00",
       "score": 1
     },
     {
@@ -417,33 +363,6 @@
       "score": 3
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Global central bank gold purchases rose +62 tonnes YoY in Q2 2026, to 289 tonnes, the biggest quarterly addition since Q4 2024. Quarter-over-quarter, gold purchases surged +231 tonnes, or +407%. Year-to-date, central banks have acquired +345 tonnes of gold. Poland has led these purchases at +82 tonnes, bringing its total reserves to a record 632 tonnes. Uzbekistan and China followed, adding +41 tonnes and +40 tonnes, respectively, so far this year. Central banks continue to accumulate gold at a rapid pace.",
-      "summary": "<p>BREAKING: Global central bank gold purchases rose +62 tonnes YoY in Q2 2026, to 289 tonnes, the biggest quarterly addition since Q4 2024.<br />\n<br />\nQuarter-over-quarter, gold purchases surged +231 tonnes, or +407%.<br />\n<br />\nYear-to-date, central banks have acquired +345 tonnes of gold.<br />\n<br />\nPoland has led these purchases at +82 tonnes, bringing its total reserves to a record 632 ",
-      "link": "https://nitter.net/KobeissiLetter/status/2084067946784276981#m",
-      "published": "2026-08-03T00:04:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: US stock market futures rise after President Trump calls off strikes on Iran and says a deal is near: 1. S&P 500: +0.5% 2. Nasdaq 100: +0.8% 3. Dow Jones: +0.4% 4. WTI Crude: -7.5% 5. Brent: -10.0% 6. Gold: +0.7% Peace deal headlines are back.",
-      "summary": "<p>BREAKING: US stock market futures rise after President Trump calls off strikes on Iran and says a deal is near:<br />\n<br />\n1. S&amp;P 500: +0.5%<br />\n2. Nasdaq 100: +0.8%<br />\n3. Dow Jones: +0.4%<br />\n4. WTI Crude: -7.5%<br />\n5. Brent: -10.0%<br />\n6. Gold: +0.7%<br />\n<br />\nPeace deal headlines are back.</p>",
-      "link": "https://nitter.net/KobeissiLetter/status/2084037538356892010#m",
-      "published": "2026-08-02T22:04:03+00:00",
-      "score": 4
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: US oil prices crash below $79/barrel after President Trump cancels US strikes on Iran and says a deal is near.",
-      "summary": "<p>BREAKING: US oil prices crash below $79/barrel after President Trump cancels US strikes on Iran and says a deal is near.</p>\n<img src=\"https://nitter.net/pic/media%2FHOv8flQWYAIzfXV.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2084036898977144985#m",
-      "published": "2026-08-02T22:01:30+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "XAUUSD OUTLOOK FOR MONDAY",
@@ -460,24 +379,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vdqwxw/gold_the_only_zone_im_watching_this_week/",
       "published": "2026-08-02T19:20:43+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The Kobeissi Letter for the week of August 3rd has been published and may be viewed through the link below: https://tinyurl.com/TheKobeissiLetter The Chart of the Week for the week of August 3rd has been published. View or sign up for FREE through the link below: https://tinyurl.com/TKLChartofWeek",
-      "summary": "<p>The Kobeissi Letter for the week of August 3rd has been published and may be viewed through the link below:<br />\n<br />\n<a href=\"https://tinyurl.com/TheKobeissiLetter\">tinyurl.com/TheKobeissiLette…</a><br />\n<br />\nThe Chart of the Week for the week of August 3rd has been published. View or sign up for FREE through the link below:<br />\n<br />\n<a href=\"https://tinyurl.com/TKLChartofWeek\">tinyu",
-      "link": "https://nitter.net/KobeissiLetter/status/2083983670956666930#m",
-      "published": "2026-08-02T18:30:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gap on gold when Market open",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vdp0tw/gap_on_gold_when_market_open/\"> <img alt=\"Gap on gold when Market open\" src=\"https://preview.redd.it/45t6wdva50hh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1621ea0b5b81417f64e1558fdcaaf5fed0e00657\" title=\"Gap on gold when Market open\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>There will be a not small gap ",
-      "link": "https://www.reddit.com/r/Forex/comments/1vdp0tw/gap_on_gold_when_market_open/",
-      "published": "2026-08-02T18:08:01+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
