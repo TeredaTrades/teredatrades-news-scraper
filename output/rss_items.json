@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-04T17:22:08.400547+00:00",
-  "count": 56,
+  "updated_at": "2026-08-04T19:08:06.702045+00:00",
+  "count": 51,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Range trade with upside risk against US Dollar – Scotiabank",
+      "summary": "Scotiabank’s Global FX Strategy team notes that Sterling remains modestly firmer, with GBP/USD continuing to pivot around long-term moving averages near 1.34.",
+      "link": "https://www.fxstreet.com/news/british-pound-range-trade-with-upside-risk-against-us-dollar-scotiabank-202608041831",
+      "published": "2026-08-04T18:31:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Qatar's Emir and Trump discuss efforts to reduce escalation and converge viewpoints between US and Iran - Emir's Office",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9707317/Qatars-Emir-and-Trump-discuss-efforts-to-reduce-escalation-and-converge-viewpoints-between-US-and-Iran---Emirs-Office.aspx?xy=rss",
+      "published": "2026-08-04T18:11:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold shines and rises on Iran’s deal hopes, lower US yields",
+      "summary": "Gold (XAU/USD) advances some 0.75% on Tuesday as Oil prices fall, along with US Treasury yields. Also, an improvement in risk appetite propelled the yellow metal to a two-day peak of $4,106.",
+      "link": "https://www.fxstreet.com/news/gold-shines-and-rises-on-irans-deal-hopes-lower-us-yields-202608041753",
+      "published": "2026-08-04T17:53:32+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: 200-day SMA caps rebound after intervention-led selloff",
+      "summary": "USD/JPY trades modestly higher on Tuesday despite a softer US Dollar (USD), as the impact of recent intervention fades and the Japanese Yen (JPY) comes under pressure again.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-200-day-sma-caps-rebound-after-intervention-led-selloff-202608041747",
+      "published": "2026-08-04T17:47:04+00:00",
+      "score": 1
+    },
     {
       "source": "Kobeissi Letter",
       "category": "twitter",
@@ -10,15 +46,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2084679087247749262#m",
       "published": "2026-08-04T16:33:20+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: The Trump Administration is preparing to set a price floor and tariffs on imports of polysilicon and derivative products used in chips and solar panels - Sources.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707206/The-Trump-Administration-is-preparing-to-set-a-price-floor-and-tariffs-on-imports-of-polysilicon-and-derivative-products-used-in-chips-and-solar-panels---Sources.aspx?xy=rss",
-      "published": "2026-08-04T16:03:52+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -75,24 +102,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 52-Week Bill Auction",
-      "summary": "<ul><li>High Yield 3.880%</li><li>Bid-to-cover 3.62</li><li>Sells $52 bln</li><li>Awards 12.98% of bids at high</li></ul>",
-      "link": "https://www.financialjuice.com/News/9707163/US-52-Week-Bill-Auction.aspx?xy=rss",
-      "published": "2026-08-04T15:33:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 52-Week Bill High Yield Actual 3.88% (Forecast -, Previous 3.860%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707162/US-52-Week-Bill-High-Yield-Actual-388-Forecast---Previous-3860.aspx?xy=rss",
-      "published": "2026-08-04T15:32:04+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "US Dollar Index: Rally questioned as safe-haven role tested – Rabobank",
@@ -117,24 +126,6 @@
       "summary": "<p>Onchain investors are piling into tokenized US Treasuries.<br />\n<br />\nTotal onchain Treasury funds now have a record high market cap of $16.2 billion, up +77% year-to-date.<br />\n<br />\nBut, why?<br />\n<br />\nThe growth is being driven by a surge in demand to earn a yield onchain by using US Treasury Bills as collateral. <br />\n<br />\nIncreasingly, users are depositing tokenized Treasuries, b",
       "link": "https://nitter.net/KobeissiLetter/status/2084658081896505659#m",
       "published": "2026-08-04T15:09:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia: Nvidia Alpamayo 2 Super, the frontier open model for robotaxis and autonomous vehicles, now available for commercial use. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707129/Nvidia-Nvidia-Alpamayo-2-Super-the-frontier-open-model-for-robotaxis-and-autonomous-vehicles-now-available-for-commercial-use-NVDA.aspx?xy=rss",
-      "published": "2026-08-04T15:06:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: DDN and Nvidia Collaborate on GPU-Initiated Data Access for AI $NVDA",
-      "summary": "<div><ul><li>DDN and Nvidia are collaborating under the Storage-Next initiative to improve AI infrastructure efficiency</li><li>The companies are developing capabilities that allow GPUs to initiate data operations directly, reducing latency and improving data access</li><li>The collaboration is designed to keep GPU resources more fully utilized and accelerate AI workloads at scale</li><li>The new ",
-      "link": "https://www.financialjuice.com/News/9707125/DDN-and-Nvidia-Collaborate-on-GPU-Initiated-Data-Access-for-AI-NVDA.aspx?xy=rss",
-      "published": "2026-08-04T15:02:05+00:00",
       "score": 1
     },
     {
@@ -192,15 +183,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Dip after FOMC but strength expected – HSBC",
-      "summary": "HSBC strategists discuss the US Dollar (USD) reaction to the July Federal Open Market Committee (FOMC) meeting, where the Federal Reserve (Fed) kept rates at 3.50-3.75% despite some dissent for a hike.",
-      "link": "https://www.fxstreet.com/news/us-dollar-dip-after-fomc-but-strength-expected-hsbc-202608041347",
-      "published": "2026-08-04T13:47:17+00:00",
-      "score": 4
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "R to @KobeissiLetter: On Friday, we posted the below alert for our premium members. We called for the S&P 500 to rise above 7600 and hit new record highs. Today, these longs are up +200 points in a matter of days. Subscribe to access our premium analysis below: http://thekobeissiletter.com/subscribe",
@@ -219,15 +201,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar weakens as Oil prices slide on US-Iran deal hopes",
-      "summary": "USD/CAD reverses its earlier losses on Tuesday as falling Oil prices weigh on the commodity-linked Canadian Dollar (CAD) following comments from US Treasury Secretary Scott Bessent on US-Iran talks.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-as-oil-prices-slide-on-us-iran-deal-hopes-202608041329",
-      "published": "2026-08-04T13:29:27+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Anthropic has signed a $10 billion deal for computing capacity with Volta, a months-old infrastructure startup backed by Nvidia, $NVDA. Details include: 1. The agreement runs 6 years and will be delivered in partnership with Bitdeer Technologies, a Bitcoin miner that operates data centers 2. The data center site in Norway offers 133MW of capacity and will be operated with Nvidia’s newest Vera Rubin chips 3. Volta announced today that it raised $300 million in venture funding, valuing it at $2.4 billion The race for compute continues.",
@@ -235,15 +208,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2084623916744544484#m",
       "published": "2026-08-04T12:54:06+00:00",
       "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Tired and angry of this BOJ intervention BS",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Man, I am angry, very angry with this BS from BOJ messing up my gold trades. It is SO annoying. Last week was the same BS, trades were doing great until this BS started.</p> <p>When are they gonna learn they can't control de market by force! they will burn this 50 billion and yen will go back to 160 in a matter of weeks. </p> <p>Is anyone elses trades going bad fr",
-      "link": "https://www.reddit.com/r/Forex/comments/1vf7qys/tired_and_angry_of_this_boj_intervention_bs/",
-      "published": "2026-08-04T11:32:50+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -282,30 +246,12 @@
       "score": 2
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The S&P 500 surges above 7,600 for the first time since June 3rd, now up +1.5% today. Despite all the noise, we are just 20 point away from a new record high.",
-      "summary": "<p>BREAKING: The S&amp;P 500 surges above 7,600 for the first time since June 3rd, now up +1.5% today.<br />\n<br />\nDespite all the noise, we are just 20 point away from a new record high.</p>\n<img src=\"https://nitter.net/pic/media%2FHO0XmJPWQAA0esQ.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2084348150131634558#m",
-      "published": "2026-08-03T18:38:18+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "EURUSD finally did something after all this time lol",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1velybt/eurusd_finally_did_something_after_all_this_time/\"> <img alt=\"EURUSD finally did something after all this time lol\" src=\"https://preview.redd.it/5xp9nrn7f7hh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=950b453648b320831a5a8b666b8ac72fec7d883a\" title=\"EURUSD finally did something after all this time lol\" /> </a> </td><t",
       "link": "https://www.reddit.com/r/Forex/comments/1velybt/eurusd_finally_did_something_after_all_this_time/",
       "published": "2026-08-03T18:38:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "US business investment in software remains robust. In Q1 2026, US businesses invested an annualized $797.6 billion in software. That is nearly 2x the pace seen a decade ago and one of the highest levels on record. As AI adoption accelerates, software is increasingly becoming core infrastructure rather than a discretionary expense. In our view, this reflects the next phase of the AI boom. It will no longer be about simply building new AI models. Rather, it will be about companies investing trillions of dollars to deploy these models across various industries.",
-      "summary": "<p>US business investment in software remains robust.<br />\n<br />\nIn Q1 2026, US businesses invested an annualized $797.6 billion in software. <br />\n<br />\nThat is nearly 2x the pace seen a decade ago and one of the highest levels on record.<br />\n<br />\nAs AI adoption accelerates, software is increasingly becoming core infrastructure rather than a discretionary expense.<br />\n<br />\nIn our view",
-      "link": "https://nitter.net/KobeissiLetter/status/2084345839724490821#m",
-      "published": "2026-08-03T18:29:08+00:00",
       "score": 1
     },
     {
@@ -334,6 +280,15 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vdzzjg/manual_trading_strategy/",
       "published": "2026-08-03T01:47:27+00:00",
       "score": 3
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "XAUUSD OUTLOOK FOR MONDAY",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vdu3p3/xauusd_outlook_for_monday/\"> <img alt=\"XAUUSD OUTLOOK FOR MONDAY\" src=\"https://preview.redd.it/basvv0zs41hh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b29a9c18fe50af286d9bf4cff0aadff888a22c94\" title=\"XAUUSD OUTLOOK FOR MONDAY\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>📊 XAUUSD 1H TECHNICAL OUTLOOK</p> <p>Gol",
+      "link": "https://www.reddit.com/r/Forex/comments/1vdu3p3/xauusd_outlook_for_monday/",
+      "published": "2026-08-02T21:27:01+00:00",
+      "score": 4
     },
     {
       "source": "r/Forex",
