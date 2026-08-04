@@ -1,7 +1,160 @@
 {
-  "updated_at": "2026-08-04T19:08:06.702045+00:00",
-  "count": 51,
+  "updated_at": "2026-08-04T20:44:06.202936+00:00",
+  "count": 64,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Vietnam Dong: Stable despite widening trade deficit – Commerzbank",
+      "summary": "Commerzbank analysts note that Vietnam’s July inflation eased to 4.5% year-on-year, keeping the average near the 4.5% target, while the trade deficit widened to USD 3.6 billion on strong import growth driven by energy and capital goods.",
+      "link": "https://www.fxstreet.com/news/vietnam-dong-stable-despite-widening-trade-deficit-commerzbank-202608042034",
+      "published": "2026-08-04T20:34:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "summary": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
+      "published": "2026-08-04T20:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "summary": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
+      "published": "2026-08-04T20:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+      "summary": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
+      "published": "2026-08-04T20:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "trading is soo hard",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vflos5/trading_is_soo_hard/\"> <img alt=\"trading is soo hard\" src=\"https://preview.redd.it/mspfrbf71fhh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=872aac88ef410487fcc5056ef9e40f036bfed060\" title=\"trading is soo hard\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/mspfrbf71fhh1.png?width=16",
+      "link": "https://www.reddit.com/r/Forex/comments/1vflos5/trading_is_soo_hard/",
+      "published": "2026-08-04T20:15:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: As we grow defense production, will issue more to allies.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9707462/Trump-As-we-grow-defense-production-will-issue-more-to-allies.aspx",
+      "published": "2026-08-04T20:15:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The S&P 500 closes at its highest level on record, adding +$1.2 trillion in market cap today.",
+      "summary": "<p>BREAKING: The S&amp;P 500 closes at its highest level on record, adding +$1.2 trillion in market cap today.</p>\n<img src=\"https://nitter.net/pic/media%2FHO52IWQXsAA258x.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2084733567431569441#m",
+      "published": "2026-08-04T20:09:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: Oil extends collapse on Hormuz reopening reports, Silver surges",
+      "summary": "Oil prices extended their slide on Tuesday after reports that an announcement on the reopening of the Strait of Hormuz could come within hours.",
+      "link": "https://www.fxstreet.com/news/forex-today-oil-extends-collapse-on-hormuz-reopening-reports-silver-surges-202608041951",
+      "published": "2026-08-04T19:51:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Gains risk watched below 1.2790 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang notes USD/SGD’s recent downside bias has faded after a dip to 1.2790 and recovery to 1.2827.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-gains-risk-watched-below-12790-against-us-dollar-uob-202608041951",
+      "published": "2026-08-04T19:51:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: -4479 mln<br />Nasdaq 100: -3646 mln<br />Dow 30: -423 mln<br />Mag 7: -684 mln",
+      "link": "https://www.financialjuice.com/News/9707433/MOC-Imbalance.aspx",
+      "published": "2026-08-04T19:50:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: SpaceX, $SPCX, announces a new partnership with Nvidia, $NVDA, to design its Starmind AI-1 payload, bringing data center-class compute into orbit. The partnership will use Nvidia’s Rubin GPUs and Vera CPUs, while increasing SpaceX’s peak satellite computing capacity to 250 kW.",
+      "summary": "<p>BREAKING: SpaceX, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SPCX\">$SPCX</a>, announces a new partnership with Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, to design its Starmind AI-1 payload, bringing data center-class compute into orbit.<br />\n<br />\nThe partnership will use Nvidia’s Rubin GPUs and Vera CPUs, while increasing SpaceX’s peak satellite ",
+      "link": "https://nitter.net/KobeissiLetter/status/2084727346968363234#m",
+      "published": "2026-08-04T19:45:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SpaceX: Starmind satellites to include Nvidia Rubin GPUs. $SPCX $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9707428/SpaceX-Starmind-satellites-to-include-Nvidia-Rubin-GPUs-SPCX-NVDA.aspx",
+      "published": "2026-08-04T19:33:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SpaceX: SpaceX is partnering with Nvidia to design the starmind am satellite compute payload. $SPCX $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9707427/SpaceX-SpaceX-is-partnering-with-Nvidia-to-design-the-starmind-am-satellite-compute-payload-SPCX-NVDA.aspx",
+      "published": "2026-08-04T19:32:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SpaceX: SpaceX is partnering with Nvidia. $SPCX $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9707424/SpaceX-SpaceX-is-partnering-with-Nvidia-SPCX-NVDA.aspx",
+      "published": "2026-08-04T19:32:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso rallies to six-week high on Hormuz deal speculation",
+      "summary": "The Mexican Peso (MXN) surges to a six-week high on Tuesday as talks between the US and Iran could reopen the Strait of Hormuz, easing global inflationary pressures by freeing ship traffic. At the time of writing, the USD/MXN pair trades at 17.26, after reaching a high of 17.33.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rallies-to-a-one-month-high-on-hormuz-deal-speculation-202608041928",
+      "published": "2026-08-04T19:28:37+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "US stocks are cheap despite trading at all time highs. The S&P 500's forward P/E premium relative to global equities is down to ~22%, the lowest since 2020. This marks a significant decline from ~50% seen in Q2 2024. This is also in-line with the levels seen in 2018-2019 and below the 10-year average of 31%. This comes as US earnings are proving exceptionally strong, with S&P 500 profits currently tracking +28.7% YoY growth. By comparison, European companies' earnings growth is tracking at +14.4% YoY, or HALF of US levels. Many US stocks are getting cheaper as they go up.",
+      "summary": "<p>US stocks are cheap despite trading at all time highs.<br />\n<br />\nThe S&amp;P 500's forward P/E premium relative to global equities is down to ~22%, the lowest since 2020.<br />\n<br />\nThis marks a significant decline from ~50% seen in Q2 2024.<br />\n<br />\nThis is also in-line with the levels seen in 2018-2019 and below the 10-year average of 31%.<br />\n<br />\nThis comes as US earnings are p",
+      "link": "https://nitter.net/KobeissiLetter/status/2084722287480389853#m",
+      "published": "2026-08-04T19:25:00+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Wednesday FX Options Expiries",
+      "summary": "<ul><li><strong>USD/JPY:</strong> 165.45 ($1.12b), 164.50 ($1.01b), 155.35 ($980m)</li><li><strong>EUR/USD:</strong> 1.1500 (EU1.72b), 1.1450 (EU985.5m), 1.1465 (EU984.1m)</li><li><strong>AUD/USD:</strong> 0.7250 (AUD731m), 0.6950 (AUD538.4m), 0.7000 (AUD423.1m)</li><li><strong>USD/CAD:</strong> 1.3955 ($776.2m), 1.3210 ($375m), 1.4055 ($319.6m)</li><li><strong>GBP/USD:</strong> 1.3430 (GBP530.9m)",
+      "link": "https://www.financialjuice.com/News/9707400/Wednesday-FX-Options-Expiries.aspx",
+      "published": "2026-08-04T19:21:36+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -9,15 +162,6 @@
       "summary": "Scotiabank’s Global FX Strategy team notes that Sterling remains modestly firmer, with GBP/USD continuing to pivot around long-term moving averages near 1.34.",
       "link": "https://www.fxstreet.com/news/british-pound-range-trade-with-upside-risk-against-us-dollar-scotiabank-202608041831",
       "published": "2026-08-04T18:31:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Qatar's Emir and Trump discuss efforts to reduce escalation and converge viewpoints between US and Iran - Emir's Office",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707317/Qatars-Emir-and-Trump-discuss-efforts-to-reduce-escalation-and-converge-viewpoints-between-US-and-Iran---Emirs-Office.aspx?xy=rss",
-      "published": "2026-08-04T18:11:18+00:00",
       "score": 1
     },
     {
@@ -46,6 +190,24 @@
       "link": "https://nitter.net/KobeissiLetter/status/2084679087247749262#m",
       "published": "2026-08-04T16:33:20+00:00",
       "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. EYES POLYSILICON PRICE FLOOR The Trump administration is preparing a price floor and new tariffs on polysilicon and related products later this month, according to Reuters. The move aims to protect U.S. producers Hemlock Semiconductor (Corning: $GLW) and Wacker Chemie (ETR: WCH) from growing Chinese competition and strengthen domestic supply chains for solar panels, semiconductors, AI, and energy.",
+      "summary": "<p>U.S. EYES POLYSILICON PRICE FLOOR<br />\n<br />\nThe Trump administration is preparing a price floor and new tariffs on polysilicon and related products later this month, according to Reuters.<br />\n<br />\nThe move aims to protect U.S. producers Hemlock Semiconductor (Corning: <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GLW\">$GLW</a>) and Wacker Chemie (ETR: WCH) from growing Chinese com",
+      "link": "https://nitter.net/DeItaone/status/2084672356329410958#m",
+      "published": "2026-08-04T16:06:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ADMINISTRATION PREPARING TO SET PRICE FLOOR, TARIFFS ON IMPORTS OF POLYSILICON AND DERIVATIVE PRODUCTS USED IN CHIPS AND SOLAR PANELS-SOURCES",
+      "summary": "<p>TRUMP ADMINISTRATION PREPARING TO SET PRICE FLOOR, TARIFFS ON IMPORTS OF POLYSILICON AND DERIVATIVE PRODUCTS USED IN CHIPS AND SOLAR PANELS-SOURCES</p>",
+      "link": "https://nitter.net/DeItaone/status/2084671559432634684#m",
+      "published": "2026-08-04T16:03:25+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
@@ -147,40 +309,22 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold recovers as Hormuz reopening hopes drag US Dollar, Oil prices lower",
-      "summary": "Gold (XAU/USD) catches a fresh bid on Tuesday as traders react to encouraging headlines about the possible reopening of the Strait of Hormuz. At the time of writing, XAU/USD trades around $4,087, recovering from an intraday low near $4,042.",
-      "link": "https://www.fxstreet.com/news/gold-recovers-as-hormuz-reopening-hopes-drag-us-dollar-oil-prices-lower-202608041427",
-      "published": "2026-08-04T14:27:11+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed's Paulson: Underlying inflation is too high",
-      "summary": "Anna Paulson, President of the Federal Reserve (Fed) Bank of Philadelphia,  said in an interview with CNBC on Tuesday that underlying inflation remains too high and that monetary policy needs to stay mildly restrictive, adding that the current environment likely meets that description.",
-      "link": "https://www.fxstreet.com/news/feds-paulson-underlying-inflation-is-too-high-202608041420",
-      "published": "2026-08-04T14:20:58+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar climbs above 0.7000 as hopes of an Iran deal lift risk sentiment",
-      "summary": "AUD/USD trades around 0.7035 on Tuesday at the time of writing, up 0.50% on the day. The pair is supported by improving market sentiment after US Treasury Secretary Scott Bessent said that an agreement with Iran to reopen the Strait of Hormuz could be reached as soon as Tuesday or Wednesday.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-above-07000-as-hopes-of-an-iran-deal-lift-risk-sentiment-202608041414",
-      "published": "2026-08-04T14:14:41+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "MORGAN STANLEY: OPEN AI MODELS EXPAND THE MARKET Morgan Stanley says the rise of open-weight AI models such as Kimi K3, Qwen, and Llama should accelerate AI adoption by lowering costs, not hurt the industry's leaders. The bank argues cheaper AI will drive broader enterprise usage, citing the \"Jevons Paradox.\" Morgan Stanley expects open and closed models to coexist, with 63% of enterprises already using both. It says Nvidia remains the biggest winner regardless of which AI model architecture prevails, as demand for AI computing infrastructure continues to grow.",
+      "summary": "<p>MORGAN STANLEY: OPEN AI MODELS EXPAND THE MARKET<br />\n<br />\nMorgan Stanley says the rise of open-weight AI models such as Kimi K3, Qwen, and Llama should accelerate AI adoption by lowering costs, not hurt the industry's leaders.<br />\n<br />\nThe bank argues cheaper AI will drive broader enterprise usage, citing the \"Jevons Paradox.\"<br />\n<br />\nMorgan Stanley expects open and closed models t",
+      "link": "https://nitter.net/DeItaone/status/2084647801619669320#m",
+      "published": "2026-08-04T14:29:01+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States: Growth impulse questioned – Standard Chartered",
-      "summary": "Standard Chartered analysts Dan Pan and Steve Englander discuss the Federal Reserve’s Financial Conditions Impulse on Growth (FCI-G) index, noting it was highly accommodative in May 2026 and still supportive after the July FOMC.",
-      "link": "https://www.fxstreet.com/news/united-states-growth-impulse-questioned-standard-chartered-202608041412",
-      "published": "2026-08-04T14:12:18+00:00",
-      "score": 2
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "NASDAQ EXTENDS GAINS, LAST UP 2.1%",
+      "summary": "<p>NASDAQ EXTENDS GAINS, LAST UP 2.1%</p>",
+      "link": "https://nitter.net/DeItaone/status/2084643511287099645#m",
+      "published": "2026-08-04T14:11:58+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -189,6 +333,15 @@
       "summary": "<p>On Friday, we posted the below alert for our premium members.<br />\n<br />\nWe called for the S&amp;P 500 to rise above 7600 and hit new record highs.<br />\n<br />\nToday, these longs are up +200 points in a matter of days.<br />\n<br />\nSubscribe to access our premium analysis below:<br />\n<br />\n<a href=\"http://thekobeissiletter.com/subscribe\">thekobeissiletter.com/subscr…</a></p>\n<img src=\"http",
       "link": "https://nitter.net/KobeissiLetter/status/2084633371926274265#m",
       "published": "2026-08-04T13:31:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "S&P 500 HITS INTRADAY RECORD HIGH, LAST UP 0.5%",
+      "summary": "<p>S&amp;P 500 HITS INTRADAY RECORD HIGH, LAST UP 0.5%</p>",
+      "link": "https://nitter.net/DeItaone/status/2084633269031551132#m",
+      "published": "2026-08-04T13:31:16+00:00",
       "score": 1
     },
     {
@@ -284,15 +437,6 @@
     {
       "source": "r/Forex",
       "category": "reddit",
-      "title": "XAUUSD OUTLOOK FOR MONDAY",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vdu3p3/xauusd_outlook_for_monday/\"> <img alt=\"XAUUSD OUTLOOK FOR MONDAY\" src=\"https://preview.redd.it/basvv0zs41hh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b29a9c18fe50af286d9bf4cff0aadff888a22c94\" title=\"XAUUSD OUTLOOK FOR MONDAY\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>📊 XAUUSD 1H TECHNICAL OUTLOOK</p> <p>Gol",
-      "link": "https://www.reddit.com/r/Forex/comments/1vdu3p3/xauusd_outlook_for_monday/",
-      "published": "2026-08-02T21:27:01+00:00",
-      "score": 4
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
       "title": "Gold: The Only Zone I'm Watching This Week",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vdqwxw/gold_the_only_zone_im_watching_this_week/\"> <img alt=\"Gold: The Only Zone I'm Watching This Week\" src=\"https://preview.redd.it/4ima7xu9i0hh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8638a73ee12ca193764953ac3ce49aba88b1e925\" title=\"Gold: The Only Zone I'm Watching This Week\" /> </a> </td><td> <!-- SC_OFF --><div clas",
       "link": "https://www.reddit.com/r/Forex/comments/1vdqwxw/gold_the_only_zone_im_watching_this_week/",
@@ -329,18 +473,18 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-      "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
       "published": "2026-07-30T15:00:00+00:00",
       "score": 1
     },
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
       "published": "2026-07-30T15:00:00+00:00",
       "score": 1
     },
@@ -419,15 +563,6 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
-      "summary": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
-      "published": "2026-06-25T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
       "title": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
       "summary": "Federal Reserve Board issues enforcement action with employee of Bank of Eufaula and S N B Bancshares, Inc.",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm",
@@ -437,28 +572,10 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
-      "summary": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
-      "published": "2026-06-24T20:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
-      "summary": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
-      "published": "2026-06-22T12:45:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
-      "summary": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
-      "published": "2026-06-18T19:00:00+00:00",
+      "title": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+      "summary": "Federal Reserve Board announces termination of enforcement action with Jiko Group, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625a.htm",
+      "published": "2026-06-25T15:00:00+00:00",
       "score": 1
     }
   ],
