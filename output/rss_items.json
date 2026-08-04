@@ -1,14 +1,59 @@
 {
-  "updated_at": "2026-08-04T02:44:26.636800+00:00",
-  "count": 80,
+  "updated_at": "2026-08-04T05:39:08.142939+00:00",
+  "count": 46,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Japan Economy Minister Kiuch: Pass-through of rising costs has been limited so far",
-      "summary": "Japan Economy Minister Minoru Kiuch said during the European trading session on Tuesday that the overall impact of increase in cost of goods has yet not been passed. Kiuch added that bothe the government and the Bank of Japan (BoJ) are closely working to achieve sustainable 2% inflation target.",
-      "link": "https://www.fxstreet.com/news/japan-economy-minister-kiuch-pass-through-of-rising-costs-has-been-limited-so-far-202608040244",
-      "published": "2026-08-04T02:44:20+00:00",
+      "title": "Euro flatlines above 1.1500 as traders turn cautious ahead of US NFP data",
+      "summary": "The EUR/USD pair holds steady around 1.1505 during the early European trading hours on Tuesday. Markets remain cautious ahead of the crucial US July jobs report, which is due later this week.",
+      "link": "https://www.fxstreet.com/news/euro-flatlines-above-11500-as-traders-turn-cautious-ahead-of-us-nfp-data-202608040447",
+      "published": "2026-08-04T04:47:19+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold flat lines above $4,050 as Fed hike bets and Iran uncertainty support safe-haven USD",
+      "summary": "Gold (XAU/USD) seesaws between tepid gains and minor losses during the Asian session on Tuesday as traders seem hesitant and opt to wait for further developments surrounding the Middle East crisis.",
+      "link": "https://www.fxstreet.com/news/gold-flat-lines-above-4-050-as-fed-hike-bets-and-iran-uncertainty-support-safe-haven-usd-202608040435",
+      "published": "2026-08-04T04:35:36+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah struggles amid geopolitical volatility, twin-deficit risks",
+      "summary": "USD/IDR halts its four-day losing streak, trading around 18,090 during the Asian hours on Tuesday. The currency pair is gaining upward momentum as the Indonesian Rupiah (IDR) faces persistent pressure.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-struggles-amid-geopolitical-volatility-twin-deficit-risks-202608040435",
+      "published": "2026-08-04T04:35:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Tuesday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608040435",
+      "published": "2026-08-04T04:35:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Saudi Arabia S&P Global July Composite PMI at 53.1 vs 53.3 in June",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9706197/Saudi-Arabia-SP-Global-July-Composite-PMI-at-531-vs-533-in-June.aspx?xy=rss",
+      "published": "2026-08-04T04:15:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: A short-term respite likely to near 160.00",
+      "summary": "The Japanese Yen (JPY) trades lower against its major currency peers on Tuesday after a rare juggernaut outperformance in the last few trading days. In the Asian session, the Japanese currency is down 0.25% to near 157.60 against the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-a-short-term-respite-likely-to-near-16000-202608040355",
+      "published": "2026-08-04T03:55:04+00:00",
       "score": 1
     },
     {
@@ -120,309 +165,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Bank of Korea: to closely monitor inflation as core rates expected to remain elevated",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9705917/Bank-of-Korea-to-closely-monitor-inflation-as-core-rates-expected-to-remain-elevated.aspx?xy=rss",
-      "published": "2026-08-04T00:17:57+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed's Warsh weighs cutting regular FOMC meetings to six from eight a year",
-      "summary": "Federal Reserve (Fed) Chair Kevin Warsh is reportedly weighing whether the US central bank should hold fewer policy meetings each year, according to the New York Times, citing four people familiar with the matter.",
-      "link": "https://www.fxstreet.com/news/fed-weighs-cutting-regular-fomc-meetings-to-six-from-eight-a-year-202608040002",
-      "published": "2026-08-04T00:02:43+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold declines to near $4,050 on US–Iran talks uncertainty",
-      "summary": "Gold price (XAU/USD) declines to near $4,050 during the early Asian session on Tuesday. The precious metal eased slightly from the recent rally after the US paused planned airstrikes against Iran. Traders will closely monitor the developments surrounding US-Iran talks for fresh impetus.",
-      "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-050-on-us-iran-talks-uncertainty-202608032319",
-      "published": "2026-08-03T23:19:53+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar slides to 0.70 as US ISM PMI, revives the US Dollar",
-      "summary": "The Aussie Dollar retraces despite an overall risk-on mood as the US Dollar recovers some ground, sponsored by positive data, and easing geopolitical tensions in the Middle East. The AUD/USD trades at 0.7000 after reaching a daily high of 0.7050.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slides-to-070-as-us-ism-pmi-revives-the-us-dollar-202608032230",
-      "published": "2026-08-03T22:30:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Leveraged ETFs in chip stocks are seeing historic capital flows. Global leveraged and inverse ETFs tracking SK Hynix now hold ~$5.5 billion in assets, the most of any single stock worldwide. This is followed by Micron, $MU, and Nvidia, $NVDA, which account for ~$5.1 billion and ~$4.8 billion in leveraged and inverse ETF assets, respectively. By comparison, Tesla, $TSLA, is the largest non-chip name on the list, with ~$3.7 billion tied to the stock. In total, semiconductor-related names account for ~$21.0 billion in leveraged and inverse ETF assets. Meanwhile, the 3x leveraged US semiconductor ETF, $SOXL, attracted +$6.9 billion in inflows in July, the largest monthly intake in the fund’s history. Chip stocks have become the center of leveraged ETF exposure.",
-      "summary": "<p>Leveraged ETFs in chip stocks are seeing historic capital flows.<br />\n<br />\nGlobal leveraged and inverse ETFs tracking SK Hynix now hold ~$5.5 billion in assets, the most of any single stock worldwide.<br />\n<br />\nThis is followed by Micron, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MU\">$MU</a>, and Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, whic",
-      "link": "https://nitter.net/KobeissiLetter/status/2084404234892570969#m",
-      "published": "2026-08-03T22:21:10+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CHF Price Forecast: Bulls target 0.8150 after SMA bounce",
-      "summary": "The USD/CHF rises by about 0.27% on Monday as traders buy the Greenback following an intervention in FX markets by US and Japanese authorities.",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-target-08150-after-sma-bounce-202608032154",
-      "published": "2026-08-03T21:54:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar holds as traders brace for New Zealand jobs data",
-      "summary": "NZD/USD trades with a flat tone near the 0.5870 zone on Monday, holding onto the bulk of last week's advance but struggling to extend it as the US Dollar (USD) regains composure.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-as-traders-brace-for-new-zealand-jobs-data-202608032136",
-      "published": "2026-08-03T21:36:05+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: Oil collapses on Iran talks, Yen holds gains",
-      "summary": "Oil prices fell sharply on Monday amid growing expectations that talks between the US and Iran will resume soon. US President Donald Trump stated that conversations are underway after Tehran said it had no plans for direct negotiations.",
-      "link": "https://www.fxstreet.com/news/forex-today-oil-collapses-on-iran-talks-yen-holds-gains-202608032043",
-      "published": "2026-08-03T20:43:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso outpaces broad US Dollar strength ahead of Banxico’s rate decision",
-      "summary": "The Mexican Peso (MXN) gains ground against the US Dollar (USD) on Monday as risk appetite increases the carry-trade appeal of the emerging-market currency, while traders await the release of the Bank of Mexico (Banxico) monetary policy meeting later this week.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-outpace-broad-us-dollar-strength-ahead-of-banxicos-day-202608031952",
-      "published": "2026-08-03T19:52:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold slips as USD rebounds, strong ISM data clouds Fed path",
-      "summary": "Gold (XAU/USD) price retreats on Monday as the US Dollar (USD) recovers some ground, even though hostilities in the Middle East paused at the request of Iran and other Middle Eastern countries, according to US President Donald Trump. The XAU/USD pair trades at $4,037, down 0.12%.",
-      "link": "https://www.fxstreet.com/news/gold-slips-as-usd-rebounds-strong-ism-data-clouds-fed-path-202608031917",
-      "published": "2026-08-03T19:17:11+00:00",
-      "score": 5
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The S&P 500 surges above 7,600 for the first time since June 3rd, now up +1.5% today. Despite all the noise, we are just 20 point away from a new record high.",
-      "summary": "<p>BREAKING: The S&amp;P 500 surges above 7,600 for the first time since June 3rd, now up +1.5% today.<br />\n<br />\nDespite all the noise, we are just 20 point away from a new record high.</p>\n<img src=\"https://nitter.net/pic/media%2FHO0XmJPWQAA0esQ.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2084348150131634558#m",
-      "published": "2026-08-03T18:38:18+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "EURUSD finally did something after all this time lol",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1velybt/eurusd_finally_did_something_after_all_this_time/\"> <img alt=\"EURUSD finally did something after all this time lol\" src=\"https://preview.redd.it/5xp9nrn7f7hh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=950b453648b320831a5a8b666b8ac72fec7d883a\" title=\"EURUSD finally did something after all this time lol\" /> </a> </td><t",
       "link": "https://www.reddit.com/r/Forex/comments/1velybt/eurusd_finally_did_something_after_all_this_time/",
       "published": "2026-08-03T18:38:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "US business investment in software remains robust. In Q1 2026, US businesses invested an annualized $797.6 billion in software. That is nearly 2x the pace seen a decade ago and one of the highest levels on record. As AI adoption accelerates, software is increasingly becoming core infrastructure rather than a discretionary expense. In our view, this reflects the next phase of the AI boom. It will no longer be about simply building new AI models. Rather, it will be about companies investing trillions of dollars to deploy these models across various industries.",
-      "summary": "<p>US business investment in software remains robust.<br />\n<br />\nIn Q1 2026, US businesses invested an annualized $797.6 billion in software. <br />\n<br />\nThat is nearly 2x the pace seen a decade ago and one of the highest levels on record.<br />\n<br />\nAs AI adoption accelerates, software is increasingly becoming core infrastructure rather than a discretionary expense.<br />\n<br />\nIn our view",
-      "link": "https://nitter.net/KobeissiLetter/status/2084345839724490821#m",
-      "published": "2026-08-03T18:29:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: CHEVRON, EXXON MADE TOO MUCH MONEY",
-      "summary": "<p>TRUMP: CHEVRON, EXXON MADE TOO MUCH MONEY</p>",
-      "link": "https://nitter.net/DeItaone/status/2084342821775884332#m",
-      "published": "2026-08-03T18:17:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: I'M NOT GOING TO LET IRAN CHARGE TO GO THROUGH HORMUZ STRAIT",
-      "summary": "<p>TRUMP: I'M NOT GOING TO LET IRAN CHARGE TO GO THROUGH HORMUZ STRAIT</p>",
-      "link": "https://nitter.net/DeItaone/status/2084342010245251125#m",
-      "published": "2026-08-03T18:13:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP: TALKING ABOUT HAVING STRAIT OPEN BY TOMORROW",
-      "summary": "<p>*TRUMP: TALKING ABOUT HAVING STRAIT OPEN BY TOMORROW</p>",
-      "link": "https://nitter.net/DeItaone/status/2084339483005087997#m",
-      "published": "2026-08-03T18:03:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP: THIS IS THE LAST CHANCE FOR IRAN TO SIGN A DEAL",
-      "summary": "<p>*TRUMP: THIS IS THE LAST CHANCE FOR IRAN TO SIGN A DEAL</p>",
-      "link": "https://nitter.net/DeItaone/status/2084338943428825511#m",
-      "published": "2026-08-03T18:01:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP TELLS HEGSETH: YOU ARE DOING A FANTASTIC JOB",
-      "summary": "<p>TRUMP TELLS HEGSETH: YOU ARE DOING A FANTASTIC JOB</p>",
-      "link": "https://nitter.net/DeItaone/status/2084336474082697311#m",
-      "published": "2026-08-03T17:51:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "META INVITED TO WHITE HOUSE TUESDAY TO DISCUSS AI SAFETY TESTING BY U.S. GOVERNMENT - COMPANY SPOKESPERSON",
-      "summary": "<p>META INVITED TO WHITE HOUSE TUESDAY TO DISCUSS AI SAFETY TESTING BY U.S. GOVERNMENT - COMPANY SPOKESPERSON</p>",
-      "link": "https://nitter.net/DeItaone/status/2084336159845409014#m",
-      "published": "2026-08-03T17:50:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: IRAN CONFLICT IS WORKING OUT VERY WELL",
-      "summary": "<p>TRUMP: IRAN CONFLICT IS WORKING OUT VERY WELL</p>",
-      "link": "https://nitter.net/DeItaone/status/2084335496025473532#m",
-      "published": "2026-08-03T17:48:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "CITADEL WARNS FED MESSAGING IS HURTING CREDIBILITY Citadel Securities said Fed Chair Kevin Warsh's policy framework is creating uncertainty by pledging to curb inflation without clearly explaining how. The firm warned that relying on higher market yields to tighten financial conditions risks a negative feedback loop, where delayed rate hikes fuel higher inflation expectations and push long-term Treasury yields even higher. Citadel said the recent selloff in Treasuries reflects growing doubts about the Fed's policy credibility.",
-      "summary": "<p>CITADEL WARNS FED MESSAGING IS HURTING CREDIBILITY<br />\n<br />\nCitadel Securities said Fed Chair Kevin Warsh's policy framework is creating uncertainty by pledging to curb inflation without clearly explaining how.<br />\n<br />\nThe firm warned that relying on higher market yields to tighten financial conditions risks a negative feedback loop, where delayed rate hikes fuel higher inflation expec",
-      "link": "https://nitter.net/DeItaone/status/2084332524264652922#m",
-      "published": "2026-08-03T17:36:13+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "IRAN SEES TRUMP FAVORING TALKS OVER ESCALATION Iranian leaders reportedly believe President Trump is seeking leverage through military threats rather than a broader war. According to sources, Tehran believes it can withstand pressure by using regional proxies and maintaining pressure on global shipping until Washington favors diplomacy. The assessment comes despite Trump's warnings of military action, with Iran insisting no direct U.S. negotiations are currently planned.",
-      "summary": "<p>IRAN SEES TRUMP FAVORING TALKS OVER ESCALATION<br />\n<br />\nIranian leaders reportedly believe President Trump is seeking leverage through military threats rather than a broader war.<br />\n<br />\nAccording to sources, Tehran believes it can withstand pressure by using regional proxies and maintaining pressure on global shipping until Washington favors diplomacy.<br />\n<br />\nThe assessment come",
-      "link": "https://nitter.net/DeItaone/status/2084326883907289155#m",
-      "published": "2026-08-03T17:13:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "R to @KobeissiLetter: On Friday, we posted the below alert for our premium members. We called for the S&P 500 to rise above 7600 and now the index is 20 points away. Objective investing is winning in this market. Subscribe to access our premium analysis below: http://thekobeissiletter.com/subscribe",
-      "summary": "<p>On Friday, we posted the below alert for our premium members.<br />\n<br />\nWe called for the S&amp;P 500 to rise above 7600 and now the index is 20 points away.<br />\n<br />\nObjective investing is winning in this market.<br />\n<br />\nSubscribe to access our premium analysis below:<br />\n<br />\n<a href=\"http://thekobeissiletter.com/subscribe\">thekobeissiletter.com/subscr…</a></p>\n<img src=\"https",
-      "link": "https://nitter.net/KobeissiLetter/status/2084318782663610674#m",
-      "published": "2026-08-03T16:41:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The Nasdaq Composite extends gains to +2.2% on the day. The S&P 500 has now added nearly +$1 trillion in market cap today.",
-      "summary": "<p>BREAKING: The Nasdaq Composite extends gains to +2.2% on the day.<br />\n<br />\nThe S&amp;P 500 has now added nearly +$1 trillion in market cap today.</p>\n<img src=\"https://nitter.net/pic/media%2FHOz8zRXWoAAioqM.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2084318705530306751#m",
-      "published": "2026-08-03T16:41:18+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "NASDAQ EXTENDS GAINS, LAST UP 2.1%",
-      "summary": "<p>NASDAQ EXTENDS GAINS, LAST UP 2.1%</p>",
-      "link": "https://nitter.net/DeItaone/status/2084317177419559364#m",
-      "published": "2026-08-03T16:35:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. OFFICIALS SAY NO NEW IRAN TALKS PLANNED: CBS U.S. officials told CBS News there are no new negotiations with Iran planned, despite President Trump's comments that talks would begin Monday. Officials said discussions continue through mediators involving U.S. envoy Steve Witkoff and the Iranian team. Meanwhile, Iran said it is not negotiating directly with the U.S., insisting current talks are with Oman and focus solely on shipping through the Strait of Hormuz.",
-      "summary": "<p>U.S. OFFICIALS SAY NO NEW IRAN TALKS PLANNED: CBS<br />\n<br />\nU.S. officials told CBS News there are no new negotiations with Iran planned, despite President Trump's comments that talks would begin Monday.<br />\n<br />\nOfficials said discussions continue through mediators involving U.S. envoy Steve Witkoff and the Iranian team.<br />\n<br />\nMeanwhile, Iran said it is not negotiating directly w",
-      "link": "https://nitter.net/DeItaone/status/2084315803613061381#m",
-      "published": "2026-08-03T16:29:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP EXPECTED TO ATTEND A ROUNDTABLE OF MINING EXECUTIVES ON FRIDAY AT U.S. STATE DEPARTMENT - SOURCES",
-      "summary": "<p>TRUMP EXPECTED TO ATTEND A ROUNDTABLE OF MINING EXECUTIVES ON FRIDAY AT U.S. STATE DEPARTMENT - SOURCES</p>",
-      "link": "https://nitter.net/DeItaone/status/2084312110763254011#m",
-      "published": "2026-08-03T16:15:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump says Iranian leadership is \"duplicitous\" and claims that the US has \"completely controlled\" the Strait of Hormuz.",
-      "summary": "<p>BREAKING: President Trump says Iranian leadership is \"duplicitous\" and claims that the US has \"completely controlled\" the Strait of Hormuz.</p>\n<img src=\"https://nitter.net/pic/media%2FHOzsxWdWcAA8Dq1.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2084301474150887515#m",
-      "published": "2026-08-03T15:32:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP SAYS IRAN PRIVATELY SEEKING TALKS *TRUMP SAYS U.S. NAVY CONTROLS STRAIT OF HORMUZ *TRUMP SAYS SANCTIONS STAY UNTIL IRAN DEAL *TRUMP SAYS IRAN WILL NEVER HAVE NUCLEAR WEAPON *TRUMP SAYS TALKS WITH IRAN ARE CONTINUING",
-      "summary": "<p>*TRUMP SAYS IRAN PRIVATELY SEEKING TALKS<br />\n<br />\n*TRUMP SAYS U.S. NAVY CONTROLS STRAIT OF HORMUZ<br />\n<br />\n*TRUMP SAYS SANCTIONS STAY UNTIL IRAN DEAL<br />\n<br />\n*TRUMP SAYS IRAN WILL NEVER HAVE NUCLEAR WEAPON<br />\n<br />\n*TRUMP SAYS TALKS WITH IRAN ARE CONTINUING</p>",
-      "link": "https://nitter.net/DeItaone/status/2084300377332105386#m",
-      "published": "2026-08-03T15:28:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: WHETHER IRAN WANTS TO ADMIT IT OR NOT, WE ARE, IN FACT, TALKING OF A SOLUTION TO A PROBLEM THAT THEY HAVE CAUSED, FOR DECADES",
-      "summary": "<p>TRUMP: WHETHER IRAN WANTS TO ADMIT IT OR NOT, WE ARE, IN FACT, TALKING OF A SOLUTION TO A PROBLEM THAT THEY HAVE CAUSED, FOR DECADES</p>",
-      "link": "https://nitter.net/DeItaone/status/2084300159425372214#m",
-      "published": "2026-08-03T15:27:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: NOTHING GETS THROUGH TO IRAN, UNLESS WE WANT IT TO, AND NOTHING WILL GET THROUGH, UNLESS A DEAL, OR TOTAL SURRENDER, IS ACCOMPLISHED",
-      "summary": "<p>TRUMP: NOTHING GETS THROUGH TO IRAN, UNLESS WE WANT IT TO, AND NOTHING WILL GET THROUGH, UNLESS A DEAL, OR TOTAL SURRENDER, IS ACCOMPLISHED</p>",
-      "link": "https://nitter.net/DeItaone/status/2084300104006009005#m",
-      "published": "2026-08-03T15:27:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: IRAN 'WILL NEVER HAVE A NUCLEAR WEAPON' President Trump accused Iran of publicly denying negotiations while privately seeking talks. He claimed the U.S. Navy fully controls access to the Strait of Hormuz, saying nothing reaches Iran without U.S. approval. Trump added sanctions and restrictions will remain until a deal—or what he called Iran's \"total surrender\"—is achieved, reiterating that \"Iran will never have a nuclear weapon.\"",
-      "summary": "<p>TRUMP: IRAN 'WILL NEVER HAVE A NUCLEAR WEAPON'<br />\n<br />\nPresident Trump accused Iran of publicly denying negotiations while privately seeking talks.<br />\n<br />\nHe claimed the U.S. Navy fully controls access to the Strait of Hormuz, saying nothing reaches Iran without U.S. approval. Trump added sanctions and restrictions will remain until a deal—or what he called Iran's \"total surrender\"—i",
-      "link": "https://nitter.net/DeItaone/status/2084300052122513731#m",
-      "published": "2026-08-03T15:27:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: IRANIAN LEADERSHIP IS UNBELIEVABLY DUPLICITOUS",
-      "summary": "<p>TRUMP: IRANIAN LEADERSHIP IS UNBELIEVABLY DUPLICITOUS</p>",
-      "link": "https://nitter.net/DeItaone/status/2084299919884468626#m",
-      "published": "2026-08-03T15:26:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump tells oil companies to \"get your retail oil prices down, now!\"",
-      "summary": "<p>BREAKING: President Trump tells oil companies to \"get your retail oil prices down, now!\"</p>\n<img src=\"https://nitter.net/pic/media%2FHOzWmYrX0AA9ZCM.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2084276772816695439#m",
-      "published": "2026-08-03T13:54:41+00:00",
       "score": 1
     },
     {
@@ -453,33 +201,6 @@
       "score": 3
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Global central bank gold purchases rose +62 tonnes YoY in Q2 2026, to 289 tonnes, the biggest quarterly addition since Q4 2024. Quarter-over-quarter, gold purchases surged +231 tonnes, or +407%. Year-to-date, central banks have acquired +345 tonnes of gold. Poland has led these purchases at +82 tonnes, bringing its total reserves to a record 632 tonnes. Uzbekistan and China followed, adding +41 tonnes and +40 tonnes, respectively, so far this year. Central banks continue to accumulate gold at a rapid pace.",
-      "summary": "<p>BREAKING: Global central bank gold purchases rose +62 tonnes YoY in Q2 2026, to 289 tonnes, the biggest quarterly addition since Q4 2024.<br />\n<br />\nQuarter-over-quarter, gold purchases surged +231 tonnes, or +407%.<br />\n<br />\nYear-to-date, central banks have acquired +345 tonnes of gold.<br />\n<br />\nPoland has led these purchases at +82 tonnes, bringing its total reserves to a record 632 ",
-      "link": "https://nitter.net/KobeissiLetter/status/2084067946784276981#m",
-      "published": "2026-08-03T00:04:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: US stock market futures rise after President Trump calls off strikes on Iran and says a deal is near: 1. S&P 500: +0.5% 2. Nasdaq 100: +0.8% 3. Dow Jones: +0.4% 4. WTI Crude: -7.5% 5. Brent: -10.0% 6. Gold: +0.7% Peace deal headlines are back.",
-      "summary": "<p>BREAKING: US stock market futures rise after President Trump calls off strikes on Iran and says a deal is near:<br />\n<br />\n1. S&amp;P 500: +0.5%<br />\n2. Nasdaq 100: +0.8%<br />\n3. Dow Jones: +0.4%<br />\n4. WTI Crude: -7.5%<br />\n5. Brent: -10.0%<br />\n6. Gold: +0.7%<br />\n<br />\nPeace deal headlines are back.</p>",
-      "link": "https://nitter.net/KobeissiLetter/status/2084037538356892010#m",
-      "published": "2026-08-02T22:04:03+00:00",
-      "score": 4
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: US oil prices crash below $79/barrel after President Trump cancels US strikes on Iran and says a deal is near.",
-      "summary": "<p>BREAKING: US oil prices crash below $79/barrel after President Trump cancels US strikes on Iran and says a deal is near.</p>\n<img src=\"https://nitter.net/pic/media%2FHOv8flQWYAIzfXV.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2084036898977144985#m",
-      "published": "2026-08-02T22:01:30+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "XAUUSD OUTLOOK FOR MONDAY",
@@ -498,30 +219,12 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The Kobeissi Letter for the week of August 3rd has been published and may be viewed through the link below: https://tinyurl.com/TheKobeissiLetter The Chart of the Week for the week of August 3rd has been published. View or sign up for FREE through the link below: https://tinyurl.com/TKLChartofWeek",
-      "summary": "<p>The Kobeissi Letter for the week of August 3rd has been published and may be viewed through the link below:<br />\n<br />\n<a href=\"https://tinyurl.com/TheKobeissiLetter\">tinyurl.com/TheKobeissiLette…</a><br />\n<br />\nThe Chart of the Week for the week of August 3rd has been published. View or sign up for FREE through the link below:<br />\n<br />\n<a href=\"https://tinyurl.com/TKLChartofWeek\">tinyu",
-      "link": "https://nitter.net/KobeissiLetter/status/2083983670956666930#m",
-      "published": "2026-08-02T18:30:00+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gap on gold when Market open",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vdp0tw/gap_on_gold_when_market_open/\"> <img alt=\"Gap on gold when Market open\" src=\"https://preview.redd.it/45t6wdva50hh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1621ea0b5b81417f64e1558fdcaaf5fed0e00657\" title=\"Gap on gold when Market open\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>There will be a not small gap ",
       "link": "https://www.reddit.com/r/Forex/comments/1vdp0tw/gap_on_gold_when_market_open/",
       "published": "2026-08-02T18:08:01+00:00",
-      "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "AI-exposed companies are delivering unprecedented earnings. S&P 500 companies are beating earnings estimates by an average of +27% so far in Q2 2026, on track for the strongest quarter in decades. Nasdaq 100 firms are exceeding expectations by more than double that margin, at +55%. The Bloomberg AI Value Chain index is beating expectations by an even larger amount, at +71%. This index includes chipmakers, cloud and data center operators, memory and hardware suppliers, networking equipment makers, and power infrastructure companies supporting AI. The AI boom is backed by extraordinary earnings results.",
-      "summary": "<p>AI-exposed companies are delivering unprecedented earnings.<br />\n<br />\nS&amp;P 500 companies are beating earnings estimates by an average of +27% so far in Q2 2026, on track for the strongest quarter in decades.<br />\n<br />\nNasdaq 100 firms are exceeding expectations by more than double that margin, at +55%.<br />\n<br />\nThe Bloomberg AI Value Chain index is beating expectations by an even l",
-      "link": "https://nitter.net/KobeissiLetter/status/2083973604086104426#m",
-      "published": "2026-08-02T17:50:00+00:00",
       "score": 2
     },
     {
@@ -549,15 +252,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I used to trade gold as a part of a group many years ago but stopped as I found out the leader was just trying to make us join the pyramid scheme which I’ve forgotten the name of now. </p> <p>I’ve picked it back up now as of May 2026 and all I can say is I trade prop firm accounts but my strategy is to full port every single trade (whilst staying in the prop firm ",
       "link": "https://www.reddit.com/r/Forex/comments/1vcxyjx/random_strategy/",
       "published": "2026-08-01T20:33:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "How do you handle London session times when analyzing historical OHLC data?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I'm analyzing <strong>1 year of EURUSD H1 OHLC data</strong> and want to split it into trading sessions.</p> <p>What confuses me is <strong>Daylight Saving Time (DST)</strong>.</p> <p>For example, the London session opens at different UTC times in summer and winter. When looking at historical broker data:</p> <ul> <li>Do brokers automatically a",
-      "link": "https://www.reddit.com/r/Forex/comments/1vcmzx9/how_do_you_handle_london_session_times_when/",
-      "published": "2026-08-01T13:08:20+00:00",
       "score": 1
     },
     {
@@ -723,5 +417,16 @@
       "score": 1
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Kobeissi Letter",
+      "type": "twitter",
+      "error": "failed to parse feed (<urlopen error [Errno 110] Connection timed out>)"
+    },
+    {
+      "source": "Walter Bloomberg",
+      "type": "twitter",
+      "error": "failed to parse feed (<urlopen error [Errno 110] Connection timed out>)"
+    }
+  ]
 }
