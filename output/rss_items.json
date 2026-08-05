@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-08-05T17:10:55.156846+00:00",
-  "count": 47,
+  "updated_at": "2026-08-05T18:55:00.123496+00:00",
+  "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Range trade holds ahead of Q2 GDP against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the British Pound (GBP) is slightly firmer versus the US Dollar (USD), with modestly better PMIs but a fading fundamental backdrop as 2-year spreads give back gains since late June.",
+      "link": "https://www.fxstreet.com/news/british-pound-range-trade-holds-ahead-of-q2-gdp-against-us-dollar-scotiabank-202608051842",
+      "published": "2026-08-05T18:42:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold rallies as Iran-US deal seems closer ahead of NFP",
+      "summary": "Gold (XAU/USD) price surges to its highest level in nearly seven weeks, gaining nearly 3.80% on Wednesday as the Greenback loses ground and US Treasury yields fail to gain traction. The XAU/USD pair trades at $4,232, its highest level since June 18, after bouncing off daily lows of $4,065.",
+      "link": "https://www.fxstreet.com/news/gold-rallies-as-iran-us-deal-seems-closer-ahead-of-nfp-202608051819",
+      "published": "2026-08-05T18:19:04+00:00",
+      "score": 5
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "OPENAI DRIVES MOST OF MICROSOFT'S AI REVENUE Microsoft disclosed it generated $24.1 billion in AI revenue from OpenAI in the year ended June, suggesting the ChatGPT maker accounts for more than half—and possibly around 70%—of its AI business. The figures highlight Microsoft's continued reliance on OpenAI, even as it develops its own AI models and invests in rivals such as Anthropic.",
+      "summary": "<p>OPENAI DRIVES MOST OF MICROSOFT'S AI REVENUE<br />\n<br />\nMicrosoft disclosed it generated $24.1 billion in AI revenue from OpenAI in the year ended June, suggesting the ChatGPT maker accounts for more than half—and possibly around 70%—of its AI business.<br />\n<br />\nThe figures highlight Microsoft's continued reliance on OpenAI, even as it develops its own AI models and invests in rivals such",
+      "link": "https://nitter.net/DeItaone/status/2085067239162626208#m",
+      "published": "2026-08-05T18:15:43+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft disclosures suggests OpenAI accounts for about 70% of AI sales. $MSFT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9709241/Microsoft-disclosures-suggests-OpenAI-accounts-for-about-70-of-AI-sales-MSFT.aspx?xy=rss",
+      "published": "2026-08-05T18:07:43+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft: OpenAI revenue reached $24.1 billion in fiscal 2026. $MSFT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9709240/Microsoft-OpenAI-revenue-reached-241-billion-in-fiscal-2026-MSFT.aspx?xy=rss",
+      "published": "2026-08-05T18:07:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft's AI sales mostly come from OpenAI, disclosures show. $MSFT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9709239/Microsofts-AI-sales-mostly-come-from-OpenAI-disclosures-show-MSFT.aspx?xy=rss",
+      "published": "2026-08-05T18:06:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc gains as US economic data disappoints and Fed hike bets weaken",
+      "summary": "The Swiss Franc (CHF) strengthens against the US Dollar (USD) on Wednesday as weaker-than-expected US economic data pressures the Greenback, while traders closely follow efforts to reopen the Strait of Hormuz. At the time of writing, USD/CHF trades around 0.8078, down nearly 0.18% on the day.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-economic-data-disappoints-and-fed-hike-bets-weaken-202608051730",
+      "published": "2026-08-05T17:30:54+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The market no longer expects the Fed to raise interest rates in September. After rising to as high as 70%, the market now sees a 47% chance of a Fed rate hike in September. If the Fed leaves rates unchanged, it will extend the Fed's longest rate pause since 2008.",
+      "summary": "<p>BREAKING: The market no longer expects the Fed to raise interest rates in September.<br />\n<br />\nAfter rising to as high as 70%, the market now sees a 47% chance of a Fed rate hike in September.<br />\n<br />\nIf the Fed leaves rates unchanged, it will extend the Fed's longest rate pause since 2008.</p>\n<img src=\"https://nitter.net/pic/media%2FHO-WkmJWAAAC8ed.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2085050710966554715#m",
+      "published": "2026-08-05T17:10:02+00:00",
+      "score": 2
+    },
     {
       "source": "r/Forex",
       "category": "reddit",
@@ -57,6 +129,24 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BOFA: S&P 500 HITS 2026 TARGET Bank of America said the S&P 500 has reached its 2026 target of 7,741, but technical indicators suggest the rally could extend toward 8,000, 8,234 and potentially 8,541. The bank sees 7,500 as key support but warns that weak August-October seasonality, stretched momentum, geopolitical risks and upcoming US payroll and inflation data could limit further gains.",
+      "summary": "<p>BOFA: S&amp;P 500 HITS 2026 TARGET<br />\n<br />\nBank of America said the S&amp;P 500 has reached its 2026 target of 7,741, but technical indicators suggest the rally could extend toward 8,000, 8,234 and potentially 8,541.<br />\n<br />\nThe bank sees 7,500 as key support but warns that weak August-October seasonality, stretched momentum, geopolitical risks and upcoming US payroll and inflation da",
+      "link": "https://nitter.net/DeItaone/status/2085030877050888431#m",
+      "published": "2026-08-05T15:51:13+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "YELLEN: INFLATION REMAINS THE KEY CHALLENGE Former Treasury Secretary and Fed Chair Janet Yellen said the US labor market is functioning well and no longer appears hot enough to fuel inflation. She added she is surprised the Middle East conflict and higher oil prices have had such a limited economic impact. Yellen said the biggest challenge remains bringing inflation down without harming the economy.",
+      "summary": "<p>YELLEN: INFLATION REMAINS THE KEY CHALLENGE<br />\n<br />\nFormer Treasury Secretary and Fed Chair Janet Yellen said the US labor market is functioning well and no longer appears hot enough to fuel inflation.<br />\n<br />\nShe added she is surprised the Middle East conflict and higher oil prices have had such a limited economic impact.<br />\n<br />\nYellen said the biggest challenge remains bringin",
+      "link": "https://nitter.net/DeItaone/status/2085023504089366691#m",
+      "published": "2026-08-05T15:21:55+00:00",
+      "score": 2
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "Silver Price Forecast: Daily momentum improves, but weekly outlook stays bearish",
@@ -64,6 +154,24 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecast-daily-momentum-improves-but-weekly-outlook-stays-bearish-202608051513",
       "published": "2026-08-05T15:13:54+00:00",
       "score": 5
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "KASHKARI CALLS FOR IMMEDIATE RATE HIKES Minneapolis Fed President Neel Kashkari said the Fed should begin raising interest rates now to bring inflation under control. Kashkari, one of three officials who dissented from last week's decision to hold rates steady, backed a 25bp hike and warned that delaying action could force the Fed to tighten more aggressively if inflation becomes entrenched.",
+      "summary": "<p>KASHKARI CALLS FOR IMMEDIATE RATE HIKES<br />\n<br />\nMinneapolis Fed President Neel Kashkari said the Fed should begin raising interest rates now to bring inflation under control.<br />\n<br />\nKashkari, one of three officials who dissented from last week's decision to hold rates steady, backed a 25bp hike and warned that delaying action could force the Fed to tighten more aggressively if inflat",
+      "link": "https://nitter.net/DeItaone/status/2085021376868425756#m",
+      "published": "2026-08-05T15:13:28+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BRAZIL'S LULA: TRUMP ADMINISTRATION'S MOVE ON BRAZILIAN AMBASSADOR VISA 'IRRESPONSIBLE'",
+      "summary": "<p>BRAZIL'S LULA: TRUMP ADMINISTRATION'S MOVE ON BRAZILIAN AMBASSADOR VISA 'IRRESPONSIBLE'</p>",
+      "link": "https://nitter.net/DeItaone/status/2085019154331951225#m",
+      "published": "2026-08-05T15:04:38+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
@@ -75,12 +183,39 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Pinned: 🇺🇸 FED SEPTEMBER: MARKETS & WALL STREET ARE SPLIT 📊 Kalshi odds: • Hold: 49% • +25bp: 47% • >25bp: 2% 🏦 Wall Street outlook: • BofA: +25bp in Sep, then Oct & Dec • JPM: Hold in Sep, hike in Dec • Goldman: Hold, no more hikes • Morgan Stanley: Hold through year-end • Barclays: Hold through year-end • Citi: Hold in Sep, then cuts in Oct, Dec & Jan https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep?utm_source=walterbloomberg",
+      "summary": "<p>🇺🇸 FED SEPTEMBER: MARKETS & WALL STREET ARE SPLIT<br />\n<br />\n📊 Kalshi odds:<br />\n• Hold: 49%<br />\n• +25bp: 47%<br />\n• &gt;25bp: 2%<br />\n<br />\n🏦 Wall Street outlook:<br />\n• BofA: +25bp in Sep, then Oct & Dec<br />\n• JPM: Hold in Sep, hike in Dec<br />\n• Goldman: Hold, no more hikes<br />\n• Morgan Stanley: Hold through year-end<br />\n• Barclays: Hold through year-end<br />\n• Citi: Hold in",
+      "link": "https://nitter.net/DeItaone/status/2085017404296286684#m",
+      "published": "2026-08-05T14:57:41+00:00",
+      "score": 2
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "US Dollar: Limited downside on softer payrolls – TD Securities",
       "summary": "TD Securities strategists expect only modest US Dollar (USD) weakness if July payrolls or the unemployment rate disappoint.",
       "link": "https://www.fxstreet.com/news/us-dollar-limited-downside-on-softer-payrolls-td-securities-202608051441",
       "published": "2026-08-05T14:41:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BOFA CEO BACKS THREE FED RATE HIKES Bank of America CEO Brian Moynihan reiterated the bank's forecast for three Fed rate hikes in September, October and December, saying the labor market remains strong while inflation still needs to ease. He also noted that spending patterns between higher- and lower-income consumers are becoming more aligned, calling it a positive sign for the economy.",
+      "summary": "<p>BOFA CEO BACKS THREE FED RATE HIKES<br />\n<br />\nBank of America CEO Brian Moynihan reiterated the bank's forecast for three Fed rate hikes in September, October and December, saying the labor market remains strong while inflation still needs to ease.<br />\n<br />\nHe also noted that spending patterns between higher- and lower-income consumers are becoming more aligned, calling it a positive sig",
+      "link": "https://nitter.net/DeItaone/status/2085012139379404936#m",
+      "published": "2026-08-05T14:36:46+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$NVDA - NVIDIA SHARES HIT HIGHEST IN OVER TWO MONTHS, LAST UP 4.3%",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - NVIDIA SHARES HIT HIGHEST IN OVER TWO MONTHS, LAST UP 4.3%</p>",
+      "link": "https://nitter.net/DeItaone/status/2085010097344811011#m",
+      "published": "2026-08-05T14:28:39+00:00",
       "score": 1
     },
     {
@@ -118,15 +253,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2085002895678734635#m",
       "published": "2026-08-05T14:00:02+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Intervention drop seen capped near 153 – TD Securities",
-      "summary": "TD Securities strategists see the recent intervention-driven USD/JPY decline as cyclical rather than regime-changing. They expect December as the more likely timing for the next Bank of Japan (BoJ) hike and doubt sustained joint US‑Japan intervention support.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-drop-seen-capped-near-153-td-securities-202608051328",
-      "published": "2026-08-05T13:28:09+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -246,24 +372,6 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: SpaceX, $SPCX, announces a new partnership with Nvidia, $NVDA, to design its Starmind AI-1 payload, bringing data center-class compute into orbit. The partnership will use Nvidia’s Rubin GPUs and Vera CPUs, while increasing SpaceX’s peak satellite computing capacity to 250 kW.",
-      "summary": "<p>BREAKING: SpaceX, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SPCX\">$SPCX</a>, announces a new partnership with Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, to design its Starmind AI-1 payload, bringing data center-class compute into orbit.<br />\n<br />\nThe partnership will use Nvidia’s Rubin GPUs and Vera CPUs, while increasing SpaceX’s peak satellite ",
-      "link": "https://nitter.net/KobeissiLetter/status/2084727346968363234#m",
-      "published": "2026-08-04T19:45:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "US stocks are cheap despite trading at all time highs. The S&P 500's forward P/E premium relative to global equities is down to ~22%, the lowest since 2020. This marks a significant decline from ~50% seen in Q2 2024. This is also in-line with the levels seen in 2018-2019 and below the 10-year average of 31%. This comes as US earnings are proving exceptionally strong, with S&P 500 profits currently tracking +28.7% YoY growth. By comparison, European companies' earnings growth is tracking at +14.4% YoY, or HALF of US levels. Many US stocks are getting cheaper as they go up.",
-      "summary": "<p>US stocks are cheap despite trading at all time highs.<br />\n<br />\nThe S&amp;P 500's forward P/E premium relative to global equities is down to ~22%, the lowest since 2020.<br />\n<br />\nThis marks a significant decline from ~50% seen in Q2 2024.<br />\n<br />\nThis is also in-line with the levels seen in 2018-2019 and below the 10-year average of 31%.<br />\n<br />\nThis comes as US earnings are p",
-      "link": "https://nitter.net/KobeissiLetter/status/2084722287480389853#m",
-      "published": "2026-08-04T19:25:00+00:00",
-      "score": 3
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "EURUSD",
@@ -297,6 +405,15 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vf1r4p/could_gold_be_setting_up_for_a_rebound/\"> <img alt=\"Could GOLD be setting up for a rebound?\" src=\"https://preview.redd.it/lbi8inuqsahh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87070fa37d4cce2f359a2164da0179b2959cb972\" title=\"Could GOLD be setting up for a rebound?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><",
       "link": "https://www.reddit.com/r/Forex/comments/1vf1r4p/could_gold_be_setting_up_for_a_rebound/",
       "published": "2026-08-04T05:57:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Is Gold Running Into Trouble Here?",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1ve8v0o/is_gold_running_into_trouble_here/\"> <img alt=\"Is Gold Running Into Trouble Here?\" src=\"https://preview.redd.it/c442xupks4hh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7d1bcb38b2d0632c83bc928733e7029dc893d5a\" title=\"Is Gold Running Into Trouble Here?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Price is appr",
+      "link": "https://www.reddit.com/r/Forex/comments/1ve8v0o/is_gold_running_into_trouble_here/",
+      "published": "2026-08-03T09:45:39+00:00",
       "score": 1
     },
     {
