@@ -1,141 +1,159 @@
 {
-  "updated_at": "2026-08-05T00:16:07.926805+00:00",
-  "count": 77,
+  "updated_at": "2026-08-05T03:44:01.845039+00:00",
+  "count": 66,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed’s Schmid: PCE price gauge is best method to assess inflation",
+      "title": "FinancialJuice: Trump on Iran: they engaged in a full-day negotiation today",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9707796/Feds-Schmid-PCE-price-gauge-is-best-method-to-assess-inflation.aspx?xy=rss",
-      "published": "2026-08-05T00:15:04+00:00",
+      "link": "https://www.financialjuice.com/News/9708075/Trump-on-Iran-they-engaged-in-a-full-day-negotiation-today.aspx?xy=rss",
+      "published": "2026-08-05T03:41:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: China finance ministry auctions 1-month bills with 0.7826% yield: traders",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9708074/China-finance-ministry-auctions-1-month-bills-with-07826-yield-traders.aspx?xy=rss",
+      "published": "2026-08-05T03:38:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD revisits monthly high near $61 as oil price plunges further",
+      "summary": "Silver price (XAG/USD) trades 1.8% higher at around $60.95 during the Asian trading session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-revisits-monthly-high-near-61-as-oil-price-plunges-further-202608050336",
+      "published": "2026-08-05T03:36:54+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: China finance ministry sells 30-year ultra-long special treasury bonds at 2.1849% yield: traders",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9708073/China-finance-ministry-sells-30-year-ultra-long-special-treasury-bonds-at-21849-yield-traders.aspx?xy=rss",
+      "published": "2026-08-05T03:36:43+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump tells Fox News: 'We're having very productive talks with Iran'",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9708054/Trump-tells-Fox-News-Were-having-very-productive-talks-with-Iran.aspx?xy=rss",
+      "published": "2026-08-05T03:09:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index declines amid easing safe-haven demand",
+      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is extending its losses for the second successive day and trading around 99.90 during the Asian session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-declines-amid-easing-safe-haven-demand-202608050231",
+      "published": "2026-08-05T02:31:56+00:00",
       "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed's Schmid: Central bank should not overlook inflation even if caused by supply shock",
+      "title": "FinancialJuice: Japan chief cabinet secretary Kihara: no comment on bond yields, set by market factors",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9707795/Feds-Schmid-Central-bank-should-not-overlook-inflation-even-if-caused-by-supply-shock.aspx?xy=rss",
-      "published": "2026-08-05T00:15:04+00:00",
+      "link": "https://www.financialjuice.com/News/9708022/Japan-chief-cabinet-secretary-Kihara-no-comment-on-bond-yields-set-by-market-factors.aspx?xy=rss",
+      "published": "2026-08-05T02:29:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound weakens as US Dollar gains despite easing safe-haven demand",
+      "summary": "GBP/USD edges lower after registering modest gains in the previous day, trading around 1.3450 during the Asian hours on Wednesday.",
+      "link": "https://www.fxstreet.com/news/british-pound-weakens-as-us-dollar-gains-despite-easing-safe-haven-demand-202608050228",
+      "published": "2026-08-05T02:28:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro edges lower below 1.1550 on Hormuz uncertainty",
+      "summary": "The EUR/USD pair trades with mild losses near 1.1530 during the Asian trading hours on Wednesday. Uncertainty surrounding US-Iran talks weighs on riskier assets such as the Euro (EUR) against the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/euro-edges-lower-below-11550-as-hormuz-uncertainty-202608050216",
+      "published": "2026-08-05T02:16:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar consolidates near 0.7050, highest since June 17 amid reviving USD demand",
+      "summary": "The AUD/USD pair struggles to break through the 100-day Simple Moving Average (SMA) pivotal barrier near mid-0.7000s and consolidates near its highest level since June 17, touched during the Asian session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-consolidates-near-07050-highest-since-june-17-amid-reviving-usd-demand-202608050206",
+      "published": "2026-08-05T02:06:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen edges higher on upbeat wages data, hawkish BoJ Minutes and soft USD",
+      "summary": "The USD/JPY pair struggles to capitalize on this week's solid bounce from the 155.25-155.20 area, or the lowest level since early May, and edges lower during the Asian session on Wednesday. Spot prices, however, lack follow-through selling and hold just above mid-157.00s amid mixed cues.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-edges-higher-on-upbeat-wages-data-hawkish-boj-minutes-and-soft-usd-202608050126",
+      "published": "2026-08-05T01:26:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7889 vs. 6.7917 previous",
+      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7889 compared to the previous day's fix of 6.7917 and 6.7480 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67889-vs-67917-previous-202608050115",
+      "published": "2026-08-05T01:15:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "The Yen carry trade is dying. Before April 2025, the USD/JPY currency pair showed a close correlation with the 10Y rate differential between US and Japanese bonds. This was driven by investors borrowing in Yen to fund higher-yielding US Dollar assets through the carry trade. That relationship broke down after \"Liberation Day,\" when trade war uncertainty triggered a surge in market volatility and forced investors to unwind some of their carry trade positions. Meanwhile, the 10Y Treasury note yield is now trading ~2.0 percentage points above the Japanese 10Y Government Bond Yield, falling -1.0 percentage point since April 2025, near the lowest gap since 2021. Yet, USD/JPY continued to move higher as the US Dollar strengthened against the Yen, despite the narrowing yield gap, breaking away from the interest rate differential that historically drove the pair. In other words, the carry trade is losing its influence, with the Yen no longer driven primarily by rate differentials as investors increasingly price in Japan’s heavy debt burden and rising debt servicing costs. Japan’s rising debt costs are becoming impossible to ignore.",
+      "summary": "<p>The Yen carry trade is dying.<br />\n<br />\nBefore April 2025, the USD/JPY currency pair showed a close correlation with the 10Y rate differential between US and Japanese bonds.<br />\n<br />\nThis was driven by investors borrowing in Yen to fund higher-yielding US Dollar assets through the carry trade.<br />\n<br />\nThat relationship broke down after \"Liberation Day,\" when trade war uncertainty tr",
+      "link": "https://nitter.net/KobeissiLetter/status/2084805628816409056#m",
+      "published": "2026-08-05T00:56:10+00:00",
       "score": 2
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Fed’s Schmid: tighter monetary policy required to bring inflation back to 2% target",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707794/Feds-Schmid-tighter-monetary-policy-required-to-bring-inflation-back-to-2-target.aspx?xy=rss",
-      "published": "2026-08-05T00:15:04+00:00",
+      "title": "US Treasury Secretary Bessent: Many Asian currencies track Yen now, including Won and Yuan",
+      "summary": "US Treasury Secretary Scott Bessent said that the weakness of the Japanese Yen (JPY) has contributed to Japan’s inflation problem and raised the risk of broader depreciation of Asian currencies, Bloomberg reported on Tuesday.",
+      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-many-asian-currencies-track-yen-now-including-won-and-yuan-202608050051",
+      "published": "2026-08-05T00:51:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Iran rejects US claim of open Strait of Hormuz",
+      "summary": "Iran rejects US Treasury Secretary Scott Bessent's and US President Donald Trump's claim that the Strait of Hormuz will open tomorrow under a new deal, Fars news agency reported on Tuesday.",
+      "link": "https://www.fxstreet.com/news/us-secretary-of-state-rubio-says-us-iran-talks-progress-deal-could-come-very-shortly-202608050035",
+      "published": "2026-08-05T00:35:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "RBI expected to hold interest rates steady amid inflation risks, data-dependent approach",
+      "summary": "The Reserve Bank of India (RBI) is set to announce its bi-monthly monetary policy decision on Wednesday at 10:00 AM IST (04:30 GMT), another meeting coming at a time when uncertainty remains high over the duration and economic fallout of the ongoing Middle East conflict.",
+      "link": "https://www.fxstreet.com/news/rbi-set-to-keep-interest-rates-unchanged-as-inflation-risks-persist-202608050030",
+      "published": "2026-08-05T00:30:00+00:00",
       "score": 2
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Fed's Schmid: labor market seems roughly balanced",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707793/Feds-Schmid-labor-market-seems-roughly-balanced.aspx?xy=rss",
-      "published": "2026-08-05T00:15:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Schmid: inflation remains 'too high' and 'worrisome'",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707792/Feds-Schmid-inflation-remains-too-high-and-worrisome.aspx?xy=rss",
-      "published": "2026-08-05T00:15:04+00:00",
+      "title": "Fed's Schmid: Tighter monetary policy required to bring inflation back to 2% target",
+      "summary": "Federal Reserve Bank of Kansas City President Jeff Schmid said on Wednesday that tighter monetary policy is needed to get inflation back to the 2% target. Schmid added that inflation is 'too high' and 'worrisome' and the current stance of Fed policy is not restrictive.",
+      "link": "https://www.fxstreet.com/news/feds-schmid-tighter-monetary-policy-required-to-bring-inflation-back-to-2-target-202608050024",
+      "published": "2026-08-05T00:24:21+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Schmid: AI investment is fueling inflation and Fed shouldn't overlook it",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707791/Feds-Schmid-AI-investment-is-fueling-inflation-and-Fed-shouldnt-overlook-it.aspx?xy=rss",
-      "published": "2026-08-05T00:15:04+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed’s Schmid: Welcomes recent inflation figures, too soon to confirm easing",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707790/Feds-Schmid-Welcomes-recent-inflation-figures-too-soon-to-confirm-easing.aspx?xy=rss",
-      "published": "2026-08-05T00:15:04+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Schmid: recent easing of energy costs could be temporary",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707789/Feds-Schmid-recent-easing-of-energy-costs-could-be-temporary.aspx?xy=rss",
-      "published": "2026-08-05T00:15:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed’s Schmid: current Fed policy stance is not tight",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707788/Feds-Schmid-current-Fed-policy-stance-is-not-tight.aspx?xy=rss",
-      "published": "2026-08-05T00:15:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Schmid: Economy doing well overall, growth remains resilient",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707787/Feds-Schmid-Economy-doing-well-overall-growth-remains-resilient.aspx?xy=rss",
-      "published": "2026-08-05T00:15:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BOJ minutes: One member noted Japan may experience inflation pass-through to wages",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707786/BOJ-minutes-One-member-noted-Japan-may-experience-inflation-pass-through-to-wages.aspx?xy=rss",
-      "published": "2026-08-05T00:10:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BOJ minutes: several members said the likelihood of Japan experiencing wages, inflation escalating significantly was low",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707785/BOJ-minutes-several-members-said-the-likelihood-of-Japan-experiencing-wages-inflation-escalating-significantly-was-low.aspx?xy=rss",
-      "published": "2026-08-05T00:09:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BOJ minutes: some members say consumer inflation set to rise significantly due to growing price hikes in second half of fiscal year",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707783/BOJ-minutes-some-members-say-consumer-inflation-set-to-rise-significantly-due-to-growing-price-hikes-in-second-half-of-fiscal-year.aspx?xy=rss",
-      "published": "2026-08-05T00:07:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoJ Minutes: One Member Notes Inflation Expectations of Firms, Households Have Risen to About 2%",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707782/BoJ-Minutes-One-Member-Notes-Inflation-Expectations-of-Firms-Households-Have-Risen-to-About-2.aspx?xy=rss",
-      "published": "2026-08-05T00:06:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BOJ minutes: one member said medium- to long-term inflation expectations start shifting as market break-even inflation rate rises above 2%",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9707781/BOJ-minutes-one-member-said-medium--to-long-term-inflation-expectations-start-shifting-as-market-break-even-inflation-rate-rises-above-2.aspx?xy=rss",
-      "published": "2026-08-05T00:05:41+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -183,24 +201,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar climbs ahead of NZ employment data",
-      "summary": "NZD/USD trades on the front foot near 0.5886 on Wednesday, advancing around 0.3% and building on the rebound that lifted the pair off the 0.5850 area.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-climbs-ahead-of-nz-employment-data-202608042228",
-      "published": "2026-08-04T22:28:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CHF Price Forecast: Trendline break puts 50-day SMA in focus",
-      "summary": "The USD/CHF retraced on Tuesday, down 0.16%, as the US Dollar weakened amid improved risk appetite, driven by renewed hopes of a US-Israel peace deal to open the Strait of Hormuz. The pair trades below 0.8100.",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-trendline-break-puts-50-day-sma-in-focus-202608042227",
-      "published": "2026-08-04T22:27:07+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "US TREASURY SECRETARY BESSENT: UPTICK IN JAPAN'S INFLATION WAS RESULT OF WEAK YEN, ENERGY PRICES",
@@ -234,15 +234,6 @@
       "summary": "<p>TRUMP ADMINISTRATION TELLS AI COMPANIES IT WILL NOT SAFETY-TEST OPEN WEIGHT AI MODELS - SOURCES FAMILIAR WITH DISCUSSIONS</p>",
       "link": "https://nitter.net/DeItaone/status/2084755331977023845#m",
       "published": "2026-08-04T21:36:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Strengthening toward 6.7300 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang sees USD/CNH trading slightly higher within a developing range, with intraday levels expected between 6.7500 and 6.7620. On a 1–3 week horizon, the pair could continue to edge lower toward 6.7300 as long as 6.7640 holds as strong resistance.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-strengthening-toward-67300-against-us-dollar-uob-202608042117",
-      "published": "2026-08-04T21:17:00+00:00",
       "score": 1
     },
     {
@@ -291,15 +282,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Vietnam Dong: Stable despite widening trade deficit – Commerzbank",
-      "summary": "Commerzbank analysts note that Vietnam’s July inflation eased to 4.5% year-on-year, keeping the average near the 4.5% target, while the trade deficit widened to USD 3.6 billion on strong import growth driven by energy and capital goods.",
-      "link": "https://www.fxstreet.com/news/vietnam-dong-stable-despite-widening-trade-deficit-commerzbank-202608042034",
-      "published": "2026-08-04T20:34:00+00:00",
-      "score": 2
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
@@ -345,33 +327,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Nothing Britain does moves the Pound against the Dollar",
-      "summary": "The Pound Sterling (GBP) trades near 1.3450 against the US Dollar (USD) on Tuesday, higher by 0.11% inside a session range of 36 pips, the second sub-40-pip day cable has produced inside a week.",
-      "link": "https://www.fxstreet.com/news/nothing-britain-does-moves-the-pound-against-the-dollar-202608041954",
-      "published": "2026-08-04T19:54:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: Oil extends collapse on Hormuz reopening reports, Silver surges",
-      "summary": "Oil prices extended their slide on Tuesday after reports that an announcement on the reopening of the Strait of Hormuz could come within hours.",
-      "link": "https://www.fxstreet.com/news/forex-today-oil-extends-collapse-on-hormuz-reopening-reports-silver-surges-202608041951",
-      "published": "2026-08-04T19:51:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Gains risk watched below 1.2790 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang notes USD/SGD’s recent downside bias has faded after a dip to 1.2790 and recovery to 1.2827.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-gains-risk-watched-below-12790-against-us-dollar-uob-202608041951",
-      "published": "2026-08-04T19:51:00+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: SpaceX, $SPCX, announces a new partnership with Nvidia, $NVDA, to design its Starmind AI-1 payload, bringing data center-class compute into orbit. The partnership will use Nvidia’s Rubin GPUs and Vera CPUs, while increasing SpaceX’s peak satellite computing capacity to 250 kW.",
@@ -381,15 +336,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso rallies to six-week high on Hormuz deal speculation",
-      "summary": "The Mexican Peso (MXN) surges to a six-week high on Tuesday as talks between the US and Iran could reopen the Strait of Hormuz, easing global inflationary pressures by freeing ship traffic. At the time of writing, the USD/MXN pair trades at 17.26, after reaching a high of 17.33.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-rallies-to-a-one-month-high-on-hormuz-deal-speculation-202608041928",
-      "published": "2026-08-04T19:28:37+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "US stocks are cheap despite trading at all time highs. The S&P 500's forward P/E premium relative to global equities is down to ~22%, the lowest since 2020. This marks a significant decline from ~50% seen in Q2 2024. This is also in-line with the levels seen in 2018-2019 and below the 10-year average of 31%. This comes as US earnings are proving exceptionally strong, with S&P 500 profits currently tracking +28.7% YoY growth. By comparison, European companies' earnings growth is tracking at +14.4% YoY, or HALF of US levels. Many US stocks are getting cheaper as they go up.",
@@ -397,33 +343,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2084722287480389853#m",
       "published": "2026-08-04T19:25:00+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Range trade with upside risk against US Dollar – Scotiabank",
-      "summary": "Scotiabank’s Global FX Strategy team notes that Sterling remains modestly firmer, with GBP/USD continuing to pivot around long-term moving averages near 1.34.",
-      "link": "https://www.fxstreet.com/news/british-pound-range-trade-with-upside-risk-against-us-dollar-scotiabank-202608041831",
-      "published": "2026-08-04T18:31:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold shines and rises on Iran’s deal hopes, lower US yields",
-      "summary": "Gold (XAU/USD) advances some 0.75% on Tuesday as Oil prices fall, along with US Treasury yields. Also, an improvement in risk appetite propelled the yellow metal to a two-day peak of $4,106.",
-      "link": "https://www.fxstreet.com/news/gold-shines-and-rises-on-irans-deal-hopes-lower-us-yields-202608041753",
-      "published": "2026-08-04T17:53:32+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: 200-day SMA caps rebound after intervention-led selloff",
-      "summary": "USD/JPY trades modestly higher on Tuesday despite a softer US Dollar (USD), as the impact of recent intervention fades and the Japanese Yen (JPY) comes under pressure again.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-200-day-sma-caps-rebound-after-intervention-led-selloff-202608041747",
-      "published": "2026-08-04T17:47:04+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -489,15 +408,6 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Anthropic has signed a $10 billion deal for computing capacity with Volta, a months-old infrastructure startup backed by Nvidia, $NVDA. Details include: 1. The agreement runs 6 years and will be delivered in partnership with Bitdeer Technologies, a Bitcoin miner that operates data centers 2. The data center site in Norway offers 133MW of capacity and will be operated with Nvidia’s newest Vera Rubin chips 3. Volta announced today that it raised $300 million in venture funding, valuing it at $2.4 billion The race for compute continues.",
-      "summary": "<p>BREAKING: Anthropic has signed a $10 billion deal for computing capacity with Volta, a months-old infrastructure startup backed by Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>.<br />\n<br />\nDetails include:<br />\n<br />\n1. The agreement runs 6 years and will be delivered in partnership with Bitdeer Technologies, a Bitcoin miner that operates data centers<br />\n<b",
-      "link": "https://nitter.net/KobeissiLetter/status/2084623916744544484#m",
-      "published": "2026-08-04T12:54:06+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "XAU/USD Weekly Market Outlook (Educational Analysis)",
@@ -559,15 +469,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vdzzjg/manual_trading_strategy/",
       "published": "2026-08-03T01:47:27+00:00",
       "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gold: The Only Zone I'm Watching This Week",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vdqwxw/gold_the_only_zone_im_watching_this_week/\"> <img alt=\"Gold: The Only Zone I'm Watching This Week\" src=\"https://preview.redd.it/4ima7xu9i0hh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8638a73ee12ca193764953ac3ce49aba88b1e925\" title=\"Gold: The Only Zone I'm Watching This Week\" /> </a> </td><td> <!-- SC_OFF --><div clas",
-      "link": "https://www.reddit.com/r/Forex/comments/1vdqwxw/gold_the_only_zone_im_watching_this_week/",
-      "published": "2026-08-02T19:20:43+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
