@@ -1,7 +1,142 @@
 {
-  "updated_at": "2026-08-05T03:44:01.845039+00:00",
-  "count": 66,
+  "updated_at": "2026-08-05T06:13:39.892302+00:00",
+  "count": 71,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Steadies around 0.7050 as bullish bias prevails",
+      "summary": "AUD/USD moves little after registering over 0.5% gains in the previous day, trading around 0.7050 during the Asian hours on Wednesday. The technical analysis of the daily chart shows that the pair is remaining within the ascending channel pattern, suggesting a prevailing bullish bias.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-steadies-around-07050-as-bullish-bias-prevails-202608050608",
+      "published": "2026-08-05T06:08:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Hawkish ECB bets back fresh upside",
+      "summary": "The Euro (EUR) trades marginally higher at around 1.1536 against the US Dollar (USD) during the European trading session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-hawkish-ecb-bets-back-fresh-upside-202608050546",
+      "published": "2026-08-05T05:46:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar weakens below 0.5900 as Unemployment Rate jumps to highest since 2015",
+      "summary": "The NZD/USD pair weakens to near 0.5870 during the early European trading hours on Wednesday. The New Zealand Dollar attracts some sellers against the US Dollar (USD) after New Zealand’s unemployment rate climbs to the highest in 11 years.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-weakens-below-05900-as-unemployment-rate-jumps-to-highest-since-2015-202608050540",
+      "published": "2026-08-05T05:40:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee gives back mild gains after RBI leaves Repo Rate steady at 5.25%",
+      "summary": "The Indian Rupee (INR) surrenders mild gains after a strong opening against the US Dollar (USD), following the Reserve Bank of India’s (RBI) monetary policy decision.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gives-back-mild-gains-after-rbi-leaves-repo-rate-steady-at-525-202608050511",
+      "published": "2026-08-05T05:11:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah remains stronger on strong domestic GDP",
+      "summary": "USD/IDR depreciates after registering minor gains in the previous day, trading around 17,970 during the Asian hours on Wednesday. The currency pair is under downward pressure as a combination of strong Indonesian economic performance and softening US Dollar (USD) demand weighs on the pair.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-remains-stronger-on-strong-domestic-gdp-202608050510",
+      "published": "2026-08-05T05:10:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: Holds steady above 157.50 as bulls await 50-hour EMA breakout",
+      "summary": "The USD/JPY pair drifts lower during the Asian session on Wednesday and, for now, seems to have stalled this week's goodish recovery from the 155.25-155.20 region, or the lowest since May.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-holds-steady-above-15750-as-bulls-await-50-hour-ema-breakout-202608050507",
+      "published": "2026-08-05T05:07:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc gains as easing risk aversion weighs on US Dollar",
+      "summary": "USD/CHF extends its losses for the second successive day, trading around 0.8080 during the Asian hours on Wednesday.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-easing-risk-aversion-weighs-on-us-dollar-202608050440",
+      "published": "2026-08-05T04:40:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Wednesday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608050435",
+      "published": "2026-08-05T04:35:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar hangs near one-week low as weak oil prices counter USD downtick",
+      "summary": "The USD/CAD pair trades with a positive bias for the fourth straight day and currently hovers around the 1.4070 region, or a nearly one-week high set the previous day.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-hangs-near-one-week-low-as-weak-oil-prices-counter-usd-downtick-202608050421",
+      "published": "2026-08-05T04:21:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Donald Trump: We're having very productive talks with Iran",
+      "summary": "US President Donald Trump said that he had very productive talks with Iran, Fox News reported on Wednesday.",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-were-having-very-productive-talks-with-iran-202608050404",
+      "published": "2026-08-05T04:04:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Republican Congressman Max Miller: Hope he can resolve it",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9708085/Trump-on-Republican-Congressman-Max-Miller-Hope-he-can-resolve-it.aspx?xy=rss",
+      "published": "2026-08-05T03:58:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Iran: negotiations went well",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9708084/Trump-on-Iran-negotiations-went-well.aspx?xy=rss",
+      "published": "2026-08-05T03:57:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Haven't decided on U.S. attorney Pirro",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9708083/Trump-Havent-decided-on-US-attorney-Pirro.aspx?xy=rss",
+      "published": "2026-08-05T03:56:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold hits fresh two-week high, eyes $4,150 on fading Fed hike bets, Iran hopes, soft USD",
+      "summary": "Gold (XAU/USD) gains strong follow-through traction for the second straight day and rallies to a nearly two-week top, around the $4,141 area during the Asian session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/gold-rallies-to-two-week-high-as-usd-softens-on-iran-deal-hopes-receding-fed-hike-bets-202608050354",
+      "published": "2026-08-05T03:54:58+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Iran: progressing very well",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9708082/Trump-on-Iran-progressing-very-well.aspx?xy=rss",
+      "published": "2026-08-05T03:54:54+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -84,33 +219,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar consolidates near 0.7050, highest since June 17 amid reviving USD demand",
-      "summary": "The AUD/USD pair struggles to break through the 100-day Simple Moving Average (SMA) pivotal barrier near mid-0.7000s and consolidates near its highest level since June 17, touched during the Asian session on Wednesday.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-consolidates-near-07050-highest-since-june-17-amid-reviving-usd-demand-202608050206",
-      "published": "2026-08-05T02:06:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen edges higher on upbeat wages data, hawkish BoJ Minutes and soft USD",
-      "summary": "The USD/JPY pair struggles to capitalize on this week's solid bounce from the 155.25-155.20 area, or the lowest level since early May, and edges lower during the Asian session on Wednesday. Spot prices, however, lack follow-through selling and hold just above mid-157.00s amid mixed cues.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-edges-higher-on-upbeat-wages-data-hawkish-boj-minutes-and-soft-usd-202608050126",
-      "published": "2026-08-05T01:26:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7889 vs. 6.7917 previous",
-      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7889 compared to the previous day's fix of 6.7917 and 6.7480 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67889-vs-67917-previous-202608050115",
-      "published": "2026-08-05T01:15:30+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "The Yen carry trade is dying. Before April 2025, the USD/JPY currency pair showed a close correlation with the 10Y rate differential between US and Japanese bonds. This was driven by investors borrowing in Yen to fund higher-yielding US Dollar assets through the carry trade. That relationship broke down after \"Liberation Day,\" when trade war uncertainty triggered a surge in market volatility and forced investors to unwind some of their carry trade positions. Meanwhile, the 10Y Treasury note yield is now trading ~2.0 percentage points above the Japanese 10Y Government Bond Yield, falling -1.0 percentage point since April 2025, near the lowest gap since 2021. Yet, USD/JPY continued to move higher as the US Dollar strengthened against the Yen, despite the narrowing yield gap, breaking away from the interest rate differential that historically drove the pair. In other words, the carry trade is losing its influence, with the Yen no longer driven primarily by rate differentials as investors increasingly price in Japan’s heavy debt burden and rising debt servicing costs. Japan’s rising debt costs are becoming impossible to ignore.",
@@ -120,60 +228,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Treasury Secretary Bessent: Many Asian currencies track Yen now, including Won and Yuan",
-      "summary": "US Treasury Secretary Scott Bessent said that the weakness of the Japanese Yen (JPY) has contributed to Japan’s inflation problem and raised the risk of broader depreciation of Asian currencies, Bloomberg reported on Tuesday.",
-      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-many-asian-currencies-track-yen-now-including-won-and-yuan-202608050051",
-      "published": "2026-08-05T00:51:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Iran rejects US claim of open Strait of Hormuz",
-      "summary": "Iran rejects US Treasury Secretary Scott Bessent's and US President Donald Trump's claim that the Strait of Hormuz will open tomorrow under a new deal, Fars news agency reported on Tuesday.",
-      "link": "https://www.fxstreet.com/news/us-secretary-of-state-rubio-says-us-iran-talks-progress-deal-could-come-very-shortly-202608050035",
-      "published": "2026-08-05T00:35:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "RBI expected to hold interest rates steady amid inflation risks, data-dependent approach",
-      "summary": "The Reserve Bank of India (RBI) is set to announce its bi-monthly monetary policy decision on Wednesday at 10:00 AM IST (04:30 GMT), another meeting coming at a time when uncertainty remains high over the duration and economic fallout of the ongoing Middle East conflict.",
-      "link": "https://www.fxstreet.com/news/rbi-set-to-keep-interest-rates-unchanged-as-inflation-risks-persist-202608050030",
-      "published": "2026-08-05T00:30:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed's Schmid: Tighter monetary policy required to bring inflation back to 2% target",
-      "summary": "Federal Reserve Bank of Kansas City President Jeff Schmid said on Wednesday that tighter monetary policy is needed to get inflation back to the 2% target. Schmid added that inflation is 'too high' and 'worrisome' and the current stance of Fed policy is not restrictive.",
-      "link": "https://www.fxstreet.com/news/feds-schmid-tighter-monetary-policy-required-to-bring-inflation-back-to-2-target-202608050024",
-      "published": "2026-08-05T00:24:21+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "BoJ Minutes: Members firmly focus on upside inflation risk",
-      "summary": "The Bank of Japan (BoJ) board members shared their views on the monetary policy outlook on Thursday, per the BoJ Minutes of the June meeting.",
-      "link": "https://www.fxstreet.com/news/boj-minutes-members-firmly-focus-on-upside-inflation-risk-202608050001",
-      "published": "2026-08-05T00:01:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar softens below 0.5900 after Unemployment Rate rises to decade high",
-      "summary": "The NZD/USD pair loses momentum to near 0.5875 during the early Asian trading hours on Wednesday. The New Zealand Dollar (NZD) weakens against the US Dollar (USD) following the employment report.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-softens-below-05900-after-unemployment-rate-rises-to-decade-high-202608042354",
-      "published": "2026-08-04T23:54:50+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "The relationship between stocks and bonds has completely flipped: The 90-day correlation between the 10Y Treasury Yield and the S&P 500 is down to -0.48, its most negative reading since 1999. This means that rising Treasury yields have recently been associated with weaker stock market performance, while falling yields have supported equities. The current reading is even more negative than the 2022 bear market low of -0.42. For context, before the 2020 pandemic, the correlation was positive for over a decade, with Treasury yields and equities often rising together as higher yields reflected stronger economic growth. Currently, the negative correlation suggests investors are viewing higher yields less as a sign of economic strength and more as a result of inflation uncertainty and fiscal concerns. All eyes are on the bond market.",
@@ -181,15 +235,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2084788269640740987#m",
       "published": "2026-08-04T23:47:11+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold edges lower below $4,100 as markets focus on US-Iran talks",
-      "summary": "Gold price (XAU/USD) declines to near $4,070 during the early Asian session on Wednesday. The precious metal fluctuates as traders weigh the Federal Reserve’s (Fed) interest-rate path amid uncertainty in the Middle East.",
-      "link": "https://www.fxstreet.com/news/gold-edges-lower-below-4-100-as-markets-focus-on-us-iran-talks-202608042325",
-      "published": "2026-08-04T23:25:05+00:00",
-      "score": 5
     },
     {
       "source": "Kobeissi Letter",
