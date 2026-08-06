@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-08-06T03:39:50.602964+00:00",
-  "count": 64,
+  "updated_at": "2026-08-06T06:16:08.271004+00:00",
+  "count": 59,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "3.1%: Germany Factory Orders climb in June, beating estimates",
+      "summary": "Germany's Factory Orders rose in June, suggesting that the country’s manufacturing sector activity gained momentum, according to the official data published by the Federal Statistics Office on Thursday.",
+      "link": "https://www.fxstreet.com/news/31-germany-factory-orders-climb-in-june-beating-estimates-202608060602",
+      "published": "2026-08-06T06:02:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "XAU/USD (Gold) – Today's Market Bias",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vgvrj1/xauusd_gold_todays_market_bias/\"> <img alt=\"XAU/USD (Gold) – Today's Market Bias\" src=\"https://preview.redd.it/m1y2w3vv2phh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b18ea4e6fbba1ef41183a6a913fae78cc58a0860\" title=\"XAU/USD (Gold) – Today's Market Bias\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Based on my c",
+      "link": "https://www.reddit.com/r/Forex/comments/1vgvrj1/xauusd_gold_todays_market_bias/",
+      "published": "2026-08-06T05:59:23+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Eyes upside despite pullback from June high, around 0.7065",
+      "summary": "The AUD/USD pair edges lower during the Asian session on Thursday and moves away from the highest level since June 17, touched the previous day. Spot prices currently trade just below  0.7050, though the downside potential seems limited.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-eyes-upside-despite-pullback-from-june-high-around-07065-202608060537",
+      "published": "2026-08-06T05:37:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound loses ground to near 1.3450 as traders await possible US-Iran deal",
+      "summary": "The GBP/USD pair drifts lower to near 1.3460 during the early European trading hours on Thursday. Conflicting rhetoric from the US and Iranian officials about a potential deal fuels market concerns, dragging the British Pound (GBP) lower against the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/british-pound-loses-ground-to-near-13450-as-traders-await-possible-us-iran-deal-202608060533",
+      "published": "2026-08-06T05:33:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee trades flat, lower oil prices back upside",
+      "summary": "The Indian Rupee (INR) opens almost flat against the US Dollar (USD) on Thursday. The USD/INR pair trades around 95.12 after rebounding from the fresh monthly low of 94.83 posted the previous day.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-trades-flat-lower-oil-prices-back-upside-202608060532",
+      "published": "2026-08-06T05:32:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah in focus as BI leadership race begins",
+      "summary": "USD/IDR inches higher after registering nearly 0.5% losses in the previous day, trading around 17,960 during the Asian hours on Thursday. Traders are keeping a close eye on the nomination process following the sudden resignation of Bank Indonesia (BI) Governor Perry Warjiyo late last month.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-in-focus-as-bi-leadership-race-begins-202608060531",
+      "published": "2026-08-06T05:31:43+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Thursday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608060435",
+      "published": "2026-08-06T04:35:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold sticks to modest gains below $4,300 and seven-week top amid modest USD uptick",
+      "summary": "Gold (XAU/USD) struggles to find acceptance above the $4,300 mark and retreats from its highest level since June 18, touched during the Asian session on Thursday amid the emergence of some US Dollar (USD) buying.",
+      "link": "https://www.fxstreet.com/news/gold-pulls-back-from-seven-week-high-as-bulls-struggle-to-find-acceptance-above-4-300-202608060420",
+      "published": "2026-08-06T04:20:50+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -90,114 +162,6 @@
       "summary": "",
       "link": "https://www.financialjuice.com/News/9709719/Feds-Daly-focusing-on-investment-levels-in-technology-sector.aspx?xy=rss",
       "published": "2026-08-06T01:26:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound holds steady above 1.3450 as Iran hopes and Fed repricing weigh on USD",
-      "summary": "The GBP/USD pair is seen consolidating its gains recorded over the past two days and trading around the 1.3470 region during the Asian session on Thursday.",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-steady-above-13450-as-iran-hopes-and-fed-repricing-weigh-on-usd-202608060117",
-      "published": "2026-08-06T01:17:06+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro strengthens above 1.1550 as softer US data",
-      "summary": "The EUR/USD pair edges higher to near 1.1555 during the Asian trading hours on Thursday. US Dollar (USD) softens against the Euro (EUR) on cooling tensions in the Middle East and weaker-than-expected US economic data. The US Initial Jobless Claims report is due later on Thursday.",
-      "link": "https://www.fxstreet.com/news/euro-strengthens-above-11550-as-softer-us-data-202608060116",
-      "published": "2026-08-06T01:16:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: resurgence of strong inflation pressures would require aggressive rate response",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9709702/Feds-Daly-resurgence-of-strong-inflation-pressures-would-require-aggressive-rate-response.aspx?xy=rss",
-      "published": "2026-08-06T01:16:22+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: concerns about public reaction to another significant inflation shock",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9709701/Feds-Daly-concerns-about-public-reaction-to-another-significant-inflation-shock.aspx?xy=rss",
-      "published": "2026-08-06T01:16:03+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7895 vs. 6.7889 previous",
-      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Thursday at 6.7895 compared to the previous day's fix of 6.7889 and 6.7462 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67895-vs-67889-previous-202608060115",
-      "published": "2026-08-06T01:15:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed's Daly: Some signs tariff impact on inflation starting to fade",
-      "summary": "Federal Reserve (Fed) Bank of San Francisco President Mary Daly said on Thursday that tariffs have had a clear impact on inflation, though she pointed to early signs that effect is beginning to ease.",
-      "link": "https://www.fxstreet.com/news/feds-daly-some-signs-tariff-impact-on-inflation-starting-to-fade-202608060110",
-      "published": "2026-08-06T01:10:33+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: central bank should be ready to intervene if inflation worsens",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9709699/Feds-Daly-central-bank-should-be-ready-to-intervene-if-inflation-worsens.aspx?xy=rss",
-      "published": "2026-08-06T01:06:39+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: central bank still needs data to determine next policy step",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9709698/Feds-Daly-central-bank-still-needs-data-to-determine-next-policy-step.aspx?xy=rss",
-      "published": "2026-08-06T01:04:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: fully backs holding rates steady in July",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9709697/Feds-Daly-fully-backs-holding-rates-steady-in-July.aspx?xy=rss",
-      "published": "2026-08-06T01:04:19+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: central bank faces varied risks in setting rate policy",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9709696/Feds-Daly-central-bank-faces-varied-risks-in-setting-rate-policy.aspx?xy=rss",
-      "published": "2026-08-06T01:03:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold rises above $4,250 on US–Iran deal hopes",
-      "summary": "Gold price (XAU/USD) rises to near $4,255 during the early Asian session on Thursday.",
-      "link": "https://www.fxstreet.com/news/gold-rises-above-4-250-on-us-iran-deal-hopes-202608052332",
-      "published": "2026-08-05T23:32:27+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Gradual strengthening against US Dollar toward 6.7300 – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann reports USD/CNH slipped to 6.7459 after failing to extend a modest bounce, with limited downside momentum. Intraday, they see potential to test last week’s 6.7420 low but doubt a sustained break below.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-strengthening-against-us-dollar-toward-67300-uob-202608052249",
-      "published": "2026-08-05T22:49:00+00:00",
       "score": 1
     },
     {
@@ -424,15 +388,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vfc0ml/eurusd/",
       "published": "2026-08-04T14:30:55+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "XAU/USD Weekly Market Outlook (Educational Analysis)",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vf79pr/xauusd_weekly_market_outlook_educational_analysis/\"> <img alt=\"XAU/USD Weekly Market Outlook (Educational Analysis)\" src=\"https://preview.redd.it/tbsivlz9cchh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8edadb517ee899e9d33b12c09bfbfc511ba6f4a6\" title=\"XAU/USD Weekly Market Outlook (Educational Analysis)\" /> </a> </td><",
-      "link": "https://www.reddit.com/r/Forex/comments/1vf79pr/xauusd_weekly_market_outlook_educational_analysis/",
-      "published": "2026-08-04T11:08:35+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
