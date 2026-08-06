@@ -1,7 +1,133 @@
 {
-  "updated_at": "2026-08-06T13:21:12.998603+00:00",
-  "count": 58,
+  "updated_at": "2026-08-06T15:42:31.279007+00:00",
+  "count": 46,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 4-Week Bill Auction",
+      "summary": "<ul><li>Bid/Cover 2.68</li><li>High yield 3.64%</li><li>Sells $110 bln</li><li>Awards at high 72.82%</li></ul>",
+      "link": "https://www.financialjuice.com/News/9710758/US-4-Week-Bill-Auction.aspx?xy=rss",
+      "published": "2026-08-06T15:33:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.64% (Forecast -, Previous 3.630%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9710757/US-4-Week-Bill-High-Yield-Actual-364-Forecast---Previous-3630.aspx?xy=rss",
+      "published": "2026-08-06T15:32:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Recovery stalls near 1.1550 resistance against US Dollar – Scotiabank",
+      "summary": "Scotiabank highlights that the Euro is slightly softer versus the Dollar after touching levels last seen in mid-June, with fundamentals still supportive as yield spreads turn. Spot has nearly converged with their fair value based on the 2-year Germany–US spread.",
+      "link": "https://www.fxstreet.com/news/euro-recovery-stalls-near-11550-resistance-against-us-dollar-scotiabank-202608061513",
+      "published": "2026-08-06T15:13:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen falls as Initial Jobless claims hold tight",
+      "summary": "USD/JPY trades modestly higher near 158.20 on Thursday, extending a fourth session of Japanese Yen (JPY) softness as the pair claws back ground lost to last week's coordinated Japan-United States (US) intervention.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-falls-as-initial-jobless-claims-hold-tight-202608061510",
+      "published": "2026-08-06T15:10:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The RBI held at 5.25% and India attracted $41 billion: Why the Rupee still faces a ceiling",
+      "summary": "The Indian Rupee (INR) has found local support against the US Dollar (USD), with USD/INR easing to around 95.10 following the Reserve Bank of India’s (RBI) decision to hold its benchmark repo rate steady at 5.25% for a fourth consecutive meeting.",
+      "link": "https://www.fxstreet.com/news/the-rbi-held-at-525-and-india-attracted-41-billion-why-the-rupee-still-faces-a-ceiling-202608061510",
+      "published": "2026-08-06T15:10:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Hedge funds bought +$4.8 billion of US equities last week, the 2nd-largest weekly purchase since 2008. As a % of the S&P 500’s market cap, this was the 24th-largest purchase on record. At the same time, institutional investors sold -$3.8 billion, snapping a streak of 4 consecutive weekly purchases. This lowers the 4-week average of institutional purchases to +$3.9 billion. Meanwhile, retail investors recorded modest sales of -$200 million, bringing their 4-week down to +$600 million. Hedge funds are piling back into US stocks.",
+      "summary": "<p>BREAKING: Hedge funds bought +$4.8 billion of US equities last week, the 2nd-largest weekly purchase since 2008.<br />\n<br />\nAs a % of the S&amp;P 500’s market cap, this was the 24th-largest purchase on record.<br />\n<br />\nAt the same time, institutional investors sold -$3.8 billion, snapping a streak of 4 consecutive weekly purchases.<br />\n<br />\nThis lowers the 4-week average of institutio",
+      "link": "https://nitter.net/KobeissiLetter/status/2085381512535343374#m",
+      "published": "2026-08-06T15:04:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Why is Gold surging toward $4,300 as the US Dollar and Treasury yields ease?",
+      "summary": "Gold (XAU/USD) has staged a dramatic rebound, surging over 4% on Wednesday to move within striking distance of the $4,300/oz threshold.",
+      "link": "https://www.fxstreet.com/news/why-is-gold-surging-toward-4-300-as-the-us-dollar-and-treasury-yields-ease-202608061454",
+      "published": "2026-08-06T14:54:58+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Buyers challenge 100-day SMA as momentum turns bullish",
+      "summary": "EUR/USD trades on the back foot on Thursday, snapping a two-day winning streak as the US Dollar (USD) steadies. Still, the near-term technical picture remains bullish following the late-July rebound from below 1.1400. At the time of writing, the pair trades around 1.1534, down 0.15% on the day.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-buyers-challenge-100-day-sma-as-momentum-turns-bullish-202608061443",
+      "published": "2026-08-06T14:43:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Gains hinge on 1.3970 against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the Canadian Dollar (CAD) is effectively flat versus the US Dollar (USD) but modestly outperforming other majors, trading close to their fair value estimate around 1.40.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-hinge-on-13970-against-us-dollar-scotiabank-202608061437",
+      "published": "2026-08-06T14:37:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Copper: Tight supply keeps prices elevated – ING",
+      "summary": "ING analysts Warren Patterson and Ewa Manthey report Copper prices trading above $14,000/t on the LME and near record levels on Comex, driven by metal diversion into the US ahead of potential tariff decisions.",
+      "link": "https://www.fxstreet.com/news/copper-tight-supply-keeps-prices-elevated-ing-202608061424",
+      "published": "2026-08-06T14:24:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar slips as safe-haven demand lifts the US Dollar",
+      "summary": "NZD/USD trades around 0.5880 on Thursday at the time of writing, down 0.10% on the day. The pair remains under pressure as renewed demand for the US Dollar (USD) emerges, with investors seeking safe-haven assets amid fresh geopolitical tensions in the Middle East.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slips-as-safe-haven-demand-lifts-the-us-dollar-202608061419",
+      "published": "2026-08-06T14:19:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SpaceX: Chip demand with Tesla projected to exceed 1 TW of computing power. $SPCX",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9710628/SpaceX-Chip-demand-with-Tesla-projected-to-exceed-1-TW-of-computing-power-SPCX.aspx?xy=rss",
+      "published": "2026-08-06T14:07:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar comes under pressure as US Dollar snaps two-day decline",
+      "summary": "AUD/USD edges lower on Thursday as the US Dollar (USD) steadies following two consecutive days of losses. At the time of writing, the pair trades around 0.7036, down roughly 0.32% on the day.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-comes-under-pressure-as-us-dollar-snaps-two-day-decline-202608061401",
+      "published": "2026-08-06T14:01:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Undervaluation flags downside risks – MUFG",
+      "summary": "Halpenny highlights MUFG’s G10 regression models showing the US Dollar undervalued against most peers, implying risk premia tied to Middle East conflict, inflation concerns and political interference at the Federal Reserve.",
+      "link": "https://www.fxstreet.com/news/us-dollar-undervaluation-flags-downside-risks-mufg-202608061343",
+      "published": "2026-08-06T13:43:11+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -18,78 +144,6 @@
       "summary": "<p>BREAKING: Call option volume in the S&amp;P 500 spiked to a record 4.0 million contracts on Tuesday.<br />\n<br />\nThis figure has more than doubled over the last several weeks.<br />\n<br />\nBy comparison, daily call option volume never exceeded 2 million contracts until Q4 2023.<br />\n<br />\nFurthermore, call option volume averaged ~700,000 contracts a day in 2020-2021.<br />\n<br />\nMeanwhile, ",
       "link": "https://nitter.net/KobeissiLetter/status/2085353195153285369#m",
       "published": "2026-08-06T13:12:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nonfarm Payrolls Past Market Reactions & Deviations - FJElite",
-      "summary": "<strong>Sentiment Post Last Release</strong><br />Traders of short-term interest rate futures trim rate hike bets after weaker-than-expected jobs data. Traders fully price in Fed rate hike by December previously October.<br />",
-      "link": "https://www.financialjuice.com/News/9710554/Nonfarm-Payrolls-Past-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
-      "published": "2026-08-06T13:08:24+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MUFG: Post-intervention - retail margin traders now likely USD/JPY buyers - FJElite",
-      "summary": "USD/JPY continues to stabilise at levels significantly lower than where we were prior to the intervention last Thursday and Friday. We remain around 6 big figures blow the level when intervention probably began on Thursday, having rebounded two big figures from the intra-day low on Monday. If intervention did not take place on Monday (we can’t be sure but BoJ data suggests possibly not) the impact",
-      "link": "https://www.financialjuice.com/News/9710553/MUFG-Post-intervention---retail-margin-traders-now-likely-USDJPY-buyers---FJElite.aspx?xy=rss",
-      "published": "2026-08-06T13:03:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Mirendil and Google Cloud deal worth upwards of $100m - TechCrunch $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9710552/Mirendil-and-Google-Cloud-deal-worth-upwards-of-100m---TechCrunch-GOOGL.aspx?xy=rss",
-      "published": "2026-08-06T13:03:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Google: Mirendil taps AI hypercomputers and GPUs for pre- and post-training applications - Website",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9710551/Google-Mirendil-taps-AI-hypercomputers-and-GPUs-for-pre--and-post-training-applications---Website.aspx?xy=rss",
-      "published": "2026-08-06T13:02:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Effective fed funds rate 3.63% on August 5th vs 3.63% on August 4th.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9710530/Effective-fed-funds-rate-363-on-August-5th-vs-363-on-August-4th.aspx?xy=rss",
-      "published": "2026-08-06T13:00:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs: We estimate that the CNY is at least approximately 20% undervalued - FJElite",
-      "summary": "<div>The CNY is one of the most undervalued currencies in our G10 and EM coverage. A 60:40 average of our GSDEER and GSFEER metrics currently indicates that the CNY is about 20% undervalued versus the Dollar, after being close to 25% undervalued last year (Exhibit 3). While higher productivity in China versus its trading partners has been a key driver of the gradual strengthening in CNY fair value",
-      "link": "https://www.financialjuice.com/News/9710528/Goldman-Sachs-We-estimate-that-the-CNY-is-at-least-approximately-20-undervalued---FJElite.aspx?xy=rss",
-      "published": "2026-08-06T12:58:19+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Credit Agricole: We continue to forecast USD/JPY to average 162 in Q3 and 163 in Q4 - FJElite",
-      "summary": "<div></div><div>1.\t\tThe BoJ’s next rate hike is expected by our Japan economists in mid- 2027 vs market pricing for two-and-half 25bp rate hikes by then.<br /><br /></div><div>2.\t\tWhile our US economist expects no rate hikes this year, US economic outperformance will continue attracting capital inflows supporting the USD.<br /><br /></div><div>3.\t\tOil prices will remain elevated relative to pre-wa",
-      "link": "https://www.financialjuice.com/News/9710527/Credit-Agricole-We-continue-to-forecast-USDJPY-to-average-162-in-Q3-and-163-in-Q4---FJElite.aspx?xy=rss",
-      "published": "2026-08-06T12:55:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft opens fourth data center region in India for Azure $MSFT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9710526/Microsoft-opens-fourth-data-center-region-in-India-for-Azure-MSFT.aspx?xy=rss",
-      "published": "2026-08-06T12:52:04+00:00",
       "score": 1
     },
     {
@@ -113,89 +167,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Swedish Krona: Hotter core supports SEK against Euro – ING",
-      "summary": "ING’s FX Strategist Francesco Pesole notes Sweden’s core CPIF excluding energy rose to 0.6% in July, giving the Swedish Krona (SEK) a modest boost, while headline inflation slowed as expected.",
-      "link": "https://www.fxstreet.com/news/swedish-krona-hotter-core-supports-sek-against-euro-ing-202608061232",
-      "published": "2026-08-06T12:32:40+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Retail flows reshape post-intervention dynamics – MUFG",
-      "summary": "MUFG notes that USD/JPY remains well below pre-intervention levels. Japanese retail traders entered the episode with a record short position in the pair and likely covered those positions during the intervention-led decline, partially offsetting official yen purchases.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-retail-flows-reshape-post-intervention-dynamics-mufg-202608061224",
-      "published": "2026-08-06T12:24:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee: Lower oil and inflows support INR against US Dollar – OCBC",
-      "summary": "OCBC’s Christopher Wong and Sim Moh Siong highlight that the Reserve Bank of India's (RBI) decision to hold the repo rate at 5.25% while lowering inflation forecasts and nudging growth higher, alongside strong capital inflows, has put India’s balance of payments on track for a healthy surplus.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-lower-oil-and-inflows-support-inr-against-us-dollar-ocbc-202608061207",
-      "published": "2026-08-06T12:07:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Czech Koruna: Sideways against Euro as CNB holds rates – Commerzbank",
-      "summary": "Commerzbank’s Tatha Ghose expects the Czech National Bank (CNB) to keep its policy rate at 3.75%, framing June’s hike as fine-tuning rather than a new cycle. With headline and core inflation still within target, CNB can wait but must avoid sounding dovish.",
-      "link": "https://www.fxstreet.com/news/czech-koruna-sideways-against-euro-as-cnb-holds-rates-commerzbank-202608061143",
-      "published": "2026-08-06T11:43:54+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro edges down, while US NFP takes centre stage",
-      "summary": "The Euro (EUR) trades marginally lower at around 1.1545 against the US Dollar (USD) during the European trading session on Friday. The major currency pair edges down as the US Dollar ticks up, while investors shift their focus to the United States (US) Nonfarm Payrolls (NFP) data release on Friday.",
-      "link": "https://www.fxstreet.com/news/euro-edges-down-while-us-nfp-takes-centre-stage-202608061143",
-      "published": "2026-08-06T11:43:45+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound treads water above 1.3450 with markets awaiting US employment figures",
-      "summary": "The British Pound (GBP) holds marginal losses against the US Dollar (USD) on Thursday, trading at 1.3460 at the time of writing, down from Wednesday's highs at 1.3486.",
-      "link": "https://www.fxstreet.com/news/british-pound-treads-water-above-13450-with-markets-awaiting-us-employment-figures-202608061142",
-      "published": "2026-08-06T11:42:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Warsh Is Ready to Raise Interest Rates if Inflation Runs Hot - FT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9710047/Warsh-Is-Ready-to-Raise-Interest-Rates-if-Inflation-Runs-Hot---FT.aspx?xy=rss",
-      "published": "2026-08-06T11:38:52+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Hormuz optimism supports rally – ING",
-      "summary": "ING’s Warren Patterson and Ewa Manthey highlight a sharp Gold rally of more than 4%, with prices moving closer to $4,300/oz as optimism grows that a US-Iran agreement and lower energy prices will ease inflation.",
-      "link": "https://www.fxstreet.com/news/gold-hormuz-optimism-supports-rally-ing-202608061135",
-      "published": "2026-08-06T11:35:17+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Relief rallies seen shallow – BBH",
-      "summary": "Brown Brothers Harriman’s Elias Haddad notes that the US Dollar (USD) has recovered part of its recent losses as concerns over the Federal Reserve’s (Fed) credibility ease, but sees limited scope for a sustained rebound.",
-      "link": "https://www.fxstreet.com/news/us-dollar-relief-rallies-seen-shallow-bbh-202608061121",
-      "published": "2026-08-06T11:21:59+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Gold holds near seven-week high as markets await Strait of Hormuz deal",
-      "summary": "Gold (XAU/USD) trims intraday gains on Thursday after briefly climbing above $4,300 as the US Dollar (USD) steadies while traders await confirmation of a possible Iran-Oman agreement on the Strait of Hormuz. At the time of writing, XAU/USD trades around $4,260, up 0.30% on the day.",
+      "summary": "Gold (XAU/USD) consolidates gains on Thursday after briefly climbing above $4,300 as the US Dollar (USD) steadies while traders await confirmation of a possible Iran-Oman agreement on the Strait of Hormuz. At the time of writing, XAU/USD trades around $4,269, up 0.52% on the day.",
       "link": "https://www.fxstreet.com/news/gold-steadies-near-seven-week-high-as-markets-await-strait-of-hormuz-deal-202608061118",
       "published": "2026-08-06T11:18:04+00:00",
       "score": 3
@@ -208,42 +181,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vh1cl6/gold_is_testing_a_tough_ceiling/",
       "published": "2026-08-06T11:17:21+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD clings to gains near $62 with US NFP in focus",
-      "summary": "Silver price (XAG/USD) holds onto two-day gains at around $62.00 during the European trading session on Thursday. The white metal trades firmly amid hopes of a further decline in oil prices.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-clings-to-gains-near-62-with-us-nfp-in-focus-202608061059",
-      "published": "2026-08-06T10:59:25+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD bulls target $4,380 buoyed by lower US yields",
-      "summary": "Gold (XAU/USD) consolidates gains after appreciating nearly $200 this week, buoyed by lower US Treasury yields as traders dial down bets of immediate Federal Reserve (Fed) rate hikes.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-bulls-target-4-380-buoyed-by-lower-us-yields-202608061036",
-      "published": "2026-08-06T10:36:50+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Policy shifts weigh on JPY against US Dollar – Rabobank",
-      "summary": "Rabobank's Senior Macro Strategist Bas van Geffen discusses renewed Japanese Yen (JPY) weakness following recent joint US-Japan FX intervention that briefly pushed USD/JPY below 156.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-policy-shifts-weigh-on-jpy-against-us-dollar-rabobank-202608061004",
-      "published": "2026-08-06T10:04:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Data-dependent Fed keeps upside in check – OCBC",
-      "summary": "OCBC’s Christopher Wong and Sim Moh Siong note that softer US inflation and debate over the Fed’s reaction function have eroded US Dollar upside momentum, even as the Fed remains data dependent. Upcoming US employment data are seen as critical for policy direction.",
-      "link": "https://www.fxstreet.com/news/us-dollar-data-dependent-fed-keeps-upside-in-check-ocbc-202608060957",
-      "published": "2026-08-06T09:57:10+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -262,15 +199,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vgvrj1/xauusd_gold_todays_market_bias/",
       "published": "2026-08-06T05:59:23+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee ticks down, awaiting clarity on Hormuz deal",
-      "summary": "The Indian Rupee (INR) trades lower against the US Dollar (USD) on Thursday. The USD/INR pair rises to near 95.22 after rebounding from the fresh monthly low of 94.83 posted the previous day.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-trades-flat-lower-oil-prices-back-upside-202608060532",
-      "published": "2026-08-06T05:32:32+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -327,33 +255,6 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Anthropic confirms it is building in-house custom chips which will be used to run Claude faster and more efficiently. Details include: 1. The company is currently hiring engineers to design custom chips for its Claude 2. Anthropic says it will co-design its hardware and models to run \"at the scale our customers need\" 3. Anthropic will adopt a \"multi-chip approach\" in which hardware from AWS, Google, Nvidia, and AMD will remain essential In-house AI chips are the next big trend.",
-      "summary": "<p>BREAKING: Anthropic confirms it is building in-house custom chips which will be used to run Claude faster and more efficiently.<br />\n<br />\nDetails include:<br />\n<br />\n1. The company is currently hiring engineers to design custom chips for its Claude<br />\n<br />\n2. Anthropic says it will co-design its hardware and models to run \"at the scale our customers need\"<br />\n<br />\n3. Anthropic wil",
-      "link": "https://nitter.net/KobeissiLetter/status/2085002895678734635#m",
-      "published": "2026-08-05T14:00:02+00:00",
-      "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "R to @KobeissiLetter: On Friday, we posted the below analysis for our premium members. As gold fell into $4,000, we shifted increasingly bullish and called for $4,200+. Today, this setup is deep green. Subscribe to access our premium analysis below: http://thekobeissiletter.com/subscribe",
-      "summary": "<p>On Friday, we posted the below analysis for our premium members.<br />\n<br />\nAs gold fell into $4,000, we shifted increasingly bullish and called for $4,200+.<br />\n<br />\nToday, this setup is deep green.<br />\n<br />\nSubscribe to access our premium analysis below:<br />\n<br />\n<a href=\"http://thekobeissiletter.com/subscribe\">thekobeissiletter.com/subscr…</a></p>\n<img src=\"https://nitter.net/p",
-      "link": "https://nitter.net/KobeissiLetter/status/2084989508492095807#m",
-      "published": "2026-08-05T13:06:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Spot gold prices surge above $4,200/oz, hitting the highest level since June 22nd. Precious metals continue to gain momentum amid mounting inflation and uncertainty.",
-      "summary": "<p>BREAKING: Spot gold prices surge above $4,200/oz, hitting the highest level since June 22nd.<br />\n<br />\nPrecious metals continue to gain momentum amid mounting inflation and uncertainty.</p>\n<img src=\"https://nitter.net/pic/media%2FHO9aP-kXgAAGNS0.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2084988542359671296#m",
-      "published": "2026-08-05T13:03:00+00:00",
-      "score": 4
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "thinking of swing trading",
@@ -387,15 +288,6 @@
       "summary": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
       "published": "2026-08-04T20:30:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "trading is soo hard",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vflos5/trading_is_soo_hard/\"> <img alt=\"trading is soo hard\" src=\"https://preview.redd.it/mspfrbf71fhh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=872aac88ef410487fcc5056ef9e40f036bfed060\" title=\"trading is soo hard\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/mspfrbf71fhh1.png?width=16",
-      "link": "https://www.reddit.com/r/Forex/comments/1vflos5/trading_is_soo_hard/",
-      "published": "2026-08-04T20:15:53+00:00",
       "score": 1
     },
     {
