@@ -1,14 +1,185 @@
 {
-  "updated_at": "2026-08-06T00:10:40.383594+00:00",
-  "count": 62,
+  "updated_at": "2026-08-06T03:39:50.602964+00:00",
+  "count": 64,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc receives support as US Dollar weakens on easing risk aversion",
+      "summary": "USD/CHF extends its losses for the third consecutive day, trading around 0.8060 during the Asian hours on Thursday. The pair depreciates as the US Dollar (USD) faces headwinds from declining safe-haven demand.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-receives-support-as-us-dollar-weakens-on-easing-risk-aversion-202608060335",
+      "published": "2026-08-06T03:35:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Looks set to extend advance beyond 1.1600",
+      "summary": "The Euro (EUR) trades broadly firm at around 1.1555 against the US Dollar (USD) during the Asian trading session on Thursday. The major currency pair reflects strength as the US Dollar is broadly under pressure due to deteriorating United States (US) employment conditions.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-looks-set-to-extend-advance-beyond-11600-202608060316",
+      "published": "2026-08-06T03:16:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD rises above $62.00 on easing inflation concerns",
+      "summary": "Silver price (XAG/USD) remains stronger for the fourth consecutive day, trading around $62.20 per troy ounce during the Asian hours on Thursday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-above-6200-on-easing-inflation-concerns-202608060252",
+      "published": "2026-08-06T02:52:05+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index (DXY) struggles near 99.65 and remains close to multi-week low",
+      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, trades with a negative bias for the third straight day and hovers around the 99.65 region during the Asian session on Thursday.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-struggles-near-9965-and-remains-close-to-multi-week-low-202608060239",
+      "published": "2026-08-06T02:39:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen gathers strength to near 157.50 on US-backed intervention",
+      "summary": "The USD/JPY pair trades in negative territory near 157.65 during the early Asian trading hours on Thursday. The Japanese Yen (JPY) strengthens against the US Dollar (USD) following a coordinated currency intervention by the United States (US) and Japan.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gathers-strength-to-near-15750-on-us-backed-intervention-202608060237",
+      "published": "2026-08-06T02:37:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar remains on the front foot vs USD as oil rebounds and Fed hike bets fade",
+      "summary": "The USD/CAD pair remains on the back foot during the Asian session on Thursday, with bears now awaiting a break below the 1.4000 psychological mark before positioning for an extension of the previous day's pullback from a one-week top.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-on-the-front-foot-vs-usd-as-oil-rebounds-and-fed-hike-bets-fade-202608060153",
+      "published": "2026-08-06T01:53:59+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Donald Trump's administration refunds $100bn of ‘liberation day’ tariffs",
+      "summary": "US President Donald Trump's administration has paid back $100bn in \"Liberation Day\" tariff refunds to businesses through customs officials, the Financial Times reported on Wednesday.",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trumps-administration-refunds-100bn-of-liberation-day-tariffs-202608060151",
+      "published": "2026-08-06T01:51:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar remains calm following Trade Balance data",
+      "summary": "AUD/USD steadies after two days of gains, trading around 0.7060 during the Asian hours on Thursday. The pair moves little as the Australian Dollar (AUD) remains silent following the release of domestic Trade Balance data.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-calm-following-trade-balance-data-202608060150",
+      "published": "2026-08-06T01:50:02+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Ireland S&P Global July Services PMI rises to 55.2 from 54.2 in June",
+      "title": "FinancialJuice: Fed's Daly: increase in borrowing for tech investment warrants attention",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9709630/Ireland-SP-Global-July-Services-PMI-rises-to-552-from-542-in-June.aspx?xy=rss",
-      "published": "2026-08-06T00:01:05+00:00",
+      "link": "https://www.financialjuice.com/News/9709721/Feds-Daly-increase-in-borrowing-for-tech-investment-warrants-attention.aspx?xy=rss",
+      "published": "2026-08-06T01:28:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Daly: focusing on investment levels in technology sector",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9709719/Feds-Daly-focusing-on-investment-levels-in-technology-sector.aspx?xy=rss",
+      "published": "2026-08-06T01:26:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound holds steady above 1.3450 as Iran hopes and Fed repricing weigh on USD",
+      "summary": "The GBP/USD pair is seen consolidating its gains recorded over the past two days and trading around the 1.3470 region during the Asian session on Thursday.",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-steady-above-13450-as-iran-hopes-and-fed-repricing-weigh-on-usd-202608060117",
+      "published": "2026-08-06T01:17:06+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro strengthens above 1.1550 as softer US data",
+      "summary": "The EUR/USD pair edges higher to near 1.1555 during the Asian trading hours on Thursday. US Dollar (USD) softens against the Euro (EUR) on cooling tensions in the Middle East and weaker-than-expected US economic data. The US Initial Jobless Claims report is due later on Thursday.",
+      "link": "https://www.fxstreet.com/news/euro-strengthens-above-11550-as-softer-us-data-202608060116",
+      "published": "2026-08-06T01:16:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Daly: resurgence of strong inflation pressures would require aggressive rate response",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9709702/Feds-Daly-resurgence-of-strong-inflation-pressures-would-require-aggressive-rate-response.aspx?xy=rss",
+      "published": "2026-08-06T01:16:22+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Daly: concerns about public reaction to another significant inflation shock",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9709701/Feds-Daly-concerns-about-public-reaction-to-another-significant-inflation-shock.aspx?xy=rss",
+      "published": "2026-08-06T01:16:03+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7895 vs. 6.7889 previous",
+      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Thursday at 6.7895 compared to the previous day's fix of 6.7889 and 6.7462 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67895-vs-67889-previous-202608060115",
+      "published": "2026-08-06T01:15:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed's Daly: Some signs tariff impact on inflation starting to fade",
+      "summary": "Federal Reserve (Fed) Bank of San Francisco President Mary Daly said on Thursday that tariffs have had a clear impact on inflation, though she pointed to early signs that effect is beginning to ease.",
+      "link": "https://www.fxstreet.com/news/feds-daly-some-signs-tariff-impact-on-inflation-starting-to-fade-202608060110",
+      "published": "2026-08-06T01:10:33+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Daly: central bank should be ready to intervene if inflation worsens",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9709699/Feds-Daly-central-bank-should-be-ready-to-intervene-if-inflation-worsens.aspx?xy=rss",
+      "published": "2026-08-06T01:06:39+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Daly: central bank still needs data to determine next policy step",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9709698/Feds-Daly-central-bank-still-needs-data-to-determine-next-policy-step.aspx?xy=rss",
+      "published": "2026-08-06T01:04:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Daly: fully backs holding rates steady in July",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9709697/Feds-Daly-fully-backs-holding-rates-steady-in-July.aspx?xy=rss",
+      "published": "2026-08-06T01:04:19+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Daly: central bank faces varied risks in setting rate policy",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9709696/Feds-Daly-central-bank-faces-varied-risks-in-setting-rate-policy.aspx?xy=rss",
+      "published": "2026-08-06T01:03:18+00:00",
       "score": 1
     },
     {
@@ -39,24 +210,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Unifor: BC labour board forces Amazon to first union contract through binding arbitration - website",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9709525/Unifor-BC-labour-board-forces-Amazon-to-first-union-contract-through-binding-arbitration---website.aspx?xy=rss",
-      "published": "2026-08-05T22:14:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesia: Growth-inflation mix supports steady BI stance – DBS",
-      "summary": "DBS Group Research economist Radhika Rao notes Indonesia’s onshore markets are focused on the appointment of a new Bank Indonesia Governor after Perry Warjiyo’s departure, with Acting Governor Destry Damayanti prioritising non-rate measures and IDR liquidity.",
-      "link": "https://www.fxstreet.com/news/indonesia-growth-inflation-mix-supports-steady-bi-stance-dbs-202608052211",
-      "published": "2026-08-05T22:11:00+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "Trump: Iran cannot have a nuclear weapon",
@@ -84,96 +237,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South Korean Won: Strength extends on intervention talk against US Dollar – Commerzbank",
-      "summary": "Commerzbank economists highlight ongoing Korean Won (KRW) appreciation against the Dollar. USD/KRW slipped 0.1% to 1,430, extending declines from earlier in the week.",
-      "link": "https://www.fxstreet.com/news/south-korean-won-strength-extends-on-intervention-talk-against-us-dollar-commerzbank-202608052133",
-      "published": "2026-08-05T21:33:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: Gold surges above $4,240 as US labor data crumbles",
-      "summary": "Metals were the biggest earners of the day on Wednesday, with Gold surging more than 4% to trade near $4,247 per troy ounce and Silver rallying almost 5% toward $62.20 amid a softer-than-expected US labor market report, with a slowdown in private hiring.",
-      "link": "https://www.fxstreet.com/news/forex-today-gold-surges-above-4-240-as-us-labor-data-crumbles-202608052115",
-      "published": "2026-08-05T21:15:38+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed Cook backs hold but warns rate hike possible if disinflation stalls",
-      "summary": "Fed Governor Lisa Cook said she supported leaving rates unchanged at the last Federal Open Market Committee (FOMC) meeting, as she awaits more data. She added that inflation risks outweigh job market risks, while reaffirming her full commitment to restoring price stability.",
-      "link": "https://www.fxstreet.com/news/fed-cook-backs-hold-but-warns-rate-hike-possible-if-disinflation-stalls-202608052048",
-      "published": "2026-08-05T20:48:45+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Break of 1.2790 may unlock further gains – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/SGD was broadly flat on Tuesday, with SGD NEER trading 1.5–2.0% above its mid-point, implying a 1.2773–1.2837 range. Intraday, they expect consolidation between 1.2805 and 1.2840.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-break-of-12790-may-unlock-further-gains-uob-202608052047",
-      "published": "2026-08-05T20:47:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso extends nine-day gains as Gulf War de-escalates",
-      "summary": "The Mexican Peso extends its gains for the ninth consecutive day on Wednesday, as the US Dollar remains on the back foot amid softer-than-expected US jobs data ahead of the crucial Nonfarm Payrolls report. The USD/MXN trades at 17.24, down 0.10%.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-extends-nine-day-gains-as-gulf-war-de-escalates-202608052038",
-      "published": "2026-08-05T20:38:08+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Stocks Pause After Surge as Earnings, Hormuz Hopes in Focus – US Market Wrap",
-      "summary": "<div>Wall Street’s blistering rally took a breather as traders digested recent gains alongside a wave of corporate earnings and optimism around a reopening of the Strait of Hormuz.</div><div><br /></div><div>After a run that added $3.7 trillion to the S&amp;P 500’s market value, the index edged lower, with most megacaps declining even as Nvidia rose. Despite strong results, SpaceX tumbled 14% as $",
-      "link": "https://www.financialjuice.com/News/9709415/Stocks-Pause-After-Surge-as-Earnings-Hormuz-Hopes-in-Focus--US-Market-Wrap.aspx?xy=rss",
-      "published": "2026-08-05T20:23:11+00:00",
-      "score": 5
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump delivers remarks in Las Vegas - WATCH LIVE",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9709414/Trump-delivers-remarks-in-Las-Vegas---WATCH-LIVE.aspx?xy=rss",
-      "published": "2026-08-05T20:20:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Cook: Sour consumer sentiment linked to various factors including high inflation",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9709387/Feds-Cook-Sour-consumer-sentiment-linked-to-various-factors-including-high-inflation.aspx?xy=rss",
-      "published": "2026-08-05T20:05:41+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Cook: Job market remains sturdy",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9709386/Feds-Cook-Job-market-remains-sturdy.aspx?xy=rss",
-      "published": "2026-08-05T20:05:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Cook: It may still prove unnecessary for the Fed to hike rates",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9709385/Feds-Cook-It-may-still-prove-unnecessary-for-the-Fed-to-hike-rates.aspx?xy=rss",
-      "published": "2026-08-05T20:05:39+00:00",
-      "score": 2
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "TRUMP ADMINISTRATION PLANS TO IMPOSE TARIFF OF 15% ON POLYSILICON DERIVATIVES -SOURCES",
@@ -190,42 +253,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2085082768086843625#m",
       "published": "2026-08-05T19:17:25+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro advances as US labor data disappoints",
-      "summary": "EUR/USD trades on the front foot near 1.1560 on Wednesday, adding around 0.2% as a weak United States (US) labor market report undermines the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/euro-advances-as-us-labor-data-disappoints-202608051913",
-      "published": "2026-08-05T19:13:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG skyrockets above $60, tests 50-day SMA",
-      "summary": "Silver (XAG/USD) price surges more than 4% on Wednesday as the Greenback remains on the back foot due to softer-than-expected jobs and data, though the fall was capped as business activity in the services sector continued to expand.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-skyrockets-above-60-tests-50-day-sma-202608051859",
-      "published": "2026-08-05T18:59:38+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Range trade holds ahead of Q2 GDP against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the British Pound (GBP) is slightly firmer versus the US Dollar (USD), with modestly better PMIs but a fading fundamental backdrop as 2-year spreads give back gains since late June.",
-      "link": "https://www.fxstreet.com/news/british-pound-range-trade-holds-ahead-of-q2-gdp-against-us-dollar-scotiabank-202608051842",
-      "published": "2026-08-05T18:42:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold rallies as Iran-US deal seems closer ahead of NFP",
-      "summary": "Gold (XAU/USD) price surges to its highest level in nearly seven weeks, gaining nearly 3.80% on Wednesday as the Greenback loses ground and US Treasury yields fail to gain traction. The XAU/USD pair trades at $4,232, its highest level since June 18, after bouncing off daily lows of $4,065.",
-      "link": "https://www.fxstreet.com/news/gold-rallies-as-iran-us-deal-seems-closer-ahead-of-nfp-202608051819",
-      "published": "2026-08-05T18:19:04+00:00",
-      "score": 5
     },
     {
       "source": "Walter Bloomberg",
@@ -352,15 +379,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vg3mol/thinking_of_swing_trading/",
       "published": "2026-08-05T10:33:30+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The Yen carry trade is dying. Before April 2025, the USD/JPY currency pair showed a close correlation with the 10Y rate differential between US and Japanese bonds. This was driven by investors borrowing in Yen to fund higher-yielding US Dollar assets through the carry trade. That relationship broke down after \"Liberation Day,\" when trade war uncertainty triggered a surge in market volatility and forced investors to unwind some of their carry trade positions. Meanwhile, the 10Y Treasury note yield is now trading ~2.0 percentage points above the Japanese 10Y Government Bond Yield, falling -1.0 percentage point since April 2025, near the lowest gap since 2021. Yet, USD/JPY continued to move higher as the US Dollar strengthened against the Yen, despite the narrowing yield gap, breaking away from the interest rate differential that historically drove the pair. In other words, the carry trade is losing its influence, with the Yen no longer driven primarily by rate differentials as investors increasingly price in Japan’s heavy debt burden and rising debt servicing costs. Japan’s rising debt costs are becoming impossible to ignore.",
-      "summary": "<p>The Yen carry trade is dying.<br />\n<br />\nBefore April 2025, the USD/JPY currency pair showed a close correlation with the 10Y rate differential between US and Japanese bonds.<br />\n<br />\nThis was driven by investors borrowing in Yen to fund higher-yielding US Dollar assets through the carry trade.<br />\n<br />\nThat relationship broke down after \"Liberation Day,\" when trade war uncertainty tr",
-      "link": "https://nitter.net/KobeissiLetter/status/2084805628816409056#m",
-      "published": "2026-08-05T00:56:10+00:00",
-      "score": 2
     },
     {
       "source": "Federal Reserve",
