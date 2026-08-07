@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-07T03:39:50.741265+00:00",
-  "count": 63,
+  "updated_at": "2026-08-07T05:24:12.145853+00:00",
+  "count": 62,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: Consolidates near 158.55/38.2% Fibo. before the next leg up",
+      "summary": "The USD/JPY pair extends the range play through the Asian session on Friday, stalling this week's solid recovery from its lowest level since May, touched in the aftermath of a joint US-Japan intervention.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-consolidates-near-15855-382-fibo-before-the-next-leg-up-202608070511",
+      "published": "2026-08-07T05:11:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc weakens as increased risk aversion boosts safe-haven US Dollar",
+      "summary": "USD/CHF extends its gains for the second successive day, trading around 0.8130 during the Asian hours on Friday. The currency pair appreciates as the US Dollar (USD) gains strength, driven by renewed safe-haven demand amid escalating Middle East tensions.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-increased-risk-aversion-boosts-safe-haven-us-dollar-202608070443",
+      "published": "2026-08-07T04:43:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Friday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608070436",
+      "published": "2026-08-07T04:36:25+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -77,8 +104,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold consolidates below recent highs as USD strength and Fed hike bets cap ahead of US NFP",
-      "summary": "Gold (XAU/USD) consolidates below $4,250 during the Asian session on Friday and, for now, seems to have stalled the previous day's retracement slide from its highest level since June 18.",
+      "title": "Gold trades above $4,250; upside seems capped as Fed hike bets support USD ahead of US NFP",
+      "summary": "Gold (XAU/USD) attracts some dip-buyers during the Asian session on Friday, stalling the previous day's retracement slide from levels just above the $4,300 mark, or the highest since June 18. The commodity currently trades just above $4,250 and seems poised to register its best week since January.",
       "link": "https://www.fxstreet.com/news/gold-consolidates-below-recent-highs-as-usd-strength-and-fed-hike-bets-cap-ahead-of-us-nfp-202608070135",
       "published": "2026-08-07T01:35:01+00:00",
       "score": 5
@@ -145,42 +172,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2085494375283298387#m",
       "published": "2026-08-06T22:33:00+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Philippine Peso: Inflation and politics weigh on PHP against US Dollar – ING",
-      "summary": "ING economists Deepali Bhargava and Lynn Song warn that upside inflation risks are re-emerging for the Philippine Peso (PHP), driven by recovering Oil prices and expectations of a strong El Niño that could spark a food-price shock. Rising global rice and fertiliser prices add to pressures.",
-      "link": "https://www.fxstreet.com/news/philippine-peso-inflation-and-politics-weigh-on-php-against-us-dollar-ing-202608062209",
-      "published": "2026-08-06T22:09:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed’s Musalem backs rate hikes, says inflation remains too high",
-      "summary": "The St. Louis Fed President, Alberto Musalem, stressed that “inflation is too high” and that it’s “critical” that monetary policy focuses on bringing down inflation.",
-      "link": "https://www.fxstreet.com/news/feds-musalem-backs-rate-hikes-says-inflation-remains-too-high-202608062159",
-      "published": "2026-08-06T21:59:46+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso strengthens as Banxico hold extends 10-day rally",
-      "summary": "The Mexican peso extends its rally to 10 straight days, gaining over 0.12% on Thursday after the Bank of Mexico (Banxico) left interest rates unchanged. At the time of writing, the USD/MXN exotic pair trades at 17.21, after reaching a daily high of 17.26.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-strengthens-as-banxico-hold-extends-10-day-rally-202608062146",
-      "published": "2026-08-06T21:46:43+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar drops amid a firmer US Dollar",
-      "summary": "NZD/USD trades lower near the 0.5900 level at the time of writing, with no New Zealand catalyst behind the move. The US Dollar Index (DXY) is up 0.26% near the 100.00 level, and the Kiwi is simply on the wrong side of it.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-drops-amid-a-firmer-us-dollar-202608062115",
-      "published": "2026-08-06T21:15:54+00:00",
-      "score": 2
     },
     {
       "source": "Walter Bloomberg",
