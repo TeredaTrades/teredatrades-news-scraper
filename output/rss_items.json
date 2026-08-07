@@ -1,7 +1,160 @@
 {
-  "updated_at": "2026-08-07T12:28:01.867584+00:00",
-  "count": 69,
+  "updated_at": "2026-08-07T13:52:32.663517+00:00",
+  "count": 57,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver: Solar demand headwinds emerge – Commerzbank",
+      "summary": "Commerzbank’s Carsten Fritsch notes that the Silver price has surged over 10% this week to USD 63.9 per troy ounce, its highest level since late June, pulling the gold/silver ratio back below 70.",
+      "link": "https://www.fxstreet.com/news/silver-solar-demand-headwinds-emerge-commerzbank-202608071348",
+      "published": "2026-08-07T13:48:18+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: WH Sr. Adviser Hassett: Take out govt workers, the World Cup and jobs rose 100,000 - Fox Business",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712412/WH-Sr-Adviser-Hassett-Take-out-govt-workers-the-World-Cup-and-jobs-rose-100000---Fox-Business.aspx?xy=rss",
+      "published": "2026-08-07T13:45:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen surges as weak US jobs data questions Fed rate hike expectations",
+      "summary": "USD/JPY falls toward 157.40 on Friday, down 0.65% on the day at the time of writing, as the US Dollar (USD) comes under heavy selling pressure following a much weaker-than-expected US employment report.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-surges-as-weak-us-jobs-data-questions-fed-rate-hike-expectations-202608071338",
+      "published": "2026-08-07T13:38:19+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: -96 mln<br />Nasdaq 100: -29 mln<br />Dow 30: +13 mln<br />Mag 7: -13 mln",
+      "link": "https://www.financialjuice.com/News/9712393/MOO-Imbalance.aspx?xy=rss",
+      "published": "2026-08-07T13:30:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound climbs above 1.3500 after weak US NFP data",
+      "summary": "The British Pound (GBP) strengthens against the US Dollar (USD) on Friday after a disappointing US Nonfarm Payrolls report prompts traders to scale back bets on Federal Reserve (Fed) interest-rate hikes. At the time of writing, GBP/USD trades around 1.3506, hovering near three-week highs.",
+      "link": "https://www.fxstreet.com/news/british-pound-climbs-above-13500-after-weak-us-nfp-data-202608071328",
+      "published": "2026-08-07T13:28:07+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: WH Sr. Adviser Hassett: Government workers and World Cup rebound part of jobs weakness",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712389/WH-Sr-Adviser-Hassett-Government-workers-and-World-Cup-rebound-part-of-jobs-weakness.aspx?xy=rss",
+      "published": "2026-08-07T13:21:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: WH Sr. Adviser Hassett on jobs: We are seeing a little bit of participation weakness.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712387/WH-Sr-Adviser-Hassett-on-jobs-We-are-seeing-a-little-bit-of-participation-weakness.aspx?xy=rss",
+      "published": "2026-08-07T13:21:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Credit Agricole: Next Week, Inflation Takes Centre Stage Ahead of September FOMC - FJElite",
+      "summary": "<div>Next week’s focus is firmly on inflation, with CPI on Wednesday and PPI on Thursday, alongside retail sales, consumer sentiment, existing home sales and a small number of Fed speakers. July CPI is expected to sit between June’s softer print and the hotter spring readings, with headline inflation seen at 0.2% MoM and 3.4% YoY, while core is forecast at 0.3% MoM and 2.5% YoY.</div><div><br /></",
+      "link": "https://www.financialjuice.com/News/9712367/Credit-Agricole-Next-Week-Inflation-Takes-Centre-Stage-Ahead-of-September-FOMC---FJElite.aspx?xy=rss",
+      "published": "2026-08-07T13:13:10+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Sentiment: Super Soft Jobs Data Boosts Risk Appetite - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712366/US-Sentiment-Super-Soft-Jobs-Data-Boosts-Risk-Appetite---FJElite.aspx?xy=rss",
+      "published": "2026-08-07T13:08:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Gold futures surge above $4,400/oz to their highest level since June 5th on news that the US economy lost -23,000 jobs in July. Gold is now up more than +10% in over the last month.",
+      "summary": "<p>BREAKING: Gold futures surge above $4,400/oz to their highest level since June 5th on news that the US economy lost -23,000 jobs in July.<br />\n<br />\nGold is now up more than +10% in over the last month.</p>\n<img src=\"https://nitter.net/pic/media%2FHPHs1baW8AAbr_9.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2085714575891284195#m",
+      "published": "2026-08-07T13:08:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro surges as shocking US NFP reverses Fed September hike expectations",
+      "summary": "EUR/USD jumps 0.43% on the day and trades around 1.1570 at the time of writing, as the US Dollar (USD) comes under heavy selling pressure following a much weaker-than-expected US employment report.",
+      "link": "https://www.fxstreet.com/news/euro-surges-as-shocking-us-nfp-reverses-fed-september-hike-expectations-202608071300",
+      "published": "2026-08-07T13:00:06+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Effective fed funds rate 3.63% August 6th vs 3.63% August 5th",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712339/Effective-fed-funds-rate-363-August-6th-vs-363-August-5th.aspx?xy=rss",
+      "published": "2026-08-07T12:59:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The odds of a September rate hike fall to 40% after the US economy unexpectedly posts its 3rd biggest monthly job loss since the pandemic in 2020. Just days ago, markets saw at 70%+ chance of a September rate hike. Gold prices are surging above $4,400/oz on the news.",
+      "summary": "<p>BREAKING: The odds of a September rate hike fall to 40% after the US economy unexpectedly posts its 3rd biggest monthly job loss since the pandemic in 2020.<br />\n<br />\nJust days ago, markets saw at 70%+ chance of a September rate hike.<br />\n<br />\nGold prices are surging above $4,400/oz on the news.</p>\n<img src=\"https://nitter.net/pic/media%2FHPHrax3WYAA613L.jpg\" />\n\n<hr />\n<blockquote>\n<b>",
+      "link": "https://nitter.net/KobeissiLetter/status/2085707348727693508#m",
+      "published": "2026-08-07T12:39:17+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US rate futures price in just 28 bps of hike by December vs 32 bps before jobs data.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712319/US-rate-futures-price-in-just-28-bps-of-hike-by-December-vs-32-bps-before-jobs-data.aspx?xy=rss",
+      "published": "2026-08-07T12:34:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The US economy unexpectedly loses -23,000 jobs in July, well below expectations of +85,000. The unemployment rate fell to 4.1%, below expectations of 4.2%. June's jobs number was also revised down by -37,000 jobs. This marks the 3rd biggest monthly job loss since the pandemic in 2020.",
+      "summary": "<p>BREAKING: The US economy unexpectedly loses -23,000 jobs in July, well below expectations of +85,000.<br />\n<br />\nThe unemployment rate fell to 4.1%, below expectations of 4.2%.<br />\n<br />\nJune's jobs number was also revised down by -37,000 jobs.<br />\n<br />\nThis marks the 3rd biggest monthly job loss since the pandemic in 2020.</p>",
+      "link": "https://nitter.net/KobeissiLetter/status/2085705690794856885#m",
+      "published": "2026-08-07T12:32:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US interest rate futures reduce chances of Fed hike in September after jobs data.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712316/US-interest-rate-futures-reduce-chances-of-Fed-hike-in-September-after-jobs-data.aspx?xy=rss",
+      "published": "2026-08-07T12:32:35+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Traders pare bets on fed rate increase during 2026.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712315/Traders-pare-bets-on-fed-rate-increase-during-2026.aspx?xy=rss",
+      "published": "2026-08-07T12:32:24+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -10,15 +163,6 @@
       "link": "https://www.fxstreet.com/news/india-inflation-steady-trade-deficit-persists-dbs-202608071226",
       "published": "2026-08-07T12:26:24+00:00",
       "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "BofA WARNS BULLISH SENTIMENT HAS GONE TOO FAR Bank of America says investor optimism has reached its most extreme level since 2021, signaling it may be time to cut risk. Its Bull & Bear indicator jumped to 9.7, driven by strong stock markets, credit inflows and tighter spreads. BofA recommends rotating toward defensive assets, bonds and the US dollar. The warning comes as global equities hit record highs, with Friday’s US jobs report the next major test for markets.",
-      "summary": "<p>BofA WARNS BULLISH SENTIMENT HAS GONE TOO FAR<br />\n<br />\nBank of America says investor optimism has reached its most extreme level since 2021, signaling it may be time to cut risk.<br />\n<br />\nIts Bull & Bear indicator jumped to 9.7, driven by strong stock markets, credit inflows and tighter spreads.<br />\n<br />\nBofA recommends rotating toward defensive assets, bonds and the US dollar.<br /",
-      "link": "https://nitter.net/DeItaone/status/2085700303395987742#m",
-      "published": "2026-08-07T12:11:17+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -48,15 +192,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "“SELL AMERICA” TRADE RETURNS AS FED & YEN RISKS RISE Barclays says the “Sell America” trade is resurfacing, particularly across the dollar and US bond markets. Uncertainty over Fed policy, a potential yen carry-trade unwind and concerns over AI spending are driving volatility. However, US equities continue hitting new highs, supported by strong corporate earnings. Barclays remains constructive on stocks but warns that hot jobs or inflation data could quickly revive Fed concerns and intensify market volatility.",
-      "summary": "<p>“SELL AMERICA” TRADE RETURNS AS FED & YEN RISKS RISE<br />\n<br />\nBarclays says the “Sell America” trade is resurfacing, particularly across the dollar and US bond markets.<br />\n<br />\nUncertainty over Fed policy, a potential yen carry-trade unwind and concerns over AI spending are driving volatility.<br />\n<br />\nHowever, US equities continue hitting new highs, supported by strong corporate e",
-      "link": "https://nitter.net/DeItaone/status/2085694545983906302#m",
-      "published": "2026-08-07T11:48:24+00:00",
-      "score": 3
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "US Dollar Index Price Forecast: Likely find direction after US NFP release",
@@ -84,19 +219,10 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: JPMorgan's Feroli on NFP: Modest Job Growth, Unemployment Seen at 4.3% - FJElite",
-      "summary": "<div>Feroli expects July payrolls to rise by 75,000, slightly below the 80,000 consensus but above the previous 57,000 increase. The unemployment rate is forecast to rise to 4.3% from 4.2%.</div><div>Average hourly earnings are expected to increase 0.2% month-on-month and 3.5% year-on-year.</div><div><br /></div><div>Options expiring August 7 imply roughly a 0.7% move. With yields and inflation st",
-      "link": "https://www.financialjuice.com/News/9712188/JPMorgans-Feroli-on-NFP-Modest-Job-Growth-Unemployment-Seen-at-43---FJElite.aspx?xy=rss",
-      "published": "2026-08-07T11:25:09+00:00",
-      "score": 3
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold rises above $4,300 as traders brace for US Nonfarm Payrolls",
-      "summary": "Gold (XAU/USD) extends its recovery on Friday as technical buying accelerates, even as market sentiment remains cautious due to developments in the Middle East and uncertainty over the Federal Reserve’s (Fed) interest-rate outlook.",
+      "title": "Gold heads for best week since January after disappointing NFP",
+      "summary": "Gold (XAU/USD) extends its recovery on Friday as weaker-than-expected US payroll growth weighs on the US Dollar (USD) and US Treasury yields. At the time of writing, XAU/USD trades around $4,368, its highest level since June 17.",
       "link": "https://www.fxstreet.com/news/gold-rises-above-4-300-as-traders-brace-for-us-nonfarm-payrolls-202608071121",
       "published": "2026-08-07T11:21:15+00:00",
       "score": 5
@@ -120,111 +246,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "GOLDMAN: YEN INTERVENTION REINFORCES DOLLAR DOMINANCE Goldman Sachs says the latest US-Japan intervention to support the yen strengthens, rather than weakens, the dollar’s status as the world’s leading reserve currency. Washington’s intervention in EUR/JPY and Japan’s potential access to the Fed’s FIMA dollar facility highlight the depth and liquidity of US financial markets. Goldman argues no competing reserve asset currently matches the dollar’s global infrastructure, liquidity and usefulness during periods of financial stress.",
-      "summary": "<p>GOLDMAN: YEN INTERVENTION REINFORCES DOLLAR DOMINANCE<br />\n<br />\nGoldman Sachs says the latest US-Japan intervention to support the yen strengthens, rather than weakens, the dollar’s status as the world’s leading reserve currency.<br />\n<br />\nWashington’s intervention in EUR/JPY and Japan’s potential access to the Fed’s FIMA dollar facility highlight the depth and liquidity of US financial m",
-      "link": "https://nitter.net/DeItaone/status/2085687312294273241#m",
-      "published": "2026-08-07T11:19:40+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US NFP Prep: Focus Remains on Inflation, but Markets May Pay Attention to the Extreme Scenarios - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9712187/US-NFP-Prep-Focus-Remains-on-Inflation-but-Markets-May-Pay-Attention-to-the-Extreme-Scenarios---FJElite.aspx?xy=rss",
-      "published": "2026-08-07T11:19:25+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US NFP Crib Sheet - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9712186/US-NFP-Crib-Sheet---FJElite.aspx?xy=rss",
-      "published": "2026-08-07T11:19:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "🇺🇸PRESIDENT TRUMP — FRIDAY SCHEDULE AUGUST 7, 2026 🔸 8:00 AM Executive Time 📍 White House 🔸 11:00 AM Policy Meeting 📍 White House 🔸 12:00 PM Policy Meeting 📍 White House 🔸 3:00 PM ⛏️ Roundtable on American Mining 📍 U.S. Department of State 🔸 TBD ✈️ Departs Washington 📍 En route to Bedminster, New Jersey 🔸 TBD Arrives at Trump National Golf Club 📍 Bedminster, NJ",
-      "summary": "<p>🇺🇸PRESIDENT TRUMP — FRIDAY SCHEDULE<br />\n<br />\nAUGUST 7, 2026<br />\n<br />\n🔸 8:00 AM<br />\nExecutive Time<br />\n📍 White House<br />\n<br />\n🔸 11:00 AM<br />\nPolicy Meeting<br />\n📍 White House<br />\n<br />\n🔸 12:00 PM<br />\nPolicy Meeting<br />\n📍 White House<br />\n<br />\n🔸 3:00 PM<br />\n⛏️ Roundtable on American Mining<br />\n📍 U.S. Department of State<br />\n<br />\n🔸 TBD<br />\n✈️ Departs Washingt",
-      "link": "https://nitter.net/DeItaone/status/2085685414925394081#m",
-      "published": "2026-08-07T11:12:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar lacks direction ahead of twin US, Canadian employment releases",
-      "summary": "USD/CAD trades around 1.4020 on Friday at the time of writing, up a modest 0.06% on the day with no clear directional bias as investors remain cautious ahead of the release of US and Canadian July employment reports.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-lacks-direction-ahead-of-twin-us-canadian-employment-releases-202608071106",
-      "published": "2026-08-07T11:06:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "US JOBS DATA COULD MAKE OR BREAK SEPTEMBER FED HIKE Bond traders are bracing for Friday’s US jobs report as markets price more than a 50% chance of a September Fed rate hike. Economists expect around 80,000 jobs were added in July. A strong report, particularly higher wage pressure, could boost rate-hike expectations and Treasury yields. Weak employment data could reduce those bets. Next week’s US inflation figures will provide another crucial signal for the Fed’s next move.",
-      "summary": "<p>US JOBS DATA COULD MAKE OR BREAK SEPTEMBER FED HIKE<br />\n<br />\nBond traders are bracing for Friday’s US jobs report as markets price more than a 50% chance of a September Fed rate hike.<br />\n<br />\nEconomists expect around 80,000 jobs were added in July.<br />\n<br />\nA strong report, particularly higher wage pressure, could boost rate-hike expectations and Treasury yields.<br />\n<br />\nWeak ",
-      "link": "https://nitter.net/DeItaone/status/2085683941055382008#m",
-      "published": "2026-08-07T11:06:16+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar edges up against US Dollar with NFP data in focus",
-      "summary": "The Australian Dollar (AUD) trades slightly higher to near 0.7040 against the US Dollar (USD) during the European trading session on Friday.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-edges-up-against-us-dollar-with-nfp-data-in-focus-202608071053",
-      "published": "2026-08-07T10:53:59+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "1.1560: Why the Euro's recovery is facing its biggest technical hurdle",
-      "summary": "The Euro (EUR) has staged a notable recovery from its mid-June lows against the US Dollar (USD), driven in part by financial markets dialing back expectations for further Federal Reserve (Fed) interest rate hikes.",
-      "link": "https://www.fxstreet.com/news/11560-why-the-euros-recovery-is-facing-its-biggest-technical-hurdle-202608071047",
-      "published": "2026-08-07T10:47:29+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "GLOBAL BOND INFLOWS SURGE AS EQUITY DEMAND COOLS Global bond funds attracted $23 billion this week, driven by strong demand for US high-yield debt. US bond inflows jumped to $17.8 billion from $7.9 billion last week, while Canadian and eurozone government bonds also saw solid demand. Meanwhile, global equity inflows slowed sharply to $32.9 billion, down from $63.7 billion the previous week.",
-      "summary": "<p>GLOBAL BOND INFLOWS SURGE AS EQUITY DEMAND COOLS<br />\n<br />\nGlobal bond funds attracted $23 billion this week, driven by strong demand for US high-yield debt.<br />\n<br />\nUS bond inflows jumped to $17.8 billion from $7.9 billion last week, while Canadian and eurozone government bonds also saw solid demand.<br />\n<br />\nMeanwhile, global equity inflows slowed sharply to $32.9 billion, down fr",
-      "link": "https://nitter.net/DeItaone/status/2085674594434699393#m",
-      "published": "2026-08-07T10:29:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD rallies further with bulls eyeing $4,380 area",
-      "summary": "Gold (XAU/USD) resumes its bullish trend on Friday, after a brief consolidation on Thursday, to reach fresh three-week highs above $4,300, with bulls aiming for mid-June highs in the $4,380 area.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-rallies-further-with-bulls-eyeing-4-380-area-202608071023",
-      "published": "2026-08-07T10:23:21+00:00",
-      "score": 3
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "R to @KobeissiLetter: On June 24th, we posted the below analysis for our premium members. As gold fell into $4,000/oz, we increased bullish exposure and called for $4,500/oz. Today, this setup is nearly +$300/oz in the money. Subscribe to access our premium analysis: http://thekobeissiletter.com/subscribe",
       "summary": "<p>On June 24th, we posted the below analysis for our premium members.<br />\n<br />\nAs gold fell into $4,000/oz, we increased bullish exposure and called for $4,500/oz.<br />\n<br />\nToday, this setup is nearly +$300/oz in the money.<br />\n<br />\nSubscribe to access our premium analysis:<br />\n<br />\n<a href=\"http://thekobeissiletter.com/subscribe\">thekobeissiletter.com/subscr…</a></p>\n<img src=\"ht",
       "link": "https://nitter.net/KobeissiLetter/status/2085668832140497067#m",
       "published": "2026-08-07T10:06:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "RT by @DeItaone: 🇺🇸 JULY JOBS REPORT: ALL EYES ON FRIDAY The July Nonfarm Payrolls report is due Friday at 8:30 AM ET. Prediction Markets • Kalshi: +72K Bank Forecasts • Highest: Citigroup, Santander +115K • Lowest: Deutsche Bank +65K • Median: +80K WSJ Consensus • Payrolls: +83K (vs. +57K prior) • Unemployment: 4.2% • Avg. Hourly Earnings: +0.3% M/M, +3.5% Y/Y https://kalshi.com/markets/kxpayrolls/jobs-numbers/kxpayrolls-26jul?utm_source=walterbloomberg",
-      "summary": "<p>🇺🇸 JULY JOBS REPORT: ALL EYES ON FRIDAY<br />\n<br />\nThe July Nonfarm Payrolls report is due Friday at 8:30 AM ET.<br />\n<br />\nPrediction Markets<br />\n• Kalshi: +72K<br />\n<br />\nBank Forecasts <br />\n• Highest: Citigroup, Santander +115K<br />\n• Lowest: Deutsche Bank +65K<br />\n• Median: +80K<br />\n<br />\nWSJ Consensus<br />\n• Payrolls: +83K (vs. +57K prior)<br />\n• Unemployment: 4.2%<br />\n",
-      "link": "https://nitter.net/DeItaone/status/2085668140394918323#m",
-      "published": "2026-08-07T10:03:29+00:00",
       "score": 1
     },
     {
@@ -237,129 +264,12 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "SPOT SILVER EXTENDS GAINS, RISES 5% TO $64.56/OZ",
-      "summary": "<p>SPOT SILVER  EXTENDS GAINS, RISES 5% TO $64.56/OZ</p>",
-      "link": "https://nitter.net/DeItaone/status/2085663643773919475#m",
-      "published": "2026-08-07T09:45:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "WALL STREET HEADS FOR BEST WEEK IN MONTHS US stocks are on track for their strongest week in months, fueled by a rebound in AI stocks, strong earnings and hopes for a Strait of Hormuz deal. The S&P 500 is up 2.9% this week, while the Dow has gained 2.7%. The Nasdaq is outperforming with a 3.8% rise. Previously beaten-down tech names also surged, with Coherent jumping 27% and Lumentum gaining 17%.",
-      "summary": "<p>WALL STREET HEADS FOR BEST WEEK IN MONTHS<br />\n<br />\nUS stocks are on track for their strongest week in months, fueled by a rebound in AI stocks, strong earnings and hopes for a Strait of Hormuz deal.<br />\n<br />\nThe S&amp;P 500 is up 2.9% this week, while the Dow has gained 2.7%.<br />\n<br />\nThe Nasdaq is outperforming with a 3.8% rise.<br />\n<br />\nPreviously beaten-down tech names also s",
-      "link": "https://nitter.net/DeItaone/status/2085662456630645179#m",
-      "published": "2026-08-07T09:40:54+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP SAYS HORMUZ DEAL IS “MOVING ALONG” Donald Trump says negotiations over reopening the Strait of Hormuz are progressing, despite Iranian lawmakers considering restrictions on US- and Israeli-linked ships. Iran and Oman are discussing a framework that could give Tehran greater control over vessel entry while introducing new fees and restrictions. However, tensions remain high and approval from Iran’s Supreme Leader is still uncertain. Reopening the vital energy route could restore oil flows and restart broader US-Iran talks. Brent crude rose above $83 a barrel.",
-      "summary": "<p>TRUMP SAYS HORMUZ DEAL IS “MOVING ALONG”<br />\n<br />\nDonald Trump says negotiations over reopening the Strait of Hormuz are progressing, despite Iranian lawmakers considering restrictions on US- and Israeli-linked ships.<br />\n<br />\nIran and Oman are discussing a framework that could give Tehran greater control over vessel entry while introducing new fees and restrictions.<br />\n<br />\nHoweve",
-      "link": "https://nitter.net/DeItaone/status/2085661108904272136#m",
-      "published": "2026-08-07T09:35:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$NVDA - US REVIEWS CHINA’S OFFSHORE NVIDIA CHIP ACCESS AFTER AI GAINS",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - US REVIEWS CHINA’S OFFSHORE NVIDIA CHIP ACCESS AFTER AI GAINS</p>",
-      "link": "https://nitter.net/DeItaone/status/2085660667642532200#m",
-      "published": "2026-08-07T09:33:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: U.S. SHOULD PAY LOWEST INTEREST RATE IN WORLD TRUMP: FED RATE DECISION ‘NOT TOTALLY UP’ TO WARSH TRUMP SAYS WARSH HAS BOARD THAT’S ‘VERY POLITICAL’ TRUMP ON WARSH: ‘I THINK HE’S GREAT’",
-      "summary": "<p>TRUMP: U.S. SHOULD PAY LOWEST INTEREST RATE IN WORLD<br />\n<br />\nTRUMP: FED RATE DECISION ‘NOT TOTALLY UP’ TO WARSH<br />\n<br />\nTRUMP SAYS WARSH HAS BOARD THAT’S ‘VERY POLITICAL’<br />\n<br />\nTRUMP ON WARSH: ‘I THINK HE’S GREAT’</p>",
-      "link": "https://nitter.net/DeItaone/status/2085659543577546796#m",
-      "published": "2026-08-07T09:29:19+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We have President Xi coming here in a couple of weeks",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9712027/Trump-We-have-President-Xi-coming-here-in-a-couple-of-weeks.aspx?xy=rss",
-      "published": "2026-08-07T09:22:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Warsh: I think he’s great; I won’t be criticizing him",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9712008/Trump-on-Warsh-I-think-hes-great-I-wont-be-criticizing-him.aspx?xy=rss",
-      "published": "2026-08-07T09:10:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: It's not completely up to Warsh on rate hike before vote",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9712007/Trump-Its-not-completely-up-to-Warsh-on-rate-hike-before-vote.aspx?xy=rss",
-      "published": "2026-08-07T09:10:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump, on rate hike: It's up to Warsh a 'little bit’",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9712005/Trump-on-rate-hike-Its-up-to-Warsh-a-little-bit.aspx?xy=rss",
-      "published": "2026-08-07T09:09:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: UBS: Week Ahead - FJElite",
-      "summary": "<div><ul><li>USD strength appears increasingly vulnerable as markets question the Fed's willingness to follow through on its hawkish rhetoric. With July's policy pause, softer inflation and labor market data, crowded long-USD positioning, and aggressive Fed pricing, the bar for more USD gains remains high ahead of the 16 September FOMC meeting.</li><li>The debate over how to measure inflation coul",
-      "link": "https://www.financialjuice.com/News/9711994/UBS-Week-Ahead---FJElite.aspx?xy=rss",
-      "published": "2026-08-07T09:01:11+00:00",
-      "score": 5
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING: The CAD - FJElite",
-      "summary": "Canada releases jobs figures at the same time as the US today. That often leaves USD/CAD reacting more to US figures. Incidentally, a dovish print for the Fed tends to see CAD trail other pro-cyclical commodity currencies due to the correlation between USD and CAD rates. All this means the net impact of Canadian jobs data may need to be assessed in the crosses and with some caution.<div><br /></di",
-      "link": "https://www.financialjuice.com/News/9711957/ING-The-CAD---FJElite.aspx?xy=rss",
-      "published": "2026-08-07T08:31:12+00:00",
-      "score": 5
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING: The EUR - FJElite",
-      "summary": "<div>in the past year, tUK/usu nas movea on average u.¿% in tne nour arter tne ni-h release, i ne past two prints both saw moves of 0.4%, though, positive in July and negative in June. Those moves were also larger than in other recent instances with comparable payroll surprises.</div><div><br /></div><div>That fits into our perception of greater data-related FX volatility under Warsh. And we suspe",
-      "link": "https://www.financialjuice.com/News/9711951/ING-The-EUR---FJElite.aspx?xy=rss",
-      "published": "2026-08-07T08:30:21+00:00",
-      "score": 3
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "US July Nonfarm Payrolls to test expectations for a September Fed rate hike",
-      "summary": "The United States (US) Bureau of Labor Statistics (BLS) is set to release the Nonfarm Payrolls (NFP) data for July on Friday at 12:30 GMT.",
+      "title": "Breaking: US Nonfarm Payrolls fall by 23K in July vs. +80K expected",
+      "summary": "Nonfarm Payrolls (NFP) in the United States (US) declined by 23K in July, the US Bureau of Labor Statistics (BLS) reported on Friday. This print followed the 20K increase (revised from 57K) recorded in June and fell short of the market expectation for an increase of 80K by a wide margin.",
       "link": "https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-rise-by-80k-in-july-202608070830",
       "published": "2026-08-07T08:30:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro clings to gains near three-week highs ahead of the US Nonfarm Payrolls report",
-      "summary": "The Euro (EUR) is trading flat, a handful of pips below 1.1530 against the US Dollar (USD) on Friday, following a mild pullback from three-week highs at 1.1560 earlier on the week.",
-      "link": "https://www.fxstreet.com/news/euro-flatlines-amid-mixed-german-data-with-all-eyes-on-us-nonfarm-payrolls-data-202608070630",
-      "published": "2026-08-07T06:30:37+00:00",
       "score": 1
     },
     {
@@ -370,15 +280,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vhs4v5/xauusd_gold_todays_market_bias/",
       "published": "2026-08-07T05:51:02+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee drops on oil price bounce, US NFP in focus",
-      "summary": "The Indian Rupee (INR) falls slightly against the US Dollar (USD) on Friday in the countdown to the United States (US) Nonfarm Payrolls (NFP) data for July at 06:00 PM IST or 12:30 GMT.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-trades-calm-ahead-of-us-nfp-data-release-202608070546",
-      "published": "2026-08-07T05:46:06+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -460,15 +361,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vgvrj1/xauusd_gold_todays_market_bias/",
       "published": "2026-08-06T05:59:23+00:00",
       "score": 4
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Chinese investors are rotating back into gold: China's gold-backed ETFs have recorded 14 consecutive daily inflows ending Monday, the longest streak since March. Over this period, these funds have attracted +$1.2 billion. The largest single-day inflow during this streak totaled +$370 million. Before this rebound, China's gold-backed ETFs recorded outflows in 38 of 44 trading sessions. This comes as elevated volatility in China's stock market has renewed interest in alternative assets, particularly among institutional investors. Chinese investors are increasingly bullish on gold.",
-      "summary": "<p>Chinese investors are rotating back into gold:<br />\n<br />\nChina's gold-backed ETFs have recorded 14 consecutive daily inflows ending Monday, the longest streak since March.<br />\n<br />\nOver this period, these funds have attracted +$1.2 billion.<br />\n<br />\nThe largest single-day inflow during this streak totaled +$370 million.<br />\n<br />\nBefore this rebound, China's gold-backed ETFs recor",
-      "link": "https://nitter.net/KobeissiLetter/status/2085082768086843625#m",
-      "published": "2026-08-05T19:17:25+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
