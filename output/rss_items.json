@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-07T00:41:18.925725+00:00",
-  "count": 57,
+  "updated_at": "2026-08-07T03:39:50.741265+00:00",
+  "count": 63,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: China finance ministry auctions 7-year bonds at 1.5039% yield: traders",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9711636/China-finance-ministry-auctions-7-year-bonds-at-15039-yield-traders.aspx?xy=rss",
+      "published": "2026-08-07T03:38:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound remains weaker as UK-US yields narrow, US Dollar strengthens",
+      "summary": "GBP/USD extends its losses for the second consecutive day, trading around 1.3450 during the Asian hours on Friday. The pair depreciates as the British Pound (GBP) softens even as United Kingdom (UK) political risk fades.",
+      "link": "https://www.fxstreet.com/news/british-pound-remains-weaker-as-uk-us-yields-narrow-us-dollar-strengthens-202608070329",
+      "published": "2026-08-07T03:29:57+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD rises to near $62.20 in countdown to US NFP data",
+      "summary": "Silver price (XAG/USD) trades 1% higher to near $62.20 during the Asian trading session on Friday. The white metal rises ahead of the United States (US) Nonfarm Payrolls (NFP) data for July, which will be published at 12:30 GMT.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6220-in-countdown-to-us-nfp-data-202608070325",
+      "published": "2026-08-07T03:25:58+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar hangs near weekly low after China's trade data as USD bulls await NFP",
+      "summary": "The NZD/USD pair sticks to a negative bias for the second consecutive day and trades near the lower end of its weekly range, around the 0.5865 region, during the Asian session on Friday.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-hangs-near-weekly-low-after-chinas-trade-data-as-usd-bulls-await-nfp-202608070325",
+      "published": "2026-08-07T03:25:40+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "China’s July Trade Balance: Surplus widens more than expected to $112.5 billion",
+      "summary": "China's Trade Balance for July, in US Dollar (USD) terms, arrives at $112.5 billion, higher than the $107.0 billion expected, but lower than the prior release of 125.62 billion.",
+      "link": "https://www.fxstreet.com/news/chinas-june-trade-balance-surplus-widens-more-than-expected-to-1125-billion-202608070259",
+      "published": "2026-08-07T02:59:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index holds steady near 100.00 as bulls await US NFP amid Iran risks",
+      "summary": "The United States Dollar Index (DXY), which tracks the Greenback against a basket of currencies, consolidates during the Asian session on Friday as traders keenly await the release of the closely-watched US monthly jobs data.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-steady-near-10000-as-bulls-await-us-nfp-amid-iran-risks-202608070249",
+      "published": "2026-08-07T02:49:55+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar bulls remains on the sidelines as Iran risks support USD ahead of US NFP",
+      "summary": "The AUD/USD pair steadies around the 0.7030-0.7025 region during the Asian session on Friday as traders opt to wait for the release of the closely watched US monthly employment details before placing fresh directional bets.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-bulls-remains-on-the-sidelines-as-iran-risks-support-usd-ahead-of-us-nfp-202608070217",
+      "published": "2026-08-07T02:17:21+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro weakens against US Dollar amid Middle East tensions",
+      "summary": "EUR/USD extends its losses for the second consecutive day, trading around 1.1520 during the Asian hours on Friday. The currency pair faces downward pressure as the US Dollar (USD) gains strength, propelled by renewed safe-haven demand among global investors.",
+      "link": "https://www.fxstreet.com/news/euro-weakens-against-us-dollar-amid-middle-east-tensions-202608070154",
+      "published": "2026-08-07T01:54:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold consolidates below recent highs as USD strength and Fed hike bets cap ahead of US NFP",
+      "summary": "Gold (XAU/USD) consolidates below $4,250 during the Asian session on Friday and, for now, seems to have stalled the previous day's retracement slide from its highest level since June 18.",
+      "link": "https://www.fxstreet.com/news/gold-consolidates-below-recent-highs-as-usd-strength-and-fed-hike-bets-cap-ahead-of-us-nfp-202608070135",
+      "published": "2026-08-07T01:35:01+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar weakens as safe-haven demand supports US Dollar",
+      "summary": "USD/CAD extends its gains for the second successive day, trading around 1.4020 during the Asian hours on Friday. The pair continues to gain ground as the US Dollar (USD) benefits from revived safe-haven demand.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-as-safe-haven-demand-supports-us-dollar-202608070119",
+      "published": "2026-08-07T01:19:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7904 vs. 6.7895 previous",
+      "summary": "On Friday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7904 compared to the previous day's fix of 6.7895 and 6.7548 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67904-vs-67895-previous-202608070115",
+      "published": "2026-08-07T01:15:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen hangs near weekly low after weak spending data as USD bulls await US NFP",
+      "summary": "The USD/JPY pair is seen consolidating this week's solid recovery gains from the 155.25-155.20 region, the lowest since May, touched in the aftermath of a joint US-Japan intervention, and holds steady near the weekly top.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-hangs-near-weekly-low-after-weak-spending-data-as-usd-bulls-await-us-nfp-202608070110",
+      "published": "2026-08-07T01:10:39+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -12,78 +120,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Meta on New Mexico court ruling: disagrees with decision, plans to appeal",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9711372/Meta-on-New-Mexico-court-ruling-disagrees-with-decision-plans-to-appeal.aspx?xy=rss",
-      "published": "2026-08-06T23:53:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: New Mexico court directs Meta to pay $567 million abatement fund addressing awareness and prevention",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9711355/New-Mexico-court-directs-Meta-to-pay-567-million-abatement-fund-addressing-awareness-and-prevention.aspx?xy=rss",
-      "published": "2026-08-06T23:37:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: New Mexico court mandates Meta to set 90-hour monthly limit on Facebook, Instagram for under-18 users in state",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9711354/New-Mexico-court-mandates-Meta-to-set-90-hour-monthly-limit-on-Facebook-Instagram-for-under-18-users-in-state.aspx?xy=rss",
-      "published": "2026-08-06T23:34:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: New Mexico court directs Meta to identify users under 13 and remove their accounts",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9711353/New-Mexico-court-directs-Meta-to-identify-users-under-13-and-remove-their-accounts.aspx?xy=rss",
-      "published": "2026-08-06T23:33:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: New Mexico court directs Meta to enhance sextortion detection, obscure nude images",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9711352/New-Mexico-court-directs-Meta-to-enhance-sextortion-detection-obscure-nude-images.aspx?xy=rss",
-      "published": "2026-08-06T23:33:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: New Mexico court directs Meta to locate users undefined",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9711348/New-Mexico-court-directs-Meta-to-locate-users-undefined.aspx?xy=rss",
-      "published": "2026-08-06T23:32:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: New Mexico court rules Meta products fuel state youth mental health crisis",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9711328/New-Mexico-court-rules-Meta-products-fuel-state-youth-mental-health-crisis.aspx?xy=rss",
-      "published": "2026-08-06T23:29:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: New Mexico jury orders Meta to pay $375 million in penalties, plus $567 million court-ordered fund",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9711327/New-Mexico-jury-orders-Meta-to-pay-375-million-in-penalties-plus-567-million-court-ordered-fund.aspx?xy=rss",
-      "published": "2026-08-06T23:28:19+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "South Korean Won: Stable Fed and AI demand support KRW against US Dollar – ING",
@@ -91,15 +127,6 @@
       "link": "https://www.fxstreet.com/news/south-korean-won-stable-fed-and-ai-demand-support-krw-against-us-dollar-ing-202608062323",
       "published": "2026-08-06T23:23:00+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: New Mexico court orders Meta to pay $567 million over state lawsuit alleging exposure of children to sexual exploitation",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9711326/New-Mexico-court-orders-Meta-to-pay-567-million-over-state-lawsuit-alleging-exposure-of-children-to-sexual-exploitation.aspx?xy=rss",
-      "published": "2026-08-06T23:21:41+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -156,94 +183,139 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar firms ahead of Nonfarm Payrolls as Hormuz risk returns",
-      "summary": "The US Dollar (USD) posted gains against every major currency on Thursday, with the US Dollar Index (DXY) up 0.26% near the 100.00 level as Oil rallied 3% on the reported Strait of Hormuz vessel ban, while Gold and Silver declined.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-nonfarm-payrolls-as-hormuz-risk-returns-202608062053",
-      "published": "2026-08-06T20:53:36+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: I'm involved in the negotiations with Iran, deal could be soon",
+      "summary": "<p>Trump: I'm involved in the negotiations with Iran, deal could be soon</p>",
+      "link": "https://nitter.net/DeItaone/status/2085464933353803886#m",
+      "published": "2026-08-06T20:36:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: DON'T THINK IRAN CAN GO MUCH LONGER",
+      "summary": "<p>TRUMP: DON'T THINK IRAN CAN GO MUCH LONGER</p>",
+      "link": "https://nitter.net/DeItaone/status/2085464883240317365#m",
+      "published": "2026-08-06T20:35:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: STRAIT IS 'SORT OF' OPEN RIGHT NOW",
+      "summary": "<p>TRUMP: STRAIT IS 'SORT OF' OPEN RIGHT NOW</p>",
+      "link": "https://nitter.net/DeItaone/status/2085464811068874809#m",
+      "published": "2026-08-06T20:35:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We need more ammunition",
+      "summary": "<p>Trump: We need more ammunition</p>",
+      "link": "https://nitter.net/DeItaone/status/2085464704181301496#m",
+      "published": "2026-08-06T20:35:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON MUNITIONS SUPPLY: WE'RE IN GREAT SHAPE",
+      "summary": "<p>TRUMP ON MUNITIONS SUPPLY: WE'RE IN GREAT SHAPE</p>",
+      "link": "https://nitter.net/DeItaone/status/2085464590221996177#m",
+      "published": "2026-08-06T20:34:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump on Zelenskyy wanting missiles: Well, we want missiles too",
+      "summary": "<p>Trump on Zelenskyy wanting missiles: Well, we want missiles too</p>",
+      "link": "https://nitter.net/DeItaone/status/2085464542285283426#m",
+      "published": "2026-08-06T20:34:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We're working on Russia-Ukraine conflict, and i think we are making progress",
+      "summary": "<p>Trump: We're working on Russia-Ukraine conflict, and i think we are making progress</p>",
+      "link": "https://nitter.net/DeItaone/status/2085464458822848822#m",
+      "published": "2026-08-06T20:34:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON MUNITIONS SUPPLY: WE HAVE UNLIMITED SUPPLY",
+      "summary": "<p>TRUMP ON MUNITIONS SUPPLY: WE HAVE UNLIMITED SUPPLY</p>",
+      "link": "https://nitter.net/DeItaone/status/2085464391592407533#m",
+      "published": "2026-08-06T20:33:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "EY: FED LIKELY TO STAY ON HOLD THROUGH YEAR-END EY-Parthenon expects the Fed to keep interest rates unchanged through year-end, even after Friday's jobs report. Wall Street expects July payrolls to rise 83K, but EY says the labor market remains stable and is unlikely to shift the Fed's focus. The firm says only broader, more persistent inflation or a meaningful reacceleration in hiring would justify further rate hikes.",
+      "summary": "<p>EY: FED LIKELY TO STAY ON HOLD THROUGH YEAR-END<br />\n<br />\nEY-Parthenon expects the Fed to keep interest rates unchanged through year-end, even after Friday's jobs report.<br />\n<br />\nWall Street expects July payrolls to rise 83K, but EY says the labor market remains stable and is unlikely to shift the Fed's focus.<br />\n<br />\nThe firm says only broader, more persistent inflation or a meani",
+      "link": "https://nitter.net/DeItaone/status/2085438740898759038#m",
+      "published": "2026-08-06T18:51:56+00:00",
       "score": 4
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Thailand: Supply-led pressures and prolonged hold for BoT – UOB",
-      "summary": "UOB Global Economics & Markets Research, led by economists Enrico Tanuwidjaja and Sathit Talaengsatya, analyzes Thailand’s July CPI undershoot driven by lower fuel prices while core inflation edges higher.",
-      "link": "https://www.fxstreet.com/news/thailand-supply-led-pressures-and-prolonged-hold-for-bot-uob-202608062051",
-      "published": "2026-08-06T20:51:00+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BOFA: LOWER-INCOME JOBS, WAGES OUTPACE HIGHER EARNERS Bank of America says the U.S. labor market is moving beyond the \"K-shaped\" economy. Lower-income households saw 3% YoY job growth in July versus 1% for higher-income workers, while after-tax wage growth reached 5.2%, topping 4.2% for higher-income households for the first time since December 2024. BofA says stronger wage gains, alongside solid productivity growth, support consumer spending without necessarily increasing inflation.",
+      "summary": "<p>BOFA: LOWER-INCOME JOBS, WAGES OUTPACE HIGHER EARNERS<br />\n<br />\nBank of America says the U.S. labor market is moving beyond the \"K-shaped\" economy.<br />\n<br />\nLower-income households saw 3% YoY job growth in July versus 1% for higher-income workers, while after-tax wage growth reached 5.2%, topping 4.2% for higher-income households for the first time since December 2024.<br />\n<br />\nBofA ",
+      "link": "https://nitter.net/DeItaone/status/2085429707235787220#m",
+      "published": "2026-08-06T18:16:02+00:00",
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South Korean Won: Flow reversal case builds – Societe Generale",
-      "summary": "Societe Generale strategist Kiyong Seong turns tactically constructive on USD/KRW, arguing that recent Won strength has been driven by late-stage flow factors rather than fundamentals.",
-      "link": "https://www.fxstreet.com/news/south-korean-won-flow-reversal-case-builds-societe-generale-202608061935",
-      "published": "2026-08-06T19:35:00+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP TO SPEAK WITH SAUDI CROWN PRINCE ON IRAN President Trump is expected to hold a phone call with Saudi Crown Prince Mohammed bin Salman to discuss Iran, according to U.S. officials. Saudi Arabia has played a key role in efforts to de-escalate Gulf tensions and was among the countries urging the U.S. to give diplomacy another chance instead of launching strikes on Iran. The kingdom also faces ongoing security threats from Iran-backed Houthi attacks.",
+      "summary": "<p>TRUMP TO SPEAK WITH SAUDI CROWN PRINCE ON IRAN<br />\n<br />\nPresident Trump is expected to hold a phone call with Saudi Crown Prince Mohammed bin Salman to discuss Iran, according to U.S. officials.<br />\n<br />\nSaudi Arabia has played a key role in efforts to de-escalate Gulf tensions and was among the countries urging the U.S. to give diplomacy another chance instead of launching strikes on I",
+      "link": "https://nitter.net/DeItaone/status/2085427610138341646#m",
+      "published": "2026-08-06T18:07:42+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Sentiment offsets softer spreads – Scotiabank",
-      "summary": "Scotiabank’s team notes the Pound is fractionally weaker versus the Dollar, with fundamentals less supportive as yield spreads soften. However, sentiment is improving as markets fade earlier political concerns following PM Burnham’s arrival and stronger-than-expected construction PMI.",
-      "link": "https://www.fxstreet.com/news/british-pound-sentiment-offsets-softer-spreads-scotiabank-202608061926",
-      "published": "2026-08-06T19:26:55+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "CFRA RAISES S&P 500 TARGET TO 8,050 CFRA lifted its 2026 S&P 500 year-end target to 8,050 from 7,400, implying about 4% upside from current levels. The firm also sees the index reaching 8,650 in 2027, citing strong earnings, resilient consumers, easing oil prices, AI investment, and favorable midterm election seasonality. CFRA joins a growing list of Wall Street firms turning more bullish on U.S. equities.",
+      "summary": "<p>CFRA RAISES S&amp;P 500 TARGET TO 8,050<br />\n<br />\nCFRA lifted its 2026 S&amp;P 500 year-end target to 8,050 from 7,400, implying about 4% upside from current levels.<br />\n<br />\nThe firm also sees the index reaching 8,650 in 2027, citing strong earnings, resilient consumers, easing oil prices, AI investment, and favorable midterm election seasonality.<br />\n<br />\nCFRA joins a growing list ",
+      "link": "https://nitter.net/DeItaone/status/2085426312496259543#m",
+      "published": "2026-08-06T18:02:32+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Banxico keeps interest rates unchanged at 6.50% as expected",
-      "summary": "The Bank of Mexico (Banxico) held rates unchanged at 6.50% for the third consecutive meeting on Thursday in a unanimous decision, as expected by most analysts, after ending its easing cycle in May.",
-      "link": "https://www.fxstreet.com/news/banxico-keeps-interest-rates-unchanged-at-650-as-expected-202608061902",
-      "published": "2026-08-06T19:02:58+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. PENDING HOME SALES HIT 5-MONTH LOW U.S. pending home sales fell to a five-month low as elevated mortgage rates kept buyers on the sidelines. Pending sales dropped 3.7% W/W and 1.9% Y/Y to 311,150, the lowest level in over five months. The average 30-year mortgage rate rose to 6.69%, while mortgage purchase applications fell 4% W/W. Despite weaker demand, the median home sale price increased 2.9% Y/Y to $406,362.",
+      "summary": "<p>U.S. PENDING HOME SALES HIT 5-MONTH LOW<br />\n<br />\nU.S. pending home sales fell to a five-month low as elevated mortgage rates kept buyers on the sidelines.<br />\n<br />\nPending sales dropped 3.7% W/W and 1.9% Y/Y to 311,150, the lowest level in over five months.<br />\n<br />\nThe average 30-year mortgage rate rose to 6.69%, while mortgage purchase applications fell 4% W/W.<br />\n<br />\nDespit",
+      "link": "https://nitter.net/DeItaone/status/2085414117972537773#m",
+      "published": "2026-08-06T17:14:05+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: Bulls retake 200-day SMA amid recovery",
-      "summary": "The USD/JPY advances by some 0.41%, clearing the 200-day Simple Moving Average (SMA) at 158.06, as the Greenback recovers some ground following two days of intervention in the FX markets by US and Japanese authorities.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-bulls-retake-200-day-sma-amid-recovery-202608061858",
-      "published": "2026-08-06T18:58:23+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "GOOGLE WARNS OF HACKING CAMPAIGN TARGETING WALL STREET Google says ransomware hackers have targeted dozens of major U.S. financial firms using phone-based social engineering to steal employee credentials. Hackers created fake IT helpdesk websites targeting firms including Blackstone, Apollo, KKR, TPG, CME Group, Moody's, Bridgewater and Bain Capital. Google said some victims paid ransoms, though it did not identify them. The campaign relied on convincing employees to reveal passwords and MFA codes rather than advanced hacking techniques.",
+      "summary": "<p>GOOGLE WARNS OF HACKING CAMPAIGN TARGETING WALL STREET<br />\n<br />\nGoogle says ransomware hackers have targeted dozens of major U.S. financial firms using phone-based social engineering to steal employee credentials.<br />\n<br />\nHackers created fake IT helpdesk websites targeting firms including Blackstone, Apollo, KKR, TPG, CME Group, Moody's, Bridgewater and Bain Capital.<br />\n<br />\nGoogl",
+      "link": "https://nitter.net/DeItaone/status/2085413051713368161#m",
+      "published": "2026-08-06T17:09:51+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Thai Baht: Supply risks and FX sensitivities – UOB",
-      "summary": "UOB’s economists highlight that Thailand’s inflation outlook is shaped by supply-side factors and external variables such as Oil and USD/THB.",
-      "link": "https://www.fxstreet.com/news/thai-baht-supply-risks-and-fx-sensitivities-uob-202608061845",
-      "published": "2026-08-06T18:45:23+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Hormuz ship ban triggers a jump in US yields, fuels Fed hike bets",
-      "summary": "US Treasury yields climb along the curve on Thursday as media reports that the Iran-Oman deal would ban US and Israeli ships from entering the Strait of Hormuz drive crude prices higher, while traders await the latest employment report.",
-      "link": "https://www.fxstreet.com/news/hormuz-ship-ban-triggers-a-jump-in-us-yields-fuels-fed-hike-bets-202608061815",
-      "published": "2026-08-06T18:15:17+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar holds as Oil rally offers no help",
-      "summary": "AUD/USD is down 0.36% for the day, but still above the 0.7000 region, giving back Wednesday's gains as the US Dollar (USD) firms across the board. The US Dollar Index (DXY) is up 0.28% near the 100.00 psychological level.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-as-oil-rally-offers-no-help-202608061806",
-      "published": "2026-08-06T18:06:33+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CHF Price Forecast: Bulls reclaim 0.8100 after SMA bounce",
-      "summary": "The USD/CHF pair snaps two days of losses and rises by over 0.60% on Thursday after solid US jobs data. Also, buyers stepped in at key support at the 50-day Simple Moving Average (SMA) of 0.8052, pushing the pair back above the 0.8100 threshold.",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-reclaim-08100-after-sma-bounce-202608061739",
-      "published": "2026-08-06T17:39:32+00:00",
-      "score": 2
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP REAFFIRMS SUPPORT FOR HEGSETH President Trump dismissed reports questioning Defense Secretary Pete Hegseth, calling them \"completely false\" and reaffirming his full confidence. He praised Hegseth's leadership, citing stronger military recruitment, the removal of DEI initiatives, and recent U.S. operations involving Venezuela and Iran as successes. Trump also accused The Washington Post of spreading false reports and described its coverage as \"treasonous.\"",
+      "summary": "<p>TRUMP REAFFIRMS SUPPORT FOR HEGSETH<br />\n<br />\nPresident Trump dismissed reports questioning Defense Secretary Pete Hegseth, calling them \"completely false\" and reaffirming his full confidence.<br />\n<br />\nHe praised Hegseth's leadership, citing stronger military recruitment, the removal of DEI initiatives, and recent U.S. operations involving Venezuela and Iran as successes.<br />\n<br />\nTr",
+      "link": "https://nitter.net/DeItaone/status/2085408838052704355#m",
+      "published": "2026-08-06T16:53:06+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -333,24 +405,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vgcy22/whats_up_with_eurusd_past_few_days/\"> <img alt=\"What's up with EURUSD past few days?\" src=\"https://preview.redd.it/onw8q4xe6lhh1.png?width=140&amp;height=86&amp;auto=webp&amp;s=b563d8ddfb47f389232439d23cdcacb8b0641c7d\" title=\"What's up with EURUSD past few days?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>It's been ",
       "link": "https://www.reddit.com/r/Forex/comments/1vgcy22/whats_up_with_eurusd_past_few_days/",
       "published": "2026-08-05T16:52:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "R to @KobeissiLetter: On Friday, we posted the below analysis for our premium members. As gold fell to $4,000, we shifted increasingly bullish and called for $4,200+. Today, this setup continues to push further into the green. Subscribe to access our premium analysis below: http://thekobeissiletter.com/subscribe",
-      "summary": "<p>On Friday, we posted the below analysis for our premium members.<br />\n<br />\nAs gold fell to $4,000, we shifted increasingly bullish and called for $4,200+.<br />\n<br />\nToday, this setup continues to push further into the green.<br />\n<br />\nSubscribe to access our premium analysis below:<br />\n<br />\n<a href=\"http://thekobeissiletter.com/subscribe\">thekobeissiletter.com/subscr…</a></p>\n<img ",
-      "link": "https://nitter.net/KobeissiLetter/status/2085032250043720010#m",
-      "published": "2026-08-05T15:56:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Gold futures extend gains to +4% on the day and rise above $4,300/oz. The asset owner economy is expanding.",
-      "summary": "<p>BREAKING: Gold futures extend gains to +4% on the day and rise above $4,300/oz.<br />\n<br />\nThe asset owner economy is expanding.</p>\n<img src=\"https://nitter.net/pic/media%2FHO-Fg9VXkAIE41X.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2085031956509556971#m",
-      "published": "2026-08-05T15:55:31+00:00",
       "score": 1
     },
     {
