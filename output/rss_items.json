@@ -1,7 +1,241 @@
 {
-  "updated_at": "2026-08-07T13:52:32.663517+00:00",
-  "count": 57,
+  "updated_at": "2026-08-07T14:54:52.076314+00:00",
+  "count": 78,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar jumps after North American jobs double surprise",
+      "summary": "USD/CAD declines sharply on Friday, trading around 1.3940 at the time of writing, down 0.53% on the day, hitting its lowest level since June.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-jumps-after-north-american-jobs-double-surprise-202608071454",
+      "published": "2026-08-07T14:54:45+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index tumbles as NFP shock trims Fed hike bets",
+      "summary": "The US Dollar Index (DXY), which tracks the buck’s value against a basket of six currencies, is down 0.36%m at 99.58 following a weaker-than-expected US jobs report. The data has eased pressures on the Federal Reserve to hike rates, as inflation remains stubbornly above the Fed’s 2% goal.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-tumbles-as-nfp-shock-trims-fed-hike-bets-202608071451",
+      "published": "2026-08-07T14:51:00+00:00",
+      "score": 6
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: impact of AI on broad productivity levels still uncertain",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712522/Feds-Barkin-impact-of-AI-on-broad-productivity-levels-still-uncertain.aspx?xy=rss",
+      "published": "2026-08-07T14:47:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: I still hear a lot above inflation and cost pressures from contacts.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712515/Feds-Barkin-I-still-hear-a-lot-above-inflation-and-cost-pressures-from-contacts.aspx?xy=rss",
+      "published": "2026-08-07T14:44:53+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Weak payrolls cloud Fed path – ING",
+      "summary": "ING’s Chief International Economist James Knightley notes that the weak July US jobs report has pushed market pricing away from a September Federal Reserve rate hike, with the Dollar softening and 2-year yields falling.",
+      "link": "https://www.fxstreet.com/news/us-dollar-weak-payrolls-cloud-fed-path-ing-202608071439",
+      "published": "2026-08-07T14:39:57+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: Best measure of job market health is unemployment rate.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712514/Feds-Barkin-Best-measure-of-job-market-health-is-unemployment-rate.aspx?xy=rss",
+      "published": "2026-08-07T14:36:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED'S BARKIN: DOESN'T THINK THERE IS WAGE INFLATION RIGHT NOW",
+      "summary": "<p>FED'S BARKIN: DOESN'T THINK THERE IS WAGE INFLATION RIGHT NOW</p>",
+      "link": "https://nitter.net/DeItaone/status/2085736159238291916#m",
+      "published": "2026-08-07T14:33:46+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: I don't think there is wage inflation right now.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712513/Feds-Barkin-I-dont-think-there-is-wage-inflation-right-now.aspx?xy=rss",
+      "published": "2026-08-07T14:33:41+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: I see pricing power in business to business, pricing power limited in business to consumer.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712497/Feds-Barkin-I-see-pricing-power-in-business-to-business-pricing-power-limited-in-business-to-consumer.aspx?xy=rss",
+      "published": "2026-08-07T14:31:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed's Barkin: Jobs data is more low hire, low fire",
+      "summary": "Thomas Barkin, President of the Federal Reserve (Fed) Bank of Richmond, participated in an online event hosted by the National Association for Business Economics on Friday.",
+      "link": "https://www.fxstreet.com/news/feds-barkin-jobs-data-is-more-low-hire-low-fire-202608071431",
+      "published": "2026-08-07T14:31:02+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: No suprise Warsh has new ideas for Fed, Chair is engaging thoughtfully.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712490/Feds-Barkin-No-suprise-Warsh-has-new-ideas-for-Fed-Chair-is-engaging-thoughtfully.aspx?xy=rss",
+      "published": "2026-08-07T14:23:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: I agree with Warsh that inflation must be returned to target.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712489/Feds-Barkin-I-agree-with-Warsh-that-inflation-must-be-returned-to-target.aspx?xy=rss",
+      "published": "2026-08-07T14:22:45+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: Fed will get inflation to 2%.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712488/Feds-Barkin-Fed-will-get-inflation-to-2.aspx?xy=rss",
+      "published": "2026-08-07T14:21:45+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin on inflation: If the wind is in your face, have to tighten up.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712487/Feds-Barkin-on-inflation-If-the-wind-is-in-your-face-have-to-tighten-up.aspx?xy=rss",
+      "published": "2026-08-07T14:20:59+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: We may be moving into a world of greater instability.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712485/Feds-Barkin-We-may-be-moving-into-a-world-of-greater-instability.aspx?xy=rss",
+      "published": "2026-08-07T14:19:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED'S BARKIN: MAY BE MOVING INTO A WORLD OF GREATER INSTABILITY",
+      "summary": "<p>FED'S BARKIN:  MAY BE MOVING INTO A WORLD OF GREATER INSTABILITY</p>",
+      "link": "https://nitter.net/DeItaone/status/2085732531563843722#m",
+      "published": "2026-08-07T14:19:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nonfarm Payrolls Market Reactions & Deviations - FJElite",
+      "summary": "<strong>Sentiment Post Latest Data</strong><ul><li>Traders pare bets on fed rate increase during 2026. </li><li>US interest rate futures reduce chances of Fed hike in September after jobs data. </li><li>US rate futures price in just 28 bps of hike by December vs 32 bps before jobs data.</li></ul>",
+      "link": "https://www.financialjuice.com/News/9712466/Nonfarm-Payrolls-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
+      "published": "2026-08-07T14:12:43+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: Watching corporate earnings for linkages to job market.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712465/Feds-Barkin-Watching-corporate-earnings-for-linkages-to-job-market.aspx?xy=rss",
+      "published": "2026-08-07T14:12:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: Corporate earnings are quite strong and growing nicely.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712464/Feds-Barkin-Corporate-earnings-are-quite-strong-and-growing-nicely.aspx?xy=rss",
+      "published": "2026-08-07T14:11:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: In zero-to-modest positive job gain enviromment.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712463/Feds-Barkin-In-zero-to-modest-positive-job-gain-enviromment.aspx?xy=rss",
+      "published": "2026-08-07T14:10:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: The job data doesn't feel very good but it's where it is.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712462/Feds-Barkin-The-job-data-doesnt-feel-very-good-but-its-where-it-is.aspx?xy=rss",
+      "published": "2026-08-07T14:10:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "HASSETT: TRUMP AND WARSH TALK ABOUT THE ECONOMY 'ALL THE TIME' HASSETT: I'M SURE TRUMP DOESN'T GIVE WARSH ADVICE ON INTEREST RATES",
+      "summary": "<p>HASSETT: TRUMP AND WARSH TALK ABOUT THE ECONOMY 'ALL THE TIME'<br />\n<br />\nHASSETT: I'M SURE TRUMP DOESN'T GIVE WARSH ADVICE ON INTEREST RATES</p>",
+      "link": "https://nitter.net/DeItaone/status/2085730234322596037#m",
+      "published": "2026-08-07T14:10:13+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: Job data is more low hire, low fire.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712461/Feds-Barkin-Job-data-is-more-low-hire-low-fire.aspx?xy=rss",
+      "published": "2026-08-07T14:10:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: Job data was very consistent with a sector in weak balance.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9712460/Feds-Barkin-Job-data-was-very-consistent-with-a-sector-in-weak-balance.aspx?xy=rss",
+      "published": "2026-08-07T14:09:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexico: Banxico extended hold stance – Societe Generale",
+      "summary": "Societe Generale’s Dev Ashish reports that Banxico left its policy rate at 6.50%, signalling an extended pause as inflation hovers near target and real rates sit close to neutral.",
+      "link": "https://www.fxstreet.com/news/mexico-banxico-extended-hold-stance-societe-generale-202608071408",
+      "published": "2026-08-07T14:08:55+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: Weak US payrolls fuel breakout above 50-day SMA",
+      "summary": "Silver (XAG/USD) jumps nearly 4% on Friday as buying accelerates following a decisive break above the 50-day Simple Moving Average (SMA) near $62. At the time of writing, the grey metal trades around $63.94 after briefly testing the $65 psychological mark.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-weak-us-payrolls-fuel-breakout-above-50-day-sma-202608071404",
+      "published": "2026-08-07T14:04:15+00:00",
+      "score": 5
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -12,13 +246,22 @@
       "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WH Sr. Adviser Hassett: Take out govt workers, the World Cup and jobs rose 100,000 - Fox Business",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9712412/WH-Sr-Adviser-Hassett-Take-out-govt-workers-the-World-Cup-and-jobs-rose-100000---Fox-Business.aspx?xy=rss",
-      "published": "2026-08-07T13:45:13+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*HASSETT: TAKE OUT GOVT WORKERS, WORLD CUP, JOBS ROSE 100,000",
+      "summary": "<p>*HASSETT: TAKE OUT GOVT WORKERS, WORLD CUP, JOBS ROSE 100,000</p>",
+      "link": "https://nitter.net/DeItaone/status/2085724702073290984#m",
+      "published": "2026-08-07T13:48:14+00:00",
       "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "WEAK JOBS REPORT TAKES EDGE OFF FED HIKE CASE July’s jobs report showed weaker hiring and downward revisions, reducing pressure on the Fed to raise rates in September. But unemployment fell to a two-year low as fewer Americans looked for work, leaving the picture mixed. For the Fed, inflation remains the bigger concern. Next week’s CPI report could prove decisive: softer inflation would support holding rates, while another strong reading could strengthen the case for a hike.",
+      "summary": "<p>WEAK JOBS REPORT TAKES EDGE OFF FED HIKE CASE<br />\n<br />\nJuly’s jobs report showed weaker hiring and downward revisions, reducing pressure on the Fed to raise rates in September.<br />\n<br />\nBut unemployment fell to a two-year low as fewer Americans looked for work, leaving the picture mixed.<br />\n<br />\nFor the Fed, inflation remains the bigger concern.<br />\n<br />\nNext week’s CPI report ",
+      "link": "https://nitter.net/DeItaone/status/2085722826825232732#m",
+      "published": "2026-08-07T13:40:47+00:00",
+      "score": 5
     },
     {
       "source": "FXStreet",
@@ -30,15 +273,6 @@
       "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: -96 mln<br />Nasdaq 100: -29 mln<br />Dow 30: +13 mln<br />Mag 7: -13 mln",
-      "link": "https://www.financialjuice.com/News/9712393/MOO-Imbalance.aspx?xy=rss",
-      "published": "2026-08-07T13:30:35+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "British Pound climbs above 1.3500 after weak US NFP data",
@@ -48,40 +282,13 @@
       "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WH Sr. Adviser Hassett: Government workers and World Cup rebound part of jobs weakness",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9712389/WH-Sr-Adviser-Hassett-Government-workers-and-World-Cup-rebound-part-of-jobs-weakness.aspx?xy=rss",
-      "published": "2026-08-07T13:21:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WH Sr. Adviser Hassett on jobs: We are seeing a little bit of participation weakness.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9712387/WH-Sr-Adviser-Hassett-on-jobs-We-are-seeing-a-little-bit-of-participation-weakness.aspx?xy=rss",
-      "published": "2026-08-07T13:21:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Credit Agricole: Next Week, Inflation Takes Centre Stage Ahead of September FOMC - FJElite",
-      "summary": "<div>Next week’s focus is firmly on inflation, with CPI on Wednesday and PPI on Thursday, alongside retail sales, consumer sentiment, existing home sales and a small number of Fed speakers. July CPI is expected to sit between June’s softer print and the hotter spring readings, with headline inflation seen at 0.2% MoM and 3.4% YoY, while core is forecast at 0.3% MoM and 2.5% YoY.</div><div><br /></",
-      "link": "https://www.financialjuice.com/News/9712367/Credit-Agricole-Next-Week-Inflation-Takes-Centre-Stage-Ahead-of-September-FOMC---FJElite.aspx?xy=rss",
-      "published": "2026-08-07T13:13:10+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Sentiment: Super Soft Jobs Data Boosts Risk Appetite - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9712366/US-Sentiment-Super-Soft-Jobs-Data-Boosts-Risk-Appetite---FJElite.aspx?xy=rss",
-      "published": "2026-08-07T13:08:01+00:00",
-      "score": 1
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "WARSH’S “QUIETER FED” PLAN RAISES WALL STREET CONCERNS Fed Chair Kevin Warsh is reportedly considering fewer scheduled policy meetings as part of efforts to reduce the central bank’s influence on markets. Goldman Sachs and Barclays warn the strategy could backfire. Less Fed communication may cause markets to misread economic signals, while fewer meetings could make each decision more volatile. The Fed has held eight scheduled meetings annually since 1981.",
+      "summary": "<p>WARSH’S “QUIETER FED” PLAN RAISES WALL STREET CONCERNS<br />\n<br />\nFed Chair Kevin Warsh is reportedly considering fewer scheduled policy meetings as part of efforts to reduce the central bank’s influence on markets.<br />\n<br />\nGoldman Sachs and Barclays warn the strategy could backfire.<br />\n<br />\nLess Fed communication may cause markets to misread economic signals, while fewer meetings c",
+      "link": "https://nitter.net/DeItaone/status/2085717839122432431#m",
+      "published": "2026-08-07T13:20:58+00:00",
+      "score": 2
     },
     {
       "source": "Kobeissi Letter",
@@ -102,12 +309,12 @@
       "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Effective fed funds rate 3.63% August 6th vs 3.63% August 5th",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9712339/Effective-fed-funds-rate-363-August-6th-vs-363-August-5th.aspx?xy=rss",
-      "published": "2026-08-07T12:59:36+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*YEN JUMPS 1% AGAINST DOLLAR AFTER US JOBS DATA",
+      "summary": "<p>*YEN JUMPS 1% AGAINST DOLLAR AFTER US JOBS DATA</p>",
+      "link": "https://nitter.net/DeItaone/status/2085707929009701196#m",
+      "published": "2026-08-07T12:41:35+00:00",
       "score": 1
     },
     {
@@ -120,13 +327,22 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US rate futures price in just 28 bps of hike by December vs 32 bps before jobs data.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9712319/US-rate-futures-price-in-just-28-bps-of-hike-by-December-vs-32-bps-before-jobs-data.aspx?xy=rss",
-      "published": "2026-08-07T12:34:14+00:00",
-      "score": 1
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Pinned: 🇺🇸JOBS SHOCK SHIFTS FED BETS The US unexpectedly lost 23,000 jobs in July, while unemployment fell to 4.1%. The weak report adds uncertainty ahead of the Fed’s September decision. Kalshi traders now price a 62% chance of no change, versus 34% for a 25bp hike. The Fed now faces a tougher balance between weaker jobs and persistent inflation. https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep?utm_source=walterbloomberg",
+      "summary": "<p>🇺🇸JOBS SHOCK SHIFTS FED BETS<br />\n<br />\nThe US unexpectedly lost 23,000 jobs in July, while unemployment fell to 4.1%.<br />\n<br />\nThe weak report adds uncertainty ahead of the Fed’s September decision.<br />\n<br />\nKalshi traders now price a 62% chance of no change, versus 34% for a 25bp hike.<br />\n<br />\nThe Fed now faces a tougher balance between weaker jobs and persistent inflation.<br ",
+      "link": "https://nitter.net/DeItaone/status/2085706956157645287#m",
+      "published": "2026-08-07T12:37:43+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "US SHOCKS WITH 23,000 JOB LOSSES IN JULY The US economy unexpectedly lost 23,000 jobs in July, far below forecasts for an 83,000 gain. June’s increase was also revised down to just 20,000 jobs. Despite the weakness, unemployment unexpectedly fell from 4.2% to 4.1%. The disappointing report raises fresh concerns about the labor market and could complicate the Federal Reserve’s rate decisions as policymakers balance weaker employment against persistent inflation.",
+      "summary": "<p>US SHOCKS WITH 23,000 JOB LOSSES IN JULY<br />\n<br />\nThe US economy unexpectedly lost 23,000 jobs in July, far below forecasts for an 83,000 gain.<br />\n<br />\nJune’s increase was also revised down to just 20,000 jobs.<br />\n<br />\nDespite the weakness, unemployment unexpectedly fell from 4.2% to 4.1%.<br />\n<br />\nThe disappointing report raises fresh concerns about the labor market and could",
+      "link": "https://nitter.net/DeItaone/status/2085706373141045356#m",
+      "published": "2026-08-07T12:35:24+00:00",
+      "score": 3
     },
     {
       "source": "Kobeissi Letter",
@@ -138,21 +354,21 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US interest rate futures reduce chances of Fed hike in September after jobs data.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9712316/US-interest-rate-futures-reduce-chances-of-Fed-hike-in-September-after-jobs-data.aspx?xy=rss",
-      "published": "2026-08-07T12:32:35+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "US INTEREST RATE FUTURES REDUCE CHANCES OF FED HIKE IN SEPTEMBER AFTER JOBS DATA",
+      "summary": "<p>US INTEREST RATE FUTURES REDUCE CHANCES OF FED HIKE IN SEPTEMBER AFTER JOBS DATA</p>",
+      "link": "https://nitter.net/DeItaone/status/2085705517222052280#m",
+      "published": "2026-08-07T12:32:00+00:00",
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Traders pare bets on fed rate increase during 2026.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9712315/Traders-pare-bets-on-fed-rate-increase-during-2026.aspx?xy=rss",
-      "published": "2026-08-07T12:32:24+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. JULY GOVERNMENT JOBS -53,000",
+      "summary": "<p>U.S. JULY GOVERNMENT JOBS -53,000</p>",
+      "link": "https://nitter.net/DeItaone/status/2085705114833113532#m",
+      "published": "2026-08-07T12:30:24+00:00",
       "score": 1
     },
     {
@@ -165,49 +381,22 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price rallies to six-week high ahead US jobs data",
-      "summary": "Silver (XAG/USD) extends its strong rally on Friday, trading around $64.10 at the time of writing, up 4.16% on the day.",
-      "link": "https://www.fxstreet.com/news/silver-price-rallies-to-six-week-high-ahead-us-jobs-data-202608071206",
-      "published": "2026-08-07T12:06:11+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Fed repricing supports moderate gains against US Dollar – Commerzbank",
-      "summary": "Commerzbank’s Thu Lan Nguyen argues that the US Dollar's (USD) current support from perceived hawkish Federal Reserve (Fed) policy is likely to fade as markets reassess United States (US) rate expectations over coming quarters.",
-      "link": "https://www.fxstreet.com/news/euro-fed-repricing-supports-moderate-gains-against-us-dollar-commerzbank-202608071205",
-      "published": "2026-08-07T12:05:25+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Fed tightening risks keep outlook bullish – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong highlight renewed Dollar support from higher Oil prices, rising US yields and resilient US labour data as markets reassess Federal Reserve tightening risks.",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-tightening-risks-keep-outlook-bullish-ocbc-202608071150",
-      "published": "2026-08-07T11:50:23+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index Price Forecast: Likely find direction after US NFP release",
-      "summary": "The US Dollar (USD) consolidates against its major currency peers on Friday, with investors awaiting the United States (US) Nonfarm Payrolls (NFP) data for July, which will be published at 12:30 GMT.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-likely-find-direction-after-us-nfp-release-202608071141",
-      "published": "2026-08-07T11:41:11+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Upside bias hinges on 1.1565 break against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report EUR/USD has retreated to 1.1524 after failing several times near 1.1560. Intraday, they see scope for further pullback but expect strong support at 1.1495 to hold.",
-      "link": "https://www.fxstreet.com/news/euro-upside-bias-hinges-on-11565-break-against-us-dollar-uob-202608071132",
-      "published": "2026-08-07T11:32:29+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BofA WARNS BULLISH SENTIMENT HAS GONE TOO FAR Bank of America says investor optimism has reached its most extreme level since 2021, signaling it may be time to cut risk. Its Bull & Bear indicator jumped to 9.7, driven by strong stock markets, credit inflows and tighter spreads. BofA recommends rotating toward defensive assets, bonds and the US dollar. The warning comes as global equities hit record highs, with Friday’s US jobs report the next major test for markets.",
+      "summary": "<p>BofA WARNS BULLISH SENTIMENT HAS GONE TOO FAR<br />\n<br />\nBank of America says investor optimism has reached its most extreme level since 2021, signaling it may be time to cut risk.<br />\n<br />\nIts Bull & Bear indicator jumped to 9.7, driven by strong stock markets, credit inflows and tighter spreads.<br />\n<br />\nBofA recommends rotating toward defensive assets, bonds and the US dollar.<br /",
+      "link": "https://nitter.net/DeItaone/status/2085700303395987742#m",
+      "published": "2026-08-07T12:11:17+00:00",
       "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "“SELL AMERICA” TRADE RETURNS AS FED & YEN RISKS RISE Barclays says the “Sell America” trade is resurfacing, particularly across the dollar and US bond markets. Uncertainty over Fed policy, a potential yen carry-trade unwind and concerns over AI spending are driving volatility. However, US equities continue hitting new highs, supported by strong corporate earnings. Barclays remains constructive on stocks but warns that hot jobs or inflation data could quickly revive Fed concerns and intensify market volatility.",
+      "summary": "<p>“SELL AMERICA” TRADE RETURNS AS FED & YEN RISKS RISE<br />\n<br />\nBarclays says the “Sell America” trade is resurfacing, particularly across the dollar and US bond markets.<br />\n<br />\nUncertainty over Fed policy, a potential yen carry-trade unwind and concerns over AI spending are driving volatility.<br />\n<br />\nHowever, US equities continue hitting new highs, supported by strong corporate e",
+      "link": "https://nitter.net/DeItaone/status/2085694545983906302#m",
+      "published": "2026-08-07T11:48:24+00:00",
+      "score": 3
     },
     {
       "source": "r/Forex",
@@ -237,21 +426,21 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Strong payrolls may offer only limited support – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad expects the July United States (US) non-farm payrolls to show resilient labor demand, with consensus around 80k jobs and unemployment steady at 4.2%.",
-      "link": "https://www.fxstreet.com/news/us-dollar-strong-payrolls-may-offer-only-limited-support-bbh-202608071120",
-      "published": "2026-08-07T11:20:54+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "R to @KobeissiLetter: On June 24th, we posted the below analysis for our premium members. As gold fell into $4,000/oz, we increased bullish exposure and called for $4,500/oz. Today, this setup is nearly +$300/oz in the money. Subscribe to access our premium analysis: http://thekobeissiletter.com/subscribe",
       "summary": "<p>On June 24th, we posted the below analysis for our premium members.<br />\n<br />\nAs gold fell into $4,000/oz, we increased bullish exposure and called for $4,500/oz.<br />\n<br />\nToday, this setup is nearly +$300/oz in the money.<br />\n<br />\nSubscribe to access our premium analysis:<br />\n<br />\n<a href=\"http://thekobeissiletter.com/subscribe\">thekobeissiletter.com/subscr…</a></p>\n<img src=\"ht",
       "link": "https://nitter.net/KobeissiLetter/status/2085668832140497067#m",
       "published": "2026-08-07T10:06:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "RT by @DeItaone: 🇺🇸 JULY JOBS REPORT: ALL EYES ON FRIDAY The July Nonfarm Payrolls report is due Friday at 8:30 AM ET. Prediction Markets • Kalshi: +72K Bank Forecasts • Highest: Citigroup, Santander +115K • Lowest: Deutsche Bank +65K • Median: +80K WSJ Consensus • Payrolls: +83K (vs. +57K prior) • Unemployment: 4.2% • Avg. Hourly Earnings: +0.3% M/M, +3.5% Y/Y https://kalshi.com/markets/kxpayrolls/jobs-numbers/kxpayrolls-26jul?utm_source=walterbloomberg",
+      "summary": "<p>🇺🇸 JULY JOBS REPORT: ALL EYES ON FRIDAY<br />\n<br />\nThe July Nonfarm Payrolls report is due Friday at 8:30 AM ET.<br />\n<br />\nPrediction Markets<br />\n• Kalshi: +72K<br />\n<br />\nBank Forecasts <br />\n• Highest: Citigroup, Santander +115K<br />\n• Lowest: Deutsche Bank +65K<br />\n• Median: +80K<br />\n<br />\nWSJ Consensus<br />\n• Payrolls: +83K (vs. +57K prior)<br />\n• Unemployment: 4.2%<br />\n",
+      "link": "https://nitter.net/DeItaone/status/2085668140394918323#m",
+      "published": "2026-08-07T10:03:29+00:00",
       "score": 1
     },
     {
