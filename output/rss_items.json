@@ -1,51 +1,258 @@
 {
-  "updated_at": "2026-08-06T15:42:31.279007+00:00",
-  "count": 46,
+  "updated_at": "2026-08-07T00:41:18.925725+00:00",
+  "count": 57,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: US 4-Week Bill Auction",
-      "summary": "<ul><li>Bid/Cover 2.68</li><li>High yield 3.64%</li><li>Sells $110 bln</li><li>Awards at high 72.82%</li></ul>",
-      "link": "https://www.financialjuice.com/News/9710758/US-4-Week-Bill-Auction.aspx?xy=rss",
-      "published": "2026-08-06T15:33:52+00:00",
+      "title": "Chinese Yuan: Bullish tone with upside tests against US Dollar – UOB",
+      "summary": "United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann note that USD/CNH is trading with a soft underlying tone, with scope for the Dollar to test support levels near 6.7420 in the short term, while a sustained break lower is seen as unlikely.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-bullish-tone-with-upside-tests-against-us-dollar-uob-202608062355",
+      "published": "2026-08-06T23:55:00+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.64% (Forecast -, Previous 3.630%)",
+      "title": "FinancialJuice: Meta on New Mexico court ruling: disagrees with decision, plans to appeal",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9710757/US-4-Week-Bill-High-Yield-Actual-364-Forecast---Previous-3630.aspx?xy=rss",
-      "published": "2026-08-06T15:32:04+00:00",
+      "link": "https://www.financialjuice.com/News/9711372/Meta-on-New-Mexico-court-ruling-disagrees-with-decision-plans-to-appeal.aspx?xy=rss",
+      "published": "2026-08-06T23:53:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: New Mexico court directs Meta to pay $567 million abatement fund addressing awareness and prevention",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9711355/New-Mexico-court-directs-Meta-to-pay-567-million-abatement-fund-addressing-awareness-and-prevention.aspx?xy=rss",
+      "published": "2026-08-06T23:37:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: New Mexico court mandates Meta to set 90-hour monthly limit on Facebook, Instagram for under-18 users in state",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9711354/New-Mexico-court-mandates-Meta-to-set-90-hour-monthly-limit-on-Facebook-Instagram-for-under-18-users-in-state.aspx?xy=rss",
+      "published": "2026-08-06T23:34:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: New Mexico court directs Meta to identify users under 13 and remove their accounts",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9711353/New-Mexico-court-directs-Meta-to-identify-users-under-13-and-remove-their-accounts.aspx?xy=rss",
+      "published": "2026-08-06T23:33:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: New Mexico court directs Meta to enhance sextortion detection, obscure nude images",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9711352/New-Mexico-court-directs-Meta-to-enhance-sextortion-detection-obscure-nude-images.aspx?xy=rss",
+      "published": "2026-08-06T23:33:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: New Mexico court directs Meta to locate users undefined",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9711348/New-Mexico-court-directs-Meta-to-locate-users-undefined.aspx?xy=rss",
+      "published": "2026-08-06T23:32:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: New Mexico court rules Meta products fuel state youth mental health crisis",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9711328/New-Mexico-court-rules-Meta-products-fuel-state-youth-mental-health-crisis.aspx?xy=rss",
+      "published": "2026-08-06T23:29:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: New Mexico jury orders Meta to pay $375 million in penalties, plus $567 million court-ordered fund",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9711327/New-Mexico-jury-orders-Meta-to-pay-375-million-in-penalties-plus-567-million-court-ordered-fund.aspx?xy=rss",
+      "published": "2026-08-06T23:28:19+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro: Recovery stalls near 1.1550 resistance against US Dollar – Scotiabank",
-      "summary": "Scotiabank highlights that the Euro is slightly softer versus the Dollar after touching levels last seen in mid-June, with fundamentals still supportive as yield spreads turn. Spot has nearly converged with their fair value based on the 2-year Germany–US spread.",
-      "link": "https://www.fxstreet.com/news/euro-recovery-stalls-near-11550-resistance-against-us-dollar-scotiabank-202608061513",
-      "published": "2026-08-06T15:13:58+00:00",
+      "title": "South Korean Won: Stable Fed and AI demand support KRW against US Dollar – ING",
+      "summary": "ING economists Deepali Bhargava and Lynn Song highlight a sharp 8% drop in USD/KRW earlier in the second quarter, driven by temporary flows such as Hynix ADR repatriation and National Pension Service hedging adjustments, alongside a hawkish Bank of Korea (BoK) hike.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-stable-fed-and-ai-demand-support-krw-against-us-dollar-ing-202608062323",
+      "published": "2026-08-06T23:23:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: New Mexico court orders Meta to pay $567 million over state lawsuit alleging exposure of children to sexual exploitation",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9711326/New-Mexico-court-orders-Meta-to-pay-567-million-over-state-lawsuit-alleging-exposure-of-children-to-sexual-exploitation.aspx?xy=rss",
+      "published": "2026-08-06T23:21:41+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Japanese Yen falls as Initial Jobless claims hold tight",
-      "summary": "USD/JPY trades modestly higher near 158.20 on Thursday, extending a fourth session of Japanese Yen (JPY) softness as the pair claws back ground lost to last week's coordinated Japan-United States (US) intervention.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-falls-as-initial-jobless-claims-hold-tight-202608061510",
-      "published": "2026-08-06T15:10:14+00:00",
+      "title": "Singapore Dollar: Upside risk capped against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/SGD stayed broadly flat on Wednesday, trading between 1.2804 and 1.2825 and closing at 1.2810.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-capped-against-us-dollar-uob-202608062247",
+      "published": "2026-08-06T22:47:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "Semiconductor weakness is no longer dragging down the broader market: On trading days where the semiconductor index, $SOX, fell at least -3.00%, the S&P 500 has declined just -0.78% on average this year. This is less than a third of the -2.38% average S&P 500 decline recorded during similar sessions in 2006-2025. Furthermore, software stocks posted positive returns during these selloffs, the first such occurrence since at least 2001. Even during days when $SOX dropped at least -2.00%, the S&P 500 fell just -0.70%, versus a -1.76% average decline over the past 20 years. In other words, semiconductor weakness has been offset by strength elsewhere in technology, keeping the broader market unusually resilient. Semiconductor weakness has become isolated as investors rotate into other parts of the tech sector.",
+      "summary": "<p>Semiconductor weakness is no longer dragging down the broader market:<br />\n<br />\nOn trading days where the semiconductor index, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23SOX\">$SOX</a>, fell at least -3.00%, the S&amp;P 500 has declined just -0.78% on average this year.<br />\n<br />\nThis is less than a third of the -2.38% average S&amp;P 500 decline recorded during similar sessions ",
+      "link": "https://nitter.net/KobeissiLetter/status/2085494375283298387#m",
+      "published": "2026-08-06T22:33:00+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "The RBI held at 5.25% and India attracted $41 billion: Why the Rupee still faces a ceiling",
-      "summary": "The Indian Rupee (INR) has found local support against the US Dollar (USD), with USD/INR easing to around 95.10 following the Reserve Bank of India’s (RBI) decision to hold its benchmark repo rate steady at 5.25% for a fourth consecutive meeting.",
-      "link": "https://www.fxstreet.com/news/the-rbi-held-at-525-and-india-attracted-41-billion-why-the-rupee-still-faces-a-ceiling-202608061510",
-      "published": "2026-08-06T15:10:14+00:00",
+      "title": "Philippine Peso: Inflation and politics weigh on PHP against US Dollar – ING",
+      "summary": "ING economists Deepali Bhargava and Lynn Song warn that upside inflation risks are re-emerging for the Philippine Peso (PHP), driven by recovering Oil prices and expectations of a strong El Niño that could spark a food-price shock. Rising global rice and fertiliser prices add to pressures.",
+      "link": "https://www.fxstreet.com/news/philippine-peso-inflation-and-politics-weigh-on-php-against-us-dollar-ing-202608062209",
+      "published": "2026-08-06T22:09:00+00:00",
       "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Musalem backs rate hikes, says inflation remains too high",
+      "summary": "The St. Louis Fed President, Alberto Musalem, stressed that “inflation is too high” and that it’s “critical” that monetary policy focuses on bringing down inflation.",
+      "link": "https://www.fxstreet.com/news/feds-musalem-backs-rate-hikes-says-inflation-remains-too-high-202608062159",
+      "published": "2026-08-06T21:59:46+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso strengthens as Banxico hold extends 10-day rally",
+      "summary": "The Mexican peso extends its rally to 10 straight days, gaining over 0.12% on Thursday after the Bank of Mexico (Banxico) left interest rates unchanged. At the time of writing, the USD/MXN exotic pair trades at 17.21, after reaching a daily high of 17.26.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-strengthens-as-banxico-hold-extends-10-day-rally-202608062146",
+      "published": "2026-08-06T21:46:43+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar drops amid a firmer US Dollar",
+      "summary": "NZD/USD trades lower near the 0.5900 level at the time of writing, with no New Zealand catalyst behind the move. The US Dollar Index (DXY) is up 0.26% near the 100.00 level, and the Kiwi is simply on the wrong side of it.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-drops-amid-a-firmer-us-dollar-202608062115",
+      "published": "2026-08-06T21:15:54+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar firms ahead of Nonfarm Payrolls as Hormuz risk returns",
+      "summary": "The US Dollar (USD) posted gains against every major currency on Thursday, with the US Dollar Index (DXY) up 0.26% near the 100.00 level as Oil rallied 3% on the reported Strait of Hormuz vessel ban, while Gold and Silver declined.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-nonfarm-payrolls-as-hormuz-risk-returns-202608062053",
+      "published": "2026-08-06T20:53:36+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Thailand: Supply-led pressures and prolonged hold for BoT – UOB",
+      "summary": "UOB Global Economics & Markets Research, led by economists Enrico Tanuwidjaja and Sathit Talaengsatya, analyzes Thailand’s July CPI undershoot driven by lower fuel prices while core inflation edges higher.",
+      "link": "https://www.fxstreet.com/news/thailand-supply-led-pressures-and-prolonged-hold-for-bot-uob-202608062051",
+      "published": "2026-08-06T20:51:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Flow reversal case builds – Societe Generale",
+      "summary": "Societe Generale strategist Kiyong Seong turns tactically constructive on USD/KRW, arguing that recent Won strength has been driven by late-stage flow factors rather than fundamentals.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-flow-reversal-case-builds-societe-generale-202608061935",
+      "published": "2026-08-06T19:35:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Sentiment offsets softer spreads – Scotiabank",
+      "summary": "Scotiabank’s team notes the Pound is fractionally weaker versus the Dollar, with fundamentals less supportive as yield spreads soften. However, sentiment is improving as markets fade earlier political concerns following PM Burnham’s arrival and stronger-than-expected construction PMI.",
+      "link": "https://www.fxstreet.com/news/british-pound-sentiment-offsets-softer-spreads-scotiabank-202608061926",
+      "published": "2026-08-06T19:26:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Banxico keeps interest rates unchanged at 6.50% as expected",
+      "summary": "The Bank of Mexico (Banxico) held rates unchanged at 6.50% for the third consecutive meeting on Thursday in a unanimous decision, as expected by most analysts, after ending its easing cycle in May.",
+      "link": "https://www.fxstreet.com/news/banxico-keeps-interest-rates-unchanged-at-650-as-expected-202608061902",
+      "published": "2026-08-06T19:02:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: Bulls retake 200-day SMA amid recovery",
+      "summary": "The USD/JPY advances by some 0.41%, clearing the 200-day Simple Moving Average (SMA) at 158.06, as the Greenback recovers some ground following two days of intervention in the FX markets by US and Japanese authorities.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-bulls-retake-200-day-sma-amid-recovery-202608061858",
+      "published": "2026-08-06T18:58:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Thai Baht: Supply risks and FX sensitivities – UOB",
+      "summary": "UOB’s economists highlight that Thailand’s inflation outlook is shaped by supply-side factors and external variables such as Oil and USD/THB.",
+      "link": "https://www.fxstreet.com/news/thai-baht-supply-risks-and-fx-sensitivities-uob-202608061845",
+      "published": "2026-08-06T18:45:23+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Hormuz ship ban triggers a jump in US yields, fuels Fed hike bets",
+      "summary": "US Treasury yields climb along the curve on Thursday as media reports that the Iran-Oman deal would ban US and Israeli ships from entering the Strait of Hormuz drive crude prices higher, while traders await the latest employment report.",
+      "link": "https://www.fxstreet.com/news/hormuz-ship-ban-triggers-a-jump-in-us-yields-fuels-fed-hike-bets-202608061815",
+      "published": "2026-08-06T18:15:17+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar holds as Oil rally offers no help",
+      "summary": "AUD/USD is down 0.36% for the day, but still above the 0.7000 region, giving back Wednesday's gains as the US Dollar (USD) firms across the board. The US Dollar Index (DXY) is up 0.28% near the 100.00 psychological level.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-as-oil-rally-offers-no-help-202608061806",
+      "published": "2026-08-06T18:06:33+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CHF Price Forecast: Bulls reclaim 0.8100 after SMA bounce",
+      "summary": "The USD/CHF pair snaps two days of losses and rises by over 0.60% on Thursday after solid US jobs data. Also, buyers stepped in at key support at the 50-day Simple Moving Average (SMA) of 0.8052, pushing the pair back above the 0.8100 threshold.",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-reclaim-08100-after-sma-bounce-202608061739",
+      "published": "2026-08-06T17:39:32+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Tether purchased +14 tonnes of gold in Q2 2026, bringing total holdings to a record 146 tonnes, now worth ~$18.8 billion. This follows gold purchases of +53 tonnes between Q3 2025 and Q1 2026. Tether’s gold holdings have more than doubled since Q1 2025, while their value has nearly tripled over the same period. This makes the company the largest known private holder of gold outside of central banks and governments. In the first half of 2026, only 4 central banks bought more gold than Tether: Poland, Uzbekistan, China, and Kazakhstan. Tether is now competing with central banks for gold after the correction.",
+      "summary": "<p>BREAKING: Tether purchased +14 tonnes of gold in Q2 2026, bringing total holdings to a record 146 tonnes, now worth ~$18.8 billion.<br />\n<br />\nThis follows gold purchases of +53 tonnes between Q3 2025 and Q1 2026.<br />\n<br />\nTether’s gold holdings have more than doubled since Q1 2025, while their value has nearly tripled over the same period.<br />\n<br />\nThis makes the company the largest ",
+      "link": "https://nitter.net/KobeissiLetter/status/2085401147901202634#m",
+      "published": "2026-08-06T16:22:33+00:00",
+      "score": 2
     },
     {
       "source": "Kobeissi Letter",
@@ -54,87 +261,6 @@
       "summary": "<p>BREAKING: Hedge funds bought +$4.8 billion of US equities last week, the 2nd-largest weekly purchase since 2008.<br />\n<br />\nAs a % of the S&amp;P 500’s market cap, this was the 24th-largest purchase on record.<br />\n<br />\nAt the same time, institutional investors sold -$3.8 billion, snapping a streak of 4 consecutive weekly purchases.<br />\n<br />\nThis lowers the 4-week average of institutio",
       "link": "https://nitter.net/KobeissiLetter/status/2085381512535343374#m",
       "published": "2026-08-06T15:04:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Why is Gold surging toward $4,300 as the US Dollar and Treasury yields ease?",
-      "summary": "Gold (XAU/USD) has staged a dramatic rebound, surging over 4% on Wednesday to move within striking distance of the $4,300/oz threshold.",
-      "link": "https://www.fxstreet.com/news/why-is-gold-surging-toward-4-300-as-the-us-dollar-and-treasury-yields-ease-202608061454",
-      "published": "2026-08-06T14:54:58+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Buyers challenge 100-day SMA as momentum turns bullish",
-      "summary": "EUR/USD trades on the back foot on Thursday, snapping a two-day winning streak as the US Dollar (USD) steadies. Still, the near-term technical picture remains bullish following the late-July rebound from below 1.1400. At the time of writing, the pair trades around 1.1534, down 0.15% on the day.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-buyers-challenge-100-day-sma-as-momentum-turns-bullish-202608061443",
-      "published": "2026-08-06T14:43:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Gains hinge on 1.3970 against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the Canadian Dollar (CAD) is effectively flat versus the US Dollar (USD) but modestly outperforming other majors, trading close to their fair value estimate around 1.40.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-hinge-on-13970-against-us-dollar-scotiabank-202608061437",
-      "published": "2026-08-06T14:37:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Copper: Tight supply keeps prices elevated – ING",
-      "summary": "ING analysts Warren Patterson and Ewa Manthey report Copper prices trading above $14,000/t on the LME and near record levels on Comex, driven by metal diversion into the US ahead of potential tariff decisions.",
-      "link": "https://www.fxstreet.com/news/copper-tight-supply-keeps-prices-elevated-ing-202608061424",
-      "published": "2026-08-06T14:24:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar slips as safe-haven demand lifts the US Dollar",
-      "summary": "NZD/USD trades around 0.5880 on Thursday at the time of writing, down 0.10% on the day. The pair remains under pressure as renewed demand for the US Dollar (USD) emerges, with investors seeking safe-haven assets amid fresh geopolitical tensions in the Middle East.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slips-as-safe-haven-demand-lifts-the-us-dollar-202608061419",
-      "published": "2026-08-06T14:19:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: SpaceX: Chip demand with Tesla projected to exceed 1 TW of computing power. $SPCX",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9710628/SpaceX-Chip-demand-with-Tesla-projected-to-exceed-1-TW-of-computing-power-SPCX.aspx?xy=rss",
-      "published": "2026-08-06T14:07:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar comes under pressure as US Dollar snaps two-day decline",
-      "summary": "AUD/USD edges lower on Thursday as the US Dollar (USD) steadies following two consecutive days of losses. At the time of writing, the pair trades around 0.7036, down roughly 0.32% on the day.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-comes-under-pressure-as-us-dollar-snaps-two-day-decline-202608061401",
-      "published": "2026-08-06T14:01:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Undervaluation flags downside risks – MUFG",
-      "summary": "Halpenny highlights MUFG’s G10 regression models showing the US Dollar undervalued against most peers, implying risk premia tied to Middle East conflict, inflation concerns and political interference at the Federal Reserve.",
-      "link": "https://www.fxstreet.com/news/us-dollar-undervaluation-flags-downside-risks-mufg-202608061343",
-      "published": "2026-08-06T13:43:11+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States: Core CPI momentum seen returning in July – TD Securities",
-      "summary": "TD Securities economists expect United States (US) July Core Consumer Price Index (CPI) to return to trend after June’s one-off weakness.",
-      "link": "https://www.fxstreet.com/news/united-states-core-cpi-momentum-seen-returning-in-july-td-securities-202608061312",
-      "published": "2026-08-06T13:12:37+00:00",
       "score": 1
     },
     {
@@ -154,24 +280,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vh3byd/back_after_a_two_year_break_my_xauusd_long_setup/",
       "published": "2026-08-06T12:49:20+00:00",
       "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Modest upside bias into 12 months – Rabobank",
-      "summary": "Rabobank’s Senior FX Strategist Jane Foley notes AUD/USD has trended higher since July, mainly due to a softer US Dollar (USD), with the Australian Dollar (AUD) mid-pack versus G10 peers.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-modest-upside-bias-into-12-months-rabobank-202608061243",
-      "published": "2026-08-06T12:43:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold holds near seven-week high as markets await Strait of Hormuz deal",
-      "summary": "Gold (XAU/USD) consolidates gains on Thursday after briefly climbing above $4,300 as the US Dollar (USD) steadies while traders await confirmation of a possible Iran-Oman agreement on the Strait of Hormuz. At the time of writing, XAU/USD trades around $4,269, up 0.52% on the day.",
-      "link": "https://www.fxstreet.com/news/gold-steadies-near-seven-week-high-as-markets-await-strait-of-hormuz-deal-202608061118",
-      "published": "2026-08-06T11:18:04+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
@@ -243,15 +351,6 @@
       "summary": "<p>BREAKING: Gold futures extend gains to +4% on the day and rise above $4,300/oz.<br />\n<br />\nThe asset owner economy is expanding.</p>\n<img src=\"https://nitter.net/pic/media%2FHO-Fg9VXkAIE41X.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2085031956509556971#m",
       "published": "2026-08-05T15:55:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The US has removed Iran-related sanctions from the US Treasury's website. The move comes amid reports that President Trump is aiming to announce a deal with Iran by the end of this week.",
-      "summary": "<p>BREAKING: The US has removed Iran-related sanctions from the US Treasury's website.<br />\n<br />\nThe move comes amid reports that President Trump is aiming to announce a deal with Iran by the end of this week.</p>\n<p><b>Community note:</b> The U.S. Treasury website still lists active Iran sanctions programs and has not removed Iran-related sanctions information. <a href=\"https://nitter.net/t.co",
-      "link": "https://nitter.net/KobeissiLetter/status/2085005616259469604#m",
-      "published": "2026-08-05T14:10:51+00:00",
       "score": 1
     },
     {
