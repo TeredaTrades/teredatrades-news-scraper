@@ -634,7 +634,7 @@
   {
     "title": "Trade Balance",
     "country": "CNY",
-    "date": "2026-08-06T22:03:00-04:00",
+    "date": "2026-08-06T22:38:00-04:00",
     "impact": "Low",
     "forecast": "735B",
     "previous": "859B"
@@ -642,7 +642,7 @@
   {
     "title": "USD-Denominated Trade Balance",
     "country": "CNY",
-    "date": "2026-08-06T22:04:00-04:00",
+    "date": "2026-08-06T22:38:00-04:00",
     "impact": "Low",
     "forecast": "108.6B",
     "previous": "125.6B"
@@ -674,7 +674,7 @@
   {
     "title": "Lloyds HPI m/m",
     "country": "GBP",
-    "date": "2026-08-07T02:00:00-04:00",
+    "date": "2026-08-07T02:03:00-04:00",
     "impact": "Low",
     "forecast": "0.2%",
     "previous": "0.2%"
