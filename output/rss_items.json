@@ -1,7 +1,151 @@
 {
-  "updated_at": "2026-08-10T11:30:58.313837+00:00",
-  "count": 67,
+  "updated_at": "2026-08-10T12:32:28.185017+00:00",
+  "count": 64,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Morgan Stanley on US CPI - FJElite",
+      "summary": "<div>We forecast core CPI at 0.24% m/m (2.5% y/y) and headline CPI at 0.10% m/m (3.4% y/y), with the rebound driven primarily by core services returning toward their underlying trend and a pickup in core goods. Headline inflation should remain softer than core due to continued declines in energy prices—we forecast headline at 0.10%m/m (3.4%y/y, NSA index: 334.029). We think a core print rounding t",
+      "link": "https://www.financialjuice.com/News/9714658/Morgan-Stanley-on-US-CPI---FJElite.aspx?xy=rss",
+      "published": "2026-08-10T12:31:21+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: BoJ tightening risks support JPY – BNY",
+      "summary": "BNY’s Wee Khoon Chong highlights that long-end JGB yields are rising on inflation and fiscal concerns, with markets pricing a roughly 50% chance of a 25bp BoJ hike in September and a full hike by year-end.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-tightening-risks-support-jpy-bny-202608101230",
+      "published": "2026-08-10T12:30:34+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver tests $65: Why are buyers struggling to extend the rally?",
+      "summary": "Silver (XAG/USD) struggles to extend its gains on Monday following last week’s strong breakout as traders assess the Federal Reserve’s (Fed) interest rate outlook amid risks on both sides of its dual mandate.",
+      "link": "https://www.fxstreet.com/news/silver-tests-65-why-are-buyers-struggling-to-extend-the-rally-202608101217",
+      "published": "2026-08-10T12:17:09+00:00",
+      "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "🇯🇵 BOJ SEPTEMBER RATE HIKE SIGNAL HELPED TRIGGER YEN INTERVENTION The U.S. backed a rare coordinated yen-buying intervention after BOJ Governor Kazuo Ueda strongly signaled a potential rate hike as early as September, according to Japanese government sources. Ueda said the BOJ could accelerate its tightening pace if necessary. Washington reportedly welcomed the stance amid concerns that excessive yen weakness could fuel inflation and push global bond yields higher.",
+      "summary": "<p>🇯🇵 BOJ SEPTEMBER RATE HIKE SIGNAL HELPED TRIGGER YEN INTERVENTION<br />\n<br />\nThe U.S. backed a rare coordinated yen-buying intervention after BOJ Governor Kazuo Ueda strongly signaled a potential rate hike as early as September, according to Japanese government sources.<br />\n<br />\nUeda said the BOJ could accelerate its tightening pace if necessary.<br />\n<br />\nWashington reportedly welcome",
+      "link": "https://nitter.net/DeItaone/status/2086787006592373145#m",
+      "published": "2026-08-10T12:09:27+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Norwegian Krone: Rate hike odds slashed after soft inflation – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes that Norwegian Krone (NOK) is trading mixed as firmer Oil offsets the drag from reduced Norges Bank tightening expectations.",
+      "link": "https://www.fxstreet.com/news/norwegian-krone-rate-hike-odds-slashed-after-soft-inflation-bbh-202608101208",
+      "published": "2026-08-10T12:08:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta backs Texas data center review by governor Abbott.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9714630/Meta-backs-Texas-data-center-review-by-governor-Abbott.aspx?xy=rss",
+      "published": "2026-08-10T12:06:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar steadies, caught between risk aversion, rebounding Oil prices",
+      "summary": "USD/CAD trades around 1.3940 on Monday at the time of writing, virtually unchanged on the day after falling sharply on Friday.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-caught-between-risk-aversion-rebounding-oil-prices-202608101203",
+      "published": "2026-08-10T12:03:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Fed pricing shifts with softer data – Deutsche Bank",
+      "summary": "Deutsche Bank strategists note that Friday’s mixed United States (US) Nonfarm Payrolls (NFP) report led to a notable repricing of September Federal Open Market Committee (FOMC) odds, with futures-implied probability of a hike falling to 44%.",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-pricing-shifts-with-softer-data-deutsche-bank-202608101158",
+      "published": "2026-08-10T11:58:26+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar approaches two-month highs at 0.7088 with RBA decision on tap",
+      "summary": "The Australian Dollar (AUD) holds gains, in the mid-range of the 0.7000s against the US Dollar (USD) on Monday, with two-month highs of 0.7088 at hand. The Aussie is capitalising on the US Dollar’s weakness, as hopes of Federal Reserve (Fed) rate hikes wane.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-approaches-two-month-highs-at-07088-with-rba-decision-on-tap-202608101155",
+      "published": "2026-08-10T11:55:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: WH Sr. Adviser Hassett: Trump will make the call on how long to hold Intel stock",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9714607/WH-Sr-Adviser-Hassett-Trump-will-make-the-call-on-how-long-to-hold-Intel-stock.aspx?xy=rss",
+      "published": "2026-08-10T11:51:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: On verge of downward-trendline breakout",
+      "summary": "The Euro (EUR) trades slightly lower at around 1.1550 against the US Dollar (USD) during the European trading session on Monday.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-on-verge-of-downward-trendline-breakout-202608101146",
+      "published": "2026-08-10T11:46:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: September hike odds reassessed – Rabobank",
+      "summary": "Rabobank’s Bas van Geffen comments that weaker United States (US) Nonfarm Payrolls (NFP) and a drop in labour supply have reduced urgency for another Federal Reserve (Fed) rate hike, though policy remains data‑dependent.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-september-hike-odds-reassessed-rabobank-202608101145",
+      "published": "2026-08-10T11:45:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: WH Sr. Adviser Hassett: Me replacing Lisa Cook on the Fed board is 'not gonna happen’",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9714585/WH-Sr-Adviser-Hassett-Me-replacing-Lisa-Cook-on-the-Fed-board-is-not-gonna-happen.aspx?xy=rss",
+      "published": "2026-08-10T11:45:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "HASSETT: IF I WERE AT THE FED NOW, I'D HOLD OR CUT RATES",
+      "summary": "<p>HASSETT: IF I WERE AT THE FED NOW, I'D HOLD OR CUT RATES</p>",
+      "link": "https://nitter.net/DeItaone/status/2086780388018475277#m",
+      "published": "2026-08-10T11:43:09+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: WH Sr. Adviser Hassett: If I were at the Fed now, I'd hold or cut rates",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9714579/WH-Sr-Adviser-Hassett-If-I-were-at-the-Fed-now-Id-hold-or-cut-rates.aspx?xy=rss",
+      "published": "2026-08-10T11:39:48+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP MEDIA SELLS EARLY ACCESS TO MARKET-MOVING POSTS Trump Media is reportedly charging trading firms up to $1.2 million annually for faster access to President Trump’s Truth Social posts. The service could carry significant market value: a recent Trump post canceling planned Iran strikes helped send WTI crude down roughly 5% in one session. The arrangement is drawing scrutiny over the advantage traders could gain from receiving potentially market-moving presidential announcements early.",
+      "summary": "<p>TRUMP MEDIA SELLS EARLY ACCESS TO MARKET-MOVING POSTS<br />\n<br />\nTrump Media is reportedly charging trading firms up to $1.2 million annually for faster access to President Trump’s Truth Social posts.<br />\n<br />\nThe service could carry significant market value: a recent Trump post canceling planned Iran strikes helped send WTI crude down roughly 5% in one session.<br />\n<br />\nThe arrangeme",
+      "link": "https://nitter.net/DeItaone/status/2086776983594180737#m",
+      "published": "2026-08-10T11:29:37+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -33,7 +177,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Gold Price Forecast: XAU/USD remains bullish, pushing against $4,380 resistance",
-      "summary": "Gold holds gains around $4,350, with two-month highs at $4,380 under pressure.",
+      "summary": "Gold (XAU/USD) holds moderate gains at the mid-range of the $4,300s on Monday, consolidating gains after a nearly 7.5% rally last week.",
       "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-remains-bullish-pushing-against-4-380-resistance-202608101112",
       "published": "2026-08-10T11:12:20+00:00",
       "score": 3
@@ -45,15 +189,6 @@
       "summary": "The US Dollar Index (DXY) consolidates losses, trading below 100.00 at the time of writing on Monday, holding near its lowest levels since mid-June.",
       "link": "https://www.fxstreet.com/news/experts-agree-the-us-dollar-rally-migh-have-come-to-an-end-202608101102",
       "published": "2026-08-10T11:02:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Jefferies cuts Apple to underperform from hold; cuts target price to $263.66 from $285.56. $AAPL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9714493/Jefferies-cuts-Apple-to-underperform-from-hold-cuts-target-price-to-26366-from-28556-AAPL.aspx",
-      "published": "2026-08-10T10:40:39+00:00",
       "score": 1
     },
     {
@@ -93,15 +228,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Meta will resume releasing some open-source models soon",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9714463/Meta-will-resume-releasing-some-open-source-models-soon.aspx",
-      "published": "2026-08-10T10:12:36+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Norwegian Krone: Policy hold guidance in focus – Nomura",
@@ -135,105 +261,6 @@
       "summary": "ING’s Frantisek Taborsky highlights a busy Central and Eastern Europe calendar with Czech inflation, Turkey’s inflation report and key Polish data, including GDP and core inflation.",
       "link": "https://www.fxstreet.com/news/cee-fx-data-heavy-week-under-global-pressure-ing-202608100954",
       "published": "2026-08-10T09:54:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "JPMORGAN RAISES S&P 500 TARGET TO 8,000 JPMorgan raised its S&P 500 year-end target to 8,000 from 7,800, implying roughly 3% upside from Friday’s close. Strategists cited strong earnings and growing evidence that massive AI investment is translating into customer demand. Stronger cloud growth and expanding backlogs at major tech companies are helping validate rising AI spending, which JPMorgan expects to represent more than half of the S&P 500’s $1.5 trillion in capex this year.",
-      "summary": "<p>JPMORGAN RAISES S&amp;P 500 TARGET TO 8,000<br />\n<br />\nJPMorgan raised its S&amp;P 500 year-end target to 8,000 from 7,800, implying roughly 3% upside from Friday’s close.<br />\n<br />\nStrategists cited strong earnings and growing evidence that massive AI investment is translating into customer demand.<br />\n<br />\nStronger cloud growth and expanding backlogs at major tech companies are helpi",
-      "link": "https://nitter.net/DeItaone/status/2086751095783632969#m",
-      "published": "2026-08-10T09:46:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Fed repricing supports gains against US Dollar – Societe Generale",
-      "summary": "Societe Generale strategists highlight that EUR/USD has squeezed above key resistance as Dollar weakness follows softer United States (US) employment data and reduced odds of a September Fed hike. The pair is seen slightly expensive versus nat gas but near fair value on 2-year spreads.",
-      "link": "https://www.fxstreet.com/news/euro-fed-repricing-supports-gains-against-us-dollar-societe-generale-202608100944",
-      "published": "2026-08-10T09:44:23+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) rose on Monday, according to FXStreet data. Silver trades at $64.24 per troy ounce, up 1.08% from the $63.55 it cost on Friday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608100931",
-      "published": "2026-08-10T09:31:24+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar stalls below 0.5900 as US Dollar regains safe-haven appeal",
-      "summary": "NZD/USD trades around 0.5895 on Monday at the time of writing, virtually unchanged on the day.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-stalls-below-05900-as-us-dollar-regains-safe-haven-appeal-202608100906",
-      "published": "2026-08-10T09:06:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro holds gains near seven-week highs as economic sentiment improves",
-      "summary": "The Euro (EUR) ticks higher against a softer US Dollar (USD) on Monday, with the EUR/USD pair trading at the 1.1560 area at the time of writing, consolidating gains a few pips below seven-week highs at 1.1773.",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-near-seven-week-highs-as-economic-sentiment-improves-202608100901",
-      "published": "2026-08-10T09:01:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CHF Price Forecast: Struggles below 0.8100 as bears eye 50-SMA pivotal support",
-      "summary": "The USD/CHF pair struggles to attract any meaningful buyers and remains on the back foot below the 0.8100 mark through the first half of the European session on Monday.",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-struggles-below-08100-as-bears-eye-50-sma-pivotal-support-202608100859",
-      "published": "2026-08-10T08:59:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MUFG: Asia - FJElite",
-      "summary": "<div>The key focus in Asia for the week ahead includes US inflation, China's CPI and credit data, GDP prints out of Singapore, Malaysia. Hong Kong and Taiwan, coupled with the Reserve Bank of Australia’s policy meeting.</div><div><br /></div><div>In particular, China's inflation and credit data will set the initial tone. July CPI and PPI are expected to moderate slightly, while aggregate financing",
-      "link": "https://www.financialjuice.com/News/9714356/MUFG-Asia---FJElite.aspx",
-      "published": "2026-08-10T08:52:25+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: JPMorgan: Q2 Earnings - FJElite",
-      "summary": "<div><ul><li>The Q2 reporting season is well advanced, with around 80 - 85° o of companies having reported in both the US and in Europe. In this final edition of our Q2 tracker, we summarize the key takeaways.</li><li>Earnings deliver)' this quarter was strong, with a positive EPS surprise seen in all regions and a solid breadth of beats; the proportion of companies with reported EPS ahead of esti",
-      "link": "https://www.financialjuice.com/News/9714332/JPMorgan-Q2-Earnings---FJElite.aspx",
-      "published": "2026-08-10T08:44:23+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MUFG: Europe Weekly - FJElite",
-      "summary": "<div>\t<strong>Macro focus - Still looking for a recovery in German industry:</strong></div><div>Recent German industrial data continue to paint a picture of a fragile stabilisation rather than a meaningful rebound. Manufacturing surveys have improved, with both the PMI and Ifo indicators signalling firmer activity ahead, while fiscal support should start to provide more of a tailwind over coming q",
-      "link": "https://www.financialjuice.com/News/9714331/MUFG-Europe-Weekly---FJElite.aspx",
-      "published": "2026-08-10T08:38:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$AAPL - APPLE MAY ABSORB IPHONE 18 PRO COST SURGE Apple may limit price hikes for the iPhone 18 Pro despite component costs expected to jump 38%, according to TrendForce. Soaring memory prices are the main driver, with memory projected to exceed 40% of component costs by early 2027, up from just 10% a year earlier. To protect demand, Apple could accept lower profit margins—or raise prices on older iPhones to offset the added costs.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a>  - APPLE MAY ABSORB IPHONE 18 PRO COST SURGE<br />\n<br />\nApple may limit price hikes for the iPhone 18 Pro despite component costs expected to jump 38%, according to TrendForce.<br />\n<br />\nSoaring memory prices are the main driver, with memory projected to exceed 40% of component costs by early 2027, up from just 10% a year",
-      "link": "https://nitter.net/DeItaone/status/2086728116399976780#m",
-      "published": "2026-08-10T08:15:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Europe Sentiment: Stocks are Strong Following Earnings and NFP - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9714306/Europe-Sentiment-Stocks-are-Strong-Following-Earnings-and-NFP---FJElite.aspx",
-      "published": "2026-08-10T08:12:50+00:00",
       "score": 1
     },
     {
@@ -273,24 +300,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "🇺🇸🇮🇷 US–IRAN CONFLICT: WEEKEND RECAP",
-      "summary": "<hr />\n<b>Article</b><br />\n<a href=\"https://nitter.net/i/article/2086581702236021239\">\n<b>🇺🇸🇮🇷 US–IRAN CONFLICT: WEEKEND RECAP</b>\n</a>\n<p>🇺🇸 US / TRUMP\nTrump: US is only “semi-negotiating” with Iran and is watching developments.\nSays Iran is in very bad economic shape, with high inflation and difficulties paying its troops.\nSays the US</p>",
-      "link": "https://nitter.net/DeItaone/status/2086581702236021239#m",
-      "published": "2026-08-09T22:33:39+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: BLACK & BROWN VOTERS ARE SHIFTING REPUBLICAN Trump says Black and Brown voters are rejecting Communism and Socialism — and moving toward the Republican Party. He also points to the party’s history, noting that Abraham Lincoln was a Republican.",
-      "summary": "<p>TRUMP: BLACK & BROWN VOTERS ARE SHIFTING REPUBLICAN<br />\n<br />\nTrump says Black and Brown voters are rejecting Communism and Socialism — and moving toward the Republican Party.<br />\n<br />\nHe also points to the party’s history, noting that Abraham Lincoln was a Republican.</p>\n<img src=\"https://nitter.net/pic/media%2FHPT3EjWWwAAWqbW.png\" />",
-      "link": "https://nitter.net/DeItaone/status/2086564193113723245#m",
-      "published": "2026-08-09T21:24:04+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "The Kobeissi Letter for the week of August 10th has been published and may be viewed through the link below: https://tinyurl.com/TheKobeissiLetter The Chart of the Week for the week of August 10th has been published. View or sign up for FREE through the link below: https://tinyurl.com/TKLChartofWeek",
@@ -318,24 +327,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP SHIFTS TO A “LOW-KEY” STRATEGY ON IRAN Trump says the U.S. is “low keying it” with Iran, signaling economic pressure will take priority over renewed military action for now. He argues Iran’s economy is deteriorating under the U.S. naval blockade, while oil near $75 is reducing the war’s impact on American consumers. Meanwhile, negotiations to reopen the Strait of Hormuz remain stalled as Tehran demands sanctions relief, compensation, frozen funds and a U.S. military withdrawal. For now, Trump appears willing to wait and let economic pressure build, calling the standoff a “chess game.”",
-      "summary": "<p>TRUMP SHIFTS TO A “LOW-KEY” STRATEGY ON IRAN<br />\n<br />\nTrump says the U.S. is “low keying it” with Iran, signaling economic pressure will take priority over renewed military action for now.<br />\n<br />\nHe argues Iran’s economy is deteriorating under the U.S. naval blockade, while oil near $75 is reducing the war’s impact on American consumers.<br />\n<br />\nMeanwhile, negotiations to reopen ",
-      "link": "https://nitter.net/DeItaone/status/2086498383833825580#m",
-      "published": "2026-08-09T17:02:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP SAYS \"WE ARE LOW-KEYING IT\" WITH IRAN, STRESSES TEHRAN'S ECONOMIC PAIN -AXIOS INTERVIEW",
-      "summary": "<p>TRUMP SAYS \"WE ARE LOW-KEYING IT\" WITH IRAN, STRESSES TEHRAN'S ECONOMIC PAIN -AXIOS INTERVIEW</p>",
-      "link": "https://nitter.net/DeItaone/status/2086497997676859609#m",
-      "published": "2026-08-09T17:01:02+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump has been floating the idea privately to senior aides that he's willing to \"walk away\" from the Iran War without a nuclear deal should Iran fully reopen the Strait of Hormuz, per WSJ. Details include: 1. This objective reportedly became \"more difficult\" yesterday when Iran insisted on its highest price yet for reopening the Strait of Hormuz 2. Iran is now seeking billions of dollars in US payments, the removal of US troops from the region, among other things to reopen Hormuz 3. US officials said Trump is patient and expected to ride out the latest developments as long as gas prices remain where they are 4. Trump has reportedly told senior aides that Iran is likely unable to revive its nuclear work during his presidency The Iran War negotiations are becoming increasingly complicated.",
@@ -352,24 +343,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2086462080551469257#m",
       "published": "2026-08-09T14:38:19+00:00",
       "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$AAPL - APPLE TURNS TO CHINA AS CHIP SHORTAGE BITES Apple is testing memory chips from China’s CXMT for iPhones, MacBooks and other devices as the AI boom squeezes global supplies. The company is considering CXMT chips for products sold in China and hopes to secure White House approval. U.S. restrictions prevent Apple from ordering customized CXMT chips, but standard components remain permitted. With memory costs rising and pushing up device prices, Chinese supplies could offer Apple some relief.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a>  - APPLE TURNS TO CHINA AS CHIP SHORTAGE BITES<br />\n<br />\nApple is testing memory chips from China’s CXMT for iPhones, MacBooks and other devices as the AI boom squeezes global supplies.<br />\n<br />\nThe company is considering CXMT chips for products sold in China and hopes to secure White House approval.<br />\n<br />\nU.S. r",
-      "link": "https://nitter.net/DeItaone/status/2086441444521197826#m",
-      "published": "2026-08-09T13:16:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$AAPL - APPLE TESTS CHINESE MEMORY CHIPS FOR IPHONES, MACBOOKS Apple is testing memory chips from Chinese semiconductor maker CXMT across several product lines, including iPhones and MacBooks, according to the Wall Street Journal. The move could potentially expand Apple’s supplier options and deepen its use of China-made components. No decision on whether Apple will adopt the chips was reported.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a> - APPLE TESTS CHINESE MEMORY CHIPS FOR IPHONES, MACBOOKS<br />\n<br />\nApple is testing memory chips from Chinese semiconductor maker CXMT across several product lines, including iPhones and MacBooks, according to the Wall Street Journal.<br />\n<br />\nThe move could potentially expand Apple’s supplier options and deepen its use",
-      "link": "https://nitter.net/DeItaone/status/2086414271085179051#m",
-      "published": "2026-08-09T11:28:20+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
