@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-08-10T10:18:21.842462+00:00",
-  "count": 65,
+  "updated_at": "2026-08-10T11:30:58.313837+00:00",
+  "count": 67,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold holds firm as Fed rate outlook, Middle East developments remain in focus",
+      "summary": "Gold (XAU/USD) holds firm on Monday as buyers take a breather following last week’s sharp rally, with the broader market theme still centred on the Federal Reserve’s (Fed) interest-rate outlook and developments in the Middle East.",
+      "link": "https://www.fxstreet.com/news/gold-holds-firm-as-fed-rate-outlook-middle-east-developments-remain-in-focus-202608101127",
+      "published": "2026-08-10T11:27:31+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen underperforms on surprising current account deficit",
+      "summary": "The Japanese Yen (JPY) is down against its major currency peers on Monday, trading 0.6% lower at around 158.80 against the US Dollar (USD) at the time of writing during the European trading session.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-underperforms-on-surprising-current-account-deficit-202608101125",
+      "published": "2026-08-10T11:25:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Central bank demand underpins rally – ING",
+      "summary": "ING’s Ewa Manthey and Warren Patterson report that Gold extended its rally as the People’s Bank of China (PBoC) added 640koz to reserves, marking 21 consecutive months of accumulation. Spot Gold moved above $4,320/oz, supported by ongoing central bank buying and stronger Chinese ETF demand.",
+      "link": "https://www.fxstreet.com/news/gold-central-bank-demand-underpins-rally-ing-202608101123",
+      "published": "2026-08-10T11:23:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold Price Forecast: XAU/USD remains bullish, pushing against $4,380 resistance",
+      "summary": "Gold holds gains around $4,350, with two-month highs at $4,380 under pressure.",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-remains-bullish-pushing-against-4-380-resistance-202608101112",
+      "published": "2026-08-10T11:12:20+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Experts agree: The US Dollar rally migh have come to an end",
+      "summary": "The US Dollar Index (DXY) consolidates losses, trading below 100.00 at the time of writing on Monday, holding near its lowest levels since mid-June.",
+      "link": "https://www.fxstreet.com/news/experts-agree-the-us-dollar-rally-migh-have-come-to-an-end-202608101102",
+      "published": "2026-08-10T11:02:43+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Jefferies cuts Apple to underperform from hold; cuts target price to $263.66 from $285.56. $AAPL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9714493/Jefferies-cuts-Apple-to-underperform-from-hold-cuts-target-price-to-26366-from-28556-AAPL.aspx",
+      "published": "2026-08-10T10:40:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AAPL : downgraded to Underperform by Jefferies; PT cut to $263.66 from $285.56 Jefferies downgraded Apple to Underperform from Hold and cut its price target to $263.66 from $285.56, implying 16% downside. The firm says supply-chain checks indicate Apple’s all-glass iPhone planned for September 2027 has been canceled due to production yield issues. Jefferies also cut FY2028 and FY2029 EPS estimates, citing the setback and rising memory costs.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a> : downgraded to Underperform by Jefferies; PT cut to $263.66 from $285.56<br />\n<br />\nJefferies downgraded Apple to Underperform from Hold and cut its price target to $263.66 from $285.56, implying 16% downside.<br />\n<br />\nThe firm says supply-chain checks indicate Apple’s all-glass iPhone planned for September 2027 has bee",
+      "link": "https://nitter.net/DeItaone/status/2086764325021131166#m",
+      "published": "2026-08-10T10:39:19+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound tests 1.3500 as US Dollar struggles to shake off NFP shock",
+      "summary": "GBP/USD trades around 1.3495 on Monday at the time of writing, up a modest 0.04% on the day. However, the pair struggles to hold firmly above the psychological 1.3500 level after benefiting on Friday from a decline in the US Dollar (USD) triggered by disappointing United States (US) employment data.",
+      "link": "https://www.fxstreet.com/news/british-pound-tests-13500-as-us-dollar-struggles-to-shake-off-nfp-shock-202608101027",
+      "published": "2026-08-10T10:27:18+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "MARKET MOVERS",
+      "summary": "<hr />\n<b>Article</b><br />\n<a href=\"https://nitter.net/i/article/2086760537296101446\">\n<b>MARKET MOVERS</b>\n</a>\n<p>🟢 UPGRADES\n$PTGX: Goldman Sachs upgraded to Buy; PT raised to $186 from $110\n$FCFS: Loop Capital upgraded to Buy; PT $255\n$DKS: Wells Fargo upgraded to Overweight; PT raised to $240 from $220\n$SEZL:</p>",
+      "link": "https://nitter.net/DeItaone/status/2086760537296101446#m",
+      "published": "2026-08-10T10:24:16+00:00",
+      "score": 1
+    },
     {
       "source": "r/Forex",
       "category": "reddit",
@@ -16,7 +97,7 @@
       "category": "news",
       "title": "FinancialJuice: Meta will resume releasing some open-source models soon",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9714463/Meta-will-resume-releasing-some-open-source-models-soon.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9714463/Meta-will-resume-releasing-some-open-source-models-soon.aspx",
       "published": "2026-08-10T10:12:36+00:00",
       "score": 1
     },
@@ -115,7 +196,7 @@
       "category": "news",
       "title": "FinancialJuice: MUFG: Asia - FJElite",
       "summary": "<div>The key focus in Asia for the week ahead includes US inflation, China's CPI and credit data, GDP prints out of Singapore, Malaysia. Hong Kong and Taiwan, coupled with the Reserve Bank of Australia’s policy meeting.</div><div><br /></div><div>In particular, China's inflation and credit data will set the initial tone. July CPI and PPI are expected to moderate slightly, while aggregate financing",
-      "link": "https://www.financialjuice.com/News/9714356/MUFG-Asia---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9714356/MUFG-Asia---FJElite.aspx",
       "published": "2026-08-10T08:52:25+00:00",
       "score": 4
     },
@@ -124,7 +205,7 @@
       "category": "news",
       "title": "FinancialJuice: JPMorgan: Q2 Earnings - FJElite",
       "summary": "<div><ul><li>The Q2 reporting season is well advanced, with around 80 - 85° o of companies having reported in both the US and in Europe. In this final edition of our Q2 tracker, we summarize the key takeaways.</li><li>Earnings deliver)' this quarter was strong, with a positive EPS surprise seen in all regions and a solid breadth of beats; the proportion of companies with reported EPS ahead of esti",
-      "link": "https://www.financialjuice.com/News/9714332/JPMorgan-Q2-Earnings---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9714332/JPMorgan-Q2-Earnings---FJElite.aspx",
       "published": "2026-08-10T08:44:23+00:00",
       "score": 2
     },
@@ -133,36 +214,9 @@
       "category": "news",
       "title": "FinancialJuice: MUFG: Europe Weekly - FJElite",
       "summary": "<div>\t<strong>Macro focus - Still looking for a recovery in German industry:</strong></div><div>Recent German industrial data continue to paint a picture of a fragile stabilisation rather than a meaningful rebound. Manufacturing surveys have improved, with both the PMI and Ifo indicators signalling firmer activity ahead, while fiscal support should start to provide more of a tailwind over coming q",
-      "link": "https://www.financialjuice.com/News/9714331/MUFG-Europe-Weekly---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9714331/MUFG-Europe-Weekly---FJElite.aspx",
       "published": "2026-08-10T08:38:37+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Softer labour data shifts Fed outlook – Societe Generale",
-      "summary": "Societe Generale’s Kenneth Broux reports that weaker US employment data and downward revisions have sharply reduced expectations for a September Fed hike, though one move remains priced for December.",
-      "link": "https://www.fxstreet.com/news/us-dollar-softer-labour-data-shifts-fed-outlook-societe-generale-202608100837",
-      "published": "2026-08-10T08:37:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow futures remain steady amid rising oil, diminishing Fed cut odds",
-      "summary": "Dow Jones futures are steady around 54,150 during European hours on Monday. Meanwhile, S&amp;P 500 futures gain 0.16% to trade near 7,790 and Nasdaq 100 futures gain 0.39%, trading near 29,950.",
-      "link": "https://www.fxstreet.com/news/dow-futures-remain-steady-amid-rising-oil-diminishing-fed-cut-odds-202608100830",
-      "published": "2026-08-10T08:30:49+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: RBA set to hold amid inflation risks - BNY",
-      "summary": "BNY’s Geoff Yu and David Tam expect the Reserve Bank of Australia (RBA) to keep rates unchanged at 4.35%, noting that markets doubt its willingness to hike despite persistent inflation and robust labor and spending data.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-set-to-hold-amid-inflation-risks-bny-202608100817",
-      "published": "2026-08-10T08:17:14+00:00",
-      "score": 2
     },
     {
       "source": "Walter Bloomberg",
@@ -178,24 +232,15 @@
       "category": "news",
       "title": "FinancialJuice: Europe Sentiment: Stocks are Strong Following Earnings and NFP - FJElite",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9714306/Europe-Sentiment-Stocks-are-Strong-Following-Earnings-and-NFP---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9714306/Europe-Sentiment-Stocks-are-Strong-Following-Earnings-and-NFP---FJElite.aspx",
       "published": "2026-08-10T08:12:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Currency Strength Chart: Strongest: GBP, AUD, USD, EUR, CHF, NZD, CAD, JPY - Weakest",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9714226/Currency-Strength-Chart-Strongest-GBP-AUD-USD-EUR-CHF-NZD-CAD-JPY---Weakest.aspx?xy=rss",
-      "published": "2026-08-10T07:01:35+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee drops as Iran sets new Hormuz reopening conditions",
-      "summary": "The Indian Rupee (INR) is down against the US Dollar (USD) at the start of the week. The USD/INR pair rebounds to near 95.25 as oil prices extend their recovery move and the US Dollar regains ground after a weak Friday.",
+      "title": "Indian Rupee falls as Iran tightens Hormuz reopening conditions",
+      "summary": "The Indian Rupee (INR) is down against the US Dollar (USD) at the start of the week. The USD/INR pair rebounds to near 95.30 as oil prices extend their recovery move and the US Dollar regains ground after a weak Friday.",
       "link": "https://www.fxstreet.com/news/indian-rupee-drops-as-oil-prices-extend-recovery-downside-seems-limited-202608100524",
       "published": "2026-08-10T05:24:33+00:00",
       "score": 1
@@ -208,15 +253,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vkax60/xauusd/",
       "published": "2026-08-10T04:30:24+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold bulls seem hesitant near $4,350 as Iran risks and Fed hike bets support USD",
-      "summary": "Gold (XAU/USD) climbs above $4,350, hitting a fresh high during the first half of the European session on Monday, though it remains below the highest level since June 17, set on Friday in reaction to the US Nonfarm Payrolls (NFP) report.",
-      "link": "https://www.fxstreet.com/news/gold-retreats-from-june-17-highest-amid-usd-uptick-holds-above-4-300-pivotal-support-202608100229",
-      "published": "2026-08-10T02:29:47+00:00",
-      "score": 5
     },
     {
       "source": "Kobeissi Letter",
@@ -336,15 +372,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ISRAEL REJECTS TRUMP’S 15-POINT GAZA PLAN Israel has rejected President Trump’s 15-point Gaza peace plan, Prime Minister Benjamin Netanyahu said. Netanyahu says Israeli forces will not withdraw until Hamas fully disarms. Trump had previously announced a breakthrough in the peace process, saying Hamas agreed to give up its weapons. Israel and Hamas agreed to a ceasefire last October, though Israeli strikes in Gaza have continued.",
-      "summary": "<p>ISRAEL REJECTS TRUMP’S 15-POINT GAZA PLAN<br />\n<br />\nIsrael has rejected President Trump’s 15-point Gaza peace plan, Prime Minister Benjamin Netanyahu said.<br />\n<br />\nNetanyahu says Israeli forces will not withdraw until Hamas fully disarms.<br />\n<br />\nTrump had previously announced a breakthrough in the peace process, saying Hamas agreed to give up its weapons.<br />\n<br />\nIsrael and H",
-      "link": "https://nitter.net/DeItaone/status/2086413400729436341#m",
-      "published": "2026-08-09T11:24:53+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gold Could Face Sellers Near 4350–4360?",
@@ -405,15 +432,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1visqdj/gold_heading_into_monday_what_are_you_seeing/\"> <img alt=\"Gold Heading Into Monday — What Are You Seeing?\" src=\"https://preview.redd.it/zn80cql7r4ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d212065a562764df8a4f1fef4975d9f097a1f97\" title=\"Gold Heading Into Monday — What Are You Seeing?\" /> </a> </td><td> <!-- SC_OF",
       "link": "https://www.reddit.com/r/Forex/comments/1visqdj/gold_heading_into_monday_what_are_you_seeing/",
       "published": "2026-08-08T10:42:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The S&P 500 closes at the highest level on record, up another +3.6% this week. The S&P 500 added +$2.5 trillion in market cap this week.",
-      "summary": "<p>BREAKING: The S&amp;P 500 closes at the highest level on record, up another +3.6% this week.<br />\n<br />\nThe S&amp;P 500 added +$2.5 trillion in market cap this week.</p>\n<img src=\"https://nitter.net/pic/media%2FHPJRaRQWMAA5kDA.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2085819649887748424#m",
-      "published": "2026-08-07T20:05:31+00:00",
       "score": 1
     },
     {
