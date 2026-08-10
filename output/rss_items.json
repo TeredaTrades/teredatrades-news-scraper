@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-10T22:07:26.709655+00:00",
-  "count": 77,
+  "updated_at": "2026-08-10T22:56:44.371210+00:00",
+  "count": 62,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: 100-day SMA caps Euro recovery",
+      "summary": "The Euro is poised to end Monday’s session with losses of about 0.13% against the Greenback, as recent news points to a delay in talks between the US and Iran, while, from a technical perspective, EUR/USD stalled at the 100-day Simple Moving Average (SMA) near 1.1568.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-100-day-sma-caps-euro-recovery-202608102238",
+      "published": "2026-08-10T22:38:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed's Hammack calls for rate hikes, says policy not restrictive enough",
+      "summary": "Cleveland Fed President Beth Hammack crossed the wires on Monday and was hawkish, noting that the current rate is not “meaningfully restricting the economy” and that there is a need for some number of rate hikes.",
+      "link": "https://www.fxstreet.com/news/fed-hammack-calls-for-rate-hikes-says-policy-not-restrictive-enough-202608102225",
+      "published": "2026-08-10T22:25:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Treasury yields climb as Oil spike revives CPI jitters",
+      "summary": "US Treasury yields rose on Monday as traders braced for the release of US inflation figures this week, following a worse-than-expected Nonfarm Payrolls report last Friday.",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-climb-as-oil-spike-revives-cpi-jitters-202608102215",
+      "published": "2026-08-10T22:15:54+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -25,7 +52,7 @@
       "category": "news",
       "title": "FinancialJuice: Nvidia: Compute is  needed by AI labs, AI startups",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9715254/Nvidia-Compute-is--needed-by-AI-labs-AI-startups.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9715254/Nvidia-Compute-is--needed-by-AI-labs-AI-startups.aspx?xy=1",
       "published": "2026-08-10T20:50:54+00:00",
       "score": 1
     },
@@ -34,7 +61,7 @@
       "category": "news",
       "title": "FinancialJuice: Nvidia CEO: No one said no to new AI financing push. $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9715253/Nvidia-CEO-No-one-said-no-to-new-AI-financing-push-NVDA.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9715253/Nvidia-CEO-No-one-said-no-to-new-AI-financing-push-NVDA.aspx?xy=1",
       "published": "2026-08-10T20:49:54+00:00",
       "score": 1
     },
@@ -70,7 +97,7 @@
       "category": "news",
       "title": "FinancialJuice: Nvidia CEO: deals will support broad build out of AI. Money is all third-party capital. $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9715233/Nvidia-CEO-deals-will-support-broad-build-out-of-AI-Money-is-all-third-party-capital-NVDA.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9715233/Nvidia-CEO-deals-will-support-broad-build-out-of-AI-Money-is-all-third-party-capital-NVDA.aspx?xy=1",
       "published": "2026-08-10T20:20:51+00:00",
       "score": 1
     },
@@ -79,7 +106,7 @@
       "category": "news",
       "title": "FinancialJuice: Oil Rally Pressures Stocks as Inflation Fears Build – US Market Wrap",
       "summary": "<div>A rally in oil left stocks wavering and pushed bond yields higher, with investors turning cautious ahead of key US inflation reports. Brent crude climbed above $87 as the US and Iran failed to reach a deal to reopen the Strait of Hormuz. Higher energy costs fueled concerns that the Federal Reserve may still need to raise rates this year despite signs of a cooling labor market. Most S&amp;P 50",
-      "link": "https://www.financialjuice.com/News/9715215/Oil-Rally-Pressures-Stocks-as-Inflation-Fears-Build--US-Market-Wrap.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9715215/Oil-Rally-Pressures-Stocks-as-Inflation-Fears-Build--US-Market-Wrap.aspx?xy=1",
       "published": "2026-08-10T20:05:36+00:00",
       "score": 6
     },
@@ -97,43 +124,25 @@
       "category": "news",
       "title": "FinancialJuice: MOC Imbalance",
       "summary": "S&amp;P 500: -1280 mln<br />Nasdaq 100: -1416 mln<br />Dow 30: -469 mln<br />Mag 7: -563 mln",
-      "link": "https://www.financialjuice.com/News/9715200/MOC-Imbalance.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9715200/MOC-Imbalance.aspx?xy=1",
       "published": "2026-08-10T19:50:30+00:00",
       "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP SAYS HE SPOKE WITH FED CHAIR WARSH President Trump says he spoke briefly with Fed Chair Kevin Warsh last week but stressed that Warsh must work with the broader Fed board. Trump suggested Warsh’s preferred policy direction could differ if he had sole control, but did not specify what action the Fed chair favors.",
-      "summary": "<p>TRUMP SAYS HE SPOKE WITH FED CHAIR WARSH<br />\n<br />\nPresident Trump says he spoke briefly with Fed Chair Kevin Warsh last week but stressed that Warsh must work with the broader Fed board.<br />\n<br />\nTrump suggested Warsh’s preferred policy direction could differ if he had sole control, but did not specify what action the Fed chair favors.</p>",
-      "link": "https://nitter.net/DeItaone/status/2086901366144782597#m",
-      "published": "2026-08-10T19:43:53+00:00",
-      "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Trump ends remarks in the Oval Office",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9715193/Trump-ends-remarks-in-the-Oval-Office.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9715193/Trump-ends-remarks-in-the-Oval-Office.aspx?xy=1",
       "published": "2026-08-10T19:38:08+00:00",
       "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: SPOKE TO FEDERAL RESERVE'S WARSH A COUPLE DAYS AGO",
-      "summary": "<p>TRUMP: SPOKE TO FEDERAL RESERVE'S WARSH A COUPLE DAYS AGO</p>",
-      "link": "https://nitter.net/DeItaone/status/2086899491739738250#m",
-      "published": "2026-08-10T19:36:26+00:00",
-      "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Trump: Spoke to Warsh once briefly a few days ago.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9715192/Trump-Spoke-to-Warsh-once-briefly-a-few-days-ago.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9715192/Trump-Spoke-to-Warsh-once-briefly-a-few-days-ago.aspx?xy=1",
       "published": "2026-08-10T19:35:25+00:00",
       "score": 1
     },
@@ -142,17 +151,8 @@
       "category": "news",
       "title": "FinancialJuice: Trump denies WSJ story about Warsh conversations.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9715191/Trump-denies-WSJ-story-about-Warsh-conversations.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9715191/Trump-denies-WSJ-story-about-Warsh-conversations.aspx?xy=1",
       "published": "2026-08-10T19:35:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: U.S. HAS MINESWEPT THE ENTIRE STRAIT",
-      "summary": "<p>TRUMP ON IRAN: U.S. HAS MINESWEPT THE ENTIRE STRAIT</p>",
-      "link": "https://nitter.net/DeItaone/status/2086899035911213390#m",
-      "published": "2026-08-10T19:34:37+00:00",
       "score": 1
     },
     {
@@ -160,7 +160,7 @@
       "category": "news",
       "title": "FinancialJuice: Trump: Strait is a little complex because of occasional mines. US has mineswept the entire Strait.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9715190/Trump-Strait-is-a-little-complex-because-of-occasional-mines-US-has-mineswept-the-entire-Strait.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9715190/Trump-Strait-is-a-little-complex-because-of-occasional-mines-US-has-mineswept-the-entire-Strait.aspx?xy=1",
       "published": "2026-08-10T19:34:19+00:00",
       "score": 1
     },
@@ -169,7 +169,7 @@
       "category": "news",
       "title": "FinancialJuice: Trump: US is the only one that has control of Hormuz.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9715189/Trump-US-is-the-only-one-that-has-control-of-Hormuz.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9715189/Trump-US-is-the-only-one-that-has-control-of-Hormuz.aspx?xy=1",
       "published": "2026-08-10T19:33:55+00:00",
       "score": 1
     },
@@ -178,7 +178,7 @@
       "category": "news",
       "title": "FinancialJuice: tRump: The Strait is open now.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9715188/tRump-The-Strait-is-open-now.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9715188/tRump-The-Strait-is-open-now.aspx?xy=1",
       "published": "2026-08-10T19:33:17+00:00",
       "score": 1
     },
@@ -201,48 +201,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: U.S. GOING TO ASK FOR MONEY FOR DAMAGE IRAN HAS DONE",
-      "summary": "<p>TRUMP ON IRAN: U.S. GOING TO ASK FOR MONEY FOR DAMAGE IRAN HAS DONE</p>",
-      "link": "https://nitter.net/DeItaone/status/2086896560458133637#m",
-      "published": "2026-08-10T19:24:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: WE STILL HAVE ABILITY TO ESCALATE",
-      "summary": "<p>TRUMP ON IRAN: WE STILL HAVE ABILITY TO ESCALATE</p>",
-      "link": "https://nitter.net/DeItaone/status/2086896468871279030#m",
-      "published": "2026-08-10T19:24:25+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: US oil prices surge over +5% to $82/barrel after President Trump says the US is now demanding compensation from Iran.",
       "summary": "<p>BREAKING: US oil prices surge over +5% to $82/barrel after President Trump says the US is now demanding compensation from Iran.</p>\n<img src=\"https://nitter.net/pic/media%2FHPYf9owWEAA1gqC.png\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2086890752588513717#m",
       "published": "2026-08-10T19:01:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: VACCINATIONS FOR HEPATITIS B, COVID-19 AND INFLUENZA, AMONG OTHERS, NO LONGER RECOMMENDED FOR ALL CHILDREN",
-      "summary": "<p>TRUMP: VACCINATIONS FOR HEPATITIS B, COVID-19 AND INFLUENZA, AMONG OTHERS, NO LONGER RECOMMENDED FOR ALL CHILDREN</p>",
-      "link": "https://nitter.net/DeItaone/status/2086890167260921939#m",
-      "published": "2026-08-10T18:59:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: ADMINISTRATION RECOGNIZING CHILDHOOD VACCINE RECOMMENDATIONS FOR ONLY 11 CORE VACCINATIONS",
-      "summary": "<p>TRUMP: ADMINISTRATION RECOGNIZING CHILDHOOD VACCINE RECOMMENDATIONS FOR ONLY 11 CORE VACCINATIONS</p>",
-      "link": "https://nitter.net/DeItaone/status/2086890124659318954#m",
-      "published": "2026-08-10T18:59:12+00:00",
       "score": 1
     },
     {
@@ -309,33 +273,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "CFRA RAISES S&P 500 TARGET TO 8,650 CFRA raised its 12-month S&P 500 target to 8,650 from 7,730, implying nearly 12% upside from August 7. The firm also lifted its 2026 year-end target to 8,050. Strategist Sam Stovall says strong earnings continue to support equities, but rising margin debt, persistent inflation and potential Fed tightening are fueling concerns that the rally could be approaching a peak.",
-      "summary": "<p>CFRA RAISES S&amp;P 500 TARGET TO 8,650<br />\n<br />\nCFRA raised its 12-month S&amp;P 500 target to 8,650 from 7,730, implying nearly 12% upside from August 7.<br />\n<br />\nThe firm also lifted its 2026 year-end target to 8,050.<br />\n<br />\nStrategist Sam Stovall says strong earnings continue to support equities, but rising margin debt, persistent inflation and potential Fed tightening are fue",
-      "link": "https://nitter.net/DeItaone/status/2086862723359429071#m",
-      "published": "2026-08-10T17:10:19+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. REVOKES MORE THAN 175,000 VISAS The State Department says it has revoked over 175,000 visas since President Trump took office as part of a broader immigration enforcement push. Revocations targeted foreign nationals accused of crimes, fraud, visa violations, threats to national security or calls for violence against Americans. Most cancellations followed law-enforcement encounters, with assault, DUI, theft and drug offenses among the leading reasons.",
-      "summary": "<p>U.S. REVOKES MORE THAN 175,000 VISAS<br />\n<br />\nThe State Department says it has revoked over 175,000 visas since President Trump took office as part of a broader immigration enforcement push.<br />\n<br />\nRevocations targeted foreign nationals accused of crimes, fraud, visa violations, threats to national security or calls for violence against Americans.<br />\n<br />\nMost cancellations follo",
-      "link": "https://nitter.net/DeItaone/status/2086861730286612618#m",
-      "published": "2026-08-10T17:06:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP EXTENDS JONES ACT SHIPPING WAIVER President Trump extended the Jones Act shipping waiver for another 90 days while narrowing its scope. The exemption will now focus on energy commodities and fertilizer. The Pentagon and U.S. maritime authorities will also consider additional relief on a case-by-case basis.",
-      "summary": "<p>TRUMP EXTENDS JONES ACT SHIPPING WAIVER<br />\n<br />\nPresident Trump extended the Jones Act shipping waiver for another 90 days while narrowing its scope.<br />\n<br />\nThe exemption will now focus on energy commodities and fertilizer.<br />\n<br />\nThe Pentagon and U.S. maritime authorities will also consider additional relief on a case-by-case basis.</p>",
-      "link": "https://nitter.net/DeItaone/status/2086861018936832008#m",
-      "published": "2026-08-10T17:03:33+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Japanese Yen weakens as surprise current account deficit weighs",
@@ -343,51 +280,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-surprise-current-account-deficit-weighs-202608101647",
       "published": "2026-08-10T16:47:33+00:00",
       "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$NVDA - NVIDIA SHARES EXTEND DECLINES; REPORT SAYS WALL STREET GIANTS PARTNER WITH CO ON $500 BLN AI FINANCING DEAL, LAST DOWN 3.2%",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - NVIDIA SHARES EXTEND DECLINES; REPORT SAYS WALL STREET GIANTS PARTNER WITH CO ON $500 BLN AI FINANCING DEAL, LAST DOWN 3.2%</p>",
-      "link": "https://nitter.net/DeItaone/status/2086855015382073598#m",
-      "published": "2026-08-10T16:39:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP DEMANDS IRAN COMPENSATION IN FUTURE TALKS President Trump says he has instructed U.S. negotiators to demand compensation from Iran in all future negotiations. The move comes after Tehran reportedly sought compensation for damage suffered during the five-month conflict. Trump said Washington’s demands should cover Americans killed or wounded in past Iran-linked conflicts, as well as victims of Iranian government crackdowns.",
-      "summary": "<p>TRUMP DEMANDS IRAN COMPENSATION IN FUTURE TALKS<br />\n<br />\nPresident Trump says he has instructed U.S. negotiators to demand compensation from Iran in all future negotiations.<br />\n<br />\nThe move comes after Tehran reportedly sought compensation for damage suffered during the five-month conflict.<br />\n<br />\nTrump said Washington’s demands should cover Americans killed or wounded in past I",
-      "link": "https://nitter.net/DeItaone/status/2086853610940383410#m",
-      "published": "2026-08-10T16:34:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: I AM LIKEWISE DEMANDING COMPENSATION FROM IRAN",
-      "summary": "<p>TRUMP: I AM LIKEWISE DEMANDING COMPENSATION FROM IRAN</p>",
-      "link": "https://nitter.net/DeItaone/status/2086853280873717774#m",
-      "published": "2026-08-10T16:32:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: IRAN ARE ASKING FOR COMPENSATION FOR DAMAGE DONE TO THEM DURING LAST FIVE MONTH MILITARY CONFLICT",
-      "summary": "<p>TRUMP: IRAN ARE ASKING FOR COMPENSATION FOR DAMAGE DONE TO THEM DURING LAST FIVE MONTH MILITARY CONFLICT</p>",
-      "link": "https://nitter.net/DeItaone/status/2086853249965969738#m",
-      "published": "2026-08-10T16:32:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$NVDA - NVIDIA TEAMS WITH WALL STREET ON $500BN AI FINANCING PUSH Nvidia is partnering with a consortium of Wall Street investment giants on a $500 billion AI financing initiative, according to the Financial Times. The group reportedly includes Apollo, Blackstone, a BlackRock unit, Brookfield, Goldman Sachs and KKR. The partnership highlights the enormous capital requirements behind the expansion of AI infrastructure.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - NVIDIA TEAMS WITH WALL STREET ON $500BN AI FINANCING PUSH<br />\n<br />\nNvidia is partnering with a consortium of Wall Street investment giants on a $500 billion AI financing initiative, according to the Financial Times.<br />\n<br />\nThe group reportedly includes Apollo, Blackstone, a BlackRock unit, Brookfield, Goldman Sach",
-      "link": "https://nitter.net/DeItaone/status/2086852250245214425#m",
-      "published": "2026-08-10T16:28:42+00:00",
-      "score": 2
     },
     {
       "source": "FXStreet",
@@ -406,24 +298,6 @@
       "link": "https://www.fxstreet.com/news/emerging-markets-selectivity-key-as-fed-path-clouds-hsbc-202608101613",
       "published": "2026-08-10T16:13:33+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Denmark: Tax cuts keep inflation below the euro area – Nordea",
-      "summary": "Nordea economist Jan Størup Nielsen notes that Danish inflation eased slightly in July, with headline consumer prices up 1.7% year-over-year and core inflation steady at 2.3%.",
-      "link": "https://www.fxstreet.com/news/denmark-tax-cuts-keep-inflation-below-the-euro-area-nordea-202608101554",
-      "published": "2026-08-10T15:54:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CAD Price Forecast: Bearish pressure builds below 1.4000",
-      "summary": "USD/CAD trades on the back foot on Monday even as the US Dollar (USD) regains some ground after weakening last week following softer-than-expected US Nonfarm Payrolls (NFP) data. Attention now turns to Wednesday’s US Consumer Price Index (CPI) report.",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-pressure-builds-below-14000-202608101550",
-      "published": "2026-08-10T15:50:43+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
@@ -532,15 +406,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vjls8y/gold_could_face_sellers_near_43504360/",
       "published": "2026-08-09T09:51:10+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Wall Street is paying less attention to the Magnificent 7: Monthly mentions of the \"Magnificent Seven\" across news stories on the Bloomberg terminal are down to ~1,400, near the lowest since Q4 2023. This marks a -70% decline from the Q1 2024 peak of ~4,300 mentions, which came shortly after the term was introduced in 2023. A similar pattern occurred with the \"FANG\" and later \"FAANG\" labels, originally referring to Facebook, Amazon, Netflix, and Google before Apple was added. Monthly mentions of \"FANG\" and \"FAANG\" surged to a record ~2,800 in Q4 2018. Subsequently, they dropped -82%, to just ~500 mentions by early 2020. Investor attention has shifted away from the Mag 7.",
-      "summary": "<p>Wall Street is paying less attention to the Magnificent 7:<br />\n<br />\nMonthly mentions of the \"Magnificent Seven\" across news stories on the Bloomberg terminal are down to ~1,400, near the lowest since Q4 2023.<br />\n<br />\nThis marks a -70% decline from the Q1 2024 peak of ~4,300 mentions, which came shortly after the term was introduced in 2023.<br />\n<br />\nA similar pattern occurred with ",
-      "link": "https://nitter.net/KobeissiLetter/status/2086250029132443881#m",
-      "published": "2026-08-09T00:35:42+00:00",
-      "score": 3
     },
     {
       "source": "Federal Reserve",
