@@ -1,13 +1,85 @@
 {
-  "updated_at": "2026-08-10T01:58:45.663822+00:00",
-  "count": 55,
+  "updated_at": "2026-08-10T04:03:36.424631+00:00",
+  "count": 65,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar drifts lower as USD recovers from post-NFP lows amid Mideast jitters",
+      "summary": "The NZD/USD pair is seen extending Friday's late pullback from the vicinity of the monthly peak – levels just above the 0.5900 mark – and drifting lower at the start of a new week.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-drifts-lower-as-usd-recovers-from-post-nfp-lows-amid-mideast-jitters-202608100348",
+      "published": "2026-08-10T03:48:17+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index advances above 99.50 due to Middle East risks",
+      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is gaining ground after registering modest losses in the previous day and trading around 99.70 during the Asian hours on Monday.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-advances-above-9950-due-to-middle-east-risks-202608100347",
+      "published": "2026-08-10T03:47:38+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD starts US CPI week on flat note around $63.50",
+      "summary": "Silver price (XAG/USD) trades in a tight range at around $63.50 during the Asian trading session at the start of the week. The white metal struggles for direction but is close to an almost seven-week high of $65.16 posted on Friday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-starts-us-cpi-week-on-flat-note-around-6350-202608100316",
+      "published": "2026-08-10T03:16:08+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar weakens as safe-haven demand lifts US Dollar",
+      "summary": "AUD/USD inches lower after registering modest gains in the previous day, trading around 0.7060 during the Asian hours on Monday. The pair holds losses as the US Dollar (USD) receives support from broad risk aversion.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-as-safe-haven-demand-lifts-us-dollar-202608100315",
+      "published": "2026-08-10T03:15:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar pulls back from two-month top as rebounding USD counters higher oil prices",
+      "summary": "The USD/CAD pair attracts some dip-buyers at the start of a new week and recovers a part of Friday's heavy losses to the 1.3925 area, or a nearly two-month low.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-pulls-back-from-two-month-top-as-rebounding-usd-counters-higher-oil-prices-202608100314",
+      "published": "2026-08-10T03:14:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold retreats from June 17 highest amid USD uptick; holds above $4,300 pivotal support",
+      "summary": "Gold (XAU/USD) drifts lower at the start of a new week and moves away from its highest level since June 17, touched on Friday following the disappointing release of the US Nonfarm Payrolls (NFP) report.",
+      "link": "https://www.fxstreet.com/news/gold-retreats-from-june-17-highest-amid-usd-uptick-holds-above-4-300-pivotal-support-202608100229",
+      "published": "2026-08-10T02:29:47+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen comes under pressure as BoJ division, unexpected current account deficit",
+      "summary": "USD/JPY gains ground after registering modest losses in the previous day, trading around 158.20 during the Asian hours on Monday.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-comes-under-pressure-as-boj-division-narrowing-surplus-202608100202",
+      "published": "2026-08-10T02:02:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound moves away from multi-week top as Hormuz risks support USD",
+      "summary": "The GBP/USD pair edges lower at the start of a new week and moves further away from an over three-week high, or levels just above the 1.3500 psychological mark touched on Friday.",
+      "link": "https://www.fxstreet.com/news/british-pound-moves-away-from-multi-week-top-as-hormuz-risks-support-usd-202608100159",
+      "published": "2026-08-10T01:59:27+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: S.Korea central bank: sells 91-day monetary stabilization bonds at 2.700% yield",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9713950/SKorea-central-bank-sells-91-day-monetary-stabilization-bonds-at-2700-yield.aspx",
+      "link": "https://www.financialjuice.com/News/9713950/SKorea-central-bank-sells-91-day-monetary-stabilization-bonds-at-2700-yield.aspx?xy=rss",
       "published": "2026-08-10T01:40:04+00:00",
       "score": 1
     },
@@ -52,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: BOJ summary: one member said bank must clarify resolve to prevent inflation overshoot as inflationary pressure may emerge from summer onwards",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9713895/BOJ-summary-one-member-said-bank-must-clarify-resolve-to-prevent-inflation-overshoot-as-inflationary-pressure-may-emerge-from-summer-onwards.aspx",
+      "link": "https://www.financialjuice.com/News/9713895/BOJ-summary-one-member-said-bank-must-clarify-resolve-to-prevent-inflation-overshoot-as-inflationary-pressure-may-emerge-from-summer-onwards.aspx?xy=rss",
       "published": "2026-08-09T23:57:11+00:00",
       "score": 1
     },
@@ -61,7 +133,7 @@
       "category": "news",
       "title": "FinancialJuice: BoJ summary: one member said important to nimbly adjust policy rate level mindful of upside inflation risks",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9713893/BoJ-summary-one-member-said-important-to-nimbly-adjust-policy-rate-level-mindful-of-upside-inflation-risks.aspx",
+      "link": "https://www.financialjuice.com/News/9713893/BoJ-summary-one-member-said-important-to-nimbly-adjust-policy-rate-level-mindful-of-upside-inflation-risks.aspx?xy=rss",
       "published": "2026-08-09T23:55:42+00:00",
       "score": 1
     },
@@ -70,7 +142,7 @@
       "category": "news",
       "title": "FinancialJuice: BOJ Summary: One member said Must examine if medium, long-term inflation expectations stay steady near 2% to gauge whether Japan will see underlying inflation stabilise at consistent levels",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9713891/BOJ-Summary-One-member-said-Must-examine-if-medium-long-term-inflation-expectations-stay-steady-near-2-to-gauge-whether-Japan-will-see-underlying-inflation-stabilise-at-consistent-levels.aspx",
+      "link": "https://www.financialjuice.com/News/9713891/BOJ-Summary-One-member-said-Must-examine-if-medium-long-term-inflation-expectations-stay-steady-near-2-to-gauge-whether-Japan-will-see-underlying-inflation-stabilise-at-consistent-levels.aspx?xy=rss",
       "published": "2026-08-09T23:55:09+00:00",
       "score": 1
     },
@@ -79,7 +151,7 @@
       "category": "news",
       "title": "FinancialJuice: BoJ summary: one member said we are now at phase where we need to be mindful of risk underlying inflation could trend higher",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9713890/BoJ-summary-one-member-said-we-are-now-at-phase-where-we-need-to-be-mindful-of-risk-underlying-inflation-could-trend-higher.aspx",
+      "link": "https://www.financialjuice.com/News/9713890/BoJ-summary-one-member-said-we-are-now-at-phase-where-we-need-to-be-mindful-of-risk-underlying-inflation-could-trend-higher.aspx?xy=rss",
       "published": "2026-08-09T23:54:26+00:00",
       "score": 1
     },
@@ -88,27 +160,9 @@
       "category": "news",
       "title": "FinancialJuice: BoJ summary: one member said suitable to maintain rates steady at this meeting due to 1 to 1.5 years lag for past hikes to impact inflation, domestic economy",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9713889/BoJ-summary-one-member-said-suitable-to-maintain-rates-steady-at-this-meeting-due-to-1-to-15-years-lag-for-past-hikes-to-impact-inflation-domestic-economy.aspx",
+      "link": "https://www.financialjuice.com/News/9713889/BoJ-summary-one-member-said-suitable-to-maintain-rates-steady-at-this-meeting-due-to-1-to-15-years-lag-for-past-hikes-to-impact-inflation-domestic-economy.aspx?xy=rss",
       "published": "2026-08-09T23:53:57+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BOJ summary: one member said financial conditions still accommodative as short-term real interest rates stay negative",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9713888/BOJ-summary-one-member-said-financial-conditions-still-accommodative-as-short-term-real-interest-rates-stay-negative.aspx",
-      "published": "2026-08-09T23:53:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BOJ summary: one member highlights significant upside risks to inflation outlook as rising oil prices push consumer inflation higher, global demand remains solid, and Japan's expansionary fiscal policy supports growth",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9713887/BOJ-summary-one-member-highlights-significant-upside-risks-to-inflation-outlook-as-rising-oil-prices-push-consumer-inflation-higher-global-demand-remains-solid-and-Japans-expansionary-fiscal-policy-supports-growth.aspx",
-      "published": "2026-08-09T23:52:59+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -117,6 +171,24 @@
       "summary": "<p>BREAKING: Unrealized losses on domestic bond holdings for Japan's 4 largest life insurers rose +7% in Q2 2026, to a record $96 billion.<br />\n<br />\nAll 4 insurers, Nippon Life, Daiichi Life, Sumitomo Life, and Meiji Yasuda, reported increases in paper losses.<br />\n<br />\nThis marks the 7th consecutive quarterly increase, with unrealized losses more than tripling over the period.<br />\n<br />\n",
       "link": "https://nitter.net/KobeissiLetter/status/2086586488188203033#m",
       "published": "2026-08-09T22:52:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "🇺🇸🇮🇷 US–IRAN CONFLICT: WEEKEND RECAP",
+      "summary": "<hr />\n<b>Article</b><br />\n<a href=\"https://nitter.net/i/article/2086581702236021239\">\n<b>🇺🇸🇮🇷 US–IRAN CONFLICT: WEEKEND RECAP</b>\n</a>\n<p>🇺🇸 US / TRUMP\nTrump: US is only “semi-negotiating” with Iran and is watching developments.\nSays Iran is in very bad economic shape, with high inflation and difficulties paying its troops.\nSays the US</p>",
+      "link": "https://nitter.net/DeItaone/status/2086581702236021239#m",
+      "published": "2026-08-09T22:33:39+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: BLACK & BROWN VOTERS ARE SHIFTING REPUBLICAN Trump says Black and Brown voters are rejecting Communism and Socialism — and moving toward the Republican Party. He also points to the party’s history, noting that Abraham Lincoln was a Republican.",
+      "summary": "<p>TRUMP: BLACK & BROWN VOTERS ARE SHIFTING REPUBLICAN<br />\n<br />\nTrump says Black and Brown voters are rejecting Communism and Socialism — and moving toward the Republican Party.<br />\n<br />\nHe also points to the party’s history, noting that Abraham Lincoln was a Republican.</p>\n<img src=\"https://nitter.net/pic/media%2FHPT3EjWWwAAWqbW.png\" />",
+      "link": "https://nitter.net/DeItaone/status/2086564193113723245#m",
+      "published": "2026-08-09T21:24:04+00:00",
       "score": 1
     },
     {
@@ -147,6 +219,24 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SHIFTS TO A “LOW-KEY” STRATEGY ON IRAN Trump says the U.S. is “low keying it” with Iran, signaling economic pressure will take priority over renewed military action for now. He argues Iran’s economy is deteriorating under the U.S. naval blockade, while oil near $75 is reducing the war’s impact on American consumers. Meanwhile, negotiations to reopen the Strait of Hormuz remain stalled as Tehran demands sanctions relief, compensation, frozen funds and a U.S. military withdrawal. For now, Trump appears willing to wait and let economic pressure build, calling the standoff a “chess game.”",
+      "summary": "<p>TRUMP SHIFTS TO A “LOW-KEY” STRATEGY ON IRAN<br />\n<br />\nTrump says the U.S. is “low keying it” with Iran, signaling economic pressure will take priority over renewed military action for now.<br />\n<br />\nHe argues Iran’s economy is deteriorating under the U.S. naval blockade, while oil near $75 is reducing the war’s impact on American consumers.<br />\n<br />\nMeanwhile, negotiations to reopen ",
+      "link": "https://nitter.net/DeItaone/status/2086498383833825580#m",
+      "published": "2026-08-09T17:02:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SAYS \"WE ARE LOW-KEYING IT\" WITH IRAN, STRESSES TEHRAN'S ECONOMIC PAIN -AXIOS INTERVIEW",
+      "summary": "<p>TRUMP SAYS \"WE ARE LOW-KEYING IT\" WITH IRAN, STRESSES TEHRAN'S ECONOMIC PAIN -AXIOS INTERVIEW</p>",
+      "link": "https://nitter.net/DeItaone/status/2086497997676859609#m",
+      "published": "2026-08-09T17:01:02+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump has been floating the idea privately to senior aides that he's willing to \"walk away\" from the Iran War without a nuclear deal should Iran fully reopen the Strait of Hormuz, per WSJ. Details include: 1. This objective reportedly became \"more difficult\" yesterday when Iran insisted on its highest price yet for reopening the Strait of Hormuz 2. Iran is now seeking billions of dollars in US payments, the removal of US troops from the region, among other things to reopen Hormuz 3. US officials said Trump is patient and expected to ride out the latest developments as long as gas prices remain where they are 4. Trump has reportedly told senior aides that Iran is likely unable to revive its nuclear work during his presidency The Iran War negotiations are becoming increasingly complicated.",
@@ -163,6 +253,33 @@
       "link": "https://nitter.net/KobeissiLetter/status/2086462080551469257#m",
       "published": "2026-08-09T14:38:19+00:00",
       "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AAPL - APPLE TURNS TO CHINA AS CHIP SHORTAGE BITES Apple is testing memory chips from China’s CXMT for iPhones, MacBooks and other devices as the AI boom squeezes global supplies. The company is considering CXMT chips for products sold in China and hopes to secure White House approval. U.S. restrictions prevent Apple from ordering customized CXMT chips, but standard components remain permitted. With memory costs rising and pushing up device prices, Chinese supplies could offer Apple some relief.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a>  - APPLE TURNS TO CHINA AS CHIP SHORTAGE BITES<br />\n<br />\nApple is testing memory chips from China’s CXMT for iPhones, MacBooks and other devices as the AI boom squeezes global supplies.<br />\n<br />\nThe company is considering CXMT chips for products sold in China and hopes to secure White House approval.<br />\n<br />\nU.S. r",
+      "link": "https://nitter.net/DeItaone/status/2086441444521197826#m",
+      "published": "2026-08-09T13:16:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AAPL - APPLE TESTS CHINESE MEMORY CHIPS FOR IPHONES, MACBOOKS Apple is testing memory chips from Chinese semiconductor maker CXMT across several product lines, including iPhones and MacBooks, according to the Wall Street Journal. The move could potentially expand Apple’s supplier options and deepen its use of China-made components. No decision on whether Apple will adopt the chips was reported.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a> - APPLE TESTS CHINESE MEMORY CHIPS FOR IPHONES, MACBOOKS<br />\n<br />\nApple is testing memory chips from Chinese semiconductor maker CXMT across several product lines, including iPhones and MacBooks, according to the Wall Street Journal.<br />\n<br />\nThe move could potentially expand Apple’s supplier options and deepen its use",
+      "link": "https://nitter.net/DeItaone/status/2086414271085179051#m",
+      "published": "2026-08-09T11:28:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ISRAEL REJECTS TRUMP’S 15-POINT GAZA PLAN Israel has rejected President Trump’s 15-point Gaza peace plan, Prime Minister Benjamin Netanyahu said. Netanyahu says Israeli forces will not withdraw until Hamas fully disarms. Trump had previously announced a breakthrough in the peace process, saying Hamas agreed to give up its weapons. Israel and Hamas agreed to a ceasefire last October, though Israeli strikes in Gaza have continued.",
+      "summary": "<p>ISRAEL REJECTS TRUMP’S 15-POINT GAZA PLAN<br />\n<br />\nIsrael has rejected President Trump’s 15-point Gaza peace plan, Prime Minister Benjamin Netanyahu said.<br />\n<br />\nNetanyahu says Israeli forces will not withdraw until Hamas fully disarms.<br />\n<br />\nTrump had previously announced a breakthrough in the peace process, saying Hamas agreed to give up its weapons.<br />\n<br />\nIsrael and H",
+      "link": "https://nitter.net/DeItaone/status/2086413400729436341#m",
+      "published": "2026-08-09T11:24:53+00:00",
+      "score": 1
     },
     {
       "source": "r/Forex",
@@ -264,66 +381,30 @@
       "score": 4
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Treasury yields drop on soft NFP, Hormuz hopes ease Fed risks",
-      "summary": "US Treasury yields drop across the curve on Friday amid growing speculation that the Iran-Oman deal is about to be sealed, which has so far pushed energy prices lower, while investors also digest a weak Nonfarm Payrolls report in the US.",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-drop-on-soft-nfp-hormuz-hopes-ease-fed-risks-202608071924",
-      "published": "2026-08-07T19:24:30+00:00",
-      "score": 3
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BOFA STICKS WITH FED HIKES DESPITE WEAK JOBS US payrolls fell 23,000 in July, with prior months revised down by another 103,000. Unemployment dropped to 4.1%, while wage growth slowed to 3.2% and labor-force participation slipped. Despite weaker hiring, Bank of America still expects the Fed to raise rates by 75 basis points this year, starting in September. BofA says inflation remains the Fed’s primary concern.",
+      "summary": "<p>BOFA STICKS WITH FED HIKES DESPITE WEAK JOBS<br />\n<br />\nUS payrolls fell 23,000 in July, with prior months revised down by another 103,000.<br />\n<br />\nUnemployment dropped to 4.1%, while wage growth slowed to 3.2% and labor-force participation slipped.<br />\n<br />\nDespite weaker hiring, Bank of America still expects the Fed to raise rates by 75 basis points this year, starting in September",
+      "link": "https://nitter.net/DeItaone/status/2085771626205855871#m",
+      "published": "2026-08-07T16:54:42+00:00",
+      "score": 4
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah: Supportive domestic backdrop, capped gains – Commerzbank",
-      "summary": "Commerzbank’s FX analysts, including Charlie Lay and Moses Lim, note that USD/IDR slipped slightly but stayed below the key 18,000 level as softer global Oil prices and stronger Indonesia Q2 GDP supported the Rupiah.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-supportive-domestic-backdrop-capped-gains-commerzbank-202608071907",
-      "published": "2026-08-07T19:07:00+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP TO APPEAL WHITE HOUSE SECURITY RULING President Trump says his administration will immediately appeal to the Supreme Court after an appellate court backed an injunction affecting construction at the White House. Trump called the ruling a national security threat, saying the project includes bomb shelters, secure military facilities, missile-resistant structures and advanced medical capabilities. He argued the plaintiff lacks standing and said the court’s decision jeopardizes White House security.",
+      "summary": "<p>TRUMP TO APPEAL WHITE HOUSE SECURITY RULING<br />\n<br />\nPresident Trump says his administration will immediately appeal to the Supreme Court after an appellate court backed an injunction affecting construction at the White House.<br />\n<br />\nTrump called the ruling a national security threat, saying the project includes bomb shelters, secure military facilities, missile-resistant structures a",
+      "link": "https://nitter.net/DeItaone/status/2085771478771945940#m",
+      "published": "2026-08-07T16:54:06+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD clears 50-day SMA, eyes $65",
-      "summary": "Silver price surges nearly 3% as it clears the 50-day Simple Moving Average (SMA) at $62.13, and reclaims the $63.00 figure as it struggles to surpass key resistance seen at $63.28, the July 6 high.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-clears-50-day-sma-eyes-65-202608071904",
-      "published": "2026-08-07T19:04:38+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/JPY recovers from session low but remains down on Friday",
-      "summary": "EUR/JPY trades on the back foot on Friday, easing away even as the Euro (EUR) posts solid gains against the US Dollar (USD). The Japanese currency surged suddenly near the start of the American session after a surprisingly weak United States (US) employment report.",
-      "link": "https://www.fxstreet.com/news/eur-jpy-recovers-from-session-low-but-remains-down-on-friday-202608071848",
-      "published": "2026-08-07T18:48:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/USD Price Forecast: Bulls need 1.3560 to unlock 1.3600",
-      "summary": "The Pound Sterling (GBP) edges higher by some 0.29% against the US Dollar (USD) on Friday, yet it remains trading sideways, unable to decisively crack 1.3500 after reaching a three-week peak of 1.3509, and has retreated to the 1.3490 area.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-need-13560-to-unlock-13600-202608071833",
-      "published": "2026-08-07T18:33:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Upside risk capped by 1.2790 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/SGD has firmed modestly, with the pair closing at 1.2835 after testing both 1.2800 and 1.2840. Short-term momentum now favors a mild upside, though strong resistance at 1.2850 is expected to cap gains.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-capped-by-12790-against-us-dollar-uob-202608071832",
-      "published": "2026-08-07T18:32:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso hits five-month high on weak US jobs data",
-      "summary": "The Mexican Peso (MXN) capitalizes on a weaker US jobs report and soars versus the US Dollar (USD) on Friday as risk appetite improves and the Greenback gets battered on speculation that the Federal Reserve (Fed) might not raise rates in 2026.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-hits-five-month-high-on-weak-us-jobs-data-202608071807",
-      "published": "2026-08-07T18:07:54+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "GOLDMAN: INFLATION NOW MATTERS MORE THAN JOBS Goldman Sachs chief economist Jan Hatzius says upcoming inflation data will be more important for the Fed than employment figures. The key question is whether June’s softer inflation was a one-off or the beginning of a broader trend. Goldman expects the latter, with Hatzius predicting inflation will continue to soften.",
+      "summary": "<p>GOLDMAN: INFLATION NOW MATTERS MORE THAN JOBS<br />\n<br />\nGoldman Sachs chief economist Jan Hatzius says upcoming inflation data will be more important for the Fed than employment figures.<br />\n<br />\nThe key question is whether June’s softer inflation was a one-off or the beginning of a broader trend.<br />\n<br />\nGoldman expects the latter, with Hatzius predicting inflation will continue to",
+      "link": "https://nitter.net/DeItaone/status/2085753640925397246#m",
+      "published": "2026-08-07T15:43:14+00:00",
       "score": 4
     },
     {
@@ -333,6 +414,15 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vi41yf/it_is_said_not_to_trade_on_news_gambling/\"> <img alt=\"It is said not to trade on News.. Gambling?\" src=\"https://preview.redd.it/itwci5u72zhh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d77b3bfc586ff7fc66cc8d30a2b655e243fc390\" title=\"It is said not to trade on News.. Gambling?\" /> </a> </td><td> <!-- SC_OFF --><div cla",
       "link": "https://www.reddit.com/r/Forex/comments/1vi41yf/it_is_said_not_to_trade_on_news_gambling/",
       "published": "2026-08-07T15:39:16+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED'S BARKIN: DOESN'T THINK THERE IS WAGE INFLATION RIGHT NOW",
+      "summary": "<p>FED'S BARKIN: DOESN'T THINK THERE IS WAGE INFLATION RIGHT NOW</p>",
+      "link": "https://nitter.net/DeItaone/status/2085736159238291916#m",
+      "published": "2026-08-07T14:33:46+00:00",
       "score": 2
     },
     {
