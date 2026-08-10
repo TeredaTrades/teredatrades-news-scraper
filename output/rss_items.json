@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-10T15:16:52.200223+00:00",
-  "count": 49,
+  "updated_at": "2026-08-10T16:23:31.826413+00:00",
+  "count": 62,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound climbs as Hormuz talks stall, US CPI up next",
+      "summary": "The Pound Sterling advances during the North American session, up 0.20% as markets digest developments in the Middle East and await crucial inflation data in the United States (US). The GBP/USD trades at 1.3520 after bouncing off daily lows of 1.3483.",
+      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-hormuz-talks-stall-us-cpi-up-next-202608101616",
+      "published": "2026-08-10T16:16:33+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$SPCX - SPACEX’S $100B REVENUE TARGET SEEN WITHIN REACH Deutsche Bank says SpaceX’s goal of reaching $100 billion in annual recurring revenue by year-end appears achievable. Analysts estimate cloud-computing deals with Anthropic, Google and other customers could generate roughly $45–50 billion alone, while Cursor could provide another major growth engine. Elon Musk recently suggested $100 billion represents a baseline scenario, with the final figure potentially higher.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23SPCX\">$SPCX</a>  - SPACEX’S $100B REVENUE TARGET SEEN WITHIN REACH<br />\n<br />\nDeutsche Bank says SpaceX’s goal of reaching $100 billion in annual recurring revenue by year-end appears achievable.<br />\n<br />\nAnalysts estimate cloud-computing deals with Anthropic, Google and other customers could generate roughly $45–50 billion alone, while",
+      "link": "https://nitter.net/DeItaone/status/2086849117578277287#m",
+      "published": "2026-08-10T16:16:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Emerging Markets: Selectivity key as Fed path clouds – HSBC",
+      "summary": "HSBC Asset Management notes that Emerging Market local-currency bonds have delivered strong returns over the past four years, supported by credible policies and attractive real yields, but year-to-date performance has softened as US Treasury yields rose and EM-US real rate differentials narrowed.",
+      "link": "https://www.fxstreet.com/news/emerging-markets-selectivity-key-as-fed-path-clouds-hsbc-202608101613",
+      "published": "2026-08-10T16:13:33+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Denmark: Tax cuts keep inflation below the euro area – Nordea",
+      "summary": "Nordea economist Jan Størup Nielsen notes that Danish inflation eased slightly in July, with headline consumer prices up 1.7% year-over-year and core inflation steady at 2.3%.",
+      "link": "https://www.fxstreet.com/news/denmark-tax-cuts-keep-inflation-below-the-euro-area-nordea-202608101554",
+      "published": "2026-08-10T15:54:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CAD Price Forecast: Bearish pressure builds below 1.4000",
+      "summary": "USD/CAD trades on the back foot on Monday even as the US Dollar (USD) regains some ground after weakening last week following softer-than-expected US Nonfarm Payrolls (NFP) data. Attention now turns to Wednesday’s US Consumer Price Index (CPI) report.",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-pressure-builds-below-14000-202608101550",
+      "published": "2026-08-10T15:50:43+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AAPL - APPLE REPORTEDLY SCRAPS ALL-GLASS IPHONE Apple has canceled its planned 20th-anniversary all-glass iPhone due to poor production yields, according to Jefferies supply-chain checks. The model was expected in September 2027 with an estimated $2,600 average selling price. Jefferies sees the cancellation limiting Apple’s ability to push iPhone prices and margins higher as memory costs surge. The firm downgraded Apple to Underperform and cut its price target to $263.66.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a>  - APPLE REPORTEDLY SCRAPS ALL-GLASS IPHONE<br />\n<br />\nApple has canceled its planned 20th-anniversary all-glass iPhone due to poor production yields, according to Jefferies supply-chain checks.<br />\n<br />\nThe model was expected in September 2027 with an estimated $2,600 average selling price.<br />\n<br />\nJefferies sees t",
+      "link": "https://nitter.net/DeItaone/status/2086840166816063736#m",
+      "published": "2026-08-10T15:40:42+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 6-Month Biil Auction",
+      "summary": "<ul><li>Sells $79 bln</li><li>High yield&nbsp;3.830%</li><li>Bid-to-Cover 2.98</li><li>US awards&nbsp;96.11% of bids at high</li></ul>",
+      "link": "https://www.financialjuice.com/News/9714918/US-6-Month-Biil-Auction.aspx?xy=rss",
+      "published": "2026-08-10T15:35:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "US TREASURY 2/10 YIELD CURVE HITS STEEPEST LEVEL SINCE LATE MAY, LAST 45.7 BPS",
+      "summary": "<p>US TREASURY 2/10 YIELD CURVE HITS STEEPEST LEVEL SINCE LATE MAY, LAST 45.7 BPS</p>",
+      "link": "https://nitter.net/DeItaone/status/2086838771891220604#m",
+      "published": "2026-08-10T15:35:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 3-Month Bill Auction",
+      "summary": "<ul><li>Sells $92 bln</li><li>High yield&nbsp;3.735%</li><li>Bid-to-Cover 2.88</li><li>US awards&nbsp;82.94% of bids at high</li></ul>",
+      "link": "https://www.financialjuice.com/News/9714917/US-3-Month-Bill-Auction.aspx?xy=rss",
+      "published": "2026-08-10T15:33:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 3-Month Bill High Yield Actual 3.735% (Forecast -, Previous 3.750%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9714915/US-3-Month-Bill-High-Yield-Actual-3735-Forecast---Previous-3750.aspx?xy=rss",
+      "published": "2026-08-10T15:32:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 6-Month Bill High Yield Actual 3.83% (Forecast -, Previous 3.855%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9714913/US-6-Month-Bill-High-Yield-Actual-383-Forecast---Previous-3855.aspx?xy=rss",
+      "published": "2026-08-10T15:32:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Pinned: 📉CPI IS THE NEXT BIG MACRO TEST Kalshi traders are pricing July CPI at 3.3% ahead of Wednesday’s release, while Treasury yields rise and September Fed hike odds have fallen to 46% from 67% a week ago after weak payrolls. ━━━━━━━━━━ A hotter CPI could revive hike bets and pressure bonds. A softer print would reinforce the case for the Fed to stay on hold. https://kalshi.com/markets/kxcpiyoy/inflation/kxcpiyoy-26jul?utm_source=walterbloomberg",
+      "summary": "<p>📉CPI IS THE NEXT BIG MACRO TEST<br />\n<br />\nKalshi traders are pricing July CPI at 3.3% ahead of Wednesday’s release, while Treasury yields rise and September Fed hike odds have fallen to 46% from 67% a week ago after weak payrolls.<br />\n<br />\n━━━━━━━━━━<br />\n<br />\nA hotter CPI could revive hike bets and pressure bonds. A softer print would reinforce the case for the Fed to stay on hold.<b",
+      "link": "https://nitter.net/DeItaone/status/2086836538889949439#m",
+      "published": "2026-08-10T15:26:17+00:00",
+      "score": 4
+    },
     {
       "source": "r/Forex",
       "category": "reddit",
@@ -18,6 +126,15 @@
       "summary": "The Australian Dollar (AUD) trades near the 0.7060 level against the US Dollar (USD) on Monday, giving back a little ground after six straight weeks of gains.",
       "link": "https://www.fxstreet.com/news/australian-dollar-stays-flat-ahead-of-rba-rate-decision-202608101457",
       "published": "2026-08-10T14:57:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED CHAIR WARSH COMPLETES REQUIRED DIVESTMENTS Federal Reserve Chair Kevin Warsh has sold all remaining financial holdings he pledged to divest, according to a government ethics filing. Warsh, who took office in May, had already disposed of most assets covered by his ethics agreement. The remaining stakes included investments with undisclosed underlying holdings, some valued at at least $100 million.",
+      "summary": "<p>FED CHAIR WARSH COMPLETES REQUIRED DIVESTMENTS<br />\n<br />\nFederal Reserve Chair Kevin Warsh has sold all remaining financial holdings he pledged to divest, according to a government ethics filing.<br />\n<br />\nWarsh, who took office in May, had already disposed of most assets covered by his ethics agreement.<br />\n<br />\nThe remaining stakes included investments with undisclosed underlying ho",
+      "link": "https://nitter.net/DeItaone/status/2086828253927395806#m",
+      "published": "2026-08-10T14:53:21+00:00",
       "score": 1
     },
     {
@@ -84,12 +201,21 @@
       "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: -86 mln<br />Nasdaq 100: -27 mln<br />Dow 30: -46 mln<br />Mag 7: -13 mln",
-      "link": "https://www.financialjuice.com/News/9714738/MOO-Imbalance.aspx?xy=rss",
-      "published": "2026-08-10T13:30:35+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "APPLE SHARES DOWN 2.5%; JEFFERIES CUTS TO UNDERPERFORM FROM HOLD",
+      "summary": "<p>APPLE SHARES DOWN 2.5%; JEFFERIES CUTS TO UNDERPERFORM FROM HOLD</p>",
+      "link": "https://nitter.net/DeItaone/status/2086808244987601299#m",
+      "published": "2026-08-10T13:33:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "YEN WEAKENS AS INTERVENTION IMPACT FADES The yen fell 0.7% against the dollar as the impact of Japan’s recent currency intervention faded. Goldman Sachs says Japanese investors continued buying foreign bonds at a strong pace in July, suggesting limited appetite to shift capital back home despite government efforts. The bank believes a Bank of Japan rate hike next month could provide more lasting support for the yen.",
+      "summary": "<p>YEN WEAKENS AS INTERVENTION IMPACT FADES<br />\n<br />\nThe yen fell 0.7% against the dollar as the impact of Japan’s recent currency intervention faded.<br />\n<br />\nGoldman Sachs says Japanese investors continued buying foreign bonds at a strong pace in July, suggesting limited appetite to shift capital back home despite government efforts.<br />\n<br />\nThe bank believes a Bank of Japan rate hi",
+      "link": "https://nitter.net/DeItaone/status/2086807894410854846#m",
+      "published": "2026-08-10T13:32:27+00:00",
       "score": 1
     },
     {
@@ -120,31 +246,31 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Higher hurdle for sustained gains – MUFG",
-      "summary": "MUFG’s Derek Halpenny notes that weaker US jobs data have not triggered a strong reaction in Dollar or rates, as markets await key Consumer Price Index (CPI) releases and another Nonfarm Payrolls (NFP) before the September Federal Open Market Committee (FOMC).",
-      "link": "https://www.fxstreet.com/news/us-dollar-higher-hurdle-for-sustained-gains-mufg-202608101258",
-      "published": "2026-08-10T12:58:00+00:00",
-      "score": 6
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$MSFT - MICROSOFT TO UNVEIL NEXT-GEN MAIA AI CHIP Microsoft plans to unveil its next-generation Maia 300 AI chip in September, according to The Information, signaling progress after a slow start for its in-house chip program. The company reportedly plans to increase its own use of Maia while also targeting major external customers. The push could help Microsoft gain greater control over the infrastructure powering its AI services.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23MSFT\">$MSFT</a>  - MICROSOFT TO UNVEIL NEXT-GEN MAIA AI CHIP<br />\n<br />\nMicrosoft plans to unveil its next-generation Maia 300 AI chip in September, according to The Information, signaling progress after a slow start for its in-house chip program.<br />\n<br />\nThe company reportedly plans to increase its own use of Maia while also targeting",
+      "link": "https://nitter.net/DeItaone/status/2086800361109520893#m",
+      "published": "2026-08-10T13:02:31+00:00",
+      "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Modest upside bias against US Dollar as Fed repricing – Rabobank",
-      "summary": "Rabıobank's Senior FX Strategist Jane Foley discusses recent EUR/USD strength, noting it was mainly driven by a softer Dollar after weak United States (US) labour data reduced Federal Reserve (Fed) rate hike expectations.",
-      "link": "https://www.fxstreet.com/news/euro-modest-upside-bias-against-us-dollar-as-fed-repricing-rabobank-202608101249",
-      "published": "2026-08-10T12:49:43+00:00",
-      "score": 2
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "HEDGE FUNDS PILE BACK INTO STOCKS Hedge funds bought global equities for a second straight week, reversing a sharp risk reduction in late July, according to Goldman Sachs. Gross trading activity rose at the fastest pace in seven weeks, with long buying outpacing short sales 1.4-to-1. Single stocks saw net buying for the first time in a month, while materials led sector demand amid the strongest short-covering wave in nearly two years.",
+      "summary": "<p>HEDGE FUNDS PILE BACK INTO STOCKS<br />\n<br />\nHedge funds bought global equities for a second straight week, reversing a sharp risk reduction in late July, according to Goldman Sachs.<br />\n<br />\nGross trading activity rose at the fastest pace in seven weeks, with long buying outpacing short sales 1.4-to-1.<br />\n<br />\nSingle stocks saw net buying for the first time in a month, while materia",
+      "link": "https://nitter.net/DeItaone/status/2086796267477209088#m",
+      "published": "2026-08-10T12:46:15+00:00",
+      "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: BoJ tightening risks support JPY – BNY",
-      "summary": "BNY’s Wee Khoon Chong highlights that long-end JGB yields are rising on inflation and fiscal concerns, with markets pricing a roughly 50% chance of a 25bp BoJ hike in September and a full hike by year-end.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-tightening-risks-support-jpy-bny-202608101230",
-      "published": "2026-08-10T12:30:34+00:00",
-      "score": 2
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "HASSETT RULES OUT REPLACING FED’S COOK White House economic adviser Kevin Hassett says he will not replace Fed Governor Lisa Cook if she is removed, calling the allegations against her a law-enforcement matter. Hassett said he hopes Cook is innocent as she challenges President Trump’s effort to remove her. On monetary policy, Hassett said he would either hold rates steady or cut, citing easing inflation and strong supply-side momentum.",
+      "summary": "<p>HASSETT RULES OUT REPLACING FED’S COOK<br />\n<br />\nWhite House economic adviser Kevin Hassett says he will not replace Fed Governor Lisa Cook if she is removed, calling the allegations against her a law-enforcement matter.<br />\n<br />\nHassett said he hopes Cook is innocent as she challenges President Trump’s effort to remove her.<br />\n<br />\nOn monetary policy, Hassett said he would either h",
+      "link": "https://nitter.net/DeItaone/status/2086795780350717961#m",
+      "published": "2026-08-10T12:44:19+00:00",
+      "score": 4
     },
     {
       "source": "FXStreet",
@@ -271,15 +397,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2086190148576801054#m",
       "published": "2026-08-08T20:37:45+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Investors are worried about Big Tech's debt. Oracle's, $ORCL, 5-year credit default swap (CDS) has surged +70 basis points year-to-date, to a record ~215 basis points, the largest increase among Big Tech companies. This is followed by Broadcom, $AVGO, whose 5-year CDS has risen +48 basis points over the same period. Meta’s, $META, 5-year CDS is up +39 basis points, to 95 basis points, the highest since trading began in October 2025. Nvidia's, $NVDA, 5-year CDS is up +32 basis points so far in 2026 to ~82 basis points, the highest since it began trading in November 2025. Furthermore, the 5-year CDS for Amazon, $AMZN, and Alphabet, $GOOGL, has increased +30 and +29 basis points, respectively. This comes as Big Tech companies have issued ~$200 billion in corporate bonds year-to-date, nearly double the full-year total for 2025. Credit markets are becoming increasingly worried about the cost of financing the AI race.",
-      "summary": "<p>Investors are worried about Big Tech's debt.<br />\n<br />\nOracle's, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23ORCL\">$ORCL</a>, 5-year credit default swap (CDS) has surged +70 basis points year-to-date, to a record ~215 basis points, the largest increase among Big Tech companies.<br />\n<br />\nThis is followed by Broadcom, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AVGO\">$AVG",
-      "link": "https://nitter.net/KobeissiLetter/status/2086123017428512828#m",
-      "published": "2026-08-08T16:11:00+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
