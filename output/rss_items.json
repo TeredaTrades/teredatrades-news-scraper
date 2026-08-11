@@ -1,7 +1,142 @@
 {
-  "updated_at": "2026-08-11T14:36:22.281929+00:00",
-  "count": 61,
+  "updated_at": "2026-08-11T15:40:04.029331+00:00",
+  "count": 63,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound holds near 1.3500 as US CPI, UK GDP loom",
+      "summary": "The Pound Sterling (GBP) holds firm against the US Dollar (USD) on Tuesday following the release of softer-than-expected US jobs data, while investors await US inflation data on Wednesday and UK GDP releases on Thursday. At the time of writing, the GBP/USD pair trades at 1.3508, nearly unchanged.",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-near-13500-as-us-cpi-uk-gdp-loom-202608111525",
+      "published": "2026-08-11T15:25:08+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Inflation Tracker - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716600/US-Inflation-Tracker---FJElite.aspx?xy=rss",
+      "published": "2026-08-11T15:16:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: US jobs numbers have now been revised lower in 21 out of the last 30 months by a total of -1.05 million jobs. This means an average of -35,067 jobs have been revised out of previously reported data each month over this period. June and May jobs numbers alone were revised down by a total of -103,000, the largest 2-month downward revision since July 2025. This comes as June jobs were revised down by -37,000, to +20,000, while May jobs were revised down by -66,000, to +63,000. The May jobs figure was revised down for the 2nd time, following a -43,000 downward revision last month from the initially reported +172,000 jobs. If these revisions continue, June jobs could be revised into negative territory next month, which, combined with July's already reported -23,000 job loss, would mark the 2nd consecutive monthly decline in jobs, the first such occurrence since the 2020 pandemic. Job market revisions are alarming.",
+      "summary": "<p>BREAKING: US jobs numbers have now been revised lower in 21 out of the last 30 months by a total of -1.05 million jobs.<br />\n<br />\nThis means an average of -35,067 jobs have been revised out of previously reported data each month over this period.<br />\n<br />\nJune and May jobs numbers alone were revised down by a total of -103,000, the largest 2-month downward revision since July 2025.<br />",
+      "link": "https://nitter.net/KobeissiLetter/status/2087195463636160634#m",
+      "published": "2026-08-11T15:12:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Intervention risks and Fed path – Rabobank",
+      "summary": "Rabobank's Senior FX Strategist Jane Foley discusses USD/JPY ahead of the United States (US) July Consumer Price Index (CPI) release, highlighting how softer US inflation could weaken the Dollar and lower the odds of another break above USD/JPY160.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risks-and-fed-path-rabobank-202608111511",
+      "published": "2026-08-11T15:11:10+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar holds firm against US Dollar ahead of US CPI",
+      "summary": "USD/CAD trades under pressure on Tuesday, staying on the back foot for a third straight day. However, the pair lacks follow-through selling as the US Dollar (USD) holds firm ahead of Wednesday’s US Consumer Price Index (CPI) data.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-firm-against-us-dollar-ahead-of-us-cpi-202608111510",
+      "published": "2026-08-11T15:10:44+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: NY Fed: Credit-card balances up by $21 bln to $1.26 trln in Q2.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716586/NY-Fed-Credit-card-balances-up-by-21-bln-to-126-trln-in-Q2.aspx?xy=rss",
+      "published": "2026-08-11T15:01:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: NY Fed: US household debt declined 0.1% to $18.8 trln in Q2.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716572/NY-Fed-US-household-debt-declined-01-to-188-trln-in-Q2.aspx?xy=rss",
+      "published": "2026-08-11T15:01:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Flow into credit card delinquency has stabilized over last two years, though remains elevated: New York Fed staff economists",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716571/Flow-into-credit-card-delinquency-has-stabilized-over-last-two-years-though-remains-elevated-New-York-Fed-staff-economists.aspx?xy=rss",
+      "published": "2026-08-11T15:00:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: U.S. auto loans reach record $211 billion as consumers increase credit card and home equity debt, New York Fed report shows",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716570/US-auto-loans-reach-record-211-billion-as-consumers-increase-credit-card-and-home-equity-debt-New-York-Fed-report-shows.aspx?xy=rss",
+      "published": "2026-08-11T15:00:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: NY Fed: Q2 aggregate delinquency rate improved slightly to 4.7%.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716568/NY-Fed-Q2-aggregate-delinquency-rate-improved-slightly-to-47.aspx?xy=rss",
+      "published": "2026-08-11T15:00:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Bullish momentum builds against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the Canadian Dollar (CAD) is supported by higher Oil prices and Friday’s strong Canadian jobs data versus weaker US labour figures.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-momentum-builds-against-us-dollar-scotiabank-202608111448",
+      "published": "2026-08-11T14:48:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Atlanta Fed's Venable: Fed's inflation and jobs goals face nuanced risks",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716548/Atlanta-Feds-Venable-Feds-inflation-and-jobs-goals-face-nuanced-risks.aspx?xy=rss",
+      "published": "2026-08-11T14:38:58+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Atlanta Fed's Venable: Understanding of maximum employment influenced by stagnant labor supply, an unusual circumstance for the US",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716547/Atlanta-Feds-Venable-Understanding-of-maximum-employment-influenced-by-stagnant-labor-supply-an-unusual-circumstance-for-the-US.aspx?xy=rss",
+      "published": "2026-08-11T14:38:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Venable: Job market appears broadly stable.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716546/Feds-Venable-Job-market-appears-broadly-stable.aspx?xy=rss",
+      "published": "2026-08-11T14:37:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Venable: Central question is whether price pressures will recede in coming months, with much depending on the outcome of the Middle East conflict.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716545/Feds-Venable-Central-question-is-whether-price-pressures-will-recede-in-coming-months-with-much-depending-on-the-outcome-of-the-Middle-East-conflict.aspx?xy=rss",
+      "published": "2026-08-11T14:36:58+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -27,24 +162,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vlitc6/eurusd/\"> <img alt=\"EURUSD\" src=\"https://preview.redd.it/s63lk3ow8rih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2342a2ff8c147ff2fa28813584054c62e4c7d868\" title=\"EURUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>EURUSD change of character confirmed. How many of u have u are trading this today </p> </div><!--",
       "link": "https://www.reddit.com/r/Forex/comments/1vlitc6/eurusd/",
       "published": "2026-08-11T14:20:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: The US has no shortage of missile munitions. We can hit Iran very hard - Voice of America Interview",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9716534/Trump-The-US-has-no-shortage-of-missile-munitions-We-can-hit-Iran-very-hard---Voice-of-America-Interview.aspx?xy=rss",
-      "published": "2026-08-11T14:19:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We control Iran's money and have complete control over it - Voice of America Interview",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9716533/Trump-We-control-Irans-money-and-have-complete-control-over-it---Voice-of-America-Interview.aspx?xy=rss",
-      "published": "2026-08-11T14:18:29+00:00",
       "score": 1
     },
     {
@@ -75,15 +192,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US CPI Cribsheet - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9716473/US-CPI-Cribsheet---FJElite.aspx?xy=rss",
-      "published": "2026-08-11T13:59:24+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Australian Dollar: RBA holds hawkish bias with steady rates – ING",
@@ -102,15 +210,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Drilling starts at one of the largest undeveloped palladium-gold-platinum deposits at Skaergaard, Greenland",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9716461/Drilling-starts-at-one-of-the-largest-undeveloped-palladium-gold-platinum-deposits-at-Skaergaard-Greenland.aspx?xy=rss",
-      "published": "2026-08-11T13:45:56+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Gold: ETF inflows and sceptical outlook – Commerzbank",
@@ -118,15 +217,6 @@
       "link": "https://www.fxstreet.com/news/gold-etf-inflows-and-sceptical-outlook-commerzbank-202608111340",
       "published": "2026-08-11T13:40:48+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: -21 mln<br />Nasdaq 100: +45 mln<br />Dow 30: +30 mln<br />Mag 7: +40 mln",
-      "link": "https://www.financialjuice.com/News/9716447/MOO-Imbalance.aspx?xy=rss",
-      "published": "2026-08-11T13:30:36+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -138,15 +228,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BofA: Consensus forecasts for 3Q26 and 4Q26 suggest the S&P 500 will grow >20% YoY for four consecutive quarters - this has only happened 10 times since 1936, with most recent booms of this magnitude following EPS recessions (e.g., COVID, GFC)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9716421/BofA-Consensus-forecasts-for-3Q26-and-4Q26-suggest-the-SP-500-will-grow-20-YoY-for-four-consecutive-quarters---this-has-only-happened-10-times-since-1936-with-most-recent-booms-of-this-magnitude-following-EPS-recessions-eg-COVID-GFC.aspx?xy=rss",
-      "published": "2026-08-11T13:13:53+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Euro: Rangebound against US Dollar as volatility sinks – ING",
@@ -154,15 +235,6 @@
       "link": "https://www.fxstreet.com/news/euro-rangebound-against-us-dollar-as-volatility-sinks-ing-202608111304",
       "published": "2026-08-11T13:04:13+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Natixis on Upcoming US CPI - FJElite",
-      "summary": "<div>We think inflation data from the July CPI report should look less like a turning point and more like another incremental step in an ongoing normalization process. The exceptionally soft June report was unlikely to mark the beginning of a new trend, just as one firmer reading in July would not represent a renewed inflation problem. Instead, the underlying pace of core inflation appears to be s",
-      "link": "https://www.financialjuice.com/News/9716420/Natixis-on-Upcoming-US-CPI---FJElite.aspx?xy=rss",
-      "published": "2026-08-11T13:04:13+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
@@ -189,51 +261,6 @@
       "summary": "Private-sector hiring in the US has further cooled in late July. According to the NER Pulse, the weekly companion to the ADP National Employment Report, companies added an average of 8.25K jobs per week in the four weeks ending July 25.",
       "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-drops-to-825k-202608111223",
       "published": "2026-08-11T12:23:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: RBA softens hawkish stance – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports the Reserve Bank of Australia (RBA) delivered a less hawkish hold, keeping rates at 4.35% and judging policy “somewhat restrictive” as the labor market has eased more than expected.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-softens-hawkish-stance-bbh-202608111223",
-      "published": "2026-08-11T12:23:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver retreats toward $65.00 as Oil rebound revives inflation concerns",
-      "summary": "Silver (XAG/USD) extends its correction on Tuesday and trades around $65.05 at the time of writing, down 2.31% on the day.",
-      "link": "https://www.fxstreet.com/news/silver-retreats-toward-6500-as-oil-rebound-revives-inflation-concerns-202608111218",
-      "published": "2026-08-11T12:18:12+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: CPI keeps USD in tight ranges – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note the US Dollar (USD) softened as Fed hike expectations moderated and the US yield curve steepened.",
-      "link": "https://www.fxstreet.com/news/us-dollar-cpi-keeps-usd-in-tight-ranges-ocbc-202608111153",
-      "published": "2026-08-11T11:53:08+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc holds below 0.8100 US Dollar with US-Iran negotiations deadlocked",
-      "summary": "The Swiss Franc trades practically flat against the US Dollar (USD) on Tuesday, consolidating halfway through last week’s trading range.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-holds-below-08100-us-dollar-with-us-iran-negotiations-deadlocked-202608111152",
-      "published": "2026-08-11T11:52:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/USD Price Forecast: Holds Descending Triangle breakout",
-      "summary": "The GBP/USD pair trades marginally lower at around 1.3500 during the European trading session on Tuesday.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-holds-descending-triangle-breakout-202608111146",
-      "published": "2026-08-11T11:46:57+00:00",
       "score": 1
     },
     {
@@ -387,15 +414,6 @@
       "summary": "<p>The Kobeissi Letter for the week of August 10th has been published and may be viewed through the link below:<br />\n<br />\n<a href=\"https://tinyurl.com/TheKobeissiLetter\">tinyurl.com/TheKobeissiLette…</a><br />\n<br />\nThe Chart of the Week for the week of August 10th has been published. View or sign up for FREE through the link below:<br />\n<br />\n<a href=\"https://tinyurl.com/TKLChartofWeek\">tin",
       "link": "https://nitter.net/KobeissiLetter/status/2086520385307041935#m",
       "published": "2026-08-09T18:30:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump says he is “low keying it with Iran” and he is prepared to allow economic pressure to mount as opposed to ordering a new military offensive, per Axios. Details include: 1. On Saturday, Iran issued a new list of demands to allow shipping through the Strait of Hormuz 2. “We are only semi-negotiating with them,” Trump said 3. US officials say President Trump is looking to “de-escalate for now” US stock market futures open in under 5 hours.",
-      "summary": "<p>BREAKING: President Trump says he is “low keying it with Iran” and he is prepared to allow economic pressure to mount as opposed to ordering a new military offensive, per Axios.<br />\n<br />\nDetails include:<br />\n<br />\n1. On Saturday, Iran issued a new list of demands to allow shipping through the Strait of Hormuz<br />\n<br />\n2. “We are only semi-negotiating with them,” Trump said<br />\n<br ",
-      "link": "https://nitter.net/KobeissiLetter/status/2086505307971228125#m",
-      "published": "2026-08-09T17:30:05+00:00",
       "score": 1
     },
     {
