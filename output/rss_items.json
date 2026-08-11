@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-08-11T19:46:47.623556+00:00",
-  "count": 67,
+  "updated_at": "2026-08-11T20:48:47.848924+00:00",
+  "count": 66,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Thai Baht: Benign inflation keeps BoT on hold – Commerzbank",
+      "summary": "Commerzbank strategists note July Consumer Price Index (CPI) eased to 2.0% year-on-year, below consensus, mainly due to softer retail fuel prices. While core CPI has been gradually rising, overall price pressures are described as manageable and below government forecasts.",
+      "link": "https://www.fxstreet.com/news/thai-baht-benign-inflation-keeps-bot-on-hold-commerzbank-202608112028",
+      "published": "2026-08-11T20:28:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "A handful of stocks now dominate US market trading: Nvidia, $NVDA, is the most actively traded stock in the US market, accounting for 3.0% of total market notional volume year-to-date. This is followed by Micron, $MU, at 2.8%, Tesla, $TSLA, at 2.1%, and SanDisk, $SNDK, at 1.5%. Together, the 10 most-traded stocks have accounted for an average of 16.4% of total market notional volume YTD. Meanwhile, some of these names have worse liquidity than the average S&P 500 stock, with SanDisk posting an average bid-ask spread of 12.4 basis points, more than double the S&P 500's 5.9 basis point average. Tesla, Microsoft, $MSFT, and Alphabet, $GOOGL, also have smaller average order sizes available at the best bid and offer than the typical S&P 500 stock, suggesting thinner liquidity despite their enormous trading volumes. A few stocks a driving a massive amount of market volume.",
+      "summary": "<p>A handful of stocks now dominate US market trading:<br />\n<br />\nNvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, is the most actively traded stock in the US market, accounting for 3.0% of total market notional volume year-to-date.<br />\n<br />\nThis is followed by Micron, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23MU\">$MU</a>, at 2.8%, Tesla, <a href=\"http",
+      "link": "https://nitter.net/KobeissiLetter/status/2087271800665223598#m",
+      "published": "2026-08-11T20:15:51+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Senator Sanders calls on AI companies to pause development, sends letter to OpenAI, Anthropic and Meta CEOs - NYT $META",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716947/Senator-Sanders-calls-on-AI-companies-to-pause-development-sends-letter-to-OpenAI-Anthropic-and-Meta-CEOs---NYT-META.aspx?xy=rss",
+      "published": "2026-08-11T20:09:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: -1249 mln<br />Nasdaq 100: -637 mln<br />Dow 30: -357 mln<br />Mag 7: -482 mln",
+      "link": "https://www.financialjuice.com/News/9716925/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-08-11T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro stalls below 100-day SMA as investors brace for US CPI",
+      "summary": "The Euro (EUR) registers minimal losses against the US Dollar (USD) on Tuesday as traders and market participants prepare for the release of the US Consumer Price Index (CPI) on Wednesday, which could set the path for the future of US monetary policy.",
+      "link": "https://www.fxstreet.com/news/euro-stalls-below-100-day-sma-as-investors-brace-for-us-cpi-202608111950",
+      "published": "2026-08-11T19:50:25+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Measured appreciation with strong RMB – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note USD/CNH slipped after weak US payrolls, with the Renminbi (RMB) near its strongest levels in over three years.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-measured-appreciation-with-strong-rmb-ocbc-202608111948",
+      "published": "2026-08-11T19:48:00+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -36,24 +90,6 @@
       "summary": "",
       "link": "https://www.financialjuice.com/News/9716890/US-Treasury-Secretary-Bessent-We-welcome-Metas-release-of-Muse-Glimmer-META.aspx?xy=rss",
       "published": "2026-08-11T19:08:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Space Force General Guetlein: We need to figure out the Golden Dome funding for 2027.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9716870/US-Space-Force-General-Guetlein-We-need-to-figure-out-the-Golden-Dome-funding-for-2027.aspx?xy=rss",
-      "published": "2026-08-11T18:55:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Space Force General Guetlein: The Golden Dome program has completed two successful tests.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9716867/US-Space-Force-General-Guetlein-The-Golden-Dome-program-has-completed-two-successful-tests.aspx?xy=rss",
-      "published": "2026-08-11T18:47:17+00:00",
       "score": 1
     },
     {
@@ -255,24 +291,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Intervention risks and Fed path – Rabobank",
-      "summary": "Rabobank's Senior FX Strategist Jane Foley discusses USD/JPY ahead of the United States (US) July Consumer Price Index (CPI) release, highlighting how softer US inflation could weaken the Dollar and lower the odds of another break above USD/JPY160.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risks-and-fed-path-rabobank-202608111511",
-      "published": "2026-08-11T15:11:10+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar holds firm against US Dollar ahead of US CPI",
-      "summary": "USD/CAD trades under pressure on Tuesday, staying on the back foot for a third straight day. However, the pair lacks follow-through selling as the US Dollar (USD) holds firm ahead of Wednesday’s US Consumer Price Index (CPI) data.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-firm-against-us-dollar-ahead-of-us-cpi-202608111510",
-      "published": "2026-08-11T15:10:44+00:00",
-      "score": 2
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "U.S. HOUSEHOLD DEBT DIPS TO $18.8 TRILLION U.S. household debt fell by $13 billion to $18.8 trillion in the second quarter, according to the New York Fed. Mortgage balances dropped $74 billion to $13.1 trillion, while credit card debt rose $21 billion and auto loans increased $28 billion. Delinquency rates remained broadly stable, though early delinquencies edged higher for mortgages and auto loans.",
@@ -282,30 +300,12 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ATLANTA FED'S VENABLE: INFLATION IS TOO HIGH, WITH SAME MESSAGE HEARD FROM CONTACTS ACROSS THE SOUTHEAST",
-      "summary": "<p>ATLANTA FED'S VENABLE: INFLATION IS TOO HIGH, WITH SAME MESSAGE HEARD FROM CONTACTS ACROSS THE SOUTHEAST</p>",
-      "link": "https://nitter.net/DeItaone/status/2087186103086219427#m",
-      "published": "2026-08-11T14:35:19+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "EURUSD",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vlitc6/eurusd/\"> <img alt=\"EURUSD\" src=\"https://preview.redd.it/s63lk3ow8rih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2342a2ff8c147ff2fa28813584054c62e4c7d868\" title=\"EURUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>EURUSD change of character confirmed. How many of u have u are trading this today </p> </div><!--",
       "link": "https://www.reddit.com/r/Forex/comments/1vlitc6/eurusd/",
       "published": "2026-08-11T14:20:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: US CAN STRIKE IRAN WITH 'GREAT FORCE'",
-      "summary": "<p>TRUMP: US CAN STRIKE IRAN WITH 'GREAT FORCE'</p>",
-      "link": "https://nitter.net/DeItaone/status/2087179545061257268#m",
-      "published": "2026-08-11T14:09:16+00:00",
       "score": 1
     },
     {
@@ -442,15 +442,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2086807088055898345#m",
       "published": "2026-08-10T13:29:15+00:00",
       "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "US hiring plans are improving: US-based employers announced plans to add 16,095 jobs in July, marking a +47% increase from 10,933 in June, the strongest July total since 2022. By comparison, US hiring plans stood at just 3,200 in July 2025, or -80% below this year's level. Aerospace and Defense led all industries last month, with 4,625 announced hires, followed by Technology at 2,470 and Automotive at 2,068. Year-to-date, US hiring plans surged +25% YoY, to 107,500 workers, the strongest January-to-July total since 2023. Technology leads all sectors with 17,231 announcements in 2026, followed by Automotive at 14,704 and Aerospace/Defense at 12,516. US hiring is finally showing signs of life.",
-      "summary": "<p>US hiring plans are improving:<br />\n<br />\nUS-based employers announced plans to add 16,095 jobs in July, marking a +47% increase from 10,933 in June, the strongest July total since 2022.<br />\n<br />\nBy comparison, US hiring plans stood at just 3,200 in July 2025, or -80% below this year's level.<br />\n<br />\nAerospace and Defense led all industries last month, with 4,625 announced hires, fol",
-      "link": "https://nitter.net/KobeissiLetter/status/2086603846986440842#m",
-      "published": "2026-08-10T00:01:39+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
