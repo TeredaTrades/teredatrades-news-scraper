@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-08-11T11:06:28.082912+00:00",
-  "count": 69,
+  "updated_at": "2026-08-11T11:57:45.002489+00:00",
+  "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: CPI keeps USD in tight ranges – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note the US Dollar (USD) softened as Fed hike expectations moderated and the US yield curve steepened.",
+      "link": "https://www.fxstreet.com/news/us-dollar-cpi-keeps-usd-in-tight-ranges-ocbc-202608111153",
+      "published": "2026-08-11T11:53:08+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc holds below 0.8100 US Dollar with US-Iran negotiations deadlocked",
+      "summary": "The Swiss Franc trades practically flat against the US Dollar (USD) on Tuesday, consolidating halfway through last week’s trading range.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-holds-below-08100-us-dollar-with-us-iran-negotiations-deadlocked-202608111152",
+      "published": "2026-08-11T11:52:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 10-year treasury yield more likely to come in higher than expectations than lower over the next three months, said 18 of 22 bond strategists - Poll.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716307/US-10-year-treasury-yield-more-likely-to-come-in-higher-than-expectations-than-lower-over-the-next-three-months-said-18-of-22-bond-strategists---Poll.aspx?xy=rss",
+      "published": "2026-08-11T11:51:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Poll: US 2-year Treasury yield to decline to 4.07% in three months, 3.92% in six months, and 3.80% in a year (vs 4.00%, 3.90%, and 3.85%, respectively, in the July poll)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716306/Poll-US-2-year-Treasury-yield-to-decline-to-407-in-three-months-392-in-six-months-and-380-in-a-year-vs-400-390-and-385-respectively-in-the-July-poll.aspx?xy=rss",
+      "published": "2026-08-11T11:51:43+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Poll: US 10-year Treasury yield to decline to 4.50% in three months, hold for the next three months, and 4.34% in a year (vs 4.48%, 4.48%, and 4.39%, respectively, in the July poll)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716305/Poll-US-10-year-Treasury-yield-to-decline-to-450-in-three-months-hold-for-the-next-three-months-and-434-in-a-year-vs-448-448-and-439-respectively-in-the-July-poll.aspx?xy=rss",
+      "published": "2026-08-11T11:51:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "GBP/USD Price Forecast: Holds Descending Triangle breakout",
+      "summary": "The GBP/USD pair trades marginally lower at around 1.3500 during the European trading session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-holds-descending-triangle-breakout-202608111146",
+      "published": "2026-08-11T11:46:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: River AI: Round includes investment from NVIDIA and AMD ventures. Raises $1.1B led by General Catalyst and Amp PBC",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716284/River-AI-Round-includes-investment-from-NVIDIA-and-AMD-ventures-Raises-11B-led-by-General-Catalyst-and-Amp-PBC.aspx?xy=rss",
+      "published": "2026-08-11T11:31:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold pauses near two-month highs as US-Iran standoff drives Oil prices higher",
+      "summary": "Gold (XAU/USD) pauses its rally on Tuesday after hitting a two-month high of $4,435 earlier in Asian trading hours. The modest pullback comes as uncertainty over when the Strait of Hormuz will reopen keeps Oil prices elevated.",
+      "link": "https://www.fxstreet.com/news/gold-pauses-near-two-month-highs-as-us-iran-standoff-drives-oil-prices-higher-202608111125",
+      "published": "2026-08-11T11:25:42+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index Price Forecast: A break above 100.00 would confirm a double bottom",
+      "summary": "The US Dollar Index (DXY) appreciates for the second consecutive day on Tuesday, favoured by a mix of concerns about the stalled US-Iran negotiations and hawkish Fed speak, which keeps hopes of a September rate hike alive.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-a-break-above-10000-would-confirm-a-double-bottom-202608111106",
+      "published": "2026-08-11T11:06:48+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -19,24 +100,6 @@
       "link": "https://www.fxstreet.com/news/gold-price-forecast-rally-hits-pause-near-4-440-with-us-cpi-in-focus-202608111049",
       "published": "2026-08-11T10:49:52+00:00",
       "score": 4
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TREASURY YIELDS AND DOLLAR RISE AS OIL CLIMBS Treasury yields and the dollar moved higher as rising oil prices fueled concerns over stalled U.S.-Iran negotiations on the Strait of Hormuz. Markets are increasing bets on a Fed rate hike in September. The 10-year Treasury yield rose to 4.727%, while the DXY gained 0.1% to 99.851. Wednesday’s U.S. inflation report could be key in determining the Fed’s next move.",
-      "summary": "<p>TREASURY YIELDS AND DOLLAR RISE AS OIL CLIMBS<br />\n<br />\nTreasury yields and the dollar moved higher as rising oil prices fueled concerns over stalled U.S.-Iran negotiations on the Strait of Hormuz.<br />\n<br />\nMarkets are increasing bets on a Fed rate hike in September.<br />\n<br />\nThe 10-year Treasury yield rose to 4.727%, while the DXY gained 0.1% to 99.851.<br />\n<br />\nWednesday’s U.S.",
-      "link": "https://nitter.net/DeItaone/status/2087126676836651431#m",
-      "published": "2026-08-11T10:39:11+00:00",
-      "score": 4
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "STOCK MARKET BOOM FUELS EARLY RETIREMENT Older Americans are leaving the workforce at a faster pace. Labor participation among people aged 55+ has dropped from above 40% pre-pandemic to 36.9% in July. Bank of America economists point to rising wealth as a key driver. With the S&P 500 up nearly 40% over the past two years, bigger 401(k) balances may be making early retirement easier for many Americans.",
-      "summary": "<p>STOCK MARKET BOOM FUELS EARLY RETIREMENT<br />\n<br />\nOlder Americans are leaving the workforce at a faster pace.<br />\n<br />\nLabor participation among people aged 55+ has dropped from above 40% pre-pandemic to 36.9% in July.<br />\n<br />\nBank of America economists point to rising wealth as a key driver.<br />\n<br />\nWith the S&amp;P 500 up nearly 40% over the past two years, bigger 401(k) bal",
-      "link": "https://nitter.net/DeItaone/status/2087125694035759537#m",
-      "published": "2026-08-11T10:35:17+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -129,15 +192,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP SECRETLY SWITCHED PLANES AMID IRAN MISSILE THREAT President Trump secretly switched planes before leaving Turkey after U.S. intelligence detected a credible Iranian-linked missile plot targeting his aircraft, CBS News reported. Trump boarded Air Force One publicly, then reportedly left unnoticed using an airport catering truck and transferred to another U.S. government plane. Staff and journalists continued aboard Air Force One, believing Trump was onboard. Officials later expressed concern that details of the classified security operation had leaked.",
-      "summary": "<p>TRUMP SECRETLY SWITCHED PLANES AMID IRAN MISSILE THREAT<br />\n<br />\nPresident Trump secretly switched planes before leaving Turkey after U.S. intelligence detected a credible Iranian-linked missile plot targeting his aircraft, CBS News reported.<br />\n<br />\nTrump boarded Air Force One publicly, then reportedly left unnoticed using an airport catering truck and transferred to another U.S. gove",
-      "link": "https://nitter.net/DeItaone/status/2087100364927435098#m",
-      "published": "2026-08-11T08:54:38+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: ING: The AUD - FJElite",
@@ -145,69 +199,6 @@
       "link": "https://www.financialjuice.com/News/9716066/ING-The-AUD---FJElite.aspx?xy=rss",
       "published": "2026-08-11T08:46:31+00:00",
       "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Credit Ágricole: G10 FX Positions - FJElite",
-      "summary": "<div><ul><li>At present, the G10 FX PIX 3.0 signals that the GBP is overbought. Subsequently, we have entered into a short GBP/USD with a target of +4% and a stop-loss of -2%. The model is down -1.20% with a hit ratio of 50% over the past twelve months.</li><li>The EUR enjoyed some buying interest last week, predominantly driven by tactical flows. Our FX flow data points at banks, corporates and r",
-      "link": "https://www.financialjuice.com/News/9716048/Credit-%c3%81gricole-G10-FX-Positions---FJElite.aspx?xy=rss",
-      "published": "2026-08-11T08:45:31+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Yield outlook fails to lift Yen – Societe Generale",
-      "summary": "Societe Generale strategists note the Japanese Yen (JPY) remains the main G10 laggard despite higher domestic yields and Bank of Japan (BoJ) tightening.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-yield-outlook-fails-to-lift-yen-societe-generale-202608110844",
-      "published": "2026-08-11T08:44:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/GBP Price Forecast: Under growing bearish pressure below 0.8550",
-      "summary": "The Euro (EUR) extends losses for the second consecutive day against the British Pound (GBP) on Tuesday, weighed by a cautious market mood as hopes of a swift end to Iran’s war wane and Oil prices climb. The EUR USD pair remains capped below 0.8550 after hitting two-week lows at 0.8536 on Monday.",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-under-growing-bearish-pressure-below-08550-202608110835",
-      "published": "2026-08-11T08:35:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: UK ONS: We will decide in July 2027 whether transformed labour force survey can be transitioned as main jobs market indicator in November 2027.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9716039/UK-ONS-We-will-decide-in-July-2027-whether-transformed-labour-force-survey-can-be-transitioned-as-main-jobs-market-indicator-in-November-2027.aspx?xy=rss",
-      "published": "2026-08-11T08:32:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones futures slip as US-Iran tensions, rate hike fears weigh on sentiment",
-      "summary": "Dow Jones futures decline by 0.11% to trade around 54,000 during European hours on Tuesday. Meanwhile, S&amp;P 500 futures are steady around 7,770 and Nasdaq 100 futures gain 0.12%, trading near 29,770.",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-slip-as-us-iran-tensions-rate-hike-fears-weigh-on-sentiment-202608110819",
-      "published": "2026-08-11T08:19:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Europe Sentiment: RBA Leaves Rates Unchanged But Remains Ready To Hike - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9716016/Europe-Sentiment-RBA-Leaves-Rates-Unchanged-But-Remains-Ready-To-Hike---FJElite.aspx?xy=rss",
-      "published": "2026-08-11T08:16:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index Price Forecast: Supported by rising Oil prices",
-      "summary": "The US Dollar (USD) extends its Monday recovery move on Tuesday, as rising Oil prices due to prolonged fears of energy supply disruption keep global inflation expectations de-anchored.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-supported-by-rising-oil-prices-202608110814",
-      "published": "2026-08-11T08:14:47+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -282,33 +273,6 @@
       "score": 3
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP SAYS HE SPOKE WITH FED CHAIR WARSH President Trump says he spoke briefly with Fed Chair Kevin Warsh last week but stressed that Warsh must work with the broader Fed board. Trump suggested Warsh’s preferred policy direction could differ if he had sole control, but did not specify what action the Fed chair favors.",
-      "summary": "<p>TRUMP SAYS HE SPOKE WITH FED CHAIR WARSH<br />\n<br />\nPresident Trump says he spoke briefly with Fed Chair Kevin Warsh last week but stressed that Warsh must work with the broader Fed board.<br />\n<br />\nTrump suggested Warsh’s preferred policy direction could differ if he had sole control, but did not specify what action the Fed chair favors.</p>",
-      "link": "https://nitter.net/DeItaone/status/2086901366144782597#m",
-      "published": "2026-08-10T19:43:53+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: SPOKE TO FEDERAL RESERVE'S WARSH A COUPLE DAYS AGO",
-      "summary": "<p>TRUMP: SPOKE TO FEDERAL RESERVE'S WARSH A COUPLE DAYS AGO</p>",
-      "link": "https://nitter.net/DeItaone/status/2086899491739738250#m",
-      "published": "2026-08-10T19:36:26+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: U.S. HAS MINESWEPT THE ENTIRE STRAIT",
-      "summary": "<p>TRUMP ON IRAN: U.S. HAS MINESWEPT THE ENTIRE STRAIT</p>",
-      "link": "https://nitter.net/DeItaone/status/2086899035911213390#m",
-      "published": "2026-08-10T19:34:37+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Nvidia, $NVDA, is set to announce a $500 billion AI financing effort in partnership with Apollo, Blackstone, BlackRock, Goldman Sachs, KKR, and Brookfield, per CNBC. Details include: 1. The move comes as tech companies are increasingly looking to raise debt to finance AI projects 2. For Nvidia, the effort could help its biggest customers secure the financing needed to buy its GPUs, build data centers, and lock in long-term electricity capacity 3. The deal could be announced as soon as today, sources say The AI buildout is prompting a historic wave of debt issuance.",
@@ -327,48 +291,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: U.S. GOING TO ASK FOR MONEY FOR DAMAGE IRAN HAS DONE",
-      "summary": "<p>TRUMP ON IRAN: U.S. GOING TO ASK FOR MONEY FOR DAMAGE IRAN HAS DONE</p>",
-      "link": "https://nitter.net/DeItaone/status/2086896560458133637#m",
-      "published": "2026-08-10T19:24:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: WE STILL HAVE ABILITY TO ESCALATE",
-      "summary": "<p>TRUMP ON IRAN: WE STILL HAVE ABILITY TO ESCALATE</p>",
-      "link": "https://nitter.net/DeItaone/status/2086896468871279030#m",
-      "published": "2026-08-10T19:24:25+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: US oil prices surge over +5% to $82/barrel after President Trump says the US is now demanding compensation from Iran.",
       "summary": "<p>BREAKING: US oil prices surge over +5% to $82/barrel after President Trump says the US is now demanding compensation from Iran.</p>\n<img src=\"https://nitter.net/pic/media%2FHPYf9owWEAA1gqC.png\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2086890752588513717#m",
       "published": "2026-08-10T19:01:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: VACCINATIONS FOR HEPATITIS B, COVID-19 AND INFLUENZA, AMONG OTHERS, NO LONGER RECOMMENDED FOR ALL CHILDREN",
-      "summary": "<p>TRUMP: VACCINATIONS FOR HEPATITIS B, COVID-19 AND INFLUENZA, AMONG OTHERS, NO LONGER RECOMMENDED FOR ALL CHILDREN</p>",
-      "link": "https://nitter.net/DeItaone/status/2086890167260921939#m",
-      "published": "2026-08-10T18:59:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: ADMINISTRATION RECOGNIZING CHILDHOOD VACCINE RECOMMENDATIONS FOR ONLY 11 CORE VACCINATIONS",
-      "summary": "<p>TRUMP: ADMINISTRATION RECOGNIZING CHILDHOOD VACCINE RECOMMENDATIONS FOR ONLY 11 CORE VACCINATIONS</p>",
-      "link": "https://nitter.net/DeItaone/status/2086890124659318954#m",
-      "published": "2026-08-10T18:59:12+00:00",
       "score": 1
     },
     {
@@ -379,15 +307,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2086863376924266956#m",
       "published": "2026-08-10T17:12:55+00:00",
       "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "CFRA RAISES S&P 500 TARGET TO 8,650 CFRA raised its 12-month S&P 500 target to 8,650 from 7,730, implying nearly 12% upside from August 7. The firm also lifted its 2026 year-end target to 8,050. Strategist Sam Stovall says strong earnings continue to support equities, but rising margin debt, persistent inflation and potential Fed tightening are fueling concerns that the rally could be approaching a peak.",
-      "summary": "<p>CFRA RAISES S&amp;P 500 TARGET TO 8,650<br />\n<br />\nCFRA raised its 12-month S&amp;P 500 target to 8,650 from 7,730, implying nearly 12% upside from August 7.<br />\n<br />\nThe firm also lifted its 2026 year-end target to 8,050.<br />\n<br />\nStrategist Sam Stovall says strong earnings continue to support equities, but rising margin debt, persistent inflation and potential Fed tightening are fue",
-      "link": "https://nitter.net/DeItaone/status/2086862723359429071#m",
-      "published": "2026-08-10T17:10:19+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
