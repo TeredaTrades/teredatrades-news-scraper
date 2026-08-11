@@ -1,13 +1,49 @@
 {
-  "updated_at": "2026-08-11T21:51:12.274898+00:00",
-  "count": 56,
+  "updated_at": "2026-08-11T22:44:53.622347+00:00",
+  "count": 66,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Australian Dollar goes seven weeks without a central bank",
+      "summary": "AUD/USD trades just above 0.7050 on Tuesday August 11, a tenth of a percent firmer inside a 29-pip range, having taken the Reserve Bank of Australia (RBA) decision entirely in its stride.",
+      "link": "https://www.fxstreet.com/news/the-australian-dollar-goes-seven-weeks-without-a-central-bank-202608112244",
+      "published": "2026-08-11T22:44:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US yields ease as CPI caution offsets Oil rally",
+      "summary": "US Treasury yields eased on Tuesday as most investors remain cautious, awaiting the release of US inflation figures and the resolution of the US-Iran conflict, which has encountered hurdles.",
+      "link": "https://www.fxstreet.com/news/us-yields-ease-as-cpi-caution-offsets-oil-rally-202608112239",
+      "published": "2026-08-11T22:39:56+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Range trade persists, upside risk against US Dollar – UOB",
+      "summary": "United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann expect USD/CNH to remain confined in a narrow intraday range, reflecting flat momentum indicators. Over the next 1–3 weeks, they still see scope for the Dollar to edge lower toward 6.7300 while resistance has shifted higher.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-upside-risk-against-us-dollar-uob-202608112226",
+      "published": "2026-08-11T22:26:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Japanese Yen gives back half of a record intervention",
+      "summary": "USD/JPY trades just beneath 159.50 on Tuesday August 11, effectively unchanged inside a 47-pip range, wedged between a reclaimed 200-day moving average near 158.00 and a declining 50-day near 160.50.",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-gives-back-half-of-a-record-intervention-202608112205",
+      "published": "2026-08-11T22:05:53+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Amazon: OpenAI Daybreak models now accessible to qualified customers on Amazon Bedrock website",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9717061/Amazon-OpenAI-Daybreak-models-now-accessible-to-qualified-customers-on-Amazon-Bedrock-website.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9717061/Amazon-OpenAI-Daybreak-models-now-accessible-to-qualified-customers-on-Amazon-Bedrock-website.aspx",
       "published": "2026-08-11T21:50:14+00:00",
       "score": 1
     },
@@ -18,6 +54,15 @@
       "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that Indonesian Rupiah (IDR) strengthened to near a two‑month high on a softer US Dollar (USD) after weak United States (US) payrolls and clarity over Bank Indonesia (BI) leadership, with Destry Damayanti nominated as sole governor candidate.",
       "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-succession-supports-idr-against-us-dollar-ocbc-202608112141",
       "published": "2026-08-11T21:41:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: MEDICAID WILL NO LONGER FUND GENDER TRANSITION SURGERIES AND HORMONES FOR MINORS",
+      "summary": "<p>TRUMP: MEDICAID WILL NO LONGER FUND GENDER TRANSITION SURGERIES AND HORMONES FOR MINORS</p>",
+      "link": "https://nitter.net/DeItaone/status/2087288717618651597#m",
+      "published": "2026-08-11T21:23:04+00:00",
       "score": 1
     },
     {
@@ -43,7 +88,7 @@
       "category": "news",
       "title": "FinancialJuice: U.S. judge halts postal service from limiting mail-in voting under Trump order: docket",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9717009/US-judge-halts-postal-service-from-limiting-mail-in-voting-under-Trump-order-docket.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9717009/US-judge-halts-postal-service-from-limiting-mail-in-voting-under-Trump-order-docket.aspx",
       "published": "2026-08-11T21:02:55+00:00",
       "score": 1
     },
@@ -70,7 +115,7 @@
       "category": "news",
       "title": "FinancialJuice: Senator Sanders calls on AI companies to pause development, sends letter to OpenAI, Anthropic and Meta CEOs - NYT $META",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9716947/Senator-Sanders-calls-on-AI-companies-to-pause-development-sends-letter-to-OpenAI-Anthropic-and-Meta-CEOs---NYT-META.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9716947/Senator-Sanders-calls-on-AI-companies-to-pause-development-sends-letter-to-OpenAI-Anthropic-and-Meta-CEOs---NYT-META.aspx",
       "published": "2026-08-11T20:09:18+00:00",
       "score": 1
     },
@@ -79,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: MOC Imbalance",
       "summary": "S&amp;P 500: -1249 mln<br />Nasdaq 100: -637 mln<br />Dow 30: -357 mln<br />Mag 7: -482 mln",
-      "link": "https://www.financialjuice.com/News/9716925/MOC-Imbalance.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9716925/MOC-Imbalance.aspx",
       "published": "2026-08-11T19:50:30+00:00",
       "score": 1
     },
@@ -106,18 +151,9 @@
       "category": "news",
       "title": "FinancialJuice: US CPI Prep: Inflation in Focus - FJElite",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9716911/US-CPI-Prep-Inflation-in-Focus---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9716911/US-CPI-Prep-Inflation-in-Focus---FJElite.aspx",
       "published": "2026-08-11T19:31:43+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Wednesday FX Options Expiries",
-      "summary": "<ul><li><strong>EUR/USD: </strong>1.1550 (EU931.1m), 1.1600 (EU870.3m), 1.1400 (EU853.5m)</li><li><strong>USD/JPY:</strong> 162.00 ($1.59b), 159.00 ($1.17b), 163.00 ($859.5m)</li><li><strong>AUD/USD:</strong> 0.7050 (AUD559.3m), 0.6800 (AUD519.1m), 0.6950 (AUD355.1m)</li><li><strong>USD/BRL: </strong>5.1500 ($644.3m), 5.1600 ($530.9m), 5.2000 ($465.8m)</li><li><strong>GBP/USD: </strong>1.3525 (GBP",
-      "link": "https://www.financialjuice.com/News/9716905/Wednesday-FX-Options-Expiries-.aspx?xy=rss",
-      "published": "2026-08-11T19:22:55+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -165,31 +201,58 @@
       "score": 4
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen pares losses ahead of US inflation report",
-      "summary": "The Japanese Yen (JPY) trades flat above 159.00 on Tuesday after several days of US Dollar (USD) strength following the intervention that briefly boosted the Yen. The pair has retraced most of its sharp intervention-driven decline, facing pressure from elevated Oil prices and a firm US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/japanese-yen-pares-losses-ahead-of-us-inflation-report-202608111749",
-      "published": "2026-08-11T17:49:50+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ETHEREUM BUYERS ACCUMULATE AHEAD OF CPI Investors are accumulating Ethereum ahead of Wednesday’s U.S. CPI report, according to Nansen. Managed money is reportedly buying ETH on spot markets at 7.2 times its normal pace. Meanwhile, sophisticated traders remain net short Bitcoin and Ethereum derivatives, signaling caution over inflation and potential rate hikes. Ethereum fell 0.9% to $1,862, while Bitcoin dropped 1% to $63,455.",
+      "summary": "<p>ETHEREUM BUYERS ACCUMULATE AHEAD OF CPI<br />\n<br />\nInvestors are accumulating Ethereum ahead of Wednesday’s U.S. CPI report, according to Nansen.<br />\n<br />\nManaged money is reportedly buying ETH on spot markets at 7.2 times its normal pace.<br />\n<br />\nMeanwhile, sophisticated traders remain net short Bitcoin and Ethereum derivatives, signaling caution over inflation and potential rate hi",
+      "link": "https://nitter.net/DeItaone/status/2087229936939807075#m",
+      "published": "2026-08-11T17:29:30+00:00",
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold eases amid firm US Dollar as CPI and Hormuz risks loom",
-      "summary": "Gold (XAU/USD) price registers modest losses on Tuesday, driven by a firm US Dollar as traders await the release of crucial US inflation data and the potential reopening of the Strait of Hormuz. The rise in energy prices is also capping the yellow metal´s advance.",
-      "link": "https://www.fxstreet.com/news/gold-eases-amid-firm-us-dollar-as-cpi-and-hormuz-risks-loom-202608111728",
-      "published": "2026-08-11T17:28:34+00:00",
-      "score": 6
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BARCLAYS SEES TREASURY YIELDS STAYING HIGH Barclays says growing reliance on price-sensitive private investors could keep long-term U.S. Treasury yields near multi-decade highs. Private investors now hold about 73% of the Treasury market, up from roughly 50% a decade ago. With Fed and foreign central-bank demand declining, investors are demanding higher returns to absorb rising debt supply amid persistent inflation and budget deficits. The 30-year yield recently approached 5.28%.",
+      "summary": "<p>BARCLAYS SEES TREASURY YIELDS STAYING HIGH<br />\n<br />\nBarclays says growing reliance on price-sensitive private investors could keep long-term U.S. Treasury yields near multi-decade highs.<br />\n<br />\nPrivate investors now hold about 73% of the Treasury market, up from roughly 50% a decade ago.<br />\n<br />\nWith Fed and foreign central-bank demand declining, investors are demanding higher re",
+      "link": "https://nitter.net/DeItaone/status/2087219680272400787#m",
+      "published": "2026-08-11T16:48:45+00:00",
+      "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed’s Goolsbee: Inflation is the “biggest problem” of the economy",
-      "summary": "The Chicago Fed President Austan Goolsbee revealed in a video posted by Wired, that “The biggest problem facing our economy right now is not the collapse of industry and the collapse of jobs; it's that the prices have been rising too fast, we got an inflation problem and people hate inflation.”",
-      "link": "https://www.fxstreet.com/news/feds-goolsbee-inflation-is-the-biggest-problem-of-the-economy-202608111723",
-      "published": "2026-08-11T17:23:35+00:00",
-      "score": 3
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. RAISES OIL PRICE FORECAST ON HORMUZ DISRUPTION U.S. energy officials expect Strait of Hormuz constraints to persist through August, limiting oil flows. The EIA raised its 2026 Brent crude forecast to $87 a barrel from $82 and lifted its U.S. gasoline estimate to $3.78 a gallon. Despite President Trump saying the strait is open, only eight vessels crossed Monday, versus roughly 120 before the war.",
+      "summary": "<p>U.S. RAISES OIL PRICE FORECAST ON HORMUZ DISRUPTION<br />\n<br />\nU.S. energy officials expect Strait of Hormuz constraints to persist through August, limiting oil flows.<br />\n<br />\nThe EIA raised its 2026 Brent crude forecast to $87 a barrel from $82 and lifted its U.S. gasoline estimate to $3.78 a gallon.<br />\n<br />\nDespite President Trump saying the strait is open, only eight vessels cros",
+      "link": "https://nitter.net/DeItaone/status/2087214679625974113#m",
+      "published": "2026-08-11T16:28:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED'S GOOLSBEE: BIGGEST PROBLEM FACING THE ECONOMY IS INFLATION",
+      "summary": "<p>FED'S GOOLSBEE: BIGGEST PROBLEM FACING THE ECONOMY IS INFLATION</p>",
+      "link": "https://nitter.net/DeItaone/status/2087213624897012207#m",
+      "published": "2026-08-11T16:24:41+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED'S GOOLSBEE ON WIRED: PRICES AND AFFORDABILITY, THAT'S THE BIGGEST PROBLEM WE ARE FACING RIGHT NOW",
+      "summary": "<p>FED'S GOOLSBEE ON WIRED: PRICES AND AFFORDABILITY, THAT'S THE BIGGEST PROBLEM WE ARE FACING RIGHT NOW</p>",
+      "link": "https://nitter.net/DeItaone/status/2087213441152844137#m",
+      "published": "2026-08-11T16:23:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "RUSSIA RELEASES FORMER U.S. MARINE AFTER TRUMP-PUTIN TALKS President Trump says Russia has agreed to release American citizen and former U.S. Marine Robert Gilman following discussions with President Vladimir Putin. Trump said Russia requested no prisoner in exchange for Gilman’s release. Gilman, who had been imprisoned in Russia, is expected to arrive in Washington, D.C., Tuesday night.",
+      "summary": "<p>RUSSIA RELEASES FORMER U.S. MARINE AFTER TRUMP-PUTIN TALKS<br />\n<br />\nPresident Trump says Russia has agreed to release American citizen and former U.S. Marine Robert Gilman following discussions with President Vladimir Putin.<br />\n<br />\nTrump said Russia requested no prisoner in exchange for Gilman’s release.<br />\n<br />\nGilman, who had been imprisoned in Russia, is expected to arrive in ",
+      "link": "https://nitter.net/DeItaone/status/2087211261108826284#m",
+      "published": "2026-08-11T16:15:17+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -198,6 +261,33 @@
       "summary": "<p>BREAKING: Trump Media says more than 10 customers have signed up for \"Truth API\" which provides faster access to President Trump's Truth Social posts.<br />\n<br />\nThe earliest customers are mostly high-frequency trading firms who are being charged between $60,000 and $100,000 per month.</p>",
       "link": "https://nitter.net/KobeissiLetter/status/2087207415452193088#m",
       "published": "2026-08-11T16:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP THREATENS FEDERAL ACTION OVER NYC TAXES President Trump criticized New York City’s pied-à-terre tax and congestion pricing, arguing they are driving residents and tax revenue to states such as Florida and Texas. Trump warned the policies could cause financial and social damage to New York. He said his administration is examining whether the federal government has legal authority to intervene and stop the measures.",
+      "summary": "<p>TRUMP THREATENS FEDERAL ACTION OVER NYC TAXES<br />\n<br />\nPresident Trump criticized New York City’s pied-à-terre tax and congestion pricing, arguing they are driving residents and tax revenue to states such as Florida and Texas.<br />\n<br />\nTrump warned the policies could cause financial and social damage to New York.<br />\n<br />\nHe said his administration is examining whether the federal g",
+      "link": "https://nitter.net/DeItaone/status/2087202679189622964#m",
+      "published": "2026-08-11T15:41:11+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: LOOKING TO SEE IF FEDERAL GOVERNMENT HAS ANY LEGAL RIGHT TO AVERT MAMDANI'S NEW YORK CITY PIED-A-TIERRE TAX",
+      "summary": "<p>TRUMP: LOOKING TO SEE IF FEDERAL GOVERNMENT HAS ANY LEGAL RIGHT TO AVERT MAMDANI'S NEW YORK CITY PIED-A-TIERRE TAX</p>",
+      "link": "https://nitter.net/DeItaone/status/2087202481046487485#m",
+      "published": "2026-08-11T15:40:24+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$NVDA - NVIDIA’S $500 BILLION AI FINANCING PLAN DIVIDES WALL STREET Nvidia unveiled partnerships with six financial firms to provide up to $500 billion in financing for customers buying its chips. CEO Jensen Huang says the structure addresses concerns over “circular financing” by shifting capital commitments away from Nvidia. Bank of America and Morgan Stanley welcomed the move, while Wells Fargo and Mizuho remain skeptical about Nvidia’s exposure and whether underlying AI demand can justify the massive investment.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - NVIDIA’S $500 BILLION AI FINANCING PLAN DIVIDES WALL STREET<br />\n<br />\nNvidia unveiled partnerships with six financial firms to provide up to $500 billion in financing for customers buying its chips.<br />\n<br />\nCEO Jensen Huang says the structure addresses concerns over “circular financing” by shifting capital commitmen",
+      "link": "https://nitter.net/DeItaone/status/2087200271403286921#m",
+      "published": "2026-08-11T15:31:37+00:00",
       "score": 1
     },
     {
