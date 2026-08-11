@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-11T10:11:37.700729+00:00",
-  "count": 59,
+  "updated_at": "2026-08-11T11:06:28.082912+00:00",
+  "count": 69,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro treads water against US Dollar as traders await US CPI",
+      "summary": "EUR/USD trades around 1.1535 on Tuesday at the time of writing, posting a modest 0.06% decline on the day.",
+      "link": "https://www.fxstreet.com/news/euro-treads-water-against-us-dollar-as-traders-await-us-cpi-202608111053",
+      "published": "2026-08-11T10:53:57+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold Price Forecast: Rally hits pause near $4,440 with US CPI in focus",
+      "summary": "Gold price (XAU/USD) trades 0.26% lower at around $4,380 during the European trading session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-rally-hits-pause-near-4-440-with-us-cpi-in-focus-202608111049",
+      "published": "2026-08-11T10:49:52+00:00",
+      "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TREASURY YIELDS AND DOLLAR RISE AS OIL CLIMBS Treasury yields and the dollar moved higher as rising oil prices fueled concerns over stalled U.S.-Iran negotiations on the Strait of Hormuz. Markets are increasing bets on a Fed rate hike in September. The 10-year Treasury yield rose to 4.727%, while the DXY gained 0.1% to 99.851. Wednesday’s U.S. inflation report could be key in determining the Fed’s next move.",
+      "summary": "<p>TREASURY YIELDS AND DOLLAR RISE AS OIL CLIMBS<br />\n<br />\nTreasury yields and the dollar moved higher as rising oil prices fueled concerns over stalled U.S.-Iran negotiations on the Strait of Hormuz.<br />\n<br />\nMarkets are increasing bets on a Fed rate hike in September.<br />\n<br />\nThe 10-year Treasury yield rose to 4.727%, while the DXY gained 0.1% to 99.851.<br />\n<br />\nWednesday’s U.S.",
+      "link": "https://nitter.net/DeItaone/status/2087126676836651431#m",
+      "published": "2026-08-11T10:39:11+00:00",
+      "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "STOCK MARKET BOOM FUELS EARLY RETIREMENT Older Americans are leaving the workforce at a faster pace. Labor participation among people aged 55+ has dropped from above 40% pre-pandemic to 36.9% in July. Bank of America economists point to rising wealth as a key driver. With the S&P 500 up nearly 40% over the past two years, bigger 401(k) balances may be making early retirement easier for many Americans.",
+      "summary": "<p>STOCK MARKET BOOM FUELS EARLY RETIREMENT<br />\n<br />\nOlder Americans are leaving the workforce at a faster pace.<br />\n<br />\nLabor participation among people aged 55+ has dropped from above 40% pre-pandemic to 36.9% in July.<br />\n<br />\nBank of America economists point to rising wealth as a key driver.<br />\n<br />\nWith the S&amp;P 500 up nearly 40% over the past two years, bigger 401(k) bal",
+      "link": "https://nitter.net/DeItaone/status/2087125694035759537#m",
+      "published": "2026-08-11T10:35:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "NZD/USD Price Forecast: Focus shifts to 0.5850 support area as risk appetite fades",
+      "summary": "The New Zealand Dollar (NZD) nudges lower against a firmer US Dollar (USD) for the second consecutive day on Tuesday, as doubts about the fate of the US-Iran peace negotiations hurt market confidence and boost Oil prices higher.",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-focus-shifts-to-05850-support-area-as-risk-appetite-fades-202608111022",
+      "published": "2026-08-11T10:22:54+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -84,6 +129,15 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SECRETLY SWITCHED PLANES AMID IRAN MISSILE THREAT President Trump secretly switched planes before leaving Turkey after U.S. intelligence detected a credible Iranian-linked missile plot targeting his aircraft, CBS News reported. Trump boarded Air Force One publicly, then reportedly left unnoticed using an airport catering truck and transferred to another U.S. government plane. Staff and journalists continued aboard Air Force One, believing Trump was onboard. Officials later expressed concern that details of the classified security operation had leaked.",
+      "summary": "<p>TRUMP SECRETLY SWITCHED PLANES AMID IRAN MISSILE THREAT<br />\n<br />\nPresident Trump secretly switched planes before leaving Turkey after U.S. intelligence detected a credible Iranian-linked missile plot targeting his aircraft, CBS News reported.<br />\n<br />\nTrump boarded Air Force One publicly, then reportedly left unnoticed using an airport catering truck and transferred to another U.S. gove",
+      "link": "https://nitter.net/DeItaone/status/2087100364927435098#m",
+      "published": "2026-08-11T08:54:38+00:00",
+      "score": 1
+    },
+    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: ING: The AUD - FJElite",
@@ -156,24 +210,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar declines as US Dollar rebounds on safe-haven demand",
-      "summary": "NZD/USD extends its losses for the second successive day, trading around 0.5880 during the European hours on Tuesday. The pair depreciates as the US Dollar (USD) gains on increased safe-haven demand amid heightened geopolitical tensions.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-as-us-dollar-rebounds-on-safe-haven-demand-202608110802",
-      "published": "2026-08-11T08:02:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen struggles below 159.00 vs USD amid fiscal woes, US-Japan rate gap",
-      "summary": "The USD/JPY pair reverses an intraday dip to sub-159.00 levels and climbs to the top end of its daily range during the early part of the European session on Tuesday.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-below-15900-vs-usd-amid-fiscal-woes-us-japan-rate-gap-202608110754",
-      "published": "2026-08-11T07:54:32+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gold buy setup",
@@ -192,15 +228,6 @@
       "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Currency Strength Chart: Strongest: JPY, CAD, USD, GBP, AUD, EUR, CHF, NZD - Weakest",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9715928/Currency-Strength-Chart-Strongest-JPY-CAD-USD-GBP-AUD-EUR-CHF-NZD---Weakest.aspx?xy=rss",
-      "published": "2026-08-11T07:01:36+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Indian Rupee falls as oil prices extend rally, India-US CPI data awaited",
@@ -208,15 +235,6 @@
       "link": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-trump-demands-war-compensation-202608110452",
       "published": "2026-08-11T04:52:16+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold retreats further from two-month high, eyes $4,350 as Fed rate hike bets support USD",
-      "summary": "Gold (XAU/USD) extends its intraday retracement slide from the highest level since June 5 and drops to a fresh daily low, near the $4,350 area during the first half of the European session on Tuesday.",
-      "link": "https://www.fxstreet.com/news/breaking-gold-rallies-further-beyond-4-400-highest-since-early-june-202608110140",
-      "published": "2026-08-11T01:40:14+00:00",
-      "score": 4
     },
     {
       "source": "Kobeissi Letter",
@@ -264,6 +282,33 @@
       "score": 3
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SAYS HE SPOKE WITH FED CHAIR WARSH President Trump says he spoke briefly with Fed Chair Kevin Warsh last week but stressed that Warsh must work with the broader Fed board. Trump suggested Warsh’s preferred policy direction could differ if he had sole control, but did not specify what action the Fed chair favors.",
+      "summary": "<p>TRUMP SAYS HE SPOKE WITH FED CHAIR WARSH<br />\n<br />\nPresident Trump says he spoke briefly with Fed Chair Kevin Warsh last week but stressed that Warsh must work with the broader Fed board.<br />\n<br />\nTrump suggested Warsh’s preferred policy direction could differ if he had sole control, but did not specify what action the Fed chair favors.</p>",
+      "link": "https://nitter.net/DeItaone/status/2086901366144782597#m",
+      "published": "2026-08-10T19:43:53+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: SPOKE TO FEDERAL RESERVE'S WARSH A COUPLE DAYS AGO",
+      "summary": "<p>TRUMP: SPOKE TO FEDERAL RESERVE'S WARSH A COUPLE DAYS AGO</p>",
+      "link": "https://nitter.net/DeItaone/status/2086899491739738250#m",
+      "published": "2026-08-10T19:36:26+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: U.S. HAS MINESWEPT THE ENTIRE STRAIT",
+      "summary": "<p>TRUMP ON IRAN: U.S. HAS MINESWEPT THE ENTIRE STRAIT</p>",
+      "link": "https://nitter.net/DeItaone/status/2086899035911213390#m",
+      "published": "2026-08-10T19:34:37+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Nvidia, $NVDA, is set to announce a $500 billion AI financing effort in partnership with Apollo, Blackstone, BlackRock, Goldman Sachs, KKR, and Brookfield, per CNBC. Details include: 1. The move comes as tech companies are increasingly looking to raise debt to finance AI projects 2. For Nvidia, the effort could help its biggest customers secure the financing needed to buy its GPUs, build data centers, and lock in long-term electricity capacity 3. The deal could be announced as soon as today, sources say The AI buildout is prompting a historic wave of debt issuance.",
@@ -282,12 +327,48 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: U.S. GOING TO ASK FOR MONEY FOR DAMAGE IRAN HAS DONE",
+      "summary": "<p>TRUMP ON IRAN: U.S. GOING TO ASK FOR MONEY FOR DAMAGE IRAN HAS DONE</p>",
+      "link": "https://nitter.net/DeItaone/status/2086896560458133637#m",
+      "published": "2026-08-10T19:24:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: WE STILL HAVE ABILITY TO ESCALATE",
+      "summary": "<p>TRUMP ON IRAN: WE STILL HAVE ABILITY TO ESCALATE</p>",
+      "link": "https://nitter.net/DeItaone/status/2086896468871279030#m",
+      "published": "2026-08-10T19:24:25+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: US oil prices surge over +5% to $82/barrel after President Trump says the US is now demanding compensation from Iran.",
       "summary": "<p>BREAKING: US oil prices surge over +5% to $82/barrel after President Trump says the US is now demanding compensation from Iran.</p>\n<img src=\"https://nitter.net/pic/media%2FHPYf9owWEAA1gqC.png\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2086890752588513717#m",
       "published": "2026-08-10T19:01:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: VACCINATIONS FOR HEPATITIS B, COVID-19 AND INFLUENZA, AMONG OTHERS, NO LONGER RECOMMENDED FOR ALL CHILDREN",
+      "summary": "<p>TRUMP: VACCINATIONS FOR HEPATITIS B, COVID-19 AND INFLUENZA, AMONG OTHERS, NO LONGER RECOMMENDED FOR ALL CHILDREN</p>",
+      "link": "https://nitter.net/DeItaone/status/2086890167260921939#m",
+      "published": "2026-08-10T18:59:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: ADMINISTRATION RECOGNIZING CHILDHOOD VACCINE RECOMMENDATIONS FOR ONLY 11 CORE VACCINATIONS",
+      "summary": "<p>TRUMP: ADMINISTRATION RECOGNIZING CHILDHOOD VACCINE RECOMMENDATIONS FOR ONLY 11 CORE VACCINATIONS</p>",
+      "link": "https://nitter.net/DeItaone/status/2086890124659318954#m",
+      "published": "2026-08-10T18:59:12+00:00",
       "score": 1
     },
     {
@@ -298,6 +379,15 @@
       "link": "https://nitter.net/KobeissiLetter/status/2086863376924266956#m",
       "published": "2026-08-10T17:12:55+00:00",
       "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "CFRA RAISES S&P 500 TARGET TO 8,650 CFRA raised its 12-month S&P 500 target to 8,650 from 7,730, implying nearly 12% upside from August 7. The firm also lifted its 2026 year-end target to 8,050. Strategist Sam Stovall says strong earnings continue to support equities, but rising margin debt, persistent inflation and potential Fed tightening are fueling concerns that the rally could be approaching a peak.",
+      "summary": "<p>CFRA RAISES S&amp;P 500 TARGET TO 8,650<br />\n<br />\nCFRA raised its 12-month S&amp;P 500 target to 8,650 from 7,730, implying nearly 12% upside from August 7.<br />\n<br />\nThe firm also lifted its 2026 year-end target to 8,050.<br />\n<br />\nStrategist Sam Stovall says strong earnings continue to support equities, but rising margin debt, persistent inflation and potential Fed tightening are fue",
+      "link": "https://nitter.net/DeItaone/status/2086862723359429071#m",
+      "published": "2026-08-10T17:10:19+00:00",
+      "score": 3
     },
     {
       "source": "r/Forex",
