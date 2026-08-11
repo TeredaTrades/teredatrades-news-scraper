@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-11T02:53:09.713385+00:00",
-  "count": 67,
+  "updated_at": "2026-08-11T04:20:55.614604+00:00",
+  "count": 66,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound clings to gains against US Dollar, US CPI in focus",
+      "summary": "The British Pound (GBP) holds onto two-day gains marginally at around 1.3500 against the US Dollar (USD) during the Asian trading session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/british-pound-clings-to-gains-against-us-dollar-us-cpi-in-focus-202608110336",
+      "published": "2026-08-11T03:36:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar sits near two-month top vs USD amid bullish oil prices",
+      "summary": "The USD/CAD pair is seen consolidating its recent losses to a two-month low, touched last week, and trading below mid-1.3900s during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-sits-near-two-month-top-vs-usd-amid-bullish-oil-prices-202608110335",
+      "published": "2026-08-11T03:35:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen holds range in thin holiday trading amid intervention speculations",
+      "summary": "USD/JPY moves little after posting nearly 1% gains in the previous day, trading around 159.30 during the Asian hours on Tuesday. The pair moved little today, trading in tight ranges as market volumes remained thin with Japanese markets closed for the Mountain Day holiday.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-holds-range-in-thin-holiday-trading-amid-intervention-speculations-202608110314",
+      "published": "2026-08-11T03:14:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "BoJ to consider raising interest rates in September – Jiji Press",
+      "summary": "According to the Jiji Press, the Bank of Japan (BoJ) may consider an additional interest rate increase at its next policy meeting on September 17-18, after leaving them unchanged in July, to counter upside inflation risks.",
+      "link": "https://www.fxstreet.com/news/boj-to-consider-raising-interest-rates-in-september-jiji-press-202608110303",
+      "published": "2026-08-11T03:03:29+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar remains confined in a range vs USD amid Iran risks, ahead of US CPI",
+      "summary": "The NZD/USD pair seesaws between tepid gains/minor losses during the Asian session on Tuesday and currently trades just below the 0.5900 mark.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-confined-in-a-range-vs-usd-amid-iran-risks-ahead-of-us-cpi-202608110302",
+      "published": "2026-08-11T03:02:43+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -34,7 +79,7 @@
       "category": "news",
       "title": "FinancialJuice: Apple's glass-focused 20th anniversary iPhone is still on track for 2027",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9715555/Apples-glass-focused-20th-anniversary-iPhone-is-still-on-track-for-2027.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9715555/Apples-glass-focused-20th-anniversary-iPhone-is-still-on-track-for-2027.aspx",
       "published": "2026-08-11T01:39:54+00:00",
       "score": 1
     },
@@ -73,15 +118,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2086981254340088139#m",
       "published": "2026-08-11T01:01:19+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "RBA set to hold interest rate as softer inflation shifts outlook",
-      "summary": "The Reserve Bank of Australia (RBA) is on track to keep the Official Cash Rate (OCR) steady at 4.35% for the second consecutive meeting on Tuesday.",
-      "link": "https://www.fxstreet.com/news/rba-set-to-hold-interest-rate-at-435-as-softer-inflation-cools-hike-bets-202608110030",
-      "published": "2026-08-11T00:30:00+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -129,24 +165,6 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Citi Mexico Survey expects Banxico hold, USD/MXN ending 2026 at 17.90",
-      "summary": "Citi Mexico released the Expectations Survey on Monday, in which the central bank polled 35 economists to gather their forecasts for monetary policy, the USD/MXN exchange Rate, inflation expectations, and economic growth.",
-      "link": "https://www.fxstreet.com/news/citi-mexico-survey-sees-banxico-hold-usd-mxn-ending-2026-at-1790-202608102126",
-      "published": "2026-08-10T21:26:21+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar slips as firm US Dollar and Oil keep the Kiwi pinned",
-      "summary": "The New Zealand Dollar (NZD) trades near 0.5900 against the US Dollar (USD) on Monday, giving back a little ground after a run toward multi-day highs last week.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slips-as-firm-us-dollar-and-oil-keep-the-kiwi-pinned-202608102113",
-      "published": "2026-08-10T21:13:50+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "my first day of trading futures prop firm. what should i do .? HELP",
@@ -163,24 +181,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2086911731100488150#m",
       "published": "2026-08-10T20:25:04+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD extends rally and eyes $69",
-      "summary": "Silver (XAG/USD) price climbs over 3% on Monday even though US Treasury yields rose, with the white metal refreshing seven-week highs at $66.07. At the time of writing, XAG/USD trades at $65.76 with buyers eyeing key resistance levels.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-eyes-69-as-rally-extends-202608102023",
-      "published": "2026-08-10T20:23:38+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar firms as Oil surges on Hormuz",
-      "summary": "The US Dollar (USD) traded broadly firmer on Monday, with the US Dollar Index (DXY) up around 0.2% and holding just above 99.80 as Oil surged more than 6% on the ongoing Strait of Hormuz standoff.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-as-oil-surges-on-hormuz-202608101955",
-      "published": "2026-08-10T19:55:33+00:00",
-      "score": 2
     },
     {
       "source": "Walter Bloomberg",
@@ -441,15 +441,6 @@
       "summary": "<p>BREAKING: President Trump has been floating the idea privately to senior aides that he's willing to \"walk away\" from the Iran War without a nuclear deal should Iran fully reopen the Strait of Hormuz, per WSJ.<br />\n<br />\nDetails include:<br />\n<br />\n1. This objective reportedly became \"more difficult\" yesterday when Iran insisted on its highest price yet for reopening the Strait of Hormuz<br ",
       "link": "https://nitter.net/KobeissiLetter/status/2086469551265284272#m",
       "published": "2026-08-09T15:08:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gold Could Face Sellers Near 4350–4360?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vjls8y/gold_could_face_sellers_near_43504360/\"> <img alt=\"Gold Could Face Sellers Near 4350–4360?\" src=\"https://preview.redd.it/jp4kefg1nbih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=01ba2efe54cda9c2bfca5da08fe94a0f4f232c38\" title=\"Gold Could Face Sellers Near 4350–4360?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p",
-      "link": "https://www.reddit.com/r/Forex/comments/1vjls8y/gold_could_face_sellers_near_43504360/",
-      "published": "2026-08-09T09:51:10+00:00",
       "score": 1
     },
     {
