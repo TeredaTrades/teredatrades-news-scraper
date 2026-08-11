@@ -1,11 +1,83 @@
 {
-  "updated_at": "2026-08-11T00:34:29.780602+00:00",
-  "count": 71,
+  "updated_at": "2026-08-11T02:53:09.713385+00:00",
+  "count": 67,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "RBA set to hold interest rate at 4.35% as softer inflation cools hike bets",
+      "title": "Euro flat lines near mid-1.1500s vs USD as traders await US CPI amid Iran uncertainty",
+      "summary": "The EUR/USD pair struggles to gain any meaningful traction and holds steady around the 1.1545-1.1550 area during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/euro-flat-lines-near-mid-11500s-vs-usd-as-traders-await-us-cpi-amid-iran-uncertainty-202608110218",
+      "published": "2026-08-11T02:18:42+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar holds ground ahead of RBA policy decision",
+      "summary": "AUD/USD regains ground after registering modest losses the previous day, trading around 0.7060 during Asian hours on Tuesday. The pair gains as the Australian Dollar (AUD) remains stronger ahead of the Reserve Bank of Australia's (RBA) interest rate decision later in the day.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-ground-ahead-of-rba-policy-decision-202608110216",
+      "published": "2026-08-11T02:16:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Breaking: Gold rallies further beyond $4,400; highest since early June",
+      "summary": "Gold (XAU/USD) scales higher for the third consecutive day – also marking the fifth day of a positive move in the previous six – and climbs to its highest level since June 5, further beyond the $4,400 mark during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/breaking-gold-rallies-further-beyond-4-400-highest-since-early-june-202608110140",
+      "published": "2026-08-11T01:40:14+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Apple's glass-focused 20th anniversary iPhone is still on track for 2027",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9715555/Apples-glass-focused-20th-anniversary-iPhone-is-still-on-track-for-2027.aspx?xy=rss",
+      "published": "2026-08-11T01:39:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD holds losses near $66.00 on Fed hike fears, oil surge",
+      "summary": "Silver price (XAG/USD) depreciates after two days of gains, trading around $66.00 per troy ounce during the Asian hours on Tuesday. The price of non-yielding Silver has taken a hit recently as rising oil prices spark renewed inflation fears and heighten expectations for interest rate hikes.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-to-near-6600-on-fed-hike-fears-oil-surge-202608110137",
+      "published": "2026-08-11T01:37:48+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index consolidates below 100.00 as bulls await US CPI amid Iran risks",
+      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, struggles to capitalize on the previous day's positive move and oscillates in a range during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-consolidates-below-10000-as-bulls-await-us-cpi-amid-iran-risks-202608110118",
+      "published": "2026-08-11T01:18:11+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7900 vs. 6.7884 previous",
+      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7900 compared to the previous day's fix of 6.7884 and 6.7497 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67900-vs-67884-previous-202608110115",
+      "published": "2026-08-11T01:15:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "US housing affordability is deteriorating: The average 30Y fixed mortgage rate rose +3 basis points last week, to 6.69%, the highest since July 2025. This marks the 5th consecutive weekly increase, with rates up +71 basis points since the Iran War began in late-February. This comes as the 10Y Treasury yield, which mortgage lenders use to price 30Y loans, has surged +70 basis points over the same period, driven by inflation concerns. On a $500,000 mortgage, this increase translates to more than +$200 in additional monthly principal and interest payments compared to late February, when rates briefly fell below 6% for the first time since 2022. The 30Y fixed mortgage rate could rise to 7% for the first time since January 2025 before year-end if current inflationary pressures persist. The US housing affordability crisis is worsening.",
+      "summary": "<p>US housing affordability is deteriorating:<br />\n<br />\nThe average 30Y fixed mortgage rate rose +3 basis points last week, to 6.69%, the highest since July 2025.<br />\n<br />\nThis marks the 5th consecutive weekly increase, with rates up +71 basis points since the Iran War began in late-February.<br />\n<br />\nThis comes as the 10Y Treasury yield, which mortgage lenders use to price 30Y loans, h",
+      "link": "https://nitter.net/KobeissiLetter/status/2086981254340088139#m",
+      "published": "2026-08-11T01:01:19+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "RBA set to hold interest rate as softer inflation shifts outlook",
       "summary": "The Reserve Bank of Australia (RBA) is on track to keep the Official Cash Rate (OCR) steady at 4.35% for the second consecutive meeting on Tuesday.",
       "link": "https://www.fxstreet.com/news/rba-set-to-hold-interest-rate-at-435-as-softer-inflation-cools-hike-bets-202608110030",
       "published": "2026-08-11T00:30:00+00:00",
@@ -28,24 +100,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vl0psv/were_constantly_learning_and_improving_together/",
       "published": "2026-08-10T23:20:28+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Colombia inflation rose 0.17% last month: government statistics agency",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9715395/Colombia-inflation-rose-017-last-month-government-statistics-agency.aspx?xy=rss",
-      "published": "2026-08-10T22:59:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Colombia's annual inflation rose to 6.03% through last month: government statistics agency",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9715394/Colombias-annual-inflation-rose-to-603-through-last-month-government-statistics-agency.aspx?xy=rss",
-      "published": "2026-08-10T22:59:52+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -93,24 +147,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia: Compute is  needed by AI labs, AI startups",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9715254/Nvidia-Compute-is--needed-by-AI-labs-AI-startups.aspx?xy=rss",
-      "published": "2026-08-10T20:50:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia CEO: No one said no to new AI financing push. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9715253/Nvidia-CEO-No-one-said-no-to-new-AI-financing-push-NVDA.aspx?xy=rss",
-      "published": "2026-08-10T20:49:54+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "my first day of trading futures prop firm. what should i do .? HELP",
@@ -136,15 +172,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-eyes-69-as-rally-extends-202608102023",
       "published": "2026-08-10T20:23:38+00:00",
       "score": 5
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia CEO: deals will support broad build out of AI. Money is all third-party capital. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9715233/Nvidia-CEO-deals-will-support-broad-build-out-of-AI-Money-is-all-third-party-capital-NVDA.aspx?xy=rss",
-      "published": "2026-08-10T20:20:51+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -244,60 +271,6 @@
       "link": "https://nitter.net/DeItaone/status/2086890124659318954#m",
       "published": "2026-08-10T18:59:12+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States: Weak payrolls and softer retail sales – TD Securities",
-      "summary": "TD Securities notes July payrolls surprised sharply to the downside, with headline jobs dragged by government hiring, while private employment stayed near breakeven.",
-      "link": "https://www.fxstreet.com/news/united-states-weak-payrolls-and-softer-retail-sales-td-securities-202608101847",
-      "published": "2026-08-10T18:47:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso rally pauses ahead of US inflation report",
-      "summary": "The Mexican Peso (MXN) loses some ground against the US Dollar (USD) on Monday as traders book profits after a worse-than-expected US jobs report last week and as eyes turn to the release of US inflation figures on Wednesday.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-rally-pauses-ahead-of-us-inflation-report-202608101836",
-      "published": "2026-08-10T18:36:23+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Breaking: Iran won't negotiate with the US until Trump's term is done",
-      "summary": "In a major setback to efforts to reopen the Strait of Hormuz and cool Middle East tensions, Iran ruled out any future negotiations with United States (US) President Donald Trump, according to Iranian outlets and a X post by an adviser to Parliament Speaker Mohammad Bagher Ghalibaf.",
-      "link": "https://www.fxstreet.com/news/breaking-iran-wont-negotiate-with-the-us-until-trumps-term-is-done-202608101811",
-      "published": "2026-08-10T18:11:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "LatAm FX: Carry window opens with caveats – BNY",
-      "summary": "BNY’s Geoff Yu and David Tam argue that a more dovish Federal Reserve (Fed) and weaker United States (US) labor data have improved conditions for Latin American (LatAm) carry trades, but broken correlations with commodities and lingering inflation risks limit momentum.",
-      "link": "https://www.fxstreet.com/news/latam-fx-carry-window-opens-with-caveats-bny-202608101809",
-      "published": "2026-08-10T18:09:37+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US President Trump says Iran should pay for regional damage",
-      "summary": "United States (US) President Donald Trump used a post on his Truth Social platform to push back on Iran's demands for war reparations, arguing that Tehran, not Washington, should carry the bill for the damage and lives lost across the region.",
-      "link": "https://www.fxstreet.com/news/us-president-trump-says-iran-should-pay-for-regional-damage-202608101806",
-      "published": "2026-08-10T18:06:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold edges higher as Hormuz delays, US CPI keep traders cautious",
-      "summary": "Gold (XAU/USD) price edges up at the beginning of the week as the reopening of the Strait of Hormuz faces delays due to demands from Iran to the US, and is capped by the modest strength of the Greenback, with traders eyeing the release of crucial US inflation data.",
-      "link": "https://www.fxstreet.com/news/gold-edges-higher-as-hormuz-delays-us-cpi-keep-traders-cautious-202608101758",
-      "published": "2026-08-10T17:58:24+00:00",
-      "score": 5
     },
     {
       "source": "Kobeissi Letter",
@@ -469,15 +442,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2086469551265284272#m",
       "published": "2026-08-09T15:08:00+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Key Events This Week: 1. July Existing Home Sales data - Tuesday 2. OPEC Monthly Report - Wednesday 3. July CPI Inflation data - Wednesday 4. July PPI Inflation data - Thursday 5. July Retail Sales data - Friday 6. August MI Consumer Sentiment data - Friday It's a big week for inflation data.",
-      "summary": "<p>Key Events This Week:<br />\n<br />\n1. July Existing Home Sales data - Tuesday<br />\n<br />\n2. OPEC Monthly Report - Wednesday<br />\n<br />\n3. July CPI Inflation data - Wednesday<br />\n<br />\n4. July PPI Inflation data - Thursday<br />\n<br />\n5. July Retail Sales data - Friday<br />\n<br />\n6. August MI Consumer Sentiment data - Friday<br />\n<br />\nIt's a big week for inflation data.</p>",
-      "link": "https://nitter.net/KobeissiLetter/status/2086462080551469257#m",
-      "published": "2026-08-09T14:38:19+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
