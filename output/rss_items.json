@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-11T22:44:53.622347+00:00",
-  "count": 66,
+  "updated_at": "2026-08-11T23:25:05.420282+00:00",
+  "count": 65,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Decline risks assessed against US Dollar – OCBC",
+      "summary": "OCBC analysts Sim Moh Siong and Christopher Wong discuss USD/SGD after its post-payroll decline, noting the pair last traded near 1.28 with bearish momentum starting to wane.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-decline-risks-assessed-against-us-dollar-ocbc-202608112307",
+      "published": "2026-08-11T23:07:00+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -19,6 +28,15 @@
       "link": "https://www.fxstreet.com/news/us-yields-ease-as-cpi-caution-offsets-oil-rally-202608112239",
       "published": "2026-08-11T22:39:56+00:00",
       "score": 3
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "The US government is ramping up hiring: Government job openings jumped +10,000 in June, to 823,000, the highest since June 2025. This marks the 4th consecutive monthly increase, totaling +98,000. Since November 2025, available vacancies in the government have surged +165,000. Meanwhile, federal government job openings rose +39,000 in June, to 139,000, the highest since October 2024. This marks the largest monthly increase since May 2024. Government hiring is soaring.",
+      "summary": "<p>The US government is ramping up hiring:<br />\n<br />\nGovernment job openings jumped +10,000 in June, to 823,000, the highest since June 2025.<br />\n<br />\nThis marks the 4th consecutive monthly increase, totaling +98,000.<br />\n<br />\nSince November 2025, available vacancies in the government have surged +165,000.<br />\n<br />\nMeanwhile, federal government job openings rose +39,000 in June, to ",
+      "link": "https://nitter.net/KobeissiLetter/status/2087307106428850579#m",
+      "published": "2026-08-11T22:36:09+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
@@ -43,7 +61,7 @@
       "category": "news",
       "title": "FinancialJuice: Amazon: OpenAI Daybreak models now accessible to qualified customers on Amazon Bedrock website",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9717061/Amazon-OpenAI-Daybreak-models-now-accessible-to-qualified-customers-on-Amazon-Bedrock-website.aspx",
+      "link": "https://www.financialjuice.com/News/9717061/Amazon-OpenAI-Daybreak-models-now-accessible-to-qualified-customers-on-Amazon-Bedrock-website.aspx?xy=rss",
       "published": "2026-08-11T21:50:14+00:00",
       "score": 1
     },
@@ -88,7 +106,7 @@
       "category": "news",
       "title": "FinancialJuice: U.S. judge halts postal service from limiting mail-in voting under Trump order: docket",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9717009/US-judge-halts-postal-service-from-limiting-mail-in-voting-under-Trump-order-docket.aspx",
+      "link": "https://www.financialjuice.com/News/9717009/US-judge-halts-postal-service-from-limiting-mail-in-voting-under-Trump-order-docket.aspx?xy=rss",
       "published": "2026-08-11T21:02:55+00:00",
       "score": 1
     },
@@ -115,17 +133,8 @@
       "category": "news",
       "title": "FinancialJuice: Senator Sanders calls on AI companies to pause development, sends letter to OpenAI, Anthropic and Meta CEOs - NYT $META",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9716947/Senator-Sanders-calls-on-AI-companies-to-pause-development-sends-letter-to-OpenAI-Anthropic-and-Meta-CEOs---NYT-META.aspx",
+      "link": "https://www.financialjuice.com/News/9716947/Senator-Sanders-calls-on-AI-companies-to-pause-development-sends-letter-to-OpenAI-Anthropic-and-Meta-CEOs---NYT-META.aspx?xy=rss",
       "published": "2026-08-11T20:09:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: -1249 mln<br />Nasdaq 100: -637 mln<br />Dow 30: -357 mln<br />Mag 7: -482 mln",
-      "link": "https://www.financialjuice.com/News/9716925/MOC-Imbalance.aspx",
-      "published": "2026-08-11T19:50:30+00:00",
       "score": 1
     },
     {
@@ -145,15 +154,6 @@
       "link": "https://www.fxstreet.com/news/chinese-yuan-measured-appreciation-with-strong-rmb-ocbc-202608111948",
       "published": "2026-08-11T19:48:00+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US CPI Prep: Inflation in Focus - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9716911/US-CPI-Prep-Inflation-in-Focus---FJElite.aspx",
-      "published": "2026-08-11T19:31:43+00:00",
-      "score": 2
     },
     {
       "source": "FXStreet",
@@ -190,15 +190,6 @@
       "link": "https://www.fxstreet.com/news/oil-strait-of-hormuz-risk-premium-commerzbank-202608111815",
       "published": "2026-08-11T18:15:21+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG pullback puts $63.50 in focus",
-      "summary": "Silver price reverses its course, drops some 2.70% on Tuesday, even though US Treasury yields and the Greenback remained steady, amid news that if the US does not comply with Iran’s demands, the Strait of Hormuz would remain closed. The XAG/USD trades at $64.77, after hitting a daily high of $66.49.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-pullback-puts-6350-in-focus-202608111755",
-      "published": "2026-08-11T17:55:08+00:00",
-      "score": 4
     },
     {
       "source": "Walter Bloomberg",
