@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-08-11T09:04:46.900890+00:00",
-  "count": 75,
+  "updated_at": "2026-08-11T10:11:37.700729+00:00",
+  "count": 59,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: RBA keeps door open – Rabobank",
+      "summary": "Rabobank's Senior Macro Strategist Bas van Geffen reports that the Australian Dollar (AUD) slipped briefly after the RBA left its policy rate unchanged, as markets interpreted the statement and downgraded growth and inflation forecasts as dovish.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-keeps-door-open-rabobank-202608110957",
+      "published": "2026-08-11T09:57:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar edges up, RBA hawkish hold does little to revive rate hike expectations",
+      "summary": "The Australian Dollar (AUD) attracts bids against its major currency peers after the Reserve Bank of Australia’s (RBA) monetary policy decision, but is still trading marginally lower at around 0.7050 against the US Dollar (USD) during the European trading session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-up-rba-hawkish-hold-does-little-to-revive-rate-hike-expectations-202608110951",
+      "published": "2026-08-11T09:51:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar remains near two-month highs against US Dollar as Oil prices rise",
+      "summary": "USD/CAD trades around 1.3935 on Tuesday at the time of writing, virtually unchanged on the day with a modest 0.03% decline.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-near-two-month-highs-against-us-dollar-as-oil-prices-rise-202608110947",
+      "published": "2026-08-11T09:47:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: Dovish repricing on data and inflation focus – BNY",
+      "summary": "John Velis at BNY Markets reiterates that he expects no Federal Reserve rate hikes this year, even as risks remain skewed to the upside.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-dovish-repricing-on-data-and-inflation-focus-bny-202608110936",
+      "published": "2026-08-11T09:36:54+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "summary": "Silver prices (XAG/USD) fell on Tuesday, according to FXStreet data. Silver trades at $64.78 per troy ounce, down 2.72% from the $66.59 it cost on Monday.",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608110931",
+      "published": "2026-08-11T09:31:05+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: German 5 Yr Bobl Yield Actual 2.93% (Forecast -, Previous 2.89%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9716102/German-5-Yr-Bobl-Yield-Actual-293-Forecast---Previous-289.aspx?xy=rss",
+      "published": "2026-08-11T09:31:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Brent: Inflation risks rise with Hormuz standoff – Deutsche Bank",
+      "summary": "Deutsche Bank strategists highlight that Brent Oil has broken above $85, closing near $88 as the Strait of Hormuz remains shut and rhetoric between the US and Iran escalates.",
+      "link": "https://www.fxstreet.com/news/brent-inflation-risks-rise-with-hormuz-standoff-deutsche-bank-202608110923",
+      "published": "2026-08-11T09:23:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Volatility sinks as carry trades hold – ING",
+      "summary": "ING’s Chris Turner notes that FX volatility is falling as investors appear comfortable with the Federal Reserve holding or potentially tightening rates in September.",
+      "link": "https://www.fxstreet.com/news/us-dollar-volatility-sinks-as-carry-trades-hold-ing-202608110905",
+      "published": "2026-08-11T09:05:42+00:00",
+      "score": 2
+    },
     {
       "source": "r/Forex",
       "category": "reddit",
@@ -16,7 +88,7 @@
       "category": "news",
       "title": "FinancialJuice: ING: The AUD - FJElite",
       "summary": "<div>The Reserve Bank of Australia left rates unchanged at 4.35% today. Some argue that the added description of the policy as 'somewhat restrictive' means that the RBA is less likely to hike in future. However, Governor Sandra Bullock proved quite hawkish at the press conference, reminding the audience that the RBA sees inflation risks as skewed to the upside and admitting that the RBA did discus",
-      "link": "https://www.financialjuice.com/News/9716066/ING-The-AUD---FJElite.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9716066/ING-The-AUD---FJElite.aspx?xy=rss",
       "published": "2026-08-11T08:46:31+00:00",
       "score": 4
     },
@@ -25,7 +97,7 @@
       "category": "news",
       "title": "FinancialJuice: Credit Ágricole: G10 FX Positions - FJElite",
       "summary": "<div><ul><li>At present, the G10 FX PIX 3.0 signals that the GBP is overbought. Subsequently, we have entered into a short GBP/USD with a target of +4% and a stop-loss of -2%. The model is down -1.20% with a hit ratio of 50% over the past twelve months.</li><li>The EUR enjoyed some buying interest last week, predominantly driven by tactical flows. Our FX flow data points at banks, corporates and r",
-      "link": "https://www.financialjuice.com/News/9716048/Credit-%c3%81gricole-G10-FX-Positions---FJElite.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9716048/Credit-%c3%81gricole-G10-FX-Positions---FJElite.aspx?xy=rss",
       "published": "2026-08-11T08:45:31+00:00",
       "score": 2
     },
@@ -52,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: UK ONS: We will decide in July 2027 whether transformed labour force survey can be transitioned as main jobs market indicator in November 2027.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9716039/UK-ONS-We-will-decide-in-July-2027-whether-transformed-labour-force-survey-can-be-transitioned-as-main-jobs-market-indicator-in-November-2027.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9716039/UK-ONS-We-will-decide-in-July-2027-whether-transformed-labour-force-survey-can-be-transitioned-as-main-jobs-market-indicator-in-November-2027.aspx?xy=rss",
       "published": "2026-08-11T08:32:33+00:00",
       "score": 1
     },
@@ -70,7 +142,7 @@
       "category": "news",
       "title": "FinancialJuice: Europe Sentiment: RBA Leaves Rates Unchanged But Remains Ready To Hike - FJElite",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9716016/Europe-Sentiment-RBA-Leaves-Rates-Unchanged-But-Remains-Ready-To-Hike---FJElite.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9716016/Europe-Sentiment-RBA-Leaves-Rates-Unchanged-But-Remains-Ready-To-Hike---FJElite.aspx?xy=rss",
       "published": "2026-08-11T08:16:12+00:00",
       "score": 1
     },
@@ -102,57 +174,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Equities: Risk sentiment holds despite oil and rates – Deutsche Bank",
-      "summary": "Deutsche Bank strategists report that US equities saw modest losses as Oil extended gains, with the S&amp;P 500 easing slightly from record highs and chipmakers leading declines. Energy and health care outperformed.",
-      "link": "https://www.fxstreet.com/news/equities-risk-sentiment-holds-despite-oil-and-rates-deutsche-bank-202608110752",
-      "published": "2026-08-11T07:52:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecasts: XAG/USD corrects lower from $67.00 resistance area",
-      "summary": "Silver (XAG/USD) trades lower on Tuesday, retreating to levels below $64.50, after rejection at seven-week highs around $66.60 on Monday.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-corrects-lower-from-6700-resistance-area-202608110745",
-      "published": "2026-08-11T07:45:40+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Upside tests but capped near 1.3555 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight that GBP/USD extended last week’s rally, but overbought conditions should confine intraday moves to a 1.3490–1.3535 band.",
-      "link": "https://www.fxstreet.com/news/british-pound-upside-tests-but-capped-near-13555-against-us-dollar-uob-202608110738",
-      "published": "2026-08-11T07:38:18+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gold buy setup",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vlan7r/gold_buy_setup/\"> <img alt=\"Gold buy setup\" src=\"https://preview.redd.it/kei3ucu18pih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5167f7cfbe5925ecfff25033c7ebf8e5c5f96e43\" title=\"Gold buy setup\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I’m targeting a 1:6 risk-to-reward long on gold, with price pulling back",
       "link": "https://www.reddit.com/r/Forex/comments/1vlan7r/gold_buy_setup/",
       "published": "2026-08-11T07:32:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc weakens as market caution lifts US Dollar",
-      "summary": "USD/CHF extends its gains for the second successive day, trading around 0.8110 during the early European hours on Tuesday. The currency pair has pushed higher as the US Dollar (USD) erased its intraday losses, fueled by a sharp rally in crude oil driven by heightened geopolitical tensions.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-market-caution-lifts-us-dollar-202608110729",
-      "published": "2026-08-11T07:29:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: BoJ tightening key to recovery against US Dollar - OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong highlight that Japan’s recent FX intervention, backed by United States (US) involvement, has not fully reversed Japanese Yen (JPY) weakness, with USD/JPY near 159 after retracing much of its post-intervention drop.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-tightening-key-to-recovery-against-us-dollar-ocbc-202608110725",
-      "published": "2026-08-11T07:25:57+00:00",
       "score": 1
     },
     {
@@ -165,54 +192,18 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound consolidates around 1.3500 vs USD; looks to US CPI, UK GDP for fresh impetus",
-      "summary": "The GBP/USD pair seesaws between tepid gains and minor losses through the early European session on Tuesday, though it remains close to the highest level since July 16 set the previous day.",
-      "link": "https://www.fxstreet.com/news/british-pound-consolidates-around-13500-vs-usd-looks-to-us-cpi-uk-gdp-for-fresh-impetus-202608110703",
-      "published": "2026-08-11T07:03:00+00:00",
-      "score": 2
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Currency Strength Chart: Strongest: JPY, CAD, USD, GBP, AUD, EUR, CHF, NZD - Weakest",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9715928/Currency-Strength-Chart-Strongest-JPY-CAD-USD-GBP-AUD-EUR-CHF-NZD---Weakest.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9715928/Currency-Strength-Chart-Strongest-JPY-CAD-USD-GBP-AUD-EUR-CHF-NZD---Weakest.aspx?xy=rss",
       "published": "2026-08-11T07:01:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9715874/Fed-Interest-Rate-Probabilities.aspx?xy=1",
-      "published": "2026-08-11T05:56:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBA's Gov. Bullock: We need slower growth and higher jobless to cool inflation",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9715873/RBAs-Gov-Bullock-We-need-slower-growth-and-higher-jobless-to-cool-inflation.aspx?xy=1",
-      "published": "2026-08-11T05:51:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBA's Gov. Bullock: Arguments for a hike include inflation still too high, and upside risks from the Middle East",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9715871/RBAs-Gov-Bullock-Arguments-for-a-hike-include-inflation-still-too-high-and-upside-risks-from-the-Middle-East.aspx?xy=1",
-      "published": "2026-08-11T05:48:23+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee falls Trump hits back with was compensation demand",
+      "title": "Indian Rupee falls as oil prices extend rally, India-US CPI data awaited",
       "summary": "The Indian Rupee (INR) opens on a cautious note against the US Dollar (USD) on Tuesday. The USD/INR pair rises further to near 95.40 as surging oil prices due to escalating fears of a prolonged global supply disruption have weakened the Indian currency.",
       "link": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-trump-demands-war-compensation-202608110452",
       "published": "2026-08-11T04:52:16+00:00",
@@ -273,33 +264,6 @@
       "score": 3
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP SAYS HE SPOKE WITH FED CHAIR WARSH President Trump says he spoke briefly with Fed Chair Kevin Warsh last week but stressed that Warsh must work with the broader Fed board. Trump suggested Warsh’s preferred policy direction could differ if he had sole control, but did not specify what action the Fed chair favors.",
-      "summary": "<p>TRUMP SAYS HE SPOKE WITH FED CHAIR WARSH<br />\n<br />\nPresident Trump says he spoke briefly with Fed Chair Kevin Warsh last week but stressed that Warsh must work with the broader Fed board.<br />\n<br />\nTrump suggested Warsh’s preferred policy direction could differ if he had sole control, but did not specify what action the Fed chair favors.</p>",
-      "link": "https://nitter.net/DeItaone/status/2086901366144782597#m",
-      "published": "2026-08-10T19:43:53+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: SPOKE TO FEDERAL RESERVE'S WARSH A COUPLE DAYS AGO",
-      "summary": "<p>TRUMP: SPOKE TO FEDERAL RESERVE'S WARSH A COUPLE DAYS AGO</p>",
-      "link": "https://nitter.net/DeItaone/status/2086899491739738250#m",
-      "published": "2026-08-10T19:36:26+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: U.S. HAS MINESWEPT THE ENTIRE STRAIT",
-      "summary": "<p>TRUMP ON IRAN: U.S. HAS MINESWEPT THE ENTIRE STRAIT</p>",
-      "link": "https://nitter.net/DeItaone/status/2086899035911213390#m",
-      "published": "2026-08-10T19:34:37+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Nvidia, $NVDA, is set to announce a $500 billion AI financing effort in partnership with Apollo, Blackstone, BlackRock, Goldman Sachs, KKR, and Brookfield, per CNBC. Details include: 1. The move comes as tech companies are increasingly looking to raise debt to finance AI projects 2. For Nvidia, the effort could help its biggest customers secure the financing needed to buy its GPUs, build data centers, and lock in long-term electricity capacity 3. The deal could be announced as soon as today, sources say The AI buildout is prompting a historic wave of debt issuance.",
@@ -318,48 +282,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: U.S. GOING TO ASK FOR MONEY FOR DAMAGE IRAN HAS DONE",
-      "summary": "<p>TRUMP ON IRAN: U.S. GOING TO ASK FOR MONEY FOR DAMAGE IRAN HAS DONE</p>",
-      "link": "https://nitter.net/DeItaone/status/2086896560458133637#m",
-      "published": "2026-08-10T19:24:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: WE STILL HAVE ABILITY TO ESCALATE",
-      "summary": "<p>TRUMP ON IRAN: WE STILL HAVE ABILITY TO ESCALATE</p>",
-      "link": "https://nitter.net/DeItaone/status/2086896468871279030#m",
-      "published": "2026-08-10T19:24:25+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: US oil prices surge over +5% to $82/barrel after President Trump says the US is now demanding compensation from Iran.",
       "summary": "<p>BREAKING: US oil prices surge over +5% to $82/barrel after President Trump says the US is now demanding compensation from Iran.</p>\n<img src=\"https://nitter.net/pic/media%2FHPYf9owWEAA1gqC.png\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2086890752588513717#m",
       "published": "2026-08-10T19:01:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: VACCINATIONS FOR HEPATITIS B, COVID-19 AND INFLUENZA, AMONG OTHERS, NO LONGER RECOMMENDED FOR ALL CHILDREN",
-      "summary": "<p>TRUMP: VACCINATIONS FOR HEPATITIS B, COVID-19 AND INFLUENZA, AMONG OTHERS, NO LONGER RECOMMENDED FOR ALL CHILDREN</p>",
-      "link": "https://nitter.net/DeItaone/status/2086890167260921939#m",
-      "published": "2026-08-10T18:59:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: ADMINISTRATION RECOGNIZING CHILDHOOD VACCINE RECOMMENDATIONS FOR ONLY 11 CORE VACCINATIONS",
-      "summary": "<p>TRUMP: ADMINISTRATION RECOGNIZING CHILDHOOD VACCINE RECOMMENDATIONS FOR ONLY 11 CORE VACCINATIONS</p>",
-      "link": "https://nitter.net/DeItaone/status/2086890124659318954#m",
-      "published": "2026-08-10T18:59:12+00:00",
       "score": 1
     },
     {
@@ -370,78 +298,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2086863376924266956#m",
       "published": "2026-08-10T17:12:55+00:00",
       "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "CFRA RAISES S&P 500 TARGET TO 8,650 CFRA raised its 12-month S&P 500 target to 8,650 from 7,730, implying nearly 12% upside from August 7. The firm also lifted its 2026 year-end target to 8,050. Strategist Sam Stovall says strong earnings continue to support equities, but rising margin debt, persistent inflation and potential Fed tightening are fueling concerns that the rally could be approaching a peak.",
-      "summary": "<p>CFRA RAISES S&amp;P 500 TARGET TO 8,650<br />\n<br />\nCFRA raised its 12-month S&amp;P 500 target to 8,650 from 7,730, implying nearly 12% upside from August 7.<br />\n<br />\nThe firm also lifted its 2026 year-end target to 8,050.<br />\n<br />\nStrategist Sam Stovall says strong earnings continue to support equities, but rising margin debt, persistent inflation and potential Fed tightening are fue",
-      "link": "https://nitter.net/DeItaone/status/2086862723359429071#m",
-      "published": "2026-08-10T17:10:19+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. REVOKES MORE THAN 175,000 VISAS The State Department says it has revoked over 175,000 visas since President Trump took office as part of a broader immigration enforcement push. Revocations targeted foreign nationals accused of crimes, fraud, visa violations, threats to national security or calls for violence against Americans. Most cancellations followed law-enforcement encounters, with assault, DUI, theft and drug offenses among the leading reasons.",
-      "summary": "<p>U.S. REVOKES MORE THAN 175,000 VISAS<br />\n<br />\nThe State Department says it has revoked over 175,000 visas since President Trump took office as part of a broader immigration enforcement push.<br />\n<br />\nRevocations targeted foreign nationals accused of crimes, fraud, visa violations, threats to national security or calls for violence against Americans.<br />\n<br />\nMost cancellations follo",
-      "link": "https://nitter.net/DeItaone/status/2086861730286612618#m",
-      "published": "2026-08-10T17:06:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP EXTENDS JONES ACT SHIPPING WAIVER President Trump extended the Jones Act shipping waiver for another 90 days while narrowing its scope. The exemption will now focus on energy commodities and fertilizer. The Pentagon and U.S. maritime authorities will also consider additional relief on a case-by-case basis.",
-      "summary": "<p>TRUMP EXTENDS JONES ACT SHIPPING WAIVER<br />\n<br />\nPresident Trump extended the Jones Act shipping waiver for another 90 days while narrowing its scope.<br />\n<br />\nThe exemption will now focus on energy commodities and fertilizer.<br />\n<br />\nThe Pentagon and U.S. maritime authorities will also consider additional relief on a case-by-case basis.</p>",
-      "link": "https://nitter.net/DeItaone/status/2086861018936832008#m",
-      "published": "2026-08-10T17:03:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$NVDA - NVIDIA SHARES EXTEND DECLINES; REPORT SAYS WALL STREET GIANTS PARTNER WITH CO ON $500 BLN AI FINANCING DEAL, LAST DOWN 3.2%",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - NVIDIA SHARES EXTEND DECLINES; REPORT SAYS WALL STREET GIANTS PARTNER WITH CO ON $500 BLN AI FINANCING DEAL, LAST DOWN 3.2%</p>",
-      "link": "https://nitter.net/DeItaone/status/2086855015382073598#m",
-      "published": "2026-08-10T16:39:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP DEMANDS IRAN COMPENSATION IN FUTURE TALKS President Trump says he has instructed U.S. negotiators to demand compensation from Iran in all future negotiations. The move comes after Tehran reportedly sought compensation for damage suffered during the five-month conflict. Trump said Washington’s demands should cover Americans killed or wounded in past Iran-linked conflicts, as well as victims of Iranian government crackdowns.",
-      "summary": "<p>TRUMP DEMANDS IRAN COMPENSATION IN FUTURE TALKS<br />\n<br />\nPresident Trump says he has instructed U.S. negotiators to demand compensation from Iran in all future negotiations.<br />\n<br />\nThe move comes after Tehran reportedly sought compensation for damage suffered during the five-month conflict.<br />\n<br />\nTrump said Washington’s demands should cover Americans killed or wounded in past I",
-      "link": "https://nitter.net/DeItaone/status/2086853610940383410#m",
-      "published": "2026-08-10T16:34:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: I AM LIKEWISE DEMANDING COMPENSATION FROM IRAN",
-      "summary": "<p>TRUMP: I AM LIKEWISE DEMANDING COMPENSATION FROM IRAN</p>",
-      "link": "https://nitter.net/DeItaone/status/2086853280873717774#m",
-      "published": "2026-08-10T16:32:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: IRAN ARE ASKING FOR COMPENSATION FOR DAMAGE DONE TO THEM DURING LAST FIVE MONTH MILITARY CONFLICT",
-      "summary": "<p>TRUMP: IRAN ARE ASKING FOR COMPENSATION FOR DAMAGE DONE TO THEM DURING LAST FIVE MONTH MILITARY CONFLICT</p>",
-      "link": "https://nitter.net/DeItaone/status/2086853249965969738#m",
-      "published": "2026-08-10T16:32:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$NVDA - NVIDIA TEAMS WITH WALL STREET ON $500BN AI FINANCING PUSH Nvidia is partnering with a consortium of Wall Street investment giants on a $500 billion AI financing initiative, according to the Financial Times. The group reportedly includes Apollo, Blackstone, a BlackRock unit, Brookfield, Goldman Sachs and KKR. The partnership highlights the enormous capital requirements behind the expansion of AI infrastructure.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - NVIDIA TEAMS WITH WALL STREET ON $500BN AI FINANCING PUSH<br />\n<br />\nNvidia is partnering with a consortium of Wall Street investment giants on a $500 billion AI financing initiative, according to the Financial Times.<br />\n<br />\nThe group reportedly includes Apollo, Blackstone, a BlackRock unit, Brookfield, Goldman Sach",
-      "link": "https://nitter.net/DeItaone/status/2086852250245214425#m",
-      "published": "2026-08-10T16:28:42+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
