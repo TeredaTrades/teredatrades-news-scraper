@@ -1,7 +1,151 @@
 {
-  "updated_at": "2026-08-12T06:15:50.123084+00:00",
-  "count": 60,
+  "updated_at": "2026-08-12T07:59:24.667899+00:00",
+  "count": 71,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar trims gains, US Dollar firms up ahead of US CPI numbers",
+      "summary": "Canadian Dollar (CAD) ticks down from two-month highs as the US Dollar (USD) firms up across the board, with investors bracing for the US Consumer Price Index (CPI) report due later in the day.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trims-gains-us-dollar-firms-up-ahead-of-us-cpi-numbers-202608120757",
+      "published": "2026-08-12T07:57:25+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen remains under pressure against US Dollar, US CPI data eyed",
+      "summary": "The Japanese Yen (JPY) trades cautiously against the US Dollar (USD) during the European trading session on Wednesday, with the USD/JPY edging up to near 159.36.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-remains-under-pressure-against-us-dollar-us-cpi-data-eyed-202608120756",
+      "published": "2026-08-12T07:56:32+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "CEE FX: Geopolitics drives rates and currencies – ING",
+      "summary": "ING strategist Frantisek Taborsky highlights easing Romanian inflation driven mainly by base effects, with the National Bank of Romania unlikely to cut rates before early 2027.",
+      "link": "https://www.fxstreet.com/news/cee-fx-geopolitics-drives-rates-and-currencies-ing-202608120739",
+      "published": "2026-08-12T07:39:36+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro remains subdued following German inflation data",
+      "summary": "EUR/USD extends its losses for the third successive day, trading around 1.1540 during the European hours on Wednesday. The pair holds losses as the Euro (EUR) remains weaker following the release of Germany’s Harmonized Index of Consumer Prices (HICP) data.",
+      "link": "https://www.fxstreet.com/news/euro-remains-subdued-following-german-inflation-data-202608120737",
+      "published": "2026-08-12T07:37:22+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Limited upside within defined band against US Dollar – UOB",
+      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann highlight that GBP/USD closed marginally higher near 1.3510, with price action confined to a narrow 1.3493–1.3515 range. Intraday, they see scope for the Pound to edge higher but still capped within 1.3490–1.3535.",
+      "link": "https://www.fxstreet.com/news/british-pound-limited-upside-within-defined-band-against-us-dollar-uob-202608120731",
+      "published": "2026-08-12T07:31:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "NZD/USD Price Forecast: Nearing 0.5860 support area amid by risk-off markets, domestic politics",
+      "summary": "The New Zealand Dollar (NZD) accelerates its reversal against the US Dollar (USD) on Wednesday, weighed by cautious markets amid growing tensions in the Middle East and political uncertainty at home.",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-nearing-05860-support-area-amid-by-risk-off-markets-domestic-politics-202608120716",
+      "published": "2026-08-12T07:16:06+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: Constructive carry outlook with RBA on hold – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note the Reserve Bank of Australia (RBA) kept rates unchanged at 4.35% but retained a modest tightening bias, with the Board having actively considered a hike.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-constructive-carry-outlook-with-rba-on-hold-ocbc-202608120707",
+      "published": "2026-08-12T07:07:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Currency Strength Chart: Strongest: GBP, USD, AUD, CAD, NZD, JPY, CHF, NZD - Weakest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9717574/Currency-Strength-Chart-Strongest-GBP-USD-AUD-CAD-NZD-JPY-CHF-NZD---Weakest.aspx?xy=rss",
+      "published": "2026-08-12T07:01:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Extends the range play near 0.7050; bulls await 50% Fibo. breakout",
+      "summary": "The AUD/USD pair prolongs its consolidative price move for the third straight day and trades around mid-0.7000s through the early European session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-extends-the-range-play-near-07050-bulls-await-50-fibo-breakout-202608120650",
+      "published": "2026-08-12T06:50:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Policy focus after intervention - MUFG",
+      "summary": "MUFG’s Teppei Ino reviews recent USD/JPY price action following coordinated Japan-US intervention. The pair opened near 157.58, dropped toward 155.20 on official confirmation of joint action, then recovered and traded above 158 by 7 August.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-focus-after-intervention-mufg-202608120649",
+      "published": "2026-08-12T06:49:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "GBP/USD Price Forecast: Continues to remain flat ahead of US CPI data",
+      "summary": "The British Pound (GBP) remains in a limited range at around 1.3500 against the US Dollar (USD) during the European trading session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-continues-to-remain-flat-ahead-of-us-cpi-data-202608120647",
+      "published": "2026-08-12T06:47:27+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: Crucial US inflation data to lift market volatility",
+      "summary": "Here is what you need to know on Wednesday, August 12:",
+      "link": "https://www.fxstreet.com/news/forex-today-crucial-us-inflation-data-to-lift-market-volatility-202608120645",
+      "published": "2026-08-12T06:45:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: CPI and Fed rhetoric in focus – Commerzbank",
+      "summary": "Commerzbank analysts highlight cautious positioning in the Dollar ahead of July US CPI, with the Dollar Index steady near 99.83 and EUR/USD around 1.1540.",
+      "link": "https://www.fxstreet.com/news/us-dollar-cpi-and-fed-rhetoric-in-focus-commerzbank-202608120637",
+      "published": "2026-08-12T06:37:04+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro trims losses against the British Pound following hot German inflation data",
+      "summary": "The Euro (EUR) has picked up from session lows against the British Pound (GBP) on Wednesday as hot German inflation figures have partially offset a mild risk-off sentiment, amid flaring tensions in the Middle East.",
+      "link": "https://www.fxstreet.com/news/euro-trims-losses-against-the-british-pound-following-hot-german-inflation-data-202608120629",
+      "published": "2026-08-12T06:29:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Can Buyers Push Gold Above 4415 Next?",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vm64hn/can_buyers_push_gold_above_4415_next/\"> <img alt=\"Can Buyers Push Gold Above 4415 Next?\" src=\"https://preview.redd.it/6ocv580u0wih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=31ff7e86b68446a043c6888b0f1ca7556430e27c\" title=\"Can Buyers Push Gold Above 4415 Next?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The ",
+      "link": "https://www.reddit.com/r/Forex/comments/1vm64hn/can_buyers_push_gold_above_4415_next/",
+      "published": "2026-08-12T06:24:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Upside capped by key resistance against US Dollar – UOB",
+      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann report EUR/USD holding near 1.1540 after a quiet session, with momentum indicators mostly flat. Intraday, they expect consolidation between 1.1530 and 1.1560, but a break above 1.1560 could trigger a quick move to 1.1580.",
+      "link": "https://www.fxstreet.com/news/euro-upside-capped-by-key-resistance-against-us-dollar-uob-202608120622",
+      "published": "2026-08-12T06:22:44+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -21,24 +165,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: German CPI Final MoM Actual 0.8% (Forecast 0.8%, Previous 0.8%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9717494/German-CPI-Final-MoM-Actual-08-Forecast-08-Previous-08.aspx?xy=rss",
-      "published": "2026-08-12T06:00:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: German CPI Final YoY Actual 2.8% (Forecast 2.8%, Previous 2.8%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9717493/German-CPI-Final-YoY-Actual-28-Forecast-28-Previous-28.aspx?xy=rss",
-      "published": "2026-08-12T06:00:04+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Euro trades with caution against US Dollar in countdown to US CPI data",
@@ -50,73 +176,10 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee falls further as oil prices extend surge, India-US CPI awaited",
+      "title": "Indian Rupee trades lower ahead of India-US CPI data",
       "summary": "The Indian Rupee (INR) extends its decline against the US Dollar (USD) on Wednesday as the former continues to face pressure due to surging oil prices.",
       "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-extend-surge-india-us-cpi-awaited-202608120529",
       "published": "2026-08-12T05:29:36+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "summary": "Gold prices rose in India on Wednesday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608120435",
-      "published": "2026-08-12T04:35:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index rises to near 100.00 ahead of US inflation data",
-      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is extending gains for the third successive day and trading around 99.90 during the Asian hours on Wednesday.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-to-near-10000-ahead-of-us-inflation-data-202608120403",
-      "published": "2026-08-12T04:03:32+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD rises to near $65.40 with US inflation in focus",
-      "summary": "Silver price (XAG/USD) trades 1.1% higher at around $65.40 during the Asian trading session on Wednesday. The white metal reflects strength ahead of the United States (US) Consumer Price Index (CPI) data for July, which will be published at 12:30 GMT.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6540-with-us-inflation-in-focus-202608120322",
-      "published": "2026-08-12T03:22:54+00:00",
-      "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar eases from two-month high as USD preserves weekly gains ahead of US CPI",
-      "summary": "The USD/CAD pair ticks higher during the Asian session on Wednesday, snapping a three-day losing streak to the 1.3915 area or its lowest level since June 10. Spot prices, however, lack bullish conviction and trade around 1.3930, awaiting the release of the latest US inflation figures.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-eases-from-two-month-high-as-usd-preserves-weekly-gains-ahead-of-us-cpi-202608120317",
-      "published": "2026-08-12T03:17:52+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar struggles as US Dollar gains on Middle East uncertainty",
-      "summary": "NZD/USD continues its losing streak for the third consecutive day, trading around 0.5870 during the Asian hours on Wednesday. The pair depreciates as the US Dollar (USD) gains ground on increased safe-haven demand amid rising uncertainty surrounding Middle East peace talks.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-as-us-dollar-gains-on-middle-east-uncertainty-202608120308",
-      "published": "2026-08-12T03:08:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar slips as US Dollar strengthens amid uncertainty over Fed outlook",
-      "summary": "AUD/USD depreciates after registering modest gains in the previous day, trading around 0.7060 during the Asian hours on Wednesday. The currency pair loses ground as the US Dollar (USD) rises ahead of a crucial inflation report.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-us-dollar-strengthens-amid-uncertainty-over-fed-outlook-202608120233",
-      "published": "2026-08-12T02:33:07+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen slides to two-week low, seems vulnerable as USD stands firm ahead of US CPI",
-      "summary": "The USD/JPY pair touches a one-and-a-half-week high during the Asian session on Wednesday, with bulls now looking to build on the momentum further beyond mid-159.00s amid a supportive fundamental backdrop.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-slides-to-two-week-low-seems-vulnerable-as-usd-stands-firm-ahead-of-us-cpi-202608120228",
-      "published": "2026-08-12T02:28:10+00:00",
       "score": 2
     },
     {
@@ -131,47 +194,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound loses as rising US Dollar, geopolitical tensions weigh on sentiment",
-      "summary": "GBP/USD inches lower after remaining flat in the previous day, trading around 1.3500 during the Asian hours on Wednesday. The currency pair continues to hold its losses as the US Dollar (USD) gains strength ahead of a crucial inflation report.",
-      "link": "https://www.fxstreet.com/news/british-pound-loses-as-rising-us-dollar-geopolitical-tensions-weigh-on-sentiment-202608120155",
-      "published": "2026-08-12T01:55:40+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold pares intraday gains as Fed hike bets and Iran risks support USD ahead of US CPI",
-      "summary": "Gold (XAU/USD) trims a part of its intraday gains and trades below the $4,400 mark heading into the European session on Wednesday, still up 0.50% for the day.",
+      "title": "Gold sits near two-month top, above $4,400 as traders eye US CPI for Fed cues",
+      "summary": "Gold (XAU/USD) maintains its bid tone above the $4,400 mark through the first half of the European session and remains close to the highest level since June 5, touched on Tuesday.",
       "link": "https://www.fxstreet.com/news/gold-trades-with-positive-bias-below-4-400-fed-hike-bets-cap-gains-ahead-of-us-cpi-202608120138",
       "published": "2026-08-12T01:38:52+00:00",
       "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Experts split on whether next RBA move is a hike or cut amid energy risks",
-      "summary": "The Reserve Bank of Australia (RBA) unanimously held rates at 4.35% in August, but major economic forecasters offer varying takes on what comes next:",
-      "link": "https://www.fxstreet.com/news/banks-split-on-whether-next-rba-move-is-a-hike-or-cut-amid-energy-risks-202608120115",
-      "published": "2026-08-12T01:15:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7882 vs. 6.7900 previous",
-      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7882 compared to the previous day's fix of 6.7900 and 6.7430 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67882-vs-67900-previous-202608120115",
-      "published": "2026-08-12T01:15:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro consolidates below mid-1.1500s vs USD ahead of German HICP, US CPI",
-      "summary": "The EUR/USD pair struggles to gain any meaningful traction and holds steady around mid-1.1500s during the Asian session on Wednesday, within a familiar range held over the past week or so.",
-      "link": "https://www.fxstreet.com/news/euro-consolidates-below-mid-11500s-vs-usd-ahead-of-german-hicp-us-cpi-202608120108",
-      "published": "2026-08-12T01:08:56+00:00",
-      "score": 2
     },
     {
       "source": "Kobeissi Letter",
@@ -201,30 +228,21 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Decline risks assessed against US Dollar – OCBC",
-      "summary": "OCBC analysts Sim Moh Siong and Christopher Wong discuss USD/SGD after its post-payroll decline, noting the pair last traded near 1.28 with bearish momentum starting to wane.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-decline-risks-assessed-against-us-dollar-ocbc-202608112307",
-      "published": "2026-08-11T23:07:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Australian Dollar goes seven weeks without a central bank",
-      "summary": "AUD/USD trades just above 0.7050 on Tuesday August 11, a tenth of a percent firmer inside a 29-pip range, having taken the Reserve Bank of Australia (RBA) decision entirely in its stride.",
-      "link": "https://www.fxstreet.com/news/the-australian-dollar-goes-seven-weeks-without-a-central-bank-202608112244",
-      "published": "2026-08-11T22:44:18+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "The US government is ramping up hiring: Government job openings jumped +10,000 in June, to 823,000, the highest since June 2025. This marks the 4th consecutive monthly increase, totaling +98,000. Since November 2025, available vacancies in the government have surged +165,000. Meanwhile, federal government job openings rose +39,000 in June, to 139,000, the highest since October 2024. This marks the largest monthly increase since May 2024. Government hiring is soaring.",
       "summary": "<p>The US government is ramping up hiring:<br />\n<br />\nGovernment job openings jumped +10,000 in June, to 823,000, the highest since June 2025.<br />\n<br />\nThis marks the 4th consecutive monthly increase, totaling +98,000.<br />\n<br />\nSince November 2025, available vacancies in the government have surged +165,000.<br />\n<br />\nMeanwhile, federal government job openings rose +39,000 in June, to ",
       "link": "https://nitter.net/KobeissiLetter/status/2087307106428850579#m",
       "published": "2026-08-11T22:36:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: MEDICAID WILL NO LONGER FUND GENDER TRANSITION SURGERIES AND HORMONES FOR MINORS",
+      "summary": "<p>TRUMP: MEDICAID WILL NO LONGER FUND GENDER TRANSITION SURGERIES AND HORMONES FOR MINORS</p>",
+      "link": "https://nitter.net/DeItaone/status/2087288717618651597#m",
+      "published": "2026-08-11T21:23:04+00:00",
       "score": 1
     },
     {
@@ -237,12 +255,93 @@
       "score": 4
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ETHEREUM BUYERS ACCUMULATE AHEAD OF CPI Investors are accumulating Ethereum ahead of Wednesday’s U.S. CPI report, according to Nansen. Managed money is reportedly buying ETH on spot markets at 7.2 times its normal pace. Meanwhile, sophisticated traders remain net short Bitcoin and Ethereum derivatives, signaling caution over inflation and potential rate hikes. Ethereum fell 0.9% to $1,862, while Bitcoin dropped 1% to $63,455.",
+      "summary": "<p>ETHEREUM BUYERS ACCUMULATE AHEAD OF CPI<br />\n<br />\nInvestors are accumulating Ethereum ahead of Wednesday’s U.S. CPI report, according to Nansen.<br />\n<br />\nManaged money is reportedly buying ETH on spot markets at 7.2 times its normal pace.<br />\n<br />\nMeanwhile, sophisticated traders remain net short Bitcoin and Ethereum derivatives, signaling caution over inflation and potential rate hi",
+      "link": "https://nitter.net/DeItaone/status/2087229936939807075#m",
+      "published": "2026-08-11T17:29:30+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BARCLAYS SEES TREASURY YIELDS STAYING HIGH Barclays says growing reliance on price-sensitive private investors could keep long-term U.S. Treasury yields near multi-decade highs. Private investors now hold about 73% of the Treasury market, up from roughly 50% a decade ago. With Fed and foreign central-bank demand declining, investors are demanding higher returns to absorb rising debt supply amid persistent inflation and budget deficits. The 30-year yield recently approached 5.28%.",
+      "summary": "<p>BARCLAYS SEES TREASURY YIELDS STAYING HIGH<br />\n<br />\nBarclays says growing reliance on price-sensitive private investors could keep long-term U.S. Treasury yields near multi-decade highs.<br />\n<br />\nPrivate investors now hold about 73% of the Treasury market, up from roughly 50% a decade ago.<br />\n<br />\nWith Fed and foreign central-bank demand declining, investors are demanding higher re",
+      "link": "https://nitter.net/DeItaone/status/2087219680272400787#m",
+      "published": "2026-08-11T16:48:45+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. RAISES OIL PRICE FORECAST ON HORMUZ DISRUPTION U.S. energy officials expect Strait of Hormuz constraints to persist through August, limiting oil flows. The EIA raised its 2026 Brent crude forecast to $87 a barrel from $82 and lifted its U.S. gasoline estimate to $3.78 a gallon. Despite President Trump saying the strait is open, only eight vessels crossed Monday, versus roughly 120 before the war.",
+      "summary": "<p>U.S. RAISES OIL PRICE FORECAST ON HORMUZ DISRUPTION<br />\n<br />\nU.S. energy officials expect Strait of Hormuz constraints to persist through August, limiting oil flows.<br />\n<br />\nThe EIA raised its 2026 Brent crude forecast to $87 a barrel from $82 and lifted its U.S. gasoline estimate to $3.78 a gallon.<br />\n<br />\nDespite President Trump saying the strait is open, only eight vessels cros",
+      "link": "https://nitter.net/DeItaone/status/2087214679625974113#m",
+      "published": "2026-08-11T16:28:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED'S GOOLSBEE: BIGGEST PROBLEM FACING THE ECONOMY IS INFLATION",
+      "summary": "<p>FED'S GOOLSBEE: BIGGEST PROBLEM FACING THE ECONOMY IS INFLATION</p>",
+      "link": "https://nitter.net/DeItaone/status/2087213624897012207#m",
+      "published": "2026-08-11T16:24:41+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED'S GOOLSBEE ON WIRED: PRICES AND AFFORDABILITY, THAT'S THE BIGGEST PROBLEM WE ARE FACING RIGHT NOW",
+      "summary": "<p>FED'S GOOLSBEE ON WIRED: PRICES AND AFFORDABILITY, THAT'S THE BIGGEST PROBLEM WE ARE FACING RIGHT NOW</p>",
+      "link": "https://nitter.net/DeItaone/status/2087213441152844137#m",
+      "published": "2026-08-11T16:23:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "RUSSIA RELEASES FORMER U.S. MARINE AFTER TRUMP-PUTIN TALKS President Trump says Russia has agreed to release American citizen and former U.S. Marine Robert Gilman following discussions with President Vladimir Putin. Trump said Russia requested no prisoner in exchange for Gilman’s release. Gilman, who had been imprisoned in Russia, is expected to arrive in Washington, D.C., Tuesday night.",
+      "summary": "<p>RUSSIA RELEASES FORMER U.S. MARINE AFTER TRUMP-PUTIN TALKS<br />\n<br />\nPresident Trump says Russia has agreed to release American citizen and former U.S. Marine Robert Gilman following discussions with President Vladimir Putin.<br />\n<br />\nTrump said Russia requested no prisoner in exchange for Gilman’s release.<br />\n<br />\nGilman, who had been imprisoned in Russia, is expected to arrive in ",
+      "link": "https://nitter.net/DeItaone/status/2087211261108826284#m",
+      "published": "2026-08-11T16:15:17+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Trump Media says more than 10 customers have signed up for \"Truth API\" which provides faster access to President Trump's Truth Social posts. The earliest customers are mostly high-frequency trading firms who are being charged between $60,000 and $100,000 per month.",
       "summary": "<p>BREAKING: Trump Media says more than 10 customers have signed up for \"Truth API\" which provides faster access to President Trump's Truth Social posts.<br />\n<br />\nThe earliest customers are mostly high-frequency trading firms who are being charged between $60,000 and $100,000 per month.</p>",
       "link": "https://nitter.net/KobeissiLetter/status/2087207415452193088#m",
       "published": "2026-08-11T16:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP THREATENS FEDERAL ACTION OVER NYC TAXES President Trump criticized New York City’s pied-à-terre tax and congestion pricing, arguing they are driving residents and tax revenue to states such as Florida and Texas. Trump warned the policies could cause financial and social damage to New York. He said his administration is examining whether the federal government has legal authority to intervene and stop the measures.",
+      "summary": "<p>TRUMP THREATENS FEDERAL ACTION OVER NYC TAXES<br />\n<br />\nPresident Trump criticized New York City’s pied-à-terre tax and congestion pricing, arguing they are driving residents and tax revenue to states such as Florida and Texas.<br />\n<br />\nTrump warned the policies could cause financial and social damage to New York.<br />\n<br />\nHe said his administration is examining whether the federal g",
+      "link": "https://nitter.net/DeItaone/status/2087202679189622964#m",
+      "published": "2026-08-11T15:41:11+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: LOOKING TO SEE IF FEDERAL GOVERNMENT HAS ANY LEGAL RIGHT TO AVERT MAMDANI'S NEW YORK CITY PIED-A-TIERRE TAX",
+      "summary": "<p>TRUMP: LOOKING TO SEE IF FEDERAL GOVERNMENT HAS ANY LEGAL RIGHT TO AVERT MAMDANI'S NEW YORK CITY PIED-A-TIERRE TAX</p>",
+      "link": "https://nitter.net/DeItaone/status/2087202481046487485#m",
+      "published": "2026-08-11T15:40:24+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$NVDA - NVIDIA’S $500 BILLION AI FINANCING PLAN DIVIDES WALL STREET Nvidia unveiled partnerships with six financial firms to provide up to $500 billion in financing for customers buying its chips. CEO Jensen Huang says the structure addresses concerns over “circular financing” by shifting capital commitments away from Nvidia. Bank of America and Morgan Stanley welcomed the move, while Wells Fargo and Mizuho remain skeptical about Nvidia’s exposure and whether underlying AI demand can justify the massive investment.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - NVIDIA’S $500 BILLION AI FINANCING PLAN DIVIDES WALL STREET<br />\n<br />\nNvidia unveiled partnerships with six financial firms to provide up to $500 billion in financing for customers buying its chips.<br />\n<br />\nCEO Jensen Huang says the structure addresses concerns over “circular financing” by shifting capital commitmen",
+      "link": "https://nitter.net/DeItaone/status/2087200271403286921#m",
+      "published": "2026-08-11T15:31:37+00:00",
       "score": 1
     },
     {
