@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-08-12T21:04:09.346369+00:00",
-  "count": 71,
+  "updated_at": "2026-08-12T22:03:09.831380+00:00",
+  "count": 75,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro reverses from two-day high, fade US soft CPI move",
+      "summary": "The Euro reversed course after reaching a two-day high of 1.1563, following the release of a benign US inflation report for July, which triggered a repricing for a less “hawkish” Federal Reserve, throughout 2026.",
+      "link": "https://www.fxstreet.com/news/euro-reverses-from-two-day-high-fade-us-soft-cpi-move-202608122158",
+      "published": "2026-08-12T21:58:54+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Credit softness may spur PBoC easing – Commerzbank",
+      "summary": "Commerzbank’s Charlie Lay and Dr. Henry Hao point out USD/CNY is stable around 6.75, with their model implying a slightly stronger PBoC fix.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-credit-softness-may-spur-pboc-easing-commerzbank-202608122154",
+      "published": "2026-08-12T21:54:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump signed memo authorizing U.S. law enforcement to deploy cyber tools to disrupt criminal groups in foreign jurisdictions: White House",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9718698/Trump-signed-memo-authorizing-US-law-enforcement-to-deploy-cyber-tools-to-disrupt-criminal-groups-in-foreign-jurisdictions-White-House.aspx?xy=1",
+      "published": "2026-08-12T21:45:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Venezuela inflation rate hits 19.9% in July: central bank",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9718695/Venezuela-inflation-rate-hits-199-in-July-central-bank.aspx?xy=1",
+      "published": "2026-08-12T21:37:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso rallies to two-year high as soft CPI hits Fed bets",
+      "summary": "The Mexican Peso (MXN) appreciates on Wednesday against the US Dollar (USD) to levels last seen in May 2024 following a decline in US inflation, as markets expected, softer-than-expected, which trims bets of a rate hike by the Federal Reserve (Fed) in its next meeting.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rallies-to-two-year-high-as-soft-cpi-hits-fed-bets-202608122134",
+      "published": "2026-08-12T21:34:32+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar slips as Middle East uncertainty weighs on Kiwi",
+      "summary": "NZD/USD is trading near 0.5860, down over 0.30% on Wednesday and falling for the third consecutive day.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slips-as-middle-east-uncertainty-weighs-on-kiwi-202608122123",
+      "published": "2026-08-12T21:23:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Upside risk builds against US Dollar – UOB",
+      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann note that USD/SGD closed little changed around 1.2800, with the S$NEER trading 1.7% above its mid-point and implying a 1.2760–1.2822 range.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-builds-against-us-dollar-uob-202608122112",
+      "published": "2026-08-12T21:12:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "Institutional investors are dumping US tech equities: Hedge funds, asset managers, and other institutional investors sold -$21.6 billion of Nasdaq futures during the week ending August 4th, the largest weekly sale on record, according to Goldman Sachs. Short sales dominated the move, accounting for 72% of total sales. Hedge funds sold -$11.9 billion over this period while asset managers sold -$7.4 billion. As a result, combined institutional investor positioning in Nasdaq futures fell to -$5 billion, turning negative for the first time since May 2025. By comparison, this figure was as high as +$54 billion in October 2025. Institutional investors are selling into market strength.",
+      "summary": "<p>Institutional investors are dumping US tech equities:<br />\n<br />\nHedge funds, asset managers, and other institutional investors sold -$21.6 billion of Nasdaq futures during the week ending August 4th, the largest weekly sale on record, according to Goldman Sachs.<br />\n<br />\nShort sales dominated the move, accounting for 72% of total sales.<br />\n<br />\nHedge funds sold -$11.9 billion over t",
+      "link": "https://nitter.net/KobeissiLetter/status/2087646086882304184#m",
+      "published": "2026-08-12T21:03:08+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -228,24 +300,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver jumps more than 2% after US inflation meets expectations",
-      "summary": "Silver (XAG/USD) accelerates its advance on Wednesday and trades around $66.00 at the time of writing, up 2.18% on the day.",
-      "link": "https://www.fxstreet.com/news/silver-jumps-more-than-2-after-us-inflation-meets-expectations-202608121505",
-      "published": "2026-08-12T15:05:25+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Bearish momentum extends after CPI – TD Securities",
-      "summary": "TD Securities strategists note that July US inflation came in broadly in line with expectations, with headline CPI rising 0.1% m/m and core CPI increasing 0.2% m/m.",
-      "link": "https://www.fxstreet.com/news/us-dollar-bearish-momentum-extends-after-cpi-td-securities-202608121504",
-      "published": "2026-08-12T15:04:27+00:00",
-      "score": 2
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "*TRUMP SUED OVER PLAN TO SELL FAST ACCESS TO TRUTH SOCIAL POSTS",
@@ -262,15 +316,6 @@
       "link": "https://nitter.net/DeItaone/status/2087554844638765550#m",
       "published": "2026-08-12T15:00:34+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "President Trump says US has \"total control\" of Hormuz",
-      "summary": "United States (US) President Donald Trump used a post on Truth Social to declare that the US has \"total control\" over the Strait of Hormuz on Wednesday., Trump boasted about the American naval presence near the Persian Gulf, which he described as \"a wall of steel\".",
-      "link": "https://www.fxstreet.com/news/president-trump-says-us-has-total-control-of-hormuz-202608121455",
-      "published": "2026-08-12T14:55:15+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -441,15 +486,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vlitc6/eurusd/\"> <img alt=\"EURUSD\" src=\"https://preview.redd.it/s63lk3ow8rih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2342a2ff8c147ff2fa28813584054c62e4c7d868\" title=\"EURUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>EURUSD change of character confirmed. How many of u have u are trading this today </p> </div><!--",
       "link": "https://www.reddit.com/r/Forex/comments/1vlitc6/eurusd/",
       "published": "2026-08-11T14:20:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Retail investors are rushing back into gold: The largest US physical-gold backed ETF, $GLD, attracted +$50 million in retail inflows on Wednesday, the largest daily inflow since March. This was also twice the previous largest daily inflow recorded since early April. Overall, $GLD attracted +$637 million in inflows on Wednesday, the largest daily inflow since June 18th. Subsequently, the fund posted +$77 million and +$431 million in inflows on Thursday and Friday, respectively. So far in August, investors have added +$1.4 billion to $GLD, putting the ETF on track for its first monthly inflow since February. Investor appetite for gold is back.",
-      "summary": "<p>Retail investors are rushing back into gold:<br />\n<br />\nThe largest US physical-gold backed ETF, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GLD\">$GLD</a>, attracted +$50 million in retail inflows on Wednesday, the largest daily inflow since March.<br />\n<br />\nThis was also twice the previous largest daily inflow recorded since early April.<br />\n<br />\nOverall, <a href=\"https://nit",
-      "link": "https://nitter.net/KobeissiLetter/status/2087178961675538473#m",
-      "published": "2026-08-11T14:06:57+00:00",
       "score": 1
     },
     {
