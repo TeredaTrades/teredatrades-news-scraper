@@ -1,32 +1,167 @@
 {
-  "updated_at": "2026-08-12T14:06:24.971302+00:00",
-  "count": 88,
+  "updated_at": "2026-08-12T15:14:30.723003+00:00",
+  "count": 75,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Google raises prices of new phones on \"severe\" memory crunch. $GOOGL",
-      "summary": "<div><ul><li>Debuts Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold smartphones.</li><li>New smartphones start at $899, while the foldable starts at $1,899.</li><li>New phones are $100 more expensive than the previous generation, citing a “severe” memory crunch.</li><li>Announces upgraded Pixel Watch 5 starting at $399.</li><li>New wearables will track insulin resistance, a first for",
-      "link": "https://www.financialjuice.com/News/9718178/Google-raises-prices-of-new-phones-on-severe-memory-crunch-GOOGL.aspx",
-      "published": "2026-08-12T14:02:27+00:00",
+      "title": "Silver jumps more than 2% after US inflation meets expectations",
+      "summary": "Silver (XAG/USD) accelerates its advance on Wednesday and trades around $66.00 at the time of writing, up 2.18% on the day.",
+      "link": "https://www.fxstreet.com/news/silver-jumps-more-than-2-after-us-inflation-meets-expectations-202608121505",
+      "published": "2026-08-12T15:05:25+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Bearish momentum extends after CPI – TD Securities",
+      "summary": "TD Securities strategists note that July US inflation came in broadly in line with expectations, with headline CPI rising 0.1% m/m and core CPI increasing 0.2% m/m.",
+      "link": "https://www.fxstreet.com/news/us-dollar-bearish-momentum-extends-after-cpi-td-securities-202608121504",
+      "published": "2026-08-12T15:04:27+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP SUED OVER PLAN TO SELL FAST ACCESS TO TRUTH SOCIAL POSTS",
+      "summary": "<p>*TRUMP SUED OVER PLAN TO SELL FAST ACCESS TO TRUTH SOCIAL POSTS</p>",
+      "link": "https://nitter.net/DeItaone/status/2087555533502865562#m",
+      "published": "2026-08-12T15:03:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "SANTANDER STILL SEES SEPTEMBER FED HIKE July CPI is unlikely to decide the Fed’s September move, according to Santander’s Stephen Stanley. Unrounded core CPI rose 0.215% M/M, equivalent to a 2.6% annualized pace. Despite the broadly in-line inflation report, Stanley continues to expect the Fed to raise rates in September, followed by another hike in December.",
+      "summary": "<p>SANTANDER STILL SEES SEPTEMBER FED HIKE<br />\n<br />\nJuly CPI is unlikely to decide the Fed’s September move, according to Santander’s Stephen Stanley.<br />\n<br />\nUnrounded core CPI rose 0.215% M/M, equivalent to a 2.6% annualized pace.<br />\n<br />\nDespite the broadly in-line inflation report, Stanley continues to expect the Fed to raise rates in September, followed by another hike in Decemb",
+      "link": "https://nitter.net/DeItaone/status/2087554844638765550#m",
+      "published": "2026-08-12T15:00:34+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "President Trump says US has \"total control\" of Hormuz",
+      "summary": "United States (US) President Donald Trump used a post on Truth Social to declare that the US has \"total control\" over the Strait of Hormuz on Wednesday., Trump boasted about the American naval presence near the Persian Gulf, which he described as \"a wall of steel\".",
+      "link": "https://www.fxstreet.com/news/president-trump-says-us-has-total-control-of-hormuz-202608121455",
+      "published": "2026-08-12T14:55:15+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Google raises prices of new phones on \"severe\" memory crunch. $GOOGL",
+      "title": "FinancialJuice: Trump Reiterates Control of Hormuz - Truth Social",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9718159/Google-raises-prices-of-new-phones-on-severe-memory-crunch-GOOGL.aspx",
-      "published": "2026-08-12T14:01:10+00:00",
+      "link": "https://www.financialjuice.com/News/9718227/Trump-Reiterates-Control-of-Hormuz---Truth-Social.aspx?xy=rss",
+      "published": "2026-08-12T14:40:10+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump says the US has “total control” over the Strait of Hormuz and “I think we will keep it.”",
+      "summary": "<p>BREAKING: President Trump says the US has “total control” over the Strait of Hormuz and “I think we will keep it.”</p>\n<img src=\"https://nitter.net/pic/media%2FHPh2pzMW4AA9xAH.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2087548892699042132#m",
+      "published": "2026-08-12T14:36:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Emerging Markets: Steepening Treasuries curb appeal – BNY",
+      "summary": "BNY’s Geoff Yu reports that sovereign bonds from commodity-based EM economies have seen accelerated selling after the Fed decision, despite a weaker Dollar and lower U.S. real yields.",
+      "link": "https://www.fxstreet.com/news/emerging-markets-steepening-treasuries-curb-appeal-bny-202608121436",
+      "published": "2026-08-12T14:36:36+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US CPI Market Reactions & Deviations - FJElite",
+      "summary": "<strong>Sentiment Post Release</strong><ul><li>US short-term interest-rate futures rise slightly after inflation report.</li><li>Traders keep bets on a 45% chance of a September Fed rate hike.</li></ul>",
+      "link": "https://www.financialjuice.com/News/9718225/US-CPI-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
+      "published": "2026-08-12T14:34:37+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Iran has no money, faces 300% inflation and is \"all talk and no action\" - Truth Social",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9718224/Trump-Iran-has-no-money-faces-300-inflation-and-is-all-talk-and-no-action---Truth-Social.aspx?xy=rss",
+      "published": "2026-08-12T14:33:21+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: U.S. HAS “TOTAL CONTROL” OF HORMUZ President Trump claims the U.S. has “total control” of the Strait of Hormuz and suggested Washington could keep control of the strategic waterway. He described the U.S. naval blockade as a “wall of steel.” Trump also claimed Iran’s military has been severely weakened, the IRGC is “decimated,” and the country faces deep economic problems. He declared Iran is “no longer” the bully of the Middle East.",
+      "summary": "<p>TRUMP: U.S. HAS “TOTAL CONTROL” OF HORMUZ<br />\n<br />\nPresident Trump claims the U.S. has “total control” of the Strait of Hormuz and suggested Washington could keep control of the strategic waterway.<br />\n<br />\nHe described the U.S. naval blockade as a “wall of steel.”<br />\n<br />\nTrump also claimed Iran’s military has been severely weakened, the IRGC is “decimated,” and the country faces ",
+      "link": "https://nitter.net/DeItaone/status/2087547985143922784#m",
+      "published": "2026-08-12T14:33:19+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Google debuts Pixel 11, 11 Pro, 11 Pro XL, and 11 Pro Fold phones. $GOOGL",
+      "title": "FinancialJuice: Trump: Iran cannot challenge US naval blockade, everyone calls it a \"wall of steel\".",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9718158/Google-debuts-Pixel-11-11-Pro-11-Pro-XL-and-11-Pro-Fold-phones-GOOGL.aspx",
-      "published": "2026-08-12T14:00:30+00:00",
+      "link": "https://www.financialjuice.com/News/9718220/Trump-Iran-cannot-challenge-US-naval-blockade-everyone-calls-it-a-wall-of-steel.aspx?xy=rss",
+      "published": "2026-08-12T14:32:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: U.S.A. HAS TOTAL CONTROL OVER OVER STRAIT OF HORMUZ",
+      "summary": "<p>TRUMP ON IRAN: U.S.A. HAS TOTAL CONTROL OVER OVER STRAIT OF HORMUZ</p>",
+      "link": "https://nitter.net/DeItaone/status/2087547777609789709#m",
+      "published": "2026-08-12T14:32:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "📅 TRUMP’S SCHEDULE — WEDNESDAY, AUGUST 12 🔸 8:00 AM — Executive Time 🔸 10:30 AM — Greeting with Law Enforcement & Military 🔸 11:00 AM — Policy Meeting 🔸 12:30 PM — Policy Meeting 🔸 2:30 PM — Signing Time 🔸 4:00 PM — Policy Meeting 🔸 5:00 PM — Policy Meeting 📍 White House / Oval Office 🔒 All presidential events closed to press",
+      "summary": "<p>📅 TRUMP’S SCHEDULE — WEDNESDAY, AUGUST 12<br />\n<br />\n🔸 8:00 AM — Executive Time<br />\n🔸 10:30 AM — Greeting with Law Enforcement & Military<br />\n🔸 11:00 AM — Policy Meeting<br />\n🔸 12:30 PM — Policy Meeting<br />\n🔸 2:30 PM — Signing Time<br />\n🔸 4:00 PM — Policy Meeting<br />\n🔸 5:00 PM — Policy Meeting<br />\n<br />\n📍 White House / Oval Office<br />\n🔒 All presidential events closed to press</",
+      "link": "https://nitter.net/DeItaone/status/2087547705023218140#m",
+      "published": "2026-08-12T14:32:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: US has total control over over the Strait of Hormuz. I think we will keep it.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9718219/Trump-US-has-total-control-over-over-the-Strait-of-Hormuz-I-think-we-will-keep-it.aspx?xy=rss",
+      "published": "2026-08-12T14:31:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Improving sentiment supports gains against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report the British Pound (GBP) is posting fractional gains versus the US Dollar (USD) and outperforming G10 peers as improving sentiment supports price action.",
+      "link": "https://www.fxstreet.com/news/british-pound-improving-sentiment-supports-gains-against-us-dollar-scotiabank-202608121407",
+      "published": "2026-08-12T14:07:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$GOOGL - GOOGLE RAISES PRICES OF NEW PHONES ON 'SEVERE' MEMORY CRUNCH",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23GOOGL\">$GOOGL</a>  - GOOGLE RAISES PRICES OF NEW PHONES ON 'SEVERE' MEMORY CRUNCH</p>",
+      "link": "https://nitter.net/DeItaone/status/2087539915672199346#m",
+      "published": "2026-08-12T14:01:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$GOOGL - GOOGLE'S NEW PHONES ARE $100 MORE EXPENSIVE THAN LAST EDITIONS",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23GOOGL\">$GOOGL</a> - GOOGLE'S NEW PHONES ARE $100 MORE EXPENSIVE THAN LAST EDITIONS</p>",
+      "link": "https://nitter.net/DeItaone/status/2087539841424675260#m",
+      "published": "2026-08-12T14:00:57+00:00",
       "score": 1
     },
     {
@@ -66,24 +201,6 @@
       "score": 4
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: -136 mln<br />Nasdaq 100: +6 mln<br />Dow 30: -61 mln<br />Mag 7: +8 mln",
-      "link": "https://www.financialjuice.com/News/9718126/MOO-Imbalance.aspx",
-      "published": "2026-08-12T13:30:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Sentiment: CPI Inline, Rate Hike Expectations Decline - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718124/US-Sentiment-CPI-Inline-Rate-Hike-Expectations-Decline---FJElite.aspx",
-      "published": "2026-08-12T13:28:45+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "🇳🇴NORWAY’S $2.3T FUND WARNS GAINS WON’T LAST Norway’s sovereign wealth fund posted a record $185 billion first-half profit, delivering a 12.95% return as semiconductor stocks surged. But CEO Nicolai Tangen warned investors not to expect similar returns ahead, citing geopolitical tensions, inflation and potential market weakness. His advice: stay invested, think long term and remain diversified. Tangen expects tougher markets ahead after years of exceptionally strong returns.",
@@ -120,24 +237,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Effective Fed Funds Rate 3.63% August 11 vs 3.63% August 10.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718076/Effective-Fed-Funds-Rate-363-August-11-vs-363-August-10.aspx",
-      "published": "2026-08-12T12:59:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Fund Futures Before & After Inline US CPI Data - FJElite",
-      "summary": "<div><strong>CPI Data</strong></div><ul><li>US CPI MoM Actual 0.1% (Forecast 0.1%, Previous -0.4%)</li><li>US Core CPI YoY Actual 2.5% (Forecast 2.5%, Previous 2.6%)</li><li>US Core CPI MoM Actual 0.2% (Forecast 0.2%, Previous 0%)</li><li>US CPI YoY Actual 3.4% (Forecast 3.4%, Previous 3.5%)</li></ul><p><strong>Sentiment Post Data</strong></p><ul><li>US short-term interest-rate futures rise slight",
-      "link": "https://www.financialjuice.com/News/9718074/Fed-Fund-Futures-Before--After-Inline-US-CPI-Data---FJElite.aspx",
-      "published": "2026-08-12T12:54:12+00:00",
-      "score": 3
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "HORMUZ TRAFFIC REMAINS NEAR A STANDSTILL Only 14 vessels crossed the Strait of Hormuz on Tuesday, according to Kpler, despite Trump declaring the waterway “open.” That remains far below the roughly 120 vessels per day seen before the war. Of those 14 ships, 11 used the Iranian-approved route, while none used the traditional central passage. Kpler says the modest traffic increase does not signal normalization, keeping pressure on global oil supplies.",
@@ -154,24 +253,6 @@
       "link": "https://nitter.net/DeItaone/status/2087522053653967231#m",
       "published": "2026-08-12T12:50:16+00:00",
       "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ENERGY COULD REIGNITE INFLATION IN AUGUST Falling energy prices helped cool July inflation, with gasoline down 2.9% M/M and fuel oil falling 1.7%. But that relief may be temporary. Rising crude prices and strong refining margins are already pushing fuel costs higher. U.S. gasoline now averages $4.03 per gallon, up from $3.87 a month ago, suggesting energy could put renewed upward pressure on August inflation.",
-      "summary": "<p>ENERGY COULD REIGNITE INFLATION IN AUGUST<br />\n<br />\nFalling energy prices helped cool July inflation, with gasoline down 2.9% M/M and fuel oil falling 1.7%.<br />\n<br />\nBut that relief may be temporary.<br />\n<br />\nRising crude prices and strong refining margins are already pushing fuel costs higher.<br />\n<br />\nU.S. gasoline now averages $4.03 per gallon, up from $3.87 a month ago, sugge",
-      "link": "https://nitter.net/DeItaone/status/2087521575360712736#m",
-      "published": "2026-08-12T12:48:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "GOLDMAN: JULY CPI SUPPORTS SEPTEMBER HOLD Goldman Sachs Asset Management called July CPI “encouraging,” saying contained core inflation strengthens the case for the Fed to hold rates steady in September. Lindsay Rosner said the report adds to signs that underlying inflation is moderating. However, another inflation report is due before the September FOMC meeting, meaning the outlook could still shift. For now, the in-line CPI print supports a Fed pause.",
-      "summary": "<p>GOLDMAN: JULY CPI SUPPORTS SEPTEMBER HOLD<br />\n<br />\nGoldman Sachs Asset Management called July CPI “encouraging,” saying contained core inflation strengthens the case for the Fed to hold rates steady in September.<br />\n<br />\nLindsay Rosner said the report adds to signs that underlying inflation is moderating.<br />\n<br />\nHowever, another inflation report is due before the September FOMC m",
-      "link": "https://nitter.net/DeItaone/status/2087521324423840150#m",
-      "published": "2026-08-12T12:47:22+00:00",
-      "score": 6
     },
     {
       "source": "FXStreet",
@@ -192,51 +273,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Pinned: 🚨 CPI COOLS — FED HOLD STILL FAVORED July inflation showed little cause for alarm: 🔸 Headline CPI: +0.1% M/M | +3.4% Y/Y 🔸 Core CPI: +0.2% M/M | +2.5% Y/Y 🔸 Energy: -1.5% Prediction markets still favor the Fed holding rates in September at 68.2%, versus 17% for a 25bp cut and 9.6% for a hike. For now, hold remains the base case. https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep?utm_source=walterbloomberg",
-      "summary": "<p>🚨 CPI COOLS — FED HOLD STILL FAVORED<br />\n<br />\nJuly inflation showed little cause for alarm:<br />\n<br />\n🔸 Headline CPI: +0.1% M/M | +3.4% Y/Y <br />\n🔸 Core CPI: +0.2% M/M | +2.5% Y/Y <br />\n🔸 Energy: -1.5%<br />\n<br />\nPrediction markets still favor the Fed holding rates in September at 68.2%, versus 17% for a 25bp cut and 9.6% for a hike.<br />\n<br />\nFor now, hold remains the base case.<",
-      "link": "https://nitter.net/DeItaone/status/2087518807828918452#m",
-      "published": "2026-08-12T12:37:22+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Supercore CPI YoY: 2.843%, previous 3.172%",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718062/US-Supercore-CPI-YoY-2843-previous-3172.aspx",
-      "published": "2026-08-12T12:36:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Supercore CPI MoM: 0.189%, Previous -0.206%",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718061/US-Supercore-CPI-MoM-0189-Previous--0206-.aspx",
-      "published": "2026-08-12T12:36:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Traders keep bets on a 45% chance of a September Fed rate hike.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718063/Traders-keep-bets-on-a-45-chance-of-a-September-Fed-rate-hike.aspx",
-      "published": "2026-08-12T12:36:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US short-term interest-rate futures rise slightly after inflation report.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718060/US-short-term-interest-rate-futures-rise-slightly-after-inflation-report.aspx",
-      "published": "2026-08-12T12:35:11+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: July CPI inflation falls to 3.4%, in-line with expectations of 3.4% Core CPI inflation falls to 2.5%, also in-line with expectations of 2.5%. Month-over-month CPI inflation rose +0.1%, up from -0.4% in June. US stock market futures are rising on the news.",
@@ -244,60 +280,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2087517990828810660#m",
       "published": "2026-08-12T12:34:07+00:00",
       "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "SPOT GOLD PARES GAINS AFTER US CPI DATA, LAST UP 0.5% AT $4,388.89/OZ",
-      "summary": "<p>SPOT GOLD  PARES GAINS AFTER US CPI DATA, LAST UP 0.5% AT $4,388.89/OZ</p>",
-      "link": "https://nitter.net/DeItaone/status/2087517482072387874#m",
-      "published": "2026-08-12T12:32:06+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US CPI YoY Actual 3.4% (Forecast 3.4%, Previous 3.5%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718021/US-CPI-YoY-Actual-34-Forecast-34-Previous-35.aspx",
-      "published": "2026-08-12T12:31:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*US JULY CONSUMER PRICES RISE 0.1% M/M; EST. +0.1% *US JULY CONSUMER PRICES RISE 3.4% Y/Y; EST. +3.4% *US JULY CORE CPI RISES 0.2% M/M; EST. +0.2% *US JULY CORE CPI RISES 2.5% Y/Y; EST. +2.5%",
-      "summary": "<p>*US JULY CONSUMER PRICES RISE 0.1% M/M; EST. +0.1%<br />\n*US JULY CONSUMER PRICES RISE 3.4% Y/Y; EST. +3.4%<br />\n<br />\n*US JULY CORE CPI RISES 0.2% M/M; EST. +0.2%<br />\n*US JULY CORE CPI RISES 2.5% Y/Y; EST. +2.5%</p>",
-      "link": "https://nitter.net/DeItaone/status/2087517175946883369#m",
-      "published": "2026-08-12T12:30:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Core CPI MoM Actual 0.2% (Forecast 0.2%, Previous 0.0%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718023/US-Core-CPI-MoM-Actual-02-Forecast-02-Previous-00.aspx",
-      "published": "2026-08-12T12:30:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Core CPI YoY Actual 2.5% (Forecast 2.5%, Previous 2.6%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718022/US-Core-CPI-YoY-Actual-25-Forecast-25-Previous-26.aspx",
-      "published": "2026-08-12T12:30:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US CPI MoM Actual 0.1% (Forecast 0.1%, Previous -0.4%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718020/US-CPI-MoM-Actual-01-Forecast-01-Previous--04.aspx",
-      "published": "2026-08-12T12:30:03+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -309,15 +291,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. JULY CPI DUE 8:30 A.M. ET",
-      "summary": "<p>U.S. JULY CPI DUE 8:30 A.M. ET</p>",
-      "link": "https://nitter.net/DeItaone/status/2087514532490965300#m",
-      "published": "2026-08-12T12:20:23+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "US Dollar: Soft CPI risks weigh on outlook – ING",
@@ -327,15 +300,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US CPI Crib Sheet - FJElite",
-      "summary": "[Updated]",
-      "link": "https://www.financialjuice.com/News/9718003/US-CPI-Crib-Sheet---FJElite.aspx",
-      "published": "2026-08-12T12:08:24+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Japanese Yen: Intervention doubts as flows favor US Dollar – BNY",
@@ -343,24 +307,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-intervention-doubts-as-flows-favor-us-dollar-bny-202608121204",
       "published": "2026-08-12T12:04:53+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US CPI Prep: Inflation in Focus",
-      "summary": "[Repost]",
-      "link": "https://www.financialjuice.com/News/9718002/US-CPI-Prep-Inflation-in-Focus.aspx",
-      "published": "2026-08-12T12:03:50+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Credit Agricole: Investors Still Confident of A Deal - FJElite",
-      "summary": "<div>While oil prices are higher, investors are broadly shrugging this rise off. Firm earnings continue to support the AI investment boom. The upward pressure on UST yields coming from higher oil prices has also been eased by soft US labour market data.<br /><br /></div><div>Investors remain optimistic that the US and Iran can reach an agreement on the Strait of Hormuz. Their logic likely remains ",
-      "link": "https://www.financialjuice.com/News/9718001/Credit-Agricole-Investors-Still-Confident-of-A-Deal---FJElite.aspx",
-      "published": "2026-08-12T12:03:01+00:00",
-      "score": 6
     },
     {
       "source": "FXStreet",
@@ -379,51 +325,6 @@
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-calmly-ahead-of-us-inflation-data-202608121149",
       "published": "2026-08-12T11:49:38+00:00",
       "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "WALL STREET’S JULY CPI FORECASTS 🔸Citi: Core 0.16% M/M, 2.4% Y/Y | Headline 0.0% M/M, 3.3% Y/Y 🔸Goldman Sachs: Core 0.19% M/M, 2.47% Y/Y | Headline 0.05% M/M, 3.35% Y/Y 🔸Nomura: Core 0.18% M/M, 2.43% Y/Y | Headline 0.10% M/M, 3.39% Y/Y 🔸BofA: Core 0.20% M/M, 2.5% Y/Y | Headline 0.1% M/M, 3.4% Y/Y 🔸SocGen: Core 0.22% M/M, 2.5% Y/Y | Headline 0.17% M/M, 3.4% Y/Y 🔸Barclays: Core 0.24% M/M, 2.5% Y/Y | Headline 0.16% M/M, 3.4% Y/Y 🔸Morgan Stanley: Core 0.24% M/M, 2.5% Y/Y | Headline 0.10% M/M, 3.4% Y/Y 🔸Wells Fargo: Core 0.24% M/M, 2.5% Y/Y | Headline 0.13% M/M, 3.4% Y/Y 🔸UBS: Core 0.24% M/M, 2.50% Y/Y | Headline 0.11% M/M, 3.39% Y/Y",
-      "summary": "<p>WALL STREET’S JULY CPI FORECASTS<br />\n<br />\n🔸Citi: Core 0.16% M/M, 2.4% Y/Y | Headline 0.0% M/M, 3.3% Y/Y<br />\n🔸Goldman Sachs: Core 0.19% M/M, 2.47% Y/Y | Headline 0.05% M/M, 3.35% Y/Y<br />\n🔸Nomura: Core 0.18% M/M, 2.43% Y/Y | Headline 0.10% M/M, 3.39% Y/Y<br />\n🔸BofA: Core 0.20% M/M, 2.5% Y/Y | Headline 0.1% M/M, 3.4% Y/Y<br />\n🔸SocGen: Core 0.22% M/M, 2.5% Y/Y | Headline 0.17% M/M, 3.4% Y",
-      "link": "https://nitter.net/DeItaone/status/2087506645475553547#m",
-      "published": "2026-08-12T11:49:02+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Why is the Japanese Yen stuck near 159.25 after the first joint US-Japan intervention since 2011?",
-      "summary": "The Japanese Yen (JPY) continues to navigate complex market dynamics, consolidating near the 159.25 level against the US Dollar (USD) following a sharp upward push.",
-      "link": "https://www.fxstreet.com/news/why-is-the-japanese-yen-stuck-near-15925-after-the-first-joint-us-japan-intervention-since-2011-202608121148",
-      "published": "2026-08-12T11:48:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Biding its time near 1.1550, awaiting US CPI numbers",
-      "summary": "The Euro (EUR) nurses marginal gains against the US Dollar (USD) on Wednesday, with the EUR/USD pair flattening just below the 1.1550 level during the European trading session.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-biding-its-time-near-11550-awaiting-us-cpi-numbers-202608121147",
-      "published": "2026-08-12T11:47:57+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "🚨 U.S. CPI DAY: WALL STREET VS. THE MARKET 🏦 Wall Street headline CPI forecasts: 🔸Kalshi: 3.30% 🔸Citi: 3.30% 🔸Goldman Sachs: 3.35% 🔸UBS: 3.39% 🔸BofA: 3.40% 🔸SocGen: 3.40% 🔸Barclays: 3.40% 🔸Morgan Stanley: 3.40% 🔸Wells Fargo: 3.40% A print above or below this narrow range could trigger a sharp market reaction. https://kalshi.com/markets/kxcpiyoy/inflation/kxcpiyoy-26jul?utm_source=walterbloomberg",
-      "summary": "<p>🚨 U.S. CPI DAY: WALL STREET VS. THE MARKET<br />\n<br />\n🏦 Wall Street headline CPI forecasts:<br />\n<br />\n🔸Kalshi: 3.30%<br />\n🔸Citi: 3.30%<br />\n🔸Goldman Sachs: 3.35%<br />\n🔸UBS: 3.39%<br />\n🔸BofA: 3.40%<br />\n🔸SocGen: 3.40%<br />\n🔸Barclays: 3.40%<br />\n🔸Morgan Stanley: 3.40%<br />\n🔸Wells Fargo: 3.40%<br />\n<br />\nA print above or below this narrow range could trigger a sharp market reaction.",
-      "link": "https://nitter.net/DeItaone/status/2087506303627202765#m",
-      "published": "2026-08-12T11:47:41+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Inflation data and Middle East risks – Commerzbank",
-      "summary": "Commerzbank FX analyst Antje Praefcke notes that July US inflation is expected to rise only 0.1% month-on-month, with headline and core rates slipping to 3.4% and 2.5% year-on-year.",
-      "link": "https://www.fxstreet.com/news/us-dollar-inflation-data-and-middle-east-risks-commerzbank-202608121120",
-      "published": "2026-08-12T11:20:02+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -622,24 +523,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2086911731100488150#m",
       "published": "2026-08-10T20:25:04+00:00",
       "score": 3
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Nvidia, $NVDA, is set to announce a $500 billion AI financing effort in partnership with Apollo, Blackstone, BlackRock, Goldman Sachs, KKR, and Brookfield, per CNBC. Details include: 1. The move comes as tech companies are increasingly looking to raise debt to finance AI projects 2. For Nvidia, the effort could help its biggest customers secure the financing needed to buy its GPUs, build data centers, and lock in long-term electricity capacity 3. The deal could be announced as soon as today, sources say The AI buildout is prompting a historic wave of debt issuance.",
-      "summary": "<p>BREAKING: Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, is set to announce a $500 billion AI financing effort in partnership with Apollo, Blackstone, BlackRock, Goldman Sachs, KKR, and Brookfield, per CNBC.<br />\n<br />\nDetails include:<br />\n<br />\n1. The move comes as tech companies are increasingly looking to raise debt to finance AI projects<br />\n<br />\n2. F",
-      "link": "https://nitter.net/KobeissiLetter/status/2086896866201878907#m",
-      "published": "2026-08-10T19:26:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: US oil prices surge over +5% to $82/barrel after President Trump says the US is now demanding compensation from Iran.",
-      "summary": "<p>BREAKING: US oil prices surge over +5% to $82/barrel after President Trump says the US is now demanding compensation from Iran.</p>\n<img src=\"https://nitter.net/pic/media%2FHPYf9owWEAA1gqC.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2086890752588513717#m",
-      "published": "2026-08-10T19:01:42+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
