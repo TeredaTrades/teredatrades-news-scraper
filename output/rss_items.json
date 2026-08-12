@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-08-12T02:45:29.655599+00:00",
-  "count": 70,
+  "updated_at": "2026-08-12T04:48:21.741131+00:00",
+  "count": 63,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Wednesday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608120435",
+      "published": "2026-08-12T04:35:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Boston Fed President Susan Collins: Would support September rate increase if inflation stays high - FT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9717420/Boston-Fed-President-Susan-Collins-Would-support-September-rate-increase-if-inflation-stays-high---FT.aspx?xy=rss",
+      "published": "2026-08-12T04:06:57+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index rises to near 100.00 ahead of US inflation data",
+      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is extending gains for the third successive day and trading around 99.90 during the Asian hours on Wednesday.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-to-near-10000-ahead-of-us-inflation-data-202608120403",
+      "published": "2026-08-12T04:03:32+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: China finance ministry offers 3-month bills at 1.0787% yield: traders",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9717386/China-finance-ministry-offers-3-month-bills-at-10787-yield-traders.aspx?xy=rss",
+      "published": "2026-08-12T03:42:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: China finance ministry auctions 50-year ultra-long special treasury bonds at 2.2831% yield: traders",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9717385/China-finance-ministry-auctions-50-year-ultra-long-special-treasury-bonds-at-22831-yield-traders.aspx?xy=rss",
+      "published": "2026-08-12T03:40:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD rises to near $65.40 with US inflation in focus",
+      "summary": "Silver price (XAG/USD) trades 1.1% higher at around $65.40 during the Asian trading session on Wednesday. The white metal reflects strength ahead of the United States (US) Consumer Price Index (CPI) data for July, which will be published at 12:30 GMT.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6540-with-us-inflation-in-focus-202608120322",
+      "published": "2026-08-12T03:22:54+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar eases from two-month high as USD preserves weekly gains ahead of US CPI",
+      "summary": "The USD/CAD pair ticks higher during the Asian session on Wednesday, snapping a three-day losing streak to the 1.3915 area or its lowest level since June 10. Spot prices, however, lack bullish conviction and trade around 1.3930, awaiting the release of the latest US inflation figures.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-eases-from-two-month-high-as-usd-preserves-weekly-gains-ahead-of-us-cpi-202608120317",
+      "published": "2026-08-12T03:17:52+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar struggles as US Dollar gains on Middle East uncertainty",
+      "summary": "NZD/USD continues its losing streak for the third consecutive day, trading around 0.5870 during the Asian hours on Wednesday. The pair depreciates as the US Dollar (USD) gains ground on increased safe-haven demand amid rising uncertainty surrounding Middle East peace talks.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-as-us-dollar-gains-on-middle-east-uncertainty-202608120308",
+      "published": "2026-08-12T03:08:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Spot gold rises nearly 1% to $4,408.79/oz",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9717332/Spot-gold-rises-nearly-1-to-440879oz.aspx?xy=rss",
+      "published": "2026-08-12T02:46:32+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -50,8 +131,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold trades with positive bias below $4,400; Fed hike bets cap gains ahead of US CPI",
-      "summary": "Gold (XAU/USD) attracts some dip-buyers during the Asian session on Wednesday, stalling the previous day's retracement slide from the $4,435 region, or the highest level since June 5.",
+      "title": "Gold retakes $4,400, eyes two-month high as traders look to US CPI for Fed hike cues",
+      "summary": "Gold (XAU/USD) attracts fresh buyers during the Asian session on Wednesday and climbs back above the $4,400 mark, closer to its highest level since June 5, which was touched the previous day.",
       "link": "https://www.fxstreet.com/news/gold-trades-with-positive-bias-below-4-400-fed-hike-bets-cap-gains-ahead-of-us-cpi-202608120138",
       "published": "2026-08-12T01:38:52+00:00",
       "score": 5
@@ -82,24 +163,6 @@
       "link": "https://www.fxstreet.com/news/euro-consolidates-below-mid-11500s-vs-usd-ahead-of-german-hicp-us-cpi-202608120108",
       "published": "2026-08-12T01:08:56+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Plane I flew on faces 'greater risk'",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9717189/Trump-Plane-I-flew-on-faces-greater-risk.aspx?xy=rss",
-      "published": "2026-08-12T01:01:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: was adhering to secret service guidance during flight change",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9717180/Trump-was-adhering-to-secret-service-guidance-during-flight-change.aspx?xy=rss",
-      "published": "2026-08-12T00:59:35+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -192,42 +255,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: MEDICAID WILL NO LONGER FUND GENDER TRANSITION SURGERIES AND HORMONES FOR MINORS",
-      "summary": "<p>TRUMP: MEDICAID WILL NO LONGER FUND GENDER TRANSITION SURGERIES AND HORMONES FOR MINORS</p>",
-      "link": "https://nitter.net/DeItaone/status/2087288717618651597#m",
-      "published": "2026-08-11T21:23:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso hits 25-month high as US CPI lurks",
-      "summary": "The Mexican Peso (MXN) is poised to end Tuesday’s session with solid gains of 0.32% against the US Dollar (USD) as money markets await the release of the US July inflation figures, while USD/MXN trades at 17.08, a level last seen in June 2024.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-hits-25-month-high-as-peso-eyes-1700-as-us-cpi-lurks-202608112119",
-      "published": "2026-08-11T21:19:46+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound Sterling needs a fourth dissenter",
-      "summary": "GBP/USD trades near 1.3500 on Tuesday August 11, a shade lower on the session and inside a range of barely 25 pips, with nothing British on the calendar to account for either the level or the calm.",
-      "link": "https://www.fxstreet.com/news/british-pound-sterling-needs-a-fourth-dissenter-202608112106",
-      "published": "2026-08-11T21:06:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Thai Baht: Benign inflation keeps BoT on hold – Commerzbank",
-      "summary": "Commerzbank strategists note July Consumer Price Index (CPI) eased to 2.0% year-on-year, below consensus, mainly due to softer retail fuel prices. While core CPI has been gradually rising, overall price pressures are described as manageable and below government forecasts.",
-      "link": "https://www.fxstreet.com/news/thai-baht-benign-inflation-keeps-bot-on-hold-commerzbank-202608112028",
-      "published": "2026-08-11T20:28:00+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "A handful of stocks now dominate US market trading: Nvidia, $NVDA, is the most actively traded stock in the US market, accounting for 3.0% of total market notional volume year-to-date. This is followed by Micron, $MU, at 2.8%, Tesla, $TSLA, at 2.1%, and SanDisk, $SNDK, at 1.5%. Together, the 10 most-traded stocks have accounted for an average of 16.4% of total market notional volume YTD. Meanwhile, some of these names have worse liquidity than the average S&P 500 stock, with SanDisk posting an average bid-ask spread of 12.4 basis points, more than double the S&P 500's 5.9 basis point average. Tesla, Microsoft, $MSFT, and Alphabet, $GOOGL, also have smaller average order sizes available at the best bid and offer than the typical S&P 500 stock, suggesting thinner liquidity despite their enormous trading volumes. A few stocks a driving a massive amount of market volume.",
@@ -237,102 +264,12 @@
       "score": 4
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro stalls below 100-day SMA as investors brace for US CPI",
-      "summary": "The Euro (EUR) registers minimal losses against the US Dollar (USD) on Tuesday as traders and market participants prepare for the release of the US Consumer Price Index (CPI) on Wednesday, which could set the path for the future of US monetary policy.",
-      "link": "https://www.fxstreet.com/news/euro-stalls-below-100-day-sma-as-investors-brace-for-us-cpi-202608111950",
-      "published": "2026-08-11T19:50:25+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ETHEREUM BUYERS ACCUMULATE AHEAD OF CPI Investors are accumulating Ethereum ahead of Wednesday’s U.S. CPI report, according to Nansen. Managed money is reportedly buying ETH on spot markets at 7.2 times its normal pace. Meanwhile, sophisticated traders remain net short Bitcoin and Ethereum derivatives, signaling caution over inflation and potential rate hikes. Ethereum fell 0.9% to $1,862, while Bitcoin dropped 1% to $63,455.",
-      "summary": "<p>ETHEREUM BUYERS ACCUMULATE AHEAD OF CPI<br />\n<br />\nInvestors are accumulating Ethereum ahead of Wednesday’s U.S. CPI report, according to Nansen.<br />\n<br />\nManaged money is reportedly buying ETH on spot markets at 7.2 times its normal pace.<br />\n<br />\nMeanwhile, sophisticated traders remain net short Bitcoin and Ethereum derivatives, signaling caution over inflation and potential rate hi",
-      "link": "https://nitter.net/DeItaone/status/2087229936939807075#m",
-      "published": "2026-08-11T17:29:30+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "BARCLAYS SEES TREASURY YIELDS STAYING HIGH Barclays says growing reliance on price-sensitive private investors could keep long-term U.S. Treasury yields near multi-decade highs. Private investors now hold about 73% of the Treasury market, up from roughly 50% a decade ago. With Fed and foreign central-bank demand declining, investors are demanding higher returns to absorb rising debt supply amid persistent inflation and budget deficits. The 30-year yield recently approached 5.28%.",
-      "summary": "<p>BARCLAYS SEES TREASURY YIELDS STAYING HIGH<br />\n<br />\nBarclays says growing reliance on price-sensitive private investors could keep long-term U.S. Treasury yields near multi-decade highs.<br />\n<br />\nPrivate investors now hold about 73% of the Treasury market, up from roughly 50% a decade ago.<br />\n<br />\nWith Fed and foreign central-bank demand declining, investors are demanding higher re",
-      "link": "https://nitter.net/DeItaone/status/2087219680272400787#m",
-      "published": "2026-08-11T16:48:45+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. RAISES OIL PRICE FORECAST ON HORMUZ DISRUPTION U.S. energy officials expect Strait of Hormuz constraints to persist through August, limiting oil flows. The EIA raised its 2026 Brent crude forecast to $87 a barrel from $82 and lifted its U.S. gasoline estimate to $3.78 a gallon. Despite President Trump saying the strait is open, only eight vessels crossed Monday, versus roughly 120 before the war.",
-      "summary": "<p>U.S. RAISES OIL PRICE FORECAST ON HORMUZ DISRUPTION<br />\n<br />\nU.S. energy officials expect Strait of Hormuz constraints to persist through August, limiting oil flows.<br />\n<br />\nThe EIA raised its 2026 Brent crude forecast to $87 a barrel from $82 and lifted its U.S. gasoline estimate to $3.78 a gallon.<br />\n<br />\nDespite President Trump saying the strait is open, only eight vessels cros",
-      "link": "https://nitter.net/DeItaone/status/2087214679625974113#m",
-      "published": "2026-08-11T16:28:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FED'S GOOLSBEE: BIGGEST PROBLEM FACING THE ECONOMY IS INFLATION",
-      "summary": "<p>FED'S GOOLSBEE: BIGGEST PROBLEM FACING THE ECONOMY IS INFLATION</p>",
-      "link": "https://nitter.net/DeItaone/status/2087213624897012207#m",
-      "published": "2026-08-11T16:24:41+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FED'S GOOLSBEE ON WIRED: PRICES AND AFFORDABILITY, THAT'S THE BIGGEST PROBLEM WE ARE FACING RIGHT NOW",
-      "summary": "<p>FED'S GOOLSBEE ON WIRED: PRICES AND AFFORDABILITY, THAT'S THE BIGGEST PROBLEM WE ARE FACING RIGHT NOW</p>",
-      "link": "https://nitter.net/DeItaone/status/2087213441152844137#m",
-      "published": "2026-08-11T16:23:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "RUSSIA RELEASES FORMER U.S. MARINE AFTER TRUMP-PUTIN TALKS President Trump says Russia has agreed to release American citizen and former U.S. Marine Robert Gilman following discussions with President Vladimir Putin. Trump said Russia requested no prisoner in exchange for Gilman’s release. Gilman, who had been imprisoned in Russia, is expected to arrive in Washington, D.C., Tuesday night.",
-      "summary": "<p>RUSSIA RELEASES FORMER U.S. MARINE AFTER TRUMP-PUTIN TALKS<br />\n<br />\nPresident Trump says Russia has agreed to release American citizen and former U.S. Marine Robert Gilman following discussions with President Vladimir Putin.<br />\n<br />\nTrump said Russia requested no prisoner in exchange for Gilman’s release.<br />\n<br />\nGilman, who had been imprisoned in Russia, is expected to arrive in ",
-      "link": "https://nitter.net/DeItaone/status/2087211261108826284#m",
-      "published": "2026-08-11T16:15:17+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Trump Media says more than 10 customers have signed up for \"Truth API\" which provides faster access to President Trump's Truth Social posts. The earliest customers are mostly high-frequency trading firms who are being charged between $60,000 and $100,000 per month.",
       "summary": "<p>BREAKING: Trump Media says more than 10 customers have signed up for \"Truth API\" which provides faster access to President Trump's Truth Social posts.<br />\n<br />\nThe earliest customers are mostly high-frequency trading firms who are being charged between $60,000 and $100,000 per month.</p>",
       "link": "https://nitter.net/KobeissiLetter/status/2087207415452193088#m",
       "published": "2026-08-11T16:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP THREATENS FEDERAL ACTION OVER NYC TAXES President Trump criticized New York City’s pied-à-terre tax and congestion pricing, arguing they are driving residents and tax revenue to states such as Florida and Texas. Trump warned the policies could cause financial and social damage to New York. He said his administration is examining whether the federal government has legal authority to intervene and stop the measures.",
-      "summary": "<p>TRUMP THREATENS FEDERAL ACTION OVER NYC TAXES<br />\n<br />\nPresident Trump criticized New York City’s pied-à-terre tax and congestion pricing, arguing they are driving residents and tax revenue to states such as Florida and Texas.<br />\n<br />\nTrump warned the policies could cause financial and social damage to New York.<br />\n<br />\nHe said his administration is examining whether the federal g",
-      "link": "https://nitter.net/DeItaone/status/2087202679189622964#m",
-      "published": "2026-08-11T15:41:11+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: LOOKING TO SEE IF FEDERAL GOVERNMENT HAS ANY LEGAL RIGHT TO AVERT MAMDANI'S NEW YORK CITY PIED-A-TIERRE TAX",
-      "summary": "<p>TRUMP: LOOKING TO SEE IF FEDERAL GOVERNMENT HAS ANY LEGAL RIGHT TO AVERT MAMDANI'S NEW YORK CITY PIED-A-TIERRE TAX</p>",
-      "link": "https://nitter.net/DeItaone/status/2087202481046487485#m",
-      "published": "2026-08-11T15:40:24+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$NVDA - NVIDIA’S $500 BILLION AI FINANCING PLAN DIVIDES WALL STREET Nvidia unveiled partnerships with six financial firms to provide up to $500 billion in financing for customers buying its chips. CEO Jensen Huang says the structure addresses concerns over “circular financing” by shifting capital commitments away from Nvidia. Bank of America and Morgan Stanley welcomed the move, while Wells Fargo and Mizuho remain skeptical about Nvidia’s exposure and whether underlying AI demand can justify the massive investment.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - NVIDIA’S $500 BILLION AI FINANCING PLAN DIVIDES WALL STREET<br />\n<br />\nNvidia unveiled partnerships with six financial firms to provide up to $500 billion in financing for customers buying its chips.<br />\n<br />\nCEO Jensen Huang says the structure addresses concerns over “circular financing” by shifting capital commitmen",
-      "link": "https://nitter.net/DeItaone/status/2087200271403286921#m",
-      "published": "2026-08-11T15:31:37+00:00",
       "score": 1
     },
     {
