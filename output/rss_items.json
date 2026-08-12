@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-08-12T09:19:40.057733+00:00",
-  "count": 72,
+  "updated_at": "2026-08-12T10:35:03.225224+00:00",
+  "count": 81,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Soft US CPI could support gains against US Dollar – ING",
+      "summary": "Chris Turner at ING notes EUR/USD remains lacklustre despite better Eurozone data and upside surprises, as high European natural gas prices and Gulf tensions weigh on the Euro.",
+      "link": "https://www.fxstreet.com/news/euro-soft-us-cpi-could-support-gains-against-us-dollar-ing-202608121002",
+      "published": "2026-08-12T10:02:46+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Fed pricing and CPI risks – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes markets are steady ahead of the United States (US) July Consumer Price Index (CPI) release, which is seen as pivotal for Fed funds expectations and the Dollar.",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-pricing-and-cpi-risks-bbh-202608120954",
+      "published": "2026-08-12T09:54:31+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro drifts away from 184.00 Yen despite hot German inflation figures",
+      "summary": "The Euro (EUR) is paring previous gains against the Japanese Yen (JPY) on Wednesday, weighed by a mild risk-off market mood as tensions in the Middle East grow.",
+      "link": "https://www.fxstreet.com/news/euro-drifts-away-from-18400-yen-despite-hot-german-inflation-figures-202608120952",
+      "published": "2026-08-12T09:52:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "🇳🇴NORWAY’S WEALTH FUND SMASHES PROFIT RECORD Norway’s $2.3 trillion sovereign wealth fund posted a record $184.3 billion first-half profit, driven largely by Asian technology stocks. The world’s biggest investor owns stakes in around 7,100 companies, including Nvidia, Apple, Alphabet, Microsoft and TSMC. But concentration risk is rising: its top 10 holdings now represent 20% of the fund. CEO Nicolai Tangen highlighted the growing dependence on chipmakers, warning: “We’ve never seen such concentration before.”",
+      "summary": "<p>🇳🇴NORWAY’S WEALTH FUND SMASHES PROFIT RECORD<br />\n<br />\nNorway’s $2.3 trillion sovereign wealth fund posted a record $184.3 billion first-half profit, driven largely by Asian technology stocks.<br />\n<br />\nThe world’s biggest investor owns stakes in around 7,100 companies, including Nvidia, Apple, Alphabet, Microsoft and TSMC.<br />\n<br />\nBut concentration risk is rising: its top 10 holding",
+      "link": "https://nitter.net/DeItaone/status/2087475117206929476#m",
+      "published": "2026-08-12T09:43:46+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: Upside risk intact above support against US Dollar – UOB",
+      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann note AUD/USD rebounded to close around 0.7062 after the RBA left its cash rate at 4.35%. Intraday, they see scope for the Australian Dollar to edge higher, though a sustained break above 0.7075 is unlikely.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-upside-risk-intact-above-support-against-us-dollar-uob-202608120943",
+      "published": "2026-08-12T09:43:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Looks to extend recovery against US Dollar – Societe Generale",
+      "summary": "Societe Generale’s Kenneth Broux highlights that the Canadian Dollar has recovered to its strongest level in two months, with USD/CAD mean‑reverting to 1.3933 from 1.4248.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-looks-to-extend-recovery-against-us-dollar-societe-generale-202608120935",
+      "published": "2026-08-12T09:35:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price today: Silver rises, according to FXStreet data",
+      "summary": "Silver prices (XAG/USD) rose on Wednesday, according to FXStreet data. Silver trades at $66.56 per troy ounce, up 3.06% from the $64.58 it cost on Tuesday.",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608120930",
+      "published": "2026-08-12T09:30:06+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: CPI-driven range signals carry focus – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong highlight that the US Dollar (USD) stayed mixed as markets waited for the key United States (US) Consumer Price Index (CPI) release, with Middle East tensions and hawkish Federal Reserve (Fed) rhetoric offsetting each other.",
+      "link": "https://www.fxstreet.com/news/us-dollar-cpi-driven-range-signals-carry-focus-ocbc-202608120922",
+      "published": "2026-08-12T09:22:00+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -43,7 +115,7 @@
       "category": "news",
       "title": "FinancialJuice: MUFG: The JPY - FJElite",
       "summary": "<div>The yen has continued to weaken overnight giving back more of the intervention driven gains. It has resulted in USD/JPY moving back closer to the 160.00-level ahead of the release of the US CPI report later today. The price action clearly highlights that market participants remain unconvinced that intervention will prove successful in supporting a stronger yen without a change in fundamentals",
-      "link": "https://www.financialjuice.com/News/9717712/MUFG-The-JPY---FJElite.aspx",
+      "link": "https://www.financialjuice.com/News/9717712/MUFG-The-JPY---FJElite.aspx?xy=rss",
       "published": "2026-08-12T08:41:57+00:00",
       "score": 3
     },
@@ -52,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: ING: The EUR - FJElite",
       "summary": "<div>EUR/USD continues to trade in a lacklustre fashion. Better hard activity data and eurozone economic numbers generally surprising on the upside have failed to provide the euro with much of a lift. That may be owed to unresolved tension in the Gulf, which is keeping European natural gas prices above €60/MWh. In terms of geopolitics, there is very little clarity here, although the latest reports",
-      "link": "https://www.financialjuice.com/News/9717711/ING-The-EUR---FJElite.aspx",
+      "link": "https://www.financialjuice.com/News/9717711/ING-The-EUR---FJElite.aspx?xy=rss",
       "published": "2026-08-12T08:41:01+00:00",
       "score": 4
     },
@@ -95,7 +167,7 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US CPI data set to show softer inflation in July as markets reassess Fed rate hike bets",
+      "title": "US CPI data expected to cool in July as markets weigh Fed rate hike bets",
       "summary": "The US Bureau of Labor Statistics (BLS) will publish the July Consumer Price Index (CPI) data on Wednesday. The report is expected to show a small decline in consumer inflation and core inflation.",
       "link": "https://www.fxstreet.com/news/us-cpi-data-set-to-show-softer-inflation-in-july-as-markets-reassess-fed-rate-hike-bets-202608120830",
       "published": "2026-08-12T08:30:00+00:00",
@@ -106,26 +178,8 @@
       "category": "news",
       "title": "FinancialJuice: Europe Sentiment: Stocks Rise head of US CPI - FJElite",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9717688/Europe-Sentiment-Stocks-Rise-head-of-US-CPI---FJElite.aspx",
+      "link": "https://www.financialjuice.com/News/9717688/Europe-Sentiment-Stocks-Rise-head-of-US-CPI---FJElite.aspx?xy=rss",
       "published": "2026-08-12T08:25:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee: CPI and RBI repo rate risk skew higher – MUFG",
-      "summary": "MUFG’s Michael Wan notes India’s Consumer Price Index (CPI) is expected to edge up to 4.4% year-on-year from 4.3%. Reserve Bank of India (RBI) Governor Sanjay Malhotra said inflation is largely under control, supporting expectations for rates to stay on hold near term.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-cpi-and-rbi-repo-rate-risk-skew-higher-mufg-202608120818",
-      "published": "2026-08-12T08:18:24+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah struggles due to weak fundamentals, increased risk aversion",
-      "summary": "USD/IDR extends its gains for the second successive day, trading around 17,920 during the European hours on Wednesday. The pair is advancing as the Indonesian Rupiah (IDR) faces pressure from weak domestic economic fundamentals and subdued market sentiment.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-struggles-due-to-weak-fundamentals-increased-risk-aversion-202608120815",
-      "published": "2026-08-12T08:15:17+00:00",
       "score": 1
     },
     {
@@ -133,7 +187,7 @@
       "category": "news",
       "title": "FinancialJuice: Italian CPI YoY Final Actual 2.9% (Forecast 2.8%, Previous 2.8%)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9717656/Italian-CPI-YoY-Final-Actual-29-Forecast-28-Previous-28.aspx",
+      "link": "https://www.financialjuice.com/News/9717656/Italian-CPI-YoY-Final-Actual-29-Forecast-28-Previous-28.aspx?xy=rss",
       "published": "2026-08-12T08:00:34+00:00",
       "score": 1
     },
@@ -142,7 +196,7 @@
       "category": "news",
       "title": "FinancialJuice: Italian CPI MoM Final Actual 0.3% (Forecast 0.2%, Previous 0.2%)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9717653/Italian-CPI-MoM-Final-Actual-03-Forecast-02-Previous-02.aspx",
+      "link": "https://www.financialjuice.com/News/9717653/Italian-CPI-MoM-Final-Actual-03-Forecast-02-Previous-02.aspx?xy=rss",
       "published": "2026-08-12T08:00:33+00:00",
       "score": 1
     },
@@ -151,34 +205,16 @@
       "category": "news",
       "title": "FinancialJuice: Hon Hai to start shipping NVIDIA's Vera Rubin platforms in 4Q.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9717643/Hon-Hai-to-start-shipping-NVIDIAs-Vera-Rubin-platforms-in-4Q.aspx",
+      "link": "https://www.financialjuice.com/News/9717643/Hon-Hai-to-start-shipping-NVIDIAs-Vera-Rubin-platforms-in-4Q.aspx?xy=rss",
       "published": "2026-08-12T07:59:52+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar trims gains, US Dollar firms up ahead of US CPI numbers",
-      "summary": "Canadian Dollar (CAD) ticks down from two-month highs as the US Dollar (USD) firms up across the board, with investors bracing for the US Consumer Price Index (CPI) report due later in the day.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trims-gains-us-dollar-firms-up-ahead-of-us-cpi-numbers-202608120757",
-      "published": "2026-08-12T07:57:25+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen remains under pressure against US Dollar, US CPI data eyed",
-      "summary": "The Japanese Yen (JPY) trades cautiously against the US Dollar (USD) during the European trading session on Wednesday, with the USD/JPY edging up to near 159.36.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-remains-under-pressure-against-us-dollar-us-cpi-data-eyed-202608120756",
-      "published": "2026-08-12T07:56:32+00:00",
-      "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Currency Strength Chart: Strongest: GBP, USD, AUD, CAD, NZD, JPY, CHF, NZD - Weakest",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9717574/Currency-Strength-Chart-Strongest-GBP-USD-AUD-CAD-NZD-JPY-CHF-NZD---Weakest.aspx",
+      "link": "https://www.financialjuice.com/News/9717574/Currency-Strength-Chart-Strongest-GBP-USD-AUD-CAD-NZD-JPY-CHF-NZD---Weakest.aspx?xy=rss",
       "published": "2026-08-12T07:01:03+00:00",
       "score": 1
     },
@@ -192,6 +228,15 @@
       "score": 1
     },
     {
+      "source": "r/Daytrading",
+      "category": "reddit",
+      "title": "Scam Alert – XM Trade",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>On 7 August, I had two pending Buy Limit orders on GOLD around 4325 and 4328. I was actively monitoring them and did not place market orders during the news movement.</p> <p>However, both orders were executed at 4352.84, resulting in significant losses and eventually a Stop Out.</p> <p>I contacted XM multiple times and provided screenshots, Trade IDs and the platf",
+      "link": "https://www.reddit.com/r/Daytrading/comments/1vm58lh/scam_alert_xm_trade/",
+      "published": "2026-08-12T05:34:32+00:00",
+      "score": 2
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "Indian Rupee drops with India-US CPI data in focus",
@@ -199,6 +244,24 @@
       "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-extend-surge-india-us-cpi-awaited-202608120529",
       "published": "2026-08-12T05:29:36+00:00",
       "score": 2
+    },
+    {
+      "source": "r/Daytrading",
+      "category": "reddit",
+      "title": "Gold 4H — Where do you think price goes next? 👀📊",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Daytrading/comments/1vm4dgl/gold_4h_where_do_you_think_price_goes_next/\"> <img alt=\"Gold 4H — Where do you think price goes next? 👀📊\" src=\"https://preview.redd.it/z100ntbhjvih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=04300d20a3d7a412e9fb1771b90292411e1d30a9\" title=\"Gold 4H — Where do you think price goes next? 👀📊\" /> </a> </td><td> <!-- S",
+      "link": "https://www.reddit.com/r/Daytrading/comments/1vm4dgl/gold_4h_where_do_you_think_price_goes_next/",
+      "published": "2026-08-12T04:47:26+00:00",
+      "score": 4
+    },
+    {
+      "source": "r/Daytrading",
+      "category": "reddit",
+      "title": "Eight years full time and almost all of my yearly P&L still lands on about a dozen days, which caused me more problems than the losing days ever did",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Married at 20, both of us employed, both of us out of work two months later. My dad traded most of my life so I knew it was a real thing people did, and I knew what a bad stretch looked like from the outside. I did not know what it looked like from inside a house with no income. He was in the hospital at the time and asking him for help felt like the wrong thing t",
+      "link": "https://www.reddit.com/r/Daytrading/comments/1vm26he/eight_years_full_time_and_almost_all_of_my_yearly/",
+      "published": "2026-08-12T02:56:33+00:00",
+      "score": 1
     },
     {
       "source": "r/Forex",
@@ -262,6 +325,24 @@
       "link": "https://nitter.net/KobeissiLetter/status/2087271800665223598#m",
       "published": "2026-08-11T20:15:51+00:00",
       "score": 4
+    },
+    {
+      "source": "r/Daytrading",
+      "category": "reddit",
+      "title": "2nd day of daytrading",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Daytrading/comments/1vlsa4y/2nd_day_of_daytrading/\"> <img alt=\"2nd day of daytrading\" src=\"https://preview.redd.it/kbpt78umxsih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa402c382749b9b5e5c904d6f7e26e169a89e3ad\" title=\"2nd day of daytrading\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I started Monday with 100..made it 530 and los",
+      "link": "https://www.reddit.com/r/Daytrading/comments/1vlsa4y/2nd_day_of_daytrading/",
+      "published": "2026-08-11T20:00:53+00:00",
+      "score": 4
+    },
+    {
+      "source": "r/Daytrading",
+      "category": "reddit",
+      "title": "Can we filter out low effort posts from people who have never traded?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>There is barely anything left to learn in this sub because informative posts get completely buried.<br /> To be clear, this is not about legitimate beginners asking real trading questions. It is about curious onlookers popping in with zero knowledge to ask broad meta questions like &quot;Is day trading even possible?&quot;, &quot;Is it worth doing?&quot;, or &quot",
+      "link": "https://www.reddit.com/r/Daytrading/comments/1vlrcno/can_we_filter_out_low_effort_posts_from_people/",
+      "published": "2026-08-11T19:27:10+00:00",
+      "score": 1
     },
     {
       "source": "Walter Bloomberg",
@@ -345,15 +426,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$NVDA - NVIDIA’S $500 BILLION AI FINANCING PLAN DIVIDES WALL STREET Nvidia unveiled partnerships with six financial firms to provide up to $500 billion in financing for customers buying its chips. CEO Jensen Huang says the structure addresses concerns over “circular financing” by shifting capital commitments away from Nvidia. Bank of America and Morgan Stanley welcomed the move, while Wells Fargo and Mizuho remain skeptical about Nvidia’s exposure and whether underlying AI demand can justify the massive investment.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  - NVIDIA’S $500 BILLION AI FINANCING PLAN DIVIDES WALL STREET<br />\n<br />\nNvidia unveiled partnerships with six financial firms to provide up to $500 billion in financing for customers buying its chips.<br />\n<br />\nCEO Jensen Huang says the structure addresses concerns over “circular financing” by shifting capital commitmen",
-      "link": "https://nitter.net/DeItaone/status/2087200271403286921#m",
-      "published": "2026-08-11T15:31:37+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: US jobs numbers have now been revised lower in 21 out of the last 30 months by a total of -1.05 million jobs. This means an average of -35,067 jobs have been revised out of previously reported data each month over this period. June and May jobs numbers alone were revised down by a total of -103,000, the largest 2-month downward revision since July 2025. This comes as June jobs were revised down by -37,000, to +20,000, while May jobs were revised down by -66,000, to +63,000. The May jobs figure was revised down for the 2nd time, following a -43,000 downward revision last month from the initially reported +172,000 jobs. If these revisions continue, June jobs could be revised into negative territory next month, which, combined with July's already reported -23,000 job loss, would mark the 2nd consecutive monthly decline in jobs, the first such occurrence since the 2020 pandemic. Job market revisions are alarming.",
@@ -415,6 +487,15 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vla6bf/bullish_setup_on_xauusd_today/",
       "published": "2026-08-11T07:04:22+00:00",
       "score": 3
+    },
+    {
+      "source": "r/Daytrading",
+      "category": "reddit",
+      "title": "Full-time trader going on 8 years. Never EVER give",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>l've made plenty of posts like this before. But I always feel like there are more people out there that need it.<br /> I've been a full time trader for about 8 years now. I got married super young at 20 and we both had good jobs, then lost BOTH 2 months into being married. My dad was a trader for most of my life, so I was very aware of the impact trading can make ",
+      "link": "https://www.reddit.com/r/Daytrading/comments/1vl4xsd/fulltime_trader_going_on_8_years_never_ever_give/",
+      "published": "2026-08-11T02:28:52+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
