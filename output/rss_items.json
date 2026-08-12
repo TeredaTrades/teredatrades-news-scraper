@@ -1,21 +1,84 @@
 {
-  "updated_at": "2026-08-12T19:26:49.218274+00:00",
-  "count": 63,
+  "updated_at": "2026-08-12T20:10:34.923194+00:00",
+  "count": 71,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Commodity FX: Growth constraints cap carry – BNY",
+      "summary": "BNY’s Geoff Yu notes that a less hawkish Fed has weakened the Dollar but failed to spark a sustained bid in commodity FX such as Norwegian Krone (NOK), Australian Dollar (AUD) and Emerging Markets (EM) currencies Chilean Peso (CLP), South African Rand (ZAR) and Brazilian Real (BRL).",
+      "link": "https://www.fxstreet.com/news/commodity-fx-growth-constraints-cap-carry-bny-202608122006",
+      "published": "2026-08-12T20:06:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: -932 mln<br />Nasdaq 100: -747 mln<br />Dow 30: +292 mln<br />Mag 7: -246 mln",
+      "link": "https://www.financialjuice.com/News/9718580/MOC-Imbalance.aspx",
+      "published": "2026-08-12T19:50:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump says White House Press Secretary Karoline Leavitt is resigning.",
+      "summary": "<p>BREAKING: President Trump says White House Press Secretary Karoline Leavitt is resigning.</p>\n<img src=\"https://nitter.net/pic/media%2FHPi8pCEWkAAxabi.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2087625845523329136#m",
+      "published": "2026-08-12T19:42:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CHF Price Forecast: Bearish flag forms as bulls eye 0.8200",
+      "summary": "The USD/CHF pair edges higher by some 0.30% on Wednesday, refreshing ten-day highs of 0.8138, as the uptrend is poised to extend if it clears key resistance levels.",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-forms-as-bulls-eye-08200-202608121941",
+      "published": "2026-08-12T19:41:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Range trade and upside risk against US Dollar – UOB",
+      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann note that USD/CNH has been confined to a tight range and expect the Dollar to trade between 6.7430 and 6.7530 in the near term.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-and-upside-risk-against-us-dollar-uob-202608121937",
+      "published": "2026-08-12T19:37:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: KAROLINE LEAVITT, WILL BE DEPARTING HER ROLE AT END OF MONTH",
+      "summary": "<p>TRUMP: KAROLINE LEAVITT, WILL BE DEPARTING HER ROLE AT END OF MONTH</p>",
+      "link": "https://nitter.net/DeItaone/status/2087624074046419449#m",
+      "published": "2026-08-12T19:35:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar firms ahead of a packed session",
+      "summary": "The US Dollar (USD) has extended its recovery on Wednesday following a Consumer Price Index (CPI) report that printed in line with forecasts. The US Dollar Index (DXY) has pushed back above the 100.00 mark, and the bid has broadened out against most majors heading into a data-heavy Thursday.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-a-packed-session-202608121928",
+      "published": "2026-08-12T19:28:39+00:00",
+      "score": 3
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Thursday FX Option Expiries",
       "summary": "<div><ul><li><strong>EUR/USD:</strong> 1.1600 (EU2.9b), 1.1575 (EU1.64b), 1.1500 (EU1.49b)</li><li><strong>USD/JPY: </strong>159.00 ($1.5b), 161.40 ($1.12b), 160.00 ($933.6m)</li><li><strong>AUD/USD: </strong>0.7000 (AUD874.4m), 0.6900 (AUD429.4m), 0.7065 (AUD356.7m)</li><li><strong>GBP/USD: </strong>1.3380 (GBP936.3m), 1.3515 (GBP404.8m), 1.3415 (GBP340.6m)</li><li><strong>USD/CAD: </strong>1.356",
-      "link": "https://www.financialjuice.com/News/9718541/Thursday-FX-Option-Expiries.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9718541/Thursday-FX-Option-Expiries.aspx",
       "published": "2026-08-12T19:22:23+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Silver Price Forecast: XAG bullish with eyes on 200-day SMA",
-      "summary": "Silver price surges over 1.40% on Wednesday as the latest inflation report in the United States (US) shows that prices are cooling, on its way towards the Federal Reserve’s goal of 2%. The XAG/USD trades at $65.53.",
+      "title": "Silver Price Forecast: XAG turns bullish, eyes 200-day SMA",
+      "summary": "Silver (XAG/USD) price surges over 1.40% on Wednesday as the latest inflation report in the United States (US) showed that prices are cooling, on its way towards the Federal Reserve’s (Fed) goal of 2%. At the time of writing, the XAG/USD pair trades at $65.53 after reaching a daily high of $66.80.",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-bullish-with-eyes-on-200-day-sma-202608121915",
       "published": "2026-08-12T19:15:27+00:00",
       "score": 5
@@ -52,7 +115,7 @@
       "category": "news",
       "title": "FinancialJuice: US Federal Budget Balance Actual -432.308B (Forecast -346B, Previous -120.00B)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9718452/US-Federal-Budget-Balance-Actual--432308B-Forecast--346B-Previous--12000B.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9718452/US-Federal-Budget-Balance-Actual--432308B-Forecast--346B-Previous--12000B.aspx",
       "published": "2026-08-12T17:58:51+00:00",
       "score": 1
     },
@@ -70,7 +133,7 @@
       "category": "news",
       "title": "FinancialJuice: Google executives held an all-hands meeting last week to discuss AI unit reorganization amid employee concerns - Sources $GOOGL",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9718438/Google-executives-held-an-all-hands-meeting-last-week-to-discuss-AI-unit-reorganization-amid-employee-concerns---Sources-GOOGL.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9718438/Google-executives-held-an-all-hands-meeting-last-week-to-discuss-AI-unit-reorganization-amid-employee-concerns---Sources-GOOGL.aspx",
       "published": "2026-08-12T17:33:57+00:00",
       "score": 1
     },
@@ -79,35 +142,26 @@
       "category": "news",
       "title": "FinancialJuice: Google co-founder Sergey Brin urged staff in recent months to refocus on restoring the Gemini model to the forefront of AI - Sources $GOOGL",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9718437/Google-co-founder-Sergey-Brin-urged-staff-in-recent-months-to-refocus-on-restoring-the-Gemini-model-to-the-forefront-of-AI---Sources-GOOGL.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9718437/Google-co-founder-Sergey-Brin-urged-staff-in-recent-months-to-refocus-on-restoring-the-Gemini-model-to-the-forefront-of-AI---Sources-GOOGL.aspx",
       "published": "2026-08-12T17:33:57+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Treasury 10-year note auction draws highest yield since 2007.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718417/Treasury-10-year-note-auction-draws-highest-yield-since-2007.aspx?xy=rss",
-      "published": "2026-08-12T17:05:17+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TREASURY 10-YEAR NOTE AUCTION DRAWS HIGHEST YIELD SINCE 2007",
+      "summary": "<p>*TREASURY 10-YEAR NOTE AUCTION DRAWS HIGHEST YIELD SINCE 2007</p>",
+      "link": "https://nitter.net/DeItaone/status/2087586264186843467#m",
+      "published": "2026-08-12T17:05:25+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 10 Yr Note Auction",
-      "summary": "<ul><li>High Yield&nbsp;4.683% (Tail of 0.1 BPS)</li><li>Bid/Cover Ratio 2.53</li><li>Awards 65.27% of bids at high</li><li>Sells $53 bln</li><li>Primary dealers 8.6%</li><li>Direct 14.67% </li><li>Indirect 76.73% </li></ul>",
-      "link": "https://www.financialjuice.com/News/9718416/US-10-Yr-Note-Auction.aspx?xy=rss",
-      "published": "2026-08-12T17:04:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 10-Year Note High Yield Actual 4.683% (Forecast -, Previous 4.580%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718414/US-10-Year-Note-High-Yield-Actual-4683-Forecast---Previous-4580.aspx?xy=rss",
-      "published": "2026-08-12T17:02:04+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*US 10Y NOTES DRAW 4.683% VS 4.682% PRE-SALE WHEN-ISSUED YIELD",
+      "summary": "<p>*US 10Y NOTES DRAW 4.683% VS 4.682% PRE-SALE WHEN-ISSUED YIELD</p>",
+      "link": "https://nitter.net/DeItaone/status/2087585739122815403#m",
+      "published": "2026-08-12T17:03:20+00:00",
       "score": 1
     },
     {
@@ -136,6 +190,15 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vmj28x/how_to_learn_msnr_to_implement_in_forex_xauusd/",
       "published": "2026-08-12T16:30:31+00:00",
       "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "GOLDMAN SEES CORE PCE AT 0.23% Goldman Sachs expects July core PCE to rise 0.23% M/M, slightly above core CPI and consensus. Portfolio management fees are expected to add 8 bps, reflecting Q2 equity gains. Goldman says upcoming methodology changes could create volatility in PCE readings and lower annual core inflation. The bank expects core inflation near 0.2% in August and sees the Fed holding rates steady through year-end.",
+      "summary": "<p>GOLDMAN SEES CORE PCE AT 0.23%<br />\n<br />\nGoldman Sachs expects July core PCE to rise 0.23% M/M, slightly above core CPI and consensus.<br />\n<br />\nPortfolio management fees are expected to add 8 bps, reflecting Q2 equity gains.<br />\n<br />\nGoldman says upcoming methodology changes could create volatility in PCE readings and lower annual core inflation.<br />\n<br />\nThe bank expects core in",
+      "link": "https://nitter.net/DeItaone/status/2087572463198552177#m",
+      "published": "2026-08-12T16:10:35+00:00",
+      "score": 5
     },
     {
       "source": "FXStreet",
@@ -183,6 +246,24 @@
       "score": 2
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP SUED OVER PLAN TO SELL FAST ACCESS TO TRUTH SOCIAL POSTS",
+      "summary": "<p>*TRUMP SUED OVER PLAN TO SELL FAST ACCESS TO TRUTH SOCIAL POSTS</p>",
+      "link": "https://nitter.net/DeItaone/status/2087555533502865562#m",
+      "published": "2026-08-12T15:03:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "SANTANDER STILL SEES SEPTEMBER FED HIKE July CPI is unlikely to decide the Fed’s September move, according to Santander’s Stephen Stanley. Unrounded core CPI rose 0.215% M/M, equivalent to a 2.6% annualized pace. Despite the broadly in-line inflation report, Stanley continues to expect the Fed to raise rates in September, followed by another hike in December.",
+      "summary": "<p>SANTANDER STILL SEES SEPTEMBER FED HIKE<br />\n<br />\nJuly CPI is unlikely to decide the Fed’s September move, according to Santander’s Stephen Stanley.<br />\n<br />\nUnrounded core CPI rose 0.215% M/M, equivalent to a 2.6% annualized pace.<br />\n<br />\nDespite the broadly in-line inflation report, Stanley continues to expect the Fed to raise rates in September, followed by another hike in Decemb",
+      "link": "https://nitter.net/DeItaone/status/2087554844638765550#m",
+      "published": "2026-08-12T15:00:34+00:00",
+      "score": 4
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "President Trump says US has \"total control\" of Hormuz",
@@ -201,31 +282,31 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Emerging Markets: Steepening Treasuries curb appeal – BNY",
-      "summary": "BNY’s Geoff Yu reports that sovereign bonds from commodity-based EM economies have seen accelerated selling after the Fed decision, despite a weaker Dollar and lower U.S. real yields.",
-      "link": "https://www.fxstreet.com/news/emerging-markets-steepening-treasuries-curb-appeal-bny-202608121436",
-      "published": "2026-08-12T14:36:36+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Improving sentiment supports gains against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report the British Pound (GBP) is posting fractional gains versus the US Dollar (USD) and outperforming G10 peers as improving sentiment supports price action.",
-      "link": "https://www.fxstreet.com/news/british-pound-improving-sentiment-supports-gains-against-us-dollar-scotiabank-202608121407",
-      "published": "2026-08-12T14:07:22+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: U.S. HAS “TOTAL CONTROL” OF HORMUZ President Trump claims the U.S. has “total control” of the Strait of Hormuz and suggested Washington could keep control of the strategic waterway. He described the U.S. naval blockade as a “wall of steel.” Trump also claimed Iran’s military has been severely weakened, the IRGC is “decimated,” and the country faces deep economic problems. He declared Iran is “no longer” the bully of the Middle East.",
+      "summary": "<p>TRUMP: U.S. HAS “TOTAL CONTROL” OF HORMUZ<br />\n<br />\nPresident Trump claims the U.S. has “total control” of the Strait of Hormuz and suggested Washington could keep control of the strategic waterway.<br />\n<br />\nHe described the U.S. naval blockade as a “wall of steel.”<br />\n<br />\nTrump also claimed Iran’s military has been severely weakened, the IRGC is “decimated,” and the country faces ",
+      "link": "https://nitter.net/DeItaone/status/2087547985143922784#m",
+      "published": "2026-08-12T14:33:19+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar steadies as US inflation meets expectations, Oil limits downside",
-      "summary": "USD/CAD trades around 1.3915 on Wednesday at the time of writing, virtually unchanged on the day with a modest decline of 0.06%.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-us-inflation-meets-expectations-oil-limits-downside-202608121400",
-      "published": "2026-08-12T14:00:07+00:00",
-      "score": 2
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: U.S.A. HAS TOTAL CONTROL OVER OVER STRAIT OF HORMUZ",
+      "summary": "<p>TRUMP ON IRAN: U.S.A. HAS TOTAL CONTROL OVER OVER STRAIT OF HORMUZ</p>",
+      "link": "https://nitter.net/DeItaone/status/2087547777609789709#m",
+      "published": "2026-08-12T14:32:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "📅 TRUMP’S SCHEDULE — WEDNESDAY, AUGUST 12 🔸 8:00 AM — Executive Time 🔸 10:30 AM — Greeting with Law Enforcement & Military 🔸 11:00 AM — Policy Meeting 🔸 12:30 PM — Policy Meeting 🔸 2:30 PM — Signing Time 🔸 4:00 PM — Policy Meeting 🔸 5:00 PM — Policy Meeting 📍 White House / Oval Office 🔒 All presidential events closed to press",
+      "summary": "<p>📅 TRUMP’S SCHEDULE — WEDNESDAY, AUGUST 12<br />\n<br />\n🔸 8:00 AM — Executive Time<br />\n🔸 10:30 AM — Greeting with Law Enforcement & Military<br />\n🔸 11:00 AM — Policy Meeting<br />\n🔸 12:30 PM — Policy Meeting<br />\n🔸 2:30 PM — Signing Time<br />\n🔸 4:00 PM — Policy Meeting<br />\n🔸 5:00 PM — Policy Meeting<br />\n<br />\n📍 White House / Oval Office<br />\n🔒 All presidential events closed to press</",
+      "link": "https://nitter.net/DeItaone/status/2087547705023218140#m",
+      "published": "2026-08-12T14:32:12+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -271,15 +352,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vmba45/cpi_today_will_gold_break_4435_or_reject/",
       "published": "2026-08-12T11:18:34+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold holds gains above $4,400 after US CPI meets expectations",
-      "summary": "Gold (XAU/USD) extends gains above $4,400 on Wednesday as traders digest US inflation data, which came broadly in line with expectations. At the time of writing, XAU/USD trades around $4,429, up 1.38% on the day.",
-      "link": "https://www.fxstreet.com/news/gold-rises-above-4-400-as-us-inflation-data-takes-centre-stage-202608121051",
-      "published": "2026-08-12T10:51:12+00:00",
-      "score": 5
     },
     {
       "source": "r/Forex",
