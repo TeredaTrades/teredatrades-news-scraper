@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-08-12T04:48:21.741131+00:00",
-  "count": 63,
+  "updated_at": "2026-08-12T06:15:50.123084+00:00",
+  "count": 60,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed Interest Rate Probabilities",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9717525/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+      "published": "2026-08-12T06:15:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9717521/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+      "published": "2026-08-12T06:12:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: German CPI Final MoM Actual 0.8% (Forecast 0.8%, Previous 0.8%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9717494/German-CPI-Final-MoM-Actual-08-Forecast-08-Previous-08.aspx?xy=rss",
+      "published": "2026-08-12T06:00:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: German CPI Final YoY Actual 2.8% (Forecast 2.8%, Previous 2.8%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9717493/German-CPI-Final-YoY-Actual-28-Forecast-28-Previous-28.aspx?xy=rss",
+      "published": "2026-08-12T06:00:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro trades with caution against US Dollar in countdown to US CPI data",
+      "summary": "The Euro (EUR) trades marginally lower at around 1.1534 against the US Dollar (USD) at the start of the European trading session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/euro-trades-with-caution-against-us-dollar-in-countdown-to-us-cpi-data-202608120551",
+      "published": "2026-08-12T05:51:44+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee falls further as oil prices extend surge, India-US CPI awaited",
+      "summary": "The Indian Rupee (INR) extends its decline against the US Dollar (USD) on Wednesday as the former continues to face pressure due to surging oil prices.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-falls-further-as-oil-prices-extend-surge-india-us-cpi-awaited-202608120529",
+      "published": "2026-08-12T05:29:36+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -12,15 +66,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Boston Fed President Susan Collins: Would support September rate increase if inflation stays high - FT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9717420/Boston-Fed-President-Susan-Collins-Would-support-September-rate-increase-if-inflation-stays-high---FT.aspx?xy=rss",
-      "published": "2026-08-12T04:06:57+00:00",
-      "score": 2
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "United States Dollar Index rises to near 100.00 ahead of US inflation data",
@@ -28,24 +73,6 @@
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-to-near-10000-ahead-of-us-inflation-data-202608120403",
       "published": "2026-08-12T04:03:32+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China finance ministry offers 3-month bills at 1.0787% yield: traders",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9717386/China-finance-ministry-offers-3-month-bills-at-10787-yield-traders.aspx?xy=rss",
-      "published": "2026-08-12T03:42:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China finance ministry auctions 50-year ultra-long special treasury bonds at 2.2831% yield: traders",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9717385/China-finance-ministry-auctions-50-year-ultra-long-special-treasury-bonds-at-22831-yield-traders.aspx?xy=rss",
-      "published": "2026-08-12T03:40:24+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -72,15 +99,6 @@
       "summary": "NZD/USD continues its losing streak for the third consecutive day, trading around 0.5870 during the Asian hours on Wednesday. The pair depreciates as the US Dollar (USD) gains ground on increased safe-haven demand amid rising uncertainty surrounding Middle East peace talks.",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-as-us-dollar-gains-on-middle-east-uncertainty-202608120308",
       "published": "2026-08-12T03:08:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Spot gold rises nearly 1% to $4,408.79/oz",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9717332/Spot-gold-rises-nearly-1-to-440879oz.aspx?xy=rss",
-      "published": "2026-08-12T02:46:32+00:00",
       "score": 1
     },
     {
@@ -120,19 +138,10 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: S.Korea central bank: Sells 1-year monetary stabilization bonds at 3.350% yield",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9717219/SKorea-central-bank-Sells-1-year-monetary-stabilization-bonds-at-3350-yield.aspx?xy=rss",
-      "published": "2026-08-12T01:40:03+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold retakes $4,400, eyes two-month high as traders look to US CPI for Fed hike cues",
-      "summary": "Gold (XAU/USD) attracts fresh buyers during the Asian session on Wednesday and climbs back above the $4,400 mark, closer to its highest level since June 5, which was touched the previous day.",
+      "title": "Gold pares intraday gains as Fed hike bets and Iran risks support USD ahead of US CPI",
+      "summary": "Gold (XAU/USD) trims a part of its intraday gains and trades below the $4,400 mark heading into the European session on Wednesday, still up 0.50% for the day.",
       "link": "https://www.fxstreet.com/news/gold-trades-with-positive-bias-below-4-400-fed-hike-bets-cap-gains-ahead-of-us-cpi-202608120138",
       "published": "2026-08-12T01:38:52+00:00",
       "score": 5
@@ -210,48 +219,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US yields ease as CPI caution offsets Oil rally",
-      "summary": "US Treasury yields eased on Tuesday as most investors remain cautious, awaiting the release of US inflation figures and the resolution of the US-Iran conflict, which has encountered hurdles.",
-      "link": "https://www.fxstreet.com/news/us-yields-ease-as-cpi-caution-offsets-oil-rally-202608112239",
-      "published": "2026-08-11T22:39:56+00:00",
-      "score": 3
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "The US government is ramping up hiring: Government job openings jumped +10,000 in June, to 823,000, the highest since June 2025. This marks the 4th consecutive monthly increase, totaling +98,000. Since November 2025, available vacancies in the government have surged +165,000. Meanwhile, federal government job openings rose +39,000 in June, to 139,000, the highest since October 2024. This marks the largest monthly increase since May 2024. Government hiring is soaring.",
       "summary": "<p>The US government is ramping up hiring:<br />\n<br />\nGovernment job openings jumped +10,000 in June, to 823,000, the highest since June 2025.<br />\n<br />\nThis marks the 4th consecutive monthly increase, totaling +98,000.<br />\n<br />\nSince November 2025, available vacancies in the government have surged +165,000.<br />\n<br />\nMeanwhile, federal government job openings rose +39,000 in June, to ",
       "link": "https://nitter.net/KobeissiLetter/status/2087307106428850579#m",
       "published": "2026-08-11T22:36:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Range trade persists, upside risk against US Dollar – UOB",
-      "summary": "United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann expect USD/CNH to remain confined in a narrow intraday range, reflecting flat momentum indicators. Over the next 1–3 weeks, they still see scope for the Dollar to edge lower toward 6.7300 while resistance has shifted higher.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-upside-risk-against-us-dollar-uob-202608112226",
-      "published": "2026-08-11T22:26:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Japanese Yen gives back half of a record intervention",
-      "summary": "USD/JPY trades just beneath 159.50 on Tuesday August 11, effectively unchanged inside a 47-pip range, wedged between a reclaimed 200-day moving average near 158.00 and a declining 50-day near 160.50.",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-gives-back-half-of-a-record-intervention-202608112205",
-      "published": "2026-08-11T22:05:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah: BI succession supports IDR against US Dollar – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that Indonesian Rupiah (IDR) strengthened to near a two‑month high on a softer US Dollar (USD) after weak United States (US) payrolls and clarity over Bank Indonesia (BI) leadership, with Destry Damayanti nominated as sole governor candidate.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-succession-supports-idr-against-us-dollar-ocbc-202608112141",
-      "published": "2026-08-11T21:41:00+00:00",
       "score": 1
     },
     {
