@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-12T17:14:56.855524+00:00",
-  "count": 73,
+  "updated_at": "2026-08-12T18:10:17.461545+00:00",
+  "count": 71,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Federal Budget Balance Actual -432.308B (Forecast -346B, Previous -120.00B)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9718452/US-Federal-Budget-Balance-Actual--432308B-Forecast--346B-Previous--12000B.aspx?xy=rss",
+      "published": "2026-08-12T17:58:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "How beginner thinks what News trading is (W gold)",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vmlf97/how_beginner_thinks_what_news_trading_is_w_gold/\"> <img alt=\"How beginner thinks what News trading is (W gold)\" src=\"https://preview.redd.it/vxulfb0ufzih1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b93ef3807f349303c362193c68310e61334da8f1\" title=\"How beginner thinks what News trading is (W gold)\" /> </a> </td><td> &#3",
+      "link": "https://www.reddit.com/r/Forex/comments/1vmlf97/how_beginner_thinks_what_news_trading_is_w_gold/",
+      "published": "2026-08-12T17:53:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google executives held an all-hands meeting last week to discuss AI unit reorganization amid employee concerns - Sources $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9718438/Google-executives-held-an-all-hands-meeting-last-week-to-discuss-AI-unit-reorganization-amid-employee-concerns---Sources-GOOGL.aspx?xy=rss",
+      "published": "2026-08-12T17:33:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google co-founder Sergey Brin urged staff in recent months to refocus on restoring the Gemini model to the forefront of AI - Sources $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9718437/Google-co-founder-Sergey-Brin-urged-staff-in-recent-months-to-refocus-on-restoring-the-Gemini-model-to-the-forefront-of-AI---Sources-GOOGL.aspx?xy=rss",
+      "published": "2026-08-12T17:33:57+00:00",
+      "score": 1
+    },
     {
       "source": "Walter Bloomberg",
       "category": "twitter",
@@ -60,7 +96,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "British Pound holds near 1.3500 as CPI relief meets Hormuz risk",
-      "summary": "The Pound Sterling holds firm within familiar levels after the US inflation report was aligned with estimates, a relief for the Federal Reserve, which is laser-focussed on tackling higher prices. The GBP/USD trades at around 1.3500 after reaching a high of 1.3546.",
+      "summary": "The Pound Sterling (GBP) holds firm within familiar levels on Wednesday after the US inflation report was in line with estimates, a relief for the Federal Reserve (Fed), which is laser-focused on tackling higher prices. The GBP/USD pair trades at around 1.3500 after reaching a high of 1.3546.",
       "link": "https://www.fxstreet.com/news/british-pound-holds-near-13500-as-cpi-relief-meets-hormuz-risk-202608121657",
       "published": "2026-08-12T16:57:31+00:00",
       "score": 4
@@ -165,15 +201,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump Reiterates Control of Hormuz - Truth Social",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718227/Trump-Reiterates-Control-of-Hormuz---Truth-Social.aspx?xy=rss",
-      "published": "2026-08-12T14:40:10+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says the US has “total control” over the Strait of Hormuz and “I think we will keep it.”",
@@ -190,15 +217,6 @@
       "link": "https://www.fxstreet.com/news/emerging-markets-steepening-treasuries-curb-appeal-bny-202608121436",
       "published": "2026-08-12T14:36:36+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US CPI Market Reactions & Deviations - FJElite",
-      "summary": "<strong>Sentiment Post Release</strong><ul><li>US short-term interest-rate futures rise slightly after inflation report.</li><li>Traders keep bets on a 45% chance of a September Fed rate hike.</li></ul>",
-      "link": "https://www.financialjuice.com/News/9718225/US-CPI-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
-      "published": "2026-08-12T14:34:37+00:00",
-      "score": 3
     },
     {
       "source": "Walter Bloomberg",
@@ -246,15 +264,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$GOOGL - GOOGLE'S NEW PHONES ARE $100 MORE EXPENSIVE THAN LAST EDITIONS",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23GOOGL\">$GOOGL</a> - GOOGLE'S NEW PHONES ARE $100 MORE EXPENSIVE THAN LAST EDITIONS</p>",
-      "link": "https://nitter.net/DeItaone/status/2087539841424675260#m",
-      "published": "2026-08-12T14:00:57+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Canadian Dollar steadies as US inflation meets expectations, Oil limits downside",
@@ -262,24 +271,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-us-inflation-meets-expectations-oil-limits-downside-202608121400",
       "published": "2026-08-12T14:00:07+00:00",
       "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "YARDENI LIFTS S&P 500 TARGET TO 8,400 Ed Yardeni raised his S&P 500 target to 8,400 from 8,250, citing “fabulous earnings momentum.” He now expects 2026 S&P 500 earnings of $375, up from $330, as companies broadly beat forecasts. Yardeni sees the earnings-driven rally continuing and maintains his 10,000 target for 2029. He puts recession and bear-market risk at just 20%, viewing any major pullback as a buying opportunity.",
-      "summary": "<p>YARDENI LIFTS S&amp;P 500 TARGET TO 8,400<br />\n<br />\nEd Yardeni raised his S&amp;P 500 target to 8,400 from 8,250, citing “fabulous earnings momentum.”<br />\n<br />\nHe now expects 2026 S&amp;P 500 earnings of $375, up from $330, as companies broadly beat forecasts.<br />\n<br />\nYardeni sees the earnings-driven rally continuing and maintains his 10,000 target for 2029.<br />\n<br />\nHe puts rec",
-      "link": "https://nitter.net/DeItaone/status/2087537050845131204#m",
-      "published": "2026-08-12T13:49:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "CPI EASES PRESSURE ON FED TO HIKE July CPI came in close enough to expectations to reduce pressure on the Fed to raise rates in September, according to Nick Timiraos. The Fed has argued current rates are restrictive enough to bring inflation toward 2% without further hikes. But persistent tariffs, energy pressures and AI-driven demand for technology equipment and software are complicating that outlook. For now, the CPI report gives policymakers more room to hold rates steady.",
-      "summary": "<p>CPI EASES PRESSURE ON FED TO HIKE<br />\n<br />\nJuly CPI came in close enough to expectations to reduce pressure on the Fed to raise rates in September, according to Nick Timiraos.<br />\n<br />\nThe Fed has argued current rates are restrictive enough to bring inflation toward 2% without further hikes.<br />\n<br />\nBut persistent tariffs, energy pressures and AI-driven demand for technology equipm",
-      "link": "https://nitter.net/DeItaone/status/2087535961399845332#m",
-      "published": "2026-08-12T13:45:32+00:00",
-      "score": 4
     },
     {
       "source": "FXStreet",
@@ -307,15 +298,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2087525891911893362#m",
       "published": "2026-08-12T13:05:31+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro remains little changed as US CPI fails to surprise the markets",
-      "summary": "EUR/USD trades around 1.1550 on Wednesday at the time of writing, up a modest 0.08% on the day.",
-      "link": "https://www.fxstreet.com/news/euro-remains-little-changed-as-us-cpi-fails-to-surprise-the-markets-202608121246",
-      "published": "2026-08-12T12:46:02+00:00",
-      "score": 2
     },
     {
       "source": "Kobeissi Letter",
