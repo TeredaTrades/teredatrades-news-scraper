@@ -1,7 +1,124 @@
 {
-  "updated_at": "2026-08-12T00:07:53.396673+00:00",
-  "count": 65,
+  "updated_at": "2026-08-12T02:45:29.655599+00:00",
+  "count": 70,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar slips as US Dollar strengthens amid uncertainty over Fed outlook",
+      "summary": "AUD/USD depreciates after registering modest gains in the previous day, trading around 0.7060 during the Asian hours on Wednesday. The currency pair loses ground as the US Dollar (USD) rises ahead of a crucial inflation report.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-us-dollar-strengthens-amid-uncertainty-over-fed-outlook-202608120233",
+      "published": "2026-08-12T02:33:07+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen slides to two-week low, seems vulnerable as USD stands firm ahead of US CPI",
+      "summary": "The USD/JPY pair touches a one-and-a-half-week high during the Asian session on Wednesday, with bulls now looking to build on the momentum further beyond mid-159.00s amid a supportive fundamental backdrop.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-slides-to-two-week-low-seems-vulnerable-as-usd-stands-firm-ahead-of-us-cpi-202608120228",
+      "published": "2026-08-12T02:28:10+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "A backtest can look perfect — until you shift the data 28 years",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vm1jtx/a_backtest_can_look_perfect_until_you_shift_the/\"> <img alt=\"A backtest can look perfect — until you shift the data 28 years\" src=\"https://preview.redd.it/ladhippqtuih1.jpg?width=140&amp;height=121&amp;auto=webp&amp;s=02b42d239a1b7a2c8e59926ef91bcb723fd2dfec\" title=\"A backtest can look perfect — until you shift the data 28 y",
+      "link": "https://www.reddit.com/r/Forex/comments/1vm1jtx/a_backtest_can_look_perfect_until_you_shift_the/",
+      "published": "2026-08-12T02:26:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound loses as rising US Dollar, geopolitical tensions weigh on sentiment",
+      "summary": "GBP/USD inches lower after remaining flat in the previous day, trading around 1.3500 during the Asian hours on Wednesday. The currency pair continues to hold its losses as the US Dollar (USD) gains strength ahead of a crucial inflation report.",
+      "link": "https://www.fxstreet.com/news/british-pound-loses-as-rising-us-dollar-geopolitical-tensions-weigh-on-sentiment-202608120155",
+      "published": "2026-08-12T01:55:40+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: S.Korea central bank: Sells 1-year monetary stabilization bonds at 3.350% yield",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9717219/SKorea-central-bank-Sells-1-year-monetary-stabilization-bonds-at-3350-yield.aspx?xy=rss",
+      "published": "2026-08-12T01:40:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold trades with positive bias below $4,400; Fed hike bets cap gains ahead of US CPI",
+      "summary": "Gold (XAU/USD) attracts some dip-buyers during the Asian session on Wednesday, stalling the previous day's retracement slide from the $4,435 region, or the highest level since June 5.",
+      "link": "https://www.fxstreet.com/news/gold-trades-with-positive-bias-below-4-400-fed-hike-bets-cap-gains-ahead-of-us-cpi-202608120138",
+      "published": "2026-08-12T01:38:52+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Experts split on whether next RBA move is a hike or cut amid energy risks",
+      "summary": "The Reserve Bank of Australia (RBA) unanimously held rates at 4.35% in August, but major economic forecasters offer varying takes on what comes next:",
+      "link": "https://www.fxstreet.com/news/banks-split-on-whether-next-rba-move-is-a-hike-or-cut-amid-energy-risks-202608120115",
+      "published": "2026-08-12T01:15:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7882 vs. 6.7900 previous",
+      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7882 compared to the previous day's fix of 6.7900 and 6.7430 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67882-vs-67900-previous-202608120115",
+      "published": "2026-08-12T01:15:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro consolidates below mid-1.1500s vs USD ahead of German HICP, US CPI",
+      "summary": "The EUR/USD pair struggles to gain any meaningful traction and holds steady around mid-1.1500s during the Asian session on Wednesday, within a familiar range held over the past week or so.",
+      "link": "https://www.fxstreet.com/news/euro-consolidates-below-mid-11500s-vs-usd-ahead-of-german-hicp-us-cpi-202608120108",
+      "published": "2026-08-12T01:08:56+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Plane I flew on faces 'greater risk'",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9717189/Trump-Plane-I-flew-on-faces-greater-risk.aspx?xy=rss",
+      "published": "2026-08-12T01:01:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: was adhering to secret service guidance during flight change",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9717180/Trump-was-adhering-to-secret-service-guidance-during-flight-change.aspx?xy=rss",
+      "published": "2026-08-12T00:59:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump's capital gains tax cut discussions include \"indexing\" capital gains for inflation BEFORE taxes are calculated. This would mean that taxes would be applied on gains adjusted for inflation. For example, if you purchased a stock for $100,000 and sold it 5 years later for $200,000. Under the current system, you would owe capital gains taxes on the full $100,000 gain. But, if cumulative inflation over those 5 years was 20%, your inflation-adjusted cost basis would rise to $120,000. This means you would only owe capital gains taxes on the $80,000 REAL gain, rather than the $100,000 nominal gain. Trump has also suggested exemptions for sales of homes worth $2 million or less from capital gains taxes. We expect more details soon.",
+      "summary": "<p>BREAKING: President Trump's capital gains tax cut discussions include \"indexing\" capital gains for inflation BEFORE taxes are calculated.<br />\n<br />\nThis would mean that taxes would be applied on gains adjusted for inflation.<br />\n<br />\nFor example, if you purchased a stock for $100,000 and sold it 5 years later for $200,000.<br />\n<br />\nUnder the current system, you would owe capital gain",
+      "link": "https://nitter.net/KobeissiLetter/status/2087337751880380822#m",
+      "published": "2026-08-12T00:37:55+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "does anyone actually change anything for cpi or is it mostly theatre",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>genuine question because every thread this week is people announcing they're sitting out and then posting entries at 8:35 anyway.</p> <p>the thing that made me stop caring about the print itself was realising my stop isnt really a stop during it. spread widens, liquidity goes for a few seconds, and the fill comes back wherever it comes back. a 20 pip stop that fil",
+      "link": "https://www.reddit.com/r/Forex/comments/1vlysxe/does_anyone_actually_change_anything_for_cpi_or/",
+      "published": "2026-08-12T00:20:46+00:00",
+      "score": 1
+    },
     {
       "source": "Kobeissi Letter",
       "category": "twitter",
@@ -66,15 +183,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Amazon: OpenAI Daybreak models now accessible to qualified customers on Amazon Bedrock website",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9717061/Amazon-OpenAI-Daybreak-models-now-accessible-to-qualified-customers-on-Amazon-Bedrock-website.aspx?xy=rss",
-      "published": "2026-08-11T21:50:14+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Indonesian Rupiah: BI succession supports IDR against US Dollar – OCBC",
@@ -111,15 +219,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: U.S. judge halts postal service from limiting mail-in voting under Trump order: docket",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9717009/US-judge-halts-postal-service-from-limiting-mail-in-voting-under-Trump-order-docket.aspx?xy=rss",
-      "published": "2026-08-11T21:02:55+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Thai Baht: Benign inflation keeps BoT on hold – Commerzbank",
@@ -145,51 +244,6 @@
       "link": "https://www.fxstreet.com/news/euro-stalls-below-100-day-sma-as-investors-brace-for-us-cpi-202608111950",
       "published": "2026-08-11T19:50:25+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Measured appreciation with strong RMB – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note USD/CNH slipped after weak US payrolls, with the Renminbi (RMB) near its strongest levels in over three years.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-measured-appreciation-with-strong-rmb-ocbc-202608111948",
-      "published": "2026-08-11T19:48:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Range bias with upside risk against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann expect USD/SGD to remain in a tight intraday band after Monday’s modest rebound, with the pair seen between 1.2785 and 1.2815.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-bias-with-upside-risk-against-us-dollar-uob-202608111913",
-      "published": "2026-08-11T19:13:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Policy risks balanced as inflation lingers – Standard Chartered",
-      "summary": "Standard Chartered’s Nicholas Chia reports that the Reserve Bank of Australia (RBA) kept the cash rate at 4.35% in a unanimous decision, as widely expected. Chia notes the RBA sees inflation returning to the midpoint of its 2–3% target only by late 2027.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-policy-risks-balanced-as-inflation-lingers-standard-chartered-202608111846",
-      "published": "2026-08-11T18:46:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar on pause ahead of US CPI",
-      "summary": "The US Dollar Index (DXY) is trading little changed in the vicinity below the 100.00 price zone ahead of the United States (US) July Consumer Price Index (CPI), which is expected on Wednesday.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-on-pause-ahead-of-us-cpi-202608111818",
-      "published": "2026-08-11T18:18:18+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Oil: Strait of Hormuz risk premium – Commerzbank",
-      "summary": "Commerzbank’s energy team notes fading hopes for a US–Iran agreement to reopen the Strait of Hormuz, driving Brent toward USD 90 and gas oil to nearly USD 1,350 per ton. Drone attacks on refineries in Saudi Arabia, Russia, Libya and tight diesel supply add to the risk premium.",
-      "link": "https://www.fxstreet.com/news/oil-strait-of-hormuz-risk-premium-commerzbank-202608111815",
-      "published": "2026-08-11T18:15:21+00:00",
-      "score": 1
     },
     {
       "source": "Walter Bloomberg",
@@ -414,15 +468,6 @@
       "summary": "<p>BREAKING: President Trump says the U.S. is now demanding compensation from Iran.</p>\n<img src=\"https://nitter.net/pic/media%2FHPYHLXHXIAA2eO9.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2086863376924266956#m",
       "published": "2026-08-10T17:12:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "DXY Index Looking Weak | Key Levels to Watch",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vkna9d/dxy_index_looking_weak_key_levels_to_watch/\"> <img alt=\"DXY Index Looking Weak | Key Levels to Watch\" src=\"https://preview.redd.it/5vox6t2dakih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4cc704bfbd90df34603521b7ab68173b60d3487b\" title=\"DXY Index Looking Weak | Key Levels to Watch\" /> </a> </td><td> <!-- SC_OFF --><div",
-      "link": "https://www.reddit.com/r/Forex/comments/1vkna9d/dxy_index_looking_weak_key_levels_to_watch/",
-      "published": "2026-08-10T15:00:43+00:00",
       "score": 1
     },
     {
