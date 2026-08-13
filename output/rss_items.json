@@ -1,149 +1,176 @@
 {
-  "updated_at": "2026-08-13T06:06:05.150513+00:00",
-  "count": 62,
+  "updated_at": "2026-08-13T07:53:47.275483+00:00",
+  "count": 70,
   "items": [
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Swedish CPI MoM Actual -0.3% (Forecast -0.3%, Previous -0.3%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9719272/Swedish-CPI-MoM-Actual--03-Forecast--03-Previous--03.aspx?xy=1",
-      "published": "2026-08-13T06:00:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Swedish CPI YoY Actual 0.2% (Forecast 0.2%, Previous 0.2%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9719271/Swedish-CPI-YoY-Actual-02-Forecast-02-Previous-02.aspx?xy=1",
-      "published": "2026-08-13T06:00:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Bank of Korea buys $250 mil in gold ETF - SEC filing",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9719261/Bank-of-Korea-buys-250-mil-in-gold-ETF---SEC-filing.aspx?xy=1",
-      "published": "2026-08-13T05:51:43+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "AUD/USD Price Forecast: Struggles to extend rally above 0.7100",
-      "summary": "The Australian Dollar (AUD) trades 0.17% lower at around 0.7050 against the US Dollar (USD) during the early European trading session on Thursday.",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-struggles-to-extend-rally-above-07100-202608130542",
-      "published": "2026-08-13T05:42:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Flatlines below 1.1550, while staying bearish under 100-day SMA",
-      "summary": "The EUR/USD pair holds steady near 1.1520 during the early European trading hours on Thursday. US inflation cooled on a ‌year-over-year basis for a second straight month, easing pressure on the US Federal Reserve (Fed) to raise interest rates as soon as next month.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-flatlines-below-11550-while-staying-bearish-under-100-day-sma-202608130522",
-      "published": "2026-08-13T05:22:50+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee opens marginally lower as US Dollar trades firmly",
-      "summary": "The Indian Rupee (INR) opens on a cautious note against the US Dollar (USD) on Thursday due to overnight gains in the latter. The USD/INR pair edges up to near 95.35 after a corrective move the previous day, as fears of a prolonged global energy supply disruption have strengthened the US Dollar.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-marginally-lower-as-us-dollar-trades-firmly-202608130521",
-      "published": "2026-08-13T05:21:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc slides to two-week low as oil-driven Fed hike bets boost USD",
-      "summary": "The USD/CHF pair prolongs the weekly uptrend for the fourth consecutive day and climbs to a two-week high, around 0.8045, during the Asian session on Thursday amid a firmer US Dollar (USD). Moreover, the fundamental backdrop favors bulls and backs the case for further appreciation for spot prices.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-slides-to-two-week-low-as-oil-driven-fed-hike-bets-boost-usd-202608130447",
-      "published": "2026-08-13T04:47:47+00:00",
+      "title": "Norwegian Krone: Dovish risks but bullish view against Euro – ING",
+      "summary": "Francesco Pesole at ING sees some downside risks for the Norwegian Krone from Norges Bank’s meeting, as benign CPI‑ATE prints could tilt communication slightly less hawkish. He still expects rates to stay at 4.25% today and another hike later this year, but is less convinced about multiple moves.",
+      "link": "https://www.fxstreet.com/news/norwegian-krone-dovish-risks-but-bullish-view-against-euro-ing-202608130752",
+      "published": "2026-08-13T07:52:03+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "summary": "Gold prices fell in India on Thursday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608130435",
-      "published": "2026-08-13T04:35:08+00:00",
+      "title": "Japanese Yen holds ground due to potential intervention from Japanese authorities",
+      "summary": "USD/JPY inches lower after registering minor losses in the previous day, trading around 159.40 during the European hours on Thursday. The currency pair hovers near the crucial 160.00 level, keeping traders on high alert for possible intervention from Japanese authorities.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-holds-ground-due-to-potential-intervention-from-japanese-authorities-202608130746",
+      "published": "2026-08-13T07:46:31+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "GBP/USD Price Forecast: Trades below 1.3500 on firmer USD, ahead of UK GDP",
-      "summary": "The GBP/USD pair trades with a negative bias for the second consecutive day and trades below the 1.3500 psychological mark during the Asian session on Thursday amid modest US Dollar (USD) strength.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-trades-below-13500-on-firmer-usd-ahead-of-uk-gdp-202608130402",
-      "published": "2026-08-13T04:02:17+00:00",
+      "title": "Russian Ruble: Trade boost from Oil seen fading – Commerzbank",
+      "summary": "Commerzbank’s Tatha Ghose reports Russia’s June merchandise trade surplus rose to USD 12.5bn, up over 50% year-on-year, as higher Oil prices and improved Urals pricing supported exports.",
+      "link": "https://www.fxstreet.com/news/russian-ruble-trade-boost-from-oil-seen-fading-commerzbank-202608130746",
+      "published": "2026-08-13T07:46:17+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Asian stocks rise on soft US CPI, AI earnings rally",
-      "summary": "Asian stocks mostly remain stronger, bolstered by softer US inflation data that reinforced expectations for a more accommodative Federal Reserve (Fed) policy. US headline CPI rose 3.4% year-over-year in July, down slightly from 3.5% in the previous month.",
-      "link": "https://www.fxstreet.com/news/asian-stocks-rise-on-soft-us-cpi-ai-earnings-rally-202608130351",
-      "published": "2026-08-13T03:51:47+00:00",
+      "title": "US Dollar Index Price Forecast: DXY bulls await trading range breakout above 100.00",
+      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, is seen building on the previous day's sold bounce from the post-CPI swing low and prolonging its weekly uptrend for the fourth straight day.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-bulls-await-trading-range-breakout-above-10000-202608130745",
+      "published": "2026-08-13T07:45:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Fed-driven hedge rebuilding revives selling pressure – BNY",
+      "summary": "BNY’s Geoff Yu argues that the July Fed meeting marked a peak in Dollar dehedging rather than an end to U.S. exceptionalism. Cross-border investors are rebuilding USD hedges, reducing effective unhedged U.S. exposure while maintaining broadly solid underlying demand for U.S. assets.",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-driven-hedge-rebuilding-revives-selling-pressure-bny-202608130734",
+      "published": "2026-08-13T07:34:13+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Upside capped near 1.3555 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note GBP/USD briefly traded above 1.3535 to 1.3540 before slipping back to close at 1.3496. Intraday, the pair is seen range-trading between 1.3475 and 1.3525.",
+      "link": "https://www.fxstreet.com/news/british-pound-upside-capped-near-13555-against-us-dollar-uob-202608130724",
+      "published": "2026-08-13T07:24:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah remains subdued as safe-haven demand lifts US Dollar",
+      "summary": "USD/IDR gains ground for the third consecutive day, trading around 17,920 during the early European hours on Thursday. The pair appreciates as the US Dollar (USD) recovers its daily losses amid escalating geopolitical tensions between the US and Iran.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-remains-subdued-as-safe-haven-demand-lifts-us-dollar-202608130720",
+      "published": "2026-08-13T07:20:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Upside capped by Fed hike risks – TD Securities",
+      "summary": "TD Securities’ Bart Melek notes Gold extended gains after the July Consumer Price Index (CPI) matched expectations, reinforcing a dovish narrative around Fed Chair Warsh.",
+      "link": "https://www.fxstreet.com/news/gold-upside-capped-by-fed-hike-risks-td-securities-202608130710",
+      "published": "2026-08-13T07:10:37+00:00",
       "score": 3
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold moves away from June 5 high, slides below $4,400 amid Fed hike bets, firm USD",
-      "summary": "Gold (XAU/USD) extends its intraday retracement slide from the highest level since June 5, around the $4,450 area set during the Asian session on Thursday, and slides back below the $4,400 mark in the last hour.",
-      "link": "https://www.fxstreet.com/news/gold-retreats-from-june-5-high-as-oil-driven-fed-rate-hike-bets-underpin-usd-202608130344",
-      "published": "2026-08-13T03:44:08+00:00",
-      "score": 4
+      "title": "Canadian Dollar extends pullback from two-month high as oil-driven Fed hike bets lift USD",
+      "summary": "The USD/CAD pair builds on the previous day's bounce from the 1.3900 neighborhood, or a two-month low, and gains follow-through positive traction for the second straight day on Thursday.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-extends-pullback-from-two-month-high-as-oil-driven-fed-hike-bets-lift-usd-202608130701",
+      "published": "2026-08-13T07:01:26+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Currency Strength Chart: Strongest: JPY, USD, CHF, EUR, GBP, CAD, AUD, NZD - Weakest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719398/Currency-Strength-Chart-Strongest-JPY-USD-CHF-EUR-GBP-CAD-AUD-NZD---Weakest.aspx?xy=1",
+      "published": "2026-08-13T07:01:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Spanish Core CPI YoY Actual 3.0% (Forecast -, Previous 2.9%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719374/Spanish-Core-CPI-YoY-Actual-30-Forecast---Previous-29.aspx?xy=1",
+      "published": "2026-08-13T07:01:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Spanish CPI MoM Final Actual 0.3% (Forecast 0.2%, Previous 0.2%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719371/Spanish-CPI-MoM-Final-Actual-03-Forecast-02-Previous-02.aspx?xy=1",
+      "published": "2026-08-13T07:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Spanish CPI YoY Final Actual 3.6% (Forecast 3.5%, Previous 3.5%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719370/Spanish-CPI-YoY-Final-Actual-36-Forecast-35-Previous-35.aspx?xy=1",
+      "published": "2026-08-13T07:00:00+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Silver Price Forecast: XAG/USD wobbles around $65.40, easing hawkish Fed bets strengthen outlook",
-      "summary": "Silver price (XAG/USD) trades in a tight range at around $65.40 during the Asian trading session on Thursday. The Silver price struggles for a direction; however, an expected slowdown in United States (US) inflationary pressures in July has improved its outlook.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-wobbles-around-6540-easing-hawkish-fed-bets-strengthen-outlook-202608130329",
-      "published": "2026-08-13T03:29:35+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar remains subdued as two-year QoQ RBNZ Inflation Expectations ease in Q3",
-      "summary": "NZD/USD extends its losses for the fourth successive day, trading around 0.5840 during the Asian hours on Thursday. The pair remains subdued following the release of RBNZ Inflation Expectations.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-subdued-as-two-year-qoq-rbnz-inflation-expectations-ease-in-q3-202608130327",
-      "published": "2026-08-13T03:27:12+00:00",
+      "title": "Equities: AI rally and CPI relief lift US stocks – Deutsche Bank",
+      "summary": "Deutsche Bank strategists highlight that the S&amp;P 500 closed just below its record high as US CPI data reduced urgency for further Federal Reserve hikes. Front-end Treasuries rallied and semiconductor strength supported equities, while volatility fell to its lowest level since January.",
+      "link": "https://www.fxstreet.com/news/equities-ai-rally-and-cpi-relief-lift-us-stocks-deutsche-bank-202608130657",
+      "published": "2026-08-13T06:57:58+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "RBNZ Survey: NZ two-year inflation expectations cool down to 2.34% QoQ in Q3 2026",
-      "summary": "New Zealand's (NZ) inflation expectations ease on a two-year frame in the third quarter of 2026, the Reserve Bank of New Zealand’s (RBNZ) latest monetary conditions survey showed on Wednesday.",
-      "link": "https://www.fxstreet.com/news/rbnz-survey-nz-two-year-inflation-expectations-cool-down-to-234-qoq-in-q3-2026-202608130308",
-      "published": "2026-08-13T03:08:57+00:00",
+      "title": "Indian Rupee: Contained inflation supports RBI pause – Commerzbank",
+      "summary": "Commerzbank’s FX team notes India’s July CPI rose slightly to 4.5% year-on-year but stayed within the Reserve Bank of India’s target band, with core inflation steady at 3.9%.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-contained-inflation-supports-rbi-pause-commerzbank-202608130644",
+      "published": "2026-08-13T06:44:01+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound drifts away from 1.3500 as UK GDP slows down and Industrial Production falls",
+      "summary": "The British Pound (GBP) treads water against the US Dollar (USD), trading practically flat, a few pips below the 1.3500 level on Thursday's early London session.",
+      "link": "https://www.fxstreet.com/news/british-pound-drifts-away-from-13500-as-weak-uk-industrial-production-offsets-bright-gdp-data-202608130635",
+      "published": "2026-08-13T06:35:59+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Japanese Yen flatlines near 159.50 on intervention risks, US PPI data looms",
-      "summary": "The USD/JPY pair trades on a flat note near 159.40 during the Asian trading hours on Thursday. The potential upside for the pair might be limited due to a coordinated intervention in currency markets by US and Japanese authorities.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-flatlines-near-15950-on-intervention-risks-us-ppi-data-looms-202608130237",
-      "published": "2026-08-13T02:37:18+00:00",
+      "title": "Euro: Range phase after failed upside break against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight that EUR/USD briefly spiked to 1.1562 on the US CPI release before reversing to 1.1524.",
+      "link": "https://www.fxstreet.com/news/euro-range-phase-after-failed-upside-break-against-us-dollar-uob-202608130624",
+      "published": "2026-08-13T06:24:41+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed Interest Rate Probabilities",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719327/Fed-Interest-Rate-Probabilities.aspx?xy=1",
+      "published": "2026-08-13T06:22:40+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "0.7050: Australian Dollar stuck in a range as Iran risks offset hawkish RBA",
-      "summary": "The AUD/USD pair holds steady during the Asian session on Thursday and, for now, seems to have stalled the previous day's retracement slide from its highest level since June 5.",
-      "link": "https://www.fxstreet.com/news/07050-australian-dollar-stuck-in-a-range-as-iran-risks-offset-hawkish-rba-202608130214",
-      "published": "2026-08-13T02:14:40+00:00",
+      "title": "Indian Rupee ticks lower as US Dollar trades firmly",
+      "summary": "The Indian Rupee (INR) opens on a cautious note against the US Dollar (USD) on Thursday due to overnight gains in the latter. The USD/INR pair edges up to near 95.35 after a corrective move the previous day, as fears of a prolonged global energy supply disruption have strengthened the US Dollar.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-opens-marginally-lower-as-us-dollar-trades-firmly-202608130521",
+      "published": "2026-08-13T05:21:00+00:00",
       "score": 1
     },
     {
@@ -154,42 +181,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vmxc42/a_babaganz_take_on_trading_week_6_mindset_the/",
       "published": "2026-08-13T01:47:52+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar steadies as weak US Dollar offsets lower oil prices",
-      "summary": "USD/CAD remains steady after registering minor gains in the previous day, trading around 1.3940 during the Asian hours on Thursday. The currency pair moves within a narrow range as a weaker US Dollar (USD) balances out the impact of falling oil prices on the commodity-linked Canadian Dollar (CAD).",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-weak-us-dollar-offsets-lower-oil-prices-202608130146",
-      "published": "2026-08-13T01:46:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound posts modest gains to near 1.3500 ahead of UK GDP data",
-      "summary": "The GBP/USD pair edges slightly higher to near 1.3500 during the early Asian trading hours on Thursday. The US Dollar (USD) softens against the British Pound (GBP) on a tame reading of the US inflation report.",
-      "link": "https://www.fxstreet.com/news/british-pound-posts-modest-gains-to-near-13500-ahead-of-uk-gdp-data-202608130144",
-      "published": "2026-08-13T01:44:52+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index stalls post-CPI bounce near 100.00 on receding Fed hike bets",
-      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, continues its struggle to build on the momentum beyond the 100.00 psychological mark and edges lower during the Asian session on Thursday.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-stalls-post-cpi-bounce-near-10000-on-receding-fed-hike-bets-202608130116",
-      "published": "2026-08-13T01:16:11+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7888 vs. 6.7882 previous",
-      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Thursday at 6.7888 compared to the previous day's fix of 6.7882 and 6.7470 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67888-vs-67882-previous-202608130115",
-      "published": "2026-08-13T01:15:36+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -228,12 +219,39 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: KAROLINE LEAVITT, WILL BE DEPARTING HER ROLE AT END OF MONTH",
+      "summary": "<p>TRUMP: KAROLINE LEAVITT, WILL BE DEPARTING HER ROLE AT END OF MONTH</p>",
+      "link": "https://nitter.net/DeItaone/status/2087624074046419449#m",
+      "published": "2026-08-12T19:35:40+00:00",
+      "score": 1
+    },
+    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "How beginner thinks what News trading is (W gold)",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vmlf97/how_beginner_thinks_what_news_trading_is_w_gold/\"> <img alt=\"How beginner thinks what News trading is (W gold)\" src=\"https://preview.redd.it/vxulfb0ufzih1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b93ef3807f349303c362193c68310e61334da8f1\" title=\"How beginner thinks what News trading is (W gold)\" /> </a> </td><td> &#3",
       "link": "https://www.reddit.com/r/Forex/comments/1vmlf97/how_beginner_thinks_what_news_trading_is_w_gold/",
       "published": "2026-08-12T17:53:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TREASURY 10-YEAR NOTE AUCTION DRAWS HIGHEST YIELD SINCE 2007",
+      "summary": "<p>*TREASURY 10-YEAR NOTE AUCTION DRAWS HIGHEST YIELD SINCE 2007</p>",
+      "link": "https://nitter.net/DeItaone/status/2087586264186843467#m",
+      "published": "2026-08-12T17:05:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*US 10Y NOTES DRAW 4.683% VS 4.682% PRE-SALE WHEN-ISSUED YIELD",
+      "summary": "<p>*US 10Y NOTES DRAW 4.683% VS 4.682% PRE-SALE WHEN-ISSUED YIELD</p>",
+      "link": "https://nitter.net/DeItaone/status/2087585739122815403#m",
+      "published": "2026-08-12T17:03:20+00:00",
       "score": 1
     },
     {
@@ -246,12 +264,66 @@
       "score": 3
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "GOLDMAN SEES CORE PCE AT 0.23% Goldman Sachs expects July core PCE to rise 0.23% M/M, slightly above core CPI and consensus. Portfolio management fees are expected to add 8 bps, reflecting Q2 equity gains. Goldman says upcoming methodology changes could create volatility in PCE readings and lower annual core inflation. The bank expects core inflation near 0.2% in August and sees the Fed holding rates steady through year-end.",
+      "summary": "<p>GOLDMAN SEES CORE PCE AT 0.23%<br />\n<br />\nGoldman Sachs expects July core PCE to rise 0.23% M/M, slightly above core CPI and consensus.<br />\n<br />\nPortfolio management fees are expected to add 8 bps, reflecting Q2 equity gains.<br />\n<br />\nGoldman says upcoming methodology changes could create volatility in PCE readings and lower annual core inflation.<br />\n<br />\nThe bank expects core in",
+      "link": "https://nitter.net/DeItaone/status/2087572463198552177#m",
+      "published": "2026-08-12T16:10:35+00:00",
+      "score": 5
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP SUED OVER PLAN TO SELL FAST ACCESS TO TRUTH SOCIAL POSTS",
+      "summary": "<p>*TRUMP SUED OVER PLAN TO SELL FAST ACCESS TO TRUTH SOCIAL POSTS</p>",
+      "link": "https://nitter.net/DeItaone/status/2087555533502865562#m",
+      "published": "2026-08-12T15:03:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "SANTANDER STILL SEES SEPTEMBER FED HIKE July CPI is unlikely to decide the Fed’s September move, according to Santander’s Stephen Stanley. Unrounded core CPI rose 0.215% M/M, equivalent to a 2.6% annualized pace. Despite the broadly in-line inflation report, Stanley continues to expect the Fed to raise rates in September, followed by another hike in December.",
+      "summary": "<p>SANTANDER STILL SEES SEPTEMBER FED HIKE<br />\n<br />\nJuly CPI is unlikely to decide the Fed’s September move, according to Santander’s Stephen Stanley.<br />\n<br />\nUnrounded core CPI rose 0.215% M/M, equivalent to a 2.6% annualized pace.<br />\n<br />\nDespite the broadly in-line inflation report, Stanley continues to expect the Fed to raise rates in September, followed by another hike in Decemb",
+      "link": "https://nitter.net/DeItaone/status/2087554844638765550#m",
+      "published": "2026-08-12T15:00:34+00:00",
+      "score": 4
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says the US has “total control” over the Strait of Hormuz and “I think we will keep it.”",
       "summary": "<p>BREAKING: President Trump says the US has “total control” over the Strait of Hormuz and “I think we will keep it.”</p>\n<img src=\"https://nitter.net/pic/media%2FHPh2pzMW4AA9xAH.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2087548892699042132#m",
       "published": "2026-08-12T14:36:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: U.S. HAS “TOTAL CONTROL” OF HORMUZ President Trump claims the U.S. has “total control” of the Strait of Hormuz and suggested Washington could keep control of the strategic waterway. He described the U.S. naval blockade as a “wall of steel.” Trump also claimed Iran’s military has been severely weakened, the IRGC is “decimated,” and the country faces deep economic problems. He declared Iran is “no longer” the bully of the Middle East.",
+      "summary": "<p>TRUMP: U.S. HAS “TOTAL CONTROL” OF HORMUZ<br />\n<br />\nPresident Trump claims the U.S. has “total control” of the Strait of Hormuz and suggested Washington could keep control of the strategic waterway.<br />\n<br />\nHe described the U.S. naval blockade as a “wall of steel.”<br />\n<br />\nTrump also claimed Iran’s military has been severely weakened, the IRGC is “decimated,” and the country faces ",
+      "link": "https://nitter.net/DeItaone/status/2087547985143922784#m",
+      "published": "2026-08-12T14:33:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: U.S.A. HAS TOTAL CONTROL OVER OVER STRAIT OF HORMUZ",
+      "summary": "<p>TRUMP ON IRAN: U.S.A. HAS TOTAL CONTROL OVER OVER STRAIT OF HORMUZ</p>",
+      "link": "https://nitter.net/DeItaone/status/2087547777609789709#m",
+      "published": "2026-08-12T14:32:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "📅 TRUMP’S SCHEDULE — WEDNESDAY, AUGUST 12 🔸 8:00 AM — Executive Time 🔸 10:30 AM — Greeting with Law Enforcement & Military 🔸 11:00 AM — Policy Meeting 🔸 12:30 PM — Policy Meeting 🔸 2:30 PM — Signing Time 🔸 4:00 PM — Policy Meeting 🔸 5:00 PM — Policy Meeting 📍 White House / Oval Office 🔒 All presidential events closed to press",
+      "summary": "<p>📅 TRUMP’S SCHEDULE — WEDNESDAY, AUGUST 12<br />\n<br />\n🔸 8:00 AM — Executive Time<br />\n🔸 10:30 AM — Greeting with Law Enforcement & Military<br />\n🔸 11:00 AM — Policy Meeting<br />\n🔸 12:30 PM — Policy Meeting<br />\n🔸 2:30 PM — Signing Time<br />\n🔸 4:00 PM — Policy Meeting<br />\n🔸 5:00 PM — Policy Meeting<br />\n<br />\n📍 White House / Oval Office<br />\n🔒 All presidential events closed to press</",
+      "link": "https://nitter.net/DeItaone/status/2087547705023218140#m",
+      "published": "2026-08-12T14:32:12+00:00",
       "score": 1
     },
     {
