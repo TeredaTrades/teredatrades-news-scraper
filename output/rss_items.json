@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-13T19:37:49.948078+00:00",
-  "count": 62,
+  "updated_at": "2026-08-13T20:21:18.339635+00:00",
+  "count": 71,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar holds steady ahead of US Retail Sales",
+      "summary": "The US Dollar (USD) has softened with the US Dollar Index (DXY) slipping back below the 100.00 mark after Thursday's lower-than-expected Producer Price Index (PPI) data and a higher-than-expected weekly Jobless Claims print trimmed bets on further Federal Reserve (Fed) tightening.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-holds-steady-ahead-of-us-retail-sales-202608132001",
+      "published": "2026-08-13T20:01:02+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +7 mln<br />Nasdaq 100: -439 mln<br />Dow 30: +85 mln<br />Mag 7: -202 mln",
+      "link": "https://www.financialjuice.com/News/9720400/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-08-13T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/MXN Price Forecast: Bears eye 17.00 as downtrend stretches",
+      "summary": "The USD/MXN extends its downtrend for the 14th straight day, down a minimal 0.08% as the Mexican Peso hovers near a 24-month low of 17.01 on Thursday.",
+      "link": "https://www.fxstreet.com/news/usd-mxn-price-forecast-bears-eye-1700-as-downtrend-stretches-202608131940",
+      "published": "2026-08-13T19:40:22+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -51,7 +78,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "USD/CHF Price Forecast: Bearish flag keeps 0.8145 in focus",
-      "summary": "The USD/CHF pair trades near the top trendline of a bearish flag pattern on Thursday, holding steady at around 0.8034 after the release of softer inflation data on the producer side.",
+      "summary": "The USD/CHF pair trades near the top trendline of a bearish flag pattern on Thursday, holding steady at around 0.8134 after the release of softer inflation data on the producer side.",
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-keeps-08145-in-focus-202608131836",
       "published": "2026-08-13T18:36:51+00:00",
       "score": 2
@@ -100,33 +127,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecast-momentum-cools-as-xag-usd-consolidates-above-50-day-sma-202608131810",
       "published": "2026-08-13T18:10:41+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Google: Gemini Spark to use Gemini 3.7 Flash starting today $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720244/Google-Gemini-Spark-to-use-Gemini-37-Flash-starting-today-GOOGL.aspx?xy=rss",
-      "published": "2026-08-13T17:06:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Google: Gemini 3.7 flash intro price of $0.75/1m input tokens $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720242/Google-Gemini-37-flash-intro-price-of-0751m-input-tokens-GOOGL.aspx?xy=rss",
-      "published": "2026-08-13T17:05:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Google: Gemini 3.7 Flash outperforms 3.6 Flash on complex docs $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720241/Google-Gemini-37-Flash-outperforms-36-Flash-on-complex-docs-GOOGL.aspx?xy=rss",
-      "published": "2026-08-13T17:04:17+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -192,6 +192,15 @@
       "score": 3
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AMD - AMD EYES $5 BILLION DEBT SALE FOR AI EXPANSION AMD plans to raise up to $5B through a four-part bond sale, potentially its largest ever. The chipmaker is ramping up spending as AI computing demand surges, following major agreements with Anthropic and Microsoft ($MSFT). AMD has also committed up to $5B to Anthropic. Proceeds will fund general corporate purposes, potentially including debt repayment, with $875M in bonds maturing next month.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMD\">$AMD</a>  - AMD EYES $5 BILLION DEBT SALE FOR AI EXPANSION<br />\n<br />\nAMD plans to raise up to $5B through a four-part bond sale, potentially its largest ever.<br />\n<br />\nThe chipmaker is ramping up spending as AI computing demand surges, following major agreements with Anthropic and Microsoft ($MSFT).<br />\n<br />\nAMD has also commi",
+      "link": "https://nitter.net/DeItaone/status/2087923265385779223#m",
+      "published": "2026-08-13T15:24:32+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "Poland: Fuel-driven inflation rise contained – ING",
@@ -210,13 +219,22 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "India: Inflation path higher into FY27 – Standard Chartered",
-      "summary": "Standard Chartered strategists have raised its FY27 Consumer Price Index (CPI) inflation forecast to 4.9% from 4.5%, citing higher food and retail fuel prices. They now expect broader price pressures, excluding Gold and Silver, with food and beverage CPI seen at 6.3%.",
-      "link": "https://www.fxstreet.com/news/india-inflation-path-higher-into-fy27-standard-chartered-202608131456",
-      "published": "2026-08-13T14:56:22+00:00",
-      "score": 4
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Pinned: 🇺🇸 TRADERS NO LONGER FULLY PRICE IN A FED RATE HIKE THIS YEAR Prediction markets now see a 70% chance the Fed holds rates steady in September, versus 29% odds of a 25bp hike. A 25bp cut is priced at just 2%. Markets are increasingly betting the Fed can remain on hold as inflation cools. https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep?utm_source=walterbloomberg",
+      "summary": "<p>🇺🇸 TRADERS NO LONGER FULLY PRICE IN A FED RATE HIKE THIS YEAR<br />\n<br />\nPrediction markets now see a 70% chance the Fed holds rates steady in September, versus 29% odds of a 25bp hike.<br />\n<br />\nA 25bp cut is priced at just 2%.<br />\n<br />\nMarkets are increasingly betting the Fed can remain on hold as inflation cools.<br />\n<a href=\"https://kalshi.com/markets/kxfeddecision/fed-meeting/kx",
+      "link": "https://nitter.net/DeItaone/status/2087911787358298450#m",
+      "published": "2026-08-13T14:38:56+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "PCE INFLATION SEEN AT 3.6% IN JULY Oxford Economics expects the Fed’s preferred inflation gauge, headline PCE, to rise 3.6% year-over-year in July, easing slightly from 3.7% in June. The report is due later this month. With services inflation cooling and the labor market showing little sign of overheating, Oxford Economics expects the Fed to keep rates unchanged for the rest of 2026.",
+      "summary": "<p>PCE INFLATION SEEN AT 3.6% IN JULY<br />\n<br />\nOxford Economics expects the Fed’s preferred inflation gauge, headline PCE, to rise 3.6% year-over-year in July, easing slightly from 3.7% in June.<br />\n<br />\nThe report is due later this month.<br />\n<br />\nWith services inflation cooling and the labor market showing little sign of overheating, Oxford Economics expects the Fed to keep rates unc",
+      "link": "https://nitter.net/DeItaone/status/2087903277400657961#m",
+      "published": "2026-08-13T14:05:07+00:00",
+      "score": 3
     },
     {
       "source": "Kobeissi Letter",
@@ -228,6 +246,15 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "S&P 500 HITS INTRADAY RECORD HIGH, LAST UP 0.6%",
+      "summary": "<p>S&amp;P 500 HITS INTRADAY RECORD HIGH, LAST UP 0.6%</p>",
+      "link": "https://nitter.net/DeItaone/status/2087900892750025014#m",
+      "published": "2026-08-13T13:55:38+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The US Government officially posts its largest July budget deficit in history, at -$432 billion, due to an acceleration in federal spending. Interest on US debt rose +$26 billion from last July's levels to an alarming $118 billion for the month. This puts total interest expense for FY2026 up to $1.17 trillion in FY2026. As a result, interest expense has officially surpassed both National Defense and Medicare spending. In other words, the US government now spends more money just on interest than it does to fund the entire US Military or to provide healthcare for seniors. We cannot afford higher interest rates.",
@@ -235,6 +262,60 @@
       "link": "https://nitter.net/KobeissiLetter/status/2087890009277833590#m",
       "published": "2026-08-13T13:12:23+00:00",
       "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "HAMMACK: IF IT TAKES ANOTHER 3-4 YEARS TO GET TO 2% INFLATION, CAN THE PUBLIC WAIT?",
+      "summary": "<p>HAMMACK: IF IT TAKES ANOTHER 3-4 YEARS TO GET TO 2% INFLATION, CAN THE PUBLIC WAIT?</p>",
+      "link": "https://nitter.net/DeItaone/status/2087887061546082799#m",
+      "published": "2026-08-13T13:00:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED'S BARKIN: CURRENT LEVELS OF FEDERAL DEBT ARE AN INFLATIONARY \"WIND\" THAT THE FED HAS TO NAVIGATE AGAINST",
+      "summary": "<p>FED'S BARKIN: CURRENT LEVELS OF FEDERAL DEBT ARE AN INFLATIONARY \"WIND\" THAT THE FED HAS TO NAVIGATE AGAINST</p>",
+      "link": "https://nitter.net/DeItaone/status/2087886070134268224#m",
+      "published": "2026-08-13T12:56:44+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. PRODUCER INFLATION COMES IN FLAT U.S. producer prices were unchanged in July, below expectations for a 0.2% increase, after falling 0.1% in June. Lower energy prices helped contain wholesale inflation. Combined with softer consumer inflation, the report may ease pressure on the Fed to adjust rates soon. Attention now turns to the PCE inflation report later in August, the Fed’s preferred measure for tracking progress toward its 2% target.",
+      "summary": "<p>U.S. PRODUCER INFLATION COMES IN FLAT<br />\n<br />\nU.S. producer prices were unchanged in July, below expectations for a 0.2% increase, after falling 0.1% in June.<br />\n<br />\nLower energy prices helped contain wholesale inflation.<br />\n<br />\nCombined with softer consumer inflation, the report may ease pressure on the Fed to adjust rates soon.<br />\n<br />\nAttention now turns to the PCE infl",
+      "link": "https://nitter.net/DeItaone/status/2087882630725238974#m",
+      "published": "2026-08-13T12:43:04+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BARKIN: FED RATE HIKES STILL ON THE TABLE Fed’s Barkin says it remains an open question whether rates must rise to bring inflation back to 2%. Inflation could ease as wage pressures moderate and tariff and oil shocks fade, though price pressures may remain embedded. Many Fed officials believe current rates are already restrictive enough. Meanwhile, consumer spending remains resilient, business investment is strong, and AI is helping firms experiment with reducing headcount.",
+      "summary": "<p>BARKIN: FED RATE HIKES STILL ON THE TABLE<br />\n<br />\nFed’s Barkin says it remains an open question whether rates must rise to bring inflation back to 2%.<br />\n<br />\nInflation could ease as wage pressures moderate and tariff and oil shocks fade, though price pressures may remain embedded.<br />\n<br />\nMany Fed officials believe current rates are already restrictive enough.<br />\n<br />\nMeanw",
+      "link": "https://nitter.net/DeItaone/status/2087881958315438403#m",
+      "published": "2026-08-13T12:40:24+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED'S HAMMACK: REPEATS NEED TO RAISE RATES RIGHT NOW",
+      "summary": "<p>FED'S HAMMACK: REPEATS NEED TO RAISE RATES RIGHT NOW</p>",
+      "link": "https://nitter.net/DeItaone/status/2087881047690108970#m",
+      "published": "2026-08-13T12:36:47+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. HOUSING MARKET TILTS HARD TO BUYERS U.S. homebuyer demand hit a record low in July, with just 967,000 buyers versus 1.46M sellers—a 51% seller surplus. Nearly 80% of major metros are now buyer’s markets, giving house hunters greater negotiating power. Miami leads with 154% more sellers than buyers, followed by Nashville and several Texas metros. High mortgage rates, elevated prices and economic uncertainty are keeping buyers on the sidelines.",
+      "summary": "<p>U.S. HOUSING MARKET TILTS HARD TO BUYERS<br />\n<br />\nU.S. homebuyer demand hit a record low in July, with just 967,000 buyers versus 1.46M sellers—a 51% seller surplus.<br />\n<br />\nNearly 80% of major metros are now buyer’s markets, giving house hunters greater negotiating power.<br />\n<br />\nMiami leads with 154% more sellers than buyers, followed by Nashville and several Texas metros.<br />",
+      "link": "https://nitter.net/DeItaone/status/2087880929049997456#m",
+      "published": "2026-08-13T12:36:19+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
