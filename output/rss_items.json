@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-08-13T04:30:15.549381+00:00",
-  "count": 72,
+  "updated_at": "2026-08-13T06:06:05.150513+00:00",
+  "count": 62,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Swedish CPI MoM Actual -0.3% (Forecast -0.3%, Previous -0.3%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719272/Swedish-CPI-MoM-Actual--03-Forecast--03-Previous--03.aspx?xy=1",
+      "published": "2026-08-13T06:00:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Swedish CPI YoY Actual 0.2% (Forecast 0.2%, Previous 0.2%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719271/Swedish-CPI-YoY-Actual-02-Forecast-02-Previous-02.aspx?xy=1",
+      "published": "2026-08-13T06:00:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Bank of Korea buys $250 mil in gold ETF - SEC filing",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719261/Bank-of-Korea-buys-250-mil-in-gold-ETF---SEC-filing.aspx?xy=1",
+      "published": "2026-08-13T05:51:43+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Struggles to extend rally above 0.7100",
+      "summary": "The Australian Dollar (AUD) trades 0.17% lower at around 0.7050 against the US Dollar (USD) during the early European trading session on Thursday.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-struggles-to-extend-rally-above-07100-202608130542",
+      "published": "2026-08-13T05:42:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Flatlines below 1.1550, while staying bearish under 100-day SMA",
+      "summary": "The EUR/USD pair holds steady near 1.1520 during the early European trading hours on Thursday. US inflation cooled on a ‌year-over-year basis for a second straight month, easing pressure on the US Federal Reserve (Fed) to raise interest rates as soon as next month.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-flatlines-below-11550-while-staying-bearish-under-100-day-sma-202608130522",
+      "published": "2026-08-13T05:22:50+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee opens marginally lower as US Dollar trades firmly",
+      "summary": "The Indian Rupee (INR) opens on a cautious note against the US Dollar (USD) on Thursday due to overnight gains in the latter. The USD/INR pair edges up to near 95.35 after a corrective move the previous day, as fears of a prolonged global energy supply disruption have strengthened the US Dollar.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-opens-marginally-lower-as-us-dollar-trades-firmly-202608130521",
+      "published": "2026-08-13T05:21:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc slides to two-week low as oil-driven Fed hike bets boost USD",
+      "summary": "The USD/CHF pair prolongs the weekly uptrend for the fourth consecutive day and climbs to a two-week high, around 0.8045, during the Asian session on Thursday amid a firmer US Dollar (USD). Moreover, the fundamental backdrop favors bulls and backs the case for further appreciation for spot prices.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-slides-to-two-week-low-as-oil-driven-fed-hike-bets-boost-usd-202608130447",
+      "published": "2026-08-13T04:47:47+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "summary": "Gold prices fell in India on Thursday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608130435",
+      "published": "2026-08-13T04:35:08+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -23,8 +95,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold retreats from June 5 high as oil-driven Fed rate-hike bets underpin USD",
-      "summary": "Gold (XAU/USD) retreats after touching a fresh high since June 5, around the $4,450 area, during the Asian session on Thursday and is currently placed near the lower end of its daily range.",
+      "title": "Gold moves away from June 5 high, slides below $4,400 amid Fed hike bets, firm USD",
+      "summary": "Gold (XAU/USD) extends its intraday retracement slide from the highest level since June 5, around the $4,450 area set during the Asian session on Thursday, and slides back below the $4,400 mark in the last hour.",
       "link": "https://www.fxstreet.com/news/gold-retreats-from-june-5-high-as-oil-driven-fed-rate-hike-bets-underpin-usd-202608130344",
       "published": "2026-08-13T03:44:08+00:00",
       "score": 4
@@ -54,15 +126,6 @@
       "summary": "New Zealand's (NZ) inflation expectations ease on a two-year frame in the third quarter of 2026, the Reserve Bank of New Zealand’s (RBNZ) latest monetary conditions survey showed on Wednesday.",
       "link": "https://www.fxstreet.com/news/rbnz-survey-nz-two-year-inflation-expectations-cool-down-to-234-qoq-in-q3-2026-202608130308",
       "published": "2026-08-13T03:08:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: NZ Q3 average 1-year inflation expectations at 2.6%: RBNZ survey",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9719094/NZ-Q3-average-1-year-inflation-expectations-at-26-RBNZ-survey.aspx?xy=rss",
-      "published": "2026-08-13T03:00:50+00:00",
       "score": 1
     },
     {
@@ -129,60 +192,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro advances as US Dollar weakens amid cooling Inflation",
-      "summary": "EUR/USD halts its three-day losing streak, trading around 1.1530 during the Asian hours on Thursday. The currency pair gains ground as the US Dollar (USD) faces challenges following the release of July's Consumer Price Index (CPI) report.",
-      "link": "https://www.fxstreet.com/news/euro-advances-as-us-dollar-weakens-amid-cooling-us-inflation-202608130101",
-      "published": "2026-08-13T01:01:37+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: - RBA's Kent: Board aware a few factors must align for inflation to fall",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718901/--RBAs-Kent-Board-aware-a-few-factors-must-align-for-inflation-to-fall.aspx?xy=rss",
-      "published": "2026-08-13T00:52:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBA's Kent: Need history on trimmed mean inflation to focus on monthly CPI report instead of quarterly",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718899/RBAs-Kent-Need-history-on-trimmed-mean-inflation-to-focus-on-monthly-CPI-report-instead-of-quarterly.aspx?xy=rss",
-      "published": "2026-08-13T00:49:04+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBA's Kent: Productivity has been very disappointing, makes inflation challenge tougher",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718892/RBAs-Kent-Productivity-has-been-very-disappointing-makes-inflation-challenge-tougher.aspx?xy=rss",
-      "published": "2026-08-13T00:36:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBA’s Kent: Governor Bullock Highlights Uncertainty and Upside Risks on Inflation",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718891/RBAs-Kent-Governor-Bullock-Highlights-Uncertainty-and-Upside-Risks-on-Inflation.aspx?xy=rss",
-      "published": "2026-08-13T00:35:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBA's Kent: Tax changes in federal budget likely curbed demand in established housing market",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9718873/RBAs-Kent-Tax-changes-in-federal-budget-likely-curbed-demand-in-established-housing-market.aspx?xy=rss",
-      "published": "2026-08-13T00:27:43+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "Shocking stat of the day: Estimated annualized interest expense on US federal debt is up to a record $1.38 trillion. This is equivalent to 4.2% of US GDP, the highest percentage since 1997. By comparison, this figure stood at 2.3% in Q4 2020. Annualized interest expense has surged +$900 billion, or nearly +200%, over the last 5 years, rising at an average annual rate of +24%. Meanwhile, in the first 9 months of FY2026, interest expense jumped +$78 billion YoY, to $827 billion, the highest level for this period in history. The cost of servicing US federal debt has never been higher.",
@@ -190,24 +199,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2087686462544159126#m",
       "published": "2026-08-12T23:43:34+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold edges lower to near $4,400 as Iran-US tensions counter support from tame US inflation",
-      "summary": "Gold price (XAU/USD) declines to around $4,400 during the early Asian session on Thursday, pressured by escalating geopolitical tensions between the United States (US) and Iran.",
-      "link": "https://www.fxstreet.com/news/gold-edges-lower-to-near-4-400-as-iran-us-tensions-counter-support-from-tame-us-inflation-202608122329",
-      "published": "2026-08-12T23:29:12+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Commodities: Weaker Dollar lacks growth catalyst – BNY",
-      "summary": "Geoff Yu at BNY says a less hawkish Fed has weakened the Dollar, but this has not translated into a broad commodity rally. Institutional investors remain sellers of metals and miners, while EM commodity sovereign debt continues to struggle and commodity FX buying has faded.",
-      "link": "https://www.fxstreet.com/news/commodities-weaker-dollar-lacks-growth-catalyst-bny-202608122318",
-      "published": "2026-08-12T23:18:00+00:00",
-      "score": 3
     },
     {
       "source": "Kobeissi Letter",
@@ -237,39 +228,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: KAROLINE LEAVITT, WILL BE DEPARTING HER ROLE AT END OF MONTH",
-      "summary": "<p>TRUMP: KAROLINE LEAVITT, WILL BE DEPARTING HER ROLE AT END OF MONTH</p>",
-      "link": "https://nitter.net/DeItaone/status/2087624074046419449#m",
-      "published": "2026-08-12T19:35:40+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "How beginner thinks what News trading is (W gold)",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vmlf97/how_beginner_thinks_what_news_trading_is_w_gold/\"> <img alt=\"How beginner thinks what News trading is (W gold)\" src=\"https://preview.redd.it/vxulfb0ufzih1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b93ef3807f349303c362193c68310e61334da8f1\" title=\"How beginner thinks what News trading is (W gold)\" /> </a> </td><td> &#3",
       "link": "https://www.reddit.com/r/Forex/comments/1vmlf97/how_beginner_thinks_what_news_trading_is_w_gold/",
       "published": "2026-08-12T17:53:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TREASURY 10-YEAR NOTE AUCTION DRAWS HIGHEST YIELD SINCE 2007",
-      "summary": "<p>*TREASURY 10-YEAR NOTE AUCTION DRAWS HIGHEST YIELD SINCE 2007</p>",
-      "link": "https://nitter.net/DeItaone/status/2087586264186843467#m",
-      "published": "2026-08-12T17:05:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*US 10Y NOTES DRAW 4.683% VS 4.682% PRE-SALE WHEN-ISSUED YIELD",
-      "summary": "<p>*US 10Y NOTES DRAW 4.683% VS 4.682% PRE-SALE WHEN-ISSUED YIELD</p>",
-      "link": "https://nitter.net/DeItaone/status/2087585739122815403#m",
-      "published": "2026-08-12T17:03:20+00:00",
       "score": 1
     },
     {
@@ -282,66 +246,12 @@
       "score": 3
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "GOLDMAN SEES CORE PCE AT 0.23% Goldman Sachs expects July core PCE to rise 0.23% M/M, slightly above core CPI and consensus. Portfolio management fees are expected to add 8 bps, reflecting Q2 equity gains. Goldman says upcoming methodology changes could create volatility in PCE readings and lower annual core inflation. The bank expects core inflation near 0.2% in August and sees the Fed holding rates steady through year-end.",
-      "summary": "<p>GOLDMAN SEES CORE PCE AT 0.23%<br />\n<br />\nGoldman Sachs expects July core PCE to rise 0.23% M/M, slightly above core CPI and consensus.<br />\n<br />\nPortfolio management fees are expected to add 8 bps, reflecting Q2 equity gains.<br />\n<br />\nGoldman says upcoming methodology changes could create volatility in PCE readings and lower annual core inflation.<br />\n<br />\nThe bank expects core in",
-      "link": "https://nitter.net/DeItaone/status/2087572463198552177#m",
-      "published": "2026-08-12T16:10:35+00:00",
-      "score": 5
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP SUED OVER PLAN TO SELL FAST ACCESS TO TRUTH SOCIAL POSTS",
-      "summary": "<p>*TRUMP SUED OVER PLAN TO SELL FAST ACCESS TO TRUTH SOCIAL POSTS</p>",
-      "link": "https://nitter.net/DeItaone/status/2087555533502865562#m",
-      "published": "2026-08-12T15:03:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "SANTANDER STILL SEES SEPTEMBER FED HIKE July CPI is unlikely to decide the Fed’s September move, according to Santander’s Stephen Stanley. Unrounded core CPI rose 0.215% M/M, equivalent to a 2.6% annualized pace. Despite the broadly in-line inflation report, Stanley continues to expect the Fed to raise rates in September, followed by another hike in December.",
-      "summary": "<p>SANTANDER STILL SEES SEPTEMBER FED HIKE<br />\n<br />\nJuly CPI is unlikely to decide the Fed’s September move, according to Santander’s Stephen Stanley.<br />\n<br />\nUnrounded core CPI rose 0.215% M/M, equivalent to a 2.6% annualized pace.<br />\n<br />\nDespite the broadly in-line inflation report, Stanley continues to expect the Fed to raise rates in September, followed by another hike in Decemb",
-      "link": "https://nitter.net/DeItaone/status/2087554844638765550#m",
-      "published": "2026-08-12T15:00:34+00:00",
-      "score": 4
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says the US has “total control” over the Strait of Hormuz and “I think we will keep it.”",
       "summary": "<p>BREAKING: President Trump says the US has “total control” over the Strait of Hormuz and “I think we will keep it.”</p>\n<img src=\"https://nitter.net/pic/media%2FHPh2pzMW4AA9xAH.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2087548892699042132#m",
       "published": "2026-08-12T14:36:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: U.S. HAS “TOTAL CONTROL” OF HORMUZ President Trump claims the U.S. has “total control” of the Strait of Hormuz and suggested Washington could keep control of the strategic waterway. He described the U.S. naval blockade as a “wall of steel.” Trump also claimed Iran’s military has been severely weakened, the IRGC is “decimated,” and the country faces deep economic problems. He declared Iran is “no longer” the bully of the Middle East.",
-      "summary": "<p>TRUMP: U.S. HAS “TOTAL CONTROL” OF HORMUZ<br />\n<br />\nPresident Trump claims the U.S. has “total control” of the Strait of Hormuz and suggested Washington could keep control of the strategic waterway.<br />\n<br />\nHe described the U.S. naval blockade as a “wall of steel.”<br />\n<br />\nTrump also claimed Iran’s military has been severely weakened, the IRGC is “decimated,” and the country faces ",
-      "link": "https://nitter.net/DeItaone/status/2087547985143922784#m",
-      "published": "2026-08-12T14:33:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: U.S.A. HAS TOTAL CONTROL OVER OVER STRAIT OF HORMUZ",
-      "summary": "<p>TRUMP ON IRAN: U.S.A. HAS TOTAL CONTROL OVER OVER STRAIT OF HORMUZ</p>",
-      "link": "https://nitter.net/DeItaone/status/2087547777609789709#m",
-      "published": "2026-08-12T14:32:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "📅 TRUMP’S SCHEDULE — WEDNESDAY, AUGUST 12 🔸 8:00 AM — Executive Time 🔸 10:30 AM — Greeting with Law Enforcement & Military 🔸 11:00 AM — Policy Meeting 🔸 12:30 PM — Policy Meeting 🔸 2:30 PM — Signing Time 🔸 4:00 PM — Policy Meeting 🔸 5:00 PM — Policy Meeting 📍 White House / Oval Office 🔒 All presidential events closed to press",
-      "summary": "<p>📅 TRUMP’S SCHEDULE — WEDNESDAY, AUGUST 12<br />\n<br />\n🔸 8:00 AM — Executive Time<br />\n🔸 10:30 AM — Greeting with Law Enforcement & Military<br />\n🔸 11:00 AM — Policy Meeting<br />\n🔸 12:30 PM — Policy Meeting<br />\n🔸 2:30 PM — Signing Time<br />\n🔸 4:00 PM — Policy Meeting<br />\n🔸 5:00 PM — Policy Meeting<br />\n<br />\n📍 White House / Oval Office<br />\n🔒 All presidential events closed to press</",
-      "link": "https://nitter.net/DeItaone/status/2087547705023218140#m",
-      "published": "2026-08-12T14:32:12+00:00",
       "score": 1
     },
     {
