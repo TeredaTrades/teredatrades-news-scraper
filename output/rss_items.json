@@ -1,15 +1,339 @@
 {
-  "updated_at": "2026-08-13T12:27:22.300546+00:00",
-  "count": 72,
+  "updated_at": "2026-08-13T14:00:27.368337+00:00",
+  "count": 85,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Food inflation jumped to 5.52% and the Reserve Bank of India held at 5.25%: Why rate hikes are still on the table",
+      "summary": "India’s Consumer Price Index (CPI) inflation accelerated slightly to 4.45% year-on-year in July from 4.38% in June, primarily propelled by rising food costs.",
+      "link": "https://www.fxstreet.com/news/food-inflation-jumped-to-552-and-the-reserve-bank-of-india-held-at-525-why-rate-hikes-are-still-on-the-table-202608131355",
+      "published": "2026-08-13T13:55:29+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Norges Bank: Disinflation slows rate path – Nomura",
+      "summary": "Nomura economists note Norges Bank kept its policy rate at 4.25% in August despite softer CPI-ATE inflation. The bank still flags a possible further hike, but they now expect a November move, with risks tilted to no additional increase and no rate cuts projected until September 2027.",
+      "link": "https://www.fxstreet.com/news/norges-bank-disinflation-slows-rate-path-nomura-202608131343",
+      "published": "2026-08-13T13:43:09+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: Trump pressure and rate risks – Commerzbank",
+      "summary": "Commerzbank's Dr. Marco Wagner analyzes how Donald Trump’s past and potential future attacks on the Federal Reserve (Fed) affect its independence.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-trump-pressure-and-rate-risks-commerzbank-202608131333",
+      "published": "2026-08-13T13:33:44+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Iran: Trump's claim of controlling the strait is a lie - IRIB",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9719780/Iran-Trumps-claim-of-controlling-the-strait-is-a-lie---IRIB.aspx?xy=rss",
-      "published": "2026-08-13T12:14:04+00:00",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: +202 mln<br />Nasdaq 100: -21 mln<br />Dow 30: +30 mln<br />Mag 7: -25 mln",
+      "link": "https://www.financialjuice.com/News/9719940/MOO-Imbalance.aspx?xy=1",
+      "published": "2026-08-13T13:30:35+00:00",
       "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: JPMorgan's View on US CPI - FJElite",
+      "summary": "<div>US CPI came in close to expectations: headline and core rose 0.07% and 0.22%, respectively, with the year-ago rate ticking down a tenth in both (to 3.4% and 2.5% respectively). The three-month run rate of core CPI has now slipped below the 2%ar target rate, but the 0.22% monthly gain we’re tracking in core PCE suggests that the Fed’s preferred measure should be tracking a still-elevated 2.8%a",
+      "link": "https://www.financialjuice.com/News/9719924/JPMorgans-View-on-US-CPI---FJElite.aspx?xy=1",
+      "published": "2026-08-13T13:25:23+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Yield support erodes on weaker inflation – DBS",
+      "summary": "DBS Group Research economist Philip Wee notes that softer US CPI and labour data kept DXY locked in a 99.4–100.1 range after the USD/JPY sell-off linked to joint US-Japan interventions. Markets sharply reduced the implied probability of a September Federal Reserve hike.",
+      "link": "https://www.fxstreet.com/news/us-dollar-yield-support-erodes-on-weaker-inflation-dbs-202608131324",
+      "published": "2026-08-13T13:24:18+00:00",
+      "score": 6
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: CIBC on US CPI - FJElite",
+      "summary": "<div><strong>Economic forecast </strong>&nbsp;<br />With the monthly reading of core inflation in line with the consensus, we believe this reaffirms the case for a hold for the next FOMC meeting in September. However, these trends might not last if the renewed conflict in the Middle East lifts oil prices again.<br /><br /></div><div><strong>Markets</strong> <br />Market reaction was muted given th",
+      "link": "https://www.financialjuice.com/News/9719923/CIBC-on-US-CPI---FJElite.aspx?xy=1",
+      "published": "2026-08-13T13:22:22+00:00",
+      "score": 5
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Deutsche Bank's View on US CPI - FJElite",
+      "summary": "<div>So the CPI report eased concerns about the next Fed move without doing much to resolve the longer-term concerns around deficits, supply, and term premium. That will remain relevant as the Treasury sells $25bn of new 30yr bonds today, with the auction expected to produce the highest yield fora new 30yr issue since August 2001. Yesterday’s 10yrsale had seen $42bn of bonds issued at the highest ",
+      "link": "https://www.financialjuice.com/News/9719922/Deutsche-Banks-View-on-US-CPI---FJElite.aspx?xy=1",
+      "published": "2026-08-13T13:20:21+00:00",
+      "score": 5
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The US Government officially posts its largest July budget deficit in history, at -$432 billion, due to an acceleration in federal spending. Interest on US debt rose +$26 billion from last July's levels to an alarming $118 billion for the month. This puts total interest expense for FY2026 up to $1.17 trillion in FY2026. As a result, interest expense has officially surpassed both National Defense and Medicare spending. In other words, the US government now spends more money just on interest than it does to fund the entire US Military or to provide healthcare for seniors. We cannot afford higher interest rates.",
+      "summary": "<p>BREAKING: The US Government officially posts its largest July budget deficit in history, at -$432 billion, due to an acceleration in federal spending.<br />\n<br />\nInterest on US debt rose +$26 billion from last July's levels to an alarming $118 billion for the month. <br />\n<br />\nThis puts total interest expense for FY2026 up to $1.17 trillion in FY2026.<br />\n<br />\nAs a result, interest exp",
+      "link": "https://nitter.net/KobeissiLetter/status/2087890009277833590#m",
+      "published": "2026-08-13T13:12:23+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "\"Still an open question\": Fed’s Barkin keeps possibility of rate hike alive",
+      "summary": "Richmond Federal Reserve (Fed) President Thomas Barkin highlighted on Thursday the persistent uncertainty surrounding the US inflation outlook and monetary policy.",
+      "link": "https://www.fxstreet.com/news/still-an-open-question-feds-barkin-keeps-possibility-of-rate-hike-alive-202608131311",
+      "published": "2026-08-13T13:11:07+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Choppy range trading outlook against US Dollar – Rabobank",
+      "summary": "Rabobank's Senior FX Strategist Jane Foley discusses EUR/USD dynamics in light of shifting Fed rate hike expectations and Oil-related safe haven flows into the Dollar.",
+      "link": "https://www.fxstreet.com/news/euro-choppy-range-trading-outlook-against-us-dollar-rabobank-202608131311",
+      "published": "2026-08-13T13:11:03+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Policy support for BoJ hikes – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad highlights USD/JPY trading just below 160.00 as Japan’s government signals support for faster Bank of Japan (BoJ) rate hikes, reinforcing narrowing US–Japan differentials and a lower USD/JPY case.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-support-for-boj-hikes-bbh-202608131302",
+      "published": "2026-08-13T13:02:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Chamber of Commerce CEO Clark: We need to bring inflation down to 2% faster",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719883/US-Chamber-of-Commerce-CEO-Clark-We-need-to-bring-inflation-down-to-2-faster.aspx?xy=1",
+      "published": "2026-08-13T13:01:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: If it takes another 3-4 years to get to 2% inflation, can the public wait?",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719879/Feds-Hammack-If-it-takes-another-3-4-years-to-get-to-2-inflation-can-the-public-wait.aspx?xy=1",
+      "published": "2026-08-13T13:00:44+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "HAMMACK: IF IT TAKES ANOTHER 3-4 YEARS TO GET TO 2% INFLATION, CAN THE PUBLIC WAIT?",
+      "summary": "<p>HAMMACK: IF IT TAKES ANOTHER 3-4 YEARS TO GET TO 2% INFLATION, CAN THE PUBLIC WAIT?</p>",
+      "link": "https://nitter.net/DeItaone/status/2087887061546082799#m",
+      "published": "2026-08-13T13:00:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: Recent two inflation reports are welcome news, but no confidence we'll continue to see that progress",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719870/Feds-Hammack-Recent-two-inflation-reports-are-welcome-news-but-no-confidence-well-continue-to-see-that-progress.aspx?xy=1",
+      "published": "2026-08-13T13:00:11+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Effective Fed Funds Rate 3.63% August 12 vs 3.63% August 11.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719869/Effective-Fed-Funds-Rate-363-August-12-vs-363-August-11.aspx?xy=1",
+      "published": "2026-08-13T13:00:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: Inflation from these supply shocks has proved more persistent",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719868/Feds-Hammack-Inflation-from-these-supply-shocks-has-proved-more-persistent.aspx?xy=1",
+      "published": "2026-08-13T12:59:47+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: Consumers seem \"bound and determined\" to spend, and are finding ways to finance it.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719867/Feds-Barkin-Consumers-seem-bound-and-determined-to-spend-and-are-finding-ways-to-finance-it.aspx?xy=1",
+      "published": "2026-08-13T12:58:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: Payroll data is noisy",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719866/Feds-Hammack-Payroll-data-is-noisy.aspx?xy=1",
+      "published": "2026-08-13T12:57:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED'S BARKIN: CURRENT LEVELS OF FEDERAL DEBT ARE AN INFLATIONARY \"WIND\" THAT THE FED HAS TO NAVIGATE AGAINST",
+      "summary": "<p>FED'S BARKIN: CURRENT LEVELS OF FEDERAL DEBT ARE AN INFLATIONARY \"WIND\" THAT THE FED HAS TO NAVIGATE AGAINST</p>",
+      "link": "https://nitter.net/DeItaone/status/2087886070134268224#m",
+      "published": "2026-08-13T12:56:44+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barkin: Current levels of federal debt are an inflationary \"wind\" that the Fed has to navigate against.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719865/Feds-Barkin-Current-levels-of-federal-debt-are-an-inflationary-wind-that-the-Fed-has-to-navigate-against.aspx?xy=1",
+      "published": "2026-08-13T12:56:37+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: I also watch private credit and whether AI is a bubble",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719864/Feds-Hammack-I-also-watch-private-credit-and-whether-AI-is-a-bubble.aspx?xy=1",
+      "published": "2026-08-13T12:54:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: A lot of leverage is being used to buy treasuries. Treasuries is 1 area I monitor for financial stability.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719863/Feds-Hammack-A-lot-of-leverage-is-being-used-to-buy-treasuries-Treasuries-is-1-area-I-monitor-for-financial-stability.aspx?xy=1",
+      "published": "2026-08-13T12:53:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Turkish Lira: Further depreciation seen against US Dollar – Commerzbank",
+      "summary": "Commerzbank FX analyst Tatha Ghose highlights persistent inflation pressures and renewed current account deterioration as key drivers for continued weakness in the Turkish Lira against the Dollar.",
+      "link": "https://www.fxstreet.com/news/turkish-lira-further-depreciation-seen-against-us-dollar-commerzbank-202608131250",
+      "published": "2026-08-13T12:50:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: Businesses have adapted to tariff and oil shocks, there's resilience and investment.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719846/Feds-Hammack-Businesses-have-adapted-to-tariff-and-oil-shocks-theres-resilience-and-investment.aspx?xy=1",
+      "published": "2026-08-13T12:45:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: Raising interest rates can be painful, but must not let growth and investment be so fast the economy overheats.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719838/Feds-Hammack-Raising-interest-rates-can-be-painful-but-must-not-let-growth-and-investment-be-so-fast-the-economy-overheats.aspx?xy=1",
+      "published": "2026-08-13T12:43:21+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US PPI comes in softer than expected, confirms easing inflation pressure",
+      "summary": "Producer inflation in the United States (US) cooled more than expected in July, adding to evidence that inflationary pressure is gradually easing after Wednesday's Consumer Price Index (CPI) data.",
+      "link": "https://www.fxstreet.com/news/us-ppi-comes-in-softer-than-expected-confirms-easing-inflation-pressures-202608131243",
+      "published": "2026-08-13T12:43:15+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. PRODUCER INFLATION COMES IN FLAT U.S. producer prices were unchanged in July, below expectations for a 0.2% increase, after falling 0.1% in June. Lower energy prices helped contain wholesale inflation. Combined with softer consumer inflation, the report may ease pressure on the Fed to adjust rates soon. Attention now turns to the PCE inflation report later in August, the Fed’s preferred measure for tracking progress toward its 2% target.",
+      "summary": "<p>U.S. PRODUCER INFLATION COMES IN FLAT<br />\n<br />\nU.S. producer prices were unchanged in July, below expectations for a 0.2% increase, after falling 0.1% in June.<br />\n<br />\nLower energy prices helped contain wholesale inflation.<br />\n<br />\nCombined with softer consumer inflation, the report may ease pressure on the Fed to adjust rates soon.<br />\n<br />\nAttention now turns to the PCE infl",
+      "link": "https://nitter.net/DeItaone/status/2087882630725238974#m",
+      "published": "2026-08-13T12:43:04+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: Inflation is broad-based, not just in certain sectors, I have learned that from talking with businesses",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9719837/Feds-Hammack-Inflation-is-broad-based-not-just-in-certain-sectors-I-have-learned-that-from-talking-with-businesses.aspx?xy=1",
+      "published": "2026-08-13T12:42:22+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BARKIN: FED RATE HIKES STILL ON THE TABLE Fed’s Barkin says it remains an open question whether rates must rise to bring inflation back to 2%. Inflation could ease as wage pressures moderate and tariff and oil shocks fade, though price pressures may remain embedded. Many Fed officials believe current rates are already restrictive enough. Meanwhile, consumer spending remains resilient, business investment is strong, and AI is helping firms experiment with reducing headcount.",
+      "summary": "<p>BARKIN: FED RATE HIKES STILL ON THE TABLE<br />\n<br />\nFed’s Barkin says it remains an open question whether rates must rise to bring inflation back to 2%.<br />\n<br />\nInflation could ease as wage pressures moderate and tariff and oil shocks fade, though price pressures may remain embedded.<br />\n<br />\nMany Fed officials believe current rates are already restrictive enough.<br />\n<br />\nMeanw",
+      "link": "https://nitter.net/DeItaone/status/2087881958315438403#m",
+      "published": "2026-08-13T12:40:24+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED'S HAMMACK: REPEATS NEED TO RAISE RATES RIGHT NOW",
+      "summary": "<p>FED'S HAMMACK: REPEATS NEED TO RAISE RATES RIGHT NOW</p>",
+      "link": "https://nitter.net/DeItaone/status/2087881047690108970#m",
+      "published": "2026-08-13T12:36:47+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. HOUSING MARKET TILTS HARD TO BUYERS U.S. homebuyer demand hit a record low in July, with just 967,000 buyers versus 1.46M sellers—a 51% seller surplus. Nearly 80% of major metros are now buyer’s markets, giving house hunters greater negotiating power. Miami leads with 154% more sellers than buyers, followed by Nashville and several Texas metros. High mortgage rates, elevated prices and economic uncertainty are keeping buyers on the sidelines.",
+      "summary": "<p>U.S. HOUSING MARKET TILTS HARD TO BUYERS<br />\n<br />\nU.S. homebuyer demand hit a record low in July, with just 967,000 buyers versus 1.46M sellers—a 51% seller surplus.<br />\n<br />\nNearly 80% of major metros are now buyer’s markets, giving house hunters greater negotiating power.<br />\n<br />\nMiami leads with 154% more sellers than buyers, followed by Nashville and several Texas metros.<br />",
+      "link": "https://nitter.net/DeItaone/status/2087880929049997456#m",
+      "published": "2026-08-13T12:36:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "SPOT GOLD LITTLE CHANGED AFTER US PPI DATA, LAST DOWN 0.5% AT $4,382.22/OZ",
+      "summary": "<p>SPOT GOLD  LITTLE CHANGED AFTER US PPI DATA, LAST DOWN 0.5% AT $4,382.22/OZ</p>",
+      "link": "https://nitter.net/DeItaone/status/2087880237807734967#m",
+      "published": "2026-08-13T12:33:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: July PPI Inflation falls to 4.7%, below expectations of 4.9%. Core PPI Inflation fell to 4.2%, in-line with expectations of 4.2%. Month-over-month PPI inflation was flat, at 0.0%, the first such reading since June 2025. The odds of rate hikes are declining further.",
+      "summary": "<p>BREAKING: July PPI Inflation falls to 4.7%, below expectations of 4.9%.<br />\n<br />\nCore PPI Inflation fell to 4.2%, in-line with expectations of 4.2%.<br />\n<br />\nMonth-over-month PPI inflation was flat, at 0.0%, the first such reading since June 2025.<br />\n<br />\nThe odds of rate hikes are declining further.</p>",
+      "link": "https://nitter.net/KobeissiLetter/status/2087879725658030511#m",
+      "published": "2026-08-13T12:31:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee: Benign inflation reinforces RBI pause – DBS",
+      "summary": "DBS Group Research economist Radhika Rao analyzes India’s July inflation data and its implications for the Reserve Bank of India. She notes that benign core inflation and limited spillovers from external shocks support a continued RBI policy pause.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-benign-inflation-reinforces-rbi-pause-dbs-202608131229",
+      "published": "2026-08-13T12:29:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ACKMAN MAKES HIS BIGGEST PORTFOLIO REVAMP IN YEARS Bill Ackman added six new holdings: Netflix ($NFLX), Visa ($V), Mastercard ($MA), Alcon ($ALC), Intercontinental Exchange ($ICE) and S&P Global ($SPGI). Ackman expects strong earnings growth to drive long-term value. His portfolio also includes Microsoft ($MSFT), Uber ($UBER), Meta ($META), Amazon ($AMZN), Fannie Mae ($FNMA) and Freddie Mac ($FMCC). Through July, Pershing Square USA was down 3.5%, versus a 13% gain for the S&P 500.",
+      "summary": "<p>ACKMAN MAKES HIS BIGGEST PORTFOLIO REVAMP IN YEARS<br />\n<br />\nBill Ackman added six new holdings: Netflix ($NFLX), Visa ($V), Mastercard ($MA), Alcon ($ALC), Intercontinental Exchange ($ICE) and S&amp;P Global ($SPGI).<br />\n<br />\nAckman expects strong earnings growth to drive long-term value.<br />\n<br />\nHis portfolio also includes Microsoft ($MSFT), Uber ($UBER), Meta ($META), Amazon ($AM",
+      "link": "https://nitter.net/DeItaone/status/2087876864605929866#m",
+      "published": "2026-08-13T12:20:10+00:00",
+      "score": 4
     },
     {
       "source": "FXStreet",
@@ -21,28 +345,10 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Iren gets NVIDIA Exemplar cloud status on NVIDIA GB300 NVL72.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9719753/Iren-gets-NVIDIA-Exemplar-cloud-status-on-NVIDIA-GB300-NVL72-.aspx?xy=rss",
-      "published": "2026-08-13T11:54:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: IREN deliver Horizon 1 to Microsoft $MSFT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9719752/IREN-deliver-Horizon-1-to-Microsoft-MSFT.aspx?xy=rss",
-      "published": "2026-08-13T11:54:02+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Gold Price Forecast: XAU/USD stands tall at two-month highs above $4,380",
-      "summary": "Gold (XAU/USD) posts marginal losses on Thursday, after meeting resistance at the  $4,450 area, yet with price action holding just above previous highs around $ 4,380 at the time of writing.",
+      "summary": "Gold (XAU/USD) posts marginal losses on Thursday, after meeting resistance at the $4,450 area, yet with price action holding just above previous highs around $ 4,380 at the time of writing.",
       "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-stands-tall-at-two-month-highs-above-4-380-202608131152",
       "published": "2026-08-13T11:52:20+00:00",
       "score": 3
@@ -55,15 +361,6 @@
       "link": "https://www.fxstreet.com/news/federal-reserve-gradual-easing-path-uob-202608131152",
       "published": "2026-08-13T11:52:02+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver slips below $65, but cooling US inflation keeps downside in check",
-      "summary": "Silver (XAG/USD) trades lower around $64.90 on Thursday at the time of writing, down 0.64% on the day. The white metal consolidates after its recent advance as investors refrain from taking large positions ahead of the release of US producer inflation data.",
-      "link": "https://www.fxstreet.com/news/silver-slips-below-65-but-cooling-us-inflation-keeps-downside-in-check-202608131141",
-      "published": "2026-08-13T11:41:20+00:00",
-      "score": 5
     },
     {
       "source": "Walter Bloomberg",
@@ -95,146 +392,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound: Solid UK data, limited BoE impact – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes GBP/USD trading directionless near 1.3500 as United Kingdom (UK) Q2 and June Gross Domestic Product (GDP) data show encouraging activity. Growth was driven by investment and consumption, with government spending a drag.",
-      "link": "https://www.fxstreet.com/news/british-pound-solid-uk-data-limited-boe-impact-bbh-202608131122",
-      "published": "2026-08-13T11:22:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump Trade Adviser Navarro: US transshipment crackdown is broader than China",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9719723/Trump-Trade-Adviser-Navarro-US-transshipment-crackdown-is-broader-than-China.aspx?xy=rss",
-      "published": "2026-08-13T11:22:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump Trade Adviser Navarro: US customs officials overwhelmed by tariff evasion",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9719722/Trump-Trade-Adviser-Navarro-US-customs-officials-overwhelmed-by-tariff-evasion.aspx?xy=rss",
-      "published": "2026-08-13T11:20:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound recovers early losses against US Dollar, US PPI data eyed",
-      "summary": "The British Pound (GBP) claws back its early losses against the US Dollar (USD) and flattens at around 1.3495 during the European trading session on Thursday.",
-      "link": "https://www.fxstreet.com/news/british-pound-recovers-early-losses-against-us-dollar-us-ppi-data-eyed-202608131111",
-      "published": "2026-08-13T11:11:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "WASHINGTON’S $40 TRILLION DEBT PROBLEM Washington is promising more spending while avoiding politically painful cuts. Trump is pushing a $1.5T military budget, while Democrats campaign on expanded healthcare, education and other programs. Meanwhile, U.S. government debt is approaching $40T, with the deficit projected at $1.887T this year and above $2T next year. Interest payments alone are expected to hit $1.1T this year. Despite earlier efforts like DOGE, serious spending cuts have largely disappeared from the campaign conversation.",
-      "summary": "<p>WASHINGTON’S $40 TRILLION DEBT PROBLEM<br />\n<br />\nWashington is promising more spending while avoiding politically painful cuts.<br />\n<br />\nTrump is pushing a $1.5T military budget, while Democrats campaign on expanded healthcare, education and other programs.<br />\n<br />\nMeanwhile, U.S. government debt is approaching $40T, with the deficit projected at $1.887T this year and above $2T next",
-      "link": "https://nitter.net/DeItaone/status/2087858147125833972#m",
-      "published": "2026-08-13T11:05:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: Capped below the 50% retracement of July’s plunge, at 159.50",
-      "summary": "The US Dollar (USD) remains practically flat against the Japanese Yen (JPY) on Thursday, as fading hopes of a Federal Reserve (Fed) interest rate hike in September have undermined speculative demand for the Greenback.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-capped-below-the-50-retracement-of-julys-plunge-at-15950-202608131057",
-      "published": "2026-08-13T10:57:30+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold retreats from two-month high as traders await US PPI",
-      "summary": "Gold (XAU/USD) comes under selling pressure on Thursday, erasing all the gains recorded in the previous day after hitting a fresh two-month high of $4,449 during Asian trading hours. At the time of writing, the precious metal trades around $4,386, down 0.52% on the day.",
+      "title": "Gold struggles below two-month high despite softer US PPI",
+      "summary": "Gold (XAU/USD) trades under pressure on Thursday after hitting a fresh two-month high of $4,449 during Asian trading hours. The metal fails to capitalise on softer-than-expected US Producer Price Index (PPI) data, even as the US Dollar and Treasury yields edge lower.",
       "link": "https://www.fxstreet.com/news/gold-retreats-from-two-month-high-as-traders-await-us-ppi-202608131057",
       "published": "2026-08-13T10:57:10+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Economists agree: ECB to hike interest rates by 25 bps to 2.5% in September - Reuters",
-      "summary": "According to a Reuters poll, the European Central Bank (ECB) will hike its deposit rates by 25 basis points (bps) to 2.50% in September, said 57 of 69 economists.",
-      "link": "https://www.fxstreet.com/news/economists-agree-ecb-to-hike-interest-rates-by-25-bps-to-25-in-september-202608131024",
-      "published": "2026-08-13T10:24:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar caught between hawkish RBA, Iran-related inflation risks",
-      "summary": "AUD/USD trades around 0.7055 on Thursday at the time of writing, little changed on the day.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-caught-between-hawkish-rba-iran-related-inflation-risks-202608131023",
-      "published": "2026-08-13T10:23:22+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Bearish bias against US Dollar within higher range – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/JPY closed little changed at 159.41 after briefly dipping to 158.58 and rebounding to 159.54. Intraday, the pair is expected to trade between 158.70 and 159.70.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-bearish-bias-against-us-dollar-within-higher-range-uob-202608131002",
-      "published": "2026-08-13T10:02:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: CPI-driven moves point to near-term stability – MUFG",
-      "summary": "Lee Hardman at MUFG reports that the US Dollar’s initial post-CPI weakness quickly reversed, with the dollar index returning to around 100.00 as markets trimmed but did not abandon expectations for a September Fed hike.",
-      "link": "https://www.fxstreet.com/news/us-dollar-cpi-driven-moves-point-to-near-term-stability-mufg-202608130952",
-      "published": "2026-08-13T09:52:12+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Brazilian Real: Election risks threaten carry story – Societe Generale",
-      "summary": "Societe Generale strategists note USD/BRL has formed a higher low and is testing its 200-day moving average near 5.22, with upside projections toward 5.34–5.38.",
-      "link": "https://www.fxstreet.com/news/brazilian-real-election-risks-threaten-carry-story-societe-generale-202608130943",
-      "published": "2026-08-13T09:43:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) fell on Thursday, according to FXStreet data. Silver trades at $64.48 per troy ounce, down 1.30% from the $65.32 it cost on Wednesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608130932",
-      "published": "2026-08-13T09:32:36+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Range tests with upside bias against US Dollar – ING",
-      "summary": "ING’s Francesco Pesole keeps a constructive stance on EUR/USD after recent US data, based on a view that the Federal Reserve is unlikely to deliver further tightening.",
-      "link": "https://www.fxstreet.com/news/euro-range-tests-with-upside-bias-against-us-dollar-ing-202608130929",
-      "published": "2026-08-13T09:29:35+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING: The EUR - FJElite",
-      "summary": "<div>We retain a preference for EUR/USD upside following the latest US data. That view is rooted in our Fed assessment outlined above, though it must be balanced against the risk that renewed escalation in the Gulf could provide fresh support to the dollar.</div><div><br /></div><div>Our target for the coming weeks remains 1.160, followed by 1.17 in autumn and 1.18 by year- end. The absence of a c",
-      "link": "https://www.financialjuice.com/News/9719511/ING-The-EUR---FJElite.aspx?xy=rss",
-      "published": "2026-08-13T08:26:32+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs: US CPI - FJElite",
-      "summary": "<div>Core CPI increased by 0.22% in July, roughly in line with expectations. On the firmer side, the OER and rent categories rebounded to 0.26% month-over-month, somewhat above our estimate of their underlying trends, boosting the core by 9bp and 3bp, respectively. Medical services prices were also firmer than expected, increasing by 0.6% month-over-month and boosting the core by 5bp. The communic",
-      "link": "https://www.financialjuice.com/News/9719510/Goldman-Sachs-US-CPI---FJElite.aspx?xy=rss",
-      "published": "2026-08-13T08:24:49+00:00",
-      "score": 2
+      "score": 5
     },
     {
       "source": "r/Forex",
@@ -243,15 +405,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vn4fik/whats_ur_geiw_on_this_position_in_eurusd/\"> <img alt=\"Whats ur geiw on this position in eurusd\" src=\"https://preview.redd.it/6tbvk557n3jh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d41afd58b3eba4553db53ff2b55c75d2598f3d5e\" title=\"Whats ur geiw on this position in eurusd\" /> </a> </td><td> &#32; submitted by &#32; <a ",
       "link": "https://www.reddit.com/r/Forex/comments/1vn4fik/whats_ur_geiw_on_this_position_in_eurusd/",
       "published": "2026-08-13T08:01:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee drops despite lower US Dollar, oil prices",
-      "summary": "The Indian Rupee (INR) is under pressure against the US Dollar (USD) on Thursday. The USD/INR pair rises to near 95.44 after a corrective move the previous day, even as the US Dollar and oil prices trade lower.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-marginally-lower-as-us-dollar-trades-firmly-202608130521",
-      "published": "2026-08-13T05:21:00+00:00",
       "score": 1
     },
     {
@@ -300,39 +453,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: KAROLINE LEAVITT, WILL BE DEPARTING HER ROLE AT END OF MONTH",
-      "summary": "<p>TRUMP: KAROLINE LEAVITT, WILL BE DEPARTING HER ROLE AT END OF MONTH</p>",
-      "link": "https://nitter.net/DeItaone/status/2087624074046419449#m",
-      "published": "2026-08-12T19:35:40+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "How beginner thinks what News trading is (W gold)",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vmlf97/how_beginner_thinks_what_news_trading_is_w_gold/\"> <img alt=\"How beginner thinks what News trading is (W gold)\" src=\"https://preview.redd.it/vxulfb0ufzih1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b93ef3807f349303c362193c68310e61334da8f1\" title=\"How beginner thinks what News trading is (W gold)\" /> </a> </td><td> &#3",
       "link": "https://www.reddit.com/r/Forex/comments/1vmlf97/how_beginner_thinks_what_news_trading_is_w_gold/",
       "published": "2026-08-12T17:53:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TREASURY 10-YEAR NOTE AUCTION DRAWS HIGHEST YIELD SINCE 2007",
-      "summary": "<p>*TREASURY 10-YEAR NOTE AUCTION DRAWS HIGHEST YIELD SINCE 2007</p>",
-      "link": "https://nitter.net/DeItaone/status/2087586264186843467#m",
-      "published": "2026-08-12T17:05:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*US 10Y NOTES DRAW 4.683% VS 4.682% PRE-SALE WHEN-ISSUED YIELD",
-      "summary": "<p>*US 10Y NOTES DRAW 4.683% VS 4.682% PRE-SALE WHEN-ISSUED YIELD</p>",
-      "link": "https://nitter.net/DeItaone/status/2087585739122815403#m",
-      "published": "2026-08-12T17:03:20+00:00",
       "score": 1
     },
     {
@@ -343,15 +469,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vmj28x/how_to_learn_msnr_to_implement_in_forex_xauusd/",
       "published": "2026-08-12T16:30:31+00:00",
       "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "GOLDMAN SEES CORE PCE AT 0.23% Goldman Sachs expects July core PCE to rise 0.23% M/M, slightly above core CPI and consensus. Portfolio management fees are expected to add 8 bps, reflecting Q2 equity gains. Goldman says upcoming methodology changes could create volatility in PCE readings and lower annual core inflation. The bank expects core inflation near 0.2% in August and sees the Fed holding rates steady through year-end.",
-      "summary": "<p>GOLDMAN SEES CORE PCE AT 0.23%<br />\n<br />\nGoldman Sachs expects July core PCE to rise 0.23% M/M, slightly above core CPI and consensus.<br />\n<br />\nPortfolio management fees are expected to add 8 bps, reflecting Q2 equity gains.<br />\n<br />\nGoldman says upcoming methodology changes could create volatility in PCE readings and lower annual core inflation.<br />\n<br />\nThe bank expects core in",
-      "link": "https://nitter.net/DeItaone/status/2087572463198552177#m",
-      "published": "2026-08-12T16:10:35+00:00",
-      "score": 5
     },
     {
       "source": "Kobeissi Letter",
