@@ -360,22 +360,6 @@
     "previous": "-0.3%"
   },
   {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "date": "2026-08-13T04:03:00-04:00",
-    "impact": "Low",
-    "forecast": "7.9%",
-    "previous": "8.0%"
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "date": "2026-08-13T04:03:00-04:00",
-    "impact": "Low",
-    "forecast": "-50B",
-    "previous": "1610B"
-  },
-  {
     "title": "Industrial Production m/m",
     "country": "EUR",
     "date": "2026-08-13T05:00:00-04:00",
@@ -534,6 +518,22 @@
     "impact": "Low",
     "forecast": "-2.2B",
     "previous": "-5.0B"
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2026-08-14T05:03:00-04:00",
+    "impact": "Low",
+    "forecast": "7.9%",
+    "previous": "8.0%"
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2026-08-14T05:03:00-04:00",
+    "impact": "Low",
+    "forecast": "-50B",
+    "previous": "1610B"
   },
   {
     "title": "Manufacturing Sales m/m",
