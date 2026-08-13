@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-08-13T22:11:26.230102+00:00",
-  "count": 74,
+  "updated_at": "2026-08-13T23:04:00.008533+00:00",
+  "count": 63,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar holds near 0.7060 as eyes shift to RBA’s Bullock",
+      "summary": "The Aussie Dollar holds steady at around 0.7061 after US inflation data weighed on the Greenback, which recovered some ground to finish Thursday’s session almost flat. The AUD/USD registers modest losses of 0.01%",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-near-07060-as-eyes-shift-to-rbas-bullock-202608132258",
+      "published": "2026-08-13T22:58:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The British Pound's growth beat came from a dead ceasefire",
+      "summary": "The Pound holds just under 1.3500 on Thursday inside a session range barely 40 pips wide, which is a thin response to a morning that handed Britain a growth beat and an afternoon that handed the Dollar a soft inflation print.",
+      "link": "https://www.fxstreet.com/news/the-british-pounds-growth-beat-came-from-a-dead-ceasefire-202608132231",
+      "published": "2026-08-13T22:31:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Goolsbee sees inflation improving as shocks fade",
+      "summary": "The Chicago Fed President, Austan Goolsbee, who is a voter until 2027, acknowledged that the disinflation process is evolving and said so late in the North American session.",
+      "link": "https://www.fxstreet.com/news/feds-goolsbee-sees-inflation-improving-as-shocks-fade-202608132229",
+      "published": "2026-08-13T22:29:47+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Goolsbee: US economy remains stable",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9720615/Feds-Goolsbee-US-economy-remains-stable.aspx?xy=rss",
+      "published": "2026-08-13T22:14:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Goolsbee: If can put some of that behind us, can steer inflation back to 2%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9720614/Feds-Goolsbee-If-can-put-some-of-that-behind-us-can-steer-inflation-back-to-2.aspx?xy=rss",
+      "published": "2026-08-13T22:12:09+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Goolsbee: many inflation factors stemmed from tariffs and oil, initially expected as one-time jumps",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9720613/Feds-Goolsbee-many-inflation-factors-stemmed-from-tariffs-and-oil-initially-expected-as-one-time-jumps.aspx?xy=rss",
+      "published": "2026-08-13T22:11:50+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Goolsbee: latest inflation figures have improved slightly",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9720612/Feds-Goolsbee-latest-inflation-figures-have-improved-slightly.aspx?xy=rss",
+      "published": "2026-08-13T22:11:34+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -39,57 +102,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Australia PM Albanese: spoke with President Donald Trump overnight",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720557/Australia-PM-Albanese-spoke-with-President-Donald-Trump-overnight.aspx?xy=rss",
-      "published": "2026-08-13T21:39:52+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Reddit stock, $RDDT, surges over +11% on news that the company is being added to the S&P 500.",
       "summary": "<p>BREAKING: Reddit stock, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23RDDT\">$RDDT</a>, surges over +11% on news that the company is being added to the S&amp;P 500.</p>\n<img src=\"https://nitter.net/pic/media%2FHPoe5K8WoAItEcI.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2088015349262221328#m",
       "published": "2026-08-13T21:30:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump instructs defense secretary to substitute advanced electromagnetic aircraft launch and weapons elevator systems with traditional steam and hydraulic methods",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720549/White-House-Trump-instructs-defense-secretary-to-substitute-advanced-electromagnetic-aircraft-launch-and-weapons-elevator-systems-with-traditional-steam-and-hydraulic-methods.aspx?xy=rss",
-      "published": "2026-08-13T21:28:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump memo instructs Pentagon to boost direct investments in U.S. shipbuilding industry using Finland model",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720548/White-House-Trump-memo-instructs-Pentagon-to-boost-direct-investments-in-US-shipbuilding-industry-using-Finland-model.aspx?xy=rss",
-      "published": "2026-08-13T21:27:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump signs national security presidential memorandum to address critical long-term challenges in navy shipbuilding and repair programs",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720546/White-House-Trump-signs-national-security-presidential-memorandum-to-address-critical-long-term-challenges-in-navy-shipbuilding-and-repair-programs.aspx?xy=rss",
-      "published": "2026-08-13T21:27:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump proclamation enforces 10% ad valorem tariff on drones from United Kingdom",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720542/White-House-Trump-proclamation-enforces-10-ad-valorem-tariff-on-drones-from-United-Kingdom.aspx?xy=rss",
-      "published": "2026-08-13T21:25:45+00:00",
       "score": 1
     },
     {
@@ -228,42 +246,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen struggles despite soft US PPI, fading Fed rate-hike bets",
-      "summary": "The Japanese Yen (JPY) struggles to gain traction against the US Dollar (USD) on Thursday, even as the Greenback weakens modestly following softer-than-expected US Producer Price Index (PPI) data. The Yen strengthened immediately after the release, briefly pushing USD/JPY toward 159.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-despite-soft-us-ppi-fading-fed-rate-hike-bets-202608131600",
-      "published": "2026-08-13T16:00:03+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound climbs as soft US inflation data hurt Fed hawkish bets",
-      "summary": "The Pound Sterling (GBP) registers modest gains versus the Greenback on Thursday as US inflation data in the producer side came in below or in line with estimates, showing that the disinflation process continues. At the time of writing, the GBP/USD pair trades at 1.3503, up 0.06%.",
-      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-soft-us-inflation-data-hurt-fed-hawkish-bets-202608131552",
-      "published": "2026-08-13T15:52:25+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Carry Trade: Supportive backdrop holds – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that in-line United States (US) inflation and a modestly lower probability of a September Federal Reserve (Fed) hike have left the US Dollar (USD) broadly range-bound while risk assets continue to rally.",
-      "link": "https://www.fxstreet.com/news/carry-trade-supportive-backdrop-holds-ocbc-202608131551",
-      "published": "2026-08-13T15:51:00+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$AMD - AMD EYES $5 BILLION DEBT SALE FOR AI EXPANSION AMD plans to raise up to $5B through a four-part bond sale, potentially its largest ever. The chipmaker is ramping up spending as AI computing demand surges, following major agreements with Anthropic and Microsoft ($MSFT). AMD has also committed up to $5B to Anthropic. Proceeds will fund general corporate purposes, potentially including debt repayment, with $875M in bonds maturing next month.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMD\">$AMD</a>  - AMD EYES $5 BILLION DEBT SALE FOR AI EXPANSION<br />\n<br />\nAMD plans to raise up to $5B through a four-part bond sale, potentially its largest ever.<br />\n<br />\nThe chipmaker is ramping up spending as AI computing demand surges, following major agreements with Anthropic and Microsoft ($MSFT).<br />\n<br />\nAMD has also commi",
-      "link": "https://nitter.net/DeItaone/status/2087923265385779223#m",
-      "published": "2026-08-13T15:24:32+00:00",
-      "score": 1
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
@@ -271,24 +253,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
       "published": "2026-08-13T15:00:00+00:00",
       "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Pinned: 🇺🇸 TRADERS NO LONGER FULLY PRICE IN A FED RATE HIKE THIS YEAR Prediction markets now see a 70% chance the Fed holds rates steady in September, versus 29% odds of a 25bp hike. A 25bp cut is priced at just 2%. Markets are increasingly betting the Fed can remain on hold as inflation cools. https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep?utm_source=walterbloomberg",
-      "summary": "<p>🇺🇸 TRADERS NO LONGER FULLY PRICE IN A FED RATE HIKE THIS YEAR<br />\n<br />\nPrediction markets now see a 70% chance the Fed holds rates steady in September, versus 29% odds of a 25bp hike.<br />\n<br />\nA 25bp cut is priced at just 2%.<br />\n<br />\nMarkets are increasingly betting the Fed can remain on hold as inflation cools.<br />\n<a href=\"https://kalshi.com/markets/kxfeddecision/fed-meeting/kx",
-      "link": "https://nitter.net/DeItaone/status/2087911787358298450#m",
-      "published": "2026-08-13T14:38:56+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "PCE INFLATION SEEN AT 3.6% IN JULY Oxford Economics expects the Fed’s preferred inflation gauge, headline PCE, to rise 3.6% year-over-year in July, easing slightly from 3.7% in June. The report is due later this month. With services inflation cooling and the labor market showing little sign of overheating, Oxford Economics expects the Fed to keep rates unchanged for the rest of 2026.",
-      "summary": "<p>PCE INFLATION SEEN AT 3.6% IN JULY<br />\n<br />\nOxford Economics expects the Fed’s preferred inflation gauge, headline PCE, to rise 3.6% year-over-year in July, easing slightly from 3.7% in June.<br />\n<br />\nThe report is due later this month.<br />\n<br />\nWith services inflation cooling and the labor market showing little sign of overheating, Oxford Economics expects the Fed to keep rates unc",
-      "link": "https://nitter.net/DeItaone/status/2087903277400657961#m",
-      "published": "2026-08-13T14:05:07+00:00",
-      "score": 3
     },
     {
       "source": "Kobeissi Letter",
@@ -300,15 +264,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "S&P 500 HITS INTRADAY RECORD HIGH, LAST UP 0.6%",
-      "summary": "<p>S&amp;P 500 HITS INTRADAY RECORD HIGH, LAST UP 0.6%</p>",
-      "link": "https://nitter.net/DeItaone/status/2087900892750025014#m",
-      "published": "2026-08-13T13:55:38+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The US Government officially posts its largest July budget deficit in history, at -$432 billion, due to an acceleration in federal spending. Interest on US debt rose +$26 billion from last July's levels to an alarming $118 billion for the month. This puts total interest expense for FY2026 up to $1.17 trillion in FY2026. As a result, interest expense has officially surpassed both National Defense and Medicare spending. In other words, the US government now spends more money just on interest than it does to fund the entire US Military or to provide healthcare for seniors. We cannot afford higher interest rates.",
@@ -316,60 +271,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2087890009277833590#m",
       "published": "2026-08-13T13:12:23+00:00",
       "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "HAMMACK: IF IT TAKES ANOTHER 3-4 YEARS TO GET TO 2% INFLATION, CAN THE PUBLIC WAIT?",
-      "summary": "<p>HAMMACK: IF IT TAKES ANOTHER 3-4 YEARS TO GET TO 2% INFLATION, CAN THE PUBLIC WAIT?</p>",
-      "link": "https://nitter.net/DeItaone/status/2087887061546082799#m",
-      "published": "2026-08-13T13:00:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FED'S BARKIN: CURRENT LEVELS OF FEDERAL DEBT ARE AN INFLATIONARY \"WIND\" THAT THE FED HAS TO NAVIGATE AGAINST",
-      "summary": "<p>FED'S BARKIN: CURRENT LEVELS OF FEDERAL DEBT ARE AN INFLATIONARY \"WIND\" THAT THE FED HAS TO NAVIGATE AGAINST</p>",
-      "link": "https://nitter.net/DeItaone/status/2087886070134268224#m",
-      "published": "2026-08-13T12:56:44+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. PRODUCER INFLATION COMES IN FLAT U.S. producer prices were unchanged in July, below expectations for a 0.2% increase, after falling 0.1% in June. Lower energy prices helped contain wholesale inflation. Combined with softer consumer inflation, the report may ease pressure on the Fed to adjust rates soon. Attention now turns to the PCE inflation report later in August, the Fed’s preferred measure for tracking progress toward its 2% target.",
-      "summary": "<p>U.S. PRODUCER INFLATION COMES IN FLAT<br />\n<br />\nU.S. producer prices were unchanged in July, below expectations for a 0.2% increase, after falling 0.1% in June.<br />\n<br />\nLower energy prices helped contain wholesale inflation.<br />\n<br />\nCombined with softer consumer inflation, the report may ease pressure on the Fed to adjust rates soon.<br />\n<br />\nAttention now turns to the PCE infl",
-      "link": "https://nitter.net/DeItaone/status/2087882630725238974#m",
-      "published": "2026-08-13T12:43:04+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "BARKIN: FED RATE HIKES STILL ON THE TABLE Fed’s Barkin says it remains an open question whether rates must rise to bring inflation back to 2%. Inflation could ease as wage pressures moderate and tariff and oil shocks fade, though price pressures may remain embedded. Many Fed officials believe current rates are already restrictive enough. Meanwhile, consumer spending remains resilient, business investment is strong, and AI is helping firms experiment with reducing headcount.",
-      "summary": "<p>BARKIN: FED RATE HIKES STILL ON THE TABLE<br />\n<br />\nFed’s Barkin says it remains an open question whether rates must rise to bring inflation back to 2%.<br />\n<br />\nInflation could ease as wage pressures moderate and tariff and oil shocks fade, though price pressures may remain embedded.<br />\n<br />\nMany Fed officials believe current rates are already restrictive enough.<br />\n<br />\nMeanw",
-      "link": "https://nitter.net/DeItaone/status/2087881958315438403#m",
-      "published": "2026-08-13T12:40:24+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FED'S HAMMACK: REPEATS NEED TO RAISE RATES RIGHT NOW",
-      "summary": "<p>FED'S HAMMACK: REPEATS NEED TO RAISE RATES RIGHT NOW</p>",
-      "link": "https://nitter.net/DeItaone/status/2087881047690108970#m",
-      "published": "2026-08-13T12:36:47+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. HOUSING MARKET TILTS HARD TO BUYERS U.S. homebuyer demand hit a record low in July, with just 967,000 buyers versus 1.46M sellers—a 51% seller surplus. Nearly 80% of major metros are now buyer’s markets, giving house hunters greater negotiating power. Miami leads with 154% more sellers than buyers, followed by Nashville and several Texas metros. High mortgage rates, elevated prices and economic uncertainty are keeping buyers on the sidelines.",
-      "summary": "<p>U.S. HOUSING MARKET TILTS HARD TO BUYERS<br />\n<br />\nU.S. homebuyer demand hit a record low in July, with just 967,000 buyers versus 1.46M sellers—a 51% seller surplus.<br />\n<br />\nNearly 80% of major metros are now buyer’s markets, giving house hunters greater negotiating power.<br />\n<br />\nMiami leads with 154% more sellers than buyers, followed by Nashville and several Texas metros.<br />",
-      "link": "https://nitter.net/DeItaone/status/2087880929049997456#m",
-      "published": "2026-08-13T12:36:19+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
