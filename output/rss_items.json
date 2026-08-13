@@ -1,13 +1,40 @@
 {
-  "updated_at": "2026-08-13T17:28:53.057502+00:00",
-  "count": 63,
+  "updated_at": "2026-08-13T18:29:25.546323+00:00",
+  "count": 71,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen little changed amid cooling US inflation",
+      "summary": "USD/JPY is trading sideways on Thursday, hovering in the mid-159.00s and holding within its recent range. It is more of the same for the pair, which continues to move in consolidation as opposing forces cancel each other out.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-little-changed-amid-cooling-us-inflation-202608131817",
+      "published": "2026-08-13T18:17:25+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold slips as US Dollar recovers despite softer US factory inflation",
+      "summary": "Gold (XAU/USD) price declines on Thursday as the US Dollar (USD) trims some of its earlier losses, as economic data in the US showed that the disinflation process continues, amid a moderately softening jobs market.",
+      "link": "https://www.fxstreet.com/news/gold-slips-as-us-dollar-recovers-despite-softer-us-factory-inflation-202608131813",
+      "published": "2026-08-13T18:13:30+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: Momentum cools as XAG/USD consolidates above 50-day SMA",
+      "summary": "Silver trades modestly lower on Thursday, holding within Monday’s trading range as buyers take a breather following the strong rally seen at the start of the month.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-momentum-cools-as-xag-usd-consolidates-above-50-day-sma-202608131810",
+      "published": "2026-08-13T18:10:41+00:00",
+      "score": 3
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Google: Gemini Spark to use Gemini 3.7 Flash starting today $GOOGL",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9720244/Google-Gemini-Spark-to-use-Gemini-37-Flash-starting-today-GOOGL.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9720244/Google-Gemini-Spark-to-use-Gemini-37-Flash-starting-today-GOOGL.aspx?xy=rss",
       "published": "2026-08-13T17:06:03+00:00",
       "score": 1
     },
@@ -16,7 +43,7 @@
       "category": "news",
       "title": "FinancialJuice: Google: Gemini 3.7 flash intro price of $0.75/1m input tokens $GOOGL",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9720242/Google-Gemini-37-flash-intro-price-of-0751m-input-tokens-GOOGL.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9720242/Google-Gemini-37-flash-intro-price-of-0751m-input-tokens-GOOGL.aspx?xy=rss",
       "published": "2026-08-13T17:05:29+00:00",
       "score": 1
     },
@@ -25,7 +52,7 @@
       "category": "news",
       "title": "FinancialJuice: Google: Gemini 3.7 Flash outperforms 3.6 Flash on complex docs $GOOGL",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9720241/Google-Gemini-37-Flash-outperforms-36-Flash-on-complex-docs-GOOGL.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9720241/Google-Gemini-37-Flash-outperforms-36-Flash-on-complex-docs-GOOGL.aspx?xy=rss",
       "published": "2026-08-13T17:04:17+00:00",
       "score": 1
     },
@@ -34,7 +61,7 @@
       "category": "news",
       "title": "FinancialJuice: US 30-Year Bond Auction",
       "summary": "<ul><li>High Yield 5.216% [Tail 0.4 bps]</li><li>Bid-to-cover 2.39</li><li>Sells 25 bln</li><li>Awards 12.10% of bids at high</li><li>Primary Dealers take 11.5%</li><li>Direct 21.6%</li><li>Indirect 66.8%</li></ul>",
-      "link": "https://www.financialjuice.com/News/9720239/US-30-Year-Bond-Auction.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9720239/US-30-Year-Bond-Auction.aspx?xy=rss",
       "published": "2026-08-13T17:03:15+00:00",
       "score": 1
     },
@@ -43,7 +70,7 @@
       "category": "news",
       "title": "FinancialJuice: US 30-Year Bond High Yield Actual 5.216% (Forecast -, Previous 5.058%)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9720222/US-30-Year-Bond-High-Yield-Actual-5216-Forecast---Previous-5058.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9720222/US-30-Year-Bond-High-Yield-Actual-5216-Forecast---Previous-5058.aspx?xy=rss",
       "published": "2026-08-13T17:02:04+00:00",
       "score": 1
     },
@@ -52,7 +79,7 @@
       "category": "news",
       "title": "FinancialJuice: Google debuts update to Gemini Flash while top model delayed. $GOOGL",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9720216/Google-debuts-update-to-Gemini-Flash-while-top-model-delayed-GOOGL.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9720216/Google-debuts-update-to-Gemini-Flash-while-top-model-delayed-GOOGL.aspx?xy=rss",
       "published": "2026-08-13T17:00:54+00:00",
       "score": 1
     },
@@ -61,7 +88,7 @@
       "category": "news",
       "title": "FinancialJuice: Google announces Gemini 3.7 Flash in a blog post. $GOOGL",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9720215/Google-announces-Gemini-37-Flash-in-a-blog-post-GOOGL.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9720215/Google-announces-Gemini-37-Flash-in-a-blog-post-GOOGL.aspx?xy=rss",
       "published": "2026-08-13T17:00:41+00:00",
       "score": 1
     },
@@ -70,7 +97,7 @@
       "category": "news",
       "title": "FinancialJuice: Treasury WI 30 Yr yield 5.212% before $25 billion auction",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9720213/Treasury-WI-30-Yr-yield-5212-before-25-billion-auction.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9720213/Treasury-WI-30-Yr-yield-5212-before-25-billion-auction.aspx?xy=rss",
       "published": "2026-08-13T17:00:18+00:00",
       "score": 1
     },
@@ -90,15 +117,6 @@
       "summary": "AUD/USD is trading little changed on Thursday, shrinking near the 0.7050s below the multi-week high reached on Wednesday near 0.7091. The pair holds its ground after US data pointed to cooling price pressure, keeping the US Dollar (USD) stagnant.",
       "link": "https://www.fxstreet.com/news/australian-dollar-stumbles-near-recent-highs-202608131644",
       "published": "2026-08-13T16:44:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to visit Nassau County Police Academy tomorrow",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720192/Trump-to-visit-Nassau-County-Police-Academy-tomorrow.aspx?xy=1",
-      "published": "2026-08-13T16:39:18+00:00",
       "score": 1
     },
     {
@@ -147,6 +165,15 @@
       "score": 3
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AMD - AMD EYES $5 BILLION DEBT SALE FOR AI EXPANSION AMD plans to raise up to $5B through a four-part bond sale, potentially its largest ever. The chipmaker is ramping up spending as AI computing demand surges, following major agreements with Anthropic and Microsoft ($MSFT). AMD has also committed up to $5B to Anthropic. Proceeds will fund general corporate purposes, potentially including debt repayment, with $875M in bonds maturing next month.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMD\">$AMD</a>  - AMD EYES $5 BILLION DEBT SALE FOR AI EXPANSION<br />\n<br />\nAMD plans to raise up to $5B through a four-part bond sale, potentially its largest ever.<br />\n<br />\nThe chipmaker is ramping up spending as AI computing demand surges, following major agreements with Anthropic and Microsoft ($MSFT).<br />\n<br />\nAMD has also commi",
+      "link": "https://nitter.net/DeItaone/status/2087923265385779223#m",
+      "published": "2026-08-13T15:24:32+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "Poland: Fuel-driven inflation rise contained – ING",
@@ -183,31 +210,22 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro edges higher against US Dollar after soft US PPI data",
-      "summary": "EUR/USD holds modest gains on Thursday as softer-than-expected US Producer Price Index (PPI) data fails to trigger a strong reaction in the pair. At the time of writing, EUR/USD trades around 1.1537 after recovering from an intraday low of 1.1511, its lowest level in more than a week.",
-      "link": "https://www.fxstreet.com/news/euro-edges-higher-against-us-dollar-after-soft-us-ppi-data-202608131430",
-      "published": "2026-08-13T14:30:39+00:00",
-      "score": 1
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Pinned: 🇺🇸 TRADERS NO LONGER FULLY PRICE IN A FED RATE HIKE THIS YEAR Prediction markets now see a 70% chance the Fed holds rates steady in September, versus 29% odds of a 25bp hike. A 25bp cut is priced at just 2%. Markets are increasingly betting the Fed can remain on hold as inflation cools. https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep?utm_source=walterbloomberg",
+      "summary": "<p>🇺🇸 TRADERS NO LONGER FULLY PRICE IN A FED RATE HIKE THIS YEAR<br />\n<br />\nPrediction markets now see a 70% chance the Fed holds rates steady in September, versus 29% odds of a 25bp hike.<br />\n<br />\nA 25bp cut is priced at just 2%.<br />\n<br />\nMarkets are increasingly betting the Fed can remain on hold as inflation cools.<br />\n<a href=\"https://kalshi.com/markets/kxfeddecision/fed-meeting/kx",
+      "link": "https://nitter.net/DeItaone/status/2087911787358298450#m",
+      "published": "2026-08-13T14:38:56+00:00",
+      "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Norwegian Krone: Softer Norges Bank stance weighs – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports Norwegian Krone weakness after Norges Bank left rates at 4.25% but softened its hawkish bias. Forward guidance shifted from a likely hike to a more conditional stance, dropping an explicit call for tighter policy.",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-softer-norges-bank-stance-weighs-bbh-202608131425",
-      "published": "2026-08-13T14:25:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Safe haven support versus Fed repricing – Rabobank",
-      "summary": "Rabobank's Senior FX Strategist Jane Foley analyzes the US Dollar’s (USD) evolving relationship with Oil and its safe haven role.",
-      "link": "https://www.fxstreet.com/news/us-dollar-safe-haven-support-versus-fed-repricing-rabobank-202608131412",
-      "published": "2026-08-13T14:12:23+00:00",
-      "score": 2
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "PCE INFLATION SEEN AT 3.6% IN JULY Oxford Economics expects the Fed’s preferred inflation gauge, headline PCE, to rise 3.6% year-over-year in July, easing slightly from 3.7% in June. The report is due later this month. With services inflation cooling and the labor market showing little sign of overheating, Oxford Economics expects the Fed to keep rates unchanged for the rest of 2026.",
+      "summary": "<p>PCE INFLATION SEEN AT 3.6% IN JULY<br />\n<br />\nOxford Economics expects the Fed’s preferred inflation gauge, headline PCE, to rise 3.6% year-over-year in July, easing slightly from 3.7% in June.<br />\n<br />\nThe report is due later this month.<br />\n<br />\nWith services inflation cooling and the labor market showing little sign of overheating, Oxford Economics expects the Fed to keep rates unc",
+      "link": "https://nitter.net/DeItaone/status/2087903277400657961#m",
+      "published": "2026-08-13T14:05:07+00:00",
+      "score": 3
     },
     {
       "source": "Kobeissi Letter",
@@ -219,6 +237,15 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "S&P 500 HITS INTRADAY RECORD HIGH, LAST UP 0.6%",
+      "summary": "<p>S&amp;P 500 HITS INTRADAY RECORD HIGH, LAST UP 0.6%</p>",
+      "link": "https://nitter.net/DeItaone/status/2087900892750025014#m",
+      "published": "2026-08-13T13:55:38+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The US Government officially posts its largest July budget deficit in history, at -$432 billion, due to an acceleration in federal spending. Interest on US debt rose +$26 billion from last July's levels to an alarming $118 billion for the month. This puts total interest expense for FY2026 up to $1.17 trillion in FY2026. As a result, interest expense has officially surpassed both National Defense and Medicare spending. In other words, the US government now spends more money just on interest than it does to fund the entire US Military or to provide healthcare for seniors. We cannot afford higher interest rates.",
@@ -226,6 +253,60 @@
       "link": "https://nitter.net/KobeissiLetter/status/2087890009277833590#m",
       "published": "2026-08-13T13:12:23+00:00",
       "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "HAMMACK: IF IT TAKES ANOTHER 3-4 YEARS TO GET TO 2% INFLATION, CAN THE PUBLIC WAIT?",
+      "summary": "<p>HAMMACK: IF IT TAKES ANOTHER 3-4 YEARS TO GET TO 2% INFLATION, CAN THE PUBLIC WAIT?</p>",
+      "link": "https://nitter.net/DeItaone/status/2087887061546082799#m",
+      "published": "2026-08-13T13:00:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED'S BARKIN: CURRENT LEVELS OF FEDERAL DEBT ARE AN INFLATIONARY \"WIND\" THAT THE FED HAS TO NAVIGATE AGAINST",
+      "summary": "<p>FED'S BARKIN: CURRENT LEVELS OF FEDERAL DEBT ARE AN INFLATIONARY \"WIND\" THAT THE FED HAS TO NAVIGATE AGAINST</p>",
+      "link": "https://nitter.net/DeItaone/status/2087886070134268224#m",
+      "published": "2026-08-13T12:56:44+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. PRODUCER INFLATION COMES IN FLAT U.S. producer prices were unchanged in July, below expectations for a 0.2% increase, after falling 0.1% in June. Lower energy prices helped contain wholesale inflation. Combined with softer consumer inflation, the report may ease pressure on the Fed to adjust rates soon. Attention now turns to the PCE inflation report later in August, the Fed’s preferred measure for tracking progress toward its 2% target.",
+      "summary": "<p>U.S. PRODUCER INFLATION COMES IN FLAT<br />\n<br />\nU.S. producer prices were unchanged in July, below expectations for a 0.2% increase, after falling 0.1% in June.<br />\n<br />\nLower energy prices helped contain wholesale inflation.<br />\n<br />\nCombined with softer consumer inflation, the report may ease pressure on the Fed to adjust rates soon.<br />\n<br />\nAttention now turns to the PCE infl",
+      "link": "https://nitter.net/DeItaone/status/2087882630725238974#m",
+      "published": "2026-08-13T12:43:04+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BARKIN: FED RATE HIKES STILL ON THE TABLE Fed’s Barkin says it remains an open question whether rates must rise to bring inflation back to 2%. Inflation could ease as wage pressures moderate and tariff and oil shocks fade, though price pressures may remain embedded. Many Fed officials believe current rates are already restrictive enough. Meanwhile, consumer spending remains resilient, business investment is strong, and AI is helping firms experiment with reducing headcount.",
+      "summary": "<p>BARKIN: FED RATE HIKES STILL ON THE TABLE<br />\n<br />\nFed’s Barkin says it remains an open question whether rates must rise to bring inflation back to 2%.<br />\n<br />\nInflation could ease as wage pressures moderate and tariff and oil shocks fade, though price pressures may remain embedded.<br />\n<br />\nMany Fed officials believe current rates are already restrictive enough.<br />\n<br />\nMeanw",
+      "link": "https://nitter.net/DeItaone/status/2087881958315438403#m",
+      "published": "2026-08-13T12:40:24+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FED'S HAMMACK: REPEATS NEED TO RAISE RATES RIGHT NOW",
+      "summary": "<p>FED'S HAMMACK: REPEATS NEED TO RAISE RATES RIGHT NOW</p>",
+      "link": "https://nitter.net/DeItaone/status/2087881047690108970#m",
+      "published": "2026-08-13T12:36:47+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "U.S. HOUSING MARKET TILTS HARD TO BUYERS U.S. homebuyer demand hit a record low in July, with just 967,000 buyers versus 1.46M sellers—a 51% seller surplus. Nearly 80% of major metros are now buyer’s markets, giving house hunters greater negotiating power. Miami leads with 154% more sellers than buyers, followed by Nashville and several Texas metros. High mortgage rates, elevated prices and economic uncertainty are keeping buyers on the sidelines.",
+      "summary": "<p>U.S. HOUSING MARKET TILTS HARD TO BUYERS<br />\n<br />\nU.S. homebuyer demand hit a record low in July, with just 967,000 buyers versus 1.46M sellers—a 51% seller surplus.<br />\n<br />\nNearly 80% of major metros are now buyer’s markets, giving house hunters greater negotiating power.<br />\n<br />\nMiami leads with 154% more sellers than buyers, followed by Nashville and several Texas metros.<br />",
+      "link": "https://nitter.net/DeItaone/status/2087880929049997456#m",
+      "published": "2026-08-13T12:36:19+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -352,15 +433,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2087525891911893362#m",
       "published": "2026-08-12T13:05:31+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Market expectations for a September rate hike fall to 34% after US CPI inflation declines to 3.4%. This marks the lowest chance of a September rate hike since July 17th. Odds of a September rate hike are now HALF of what they were on July 27th.",
-      "summary": "<p>BREAKING: Market expectations for a September rate hike fall to 34% after US CPI inflation declines to 3.4%.<br />\n<br />\nThis marks the lowest chance of a September rate hike since July 17th.<br />\n<br />\nOdds of a September rate hike are now HALF of what they were on July 27th.</p>\n<img src=\"https://nitter.net/pic/media%2FHPhbxXlWEAAioUn.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2087519806710816984#m",
-      "published": "2026-08-12T12:41:20+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
