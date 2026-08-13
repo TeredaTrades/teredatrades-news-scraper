@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-08-13T15:15:19.372049+00:00",
-  "count": 78,
+  "updated_at": "2026-08-13T16:24:46.762896+00:00",
+  "count": 69,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "One stock wrote the Dow Jones Industrial Average's entire session",
+      "summary": "The Dow Jones Industrial Average trades near 53,700 on Thursday, roughly 75 points and a tenth of a percent lower, on a morning when the S&amp;P 500 prints a fresh record intraday high and the Nasdaq Composite runs close to a percent higher.",
+      "link": "https://www.fxstreet.com/news/one-stock-wrote-the-dow-jones-industrial-averages-entire-session-202608131618",
+      "published": "2026-08-13T16:18:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar struggles as softer inflation expectations challenge RBNZ hawks",
+      "summary": "NZD/USD trades around 0.5850 on Thursday at the time of writing, down 0.15% on the day.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-as-softer-inflation-expectations-challenge-rbnz-hawks-202608131600",
+      "published": "2026-08-13T16:00:39+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen struggles despite soft US PPI, fading Fed rate-hike bets",
+      "summary": "The Japanese Yen (JPY) struggles to gain traction against the US Dollar (USD) on Thursday, even as the Greenback weakens modestly following softer-than-expected US Producer Price Index (PPI) data. The Yen strengthened immediately after the release, briefly pushing USD/JPY toward 159.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-despite-soft-us-ppi-fading-fed-rate-hike-bets-202608131600",
+      "published": "2026-08-13T16:00:03+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound climbs as soft US inflation data hurt Fed hawkish bets",
+      "summary": "The Pound Sterling registers modest gains versus the Greenback as US inflation data in the producer side came below or aligned with estimates, revealing that the disinflation process continued. The GBP/USD trades at 1.3503, up 0.06%.",
+      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-soft-us-inflation-data-hurt-fed-hawkish-bets-202608131552",
+      "published": "2026-08-13T15:52:25+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Carry Trade: Supportive backdrop holds – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that in-line United States (US) inflation and a modestly lower probability of a September Federal Reserve (Fed) hike have left the US Dollar (USD) broadly range-bound while risk assets continue to rally.",
+      "link": "https://www.fxstreet.com/news/carry-trade-supportive-backdrop-holds-ocbc-202608131551",
+      "published": "2026-08-13T15:51:00+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Cerebras CEO: Business to grow at exceptional rates. $CBRS",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9720146/Cerebras-CEO-Business-to-grow-at-exceptional-rates-CBRS.aspx?xy=rss",
+      "published": "2026-08-13T15:50:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 4-Week Bill Auction",
+      "summary": "<ul><li>Bid/cover Ratio 2.77</li><li>High yield 3.625%</li><li>Sells $110 bln</li><li>Awards&nbsp;79.23% of bids&nbsp;at high</li></ul>",
+      "link": "https://www.financialjuice.com/News/9720127/US-4-Week-Bill-Auction.aspx?xy=rss",
+      "published": "2026-08-13T15:33:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.625% (Forecast -, Previous 3.640%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9720124/US-4-Week-Bill-High-Yield-Actual-3625-Forecast---Previous-3640.aspx?xy=rss",
+      "published": "2026-08-13T15:32:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AMD - AMD EYES $5 BILLION DEBT SALE FOR AI EXPANSION AMD plans to raise up to $5B through a four-part bond sale, potentially its largest ever. The chipmaker is ramping up spending as AI computing demand surges, following major agreements with Anthropic and Microsoft ($MSFT). AMD has also committed up to $5B to Anthropic. Proceeds will fund general corporate purposes, potentially including debt repayment, with $875M in bonds maturing next month.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMD\">$AMD</a>  - AMD EYES $5 BILLION DEBT SALE FOR AI EXPANSION<br />\n<br />\nAMD plans to raise up to $5B through a four-part bond sale, potentially its largest ever.<br />\n<br />\nThe chipmaker is ramping up spending as AI computing demand surges, following major agreements with Anthropic and Microsoft ($MSFT).<br />\n<br />\nAMD has also commi",
+      "link": "https://nitter.net/DeItaone/status/2087923265385779223#m",
+      "published": "2026-08-13T15:24:32+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -55,78 +136,6 @@
       "link": "https://www.financialjuice.com/News/9720044/Feds-Barkin-Do-not-think-the-labor-market-is-as-strong-as-data-indicate-consider-it-vulnerable.aspx?xy=rss",
       "published": "2026-08-13T14:46:36+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Barkin: Business-to-business firms are confident in pricing power; business-to-consumer companies are less certain on cost pass-through.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720043/Feds-Barkin-Business-to-business-firms-are-confident-in-pricing-power-business-to-consumer-companies-are-less-certain-on-cost-pass-through.aspx?xy=rss",
-      "published": "2026-08-13T14:46:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Barkin: Net employment effect of AI is less important than the job reallocation it may necessitate.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720042/Feds-Barkin-Net-employment-effect-of-AI-is-less-important-than-the-job-reallocation-it-may-necessitate.aspx?xy=rss",
-      "published": "2026-08-13T14:46:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Barkin: Many AI applications are not mature enough to cause significant job cuts.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720041/Feds-Barkin-Many-AI-applications-are-not-mature-enough-to-cause-significant-job-cuts.aspx?xy=rss",
-      "published": "2026-08-13T14:46:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Barkin: Do worry about how long consumer spending can hold up at the lower end.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720040/Feds-Barkin-Do-worry-about-how-long-consumer-spending-can-hold-up-at-the-lower-end.aspx?xy=rss",
-      "published": "2026-08-13T14:46:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Barkin: Do believe in the theory that if you help people understand the reaction function, it helps markets do their job, but also think that guiding too carefully leads to constraints.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720039/Feds-Barkin-Do-believe-in-the-theory-that-if-you-help-people-understand-the-reaction-function-it-helps-markets-do-their-job-but-also-think-that-guiding-too-carefully-leads-to-constraints.aspx?xy=rss",
-      "published": "2026-08-13T14:46:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Barkin': Businesses generally don't like to do layoffs and would prefer to avoid them, even if they are cautious about hiring.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720038/Feds-Barkin-Businesses-generally-dont-like-to-do-layoffs-and-would-prefer-to-avoid-them-even-if-they-are-cautious-about-hiring.aspx?xy=rss",
-      "published": "2026-08-13T14:45:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Barkin: Torn between focusing on the fact that inflation has been above target for more than 5 years or focusing on the fact that it jumped in two separate episodes and is now slowing.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720037/Feds-Barkin-Torn-between-focusing-on-the-fact-that-inflation-has-been-above-target-for-more-than-5-years-or-focusing-on-the-fact-that-it-jumped-in-two-separate-episodes-and-is-now-slowing.aspx?xy=rss",
-      "published": "2026-08-13T14:45:30+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Barkin (Non-Voter): The more headline inflation continues to slow that will help keep expectations in check.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720032/Feds-Barkin-Non-Voter-The-more-headline-inflation-continues-to-slow-that-will-help-keep-expectations-in-check.aspx?xy=rss",
-      "published": "2026-08-13T14:45:19+00:00",
-      "score": 2
     },
     {
       "source": "Walter Bloomberg",
@@ -201,33 +210,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Norges Bank: Disinflation slows rate path – Nomura",
-      "summary": "Nomura economists note Norges Bank kept its policy rate at 4.25% in August despite softer CPI-ATE inflation. The bank still flags a possible further hike, but they now expect a November move, with risks tilted to no additional increase and no rate cuts projected until September 2027.",
-      "link": "https://www.fxstreet.com/news/norges-bank-disinflation-slows-rate-path-nomura-202608131343",
-      "published": "2026-08-13T13:43:09+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: Trump pressure and rate risks – Commerzbank",
-      "summary": "Commerzbank's Dr. Marco Wagner analyzes how Donald Trump’s past and potential future attacks on the Federal Reserve (Fed) affect its independence.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-trump-pressure-and-rate-risks-commerzbank-202608131333",
-      "published": "2026-08-13T13:33:44+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Yield support erodes on weaker inflation – DBS",
-      "summary": "DBS Group Research economist Philip Wee notes that softer US CPI and labour data kept DXY locked in a 99.4–100.1 range after the USD/JPY sell-off linked to joint US-Japan interventions. Markets sharply reduced the implied probability of a September Federal Reserve hike.",
-      "link": "https://www.fxstreet.com/news/us-dollar-yield-support-erodes-on-weaker-inflation-dbs-202608131324",
-      "published": "2026-08-13T13:24:18+00:00",
-      "score": 6
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The US Government officially posts its largest July budget deficit in history, at -$432 billion, due to an acceleration in federal spending. Interest on US debt rose +$26 billion from last July's levels to an alarming $118 billion for the month. This puts total interest expense for FY2026 up to $1.17 trillion in FY2026. As a result, interest expense has officially surpassed both National Defense and Medicare spending. In other words, the US government now spends more money just on interest than it does to fund the entire US Military or to provide healthcare for seniors. We cannot afford higher interest rates.",
@@ -235,33 +217,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2087890009277833590#m",
       "published": "2026-08-13T13:12:23+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "\"Still an open question\": Fed’s Barkin keeps possibility of rate hike alive",
-      "summary": "Richmond Federal Reserve (Fed) President Thomas Barkin highlighted on Thursday the persistent uncertainty surrounding the US inflation outlook and monetary policy.",
-      "link": "https://www.fxstreet.com/news/still-an-open-question-feds-barkin-keeps-possibility-of-rate-hike-alive-202608131311",
-      "published": "2026-08-13T13:11:07+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Choppy range trading outlook against US Dollar – Rabobank",
-      "summary": "Rabobank's Senior FX Strategist Jane Foley discusses EUR/USD dynamics in light of shifting Fed rate hike expectations and Oil-related safe haven flows into the Dollar.",
-      "link": "https://www.fxstreet.com/news/euro-choppy-range-trading-outlook-against-us-dollar-rabobank-202608131311",
-      "published": "2026-08-13T13:11:03+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Policy support for BoJ hikes – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad highlights USD/JPY trading just below 160.00 as Japan’s government signals support for faster Bank of Japan (BoJ) rate hikes, reinforcing narrowing US–Japan differentials and a lower USD/JPY case.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-policy-support-for-boj-hikes-bbh-202608131302",
-      "published": "2026-08-13T13:02:11+00:00",
-      "score": 1
     },
     {
       "source": "Walter Bloomberg",
@@ -318,15 +273,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "SPOT GOLD LITTLE CHANGED AFTER US PPI DATA, LAST DOWN 0.5% AT $4,382.22/OZ",
-      "summary": "<p>SPOT GOLD  LITTLE CHANGED AFTER US PPI DATA, LAST DOWN 0.5% AT $4,382.22/OZ</p>",
-      "link": "https://nitter.net/DeItaone/status/2087880237807734967#m",
-      "published": "2026-08-13T12:33:34+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: July PPI Inflation falls to 4.7%, below expectations of 4.9%. Core PPI Inflation fell to 4.2%, in-line with expectations of 4.2%. Month-over-month PPI inflation was flat, at 0.0%, the first such reading since June 2025. The odds of rate hikes are declining further.",
@@ -334,15 +280,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2087879725658030511#m",
       "published": "2026-08-13T12:31:32+00:00",
       "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ACKMAN MAKES HIS BIGGEST PORTFOLIO REVAMP IN YEARS Bill Ackman added six new holdings: Netflix ($NFLX), Visa ($V), Mastercard ($MA), Alcon ($ALC), Intercontinental Exchange ($ICE) and S&P Global ($SPGI). Ackman expects strong earnings growth to drive long-term value. His portfolio also includes Microsoft ($MSFT), Uber ($UBER), Meta ($META), Amazon ($AMZN), Fannie Mae ($FNMA) and Freddie Mac ($FMCC). Through July, Pershing Square USA was down 3.5%, versus a 13% gain for the S&P 500.",
-      "summary": "<p>ACKMAN MAKES HIS BIGGEST PORTFOLIO REVAMP IN YEARS<br />\n<br />\nBill Ackman added six new holdings: Netflix ($NFLX), Visa ($V), Mastercard ($MA), Alcon ($ALC), Intercontinental Exchange ($ICE) and S&amp;P Global ($SPGI).<br />\n<br />\nAckman expects strong earnings growth to drive long-term value.<br />\n<br />\nHis portfolio also includes Microsoft ($MSFT), Uber ($UBER), Meta ($META), Amazon ($AM",
-      "link": "https://nitter.net/DeItaone/status/2087876864605929866#m",
-      "published": "2026-08-13T12:20:10+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
@@ -498,15 +435,6 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump's capital gains tax cut discussions include \"indexing\" capital gains for inflation BEFORE taxes are calculated. This would mean that taxes would be applied on gains adjusted for inflation. For example, if you purchased a stock for $100,000 and sold it 5 years later for $200,000. Under the current system, you would owe capital gains taxes on the full $100,000 gain. But, if cumulative inflation over those 5 years was 20%, your inflation-adjusted cost basis would rise to $120,000. This means you would only owe capital gains taxes on the $80,000 REAL gain, rather than the $100,000 nominal gain. Trump has also suggested exemptions for sales of homes worth $2 million or less from capital gains taxes. We expect more details soon.",
-      "summary": "<p>BREAKING: President Trump's capital gains tax cut discussions include \"indexing\" capital gains for inflation BEFORE taxes are calculated.<br />\n<br />\nThis would mean that taxes would be applied on gains adjusted for inflation.<br />\n<br />\nFor example, if you purchased a stock for $100,000 and sold it 5 years later for $200,000.<br />\n<br />\nUnder the current system, you would owe capital gain",
-      "link": "https://nitter.net/KobeissiLetter/status/2087337751880380822#m",
-      "published": "2026-08-12T00:37:55+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "does anyone actually change anything for cpi or is it mostly theatre",
@@ -514,15 +442,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vlysxe/does_anyone_actually_change_anything_for_cpi_or/",
       "published": "2026-08-12T00:20:46+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump is weighing a cut to capital gains taxes ahead of midterm elections, per Bloomberg. There has not been a major cut to capital gains tax rates in the US since 2003. This would have massive implications if implemented.",
-      "summary": "<p>BREAKING: President Trump is weighing a cut to capital gains taxes ahead of midterm elections, per Bloomberg.<br />\n<br />\nThere has not been a major cut to capital gains tax rates in the US since 2003.<br />\n<br />\nThis would have massive implications if implemented.</p>",
-      "link": "https://nitter.net/KobeissiLetter/status/2087317646375067832#m",
-      "published": "2026-08-11T23:18:02+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
