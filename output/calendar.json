@@ -488,6 +488,22 @@
     "previous": "0.6%"
   },
   {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2026-08-14T04:01:00-04:00",
+    "impact": "Low",
+    "forecast": "7.9%",
+    "previous": "8.0%"
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2026-08-14T04:02:00-04:00",
+    "impact": "Low",
+    "forecast": "-50B",
+    "previous": "1610B"
+  },
+  {
     "title": "Flash Employment Change q/q",
     "country": "EUR",
     "date": "2026-08-14T05:00:00-04:00",
@@ -510,22 +526,6 @@
     "impact": "Low",
     "forecast": "-2.2B",
     "previous": "-5.0B"
-  },
-  {
-    "title": "M2 Money Supply y/y",
-    "country": "CNY",
-    "date": "2026-08-14T05:03:00-04:00",
-    "impact": "Low",
-    "forecast": "7.9%",
-    "previous": "8.0%"
-  },
-  {
-    "title": "New Loans",
-    "country": "CNY",
-    "date": "2026-08-14T05:03:00-04:00",
-    "impact": "Low",
-    "forecast": "-50B",
-    "previous": "1610B"
   },
   {
     "title": "Manufacturing Sales m/m",
@@ -582,5 +582,13 @@
     "impact": "Low",
     "forecast": "0.2%",
     "previous": "0.3%"
+  },
+  {
+    "title": "President Trump Speaks",
+    "country": "USD",
+    "date": "2026-08-14T15:00:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
   }
 ]
