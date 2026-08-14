@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-08-14T11:20:11.272030+00:00",
-  "count": 70,
+  "updated_at": "2026-08-14T12:09:23.950758+00:00",
+  "count": 69,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Mixed data and higher yields shape outlook – Danske Bank",
+      "summary": "Danske Bank’s Danske Research Team notes that US July PPI came in slightly below expectations, with volatile trade and transport services dragging the headline lower while broader services stayed firm.",
+      "link": "https://www.fxstreet.com/news/us-dollar-mixed-data-and-higher-yields-shape-outlook-danske-bank-202608141204",
+      "published": "2026-08-14T12:04:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Goldman Sachs raises FTSE 100 index target for next 12 months to 11,400 from 11,000",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9721571/Goldman-Sachs-raises-FTSE-100-index-target-for-next-12-months-to-11400-from-11000.aspx",
+      "published": "2026-08-14T11:52:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Goldman Sachs raises Stoxx 600 index target for next 12 months to 695 from 660.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9721570/Goldman-Sachs-raises-Stoxx-600-index-target-for-next-12-months-to-695-from-660.aspx",
+      "published": "2026-08-14T11:52:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Norwegian Krone: Restrictive Norges Bank stance and downside risks - Commerzbank",
+      "summary": "Commerzbank’s Antje Praefcke explains that Norges Bank kept its policy rate at 4.25% and still signals that further tightening may be necessary as inflation remains above target. However, upcoming data, especially August inflation, could prompt the bank to drop its year-end hike signal.",
+      "link": "https://www.fxstreet.com/news/norwegian-krone-restrictive-norges-bank-stance-and-downside-risks-commerzbank-202608141149",
+      "published": "2026-08-14T11:49:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc edges up from lows against the US Dollar with US Retail Sales on tap",
+      "summary": "The Swiss Franc (CHF) picks up from two-week lows as the US Dollar (USD) struggles with markets cutting back bets of a Federal Reserve  (Fed) interest rate hike in September.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-edges-up-from-lows-against-the-us-dollar-with-us-retail-sales-on-tap-202608141148",
+      "published": "2026-08-14T11:48:47+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound strengthens against US Dollar as traders price out hawkish Fed bets",
+      "summary": "The British Pound (GBP) trades 0.35% higher to near 1.3533 against the US Dollar (USD) during the European trading session on Friday.",
+      "link": "https://www.fxstreet.com/news/british-pound-strengthens-against-us-dollar-as-traders-price-out-hawkish-fed-bets-202608141138",
+      "published": "2026-08-14T11:38:16+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South African Rand: ZAR outperforms on carry and Gold – Societe Generale",
+      "summary": "Societe Generale strategists highlight that the South African Rand (ZAR) continues to outperform in CEEMEA, gaining about 2.4% versus the US Dollar (USD) in spot terms this month. USD/ZAR is close to breaking below 16.00 for the first time since February.",
+      "link": "https://www.fxstreet.com/news/south-african-rand-zar-outperforms-on-carry-and-gold-societe-generale-202608141136",
+      "published": "2026-08-14T11:36:56+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -102,66 +165,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: RBA keeps hike option open – Rabobank",
-      "summary": "Rabobank strategist Elwin de Groot reports that the Reserve Bank of Australia (RBA) left rates unchanged, with markets initially reading the statement as dovish.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-keeps-hike-option-open-rabobank-202608140918",
-      "published": "2026-08-14T09:18:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: RMP pause and QT timing – TD Securities",
-      "summary": "TD Securities’ Gennadiy Goldberg and Molly Brooks analyze the Federal Reserve’s decision to halt Reserve Management Purchases (RMP) after tapering from $40bn to $10bn per month.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-rmp-pause-and-qt-timing-td-securities-202608140908",
-      "published": "2026-08-14T09:08:36+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index Price Forecast: DXY declines to 99.75-99.70 amid receding Fed hike bets",
-      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, continues to lose ground through the first half of the European session on Friday and retreats further from a two-week high, touched the previous day.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-declines-to-9975-9970-amid-receding-fed-hike-bets-202608140858",
-      "published": "2026-08-14T08:58:29+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/USD Price Forecast: Picks up above 1.3500 amid generalised US Dollar weakness",
-      "summary": "The British Pound (GBP) pares losses against a weaker US Dollar (USD) on Friday, as a run of soft US inflation figures and growing signs of labour market deterioration have cast doubt about the odds for an immediate Federal Reserve (Fed) rate hike.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-picks-up-above-13500-amid-generalised-us-dollar-weakness-202608140855",
-      "published": "2026-08-14T08:55:09+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Growth resilience supports gains against US Dollar – MUFG",
-      "summary": "MUFG’s Lee Hardman reports the British Pound (GBP) is the best performing major currency in August, with GBP/USD back above 1.3500. The United Kingdom (UK) economy is proving resilient to the energy price shock linked to the US-Iran conflict, with Q2 GDP up 0.4% after 0.6% in Q1.",
-      "link": "https://www.fxstreet.com/news/british-pound-growth-resilience-supports-gains-against-us-dollar-mufg-202608140854",
-      "published": "2026-08-14T08:54:52+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: ING: The JPY - FJElite",
       "summary": "<div>Despite some sharp moves in Japanese money markets this week, the yen is failing to find any lasting support. Here, the big story is that the Japanese government might be more tolerant of a faster tightening cycle by the Bank of Japan. The prior assumption had been that a government focusing on growth would only allow the BoJ one hike every six months. The suggestion now is that Tokyo has ele",
-      "link": "https://www.financialjuice.com/News/9721349/ING-The-JPY---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9721349/ING-The-JPY---FJElite.aspx",
       "published": "2026-08-14T08:46:52+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Carry trades supported as Fed seen on hold – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that softer United States (US) Producer Price Index (PPI) and lower US Treasury yields have led markets to scale back expectations of a September Federal Reserve (Fed) hike, limiting US Dollar (USD) upside.",
-      "link": "https://www.fxstreet.com/news/us-dollar-carry-trades-supported-as-fed-seen-on-hold-ocbc-202608140846",
-      "published": "2026-08-14T08:46:40+00:00",
       "score": 3
     },
     {
@@ -169,7 +178,7 @@
       "category": "news",
       "title": "FinancialJuice: ING: The EUR - FJElite",
       "summary": "<div>Our models suggest EUR/USD's short-term fair value sits in the 1.160-1.1650 area. That’s primarily on the back of the c.lObp tightening in two-year swap rate spreads, which retain a significantly higher beta than other drivers.</div><div><br /></div><div>That supports our positive bias on EUR/USD, even though we aren’t convinced a break above 1.160 is on the cards in the coming days unless co",
-      "link": "https://www.financialjuice.com/News/9721338/ING-The-EUR---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9721338/ING-The-EUR---FJElite.aspx",
       "published": "2026-08-14T08:46:06+00:00",
       "score": 2
     },
@@ -178,26 +187,8 @@
       "category": "news",
       "title": "FinancialJuice: Europe Sentiment: Stocks Rise Following Back to Back Benign US Inflation Reports - FJElite",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9721328/Europe-Sentiment-Stocks-Rise-Following-Back-to-Back-Benign-US-Inflation-Reports---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9721328/Europe-Sentiment-Stocks-Rise-Following-Back-to-Back-Benign-US-Inflation-Reports---FJElite.aspx",
       "published": "2026-08-14T08:43:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Currency Strength Chart: Strongest: NZD, CAD, JPY, EUR, GBP, AUD, CHF, USD - Weakest",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9721217/Currency-Strength-Chart-Strongest-NZD-CAD-JPY-EUR-GBP-AUD-CHF-USD---Weakest.aspx?xy=rss",
-      "published": "2026-08-14T07:04:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: French CPI MoM NSA Actual 0.6% (Forecast 0.6%, Previous 0.6%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9721170/French-CPI-MoM-NSA-Actual-06-Forecast-06-Previous-06.aspx?xy=rss",
-      "published": "2026-08-14T06:45:00+00:00",
       "score": 1
     },
     {
@@ -284,7 +275,7 @@
     {
       "source": "Walter Bloomberg",
       "category": "twitter",
-      "title": "Pinned: 🇺🇸 TRADERS NO LONGER FULLY PRICE IN A FED RATE HIKE THIS YEAR Prediction markets now see a 70% chance the Fed holds rates steady in September, versus 29% odds of a 25bp hike. A 25bp cut is priced at just 2%. Markets are increasingly betting the Fed can remain on hold as inflation cools. https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep?utm_source=walterbloomberg",
+      "title": "🇺🇸 TRADERS NO LONGER FULLY PRICE IN A FED RATE HIKE THIS YEAR Prediction markets now see a 70% chance the Fed holds rates steady in September, versus 29% odds of a 25bp hike. A 25bp cut is priced at just 2%. Markets are increasingly betting the Fed can remain on hold as inflation cools. https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep?utm_source=walterbloomberg",
       "summary": "<p>🇺🇸 TRADERS NO LONGER FULLY PRICE IN A FED RATE HIKE THIS YEAR<br />\n<br />\nPrediction markets now see a 70% chance the Fed holds rates steady in September, versus 29% odds of a 25bp hike.<br />\n<br />\nA 25bp cut is priced at just 2%.<br />\n<br />\nMarkets are increasingly betting the Fed can remain on hold as inflation cools.<br />\n<a href=\"https://kalshi.com/markets/kxfeddecision/fed-meeting/kx",
       "link": "https://nitter.net/DeItaone/status/2087911787358298450#m",
       "published": "2026-08-13T14:38:56+00:00",
