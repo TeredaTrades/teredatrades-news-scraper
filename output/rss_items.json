@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-08-14T15:34:38.284676+00:00",
-  "count": 70,
+  "updated_at": "2026-08-14T16:33:48.066249+00:00",
+  "count": 69,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Goolsbee: Continued spending weakness would be worrying.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9721988/Feds-Goolsbee-Continued-spending-weakness-would-be-worrying.aspx?xy=rss",
+      "published": "2026-08-14T16:33:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Goolsbee: Weak retail sales represent just one month of data.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9721987/Feds-Goolsbee-Weak-retail-sales-represent-just-one-month-of-data.aspx?xy=rss",
+      "published": "2026-08-14T16:33:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Goolsbee: US GDP and labor market are basically stable.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9721986/Feds-Goolsbee-US-GDP-and-labor-market-are-basically-stable.aspx?xy=rss",
+      "published": "2026-08-14T16:33:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar charges toward 0.5900 as US Dollar loses ground",
+      "summary": "NZD/USD gains 0.75% on Friday and trades around 0.5895 at the time of writing, with its rally losing some momentum as it approaches the psychological 0.5900 level.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-charges-toward-05900-as-us-dollar-loses-ground-202608141628",
+      "published": "2026-08-14T16:28:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD holds gains but struggles for fresh momentum",
+      "summary": "Silver (XAG/USD) trades on the front foot on Friday but lacks strong follow-through and remains within the narrow range seen this week. At the time of writing, XAG/USD trades around $65 after bouncing from an intraday low of $63.51.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-gains-but-struggles-for-fresh-momentum-202608141614",
+      "published": "2026-08-14T16:14:02+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Spreads support upside bias against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report EUR/USD trading in the mid-1.15s with modest gains versus the US Dollar (USD), supported by euro area Gross Domestic Product (GDP) and a return to trade surplus.",
+      "link": "https://www.fxstreet.com/news/euro-spreads-support-upside-bias-against-us-dollar-scotiabank-202608141609",
+      "published": "2026-08-14T16:09:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "ASEAN FX: Regional data and growth concerns – MUFG",
+      "summary": "MUFG analysts focus on several ASEAN indicators for regional currencies. They flag Singapore’s July non-oil domestic exports after June’s strong 20.7% year-on-year rise, and expect Malaysia’s CPI to stay contained at 1.9% year-on-year.",
+      "link": "https://www.fxstreet.com/news/asean-fx-regional-data-and-growth-concerns-mufg-202608141601",
+      "published": "2026-08-14T16:01:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canada: Core softness guides BoC path – TD Securities",
+      "summary": "TD Securities’ Robert Both expects Canadian headline CPI to rise to 2.9% year-on-year in July, driven by higher gasoline and food prices, while ex. food/energy components stay muted.",
+      "link": "https://www.fxstreet.com/news/canada-core-softness-guides-boc-path-td-securities-202608141553",
+      "published": "2026-08-14T15:53:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesia: Policy continuity supports Rupiah – ING",
+      "summary": "ING’s Lynn Song expects Bank Indonesia to keep its benchmark rate unchanged at 5.75% this week, prioritizing Rupiah stability while avoiding an immediate hike. The report highlights BI’s growing reliance on non-rate tools such as SRBI yields and FX intervention.",
+      "link": "https://www.fxstreet.com/news/indonesia-policy-continuity-supports-rupiah-ing-202608141545",
+      "published": "2026-08-14T15:45:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound hits three-month high as weak US sales deepen USD slide",
+      "summary": "The Pound Sterling (GBP) rises by some 0.40% on Friday as a batch of US data supports a Federal Reserve (Fed) dovish stance, with consumer sentiment deteriorating while the disinflation process showed further progress.",
+      "link": "https://www.fxstreet.com/news/british-pound-advances-as-weak-us-sales-deepen-usd-slide-202608141543",
+      "published": "2026-08-14T15:43:58+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Policy risks support gains against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret observe USD/JPY trading near 159, with modest Japanese Yen (JPY) gains offering reassurance to the Ministry of Finance (MoF) after recent weakness.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-risks-support-gains-against-us-dollar-scotiabank-202608141537",
+      "published": "2026-08-14T15:37:00+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -57,33 +156,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United Kingdom: Inflation risks tilt higher – TD Securities",
-      "summary": "TD Securities’ Julie Ioffe expects UK headline CPI to rise to 2.9% year-on-year in July, largely due to the Ofgem energy price cap adjustment. Services inflation is forecast to ease to 3.4%, while core goods rise to 1.0%, keeping core CPI at 2.6%.",
-      "link": "https://www.fxstreet.com/news/united-kingdom-inflation-risks-tilt-higher-td-securities-202608141428",
-      "published": "2026-08-14T14:28:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar surges as sharp US Retail Sales miss hits the Dollar",
-      "summary": "The Canadian Dollar (CAD) is among the best performers on Friday, trading near a fresh two-month low against the US Dollar (USD) near the 1.3860s mark. The move coincides with a weak US Retail Sales report that pulled the Greenback lower across the board, but it preceded that data release.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-surges-as-sharp-us-retail-sales-miss-hits-the-dollar-202608141426",
-      "published": "2026-08-14T14:26:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japan: GDP steady, inflation near BoJ target – ING",
-      "summary": "ING highlights that market consensus sees Japan’s preliminary Q2 Gross Domestic Product (GDP) holding at 0.5% quarter-on-quarter, with Private Consumption remaining the main growth driver.",
-      "link": "https://www.fxstreet.com/news/japan-gdp-steady-inflation-near-boj-target-ing-202608141420",
-      "published": "2026-08-14T14:20:26+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: University Michigan 1 Yr Inflation Prelim Actual 4.3% (Forecast 4.2%, Previous 4.2%)",
@@ -100,24 +172,6 @@
       "link": "https://www.financialjuice.com/News/9721766/University-Michigan-5-Yr-Inflation-Prelim-Actual-33-Forecast-33-Previous-33.aspx?xy=rss",
       "published": "2026-08-14T14:01:05+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen gains on hawkish BoJ outlook and softer US Dollar",
-      "summary": "USD/JPY trades on the back foot on Friday, pressured by a weaker US Dollar (USD), while the Japanese Yen (JPY) draws support from a more hawkish Bank of Japan (BoJ) outlook. At the time of writing, the pair trades around 158.85, down 0.40% on the day.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gains-on-hawkish-boj-outlook-and-softer-us-dollar-202608141353",
-      "published": "2026-08-14T13:53:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Fed pause keeps systematic demand supported - TD Securities",
-      "summary": "TD Securities’ Ryan McKay and Bart Melek note that CTA (Commodity Trading Advisors) net long positioning in Gold is becoming more entrenched as discretionary demand improves.",
-      "link": "https://www.fxstreet.com/news/gold-fed-pause-keeps-systematic-demand-supported-td-securities-202608141339",
-      "published": "2026-08-14T13:39:38+00:00",
-      "score": 2
     },
     {
       "source": "FinancialJuice",
@@ -147,15 +201,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: BoJ policy story having little effect – ING",
-      "summary": "ING’s Chris Turner notes that despite sharp moves in Japanese money markets, the Japanese Yen is not finding lasting support. Markets now price a high probability of a Bank of Japan hike in September, narrowing US–Japan swap differentials, yet USD/JPY remains elevated as carry trades persist.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-policy-story-having-little-effect-ing-202608141330",
-      "published": "2026-08-14T13:30:24+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The Index of US Financial Conditions is up to ~1.29 points, the easiest since 1997. This index measures access to money across financial markets, incorporating things like interest rates, credit spreads, stock prices, the dollar, and overall borrowing conditions. By comparison, during the March 2026 market selloff, the index was on the verge of turning negative. Not even during the 2021 meme stock frenzy were financial conditions this easy. The latest surge has been driven by equity markets hitting all-time highs, with US corporate bond credit spreads remaining near their tightest levels since 1998. AI has transformed the global economy.",
@@ -171,42 +216,6 @@
       "summary": "",
       "link": "https://www.financialjuice.com/News/9721681/Effective-Fed-Funds-Rate-363-August-13-vs-363-August-12.aspx?xy=rss",
       "published": "2026-08-14T12:59:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs' Fishman on Yen - FJElite",
-      "summary": "<div><strong>BOTTOM LINE:</strong> Japan's largest FX intervention in 15 years forced a sharp reduction in tactical Yen carry positions— even bigger than the initial unwind after the July 2024 operations. But the less Yen-positive macro backdrop likely in part explains why USD/JPY has already reversed nearly half of its initial decline.<br /><br /></div><div><strong>Positioning:</strong> Despite t",
-      "link": "https://www.financialjuice.com/News/9721680/Goldman-Sachs-Fishman-on-Yen---FJElite.aspx?xy=rss",
-      "published": "2026-08-14T12:53:37+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: JPMorgan: Even faster BoJ tightening unlikely to lift the yen through BoJ efforts alone - FJElite",
-      "summary": "<div>Following yen-buying intervention efforts since July 30 and Governor Ueda’s somewhat hawkish remarks at the July 31 BoJ policy meeting, expectations for further BoJ tightening have risen sharply. The market is now pricing in a greater-than-70% probability of a September rate hike.<br /><br /></div><div>Rate-hike expectations have increased not only at the front end but also further out the cu",
-      "link": "https://www.financialjuice.com/News/9721671/JPMorgan-Even-faster-BoJ-tightening-unlikely-to-lift-the-yen-through-BoJ-efforts-alone---FJElite.aspx?xy=rss",
-      "published": "2026-08-14T12:44:54+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Sentiment: Apple & Baba Work on AI in China, Markets Wary of US-Iran - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9721670/US-Sentiment-Apple--Baba-Work-on-AI-in-China-Markets-Wary-of-US-Iran---FJElite.aspx?xy=rss",
-      "published": "2026-08-14T12:43:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Traders pare wagers on more than one Fed rate hike by mid-2027.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9721664/Traders-pare-wagers-on-more-than-one-Fed-rate-hike-by-mid-2027.aspx?xy=rss",
-      "published": "2026-08-14T12:33:16+00:00",
       "score": 1
     },
     {
@@ -450,24 +459,6 @@
       "summary": "<p>Employment in the US financial industry is going through a prolonged downturn:<br />\n<br />\nThe financial industry shed -14,000 jobs in July, to 9.09 million, the lowest since July 2022.<br />\n<br />\nThis marks the 5th consecutive monthly decline, totaling -59,000.<br />\n<br />\nSince May 2025, financial industry payrolls have dropped -121,000, posting the largest drawdown since the 2020 pandemi",
       "link": "https://nitter.net/KobeissiLetter/status/2087668347374567645#m",
       "published": "2026-08-12T22:31:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Institutional investors are dumping US tech equities: Hedge funds, asset managers, and other institutional investors sold -$21.6 billion of Nasdaq futures during the week ending August 4th, the largest weekly sale on record, according to Goldman Sachs. Short sales dominated the move, accounting for 72% of total sales. Hedge funds sold -$11.9 billion over this period while asset managers sold -$7.4 billion. As a result, combined institutional investor positioning in Nasdaq futures fell to -$5 billion, turning negative for the first time since May 2025. By comparison, this figure was as high as +$54 billion in October 2025. Institutional investors are selling into market strength.",
-      "summary": "<p>Institutional investors are dumping US tech equities:<br />\n<br />\nHedge funds, asset managers, and other institutional investors sold -$21.6 billion of Nasdaq futures during the week ending August 4th, the largest weekly sale on record, according to Goldman Sachs.<br />\n<br />\nShort sales dominated the move, accounting for 72% of total sales.<br />\n<br />\nHedge funds sold -$11.9 billion over t",
-      "link": "https://nitter.net/KobeissiLetter/status/2087646086882304184#m",
-      "published": "2026-08-12T21:03:08+00:00",
-      "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump says White House Press Secretary Karoline Leavitt is resigning.",
-      "summary": "<p>BREAKING: President Trump says White House Press Secretary Karoline Leavitt is resigning.</p>\n<img src=\"https://nitter.net/pic/media%2FHPi8pCEWkAAxabi.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2087625845523329136#m",
-      "published": "2026-08-12T19:42:42+00:00",
       "score": 1
     },
     {
