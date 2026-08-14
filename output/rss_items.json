@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-14T14:41:15.478019+00:00",
+  "updated_at": "2026-08-14T15:34:38.284676+00:00",
   "count": 70,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro gains against Japanese Yen as ECB, BoJ rate hike bets intensify",
+      "summary": "EUR/JPY rises 0.15% on Friday and trades around 184.15 at the time of writing. The pair remains supported despite growing expectations that Japan could raise interest rates as soon as September, while investors also anticipate further monetary tightening in the Eurozone.",
+      "link": "https://www.fxstreet.com/news/euro-gains-against-japanese-yen-as-ecb-boj-rate-hike-bets-intensify-202608141507",
+      "published": "2026-08-14T15:07:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Bullish momentum points to gains against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight Canadian Dollar (CAD) strength as USD/CAD trades just below their fair value estimate around 1.3895, supported by tighter US–Canada 2-year spreads and firmer commodity FX.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-momentum-points-to-gains-against-us-dollar-scotiabank-202608141505",
+      "published": "2026-08-14T15:05:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro climbs as fading Fed hike expectations pressure US Dollar",
+      "summary": "EUR/USD rallies on Friday, erasing all the losses recorded earlier this week as broad-based weakness in the US Dollar (USD) lifts the Euro (EUR). At the time of writing, the pair trades around 1.1580 near its highest level since June 17.",
+      "link": "https://www.fxstreet.com/news/euro-climbs-as-fading-fed-hike-expectations-pressure-us-dollar-202608141445",
+      "published": "2026-08-14T14:45:55+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Upside seen as Fed hike bets fade – Commerzbank",
+      "summary": "Commerzbank’s Carsten Fritsch notes Gold has rallied to its highest level since early June as markets scale back expectations for further Fed rate hikes.",
+      "link": "https://www.fxstreet.com/news/gold-upside-seen-as-fed-hike-bets-fade-commerzbank-202608141445",
+      "published": "2026-08-14T14:45:38+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -129,15 +165,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "European Central Bank: Inflation keeps three rate hikes in play - Nordea",
-      "summary": "Nordea’s Ole Håkon Eek-Nielsen and Jan von Gerich expect the European Central Bank (ECB) to deliver three additional 25bp rate hikes, taking the deposit rate to 3%.",
-      "link": "https://www.fxstreet.com/news/european-central-bank-inflation-keeps-three-rate-hikes-in-play-nordea-202608141312",
-      "published": "2026-08-14T13:12:19+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Effective Fed Funds Rate 3.63% August 13 vs 3.63% August 12.",
@@ -154,15 +181,6 @@
       "link": "https://www.financialjuice.com/News/9721680/Goldman-Sachs-Fishman-on-Yen---FJElite.aspx?xy=rss",
       "published": "2026-08-14T12:53:37+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Lower short-term yields weigh on the Greenback – MUFG",
-      "summary": "MUFG’s Lee Hardman notes the US Dollar (USD) is trading on a softer footing as Fed rate hike expectations are scaled back following weaker labour data and a mixed United States (US) Producer Price Index (PPI) report.",
-      "link": "https://www.fxstreet.com/news/us-dollar-lower-short-term-yields-weigh-on-the-greenback-mufg-202608141249",
-      "published": "2026-08-14T12:49:29+00:00",
-      "score": 3
     },
     {
       "source": "FinancialJuice",
@@ -183,15 +201,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Oil: War-driven price effects and inflation – UBS",
-      "summary": "UBS economist Paul Donovan discusses how the Gulf war has lifted Oil prices and pushed consumer price inflation above target in major economies.",
-      "link": "https://www.fxstreet.com/news/oil-war-driven-price-effects-and-inflation-ubs-202608141236",
-      "published": "2026-08-14T12:36:23+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Traders pare wagers on more than one Fed rate hike by mid-2027.",
@@ -199,15 +208,6 @@
       "link": "https://www.financialjuice.com/News/9721664/Traders-pare-wagers-on-more-than-one-Fed-rate-hike-by-mid-2027.aspx?xy=rss",
       "published": "2026-08-14T12:33:16+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: Communication reset at Jackson Hole – TD Securities",
-      "summary": "TD Securities’ Oscar Munoz argues that Chair Kevin Warsh’s communication strategy has undermined market confidence in the Federal Reserve’s inflation-fighting resolve.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-communication-reset-at-jackson-hole-td-securities-202608141225",
-      "published": "2026-08-14T12:25:03+00:00",
-      "score": 2
     },
     {
       "source": "Kobeissi Letter",
@@ -221,7 +221,7 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold bounces from weekly low on softer US Dollar, fading September Fed hike bets",
+      "title": "Gold gains ground as US Dollar selling picks up, Fed rate hike bets fade",
       "summary": "Gold (XAU/USD) rebounds on Friday after opening the day in negative territory and falling to a fresh weekly low of $4,311.",
       "link": "https://www.fxstreet.com/news/gold-bounces-from-weekly-low-on-softer-us-dollar-fading-september-fed-hike-bets-202608141116",
       "published": "2026-08-14T11:16:24+00:00",
