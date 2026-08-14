@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-08-13T23:59:21.831323+00:00",
-  "count": 60,
+  "updated_at": "2026-08-14T02:36:40.421361+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: LG to unveil next-gen humanoid robot built on Nvidia Isaac Groot",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9720928/LG-to-unveil-next-gen-humanoid-robot-built-on-Nvidia-Isaac-Groot.aspx?xy=rss",
+      "published": "2026-08-14T02:31:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound edges higher vs softer USD; lacks follow-through as geopolitics cap gains",
+      "summary": "The GBP/USD pair attracts some dip-buyers during the Asian session on Friday and, for now, seems to have snapped a two-day losing streak to the weekly low, which it touched the previous day.",
+      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-vs-softer-usd-lacks-follow-through-as-geopolitics-cap-gains-202608140154",
+      "published": "2026-08-14T01:54:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: S.Korea central bank: sells 91-day monetary stabilization bonds at 2.710% yield",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9720817/SKorea-central-bank-sells-91-day-monetary-stabilization-bonds-at-2710-yield.aspx?xy=rss",
+      "published": "2026-08-14T01:40:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen strengthens as soft US PPI tempers Fed outlook",
+      "summary": "The USD/JPY pair loses traction to near 159.45 during the Asian trading hours on Friday. Softer US inflation reports and fears of currency intervention weigh on the US Dollar (USD) against the Japanese Yen (JPY).",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-as-soft-us-ppi-tempers-fed-outlook-202608140139",
+      "published": "2026-08-14T01:39:26+00:00",
+      "score": 3
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "MQL5 EA backtest looked great — until I tested it on real tick data",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vnthvy/mql5_ea_backtest_looked_great_until_i_tested_it/\"> <img alt=\"MQL5 EA backtest looked great — until I tested it on real tick data\" src=\"https://preview.redd.it/pa33uv2dt8jh1.jpg?width=140&amp;height=105&amp;auto=webp&amp;s=1be5c34a17fa0de3a18fa2365fc19f8ed7bd89f7\" title=\"MQL5 EA backtest looked great — until I tested it on re",
+      "link": "https://www.reddit.com/r/Forex/comments/1vnthvy/mql5_ea_backtest_looked_great_until_i_tested_it/",
+      "published": "2026-08-14T01:27:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar declines despite RBA rate hike warning",
+      "summary": "AUD/USD edges lower for the third successive day, trading around 0.7060 during the Asian hours on Friday. Reserve Bank of Australia (RBA) Assistant Governor Chris Kent stated on Thursday that recent interest rate hikes are producing their intended effect.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-despite-rba-rate-hike-warning-202608140123",
+      "published": "2026-08-14T01:23:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar recovers from two-week low as fading Fed hike bets undermine USD",
+      "summary": "The NZD/USD pair is seen building on the previous day's bounce from the 0.5820 region, or a two-week low, and gaining some positive traction during the Asian session on Friday. Spot prices climbed back above 0.5850 in the last hour and, for now, seem to have snapped a four-day losing streak.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-recovers-from-two-week-low-as-fading-fed-hike-bets-undermine-usd-202608140119",
+      "published": "2026-08-14T01:19:41+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7878 vs. 6.7888 previous",
+      "summary": "On Friday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7878 compared to the previous day's fix of 6.7888.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67878-vs-67888-previous-202608140115",
+      "published": "2026-08-14T01:15:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro gathers strength above 1.1500 as cooling inflation data weighs on US Dollar",
+      "summary": "The EUR/USD pair gains ground to near 1.1535 during the early Asian session on Friday. The US Dollar (USD) softens against the Euro (EUR) following a softer-than-expected US inflation report. The US July Retail Sales data will take center stage later on Friday.",
+      "link": "https://www.fxstreet.com/news/euro-gathers-strength-above-11500-as-cooling-inflation-data-weighs-on-us-dollar-202608140043",
+      "published": "2026-08-14T00:43:01+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -57,60 +138,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: US economy remains stable",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720615/Feds-Goolsbee-US-economy-remains-stable.aspx?xy=rss",
-      "published": "2026-08-13T22:14:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: If can put some of that behind us, can steer inflation back to 2%",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720614/Feds-Goolsbee-If-can-put-some-of-that-behind-us-can-steer-inflation-back-to-2.aspx?xy=rss",
-      "published": "2026-08-13T22:12:09+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: many inflation factors stemmed from tariffs and oil, initially expected as one-time jumps",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720613/Feds-Goolsbee-many-inflation-factors-stemmed-from-tariffs-and-oil-initially-expected-as-one-time-jumps.aspx?xy=rss",
-      "published": "2026-08-13T22:11:50+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: latest inflation figures have improved slightly",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720612/Feds-Goolsbee-latest-inflation-figures-have-improved-slightly.aspx?xy=rss",
-      "published": "2026-08-13T22:11:34+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: inflation readings improving, hope trend persists",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720611/Feds-Goolsbee-inflation-readings-improving-hope-trend-persists.aspx?xy=rss",
-      "published": "2026-08-13T22:10:29+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Australia PM Albanese: President Trump agreed to consider request on tariffs",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720572/Australia-PM-Albanese-President-Trump-agreed-to-consider-request-on-tariffs.aspx?xy=rss",
-      "published": "2026-08-13T21:46:52+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Reddit stock, $RDDT, surges over +11% on news that the company is being added to the S&P 500.",
@@ -149,33 +176,6 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "USD/MXN Price Forecast: Bears eye 17.00 as downtrend stretches",
-      "summary": "The USD/MXN extends its downtrend for the 14th straight day, down a minimal 0.08% as the Mexican Peso hovers near a 24-month low of 17.01 on Thursday.",
-      "link": "https://www.fxstreet.com/news/usd-mxn-price-forecast-bears-eye-1700-as-downtrend-stretches-202608131940",
-      "published": "2026-08-13T19:40:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah: Two-way trade with key levels watched against US Dollar – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that USD/IDR has rebounded after a near 2% month-to-date pullback, with external factors such as elevated Oil prices and US rates remaining key drivers.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-two-way-trade-with-key-levels-watched-against-us-dollar-ocbc-202608131921",
-      "published": "2026-08-13T19:21:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Range holds as upside risk watched against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/SGD stayed largely unchanged around 1.2805 on Tuesday, with momentum still flat.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-holds-as-upside-risk-watched-against-us-dollar-uob-202608131838",
-      "published": "2026-08-13T18:38:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "USD/CHF Price Forecast: Bearish flag keeps 0.8145 in focus",
       "summary": "The USD/CHF pair trades near the top trendline of a bearish flag pattern on Thursday, holding steady at around 0.8134 after the release of softer inflation data on the producer side.",
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-keeps-08145-in-focus-202608131836",
@@ -192,33 +192,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen little changed amid cooling US inflation",
-      "summary": "USD/JPY is trading sideways on Thursday, hovering in the mid-159.00s and holding within its recent range. It is more of the same for the pair, which continues to move in consolidation as opposing forces cancel each other out.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-little-changed-amid-cooling-us-inflation-202608131817",
-      "published": "2026-08-13T18:17:25+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold slips as US Dollar recovers despite softer US factory inflation",
-      "summary": "Gold (XAU/USD) price declines on Thursday as the US Dollar (USD) trims some of its earlier losses, as economic data in the US showed that the disinflation process continues, amid a moderately softening jobs market.",
-      "link": "https://www.fxstreet.com/news/gold-slips-as-us-dollar-recovers-despite-softer-us-factory-inflation-202608131813",
-      "published": "2026-08-13T18:13:30+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: Momentum cools as XAG/USD consolidates above 50-day SMA",
-      "summary": "Silver trades modestly lower on Thursday, holding within Monday’s trading range as buyers take a breather following the strong rally seen at the start of the month.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-momentum-cools-as-xag-usd-consolidates-above-50-day-sma-202608131810",
-      "published": "2026-08-13T18:10:41+00:00",
-      "score": 3
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "Tech sector breadth is rapidly improving: 75% of S&P 500 technology sector stocks finished above their 200-day moving average last week, the highest percentage since October 2024. This marked the first time in 219 trading days that this threshold was reached, ending the 9th-longest streak on record. By comparison, the longest stretch during which fewer than 75% of tech stocks traded above their 200-day moving average lasted 759 trading days, ending on April 22, 2003, following the Dot-Com Bubble burst. Historically, each time such a streak ended, the technology sector returned +2.5% on average over the following month and +7.3% over the next 3 months. After 6 months and 12 months, the average gains were +15.5% and +33.4%, respectively. Meanwhile, 69% of Nasdaq 100 stocks are now trading above their 200-day moving average, near the highest percentage since July 2025. The tech stock rally is gaining momentum.",
@@ -226,15 +199,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2087943682989195580#m",
       "published": "2026-08-13T16:45:40+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar stumbles near recent highs",
-      "summary": "AUD/USD is trading little changed on Thursday, shrinking near the 0.7050s below the multi-week high reached on Wednesday near 0.7091. The pair holds its ground after US data pointed to cooling price pressure, keeping the US Dollar (USD) stagnant.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-stumbles-near-recent-highs-202608131644",
-      "published": "2026-08-13T16:44:00+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
@@ -388,15 +352,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vlan7r/gold_buy_setup/",
       "published": "2026-08-11T07:32:05+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Bullish Setup on XAUUSD today",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vla6bf/bullish_setup_on_xauusd_today/\"> <img alt=\"Bullish Setup on XAUUSD today\" src=\"https://preview.redd.it/jfwnasp33pih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae578b6e0bf77bb3a3b632c7eeb61793b563cd46\" title=\"Bullish Setup on XAUUSD today\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I am in....I know it never ",
-      "link": "https://www.reddit.com/r/Forex/comments/1vla6bf/bullish_setup_on_xauusd_today/",
-      "published": "2026-08-11T07:04:22+00:00",
-      "score": 3
     },
     {
       "source": "Federal Reserve",
