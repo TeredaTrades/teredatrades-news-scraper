@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-14T22:50:48.499153+00:00",
-  "count": 62,
+  "updated_at": "2026-08-14T23:23:44.764935+00:00",
+  "count": 63,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG stalls as yields cap recovery",
+      "summary": "Silver price advanced by some 0.39% on Friday, capped by rising US yields, even though US data was softer than expected. XAG/USD trades at $64.70, after bouncing off daily lows of $63.51.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-stalls-as-yields-cap-recovery-202608142259",
+      "published": "2026-08-14T22:59:08+00:00",
+      "score": 4
+    },
     {
       "source": "FXStreet",
       "category": "news",
