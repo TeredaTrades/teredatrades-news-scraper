@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-14T10:17:11.592583+00:00",
-  "count": 71,
+  "updated_at": "2026-08-14T11:20:11.272030+00:00",
+  "count": 70,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold bounces from weekly low on softer US Dollar, fading September Fed hike bets",
+      "summary": "Gold (XAU/USD) rebounds on Friday after opening the day in negative territory and falling to a fresh weekly low of $4,311.",
+      "link": "https://www.fxstreet.com/news/gold-bounces-from-weekly-low-on-softer-us-dollar-fading-september-fed-hike-bets-202608141116",
+      "published": "2026-08-14T11:16:24+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index: Range-bound Dollar as Fed odds ease – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the USD index (DXY) is trading near the lower end of its recent 99.50–100.00 range as cooling United States (US) Consumer Price Index (CPI) and Producer Price Index (PPI) have cut implied odds of a September Fed rate hike.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-range-bound-dollar-as-fed-odds-ease-bbh-202608141110",
+      "published": "2026-08-14T11:10:54+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CAD Price Forecast: Posts fresh two-month low below 1.3900",
+      "summary": "The Canadian Dollar (CAD) outperforms a majority of its currency peers on Friday, with the USD/CAD pair trading 0.32% lower at around 1.3888. The Canadian currency gains on hopes of a United States (US)-Canada interim deal.",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-posts-fresh-two-month-low-below-13900-202608141105",
+      "published": "2026-08-14T11:05:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "NZD/USD Price Forecast: Approaches 0.5900 resistance area as US Dollar weakens",
+      "summary": "The New Zealand Dollar (NZD) appreciates on Wednesday as the US Dollar (USD) loses ground across the board amid dwindling hopes of immediate Federal Reserve interest rate hikes.",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-approaches-05900-resistance-area-as-us-dollar-weakens-202608141037",
+      "published": "2026-08-14T10:37:53+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -147,33 +183,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro flattens against Japanese Yen, ECB-BoJ to raise rates in September",
-      "summary": "The Euro (EUR) trades flat at around 183.85 against the Japanese Yen (JPY) during the European trading session on Friday. The cross consolidates while investors seek fresh cues regarding whether there will be more United States (US)-Japan joint intervention to prop up the Japanese currency.",
-      "link": "https://www.fxstreet.com/news/euro-flattens-against-japanese-yen-ecb-boj-to-raise-rates-in-september-202608140841",
-      "published": "2026-08-14T08:41:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee: RBI support offsets wider trade gap – Societe Generale",
-      "summary": "Societe Generale notes India’s headline CPI rose slightly to 4.45% year-on-year in July, backing the RBI’s decision to keep policy unchanged. The central bank has reportedly been active in FX markets as the trade deficit widened.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-support-offsets-wider-trade-gap-societe-generale-202608140819",
-      "published": "2026-08-14T08:19:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Upside risk intact above support against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note AUD/USD is consolidating intraday between 0.7050 and 0.7075 after a brief spike to 0.7091 failed to build momentum.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-upside-risk-intact-above-support-against-us-dollar-uob-202608140810",
-      "published": "2026-08-14T08:10:54+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Currency Strength Chart: Strongest: NZD, CAD, JPY, EUR, GBP, AUD, CHF, USD - Weakest",
@@ -192,31 +201,13 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: French CPI YoY NSA Actual 2.1% (Forecast 2.1%, Previous 2.1%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9721168/French-CPI-YoY-NSA-Actual-21-Forecast-21-Previous-21.aspx?xy=rss",
-      "published": "2026-08-14T06:45:00+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee flattens while approaching weekend",
+      "title": "Indian Rupee flattens, awaiting fresh remarks on Hormuz future",
       "summary": "The Indian Rupee (INR) trades flat at around 95.40 against the US Dollar (USD) on Friday. The USD/INR pair consolidates as investors seek fresh cues regarding the reopening of the Strait of Hormuz, a vital passage to almost one-fifth of global energy supply, which is keeping oil prices higher.",
       "link": "https://www.fxstreet.com/news/indian-rupee-trades-calm-while-oil-prices-correct-202608140525",
       "published": "2026-08-14T05:25:33+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold recovers intraday losses as reduced Fed hike bets offset geopolitics and weigh on USD",
-      "summary": "Gold (XAU/USD) finds decent support ahead of the $4,300 mark and recovers a major part of its intraday losses during the first half of the European session on Friday.",
-      "link": "https://www.fxstreet.com/news/gold-extends-pullback-from-two-month-high-as-iran-risks-counter-receding-fed-hike-bets-202608140341",
-      "published": "2026-08-14T03:41:34+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
