@@ -1,7 +1,124 @@
 {
-  "updated_at": "2026-08-14T07:51:06.374672+00:00",
-  "count": 68,
+  "updated_at": "2026-08-14T09:09:17.504137+00:00",
+  "count": 60,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: RMP pause and QT timing – TD Securities",
+      "summary": "TD Securities’ Gennadiy Goldberg and Molly Brooks analyze the Federal Reserve’s decision to halt Reserve Management Purchases (RMP) after tapering from $40bn to $10bn per month.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-rmp-pause-and-qt-timing-td-securities-202608140908",
+      "published": "2026-08-14T09:08:36+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index Price Forecast: DXY declines to 99.75-99.70 amid receding Fed hike bets",
+      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, continues to lose ground through the first half of the European session on Friday and retreats further from a two-week high, touched the previous day.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-declines-to-9975-9970-amid-receding-fed-hike-bets-202608140858",
+      "published": "2026-08-14T08:58:29+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "GBP/USD Price Forecast: Picks up above 1.3500 amid generalised US Dollar weakness",
+      "summary": "The British Pound (GBP) pares losses against a weaker US Dollar (USD) on Friday, as a run of soft US inflation figures and growing signs of labour market deterioration have cast doubt about the odds for an immediate Federal Reserve (Fed) rate hike.",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-picks-up-above-13500-amid-generalised-us-dollar-weakness-202608140855",
+      "published": "2026-08-14T08:55:09+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Growth resilience supports gains against US Dollar – MUFG",
+      "summary": "MUFG’s Lee Hardman reports the British Pound (GBP) is the best performing major currency in August, with GBP/USD back above 1.3500. The United Kingdom (UK) economy is proving resilient to the energy price shock linked to the US-Iran conflict, with Q2 GDP up 0.4% after 0.6% in Q1.",
+      "link": "https://www.fxstreet.com/news/british-pound-growth-resilience-supports-gains-against-us-dollar-mufg-202608140854",
+      "published": "2026-08-14T08:54:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ING: The JPY - FJElite",
+      "summary": "<div>Despite some sharp moves in Japanese money markets this week, the yen is failing to find any lasting support. Here, the big story is that the Japanese government might be more tolerant of a faster tightening cycle by the Bank of Japan. The prior assumption had been that a government focusing on growth would only allow the BoJ one hike every six months. The suggestion now is that Tokyo has ele",
+      "link": "https://www.financialjuice.com/News/9721349/ING-The-JPY---FJElite.aspx?xy=rss",
+      "published": "2026-08-14T08:46:52+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Carry trades supported as Fed seen on hold – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that softer United States (US) Producer Price Index (PPI) and lower US Treasury yields have led markets to scale back expectations of a September Federal Reserve (Fed) hike, limiting US Dollar (USD) upside.",
+      "link": "https://www.fxstreet.com/news/us-dollar-carry-trades-supported-as-fed-seen-on-hold-ocbc-202608140846",
+      "published": "2026-08-14T08:46:40+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ING: The EUR - FJElite",
+      "summary": "<div>Our models suggest EUR/USD's short-term fair value sits in the 1.160-1.1650 area. That’s primarily on the back of the c.lObp tightening in two-year swap rate spreads, which retain a significantly higher beta than other drivers.</div><div><br /></div><div>That supports our positive bias on EUR/USD, even though we aren’t convinced a break above 1.160 is on the cards in the coming days unless co",
+      "link": "https://www.financialjuice.com/News/9721338/ING-The-EUR---FJElite.aspx?xy=rss",
+      "published": "2026-08-14T08:46:06+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Europe Sentiment: Stocks Rise Following Back to Back Benign US Inflation Reports - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9721328/Europe-Sentiment-Stocks-Rise-Following-Back-to-Back-Benign-US-Inflation-Reports---FJElite.aspx?xy=rss",
+      "published": "2026-08-14T08:43:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro flattens against Japanese Yen, ECB-BoJ to raise rates in September",
+      "summary": "The Euro (EUR) trades flat at around 183.85 against the Japanese Yen (JPY) during the European trading session on Friday. The cross consolidates while investors seek fresh cues regarding whether there will be more United States (US)-Japan joint intervention to prop up the Japanese currency.",
+      "link": "https://www.fxstreet.com/news/euro-flattens-against-japanese-yen-ecb-boj-to-raise-rates-in-september-202608140841",
+      "published": "2026-08-14T08:41:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee: RBI support offsets wider trade gap – Societe Generale",
+      "summary": "Societe Generale notes India’s headline CPI rose slightly to 4.45% year-on-year in July, backing the RBI’s decision to keep policy unchanged. The central bank has reportedly been active in FX markets as the trade deficit widened.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-support-offsets-wider-trade-gap-societe-generale-202608140819",
+      "published": "2026-08-14T08:19:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: Upside risk intact above support against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note AUD/USD is consolidating intraday between 0.7050 and 0.7075 after a brief spike to 0.7091 failed to build momentum.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-upside-risk-intact-above-support-against-us-dollar-uob-202608140810",
+      "published": "2026-08-14T08:10:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen recovers from two-week low on fast BoJ rate hike bets, softer USD",
+      "summary": "The USD/JPY pair sticks to modest intraday losses through the first half of the European session on Friday, though it manages to hold above the 159.00 mark and remains close to a two-week top set the previous day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-from-two-week-low-on-fast-boj-rate-hike-bets-softer-usd-202608140800",
+      "published": "2026-08-14T08:00:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Hawkish ECB prospects support Euro",
+      "summary": "The Euro (EUR) trades 0.17% higher at around 1.1550 against the US Dollar (USD) during the European trading session on Friday. The major currency pair gains as the Euro rises due to firm expectations that the European Central Bank (ECB) will raise interest rates in the policy meeting in September.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-hawkish-ecb-prospects-support-euro-202608140754",
+      "published": "2026-08-14T07:54:25+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -48,24 +165,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones futures steady ahead of US Retail Sales data",
-      "summary": "Dow Jones futures remain subdued around 53,910 during European hours on Friday. Meanwhile, S&amp;P 500 futures move little, hovering around 7,820, and Nasdaq 100 futures inch lower by 0.09%, trading near 30,160.",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-steady-ahead-of-us-retail-sales-data-202608140719",
-      "published": "2026-08-14T07:19:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Locked in tight ranges against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report GBP/USD price action remains confined, with intraday moves seen between 1.3475 and 1.3515 as momentum has faded.",
-      "link": "https://www.fxstreet.com/news/british-pound-locked-in-tight-ranges-against-us-dollar-uob-202608140713",
-      "published": "2026-08-14T07:13:13+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Currency Strength Chart: Strongest: NZD, CAD, JPY, EUR, GBP, AUD, CHF, USD - Weakest",
@@ -73,33 +172,6 @@
       "link": "https://www.financialjuice.com/News/9721217/Currency-Strength-Chart-Strongest-NZD-CAD-JPY-EUR-GBP-AUD-CHF-USD---Weakest.aspx?xy=rss",
       "published": "2026-08-14T07:04:25+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Showing some undervaluation against US Dollar – ING",
-      "summary": "ING FX Strategist Francesco Pesole highlights that EUR/USD appears modestly undervalued, with short-term fair value estimated around 1.160–1.1650 based on swap spreads.",
-      "link": "https://www.fxstreet.com/news/euro-showing-some-undervaluation-against-us-dollar-ing-202608140702",
-      "published": "2026-08-14T07:02:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Equities: US stock rally broadens as S&P 500 hits new high – Deutsche Bank",
-      "summary": "Deutsche Bank strategists report that United States (US) equities, led by the S&amp;P 500, have reached new record highs as softer inflation data and lower Oil prices reinforce expectations that the Fed can stay on hold.",
-      "link": "https://www.fxstreet.com/news/equities-us-stock-rally-broadens-as-sp-500-hits-new-high-deutsche-bank-202608140652",
-      "published": "2026-08-14T06:52:17+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar gathers strength on easing Fed rate hike bets",
-      "summary": "The USD/CAD pair attracts some sellers to around 1.3910 during the early European trading hours on Friday. The US Dollar (USD) weakens against the Canadian Dollar (CAD) as cooled US inflation data have tempered aggressive Federal Reserve (Fed) rate-hike bets.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gathers-strength-on-easing-fed-rate-hike-bets-202608140650",
-      "published": "2026-08-14T06:50:31+00:00",
-      "score": 3
     },
     {
       "source": "FinancialJuice",
@@ -122,62 +194,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "New Zealand Dollar gains on hawkish RBNZ policy outlook",
-      "summary": "NZD/USD gains ground after four days of losses, trading around 0.5870 during the early European hours on Friday. The pair appreciates as the New Zealand Dollar (NZD) receives support from traders continuing to price in a Reserve Bank of New Zealand (RBNZ) rate hike next month.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-on-hawkish-rbnz-policy-outlook-202608140643",
-      "published": "2026-08-14T06:43:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: Easing Fed rate hike bets weigh on USD amid Mideast stalemate",
-      "summary": "Here is what you need to know on Friday, August 14:",
-      "link": "https://www.fxstreet.com/news/forex-today-easing-fed-rate-hike-bets-weigh-on-usd-amid-mideast-stalemate-202608140633",
-      "published": "2026-08-14T06:33:29+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9721135/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-08-14T06:11:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Higher intraday band within broader range against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight that EUR/USD is consolidating after a brief spike, with the pair expected to trade intraday in a slightly higher 1.1515–1.1550 range as the underlying tone firms.",
-      "link": "https://www.fxstreet.com/news/euro-higher-intraday-band-within-broader-range-against-us-dollar-uob-202608140610",
-      "published": "2026-08-14T06:10:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9721131/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-08-14T06:09:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "BoJ set to hike rates as soon as September— Reuters",
-      "summary": "The Bank of Japan (BoJ) is set to raise interest rates as soon as September and is likely to hike more aggressively thereafter from the current pace of roughly twice a year, three sources familiar with its thinking told Reuters.",
-      "link": "https://www.fxstreet.com/news/boj-set-to-hike-rates-as-soon-as-september-202608140605",
-      "published": "2026-08-14T06:05:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee trades calm while approaching the weekend",
-      "summary": "The Indian Rupee (INR) opens on a flat note at around 95.40 against the US Dollar (USD) on Friday.",
+      "title": "Indian Rupee flattens while approaching weekend",
+      "summary": "The Indian Rupee (INR) trades flat at around 95.40 against the US Dollar (USD) on Friday. The USD/INR pair consolidates as investors seek fresh cues regarding the reopening of the Strait of Hormuz, a vital passage to almost one-fifth of global energy supply, which is keeping oil prices higher.",
       "link": "https://www.fxstreet.com/news/indian-rupee-trades-calm-while-oil-prices-correct-202608140525",
       "published": "2026-08-14T05:25:33+00:00",
       "score": 1
@@ -185,8 +203,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold sticks to losses but holds above $4,300 as reduced Fed hike bets weigh on USD",
-      "summary": "Gold (XAU/USD) recovers slightly from the  $4,300 neighborhood heading into the European session on Friday, though it remains in negative territory for the second straight day.",
+      "title": "Gold recovers intraday losses as reduced Fed hike bets offset geopolitics and weigh on USD",
+      "summary": "Gold (XAU/USD) finds decent support ahead of the $4,300 mark and recovers a major part of its intraday losses during the first half of the European session on Friday.",
       "link": "https://www.fxstreet.com/news/gold-extends-pullback-from-two-month-high-as-iran-risks-counter-receding-fed-hike-bets-202608140341",
       "published": "2026-08-14T03:41:34+00:00",
       "score": 4
@@ -246,15 +264,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "$AMD - AMD EYES $5 BILLION DEBT SALE FOR AI EXPANSION AMD plans to raise up to $5B through a four-part bond sale, potentially its largest ever. The chipmaker is ramping up spending as AI computing demand surges, following major agreements with Anthropic and Microsoft ($MSFT). AMD has also committed up to $5B to Anthropic. Proceeds will fund general corporate purposes, potentially including debt repayment, with $875M in bonds maturing next month.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMD\">$AMD</a>  - AMD EYES $5 BILLION DEBT SALE FOR AI EXPANSION<br />\n<br />\nAMD plans to raise up to $5B through a four-part bond sale, potentially its largest ever.<br />\n<br />\nThe chipmaker is ramping up spending as AI computing demand surges, following major agreements with Anthropic and Microsoft ($MSFT).<br />\n<br />\nAMD has also commi",
-      "link": "https://nitter.net/DeItaone/status/2087923265385779223#m",
-      "published": "2026-08-13T15:24:32+00:00",
-      "score": 1
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
@@ -262,24 +271,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
       "published": "2026-08-13T15:00:00+00:00",
       "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Pinned: 🇺🇸 TRADERS NO LONGER FULLY PRICE IN A FED RATE HIKE THIS YEAR Prediction markets now see a 70% chance the Fed holds rates steady in September, versus 29% odds of a 25bp hike. A 25bp cut is priced at just 2%. Markets are increasingly betting the Fed can remain on hold as inflation cools. https://kalshi.com/markets/kxfeddecision/fed-meeting/kxfeddecision-26sep?utm_source=walterbloomberg",
-      "summary": "<p>🇺🇸 TRADERS NO LONGER FULLY PRICE IN A FED RATE HIKE THIS YEAR<br />\n<br />\nPrediction markets now see a 70% chance the Fed holds rates steady in September, versus 29% odds of a 25bp hike.<br />\n<br />\nA 25bp cut is priced at just 2%.<br />\n<br />\nMarkets are increasingly betting the Fed can remain on hold as inflation cools.<br />\n<a href=\"https://kalshi.com/markets/kxfeddecision/fed-meeting/kx",
-      "link": "https://nitter.net/DeItaone/status/2087911787358298450#m",
-      "published": "2026-08-13T14:38:56+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "PCE INFLATION SEEN AT 3.6% IN JULY Oxford Economics expects the Fed’s preferred inflation gauge, headline PCE, to rise 3.6% year-over-year in July, easing slightly from 3.7% in June. The report is due later this month. With services inflation cooling and the labor market showing little sign of overheating, Oxford Economics expects the Fed to keep rates unchanged for the rest of 2026.",
-      "summary": "<p>PCE INFLATION SEEN AT 3.6% IN JULY<br />\n<br />\nOxford Economics expects the Fed’s preferred inflation gauge, headline PCE, to rise 3.6% year-over-year in July, easing slightly from 3.7% in June.<br />\n<br />\nThe report is due later this month.<br />\n<br />\nWith services inflation cooling and the labor market showing little sign of overheating, Oxford Economics expects the Fed to keep rates unc",
-      "link": "https://nitter.net/DeItaone/status/2087903277400657961#m",
-      "published": "2026-08-13T14:05:07+00:00",
-      "score": 3
     },
     {
       "source": "Kobeissi Letter",
@@ -291,15 +282,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "S&P 500 HITS INTRADAY RECORD HIGH, LAST UP 0.6%",
-      "summary": "<p>S&amp;P 500 HITS INTRADAY RECORD HIGH, LAST UP 0.6%</p>",
-      "link": "https://nitter.net/DeItaone/status/2087900892750025014#m",
-      "published": "2026-08-13T13:55:38+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The US Government officially posts its largest July budget deficit in history, at -$432 billion, due to an acceleration in federal spending. Interest on US debt rose +$26 billion from last July's levels to an alarming $118 billion for the month. This puts total interest expense for FY2026 up to $1.17 trillion in FY2026. As a result, interest expense has officially surpassed both National Defense and Medicare spending. In other words, the US government now spends more money just on interest than it does to fund the entire US Military or to provide healthcare for seniors. We cannot afford higher interest rates.",
@@ -307,60 +289,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2087890009277833590#m",
       "published": "2026-08-13T13:12:23+00:00",
       "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "HAMMACK: IF IT TAKES ANOTHER 3-4 YEARS TO GET TO 2% INFLATION, CAN THE PUBLIC WAIT?",
-      "summary": "<p>HAMMACK: IF IT TAKES ANOTHER 3-4 YEARS TO GET TO 2% INFLATION, CAN THE PUBLIC WAIT?</p>",
-      "link": "https://nitter.net/DeItaone/status/2087887061546082799#m",
-      "published": "2026-08-13T13:00:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FED'S BARKIN: CURRENT LEVELS OF FEDERAL DEBT ARE AN INFLATIONARY \"WIND\" THAT THE FED HAS TO NAVIGATE AGAINST",
-      "summary": "<p>FED'S BARKIN: CURRENT LEVELS OF FEDERAL DEBT ARE AN INFLATIONARY \"WIND\" THAT THE FED HAS TO NAVIGATE AGAINST</p>",
-      "link": "https://nitter.net/DeItaone/status/2087886070134268224#m",
-      "published": "2026-08-13T12:56:44+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. PRODUCER INFLATION COMES IN FLAT U.S. producer prices were unchanged in July, below expectations for a 0.2% increase, after falling 0.1% in June. Lower energy prices helped contain wholesale inflation. Combined with softer consumer inflation, the report may ease pressure on the Fed to adjust rates soon. Attention now turns to the PCE inflation report later in August, the Fed’s preferred measure for tracking progress toward its 2% target.",
-      "summary": "<p>U.S. PRODUCER INFLATION COMES IN FLAT<br />\n<br />\nU.S. producer prices were unchanged in July, below expectations for a 0.2% increase, after falling 0.1% in June.<br />\n<br />\nLower energy prices helped contain wholesale inflation.<br />\n<br />\nCombined with softer consumer inflation, the report may ease pressure on the Fed to adjust rates soon.<br />\n<br />\nAttention now turns to the PCE infl",
-      "link": "https://nitter.net/DeItaone/status/2087882630725238974#m",
-      "published": "2026-08-13T12:43:04+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "BARKIN: FED RATE HIKES STILL ON THE TABLE Fed’s Barkin says it remains an open question whether rates must rise to bring inflation back to 2%. Inflation could ease as wage pressures moderate and tariff and oil shocks fade, though price pressures may remain embedded. Many Fed officials believe current rates are already restrictive enough. Meanwhile, consumer spending remains resilient, business investment is strong, and AI is helping firms experiment with reducing headcount.",
-      "summary": "<p>BARKIN: FED RATE HIKES STILL ON THE TABLE<br />\n<br />\nFed’s Barkin says it remains an open question whether rates must rise to bring inflation back to 2%.<br />\n<br />\nInflation could ease as wage pressures moderate and tariff and oil shocks fade, though price pressures may remain embedded.<br />\n<br />\nMany Fed officials believe current rates are already restrictive enough.<br />\n<br />\nMeanw",
-      "link": "https://nitter.net/DeItaone/status/2087881958315438403#m",
-      "published": "2026-08-13T12:40:24+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FED'S HAMMACK: REPEATS NEED TO RAISE RATES RIGHT NOW",
-      "summary": "<p>FED'S HAMMACK: REPEATS NEED TO RAISE RATES RIGHT NOW</p>",
-      "link": "https://nitter.net/DeItaone/status/2087881047690108970#m",
-      "published": "2026-08-13T12:36:47+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "U.S. HOUSING MARKET TILTS HARD TO BUYERS U.S. homebuyer demand hit a record low in July, with just 967,000 buyers versus 1.46M sellers—a 51% seller surplus. Nearly 80% of major metros are now buyer’s markets, giving house hunters greater negotiating power. Miami leads with 154% more sellers than buyers, followed by Nashville and several Texas metros. High mortgage rates, elevated prices and economic uncertainty are keeping buyers on the sidelines.",
-      "summary": "<p>U.S. HOUSING MARKET TILTS HARD TO BUYERS<br />\n<br />\nU.S. homebuyer demand hit a record low in July, with just 967,000 buyers versus 1.46M sellers—a 51% seller surplus.<br />\n<br />\nNearly 80% of major metros are now buyer’s markets, giving house hunters greater negotiating power.<br />\n<br />\nMiami leads with 154% more sellers than buyers, followed by Nashville and several Texas metros.<br />",
-      "link": "https://nitter.net/DeItaone/status/2087880929049997456#m",
-      "published": "2026-08-13T12:36:19+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
