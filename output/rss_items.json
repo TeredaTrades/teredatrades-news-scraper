@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-14T17:38:45.548091+00:00",
+  "updated_at": "2026-08-14T18:33:58.043213+00:00",
   "count": 67,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CAD Price Forecast: Bears target the 200-day SMA",
+      "summary": "USD/CAD extends its decline farther below 1.4000 on Friday and heads for a third consecutive weekly loss. At the time of writing, the pair trades around 1.3877, at levels last seen in early July.",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bears-target-the-200-day-sma-202608141824",
+      "published": "2026-08-14T18:24:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Consolidation near 1.28 with upside risks against US Dollar – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note USD/SGD is consolidating around 1.28 as softer United States (US) Producer Price Index (PPI) trims Federal Reserve (Fed) hike expectations but fails to trigger fresh US Dollar (USD) selling.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-128-with-upside-risks-against-us-dollar-ocbc-202608141814",
+      "published": "2026-08-14T18:14:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CHF Price Forecast: Bearish flag holds as bulls eye 0.8150",
+      "summary": "The USD/CHF turns negative on the day, snapping a four-day winning streak, yet it remains above 0.8100, suggesting further upside is possible if buyers reclaim key resistance levels. At the time of writing, the pair trades at a 0.12% loss.",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bearish-flag-holds-as-bulls-eye-08150-202608141804",
+      "published": "2026-08-14T18:04:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold rallies as weak US data dents Fed hike bets",
+      "summary": "Gold price registers solid gains of nearly 0.90% on Friday as the US Dollar weakens across the board, following a week that featured softer inflation data, which decreased the chances for a rate hike by the Federal Reserve (Fed). The XAU/USD trades at $4,386, still below the $4,400 threshold.",
+      "link": "https://www.fxstreet.com/news/gold-rallies-as-weak-us-data-dents-fed-hike-bets-202608141739",
+      "published": "2026-08-14T17:39:26+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Gains target 1407 against US Dollar – Societe Generale",
+      "summary": "Societe Generale analysts note USD/KRW has corrected after losing its 200-day moving average near 1478 and is now testing an ascending trend line from 2023 around 1407.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-gains-target-1407-against-us-dollar-societe-generale-202608141739",
+      "published": "2026-08-14T17:39:00+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -84,15 +129,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: US GDP and labor market are basically stable.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9721986/Feds-Goolsbee-US-GDP-and-labor-market-are-basically-stable.aspx?xy=rss",
-      "published": "2026-08-14T16:33:09+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "New Zealand Dollar charges toward 0.5900 as US Dollar loses ground",
@@ -165,33 +201,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro gains against Japanese Yen as ECB, BoJ rate hike bets intensify",
-      "summary": "EUR/JPY rises 0.15% on Friday and trades around 184.15 at the time of writing. The pair remains supported despite growing expectations that Japan could raise interest rates as soon as September, while investors also anticipate further monetary tightening in the Eurozone.",
-      "link": "https://www.fxstreet.com/news/euro-gains-against-japanese-yen-as-ecb-boj-rate-hike-bets-intensify-202608141507",
-      "published": "2026-08-14T15:07:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Bullish momentum points to gains against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight Canadian Dollar (CAD) strength as USD/CAD trades just below their fair value estimate around 1.3895, supported by tighter US–Canada 2-year spreads and firmer commodity FX.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-momentum-points-to-gains-against-us-dollar-scotiabank-202608141505",
-      "published": "2026-08-14T15:05:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro climbs as fading Fed hike expectations pressure US Dollar",
-      "summary": "EUR/USD rallies on Friday, erasing all the losses recorded earlier this week as broad-based weakness in the US Dollar (USD) lifts the Euro (EUR). At the time of writing, the pair trades around 1.1580 near its highest level since June 17.",
-      "link": "https://www.fxstreet.com/news/euro-climbs-as-fading-fed-hike-expectations-pressure-us-dollar-202608141445",
-      "published": "2026-08-14T14:45:55+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Tesla stock, $TSLA, extends gains to over +3% on the day on reports that the company is nearing the unveiling of a “flying” Roadster.",
@@ -217,15 +226,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2088238956382990568#m",
       "published": "2026-08-14T12:18:59+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold gains ground as US Dollar selling picks up, Fed rate hike bets fade",
-      "summary": "Gold (XAU/USD) rebounds on Friday after opening the day in negative territory and falling to a fresh weekly low of $4,311.",
-      "link": "https://www.fxstreet.com/news/gold-bounces-from-weekly-low-on-softer-us-dollar-fading-september-fed-hike-bets-202608141116",
-      "published": "2026-08-14T11:16:24+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
