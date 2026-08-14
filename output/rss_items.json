@@ -1,13 +1,67 @@
 {
-  "updated_at": "2026-08-14T04:28:44.419180+00:00",
+  "updated_at": "2026-08-14T06:00:35.403522+00:00",
   "count": 69,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD slips below $64.00 on profit taking",
+      "summary": "Silver price (XAG/USD) extends its losses for the second consecutive day, trading around $63.50 per troy ounce during the Asian hours on Friday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-6400-on-profit-taking-202608140553",
+      "published": "2026-08-14T05:53:51+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee trades calm while oil prices correct",
+      "summary": "The Indian Rupee (INR) opens on a flat note at around 95.40 against the US Dollar (USD) on Friday.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-trades-calm-while-oil-prices-correct-202608140525",
+      "published": "2026-08-14T05:25:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index weakens as cooling US inflation eases Fed rate hike odds",
+      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is losing ground for the second successive day, trading around 99.90 during the Asian hours on Friday.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-as-cooling-us-inflation-eases-fed-rate-hike-odds-202608140520",
+      "published": "2026-08-14T05:20:13+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound strengthens to near 1.3500 as Fed rate hike bets ease",
+      "summary": "The GBP/USD pair gathers strength to near 1.3495 during the early European trading hours on Friday.",
+      "link": "https://www.fxstreet.com/news/british-pound-strengthens-to-near-13500-as-fed-rate-hike-bets-ease-202608140452",
+      "published": "2026-08-14T04:52:43+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: Bulls cautious below 159.50, 50% Fibo. caps upside on soft USD",
+      "summary": "The USD/JPY pair trades with a mild negative bias below mid-159.00s during the Asian session on Friday, though it remains close to a nearly two-week high touched the previous day.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-bulls-cautious-below-15950-50-fibo-caps-upside-on-soft-usd-202608140450",
+      "published": "2026-08-14T04:50:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "summary": "Gold prices fell in India on Friday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608140435",
+      "published": "2026-08-14T04:35:57+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Apple to introduce range of AI tools in China in coming months: sources",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9721028/Apple-to-introduce-range-of-AI-tools-in-China-in-coming-months-sources.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9721028/Apple-to-introduce-range-of-AI-tools-in-China-in-coming-months-sources.aspx?xy=rss",
       "published": "2026-08-14T04:19:24+00:00",
       "score": 1
     },
@@ -16,7 +70,7 @@
       "category": "news",
       "title": "FinancialJuice: Apple trains AI model specifically for China market: sources",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9721027/Apple-trains-AI-model-specifically-for-China-market-sources.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9721027/Apple-trains-AI-model-specifically-for-China-market-sources.aspx?xy=rss",
       "published": "2026-08-14T04:19:22+00:00",
       "score": 1
     },
@@ -34,7 +88,7 @@
       "category": "news",
       "title": "FinancialJuice: Goldman Sachs in discussions with potential investors on Nvidia's $500 billion AI funding plan: sources",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9720984/Goldman-Sachs-in-discussions-with-potential-investors-on-Nvidias-500-billion-AI-funding-plan-sources.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9720984/Goldman-Sachs-in-discussions-with-potential-investors-on-Nvidias-500-billion-AI-funding-plan-sources.aspx?xy=rss",
       "published": "2026-08-14T04:00:04+00:00",
       "score": 2
     },
@@ -50,8 +104,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold extends pullback from two-month high as Iran risks counter receding Fed hike bets",
-      "summary": "Gold (XAU/USD) is seen extending the previous day's pullback from the vicinity of the $4,450 level, or the highest since June 5, and drifting lower for the second straight day on Friday.",
+      "title": "Gold finds some support ahead of $4,300 as USD remains depressed on receding Fed hike bets",
+      "summary": "Gold (XAU/USD) attracts some follow-through selling for the second consecutive day and retreats further from its highest level since June 5, around $4,450, which it touched the previous day.",
       "link": "https://www.fxstreet.com/news/gold-extends-pullback-from-two-month-high-as-iran-risks-counter-receding-fed-hike-bets-202608140341",
       "published": "2026-08-14T03:41:34+00:00",
       "score": 4
@@ -61,7 +115,7 @@
       "category": "news",
       "title": "FinancialJuice: China Finance Ministry offers 10-year bonds at 1.66% yield: traders",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9720971/China-Finance-Ministry-offers-10-year-bonds-at-166-yield-traders.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9720971/China-Finance-Ministry-offers-10-year-bonds-at-166-yield-traders.aspx?xy=rss",
       "published": "2026-08-14T03:39:25+00:00",
       "score": 1
     },
@@ -70,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: China finance ministry auctions 30-year ultra-long special treasury bonds at 2.14% yield: traders",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9720970/China-finance-ministry-auctions-30-year-ultra-long-special-treasury-bonds-at-214-yield-traders.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9720970/China-finance-ministry-auctions-30-year-ultra-long-special-treasury-bonds-at-214-yield-traders.aspx?xy=rss",
       "published": "2026-08-14T03:38:19+00:00",
       "score": 1
     },
@@ -115,7 +169,7 @@
       "category": "news",
       "title": "FinancialJuice: LG to unveil next-gen humanoid robot built on Nvidia Isaac Groot",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9720928/LG-to-unveil-next-gen-humanoid-robot-built-on-Nvidia-Isaac-Groot.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9720928/LG-to-unveil-next-gen-humanoid-robot-built-on-Nvidia-Isaac-Groot.aspx?xy=rss",
       "published": "2026-08-14T02:31:09+00:00",
       "score": 1
     },
@@ -126,15 +180,6 @@
       "summary": "The GBP/USD pair attracts some dip-buyers during the Asian session on Friday and, for now, seems to have snapped a two-day losing streak to the weekly low, which it touched the previous day.",
       "link": "https://www.fxstreet.com/news/british-pound-edges-higher-vs-softer-usd-lacks-follow-through-as-geopolitics-cap-gains-202608140154",
       "published": "2026-08-14T01:54:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: S.Korea central bank: sells 91-day monetary stabilization bonds at 2.710% yield",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9720817/SKorea-central-bank-sells-91-day-monetary-stabilization-bonds-at-2710-yield.aspx?xy=1",
-      "published": "2026-08-14T01:40:04+00:00",
       "score": 1
     },
     {
@@ -165,42 +210,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar recovers from two-week low as fading Fed hike bets undermine USD",
-      "summary": "The NZD/USD pair is seen building on the previous day's bounce from the 0.5820 region, or a two-week low, and gaining some positive traction during the Asian session on Friday. Spot prices climbed back above 0.5850 in the last hour and, for now, seem to have snapped a four-day losing streak.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-recovers-from-two-week-low-as-fading-fed-hike-bets-undermine-usd-202608140119",
-      "published": "2026-08-14T01:19:41+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7878 vs. 6.7888 previous",
-      "summary": "On Friday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7878 compared to the previous day's fix of 6.7888.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67878-vs-67888-previous-202608140115",
-      "published": "2026-08-14T01:15:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro gathers strength above 1.1500 as cooling inflation data weighs on US Dollar",
-      "summary": "The EUR/USD pair gains ground to near 1.1535 during the early Asian session on Friday. The US Dollar (USD) softens against the Euro (EUR) following a softer-than-expected US inflation report. The US July Retail Sales data will take center stage later on Friday.",
-      "link": "https://www.fxstreet.com/news/euro-gathers-strength-above-11500-as-cooling-inflation-data-weighs-on-us-dollar-202608140043",
-      "published": "2026-08-14T00:43:01+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold drifts higher above $4,350 as softer US PPI data reduces September Fed hike bets",
-      "summary": "Gold price (XAU/USD) holds positive ground near $4,360 during the early Asian session on Friday. The precious metal gains momentum following US inflation data. Traders will take more cues from the US July Retail Sales report, which is due later on Friday.",
-      "link": "https://www.fxstreet.com/news/gold-drifts-higher-above-4-350-as-softer-us-ppi-data-reduces-september-fed-hike-bets-202608132327",
-      "published": "2026-08-13T23:27:46+00:00",
-      "score": 6
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Why EURUSD so bad this week???",
@@ -208,15 +217,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vnqkm4/why_eurusd_so_bad_this_week/",
       "published": "2026-08-13T23:16:49+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar holds near 0.7060 as eyes shift to RBA’s Bullock",
-      "summary": "The Aussie Dollar holds steady at around 0.7061 after US inflation data weighed on the Greenback, which recovered some ground to finish Thursday’s session almost flat. The AUD/USD registers modest losses of 0.01%",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-near-07060-as-eyes-shift-to-rbas-bullock-202608132258",
-      "published": "2026-08-13T22:58:04+00:00",
-      "score": 2
     },
     {
       "source": "Kobeissi Letter",
