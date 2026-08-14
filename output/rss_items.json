@@ -1,13 +1,22 @@
 {
-  "updated_at": "2026-08-14T21:52:51.552782+00:00",
-  "count": 64,
+  "updated_at": "2026-08-14T22:25:32.498099+00:00",
+  "count": 62,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Treasury yields rise as Oil strength offsets weak Retail Sales",
+      "summary": "US Treasury yields advanced on Friday during the North American session after reversing their course following the release of US Retail Sales data, which disappointed investors. Meanwhile, the lack of news from the Middle East kept Oill prices higher, amid fears of a resumption of hostilities.",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-oil-strength-offsets-weak-retail-sales-202608142201",
+      "published": "2026-08-14T22:01:46+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Third Point LLC sells share stake in Meta: SEC filing",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9722296/Third-Point-LLC-sells-share-stake-in-Meta-SEC-filing.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9722296/Third-Point-LLC-sells-share-stake-in-Meta-SEC-filing.aspx",
       "published": "2026-08-14T21:22:33+00:00",
       "score": 1
     },
@@ -16,7 +25,7 @@
       "category": "news",
       "title": "FinancialJuice: Third Point LLC reduces Amazon.com stake by 9.8% to 1.8 million shares - SEC filing",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9722295/Third-Point-LLC-reduces-Amazoncom-stake-by-98-to-18-million-shares---SEC-filing.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9722295/Third-Point-LLC-reduces-Amazoncom-stake-by-98-to-18-million-shares---SEC-filing.aspx",
       "published": "2026-08-14T21:22:00+00:00",
       "score": 1
     },
@@ -34,7 +43,7 @@
       "category": "news",
       "title": "FinancialJuice: Iran's Gharibabadi: Trump declaring Strait of Hormuz U.S. territory won't intimidate Iran amid threats or force",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9722273/Irans-Gharibabadi-Trump-declaring-Strait-of-Hormuz-US-territory-wont-intimidate-Iran-amid-threats-or-force.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9722273/Irans-Gharibabadi-Trump-declaring-Strait-of-Hormuz-US-territory-wont-intimidate-Iran-amid-threats-or-force.aspx",
       "published": "2026-08-14T21:01:07+00:00",
       "score": 1
     },
@@ -43,7 +52,7 @@
       "category": "news",
       "title": "FinancialJuice: Soros Fund Management increases its stake in Apple by 29,004 to 529,538 shares $AAPL",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9722271/Soros-Fund-Management-increases-its-stake-in-Apple-by-29004-to-529538-shares-AAPL.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9722271/Soros-Fund-Management-increases-its-stake-in-Apple-by-29004-to-529538-shares-AAPL.aspx",
       "published": "2026-08-14T20:55:43+00:00",
       "score": 1
     },
@@ -61,7 +70,7 @@
       "category": "news",
       "title": "FinancialJuice: Trump ends remarks at event in New York.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9722247/Trump-ends-remarks-at-event-in-New-York.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9722247/Trump-ends-remarks-at-event-in-New-York.aspx",
       "published": "2026-08-14T20:31:35+00:00",
       "score": 1
     },
@@ -70,7 +79,7 @@
       "category": "news",
       "title": "FinancialJuice: NVIDIA reports a share stake of 122.8 million Class A shares in SpaceX - SEC Filing. $SPCX $NVDA",
       "summary": "<ul><li> $21b stake.<br /></li></ul>",
-      "link": "https://www.financialjuice.com/News/9722245/NVIDIA-reports-a-share-stake-of-1228-million-Class-A-shares-in-SpaceX---SEC-Filing-SPCX-NVDA.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9722245/NVIDIA-reports-a-share-stake-of-1228-million-Class-A-shares-in-SpaceX---SEC-Filing-SPCX-NVDA.aspx",
       "published": "2026-08-14T20:29:17+00:00",
       "score": 1
     },
@@ -79,7 +88,7 @@
       "category": "news",
       "title": "FinancialJuice: Trump: Taking millions of bbls of oil from Venezuela weekly.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9722243/Trump-Taking-millions-of-bbls-of-oil-from-Venezuela-weekly.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9722243/Trump-Taking-millions-of-bbls-of-oil-from-Venezuela-weekly.aspx",
       "published": "2026-08-14T20:23:48+00:00",
       "score": 1
     },
@@ -97,17 +106,8 @@
       "category": "news",
       "title": "FinancialJuice: Soros Fund Management increases its stake in Nvidia by 391,429 to 1,464,635 shares $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9722242/Soros-Fund-Management-increases-its-stake-in-Nvidia-by-391429-to-1464635-shares-NVDA.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9722242/Soros-Fund-Management-increases-its-stake-in-Nvidia-by-391429-to-1464635-shares-NVDA.aspx",
       "published": "2026-08-14T20:20:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: The US is capable of destroying Iran, we don't want to do that - Fox Business Interview Clip.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9722240/Trump-The-US-is-capable-of-destroying-Iran-we-dont-want-to-do-that---Fox-Business-Interview-Clip.aspx?xy=rss",
-      "published": "2026-08-14T20:18:16+00:00",
       "score": 1
     },
     {
@@ -226,15 +226,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-gains-but-struggles-for-fresh-momentum-202608141614",
       "published": "2026-08-14T16:14:02+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Spreads support upside bias against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report EUR/USD trading in the mid-1.15s with modest gains versus the US Dollar (USD), supported by euro area Gross Domestic Product (GDP) and a return to trade surplus.",
-      "link": "https://www.fxstreet.com/news/euro-spreads-support-upside-bias-against-us-dollar-scotiabank-202608141609",
-      "published": "2026-08-14T16:09:00+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -378,15 +369,6 @@
       "summary": "<p>S&amp;P 500 HITS INTRADAY RECORD HIGH, LAST UP 0.6%</p>",
       "link": "https://nitter.net/DeItaone/status/2087900892750025014#m",
       "published": "2026-08-13T13:55:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "HAMMACK: IF IT TAKES ANOTHER 3-4 YEARS TO GET TO 2% INFLATION, CAN THE PUBLIC WAIT?",
-      "summary": "<p>HAMMACK: IF IT TAKES ANOTHER 3-4 YEARS TO GET TO 2% INFLATION, CAN THE PUBLIC WAIT?</p>",
-      "link": "https://nitter.net/DeItaone/status/2087887061546082799#m",
-      "published": "2026-08-13T13:00:41+00:00",
       "score": 1
     },
     {
