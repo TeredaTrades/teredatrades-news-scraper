@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-16T23:21:32.737346+00:00",
-  "count": 53,
+  "updated_at": "2026-08-16T23:45:37.465435+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar gains traction to near 0.7100 on fading Fed hike bets",
+      "summary": "The AUD/USD pair trades with mild gains near 0.7090 during the early Asian session on Monday. The US Dollar (USD) weakens against the Australian Dollar (AUD) as Federal Reserve (Fed) rate hike odds fade amid weaker US economic data.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gains-traction-to-near-07100-on-fading-fed-hike-bets-202608162329",
+      "published": "2026-08-16T23:29:08+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "The cost of servicing US debt is the highest in decades: On Thursday, the US government sold $25 billion of 30Y Treasury bonds at a 5.216% yield, the highest auction yield since 2001. This follows a $42 billion auction of 10Y Treasury notes on Wednesday that resulted in a 4.683% yield, the highest since 2007. Previously, on July 9th, the government sold 30Y Treasury bonds at a 5.058% yield, the highest since 2007, highlighting the worsening trend in US debt financing costs. By comparison, yields on the same-maturity Treasury auctions were below 2.00% during the 2020 pandemic. This comes as investors are demanding more compensation to finance the US government's ever-growing deficit. In July, the US Treasury’s budget deficit surged +$141 billion YoY, to $432 billion, the largest July total in history. The US debt crisis is entering uncharted territory.",
+      "summary": "<p>The cost of servicing US debt is the highest in decades:<br />\n<br />\nOn Thursday, the US government sold $25 billion of 30Y Treasury bonds at a 5.216% yield, the highest auction yield since 2001.<br />\n<br />\nThis follows a $42 billion auction of 10Y Treasury notes on Wednesday that resulted in a 4.683% yield, the highest since 2007.<br />\n<br />\nPreviously, on July 9th, the government sold 30",
+      "link": "https://nitter.net/KobeissiLetter/status/2089128940908519580#m",
+      "published": "2026-08-16T23:15:28+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -297,15 +315,6 @@
       "summary": "United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann note that USD/CNH remains confined to a tight intraday range, with momentum indicators still flat and the pair expected to trade between 6.7400 and 6.7500.",
       "link": "https://www.fxstreet.com/news/chinese-yuan-range-trade-persists-near-67450-against-us-dollar-uob-202608141700",
       "published": "2026-08-14T17:00:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Dow Jones Industrial Average learns who paid for disinflation",
-      "summary": "Two cooling inflation readings carried the broad market to a record on Thursday, taking the S&amp;P 500 through 7,800 for the first time, and Friday morning supplied the explanation for where the cooling came from.",
-      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-learns-who-paid-for-disinflation-202608141635",
-      "published": "2026-08-14T16:35:16+00:00",
       "score": 1
     },
     {
