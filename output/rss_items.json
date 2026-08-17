@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-17T20:01:58.210945+00:00",
-  "count": 58,
+  "updated_at": "2026-08-17T20:44:31.602916+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar sags to two-month lows as Middle East risk lifts Oil and Gold",
+      "summary": "The US Dollar Index (DXY) starts the week on the back foot, with the US Dollar Index (DXY) slipping toward two-month lows and holding below the 100.00 mark. August's run of underwhelming US data jobs, inflation and retail sales has steadily trimmed bets on a Federal Reserve (Fed) move next month.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-sags-to-two-month-lows-as-middle-east-risk-lifts-oil-and-gold-202608172022",
+      "published": "2026-08-17T20:22:19+00:00",
+      "score": 5
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -41,8 +50,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Mexican Peso softens as Middle East risks boosts the US Dollar",
-      "summary": "The Mexican Peso weakens against the US Dollar on Monday, with USD/MXN reclaiming the 17.00 level, even though the latest US inflation and Retail Sales data disappointed investors. The USD/MXN trades at 17.03, after hitting a weekly low of 16.99.",
+      "title": "Mexican Peso softens as Middle East risks boost US Dollar",
+      "summary": "The Mexican Peso (MXN) weakens against the US Dollar (USD) on Monday, with USD/MXN reclaiming the 17.00 level, even though the latest US inflation and Retail Sales data disappointed investors. At the time of writing, the USD/MXN pair trades at 17.03, breaking a four-day losing streak.",
       "link": "https://www.fxstreet.com/news/mexican-peso-softens-as-middle-east-risks-boosts-the-us-dollar-202608171952",
       "published": "2026-08-17T19:52:53+00:00",
       "score": 2
@@ -138,15 +147,6 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Markets are bracing for a more volatile period ahead: S&P 500 options are pricing a daily implied move of ~0.75% on August 27th, the day after Nvidia, $NVDA, reports its quarterly earnings. The following day, August 28th, carries a ~0.70% implied move in the index as the Jackson Hole symposium begins, making them the two most anticipated volatility events of the month. By comparison, typical daily implied moves on non-event days this week are just ~0.40-0.50%. At the same time, options positioning flipped from long to short gamma in early August, a dynamic that tends to amplify market swings once volatility picks up. Meanwhile, the volatility index, $VIX, finished last week at 14.3 points, the lowest level since December 2025. More volatility is likely ahead of us.",
-      "summary": "<p>Markets are bracing for a more volatile period ahead:<br />\n<br />\nS&amp;P 500 options are pricing a daily implied move of ~0.75% on August 27th, the day after Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, reports its quarterly earnings.<br />\n<br />\nThe following day, August 28th, carries a ~0.70% implied move in the index as the Jackson Hole symposium begins, m",
-      "link": "https://nitter.net/KobeissiLetter/status/2089403130890932267#m",
-      "published": "2026-08-17T17:25:00+00:00",
-      "score": 2
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "EUR/GBP trades in a tight range ahead of UK jobs data",
@@ -192,48 +192,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Bullish bias with data risk ahead against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note British Pound (GBP) is underperforming core European peers but has still reached a three‑month high against the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/british-pound-bullish-bias-with-data-risk-ahead-against-us-dollar-scotiabank-202608171508",
-      "published": "2026-08-17T15:08:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Nvidia, $NVDA, has agreed to provide a more than $100 billion backstop for a massive new OpenAI data center in Ohio, per FT. Details include: 1. Nvidia will provide credit support for the \"land, power and shell\" for the facility capped at $105 billion 2. The data center is being developed alongside a SoftBank-led energy companies 3. Nvidia will also invest $1.5 billion into SB Energy, an energy company founded as part of the SoftBank Group in 2019 4. OpenAI plans to lease as much as 8 gigawatts of AI computing power at the data center in Pike County, Ohio, which will take until 2032 to complete This will mark one of the largest AI infrastructure deals yet.",
-      "summary": "<p>BREAKING: Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, has agreed to provide a more than $100 billion backstop for a massive new OpenAI data center in Ohio, per FT.<br />\n<br />\nDetails include:<br />\n<br />\n1. Nvidia will provide credit support for the \"land, power and shell\" for the facility capped at $105 billion<br />\n<br />\n2. The data center is being devel",
-      "link": "https://nitter.net/KobeissiLetter/status/2089352534439624839#m",
-      "published": "2026-08-17T14:03:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump threatens to bomb Oman if they \"get in the way\" of US efforts to reopen the Strait of Hormuz and end the war with Iran. \"If Oman gets in the way, we'll bomb the s*** out of them,\" President Trump said.",
-      "summary": "<p>BREAKING: President Trump threatens to bomb Oman if they \"get in the way\" of US efforts to reopen the Strait of Hormuz and end the war with Iran.<br />\n<br />\n\"If Oman gets in the way, we'll bomb the s*** out of them,\" President Trump said.</p>",
-      "link": "https://nitter.net/KobeissiLetter/status/2089336693421973858#m",
-      "published": "2026-08-17T13:01:00+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gold: I Still Think the Move Down Is Not Over",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vqr341/gold_i_still_think_the_move_down_is_not_over/\"> <img alt=\"Gold: I Still Think the Move Down Is Not Over\" src=\"https://preview.redd.it/bx77otozixjh1.png?width=140&amp;height=62&amp;auto=webp&amp;s=1de5ffb56290a186a0feb32985221f97a1eaf042\" title=\"Gold: I Still Think the Move Down Is Not Over\" /> </a> </td><td> <!-- SC_OFF --><",
       "link": "https://www.reddit.com/r/Forex/comments/1vqr341/gold_i_still_think_the_move_down_is_not_over/",
       "published": "2026-08-17T12:34:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The US and Iran have reportedly agreed to extend their 60-day ceasefire which was set to expire today, per Al Arabiya. Details include: 1. Under the \"Memorandum of Understanding\" brokered by Pakistan, today marks the final day of the Iran War ceasefire 2. President Trump says that a \"backchannel\" is in place with Iran’s Revolutionary Guard officials 3. Despite the supposed extension, there remains no indication of an imminent deal Today marks day 170 of the Iran War.",
-      "summary": "<p>BREAKING: The US and Iran have reportedly agreed to extend their 60-day ceasefire which was set to expire today, per Al Arabiya.<br />\n<br />\nDetails include:<br />\n<br />\n1. Under the \"Memorandum of Understanding\" brokered by Pakistan, today marks the final day of the Iran War ceasefire<br />\n<br />\n2. President Trump says that a \"backchannel\" is in place with Iran’s Revolutionary Guard offici",
-      "link": "https://nitter.net/KobeissiLetter/status/2089327269789495635#m",
-      "published": "2026-08-17T12:23:33+00:00",
       "score": 1
     },
     {
@@ -273,24 +237,6 @@
       "score": 3
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The cost of servicing US debt is the highest in decades: On Thursday, the US government sold $25 billion of 30Y Treasury bonds at a 5.216% yield, the highest auction yield since 2001. This follows a $42 billion auction of 10Y Treasury notes on Wednesday that resulted in a 4.683% yield, the highest since 2007. Previously, on July 9th, the government sold 30Y Treasury bonds at a 5.058% yield, the highest since 2007, highlighting the worsening trend in US debt financing costs. By comparison, yields on the same-maturity Treasury auctions were below 2.00% during the 2020 pandemic. This comes as investors are demanding more compensation to finance the US government's ever-growing deficit. In July, the US Treasury’s budget deficit surged +$141 billion YoY, to $432 billion, the largest July total in history. The US debt crisis is entering uncharted territory.",
-      "summary": "<p>The cost of servicing US debt is the highest in decades:<br />\n<br />\nOn Thursday, the US government sold $25 billion of 30Y Treasury bonds at a 5.216% yield, the highest auction yield since 2001.<br />\n<br />\nThis follows a $42 billion auction of 10Y Treasury notes on Wednesday that resulted in a 4.683% yield, the highest since 2007.<br />\n<br />\nPreviously, on July 9th, the government sold 30",
-      "link": "https://nitter.net/KobeissiLetter/status/2089128940908519580#m",
-      "published": "2026-08-16T23:15:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "US consumers are pulling back on spending: US retail sales dropped -0.6% in July, the largest monthly decrease since May 2025, missing expectations of a +0.1% increase. The biggest drop came from non-store retailers, including Amazon, $AMZN, where sales fell -2.2%, the 2nd-largest decline since July 2021. At the same time, motor vehicle and parts dealer sales fell -1.8%. As a result, retail sales excluding auto fell -0.3%, below the expected +0.2% increase. Meanwhile, control-group sales, which feed into the GDP calculation, plunged -0.4%, the largest monthly decline since January 2025. The measure excludes food services, auto dealers, building materials stores, and gas stations. Americans are becoming more cautious with their spending.",
-      "summary": "<p>US consumers are pulling back on spending:<br />\n<br />\nUS retail sales dropped -0.6% in July, the largest monthly decrease since May 2025, missing expectations of a +0.1% increase.<br />\n<br />\nThe biggest drop came from non-store retailers, including Amazon, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>, where sales fell -2.2%, the 2nd-largest decline since July 2021.<b",
-      "link": "https://nitter.net/KobeissiLetter/status/2089110696868958338#m",
-      "published": "2026-08-16T22:02:58+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "NZD/USD doux Forex",
@@ -300,42 +246,6 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The Kobeissi Letter for the week of August 17th has been published and may be viewed through the link below: https://tinyurl.com/TheKobeissiLetter The Chart of the Week for the week of August 17th has been published. View or sign up for FREE through the link below: https://tinyurl.com/TKLChartofWeek",
-      "summary": "<p>The Kobeissi Letter for the week of August 17th has been published and may be viewed through the link below:<br />\n<br />\n<a href=\"https://tinyurl.com/TheKobeissiLetter\">tinyurl.com/TheKobeissiLette…</a><br />\n<br />\nThe Chart of the Week for the week of August 17th has been published. View or sign up for FREE through the link below:<br />\n<br />\n<a href=\"https://tinyurl.com/TKLChartofWeek\">tin",
-      "link": "https://nitter.net/KobeissiLetter/status/2089057100458512584#m",
-      "published": "2026-08-16T18:30:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: US retail money market fund assets jumped +$202 billion YoY in June, to a record $3.05 trillion. Since 2022, retail money market fund assets have more than tripled. This is also twice as large as the peak recorded following the 2020 pandemic. Retail money market fund assets have grown at a +14% compounded annual growth rate (CAGR) since the start of 2019. The average money market fund yield is currently 3.57%, according to the Crane 100 Money Fund Index, which tracks the 100 largest money market funds. Retail is taking advantage of elevated risk-free yields.",
-      "summary": "<p>BREAKING: US retail money market fund assets jumped +$202 billion YoY in June, to a record $3.05 trillion.<br />\n<br />\nSince 2022, retail money market fund assets have more than tripled.<br />\n<br />\nThis is also twice as large as the peak recorded following the 2020 pandemic.<br />\n<br />\nRetail money market fund assets have grown at a +14% compounded annual growth rate (CAGR) since the start",
-      "link": "https://nitter.net/KobeissiLetter/status/2089049299141394843#m",
-      "published": "2026-08-16T17:59:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Americans are concerned about inflation. Only 8% of US consumers expect their income to grow faster than inflation over the next year, the lowest proportion in at least 2 years. This figure has declined -10 percentage points since November 2024. At the same time, 20% anticipate their income to grow at roughly the same pace as inflation, near the lowest proportion since at least July 2024. This means 72% of consumers expect inflation to outpace their income over the next year, the highest reading in at least 2 years. By comparison, this figure stood at 58% in November 2024. Americans are extremely pessimistic about their real purchasing power.",
-      "summary": "<p>Americans are concerned about inflation.<br />\n<br />\nOnly 8% of US consumers expect their income to grow faster than inflation over the next year, the lowest proportion in at least 2 years.<br />\n<br />\nThis figure has declined -10 percentage points since November 2024.<br />\n<br />\nAt the same time, 20% anticipate their income to grow at roughly the same pace as inflation, near the lowest pro",
-      "link": "https://nitter.net/KobeissiLetter/status/2089012120708878363#m",
-      "published": "2026-08-16T15:31:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Key Events This Week: 1. July Housing Starts data - Tuesday 2. July Pending Home Sales data - Tuesday 3. Fed Meeting Minutes - Wednesday 4. August Philly Fed Manufacturing Index - Thursday 5. August S&P Global Services PMI data - Friday 6. August S&P Global Manufacturing PMI data - Friday The S&P 500 is now up +13.5% year-to-date.",
-      "summary": "<p>Key Events This Week:<br />\n<br />\n1. July Housing Starts data - Tuesday<br />\n<br />\n2. July Pending Home Sales data - Tuesday<br />\n<br />\n3. Fed Meeting Minutes - Wednesday<br />\n<br />\n4. August Philly Fed Manufacturing Index - Thursday<br />\n<br />\n5. August S&amp;P Global Services PMI data - Friday<br />\n<br />\n6. August S&amp;P Global Manufacturing PMI data - Friday<br />\n<br />\nThe S&am",
-      "link": "https://nitter.net/KobeissiLetter/status/2088993205899428241#m",
-      "published": "2026-08-16T14:16:06+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gold at 4377 — Breakdown or Bounce From Here? 👀",
@@ -343,15 +253,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vpt790/gold_at_4377_breakdown_or_bounce_from_here/",
       "published": "2026-08-16T10:07:40+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The US Treasury's reliance on short-term debt is rising: US Treasury bills currently account for ~21% of marketable Treasury securities, near the highest since 2020, when federal borrowing surged during the pandemic response. This is well above the 10-15% range seen from 2012 to 2019. By comparison, the peak during the 2008 Financial Crisis was ~34%. This comes as the US government has increasingly relied on T-bills, rather than longer-term notes and bonds, to fund its growing borrowing needs. If the Treasury keeps issuing longer-dated debt at the current pace through FY2027, T-bills could account for ~25% of total debt, the highest since 2004, excluding 2008 and 2020. However, this approach increases the government's exposure to short-term rate swings, making debt-servicing costs more vulnerable if interest rates remain elevated or rise again. The US debt crisis is in full swing.",
-      "summary": "<p>The US Treasury's reliance on short-term debt is rising:<br />\n<br />\nUS Treasury bills currently account for ~21% of marketable Treasury securities, near the highest since 2020, when federal borrowing surged during the pandemic response.<br />\n<br />\nThis is well above the 10-15% range seen from 2012 to 2019.<br />\n<br />\nBy comparison, the peak during the 2008 Financial Crisis was ~34%.<br />",
-      "link": "https://nitter.net/KobeissiLetter/status/2088796634415345725#m",
-      "published": "2026-08-16T01:15:00+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -525,5 +426,11 @@
       "score": 1
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Kobeissi Letter",
+      "type": "twitter",
+      "error": "failed to parse feed (text/html;charset=utf-8 is not an XML media type)"
+    }
+  ]
 }
