@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-17T20:44:31.602916+00:00",
-  "count": 47,
+  "updated_at": "2026-08-17T21:10:30.259469+00:00",
+  "count": 70,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Treasury yields surge as 30-year hits 2007 high",
+      "summary": "US Treasury yields advance on Friday during the North American session after reversing their course following the release of US Retail Sales data last week, which disappointed investors.",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-surge-as-30-year-hits-2007-high-202608172045",
+      "published": "2026-08-17T20:45:51+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -25,7 +34,7 @@
       "category": "news",
       "title": "FinancialJuice: Nasdaq: on December 6th 2026, Nasdaq will introduce a new trading session from 9 PM to 4 AM ET.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9724707/Nasdaq-on-December-6th-2026-Nasdaq-will-introduce-a-new-trading-session-from-9-PM-to-4-AM-ET.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9724707/Nasdaq-on-December-6th-2026-Nasdaq-will-introduce-a-new-trading-session-from-9-PM-to-4-AM-ET.aspx",
       "published": "2026-08-17T19:55:12+00:00",
       "score": 1
     },
@@ -34,7 +43,7 @@
       "category": "news",
       "title": "FinancialJuice: Nasdaq: Engaging with regulators to offer nearly continuous trading 23 hours a day, 5 days a week, on Nasdaq stock market.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9724706/Nasdaq-Engaging-with-regulators-to-offer-nearly-continuous-trading-23-hours-a-day-5-days-a-week-on-Nasdaq-stock-market.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9724706/Nasdaq-Engaging-with-regulators-to-offer-nearly-continuous-trading-23-hours-a-day-5-days-a-week-on-Nasdaq-stock-market.aspx",
       "published": "2026-08-17T19:54:24+00:00",
       "score": 1
     },
@@ -61,7 +70,7 @@
       "category": "news",
       "title": "FinancialJuice: MOC Imbalance",
       "summary": "S&amp;P 500: +602 mln<br />Nasdaq 100: -43 mln<br />Dow 30: +283 mln<br />Mag 7: -120 mln",
-      "link": "https://www.financialjuice.com/News/9724705/MOC-Imbalance.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9724705/MOC-Imbalance.aspx",
       "published": "2026-08-17T19:50:31+00:00",
       "score": 1
     },
@@ -70,7 +79,7 @@
       "category": "news",
       "title": "FinancialJuice: Tesla readies August launch of Cybercab - The Information $TSLA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9724671/Tesla-readies-August-launch-of-Cybercab---The-Information-TSLA.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9724671/Tesla-readies-August-launch-of-Cybercab---The-Information-TSLA.aspx",
       "published": "2026-08-17T19:28:18+00:00",
       "score": 1
     },
@@ -79,7 +88,7 @@
       "category": "news",
       "title": "FinancialJuice: USTR Greer: Trump's not bluffing about 100% tariffs on UK - Times",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9724669/USTR-Greer-Trumps-not-bluffing-about-100-tariffs-on-UK---Times.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9724669/USTR-Greer-Trumps-not-bluffing-about-100-tariffs-on-UK---Times.aspx",
       "published": "2026-08-17T19:27:52+00:00",
       "score": 1
     },
@@ -97,7 +106,7 @@
       "category": "news",
       "title": "FinancialJuice: Tuesday FX Options Expiries",
       "summary": "<ul><li><strong>EUR/USD:</strong> 1.1575 (EU1.28b), 1.1600 (EU637.1m), 1.1450 (EU524.7m)</li><li><strong>USD/JPY:</strong> 157.20 ($759.5m), 158.00 ($728.3m), 155.50 ($608m)</li><li><strong>USD/CAD:</strong> 1.3875 ($748.8m), 1.3825 ($405m)</li><li><strong>AUD/USD:</strong> 0.7275 (AUD811m), 0.6950 (AUD617m), 0.6700 (AUD451.8m)</li><li><strong>USD/BRL:</strong> 5.0000 ($1.18b), 5.0275 ($325.7m)</l",
-      "link": "https://www.financialjuice.com/News/9724668/Tuesday-FX-Options-Expiries.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9724668/Tuesday-FX-Options-Expiries.aspx",
       "published": "2026-08-17T19:21:35+00:00",
       "score": 1
     },
@@ -106,8 +115,17 @@
       "category": "news",
       "title": "FinancialJuice: Kushner: Trump will be patient on deal with Iran.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9724661/Kushner-Trump-will-be-patient-on-deal-with-Iran.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9724661/Kushner-Trump-will-be-patient-on-deal-with-Iran.aspx",
       "published": "2026-08-17T19:05:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP APPROVAL FALLS TO PRESIDENCY LOW President Trump’s approval rating fell to 33%, the lowest of his presidency, according to a Reuters/Ipsos poll. About 64% disapprove of his performance. The Iran conflict is a major concern: 80% of Americans expect U.S. involvement to continue for an extended period. The decline comes ahead of November’s midterms, with Republicans defending their congressional majorities.",
+      "summary": "<p>TRUMP APPROVAL FALLS TO PRESIDENCY LOW<br />\n<br />\nPresident Trump’s approval rating fell to 33%, the lowest of his presidency, according to a Reuters/Ipsos poll. About 64% disapprove of his performance.<br />\n<br />\nThe Iran conflict is a major concern: 80% of Americans expect U.S. involvement to continue for an extended period.<br />\n<br />\nThe decline comes ahead of November’s midterms, wit",
+      "link": "https://nitter.net/DeItaone/status/2089423877877141988#m",
+      "published": "2026-08-17T18:47:26+00:00",
       "score": 1
     },
     {
@@ -138,12 +156,93 @@
       "score": 5
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SAYS U.S. NOT SEEKING EXTENSION OF IRAN MOU",
+      "summary": "<p>TRUMP SAYS U.S. NOT SEEKING EXTENSION OF IRAN MOU</p>",
+      "link": "https://nitter.net/DeItaone/status/2089416080565408094#m",
+      "published": "2026-08-17T18:16:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: Iran is in big trouble",
+      "summary": "<p>Trump: Iran is in big trouble</p>",
+      "link": "https://nitter.net/DeItaone/status/2089415196351578496#m",
+      "published": "2026-08-17T18:12:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We're taking out millions of barrels of oil a week from the strait of Hormuz, it is open",
+      "summary": "<p>Trump: We're taking out millions of barrels of oil a week from the strait of Hormuz, it is open</p>",
+      "link": "https://nitter.net/DeItaone/status/2089415145193611762#m",
+      "published": "2026-08-17T18:12:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We control the strait of Hormuz",
+      "summary": "<p>Trump: We control the strait of Hormuz</p>",
+      "link": "https://nitter.net/DeItaone/status/2089414997872914941#m",
+      "published": "2026-08-17T18:12:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON UK PM: HE HAS IMMIGRATION, ENERGY PROBLEMS",
+      "summary": "<p>TRUMP ON UK PM: HE HAS IMMIGRATION, ENERGY PROBLEMS</p>",
+      "link": "https://nitter.net/DeItaone/status/2089414308358701322#m",
+      "published": "2026-08-17T18:09:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: THEY'RE NOT GOING TO MAKE THE KIND OF DEAL THAT I THINK IS NECESSARY",
+      "summary": "<p>TRUMP ON IRAN: THEY'RE NOT GOING TO MAKE THE KIND OF DEAL THAT I THINK IS NECESSARY</p>",
+      "link": "https://nitter.net/DeItaone/status/2089413351541526545#m",
+      "published": "2026-08-17T18:05:37+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "Euro returns below 1.1600 as US Dollar selling pressure eases",
       "summary": "EUR/USD trims earlier gains on Monday as the US Dollar (USD) shows signs of stabilization after opening the week under selling pressure. At the time of writing, the pair trades around 1.1580 after touching an intraday high of 1.1614, its highest level since June 17.",
       "link": "https://www.fxstreet.com/news/euro-returns-below-11600-as-us-dollar-selling-pressure-eases-202608171755",
       "published": "2026-08-17T17:55:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "Markets are bracing for a more volatile period ahead: S&P 500 options are pricing a daily implied move of ~0.75% on August 27th, the day after Nvidia, $NVDA, reports its quarterly earnings. The following day, August 28th, carries a ~0.70% implied move in the index as the Jackson Hole symposium begins, making them the two most anticipated volatility events of the month. By comparison, typical daily implied moves on non-event days this week are just ~0.40-0.50%. At the same time, options positioning flipped from long to short gamma in early August, a dynamic that tends to amplify market swings once volatility picks up. Meanwhile, the volatility index, $VIX, finished last week at 14.3 points, the lowest level since December 2025. More volatility is likely ahead of us.",
+      "summary": "<p>Markets are bracing for a more volatile period ahead:<br />\n<br />\nS&amp;P 500 options are pricing a daily implied move of ~0.75% on August 27th, the day after Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, reports its quarterly earnings.<br />\n<br />\nThe following day, August 28th, carries a ~0.70% implied move in the index as the Jackson Hole symposium begins, m",
+      "link": "https://nitter.net/KobeissiLetter/status/2089403130890932267#m",
+      "published": "2026-08-17T17:25:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "US 30-YEAR YIELD HITS 2007 HIGH The 30-year Treasury yield climbed to 5.29%, its highest since 2007, as investors worry about rising U.S. debt, heavy bond issuance and persistent inflation. AI-related corporate borrowing and weaker demand for long-term bonds are adding pressure. The selloff continues despite softer jobs, inflation and retail data reducing near-term Fed hike expectations. Meanwhile, the yield curve is steepening as long-term yields rise while short-term yields fall.",
+      "summary": "<p>US 30-YEAR YIELD HITS 2007 HIGH<br />\n<br />\nThe 30-year Treasury yield climbed to 5.29%, its highest since 2007, as investors worry about rising U.S. debt, heavy bond issuance and persistent inflation.<br />\n<br />\nAI-related corporate borrowing and weaker demand for long-term bonds are adding pressure.<br />\n<br />\nThe selloff continues despite softer jobs, inflation and retail data reducing ",
+      "link": "https://nitter.net/DeItaone/status/2089399897304736004#m",
+      "published": "2026-08-17T17:12:09+00:00",
+      "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "XI TO SKIP UN, FOCUS ON TRUMP SUMMIT Chinese President Xi Jinping will reportedly skip the UN General Assembly during his U.S. visit next month. Xi is scheduled to meet President Trump at the White House on September 24, with his trip expected to focus almost entirely on the summit. The decision removes a potential opportunity for Xi to promote China’s global leadership agenda at the UN while the U.S. remains focused on the Iran conflict.",
+      "summary": "<p>XI TO SKIP UN, FOCUS ON TRUMP SUMMIT<br />\n<br />\nChinese President Xi Jinping will reportedly skip the UN General Assembly during his U.S. visit next month.<br />\n<br />\nXi is scheduled to meet President Trump at the White House on September 24, with his trip expected to focus almost entirely on the summit.<br />\n<br />\nThe decision removes a potential opportunity for Xi to promote China’s glo",
+      "link": "https://nitter.net/DeItaone/status/2089397489879159237#m",
+      "published": "2026-08-17T17:02:35+00:00",
       "score": 1
     },
     {
@@ -156,6 +255,24 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "CITADEL: FED POLICY KEEPING TREASURY YIELDS HIGH Citadel Securities says the Fed’s policy approach is helping keep long-term Treasury yields near multi-decade highs, creating broader market risks. The 30-year yield topped 5.28%, its highest in 19 years, despite softer inflation and jobs data. Citadel warns inflation pressures remain, making the next Fed decision a close call. On AI, it favors cloud infrastructure and hyperscalers like Microsoft ( $MSFT) and Alphabet ( $GOOGL) over frontier model developers.",
+      "summary": "<p>CITADEL: FED POLICY KEEPING TREASURY YIELDS HIGH<br />\n<br />\nCitadel Securities says the Fed’s policy approach is helping keep long-term Treasury yields near multi-decade highs, creating broader market risks.<br />\n<br />\nThe 30-year yield topped 5.28%, its highest in 19 years, despite softer inflation and jobs data.<br />\n<br />\nCitadel warns inflation pressures remain, making the next Fed de",
+      "link": "https://nitter.net/DeItaone/status/2089387518915411997#m",
+      "published": "2026-08-17T16:22:58+00:00",
+      "score": 5
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "REPORT: PENTAGON SEES NO GUARANTEED HORMUZ SOLUTION The Pentagon has reportedly concluded that no current military plan can guarantee safe shipping through the Strait of Hormuz, according to a regional intelligence source cited by Iran’s Press TV. The source claims the assessment has frustrated President Trump as Washington struggles to secure the key oil route. Meanwhile, Iran’s IRGC says it remains fully prepared to respond to any military threat or aggression.",
+      "summary": "<p>REPORT: PENTAGON SEES NO GUARANTEED HORMUZ SOLUTION<br />\n<br />\nThe Pentagon has reportedly concluded that no current military plan can guarantee safe shipping through the Strait of Hormuz, according to a regional intelligence source cited by Iran’s Press TV.<br />\n<br />\nThe source claims the assessment has frustrated President Trump as Washington struggles to secure the key oil route.<br />\n",
+      "link": "https://nitter.net/DeItaone/status/2089387327080616265#m",
+      "published": "2026-08-17T16:22:12+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "British Pound edges higher as traders await UK jobs and CPI data",
@@ -163,6 +280,15 @@
       "link": "https://www.fxstreet.com/news/british-pound-edges-higher-as-traders-await-uk-jobs-cpi-data-202608171604",
       "published": "2026-08-17T16:04:36+00:00",
       "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "SPOT SILVER RISES NEARLY 3% TO $66.54/OZ",
+      "summary": "<p>SPOT SILVER RISES NEARLY 3% TO $66.54/OZ</p>",
+      "link": "https://nitter.net/DeItaone/status/2089374522008801762#m",
+      "published": "2026-08-17T15:31:19+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
@@ -174,21 +300,30 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver accelerates above $66 as Fed expectations shift",
-      "summary": "Silver (XAG/USD) extends its advance on Monday and trades around $66.30 at the time of writing, up 2.47% on the day.",
-      "link": "https://www.fxstreet.com/news/silver-accelerates-above-66-as-fed-expectations-shift-202608171521",
-      "published": "2026-08-17T15:21:51+00:00",
-      "score": 5
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "BTIG WARNS STOCKS FACE SEASONAL PULLBACK BTIG warns U.S. stocks are entering the historically weakest period of midterm election years with valuations stretched and volatility near 2026 lows. Since 1990, the equal-weight S&P 500 has typically suffered at least a 7% August–October pullback in midterm years. BTIG recommends investors reduce risk or hedge equity exposure. Healthcare has historically held up best, while semiconductors are showing technical weakness.",
+      "summary": "<p>BTIG WARNS STOCKS FACE SEASONAL PULLBACK<br />\n<br />\nBTIG warns U.S. stocks are entering the historically weakest period of midterm election years with valuations stretched and volatility near 2026 lows.<br />\n<br />\nSince 1990, the equal-weight S&amp;P 500 has typically suffered at least a 7% August–October pullback in midterm years.<br />\n<br />\nBTIG recommends investors reduce risk or hedge",
+      "link": "https://nitter.net/DeItaone/status/2089369609367384475#m",
+      "published": "2026-08-17T15:11:48+00:00",
+      "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar climbs to two-month highs amid a soft US Dollar",
-      "summary": "AUD/USD extended its recovery on Monday, pushing to fresh 10-week highs and holding near the 0.7100 zone. At the time of writing, the pair is 0.40% up for the day, driven almost entirely by a broadly weak US Dollar (USD) rather than anything positive out of Australia.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-to-two-month-highs-amid-a-soft-us-dollar-202608171520",
-      "published": "2026-08-17T15:20:35+00:00",
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Nvidia, $NVDA, has agreed to provide a more than $100 billion backstop for a massive new OpenAI data center in Ohio, per FT. Details include: 1. Nvidia will provide credit support for the \"land, power and shell\" for the facility capped at $105 billion 2. The data center is being developed alongside a SoftBank-led energy companies 3. Nvidia will also invest $1.5 billion into SB Energy, an energy company founded as part of the SoftBank Group in 2019 4. OpenAI plans to lease as much as 8 gigawatts of AI computing power at the data center in Pike County, Ohio, which will take until 2032 to complete This will mark one of the largest AI infrastructure deals yet.",
+      "summary": "<p>BREAKING: Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, has agreed to provide a more than $100 billion backstop for a massive new OpenAI data center in Ohio, per FT.<br />\n<br />\nDetails include:<br />\n<br />\n1. Nvidia will provide credit support for the \"land, power and shell\" for the facility capped at $105 billion<br />\n<br />\n2. The data center is being devel",
+      "link": "https://nitter.net/KobeissiLetter/status/2089352534439624839#m",
+      "published": "2026-08-17T14:03:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump threatens to bomb Oman if they \"get in the way\" of US efforts to reopen the Strait of Hormuz and end the war with Iran. \"If Oman gets in the way, we'll bomb the s*** out of them,\" President Trump said.",
+      "summary": "<p>BREAKING: President Trump threatens to bomb Oman if they \"get in the way\" of US efforts to reopen the Strait of Hormuz and end the war with Iran.<br />\n<br />\n\"If Oman gets in the way, we'll bomb the s*** out of them,\" President Trump said.</p>",
+      "link": "https://nitter.net/KobeissiLetter/status/2089336693421973858#m",
+      "published": "2026-08-17T13:01:00+00:00",
       "score": 1
     },
     {
@@ -198,6 +333,15 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vqr341/gold_i_still_think_the_move_down_is_not_over/\"> <img alt=\"Gold: I Still Think the Move Down Is Not Over\" src=\"https://preview.redd.it/bx77otozixjh1.png?width=140&amp;height=62&amp;auto=webp&amp;s=1de5ffb56290a186a0feb32985221f97a1eaf042\" title=\"Gold: I Still Think the Move Down Is Not Over\" /> </a> </td><td> <!-- SC_OFF --><",
       "link": "https://www.reddit.com/r/Forex/comments/1vqr341/gold_i_still_think_the_move_down_is_not_over/",
       "published": "2026-08-17T12:34:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: The US and Iran have reportedly agreed to extend their 60-day ceasefire which was set to expire today, per Al Arabiya. Details include: 1. Under the \"Memorandum of Understanding\" brokered by Pakistan, today marks the final day of the Iran War ceasefire 2. President Trump says that a \"backchannel\" is in place with Iran’s Revolutionary Guard officials 3. Despite the supposed extension, there remains no indication of an imminent deal Today marks day 170 of the Iran War.",
+      "summary": "<p>BREAKING: The US and Iran have reportedly agreed to extend their 60-day ceasefire which was set to expire today, per Al Arabiya.<br />\n<br />\nDetails include:<br />\n<br />\n1. Under the \"Memorandum of Understanding\" brokered by Pakistan, today marks the final day of the Iran War ceasefire<br />\n<br />\n2. President Trump says that a \"backchannel\" is in place with Iran’s Revolutionary Guard offici",
+      "link": "https://nitter.net/KobeissiLetter/status/2089327269789495635#m",
+      "published": "2026-08-17T12:23:33+00:00",
       "score": 1
     },
     {
@@ -237,6 +381,24 @@
       "score": 3
     },
     {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "The cost of servicing US debt is the highest in decades: On Thursday, the US government sold $25 billion of 30Y Treasury bonds at a 5.216% yield, the highest auction yield since 2001. This follows a $42 billion auction of 10Y Treasury notes on Wednesday that resulted in a 4.683% yield, the highest since 2007. Previously, on July 9th, the government sold 30Y Treasury bonds at a 5.058% yield, the highest since 2007, highlighting the worsening trend in US debt financing costs. By comparison, yields on the same-maturity Treasury auctions were below 2.00% during the 2020 pandemic. This comes as investors are demanding more compensation to finance the US government's ever-growing deficit. In July, the US Treasury’s budget deficit surged +$141 billion YoY, to $432 billion, the largest July total in history. The US debt crisis is entering uncharted territory.",
+      "summary": "<p>The cost of servicing US debt is the highest in decades:<br />\n<br />\nOn Thursday, the US government sold $25 billion of 30Y Treasury bonds at a 5.216% yield, the highest auction yield since 2001.<br />\n<br />\nThis follows a $42 billion auction of 10Y Treasury notes on Wednesday that resulted in a 4.683% yield, the highest since 2007.<br />\n<br />\nPreviously, on July 9th, the government sold 30",
+      "link": "https://nitter.net/KobeissiLetter/status/2089128940908519580#m",
+      "published": "2026-08-16T23:15:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "US consumers are pulling back on spending: US retail sales dropped -0.6% in July, the largest monthly decrease since May 2025, missing expectations of a +0.1% increase. The biggest drop came from non-store retailers, including Amazon, $AMZN, where sales fell -2.2%, the 2nd-largest decline since July 2021. At the same time, motor vehicle and parts dealer sales fell -1.8%. As a result, retail sales excluding auto fell -0.3%, below the expected +0.2% increase. Meanwhile, control-group sales, which feed into the GDP calculation, plunged -0.4%, the largest monthly decline since January 2025. The measure excludes food services, auto dealers, building materials stores, and gas stations. Americans are becoming more cautious with their spending.",
+      "summary": "<p>US consumers are pulling back on spending:<br />\n<br />\nUS retail sales dropped -0.6% in July, the largest monthly decrease since May 2025, missing expectations of a +0.1% increase.<br />\n<br />\nThe biggest drop came from non-store retailers, including Amazon, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>, where sales fell -2.2%, the 2nd-largest decline since July 2021.<b",
+      "link": "https://nitter.net/KobeissiLetter/status/2089110696868958338#m",
+      "published": "2026-08-16T22:02:58+00:00",
+      "score": 1
+    },
+    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "NZD/USD doux Forex",
@@ -246,6 +408,42 @@
       "score": 1
     },
     {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "The Kobeissi Letter for the week of August 17th has been published and may be viewed through the link below: https://tinyurl.com/TheKobeissiLetter The Chart of the Week for the week of August 17th has been published. View or sign up for FREE through the link below: https://tinyurl.com/TKLChartofWeek",
+      "summary": "<p>The Kobeissi Letter for the week of August 17th has been published and may be viewed through the link below:<br />\n<br />\n<a href=\"https://tinyurl.com/TheKobeissiLetter\">tinyurl.com/TheKobeissiLette…</a><br />\n<br />\nThe Chart of the Week for the week of August 17th has been published. View or sign up for FREE through the link below:<br />\n<br />\n<a href=\"https://tinyurl.com/TKLChartofWeek\">tin",
+      "link": "https://nitter.net/KobeissiLetter/status/2089057100458512584#m",
+      "published": "2026-08-16T18:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: US retail money market fund assets jumped +$202 billion YoY in June, to a record $3.05 trillion. Since 2022, retail money market fund assets have more than tripled. This is also twice as large as the peak recorded following the 2020 pandemic. Retail money market fund assets have grown at a +14% compounded annual growth rate (CAGR) since the start of 2019. The average money market fund yield is currently 3.57%, according to the Crane 100 Money Fund Index, which tracks the 100 largest money market funds. Retail is taking advantage of elevated risk-free yields.",
+      "summary": "<p>BREAKING: US retail money market fund assets jumped +$202 billion YoY in June, to a record $3.05 trillion.<br />\n<br />\nSince 2022, retail money market fund assets have more than tripled.<br />\n<br />\nThis is also twice as large as the peak recorded following the 2020 pandemic.<br />\n<br />\nRetail money market fund assets have grown at a +14% compounded annual growth rate (CAGR) since the start",
+      "link": "https://nitter.net/KobeissiLetter/status/2089049299141394843#m",
+      "published": "2026-08-16T17:59:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "Americans are concerned about inflation. Only 8% of US consumers expect their income to grow faster than inflation over the next year, the lowest proportion in at least 2 years. This figure has declined -10 percentage points since November 2024. At the same time, 20% anticipate their income to grow at roughly the same pace as inflation, near the lowest proportion since at least July 2024. This means 72% of consumers expect inflation to outpace their income over the next year, the highest reading in at least 2 years. By comparison, this figure stood at 58% in November 2024. Americans are extremely pessimistic about their real purchasing power.",
+      "summary": "<p>Americans are concerned about inflation.<br />\n<br />\nOnly 8% of US consumers expect their income to grow faster than inflation over the next year, the lowest proportion in at least 2 years.<br />\n<br />\nThis figure has declined -10 percentage points since November 2024.<br />\n<br />\nAt the same time, 20% anticipate their income to grow at roughly the same pace as inflation, near the lowest pro",
+      "link": "https://nitter.net/KobeissiLetter/status/2089012120708878363#m",
+      "published": "2026-08-16T15:31:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "Key Events This Week: 1. July Housing Starts data - Tuesday 2. July Pending Home Sales data - Tuesday 3. Fed Meeting Minutes - Wednesday 4. August Philly Fed Manufacturing Index - Thursday 5. August S&P Global Services PMI data - Friday 6. August S&P Global Manufacturing PMI data - Friday The S&P 500 is now up +13.5% year-to-date.",
+      "summary": "<p>Key Events This Week:<br />\n<br />\n1. July Housing Starts data - Tuesday<br />\n<br />\n2. July Pending Home Sales data - Tuesday<br />\n<br />\n3. Fed Meeting Minutes - Wednesday<br />\n<br />\n4. August Philly Fed Manufacturing Index - Thursday<br />\n<br />\n5. August S&amp;P Global Services PMI data - Friday<br />\n<br />\n6. August S&amp;P Global Manufacturing PMI data - Friday<br />\n<br />\nThe S&am",
+      "link": "https://nitter.net/KobeissiLetter/status/2088993205899428241#m",
+      "published": "2026-08-16T14:16:06+00:00",
+      "score": 2
+    },
+    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gold at 4377 — Breakdown or Bounce From Here? 👀",
@@ -253,6 +451,15 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vpt790/gold_at_4377_breakdown_or_bounce_from_here/",
       "published": "2026-08-16T10:07:40+00:00",
       "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "The US Treasury's reliance on short-term debt is rising: US Treasury bills currently account for ~21% of marketable Treasury securities, near the highest since 2020, when federal borrowing surged during the pandemic response. This is well above the 10-15% range seen from 2012 to 2019. By comparison, the peak during the 2008 Financial Crisis was ~34%. This comes as the US government has increasingly relied on T-bills, rather than longer-term notes and bonds, to fund its growing borrowing needs. If the Treasury keeps issuing longer-dated debt at the current pace through FY2027, T-bills could account for ~25% of total debt, the highest since 2004, excluding 2008 and 2020. However, this approach increases the government's exposure to short-term rate swings, making debt-servicing costs more vulnerable if interest rates remain elevated or rise again. The US debt crisis is in full swing.",
+      "summary": "<p>The US Treasury's reliance on short-term debt is rising:<br />\n<br />\nUS Treasury bills currently account for ~21% of marketable Treasury securities, near the highest since 2020, when federal borrowing surged during the pandemic response.<br />\n<br />\nThis is well above the 10-15% range seen from 2012 to 2019.<br />\n<br />\nBy comparison, the peak during the 2008 Financial Crisis was ~34%.<br />",
+      "link": "https://nitter.net/KobeissiLetter/status/2088796634415345725#m",
+      "published": "2026-08-16T01:15:00+00:00",
+      "score": 2
     },
     {
       "source": "r/Forex",
@@ -426,11 +633,5 @@
       "score": 1
     }
   ],
-  "errors": [
-    {
-      "source": "Kobeissi Letter",
-      "type": "twitter",
-      "error": "failed to parse feed (text/html;charset=utf-8 is not an XML media type)"
-    }
-  ]
+  "errors": []
 }
