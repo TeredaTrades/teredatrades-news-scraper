@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-17T15:30:47.409840+00:00",
-  "count": 71,
+  "updated_at": "2026-08-17T15:59:39.423592+00:00",
+  "count": 62,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 6-Month Bill Auction",
+      "summary": "<div><ul><li>High Yield 3.780%</li><li>Bid-to-cover 2.97</li><li>US sells $79 bln</li><li>Awards 18.55% of bids at high</li></ul></div>",
+      "link": "https://www.financialjuice.com/News/9724434/US-6-Month-Bill-Auction.aspx?xy=rss",
+      "published": "2026-08-17T15:33:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 3-Month Bill Auction",
+      "summary": "<div><ul><li>High Yield 3.715%</li><li>Bid-to-cover 2.86</li><li>US sells $92 bln</li><li>Awards 44.68% of bids at high</li></ul></div>",
+      "link": "https://www.financialjuice.com/News/9724433/US-3-Month-Bill-Auction.aspx?xy=rss",
+      "published": "2026-08-17T15:32:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 6-Month Bill High Yield Actual 3.78% (Forecast -, Previous 3.830%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9724413/US-6-Month-Bill-High-Yield-Actual-378-Forecast---Previous-3830.aspx?xy=rss",
+      "published": "2026-08-17T15:32:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 3-Month Bill High Yield Actual 3.715% (Forecast -, Previous 3.735%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9724412/US-3-Month-Bill-High-Yield-Actual-3715-Forecast---Previous-3735.aspx?xy=rss",
+      "published": "2026-08-17T15:32:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "SPOT SILVER RISES NEARLY 3% TO $66.54/OZ",
+      "summary": "<p>SPOT SILVER RISES NEARLY 3% TO $66.54/OZ</p>",
+      "link": "https://nitter.net/DeItaone/status/2089374522008801762#m",
+      "published": "2026-08-17T15:31:19+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -165,15 +210,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Wells Fargo Investment Institute cuts gold's 2026 year-end target range to $4,900-$5,100 per ounce from prior forecast of $5,300-$5,500 per ounce.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724273/Wells-Fargo-Investment-Institute-cuts-golds-2026-year-end-target-range-to-4900-5100-per-ounce-from-prior-forecast-of-5300-5500-per-ounce.aspx",
-      "published": "2026-08-17T13:33:04+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "WELLS FARGO CUTS GOLD TARGETS Wells Fargo Investment Institute lowered its 2026 year-end gold target to $4,900–$5,100/oz, from $5,300–$5,500. Its 2027 target was also cut to $5,400–$5,600, from $5,800–$6,000. Despite the reductions, Wells Fargo still expects gold prices to rise over the longer term.",
@@ -192,30 +228,12 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: -314 mln<br />Nasdaq 100: -16 mln<br />Dow 30: -98 mln<br />Mag 7: -9 mln",
-      "link": "https://www.financialjuice.com/News/9724268/MOO-Imbalance.aspx",
-      "published": "2026-08-17T13:30:36+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "WELLS FARGO NOW SEES FED HIKES Wells Fargo Investment Institute now expects the Fed to raise rates by 25 bps in 2026, reversing its previous forecast for no change. It also expects another 25-bp hike in 2027, taking the federal funds rate to 4.00%–4.25%. The shift marks a more hawkish outlook for U.S. monetary policy over the next 18 months.",
       "summary": "<p>WELLS FARGO NOW SEES FED HIKES<br />\n<br />\nWells Fargo Investment Institute now expects the Fed to raise rates by 25 bps in 2026, reversing its previous forecast for no change.<br />\n<br />\nIt also expects another 25-bp hike in 2027, taking the federal funds rate to 4.00%–4.25%.<br />\n<br />\nThe shift marks a more hawkish outlook for U.S. monetary policy over the next 18 months.</p>",
       "link": "https://nitter.net/DeItaone/status/2089342928787329349#m",
       "published": "2026-08-17T13:25:46+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Wells Fargo Investment Institute expects the US Fed to hike rates by 25 bps in 2027, taking the benchmark rate to 4.00%-4.25% vs. the prior forecast of rates unchanged",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724262/Wells-Fargo-Investment-Institute-expects-the-US-Fed-to-hike-rates-by-25-bps-in-2027-taking-the-benchmark-rate-to-400-425-vs-the-prior-forecast-of-rates-unchanged.aspx",
-      "published": "2026-08-17T13:25:09+00:00",
       "score": 2
     },
     {
@@ -228,15 +246,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Wells Fargo Investment Institute expects US Fed to hike rates by 25 bps this year, vs. the prior forecast of rates unchanged",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724261/Wells-Fargo-Investment-Institute-expects-US-Fed-to-hike-rates-by-25-bps-this-year-vs-the-prior-forecast-of-rates-unchanged.aspx",
-      "published": "2026-08-17T13:23:11+00:00",
-      "score": 2
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "S&P 500 REVENUE GROWTH HITS 5-YEAR HIGH Goldman Sachs says S&P 500 revenues grew 6.4% YoY in Q2, excluding energy — the fastest pace in five years. Big Tech led the growth, while median S&P 500 revenue excluding tech rose just 3%. Corporate earnings jumped nearly 50% YoY, partly driven by tech firms marking up private investments. Meanwhile, companies received over $100B in tariff refunds, using the windfall for marketing, cost relief and lower customer prices.",
@@ -244,15 +253,6 @@
       "link": "https://nitter.net/DeItaone/status/2089337449759555813#m",
       "published": "2026-08-17T13:04:00+00:00",
       "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "US 30-YEAR TREASURY YIELDS REACH 5.29%, HIGHEST SINCE 2007",
-      "summary": "<p>US 30-YEAR TREASURY YIELDS REACH 5.29%, HIGHEST SINCE 2007</p>",
-      "link": "https://nitter.net/DeItaone/status/2089336797079716321#m",
-      "published": "2026-08-17T13:01:25+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -270,15 +270,6 @@
       "summary": "<p>BREAKING: President Trump threatens to bomb Oman if they \"get in the way\" of US efforts to reopen the Strait of Hormuz and end the war with Iran.<br />\n<br />\n\"If Oman gets in the way, we'll bomb the s*** out of them,\" President Trump said.</p>",
       "link": "https://nitter.net/KobeissiLetter/status/2089336693421973858#m",
       "published": "2026-08-17T13:01:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gold: I Still Think the Move Down Is Not Over",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vqr341/gold_i_still_think_the_move_down_is_not_over/\"> <img alt=\"Gold: I Still Think the Move Down Is Not Over\" src=\"https://preview.redd.it/bx77otozixjh1.png?width=140&amp;height=62&amp;auto=webp&amp;s=1de5ffb56290a186a0feb32985221f97a1eaf042\" title=\"Gold: I Still Think the Move Down Is Not Over\" /> </a> </td><td> <!-- SC_OFF --><",
-      "link": "https://www.reddit.com/r/Forex/comments/1vqr341/gold_i_still_think_the_move_down_is_not_over/",
-      "published": "2026-08-17T12:34:22+00:00",
       "score": 1
     },
     {
@@ -320,29 +311,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold holds near $4,400 as fading Fed rate hike bets weigh on US Dollar",
-      "summary": "Gold (XAU/USD) struggles to build on its intraday advance even as the US Dollar (USD) remains under selling pressure amid fading expectations that the Federal Reserve (Fed) will raise interest rates at its September meeting.",
+      "title": "Gold strengthens above $4,400 as Fed rate-hike expectations fade",
+      "summary": "Gold (XAU/USD) extends its intraday advance on Monday, supported by fading expectations that the Federal Reserve (Fed) will raise interest rates at its September meeting, while the US Dollar (USD) remains on the back foot. At the time of writing, XAU/USD trades around $4,425, up 1.11% on the day.",
       "link": "https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128",
       "published": "2026-08-17T11:28:11+00:00",
       "score": 5
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "I just cracked gold.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vqmap9/i_just_cracked_gold/\"> <img alt=\"I just cracked gold.\" src=\"https://preview.redd.it/qnlck4ft8wjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4bbb63d77e87803c23069a0a47ebfa36e38252ad\" title=\"I just cracked gold.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>XAUUSD — CRT + Price Action</strong></p> <p>The ",
-      "link": "https://www.reddit.com/r/Forex/comments/1vqmap9/i_just_cracked_gold/",
-      "published": "2026-08-17T08:18:58+00:00",
-      "score": 4
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "GBPUSD looking strong, what are your thoughts?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vqm5tn/gbpusd_looking_strong_what_are_your_thoughts/\"> <img alt=\"GBPUSD looking strong, what are your thoughts?\" src=\"https://preview.redd.it/0ey9v12g8wjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a44b1e835df75c5870d3abacc5368016f1d4cda1\" title=\"GBPUSD looking strong, what are your thoughts?\" /> </a> </td><td> <!-- SC_OFF ",
-      "link": "https://www.reddit.com/r/Forex/comments/1vqm5tn/gbpusd_looking_strong_what_are_your_thoughts/",
-      "published": "2026-08-17T08:10:54+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -352,15 +325,6 @@
       "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-rising-inflation-in-july-202608170730",
       "published": "2026-08-17T07:30:00+00:00",
       "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "XAU/USD bulls in charge. Bears will get crushed.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vqje88/xauusd_bulls_in_charge_bears_will_get_crushed/\"> <img alt=\"XAU/USD bulls in charge. Bears will get crushed.\" src=\"https://preview.redd.it/udc0vjdtfvjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09d871ae70fcee2ee2b5a1fa984f9b9390d47cba\" title=\"XAU/USD bulls in charge. Bears will get crushed.\" /> </a> </td><td> &#32; s",
-      "link": "https://www.reddit.com/r/Forex/comments/1vqje88/xauusd_bulls_in_charge_bears_will_get_crushed/",
-      "published": "2026-08-17T05:31:24+00:00",
-      "score": 3
     },
     {
       "source": "Kobeissi Letter",
@@ -378,15 +342,6 @@
       "summary": "<p>US consumers are pulling back on spending:<br />\n<br />\nUS retail sales dropped -0.6% in July, the largest monthly decrease since May 2025, missing expectations of a +0.1% increase.<br />\n<br />\nThe biggest drop came from non-store retailers, including Amazon, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>, where sales fell -2.2%, the 2nd-largest decline since July 2021.<b",
       "link": "https://nitter.net/KobeissiLetter/status/2089110696868958338#m",
       "published": "2026-08-16T22:02:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "NZD/USD doux Forex",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vq603i/nzdusd_doux_forex/\"> <img alt=\"NZD/USD doux Forex\" src=\"https://preview.redd.it/fg04alg5fsjh1.jpg?width=140&amp;height=63&amp;auto=webp&amp;s=789c919434187da7bbe7ecb17c0504859b3533bf\" title=\"NZD/USD doux Forex\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Après le hit du Tp1 ( inducement mineur H1 ) est ce que les nou",
-      "link": "https://www.reddit.com/r/Forex/comments/1vq603i/nzdusd_doux_forex/",
-      "published": "2026-08-16T19:21:23+00:00",
       "score": 1
     },
     {
@@ -426,15 +381,6 @@
       "score": 2
     },
     {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gold at 4377 — Breakdown or Bounce From Here? 👀",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vpt790/gold_at_4377_breakdown_or_bounce_from_here/\"> <img alt=\"Gold at 4377 — Breakdown or Bounce From Here? 👀\" src=\"https://preview.redd.it/5or0kz2dopjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=da9bad04f63f7bd72093bf2c8b184c93727d6f7b\" title=\"Gold at 4377 — Breakdown or Bounce From Here? 👀\" /> </a> </td><td> <!-- SC_OFF ",
-      "link": "https://www.reddit.com/r/Forex/comments/1vpt790/gold_at_4377_breakdown_or_bounce_from_here/",
-      "published": "2026-08-16T10:07:40+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "The US Treasury's reliance on short-term debt is rising: US Treasury bills currently account for ~21% of marketable Treasury securities, near the highest since 2020, when federal borrowing surged during the pandemic response. This is well above the 10-15% range seen from 2012 to 2019. By comparison, the peak during the 2008 Financial Crisis was ~34%. This comes as the US government has increasingly relied on T-bills, rather than longer-term notes and bonds, to fund its growing borrowing needs. If the Treasury keeps issuing longer-dated debt at the current pace through FY2027, T-bills could account for ~25% of total debt, the highest since 2004, excluding 2008 and 2020. However, this approach increases the government's exposure to short-term rate swings, making debt-servicing costs more vulnerable if interest rates remain elevated or rise again. The US debt crisis is in full swing.",
@@ -460,33 +406,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2088717110340149514#m",
       "published": "2026-08-15T19:59:00+00:00",
       "score": 4
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The copper market is facing a severe supply squeeze: The LME’s front-month copper spread surged to a $370 per ton premium on Friday, the widest one-month spread since the 2021 supply squeeze. This means traders are paying a historic premium for copper available in the near term versus delivery a month later, signaling that physical supply is extremely tight. At the same time, the widely followed cash-to-three-month spread rose to $434 per ton, also the highest since 2021, prompting the LME to tighten its market controls. This comes as LME copper stockpiles have fallen for 42 consecutive days, the longest streak since 2014, to 204,975 tons, with nearly half of the remaining metal already scheduled for withdrawal. All while traders and producers are redirecting copper to the US, where expectations of tariffs on refined copper are pushing prices above LME levels and creating arbitrage opportunities. The supply crunch in the copper market is far from over.",
-      "summary": "<p>The copper market is facing a severe supply squeeze:<br />\n<br />\nThe LME’s front-month copper spread surged to a $370 per ton premium on Friday, the widest one-month spread since the 2021 supply squeeze.<br />\n<br />\nThis means traders are paying a historic premium for copper available in the near term versus delivery a month later, signaling that physical supply is extremely tight.<br />\n<br ",
-      "link": "https://nitter.net/KobeissiLetter/status/2088683488429932645#m",
-      "published": "2026-08-15T17:45:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Monday Gold Outlook: Bullish or Bearish Around 4400? 👀",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vp07aj/monday_gold_outlook_bullish_or_bearish_around_4400/\"> <img alt=\"Monday Gold Outlook: Bullish or Bearish Around 4400? 👀\" src=\"https://preview.redd.it/zql30ytpvijh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba05f8f0dbdefd23d7843acec5119eafbe974e5f\" title=\"Monday Gold Outlook: Bullish or Bearish Around 4400? 👀\" /> </a> ",
-      "link": "https://www.reddit.com/r/Forex/comments/1vp07aj/monday_gold_outlook_bullish_or_bearish_around_4400/",
-      "published": "2026-08-15T11:16:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "EURUSD TRADE",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vot2v5/eurusd_trade/\"> <img alt=\"EURUSD TRADE\" src=\"https://preview.redd.it/ljaugqc4ugjh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=32d952cfeb1ef4285986db13dd1200e7578fd565\" title=\"EURUSD TRADE\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Wonderful move</p> </div><!-- SC_ON --> &#32; submitted by &",
-      "link": "https://www.reddit.com/r/Forex/comments/1vot2v5/eurusd_trade/",
-      "published": "2026-08-15T04:23:56+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
