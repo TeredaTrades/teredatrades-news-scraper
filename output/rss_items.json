@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-17T14:29:49.672152+00:00",
-  "count": 64,
+  "updated_at": "2026-08-17T14:56:33.243561+00:00",
+  "count": 73,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Faces renewed downside risk – Commerzbank",
+      "summary": "Commerzbank’s Volkmar Baur notes that the US Dollar (USD) has weakened against the Euro (EUR) as markets steadily scale back expectations for further Federal Reserve (Fed) tightening relative to other G10 central banks.",
+      "link": "https://www.fxstreet.com/news/us-dollar-faces-renewed-downside-risk-commerzbank-202608171435",
+      "published": "2026-08-17T14:35:55+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -10,6 +19,24 @@
       "link": "https://www.fxstreet.com/news/gold-investors-extend-longs-but-hedge-risks-td-securities-202608171423",
       "published": "2026-08-17T14:23:04+00:00",
       "score": 5
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "SPOT GOLD RISES 1% TO $4,419.79/OZ",
+      "summary": "<p>SPOT GOLD RISES 1% TO $4,419.79/OZ</p>",
+      "link": "https://nitter.net/DeItaone/status/2089357134811017495#m",
+      "published": "2026-08-17T14:22:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ECB WARNS AI BOOM COULD END IN CORRECTION ECB economists warn stock-market valuations may be heading for a correction as enthusiasm around AI pushes tech valuations toward dot-com bubble levels. Unlike the early 2000s, policymakers have less room to cut rates or deploy fiscal stimulus if markets fall sharply. The ECB says Europe is particularly exposed through investments in the U.S. Magnificent Seven and elevated valuations across European equities.",
+      "summary": "<p>ECB WARNS AI BOOM COULD END IN CORRECTION<br />\n<br />\nECB economists warn stock-market valuations may be heading for a correction as enthusiasm around AI pushes tech valuations toward dot-com bubble levels.<br />\n<br />\nUnlike the early 2000s, policymakers have less room to cut rates or deploy fiscal stimulus if markets fall sharply.<br />\n<br />\nThe ECB says Europe is particularly exposed thr",
+      "link": "https://nitter.net/DeItaone/status/2089355529986474325#m",
+      "published": "2026-08-17T14:15:51+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
@@ -39,6 +66,24 @@
       "score": 2
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AMZN - MORGAN STANLEY SEES AMAZON AT $500 Morgan Stanley says Amazon (AMZN) could hit $500 by end-2027 if AWS growth accelerates, nearly doubling from current levels. The bull case depends on AWS eventually reaching $1T in annual revenue, fueled by AI compute demand and expanding capacity. Amazon recently raised its 2026 AI spending forecast to $220B. Morgan Stanley’s base-case target remains $335, implying roughly 28% upside.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>  - MORGAN STANLEY SEES AMAZON AT $500<br />\n<br />\nMorgan Stanley says Amazon (AMZN) could hit $500 by end-2027 if AWS growth accelerates, nearly doubling from current levels.<br />\n<br />\nThe bull case depends on AWS eventually reaching $1T in annual revenue, fueled by AI compute demand and expanding capacity.<br />\n<br />\nAm",
+      "link": "https://nitter.net/DeItaone/status/2089351526103896338#m",
+      "published": "2026-08-17T13:59:56+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$NVDA - NVIDIA TO INVEST $100BN FOR OPENAI DATA CENTRE IN OHIO - FT",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>  -  NVIDIA TO INVEST $100BN FOR OPENAI DATA CENTRE IN OHIO - FT</p>",
+      "link": "https://nitter.net/DeItaone/status/2089351453655642588#m",
+      "published": "2026-08-17T13:59:39+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "Japanese Yen: Policy doubts weigh on Yen – BNY",
@@ -66,6 +111,15 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "WELLS FARGO CUTS GOLD TARGETS Wells Fargo Investment Institute lowered its 2026 year-end gold target to $4,900–$5,100/oz, from $5,300–$5,500. Its 2027 target was also cut to $5,400–$5,600, from $5,800–$6,000. Despite the reductions, Wells Fargo still expects gold prices to rise over the longer term.",
+      "summary": "<p>WELLS FARGO CUTS GOLD TARGETS<br />\n<br />\nWells Fargo Investment Institute lowered its 2026 year-end gold target to $4,900–$5,100/oz, from $5,300–$5,500.<br />\n<br />\nIts 2027 target was also cut to $5,400–$5,600, from $5,800–$6,000.<br />\n<br />\nDespite the reductions, Wells Fargo still expects gold prices to rise over the longer term.</p>",
+      "link": "https://nitter.net/DeItaone/status/2089344608534671371#m",
+      "published": "2026-08-17T13:32:27+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "Canadian Dollar struggles against Euro as inflation accelerates to 3%",
@@ -84,12 +138,30 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "WELLS FARGO NOW SEES FED HIKES Wells Fargo Investment Institute now expects the Fed to raise rates by 25 bps in 2026, reversing its previous forecast for no change. It also expects another 25-bp hike in 2027, taking the federal funds rate to 4.00%–4.25%. The shift marks a more hawkish outlook for U.S. monetary policy over the next 18 months.",
+      "summary": "<p>WELLS FARGO NOW SEES FED HIKES<br />\n<br />\nWells Fargo Investment Institute now expects the Fed to raise rates by 25 bps in 2026, reversing its previous forecast for no change.<br />\n<br />\nIt also expects another 25-bp hike in 2027, taking the federal funds rate to 4.00%–4.25%.<br />\n<br />\nThe shift marks a more hawkish outlook for U.S. monetary policy over the next 18 months.</p>",
+      "link": "https://nitter.net/DeItaone/status/2089342928787329349#m",
+      "published": "2026-08-17T13:25:46+00:00",
+      "score": 2
+    },
+    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Wells Fargo Investment Institute expects the US Fed to hike rates by 25 bps in 2027, taking the benchmark rate to 4.00%-4.25% vs. the prior forecast of rates unchanged",
       "summary": "",
       "link": "https://www.financialjuice.com/News/9724262/Wells-Fargo-Investment-Institute-expects-the-US-Fed-to-hike-rates-by-25-bps-in-2027-taking-the-benchmark-rate-to-400-425-vs-the-prior-forecast-of-rates-unchanged.aspx?xy=rss",
       "published": "2026-08-17T13:25:09+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "EVERCORE: S&P 500 COULD HIT 9,000 Evercore ISI strategist Julian Emanuel says the S&P 500 could reach 9,000 within 12 months, implying roughly 16% upside from current levels. He argues traditional bull-market killers — recession, surging long-term yields and extreme investor FOMO — are not yet evident. Emanuel also sees further upside from the AI boom, low corporate leverage and diversified investor positioning. His base-case S&P 500 target remains 7,750.",
+      "summary": "<p>EVERCORE: S&amp;P 500 COULD HIT 9,000<br />\n<br />\nEvercore ISI strategist Julian Emanuel says the S&amp;P 500 could reach 9,000 within 12 months, implying roughly 16% upside from current levels.<br />\n<br />\nHe argues traditional bull-market killers — recession, surging long-term yields and extreme investor FOMO — are not yet evident.<br />\n<br />\nEmanuel also sees further upside from the AI b",
+      "link": "https://nitter.net/DeItaone/status/2089342549332816382#m",
+      "published": "2026-08-17T13:24:16+00:00",
       "score": 2
     },
     {
@@ -111,6 +183,15 @@
       "score": 3
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "S&P 500 REVENUE GROWTH HITS 5-YEAR HIGH Goldman Sachs says S&P 500 revenues grew 6.4% YoY in Q2, excluding energy — the fastest pace in five years. Big Tech led the growth, while median S&P 500 revenue excluding tech rose just 3%. Corporate earnings jumped nearly 50% YoY, partly driven by tech firms marking up private investments. Meanwhile, companies received over $100B in tariff refunds, using the windfall for marketing, cost relief and lower customer prices.",
+      "summary": "<p>S&amp;P 500 REVENUE GROWTH HITS 5-YEAR HIGH<br />\n<br />\nGoldman Sachs says S&amp;P 500 revenues grew 6.4% YoY in Q2, excluding energy — the fastest pace in five years.<br />\n<br />\nBig Tech led the growth, while median S&amp;P 500 revenue excluding tech rose just 3%.<br />\n<br />\nCorporate earnings jumped nearly 50% YoY, partly driven by tech firms marking up private investments.<br />\n<br />\n",
+      "link": "https://nitter.net/DeItaone/status/2089337449759555813#m",
+      "published": "2026-08-17T13:04:00+00:00",
+      "score": 2
+    },
+    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: BofA: AI Capex Remains a Tailwind for US Growth - FJElite",
@@ -129,6 +210,15 @@
       "score": 3
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "US 30-YEAR TREASURY YIELDS REACH 5.29%, HIGHEST SINCE 2007",
+      "summary": "<p>US 30-YEAR TREASURY YIELDS REACH 5.29%, HIGHEST SINCE 2007</p>",
+      "link": "https://nitter.net/DeItaone/status/2089336797079716321#m",
+      "published": "2026-08-17T13:01:25+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "New Zealand Dollar hits two-month high as US Dollar weakness offsets softer China data",
@@ -144,6 +234,15 @@
       "summary": "<p>BREAKING: President Trump threatens to bomb Oman if they \"get in the way\" of US efforts to reopen the Strait of Hormuz and end the war with Iran.<br />\n<br />\n\"If Oman gets in the way, we'll bomb the s*** out of them,\" President Trump said.</p>",
       "link": "https://nitter.net/KobeissiLetter/status/2089336693421973858#m",
       "published": "2026-08-17T13:01:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "IRGC DENIES TRUMP’S BACKCHANNEL CLAIM Iran’s IRGC has denied President Trump’s claim that U.S. officials are holding secret backchannel talks with the group. An IRGC spokesperson called the claim “a lie”, insisting no negotiations with Washington are taking place. The spokesperson said diplomacy falls under Iran’s Foreign Ministry, which also reportedly denies current U.S. talks. The IRGC accused Trump of making the claim to calm global oil and energy prices amid the ongoing conflict.",
+      "summary": "<p>IRGC DENIES TRUMP’S BACKCHANNEL CLAIM<br />\n<br />\nIran’s IRGC has denied President Trump’s claim that U.S. officials are holding secret backchannel talks with the group.<br />\n<br />\nAn IRGC spokesperson called the claim “a lie”, insisting no negotiations with Washington are taking place.<br />\n<br />\nThe spokesperson said diplomacy falls under Iran’s Foreign Ministry, which also reportedly de",
+      "link": "https://nitter.net/DeItaone/status/2089336474172891352#m",
+      "published": "2026-08-17T13:00:08+00:00",
       "score": 1
     },
     {
@@ -165,21 +264,21 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: NVIDIA: OpenAI will pay the lease.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724202/NVIDIA-OpenAI-will-pay-the-lease.aspx?xy=rss",
-      "published": "2026-08-17T12:44:09+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FRANCE’S 10-YEAR GOVERNMENT BOND YIELD HITS HIGHEST SINCE JUNE 2009 AT 4.0516%, UP ONE BP",
+      "summary": "<p>FRANCE’S 10-YEAR GOVERNMENT BOND YIELD HITS HIGHEST SINCE JUNE 2009 AT 4.0516%, UP ONE BP</p>\n<hr />\n<blockquote>\n<b>*Walter Bloomberg (@DeItaone)</b>\n<p>\n<p>GERMANY'S 10-YEAR GOVERNMENT BOND YIELDS HIT HIGHEST SINCE MAY 2011 AT 3.2138%, UP 1.5 BPS</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/DeItaone/status/2089330324295586268#m\">https://nitter.net/DeItaone/status/2089330324295586268",
+      "link": "https://nitter.net/DeItaone/status/2089331548831039504#m",
+      "published": "2026-08-17T12:40:33+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia: OpenAI committed to substantial deployments of Nvidia AI infrastructure through 2030",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724200/Nvidia-OpenAI-committed-to-substantial-deployments-of-Nvidia-AI-infrastructure-through-2030.aspx?xy=rss",
-      "published": "2026-08-17T12:40:44+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "GERMANY'S 10-YEAR GOVERNMENT BOND YIELDS HIT HIGHEST SINCE MAY 2011 AT 3.2138%, UP 1.5 BPS",
+      "summary": "<p>GERMANY'S 10-YEAR GOVERNMENT BOND YIELDS HIT HIGHEST SINCE MAY 2011 AT 3.2138%, UP 1.5 BPS</p>",
+      "link": "https://nitter.net/DeItaone/status/2089330324295586268#m",
+      "published": "2026-08-17T12:35:41+00:00",
       "score": 1
     },
     {
@@ -239,29 +338,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Japanese Yen: Intervention risk near 160 highlighted – DBS",
-      "summary": "Philip Wee of DBS Group Research notes that markets still focus on Japan’s struggle to support the Japanese Yen, while underplaying broader USD implications.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-near-160-highlighted-dbs-202608171138",
-      "published": "2026-08-17T11:38:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Gold holds near $4,400 as fading Fed rate hike bets weigh on US Dollar",
       "summary": "Gold (XAU/USD) struggles to build on its intraday advance even as the US Dollar (USD) remains under selling pressure amid fading expectations that the Federal Reserve (Fed) will raise interest rates at its September meeting.",
       "link": "https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128",
       "published": "2026-08-17T11:28:11+00:00",
       "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar gains ground with inflation data set to test BoC outlook",
-      "summary": "USD/CAD trades around 1.3860 on Monday at the time of writing, down 0.11% on the day. The pair extends its decline as the US Dollar (USD) remains under pressure against the Canadian Dollar (CAD), with investors scaling back expectations of further monetary tightening by the Federal Reserve (Fed).",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-ground-with-inflation-data-set-to-test-boc-outlook-202608171127",
-      "published": "2026-08-17T11:27:55+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
