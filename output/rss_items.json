@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-17T13:53:15.005712+00:00",
-  "count": 61,
+  "updated_at": "2026-08-17T14:29:49.672152+00:00",
+  "count": 64,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Investors extend longs but hedge risks – TD Securities",
+      "summary": "TD Securities strategists note that money managers sharply increased long Gold exposure as modest inflation, soft United States (US) employment data and expectations that the Federal Reserve (Fed) will not hike rates this year weigh on the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/gold-investors-extend-longs-but-hedge-risks-td-securities-202608171423",
+      "published": "2026-08-17T14:23:04+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Bullish momentum eyes mid‑1.17s against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report the Euro (EUR) is firming as Eurozone economic resilience and narrowing yield spreads versus the US support EUR/USD.",
+      "link": "https://www.fxstreet.com/news/euro-bullish-momentum-eyes-mid-117s-against-us-dollar-scotiabank-202608171411",
+      "published": "2026-08-17T14:11:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Nvidia, $NVDA, has agreed to provide a more than $100 billion backstop for a massive new OpenAI data center in Ohio, per FT. Details include: 1. Nvidia will provide credit support for the \"land, power and shell\" for the facility capped at $105 billion 2. The data center is being developed alongside a SoftBank-led energy companies 3. Nvidia will also invest $1.5 billion into SB Energy, an energy company founded as part of the SoftBank Group in 2019 4. OpenAI plans to lease as much as 8 gigawatts of AI computing power at the data center in Pike County, Ohio, which will take until 2032 to complete This will mark one of the largest AI infrastructure deals yet.",
+      "summary": "<p>BREAKING: Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, has agreed to provide a more than $100 billion backstop for a massive new OpenAI data center in Ohio, per FT.<br />\n<br />\nDetails include:<br />\n<br />\n1. Nvidia will provide credit support for the \"land, power and shell\" for the facility capped at $105 billion<br />\n<br />\n2. The data center is being devel",
+      "link": "https://nitter.net/KobeissiLetter/status/2089352534439624839#m",
+      "published": "2026-08-17T14:03:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Inflation steady near target – RBC",
+      "summary": "Royal Bank of Canada (RBC) economists Abbey Xu and Nathan Janzen note that Canadian inflation rose to 3% year-over-year in July, mainly on higher energy costs, while underlying measures like CPI-trim and CPI-median stayed near the 2% target.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-inflation-steady-near-target-rbc-202608171400",
+      "published": "2026-08-17T14:00:52+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -15,7 +51,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Canadian Dollar firms after hotter-than-expected inflation data",
-      "summary": "USD/CAD falls to its lowest level since June 3 on Monday as the US Dollar (USD) stays under pressure, while hotter-than-expected Canadian inflation data provide additional support to the Canadian Dollar (CAD). At the time of writing, the pair trades around 1.3852.",
+      "summary": "USD/CAD falls to its lowest level since June 3 on Monday as the US Dollar (USD) stays under pressure, while hotter-than-expected Canadian inflation data provided additional support to the Canadian Dollar (CAD). At the time of writing, the pair trades around 1.3852.",
       "link": "https://www.fxstreet.com/news/canadian-dollar-firms-after-hotter-than-expected-inflation-data-202608171338",
       "published": "2026-08-17T13:38:39+00:00",
       "score": 2
@@ -213,7 +249,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Gold holds near $4,400 as fading Fed rate hike bets weigh on US Dollar",
-      "summary": "Gold (XAU/USD) struggles to build on its intraday advance on Monday but holds modest gains as the US Dollar (USD) remains under selling pressure amid fading expectations that the Federal Reserve (Fed) will raise interest rates at its September meeting.",
+      "summary": "Gold (XAU/USD) struggles to build on its intraday advance even as the US Dollar (USD) remains under selling pressure amid fading expectations that the Federal Reserve (Fed) will raise interest rates at its September meeting.",
       "link": "https://www.fxstreet.com/news/gold-holds-near-4-400-as-fading-fed-rate-hike-bets-weigh-on-us-dollar-202608171128",
       "published": "2026-08-17T11:28:11+00:00",
       "score": 5
@@ -226,15 +262,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-gains-ground-with-inflation-data-set-to-test-boc-outlook-202608171127",
       "published": "2026-08-17T11:27:55+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Yen retreats below 159.00 against the US Dollar as Japanese GDP disappoints",
-      "summary": "The Japanese Yen holds marginal gains against the US Dollar (USD) on Wednesday, although the USD/JPY pair has returned to levels above 159.00 during the European session, after hitting daily lows around 158.85.",
-      "link": "https://www.fxstreet.com/news/yen-retreats-below-15900-against-the-us-dollar-as-japanese-gdp-slows-down-202608171040",
-      "published": "2026-08-17T10:40:27+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -552,11 +579,5 @@
       "score": 1
     }
   ],
-  "errors": [
-    {
-      "source": "Walter Bloomberg",
-      "type": "twitter",
-      "error": "failed to parse feed (<unknown>:44:249: mismatched tag)"
-    }
-  ]
+  "errors": []
 }
