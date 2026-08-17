@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-17T13:00:58.416802+00:00",
-  "count": 63,
+  "updated_at": "2026-08-17T13:53:15.005712+00:00",
+  "count": 61,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Policy doubts weigh on Yen – BNY",
+      "summary": "BNY’s Geoff Yu highlights that weak Japanese Gross Domestic Product (GDP) data and rising JGB yields are undermining confidence in the Bank of Japan’s ability to sustain a stronger Yen.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-doubts-weigh-on-yen-bny-202608171341",
+      "published": "2026-08-17T13:41:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar firms after hotter-than-expected inflation data",
+      "summary": "USD/CAD falls to its lowest level since June 3 on Monday as the US Dollar (USD) stays under pressure, while hotter-than-expected Canadian inflation data provide additional support to the Canadian Dollar (CAD). At the time of writing, the pair trades around 1.3852.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-firms-after-hotter-than-expected-inflation-data-202608171338",
+      "published": "2026-08-17T13:38:39+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Wells Fargo Investment Institute cuts gold's 2026 year-end target range to $4,900-$5,100 per ounce from prior forecast of $5,300-$5,500 per ounce.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9724273/Wells-Fargo-Investment-Institute-cuts-golds-2026-year-end-target-range-to-4900-5100-per-ounce-from-prior-forecast-of-5300-5500-per-ounce.aspx?xy=rss",
+      "published": "2026-08-17T13:33:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar struggles against Euro as inflation accelerates to 3%",
+      "summary": "EUR/CAD edges higher on Monday, trading around 1.6070 at the time of writing, up 0.11% on the day. The pair maintains a positive bias despite a stronger-than-expected acceleration in Canadian inflation, which provides some support to the Canadian Dollar (CAD).",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-against-euro-as-inflation-accelerates-to-3-202608171331",
+      "published": "2026-08-17T13:31:57+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: -314 mln<br />Nasdaq 100: -16 mln<br />Dow 30: -98 mln<br />Mag 7: -9 mln",
+      "link": "https://www.financialjuice.com/News/9724268/MOO-Imbalance.aspx?xy=rss",
+      "published": "2026-08-17T13:30:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Wells Fargo Investment Institute expects the US Fed to hike rates by 25 bps in 2027, taking the benchmark rate to 4.00%-4.25% vs. the prior forecast of rates unchanged",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9724262/Wells-Fargo-Investment-Institute-expects-the-US-Fed-to-hike-rates-by-25-bps-in-2027-taking-the-benchmark-rate-to-400-425-vs-the-prior-forecast-of-rates-unchanged.aspx?xy=rss",
+      "published": "2026-08-17T13:25:09+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Wells Fargo Investment Institute expects US Fed to hike rates by 25 bps this year, vs. the prior forecast of rates unchanged",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9724261/Wells-Fargo-Investment-Institute-expects-US-Fed-to-hike-rates-by-25-bps-this-year-vs-the-prior-forecast-of-rates-unchanged.aspx?xy=rss",
+      "published": "2026-08-17T13:23:11+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: CIBC: Persian Gulf Stalemate Keeps Oil Outlook Highly Uncertain - FJElite",
+      "summary": "<div>Active fighting has largely stopped and oil volatility has eased, but the range of plausible outcomes is now wider. Iran appears willing to hold out for better terms, while the US has shown little willingness to meet those demands, leaving no clear timetable for a full reopening of the Strait of Hormuz. The base case remains closer to a resolution within months rather than years, but Gulf sta",
+      "link": "https://www.financialjuice.com/News/9724240/CIBC-Persian-Gulf-Stalemate-Keeps-Oil-Outlook-Highly-Uncertain---FJElite.aspx?xy=rss",
+      "published": "2026-08-17T13:05:21+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BofA: AI Capex Remains a Tailwind for US Growth - FJElite",
+      "summary": "<div>AI capex continues to rise, with hyperscaler spending estimates being revised higher and expected to increase again in 2027. The investment boom is also supporting the broader economy through wealth effects, stronger manufacturing production, employment in AI-related industries, and data-centre construction. These effects continue to reinforce US economic resilience even with the risk of high",
+      "link": "https://www.financialjuice.com/News/9724234/BofA-AI-Capex-Remains-a-Tailwind-for-US-Growth---FJElite.aspx?xy=rss",
+      "published": "2026-08-17T13:03:37+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Bank of America: Lower Real Yields Could Ease Pressure on Equities - FJElite",
+      "summary": "<div>European equities are up 12% year-to-date and 35% over the past two years, supported by EPS expectations at record highs and the equity risk premium at a 25-year low. That support has been partly offset by the US real bond yield rising to around 2.4%, just below a 20-year high, increasing the discount rate for global equities.</div><div><br /></div><div>There is scope for that pressure to fad",
+      "link": "https://www.financialjuice.com/News/9724232/Bank-of-America-Lower-Real-Yields-Could-Ease-Pressure-on-Equities---FJElite.aspx?xy=rss",
+      "published": "2026-08-17T13:01:58+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar hits two-month high as US Dollar weakness offsets softer China data",
+      "summary": "NZD/USD extends its advance on Monday and trades around 0.5915 at the time of writing, up 0.37% on the day.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-hits-two-month-high-as-us-dollar-weakness-offsets-softer-china-data-202608171301",
+      "published": "2026-08-17T13:01:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump threatens to bomb Oman if they \"get in the way\" of US efforts to reopen the Strait of Hormuz and end the war with Iran. \"If Oman gets in the way, we'll bomb the s*** out of them,\" President Trump said.",
+      "summary": "<p>BREAKING: President Trump threatens to bomb Oman if they \"get in the way\" of US efforts to reopen the Strait of Hormuz and end the war with Iran.<br />\n<br />\n\"If Oman gets in the way, we'll bomb the s*** out of them,\" President Trump said.</p>",
+      "link": "https://nitter.net/KobeissiLetter/status/2089336693421973858#m",
+      "published": "2026-08-17T13:01:00+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -39,15 +147,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: NVIDIA secures 4.25 IT-GW at SB energy Ohio campus.",
-      "summary": "<ul><li>NVIDIA guarantees SB energy's ports-pike technology campus in Ohio to exclusively host NVIDIA AI compute</li><li>NVIDIA to invest $1.5b in SB energy<br /></li></ul>",
-      "link": "https://www.financialjuice.com/News/9724196/NVIDIA-secures-425-IT-GW-at-SB-energy-Ohio-campus.aspx?xy=rss",
-      "published": "2026-08-17T12:35:00+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gold: I Still Think the Move Down Is Not Over",
@@ -64,87 +163,6 @@
       "link": "https://www.fxstreet.com/news/united-states-sideways-growth-and-sticky-inflation-td-securities-202608171232",
       "published": "2026-08-17T12:32:41+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canadian CPI Common Actual 2.7% (Forecast -, Previous 2.6%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724163/Canadian-CPI-Common-Actual-27-Forecast---Previous-26.aspx?xy=rss",
-      "published": "2026-08-17T12:31:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canadian Core CPI MoM Actual 0.2% (Forecast -, Previous 0.2%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724162/Canadian-Core-CPI-MoM-Actual-02-Forecast---Previous-02.aspx?xy=rss",
-      "published": "2026-08-17T12:31:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoC Core CPI YoY Actual 2.3% (Forecast -, Previous 2.1%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724161/BoC-Core-CPI-YoY-Actual-23-Forecast---Previous-21.aspx?xy=rss",
-      "published": "2026-08-17T12:31:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoC Core CPI MoM Actual 0.2% (Forecast -, Previous 0.1%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724160/BoC-Core-CPI-MoM-Actual-02-Forecast---Previous-01.aspx?xy=rss",
-      "published": "2026-08-17T12:31:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canadian CPI YoY Actual 3% (Forecast 2.9%, Previous 2.8%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724159/Canadian-CPI-YoY-Actual-3-Forecast-29-Previous-28.aspx?xy=rss",
-      "published": "2026-08-17T12:30:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canadian CPI MoM Actual 0.5% (Forecast 0.4%, Previous -0.4%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724158/Canadian-CPI-MoM-Actual-05-Forecast-04-Previous--04.aspx?xy=rss",
-      "published": "2026-08-17T12:30:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canadian CPI Trim Actual 1.9% (Forecast 1.8%, Previous 1.8%, Revised 1.9%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724157/Canadian-CPI-Trim-Actual-19-Forecast-18-Previous-18-Revised-19.aspx?xy=rss",
-      "published": "2026-08-17T12:30:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canadian CPI Median Actual 2% (Forecast 1.9%, Previous 1.9%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724156/Canadian-CPI-Median-Actual-2-Forecast-19-Previous-19.aspx?xy=rss",
-      "published": "2026-08-17T12:30:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: NY Fed Manufacturing Actual 20.6 (Forecast 10, Previous 15.60)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724155/NY-Fed-Manufacturing-Actual-206-Forecast-10-Previous-1560.aspx?xy=rss",
-      "published": "2026-08-17T12:30:00+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -219,33 +237,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD holds bullish bias near $4,400",
-      "summary": "Gold (XAU/USD) maintains a bullish bias around $4,400, supported by a weaker US Dollar (USD) and fading expectations of further interest rate hikes by the Federal Reserve (Fed).",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-bullish-bias-near-4-400-202608171008",
-      "published": "2026-08-17T10:08:05+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index Price Forecast: Bears push against two-month lows at 99.40",
-      "summary": "The US Dollar Index (DXY) extends losses for the third consecutive day on Monday, with bears testing levels at two-month lows below 99.40 during the European session.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-bears-push-against-two-month-lows-at-9940-202608170956",
-      "published": "2026-08-17T09:56:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swedish Krona: Riksbank seen on cautious hawkish hold – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad expects the Riksbank to keep its policy rate at 1.75% for a seventh consecutive meeting while leaving the door open to a later hike as inflation runs above projections.",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-seen-on-cautious-hawkish-hold-bbh-202608170950",
-      "published": "2026-08-17T09:50:59+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "I just cracked gold.",
@@ -266,8 +257,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Breaking: Canada headline CPI rose by 3.0% YoY in July",
-      "summary": "Canada’s inflation picked up pace in July, with the headline Consumer Price Index (CPI) rising 3.0% from a year earlier, above market expectations and up from the 2.8% increase recorded in June. On a monthly basis, prices rose 0.5%.",
+      "title": "Breaking: Canada headline CPI rose by 3% YoY in July",
+      "summary": "Canada’s inflation picked up pace in July, with the headline Consumer Price Index (CPI) rising 3% from a year earlier, above market expectations and up from the 2.8% increase recorded in June. On a monthly basis, prices rose 0.5%.",
       "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-rising-inflation-in-july-202608170730",
       "published": "2026-08-17T07:30:00+00:00",
       "score": 2
@@ -388,15 +379,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2088683488429932645#m",
       "published": "2026-08-15T17:45:24+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Shocking stat of the day: Nvidia, $NVDA, has added over +10 percentage points to the S&P 500’s +84% total return over the last 5 years, more than any other stock by a wide margin. This represents ~12% of the S&P 500’s entire 5-year gain. This is also more than double Apple’s, $AAPL, +5 percentage point contribution. Microsoft, $MSFT, Broadcom, $AVGO, and Alphabet, $GOOGL, follow, adding ~3, ~3, and ~2 percentage points, respectively. Together, these 5 stocks account for ~25 percentage points, or ~30% of the S&P 500’s total 5-year return. A handful of mega-cap stocks are driving the entire market.",
-      "summary": "<p>Shocking stat of the day:<br />\n<br />\nNvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, has added over +10 percentage points to the S&amp;P 500’s +84% total return over the last 5 years, more than any other stock by a wide margin.<br />\n<br />\nThis represents ~12% of the S&amp;P 500’s entire 5-year gain.<br />\n<br />\nThis is also more than double Apple’s, <a href=\"h",
-      "link": "https://nitter.net/KobeissiLetter/status/2088613052543361338#m",
-      "published": "2026-08-15T13:05:30+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
@@ -570,5 +552,11 @@
       "score": 1
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Walter Bloomberg",
+      "type": "twitter",
+      "error": "failed to parse feed (<unknown>:44:249: mismatched tag)"
+    }
+  ]
 }
