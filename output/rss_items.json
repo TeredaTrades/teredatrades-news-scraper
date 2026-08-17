@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-08-17T06:59:23.262514+00:00",
-  "count": 59,
+  "updated_at": "2026-08-17T07:57:17.870384+00:00",
+  "count": 58,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar hits fresh two-month highs past 0.5900 despite weak data from China",
+      "summary": "The New Zealand Dollar (NZD) keeps crawling higher against a weaker US Dollar (USD) with price action reaching the 0.5920 area for the first time since early June.  Kiwi Dollar bulls did not flinch after a set of downbeat data from China on Monday and kept buying the pair, with the US Dollar depreci",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-hits-fresh-two-month-highs-past-05900-despite-weak-data-from-china-202608170756",
+      "published": "2026-08-17T07:56:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar hits fresh high since June 5 as bearish USD outweigh weak China data",
+      "summary": "The AUD/USD pair attracts strong follow-through buying at the start of a new week and surges past the 0.7100 mark, hitting a fresh high since June 5 as sustained US Dollar (USD) selling offsets China's weak macro data dump.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-hits-fresh-high-since-june-5-as-bearish-usd-outweigh-weak-china-data-202608170753",
+      "published": "2026-08-17T07:53:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Uptrend intact toward 1.3600 cap against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang notes GBP/USD invalidated a recent neutral call by breaking above 1.3555 and closing higher near 1.3532. Intraday, the British Pound (GBP) may extend toward 1.3570, with 1.3600 as firm resistance.",
+      "link": "https://www.fxstreet.com/news/british-pound-uptrend-intact-toward-13600-cap-against-us-dollar-uob-202608170739",
+      "published": "2026-08-17T07:39:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canada CPI expected to show rising inflation in July",
+      "summary": "Canada’s July Consumer Price Index (CPI) figures will be the focus of attention when published on Monday.",
+      "link": "https://www.fxstreet.com/news/canada-cpi-expected-to-show-rising-inflation-in-july-202608170730",
+      "published": "2026-08-17T07:30:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Data and tariffs shape near-term risks – TD Securities",
+      "summary": "TD Securities’ Robert Both and Emma Lawrence highlight that markets are watching Canadian CPI and potential US Section 338 tariffs on CAD exports. They expect headline CPI at 2.9% year-on-year in July with core at 1.85%, and see retail sales flat in June.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-data-and-tariffs-shape-near-term-risks-td-securities-202608170710",
+      "published": "2026-08-17T07:10:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Currency Strength Chart: Strongest: NZD, AUD, CHF, EUR, JPY, GBP, CAD, USD - Weakest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9723749/Currency-Strength-Chart-Strongest-NZD-AUD-CHF-EUR-JPY-GBP-CAD-USD---Weakest.aspx?xy=rss",
+      "published": "2026-08-17T07:01:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swedish Krona: Riksbank steady as currency lags – BNY",
+      "summary": "BNY's Wee Khoon Chong note Sweden’s Riksbank appears comfortable with its current policy stance as inflation stays below target, leaving two hikes in the repo path mainly as a risk acknowledgment.",
+      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-steady-as-currency-lags-bny-202608170700",
+      "published": "2026-08-17T07:00:08+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -57,15 +120,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9723694/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-08-17T06:16:45+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Euro: Upside bias targets 1.1590 against US Dollar – UOB",
@@ -93,15 +147,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: Struggles near 159.00; seems vulnerable below 50% Fibo.",
-      "summary": "The USD/JPY pair attracts some sellers at the start of a new week, though it lacks bearish conviction and shows some resilience below the 159.00 mark during the Asian session.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-struggles-near-15900-seems-vulnerable-below-50-fibo-202608170537",
-      "published": "2026-08-17T05:37:45+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "XAU/USD bulls in charge. Bears will get crushed.",
@@ -113,74 +158,20 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro rallies to two-month high, eyes 1.1600 as USD struggles amid receding Fed hike bets",
-      "summary": "The EUR/USD pair builds on last week's bounce from the vicinity of the 1.1500 psychological mark and attracts follow-through buyers for the third straight day.",
-      "link": "https://www.fxstreet.com/news/euro-rallies-to-two-month-high-eyes-11600-as-usd-struggles-amid-receding-fed-hike-bets-202608170502",
-      "published": "2026-08-17T05:02:11+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee steadies as US Dollar declines on reducing Fed rate hike bets",
-      "summary": "The Indian Rupee (INR) trades stronger against the US Dollar (USD) on Monday after two days of losses, with the USD/INR pair trading around 95.50 at the time of writing.",
+      "title": "Indian Rupee steadies as RBI swap exit, soft US data cap USD/INR",
+      "summary": "The Indian Rupee (INR) remains stronger against the US Dollar (USD) on Monday after two days of losses, with the USD/INR pair trading around 95.60 at the time of writing.",
       "link": "https://www.fxstreet.com/news/indian-rupee-holds-ground-despite-rbi-ending-fcnr-forex-swap-window-early-202608170440",
       "published": "2026-08-17T04:40:31+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "summary": "Gold prices rose in India on Monday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608170435",
-      "published": "2026-08-17T04:35:35+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold sticks to modest gains around $4,400 amid weaker USD; remains below June 5 high",
-      "summary": "Gold (XAU/USD) struggles to capitalize on modest intraday gains at the start of a new week and remains below its highest level since June 5, which it touched last Thursday.",
+      "title": "Gold looks to build strength above $4,400 as fading Fed hike bets keeps USD depressed",
+      "summary": "Gold (XAU/USD) builds on Friday's bounce from the $4,300 neighborhood and attracts some follow-through buyers at the start of a new week.",
       "link": "https://www.fxstreet.com/news/gold-remains-close-to-june-5-high-as-receding-fed-hike-bets-undermine-usd-202608170427",
       "published": "2026-08-17T04:27:42+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index weakens to near 99.50 as traders push back Fed rate hike bets",
-      "summary": "The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 99.50 in the Asian trading hours on Monday. The DXY loses momentum as data showed US Retail Sales unexpectedly declined in July.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-to-near-9950-as-traders-push-back-fed-rate-hike-bets-202608170254",
-      "published": "2026-08-17T02:54:47+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD bulls await acceptance above $66.00, 100-day EMA breakout",
-      "summary": "Silver (XAG/USD) is seen building on Friday's bounce from mid-$63.00s and gaining some follow-through positive traction at the start of a new week.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bulls-await-acceptance-above-6600-100-day-ema-breakout-202608170244",
-      "published": "2026-08-17T02:44:11+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar rises on hawkish RBA outlook",
-      "summary": "AUD/USD gains ground for the second successive day, trading around 0.7090 during the Asian hours on Monday. The pair appreciates as the Australian Dollar (AUD) gains on the hawkish policy stance by the Reserve Bank of Australia (RBA).",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rises-on-hawkish-rba-outlook-202608170237",
-      "published": "2026-08-17T02:37:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar advances due to softer US Dollar, higher oil prices",
-      "summary": "USD/CAD extends its losses for the third consecutive day, trading around 1.3870 during the Asian hours on Monday. The pair depreciates as the US Dollar (USD) declines amid weaker-than-expected US economic data and shifting central bank expectations.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-advances-due-to-softer-us-dollar-higher-oil-prices-202608170201",
-      "published": "2026-08-17T02:01:42+00:00",
-      "score": 1
+      "score": 4
     },
     {
       "source": "Kobeissi Letter",
