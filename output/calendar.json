@@ -40,14 +40,6 @@
     "previous": "0.5%"
   },
   {
-    "title": "New Home Prices m/m",
-    "country": "CNY",
-    "date": "2026-08-16T21:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-0.15%"
-  },
-  {
     "title": "Revised Industrial Production m/m",
     "country": "JPY",
     "date": "2026-08-17T00:30:00-04:00",
@@ -62,14 +54,6 @@
     "impact": "Low",
     "forecast": "-0.9%",
     "previous": "1.1%"
-  },
-  {
-    "title": "Foreign Direct Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-08-17T02:02:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-5.0%"
   },
   {
     "title": "Fixed Asset Investment ytd/y",
@@ -94,6 +78,14 @@
     "impact": "Low",
     "forecast": "",
     "previous": ""
+  },
+  {
+    "title": "New Home Prices m/m",
+    "country": "CNY",
+    "date": "2026-08-17T03:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-0.15%"
   },
   {
     "title": "Retail Sales y/y",
@@ -214,6 +206,14 @@
     "impact": "Low",
     "forecast": "4.8%",
     "previous": "4.9%"
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-08-18T02:02:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-5.0%"
   },
   {
     "title": "ZEW Economic Sentiment",

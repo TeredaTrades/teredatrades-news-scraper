@@ -1,13 +1,5 @@
 [
   {
-    "title": "SPPI y/y",
-    "country": "JPY",
-    "date": "2026-07-26T19:50:00-04:00",
-    "impact": "Low",
-    "forecast": "3.4%",
-    "previous": "3.3%"
-  },
-  {
     "title": "German ifo Business Climate",
     "country": "EUR",
     "date": "2026-07-27T04:00:00-04:00",
@@ -2496,6 +2488,14 @@
     "previous": "5.0%"
   },
   {
+    "title": "New Home Prices m/m",
+    "country": "CNY",
+    "date": "2026-08-17T03:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-0.15%"
+  },
+  {
     "title": "CPI m/m",
     "country": "CAD",
     "date": "2026-08-17T08:30:00-04:00",
@@ -2598,6 +2598,14 @@
     "impact": "Low",
     "forecast": "4.8%",
     "previous": "4.9%"
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-08-18T02:02:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-5.0%"
   },
   {
     "title": "ZEW Economic Sentiment",
