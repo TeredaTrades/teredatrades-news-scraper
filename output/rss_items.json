@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-08-17T19:42:34.798511+00:00",
-  "count": 55,
+  "updated_at": "2026-08-17T20:01:58.210945+00:00",
+  "count": 58,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen muted on a soft US Dollar note",
+      "summary": "USD/JPY is close to flat on Monday, holding the mid-159.00s region after a soft Japanese growth report overnight failed to shift it in either direction. The pair has been drifting between support at 158.60 and resistance just above 159.50 for five straight days. This is a standoff, not a trend.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-muted-on-a-soft-us-dollar-note-202608172001",
+      "published": "2026-08-17T20:01:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nasdaq: on December 6th 2026, Nasdaq will introduce a new trading session from 9 PM to 4 AM ET.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9724707/Nasdaq-on-December-6th-2026-Nasdaq-will-introduce-a-new-trading-session-from-9-PM-to-4-AM-ET.aspx?xy=rss",
+      "published": "2026-08-17T19:55:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nasdaq: Engaging with regulators to offer nearly continuous trading 23 hours a day, 5 days a week, on Nasdaq stock market.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9724706/Nasdaq-Engaging-with-regulators-to-offer-nearly-continuous-trading-23-hours-a-day-5-days-a-week-on-Nasdaq-stock-market.aspx?xy=rss",
+      "published": "2026-08-17T19:54:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Mild upside bias against US Dollar remains intact – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang notes USD/SGD remains under mild downward pressure after slipping to 1.2775 before rebounding. Intraday, the pair may retest 1.2775, but support at 1.2765 is expected to hold.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mild-upside-bias-against-us-dollar-remains-intact-uob-202608171953",
+      "published": "2026-08-17T19:53:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso softens as Middle East risks boosts the US Dollar",
+      "summary": "The Mexican Peso weakens against the US Dollar on Monday, with USD/MXN reclaiming the 17.00 level, even though the latest US inflation and Retail Sales data disappointed investors. The USD/MXN trades at 17.03, after hitting a weekly low of 16.99.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-softens-as-middle-east-risks-boosts-the-us-dollar-202608171952",
+      "published": "2026-08-17T19:52:53+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +602 mln<br />Nasdaq 100: -43 mln<br />Dow 30: +283 mln<br />Mag 7: -120 mln",
+      "link": "https://www.financialjuice.com/News/9724705/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-08-17T19:50:31+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -145,33 +199,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-bullish-bias-with-data-risk-ahead-against-us-dollar-scotiabank-202608171508",
       "published": "2026-08-17T15:08:24+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Faces renewed downside risk – Commerzbank",
-      "summary": "Commerzbank’s Volkmar Baur notes that the US Dollar (USD) has weakened against the Euro (EUR) as markets steadily scale back expectations for further Federal Reserve (Fed) tightening relative to other G10 central banks.",
-      "link": "https://www.fxstreet.com/news/us-dollar-faces-renewed-downside-risk-commerzbank-202608171435",
-      "published": "2026-08-17T14:35:55+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Investors extend longs but hedge risks – TD Securities",
-      "summary": "TD Securities strategists note that money managers sharply increased long Gold exposure as modest inflation, soft United States (US) employment data and expectations that the Federal Reserve (Fed) will not hike rates this year weigh on the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/gold-investors-extend-longs-but-hedge-risks-td-securities-202608171423",
-      "published": "2026-08-17T14:23:04+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Bullish momentum eyes mid‑1.17s against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report the Euro (EUR) is firming as Eurozone economic resilience and narrowing yield spreads versus the US support EUR/USD.",
-      "link": "https://www.fxstreet.com/news/euro-bullish-momentum-eyes-mid-117s-against-us-dollar-scotiabank-202608171411",
-      "published": "2026-08-17T14:11:00+00:00",
-      "score": 2
     },
     {
       "source": "Kobeissi Letter",
