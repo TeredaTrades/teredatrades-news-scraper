@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-17T04:26:12.147706+00:00",
-  "count": 56,
+  "updated_at": "2026-08-17T05:10:00.476179+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro rallies to two-month high, eyes 1.1600 as USD struggles amid receding Fed hike bets",
+      "summary": "The EUR/USD pair builds on last week's bounce from the vicinity of the 1.1500 psychological mark and attracts follow-through buyers for the third straight day.",
+      "link": "https://www.fxstreet.com/news/euro-rallies-to-two-month-high-eyes-11600-as-usd-struggles-amid-receding-fed-hike-bets-202608170502",
+      "published": "2026-08-17T05:02:11+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee holds ground despite RBI ending FCNR forex swap window early",
+      "summary": "The Indian Rupee (INR) trades stronger against the US Dollar (USD) on Monday after two days of losses, with the USD/INR pair trading around 95.50 at the time of writing.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-holds-ground-despite-rbi-ending-fcnr-forex-swap-window-early-202608170440",
+      "published": "2026-08-17T04:40:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Monday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608170435",
+      "published": "2026-08-17T04:35:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold remains close to June 5 high as receding Fed hike bets undermine USD",
+      "summary": "Gold (XAU/USD) builds on Friday's bounce from the $4,300 neighborhood, or a one-week low, and gains some follow-through positive traction at the start of a new week.",
+      "link": "https://www.fxstreet.com/news/gold-remains-close-to-june-5-high-as-receding-fed-hike-bets-undermine-usd-202608170427",
+      "published": "2026-08-17T04:27:42+00:00",
+      "score": 4
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -273,57 +309,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG stalls as yields cap recovery",
-      "summary": "Silver price advanced by some 0.39% on Friday, capped by rising US yields, even though US data was softer than expected. XAG/USD trades at $64.70, after bouncing off daily lows of $63.51.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-stalls-as-yields-cap-recovery-202608142259",
-      "published": "2026-08-14T22:59:08+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "AUD/USD Price Forecast: Bulls eye 0.7100 after US Retail Sales miss",
-      "summary": "The Australian Dollar advanced on Friday after US Retail Sales disappointed investors, increasing speculation that the Federal Reserve might not raise rates, as the economy showed tentative signs of weakness. The AUD/USD trades at 0.7083, up 0.34%",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07100-after-us-retail-sales-miss-202608142230",
-      "published": "2026-08-14T22:30:19+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Treasury yields rise as Oil strength offsets weak Retail Sales",
-      "summary": "US Treasury yields advanced on Friday during the North American session after reversing their course following the release of US Retail Sales data, which disappointed investors. Meanwhile, the lack of news from the Middle East kept Oill prices higher, amid fears of a resumption of hostilities.",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-oil-strength-offsets-weak-retail-sales-202608142201",
-      "published": "2026-08-14T22:01:46+00:00",
-      "score": 1
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "IRAN REJECTS TRUMP’S HORMUZ THREAT Iran says it will not be intimidated after President Trump threatened to declare the Strait of Hormuz U.S. territory. Deputy Foreign Minister Kazem Gharibabadi said decisions over opening or closing the strategic waterway remain solely under Iran’s authority. The comments signal continued confrontation over control of the critical global energy route.",
       "summary": "<p>IRAN REJECTS TRUMP’S HORMUZ THREAT<br />\n<br />\nIran says it will not be intimidated after President Trump threatened to declare the Strait of Hormuz U.S. territory.<br />\n<br />\nDeputy Foreign Minister Kazem Gharibabadi said decisions over opening or closing the strategic waterway remain solely under Iran’s authority.<br />\n<br />\nThe comments signal continued confrontation over control of the",
       "link": "https://nitter.net/DeItaone/status/2088374837190316151#m",
       "published": "2026-08-14T21:18:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso refreshes multi-month highs, Banxico minutes eyed",
-      "summary": "USD/MXN refreshed 24-month lows below 17.00 on Friday, but it has recovered some ground, with buyers stepping in and reclaiming the 17.00 level. Data from the United States (US) weighed on the Greenback, as consumer sentiment and Retail Sales deteriorated.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-refreshes-multi-month-highs-banxico-minutes-eyed-202608142044",
-      "published": "2026-08-14T20:44:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Steady appreciation backed by PBoC stance – Societe Generale",
-      "summary": "Societe Generale analysts highlight CNY’s firm trend, with the currency advancing to 6.7424, its strongest level since February 2023, on Dollar weakness and lower US yields.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-steady-appreciation-backed-by-pboc-stance-societe-generale-202608142022",
-      "published": "2026-08-14T20:22:00+00:00",
       "score": 1
     },
     {
