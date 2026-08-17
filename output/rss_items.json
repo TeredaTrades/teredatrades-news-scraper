@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-17T05:10:00.476179+00:00",
-  "count": 55,
+  "updated_at": "2026-08-17T05:51:02.338286+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah strengthens amid Prabowo's growth target, weaker US Dollar",
+      "summary": "USD/IDR extends its losses for the second successive day, trading around 17,820 during the Asian hours on Monday. The pair may face thin trading conditions as trading volumes remain subdued amid Indonesia’s Independence Day holiday.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-strengthens-amid-prabowos-growth-target-weaker-us-dollar-202608170545",
+      "published": "2026-08-17T05:45:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: Struggles near 159.00; seems vulnerable below 50% Fibo.",
+      "summary": "The USD/JPY pair attracts some sellers at the start of a new week, though it lacks bearish conviction and shows some resilience below the 159.00 mark during the Asian session.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-struggles-near-15900-seems-vulnerable-below-50-fibo-202608170537",
+      "published": "2026-08-17T05:37:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "XAU/USD bulls in charge. Bears will get crushed.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vqje88/xauusd_bulls_in_charge_bears_will_get_crushed/\"> <img alt=\"XAU/USD bulls in charge. Bears will get crushed.\" src=\"https://preview.redd.it/udc0vjdtfvjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09d871ae70fcee2ee2b5a1fa984f9b9390d47cba\" title=\"XAU/USD bulls in charge. Bears will get crushed.\" /> </a> </td><td> &#32; s",
+      "link": "https://www.reddit.com/r/Forex/comments/1vqje88/xauusd_bulls_in_charge_bears_will_get_crushed/",
+      "published": "2026-08-17T05:31:24+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -129,30 +156,12 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar gains traction to near 0.7100 on fading Fed hike bets",
-      "summary": "The AUD/USD pair trades with mild gains near 0.7090 during the early Asian session on Monday. The US Dollar (USD) weakens against the Australian Dollar (AUD) as Federal Reserve (Fed) rate hike odds fade amid weaker US economic data.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gains-traction-to-near-07100-on-fading-fed-hike-bets-202608162329",
-      "published": "2026-08-16T23:29:08+00:00",
-      "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The cost of servicing US debt is the highest in decades: On Thursday, the US government sold $25 billion of 30Y Treasury bonds at a 5.216% yield, the highest auction yield since 2001. This follows a $42 billion auction of 10Y Treasury notes on Wednesday that resulted in a 4.683% yield, the highest since 2007. Previously, on July 9th, the government sold 30Y Treasury bonds at a 5.058% yield, the highest since 2007, highlighting the worsening trend in US debt financing costs. By comparison, yields on the same-maturity Treasury auctions were below 2.00% during the 2020 pandemic. This comes as investors are demanding more compensation to finance the US government's ever-growing deficit. In July, the US Treasury’s budget deficit surged +$141 billion YoY, to $432 billion, the largest July total in history. The US debt crisis is entering uncharted territory.",
-      "summary": "<p>The cost of servicing US debt is the highest in decades:<br />\n<br />\nOn Thursday, the US government sold $25 billion of 30Y Treasury bonds at a 5.216% yield, the highest auction yield since 2001.<br />\n<br />\nThis follows a $42 billion auction of 10Y Treasury notes on Wednesday that resulted in a 4.683% yield, the highest since 2007.<br />\n<br />\nPreviously, on July 9th, the government sold 30",
-      "link": "https://nitter.net/KobeissiLetter/status/2089128940908519580#m",
-      "published": "2026-08-16T23:15:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "US consumers are pulling back on spending: US retail sales dropped -0.6% in July, the largest monthly decrease since May 2025, missing expectations of a +0.1% increase. The biggest drop came from non-store retailers, including Amazon, $AMZN, where sales fell -2.2%, the 2nd-largest decline since July 2021. At the same time, motor vehicle and parts dealer sales fell -1.8%. As a result, retail sales excluding auto fell -0.3%, below the expected +0.2% increase. Meanwhile, control-group sales, which feed into the GDP calculation, plunged -0.4%, the largest monthly decline since January 2025. The measure excludes food services, auto dealers, building materials stores, and gas stations. Americans are becoming more cautious with their spending.",
-      "summary": "<p>US consumers are pulling back on spending:<br />\n<br />\nUS retail sales dropped -0.6% in July, the largest monthly decrease since May 2025, missing expectations of a +0.1% increase.<br />\n<br />\nThe biggest drop came from non-store retailers, including Amazon, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23AMZN\">$AMZN</a>, where sales fell -2.2%, the 2nd-largest decline since July 2021.<b",
-      "link": "https://nitter.net/KobeissiLetter/status/2089110696868958338#m",
-      "published": "2026-08-16T22:02:58+00:00",
+      "source": "r/Daytrading",
+      "category": "reddit",
+      "title": "What does a profitable trader mean?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I keep hearing about &quot;it took me X years to be profitable&quot; and i was wondering that that actually meant...</p> <p>Does it just mean my brokage account now has more than what i put in?<br /> My tax statement shows that I will need to pay taxes for the year for trades?<br /> over the past X number of years you are positive?<br /> I make a living trading ab",
+      "link": "https://www.reddit.com/r/Daytrading/comments/1vqa6rl/what_does_a_profitable_trader_mean/",
+      "published": "2026-08-16T22:10:10+00:00",
       "score": 1
     },
     {
@@ -174,40 +183,22 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The Kobeissi Letter for the week of August 17th has been published and may be viewed through the link below: https://tinyurl.com/TheKobeissiLetter The Chart of the Week for the week of August 17th has been published. View or sign up for FREE through the link below: https://tinyurl.com/TKLChartofWeek",
-      "summary": "<p>The Kobeissi Letter for the week of August 17th has been published and may be viewed through the link below:<br />\n<br />\n<a href=\"https://tinyurl.com/TheKobeissiLetter\">tinyurl.com/TheKobeissiLette…</a><br />\n<br />\nThe Chart of the Week for the week of August 17th has been published. View or sign up for FREE through the link below:<br />\n<br />\n<a href=\"https://tinyurl.com/TKLChartofWeek\">tin",
-      "link": "https://nitter.net/KobeissiLetter/status/2089057100458512584#m",
-      "published": "2026-08-16T18:30:00+00:00",
+      "source": "r/Daytrading",
+      "category": "reddit",
+      "title": "Compelling Visual on SPY & VIX Bull Status",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Daytrading/comments/1vpwg04/compelling_visual_on_spy_vix_bull_status/\"> <img alt=\"Compelling Visual on SPY &amp; VIX Bull Status\" src=\"https://preview.redd.it/wyw1l22hfqjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=706b56ad440c5927c4f476112dce62bd15f0a908\" title=\"Compelling Visual on SPY &amp; VIX Bull Status\" /> </a> </td><td> <!-- SC_OFF ",
+      "link": "https://www.reddit.com/r/Daytrading/comments/1vpwg04/compelling_visual_on_spy_vix_bull_status/",
+      "published": "2026-08-16T12:59:51+00:00",
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: US retail money market fund assets jumped +$202 billion YoY in June, to a record $3.05 trillion. Since 2022, retail money market fund assets have more than tripled. This is also twice as large as the peak recorded following the 2020 pandemic. Retail money market fund assets have grown at a +14% compounded annual growth rate (CAGR) since the start of 2019. The average money market fund yield is currently 3.57%, according to the Crane 100 Money Fund Index, which tracks the 100 largest money market funds. Retail is taking advantage of elevated risk-free yields.",
-      "summary": "<p>BREAKING: US retail money market fund assets jumped +$202 billion YoY in June, to a record $3.05 trillion.<br />\n<br />\nSince 2022, retail money market fund assets have more than tripled.<br />\n<br />\nThis is also twice as large as the peak recorded following the 2020 pandemic.<br />\n<br />\nRetail money market fund assets have grown at a +14% compounded annual growth rate (CAGR) since the start",
-      "link": "https://nitter.net/KobeissiLetter/status/2089049299141394843#m",
-      "published": "2026-08-16T17:59:00+00:00",
+      "source": "r/Daytrading",
+      "category": "reddit",
+      "title": "Are people exaggerating the amount of time it takes to become profitable?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I know that trading is inherently difficult and requires a lot of hard work and consistency but I just can’t believe that people have taken years to become profitable.. I’m asking this in a more curious and conflicted sense. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TmkGT\"> /u/TmkGT </a> <br /> <span><a href=\"https://w",
+      "link": "https://www.reddit.com/r/Daytrading/comments/1vpv5zq/are_people_exaggerating_the_amount_of_time_it/",
+      "published": "2026-08-16T11:58:17+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Americans are concerned about inflation. Only 8% of US consumers expect their income to grow faster than inflation over the next year, the lowest proportion in at least 2 years. This figure has declined -10 percentage points since November 2024. At the same time, 20% anticipate their income to grow at roughly the same pace as inflation, near the lowest proportion since at least July 2024. This means 72% of consumers expect inflation to outpace their income over the next year, the highest reading in at least 2 years. By comparison, this figure stood at 58% in November 2024. Americans are extremely pessimistic about their real purchasing power.",
-      "summary": "<p>Americans are concerned about inflation.<br />\n<br />\nOnly 8% of US consumers expect their income to grow faster than inflation over the next year, the lowest proportion in at least 2 years.<br />\n<br />\nThis figure has declined -10 percentage points since November 2024.<br />\n<br />\nAt the same time, 20% anticipate their income to grow at roughly the same pace as inflation, near the lowest pro",
-      "link": "https://nitter.net/KobeissiLetter/status/2089012120708878363#m",
-      "published": "2026-08-16T15:31:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Key Events This Week: 1. July Housing Starts data - Tuesday 2. July Pending Home Sales data - Tuesday 3. Fed Meeting Minutes - Wednesday 4. August Philly Fed Manufacturing Index - Thursday 5. August S&P Global Services PMI data - Friday 6. August S&P Global Manufacturing PMI data - Friday The S&P 500 is now up +13.5% year-to-date.",
-      "summary": "<p>Key Events This Week:<br />\n<br />\n1. July Housing Starts data - Tuesday<br />\n<br />\n2. July Pending Home Sales data - Tuesday<br />\n<br />\n3. Fed Meeting Minutes - Wednesday<br />\n<br />\n4. August Philly Fed Manufacturing Index - Thursday<br />\n<br />\n5. August S&amp;P Global Services PMI data - Friday<br />\n<br />\n6. August S&amp;P Global Manufacturing PMI data - Friday<br />\n<br />\nThe S&am",
-      "link": "https://nitter.net/KobeissiLetter/status/2088993205899428241#m",
-      "published": "2026-08-16T14:16:06+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -219,22 +210,13 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The US Treasury's reliance on short-term debt is rising: US Treasury bills currently account for ~21% of marketable Treasury securities, near the highest since 2020, when federal borrowing surged during the pandemic response. This is well above the 10-15% range seen from 2012 to 2019. By comparison, the peak during the 2008 Financial Crisis was ~34%. This comes as the US government has increasingly relied on T-bills, rather than longer-term notes and bonds, to fund its growing borrowing needs. If the Treasury keeps issuing longer-dated debt at the current pace through FY2027, T-bills could account for ~25% of total debt, the highest since 2004, excluding 2008 and 2020. However, this approach increases the government's exposure to short-term rate swings, making debt-servicing costs more vulnerable if interest rates remain elevated or rise again. The US debt crisis is in full swing.",
-      "summary": "<p>The US Treasury's reliance on short-term debt is rising:<br />\n<br />\nUS Treasury bills currently account for ~21% of marketable Treasury securities, near the highest since 2020, when federal borrowing surged during the pandemic response.<br />\n<br />\nThis is well above the 10-15% range seen from 2012 to 2019.<br />\n<br />\nBy comparison, the peak during the 2008 Financial Crisis was ~34%.<br />",
-      "link": "https://nitter.net/KobeissiLetter/status/2088796634415345725#m",
-      "published": "2026-08-16T01:15:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Inflation expectations are easing among Americans: US consumers' median inflation expectations over the next 12 months fell to ~4.5% in July, near the lowest since Q1 2025. This follows a brief spike to ~5.2% in March, the highest level since August 2025. At the same time, average inflation expectations declined to ~5.5%, down from 6.2% recorded in March. Both measures are now ~1.5 percentage points below their peaks posted in April 2025, following the \"Liberation Day\" tariffs. Despite this improvement, 61.3% of consumers still expect interest rates to rise over the next 12 months, unchanged from June. The battle against inflation continues.",
-      "summary": "<p>Inflation expectations are easing among Americans:<br />\n<br />\nUS consumers' median inflation expectations over the next 12 months fell to ~4.5% in July, near the lowest since Q1 2025.<br />\n<br />\nThis follows a brief spike to ~5.2% in March, the highest level since August 2025.<br />\n<br />\nAt the same time, average inflation expectations declined to ~5.5%, down from 6.2% recorded in March.<",
-      "link": "https://nitter.net/KobeissiLetter/status/2088736236186095842#m",
-      "published": "2026-08-15T21:15:00+00:00",
-      "score": 2
+      "source": "r/Daytrading",
+      "category": "reddit",
+      "title": "The effect of trading",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Ive had multiple 1k plus days and a few 10k plus days and even a 44k day on my live account and my sense of money has been completely destroyed. I use to think that id be happy when i make even 100 bucks in a day from trading and i was for a bit but I’ve just gotten used to it and its messed with my head, has anybody else experienced something similar. Maybe this ",
+      "link": "https://www.reddit.com/r/Daytrading/comments/1vpp2td/the_effect_of_trading/",
+      "published": "2026-08-16T06:02:14+00:00",
+      "score": 1
     },
     {
       "source": "Walter Bloomberg",
@@ -246,15 +228,6 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Nvidia is dominating retail investor demand across the Magnificent 7: Retail investors have bought +$27 billion worth of Nvidia, $NVDA, stock over the last year, the most among all Magnificent 7 companies. Since October 2025, these purchases have more than quadrupled. Tesla, $TSLA, ranked 2nd, with +$15 billion in retail purchases over the last year. Over the same period, retail investors bought +$9 billion worth of Microsoft, $MSFT, stock. On the other hand, Apple, $AAPL, recorded -$5 billion in retail sales over the last year, the only Magnificent 7 company that retail investors sold. For retail investors, Nvidia remains the ultimate AI trade.",
-      "summary": "<p>Nvidia is dominating retail investor demand across the Magnificent 7:<br />\n<br />\nRetail investors have bought +$27 billion worth of Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, stock over the last year, the most among all Magnificent 7 companies.<br />\n<br />\nSince October 2025, these purchases have more than quadrupled.<br />\n<br />\nTesla, <a href=\"https://ni",
-      "link": "https://nitter.net/KobeissiLetter/status/2088717110340149514#m",
-      "published": "2026-08-15T19:59:00+00:00",
-      "score": 4
-    },
-    {
       "source": "Walter Bloomberg",
       "category": "twitter",
       "title": "$NVDA - NVIDIA EYES $3 BILLION SB ENERGY INVESTMENT Nvidia is reportedly in talks to invest up to $3 billion in SoftBank’s SB Energy, which is developing a major Ohio data center campus for OpenAI. The discussions are tied to broader negotiations that could see Nvidia provide roughly $100 billion in credit support for the project, according to The Information. Reuters has not independently verified the report.",
@@ -262,24 +235,6 @@
       "link": "https://nitter.net/DeItaone/status/2088715750412333225#m",
       "published": "2026-08-15T19:53:36+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The copper market is facing a severe supply squeeze: The LME’s front-month copper spread surged to a $370 per ton premium on Friday, the widest one-month spread since the 2021 supply squeeze. This means traders are paying a historic premium for copper available in the near term versus delivery a month later, signaling that physical supply is extremely tight. At the same time, the widely followed cash-to-three-month spread rose to $434 per ton, also the highest since 2021, prompting the LME to tighten its market controls. This comes as LME copper stockpiles have fallen for 42 consecutive days, the longest streak since 2014, to 204,975 tons, with nearly half of the remaining metal already scheduled for withdrawal. All while traders and producers are redirecting copper to the US, where expectations of tariffs on refined copper are pushing prices above LME levels and creating arbitrage opportunities. The supply crunch in the copper market is far from over.",
-      "summary": "<p>The copper market is facing a severe supply squeeze:<br />\n<br />\nThe LME’s front-month copper spread surged to a $370 per ton premium on Friday, the widest one-month spread since the 2021 supply squeeze.<br />\n<br />\nThis means traders are paying a historic premium for copper available in the near term versus delivery a month later, signaling that physical supply is extremely tight.<br />\n<br ",
-      "link": "https://nitter.net/KobeissiLetter/status/2088683488429932645#m",
-      "published": "2026-08-15T17:45:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Shocking stat of the day: Nvidia, $NVDA, has added over +10 percentage points to the S&P 500’s +84% total return over the last 5 years, more than any other stock by a wide margin. This represents ~12% of the S&P 500’s entire 5-year gain. This is also more than double Apple’s, $AAPL, +5 percentage point contribution. Microsoft, $MSFT, Broadcom, $AVGO, and Alphabet, $GOOGL, follow, adding ~3, ~3, and ~2 percentage points, respectively. Together, these 5 stocks account for ~25 percentage points, or ~30% of the S&P 500’s total 5-year return. A handful of mega-cap stocks are driving the entire market.",
-      "summary": "<p>Shocking stat of the day:<br />\n<br />\nNvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, has added over +10 percentage points to the S&amp;P 500’s +84% total return over the last 5 years, more than any other stock by a wide margin.<br />\n<br />\nThis represents ~12% of the S&amp;P 500’s entire 5-year gain.<br />\n<br />\nThis is also more than double Apple’s, <a href=\"h",
-      "link": "https://nitter.net/KobeissiLetter/status/2088613052543361338#m",
-      "published": "2026-08-15T13:05:30+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
@@ -342,15 +297,6 @@
       "summary": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
       "published": "2026-08-13T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Is Gold Facing a Key Resistance Zone?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vn814r/is_gold_facing_a_key_resistance_zone/\"> <img alt=\"Is Gold Facing a Key Resistance Zone?\" src=\"https://preview.redd.it/xpueqpcun4jh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ec8eb72ad8922995f007e3150267c76030c9ea3\" title=\"Is Gold Facing a Key Resistance Zone?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Pric",
-      "link": "https://www.reddit.com/r/Forex/comments/1vn814r/is_gold_facing_a_key_resistance_zone/",
-      "published": "2026-08-13T11:27:23+00:00",
       "score": 1
     },
     {
@@ -498,5 +444,11 @@
       "score": 1
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Kobeissi Letter",
+      "type": "twitter",
+      "error": "failed to parse feed (text/html;charset=utf-8 is not an XML media type)"
+    }
+  ]
 }
