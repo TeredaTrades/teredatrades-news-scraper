@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-08-18T15:48:59.248974+00:00",
-  "count": 69,
+  "updated_at": "2026-08-18T16:33:54.996682+00:00",
+  "count": 71,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar declines from two-month highs as Hormuz tensions lift the US Dollar",
+      "summary": "AUD/USD trades just below 0.7100 on Tuesday, a touch lower for the day and sliding from the two-month highs reached on Monday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-from-two-month-highs-as-hormuz-tensions-lift-the-us-dollar-202608181625",
+      "published": "2026-08-18T16:25:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro fails to hold gains over the Pound ahead of UK inflation",
+      "summary": "EUR/GBP slips toward 0.8550 at the time of writing on Tuesday, with the Euro (EUR) unable to hold onto earlier gains against the Pound Sterling (GBP).",
+      "link": "https://www.fxstreet.com/news/euro-fails-to-hold-gains-over-the-pound-ahead-of-uk-inflation-202608181610",
+      "published": "2026-08-18T16:10:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar edges lower on US-Iran tensions as RBNZ hike expectations curb losses",
+      "summary": "NZD/USD retreats on Tuesday and trades around 0.5880 at the time of writing, down 0.38% on the day. The New Zealand Dollar (NZD) remains under pressure as mounting geopolitical tensions between the United States (US) and Iran fuel risk aversion and support demand for the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-on-us-iran-tensions-as-rbnz-hike-expectations-curb-losses-202608181605",
+      "published": "2026-08-18T16:05:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Apple Resolves EU App Store Fee Dispute, Drops Per-Install Fee $AAPL",
+      "summary": "<div><ul><li>Apple resolves its dispute with the EU over App Store fees</li><li>Apple will drop its per-install fee for app developers in the EU</li><li>Apple will change developer terms to comply with EU tech antitrust rules</li><li>Updated terms for app developers will roll out on October 1</li></ul></div>",
+      "link": "https://www.financialjuice.com/News/9726194/Apple-Resolves-EU-App-Store-Fee-Dispute-Drops-Per-Install-Fee-AAPL.aspx",
+      "published": "2026-08-18T16:01:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AAPL - APPLE OVERHAULS EU APP STORE FEES Apple is revamping its EU App Store terms from October 1. The Core Technology Fee will be replaced by a 5% commission on digital transactions outside the App Store. EU commissions will be 26% for Apple in-app purchases, 20% for alternative payments, and 15% for external purchase links. Apple will also expand alternative app distribution and introduce additional child-safety measures.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a> - APPLE OVERHAULS EU APP STORE FEES<br />\n<br />\nApple is revamping its EU App Store terms from October 1.<br />\n<br />\nThe Core Technology Fee will be replaced by a 5% commission on digital transactions outside the App Store.<br />\n<br />\nEU commissions will be 26% for Apple in-app purchases, 20% for alternative payments, and",
+      "link": "https://nitter.net/DeItaone/status/2089744406769209473#m",
+      "published": "2026-08-18T16:01:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Apple resolves dispute with EU over app store fees. $AAPL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9726193/Apple-resolves-dispute-with-EU-over-app-store-fees-AAPL.aspx",
+      "published": "2026-08-18T16:00:55+00:00",
+      "score": 1
+    },
     {
       "source": "Kobeissi Letter",
       "category": "twitter",
@@ -15,7 +69,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Japanese Yen stays on the back foot despite hawkish BoJ expectations",
-      "summary": "USD/JPY extends its sideways movement below the 160 psychological mark on Tuesday as the US Dollar (USD) struggles to gain traction.",
+      "summary": "USD/JPY extends its sideways movement below the 160.00 psychological mark on Tuesday as the US Dollar (USD) struggles to gain traction.",
       "link": "https://www.fxstreet.com/news/japanese-yen-stays-on-the-back-foot-despite-hawkish-boj-expectations-202608181540",
       "published": "2026-08-18T15:40:50+00:00",
       "score": 1
@@ -25,7 +79,7 @@
       "category": "news",
       "title": "FinancialJuice: US Official: Trump instructed his team not to engage in talks with Iran until it is ready to sign a deal - Al Jazeera.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9726164/US-Official-Trump-instructed-his-team-not-to-engage-in-talks-with-Iran-until-it-is-ready-to-sign-a-deal---Al-Jazeera.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9726164/US-Official-Trump-instructed-his-team-not-to-engage-in-talks-with-Iran-until-it-is-ready-to-sign-a-deal---Al-Jazeera.aspx",
       "published": "2026-08-18T15:32:50+00:00",
       "score": 1
     },
@@ -34,7 +88,7 @@
       "category": "news",
       "title": "FinancialJuice: US Official: Positive discussions took place with Iran, but Trump decided to wait - Al Jazeera.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9726163/US-Official-Positive-discussions-took-place-with-Iran-but-Trump-decided-to-wait---Al-Jazeera.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9726163/US-Official-Positive-discussions-took-place-with-Iran-but-Trump-decided-to-wait---Al-Jazeera.aspx",
       "published": "2026-08-18T15:32:27+00:00",
       "score": 1
     },
@@ -79,7 +133,7 @@
       "category": "news",
       "title": "FinancialJuice: Bank of America Sees Nvidia Trading at a Significant Discount - FJElite",
       "summary": "<div>Bank of America estimates Nvidia could be trading at a 34% to 50% discount based on a conceptual sum-of-parts analysis of free cash flow, even after accounting for financing risks. The bank argues that investors may be overstating the risks around Nvidia and the broader AI trade, creating a potentially compelling valuation gap.</div><div><br /></div><div>Nvidia shares fell 2.5% to $219 on Tue",
-      "link": "https://www.financialjuice.com/News/9726112/Bank-of-America-Sees-Nvidia-Trading-at-a-Significant-Discount---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9726112/Bank-of-America-Sees-Nvidia-Trading-at-a-Significant-Discount---FJElite.aspx",
       "published": "2026-08-18T14:56:05+00:00",
       "score": 1
     },
@@ -90,24 +144,6 @@
       "summary": "The Pound Sterling steadies on Tuesday as geopolitical tensions rise in the Middle East, while housing data misses estimates and US Industrial Production decelerates. The GBP/USD trades at 1.3547.",
       "link": "https://www.fxstreet.com/news/british-pound-steadies-as-weak-us-data-counters-iran-risk-202608181451",
       "published": "2026-08-18T14:51:11+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: UK inflation to average 3.1% and economic growth 1.1% in 2026 (vs 3.1%, 1.0% in July poll) - Poll.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9726109/UK-inflation-to-average-31-and-economic-growth-11-in-2026-vs-31-10-in-July-poll---Poll.aspx?xy=rss",
-      "published": "2026-08-18T14:51:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: S&P Affirms NVIDIA's ratings, including AA issuer credit rating. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9726104/SP-Affirms-NVIDIAs-ratings-including-AA-issuer-credit-rating-NVDA.aspx?xy=rss",
-      "published": "2026-08-18T14:47:32+00:00",
       "score": 2
     },
     {
@@ -279,24 +315,6 @@
       "summary": "Chris Turner at ING describes EUR/USD as contained after a rally stalled just above 1.16, with investors cautious due to high natural gas prices and upcoming FOMC minutes. He expects a 1.1520–1.1580 range near term, while higher energy supports ECB hike expectations.",
       "link": "https://www.fxstreet.com/news/euro-range-bound-before-fomc-against-us-dollar-ing-202608181230",
       "published": "2026-08-18T12:30:23+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US ADP Employment Change 4-week average rises to 9.5K as hiring rebounds",
-      "summary": "Private-sector hiring in the United States (US) shows tentative signs of improvement in early August. According to the NER Pulse, the weekly companion to the ADP National Employment Report, private employers added an average of 9.5K jobs per week in the four weeks ending August 1.",
-      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-rises-to-95k-as-hiring-rebounds-202608181224",
-      "published": "2026-08-18T12:24:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar remains resilient as Oil strength counters firmer US Dollar",
-      "summary": "USD/CAD trades little changed on Tuesday as rising long-term US Treasury yields lift the US Dollar (USD), while elevated Oil prices underpin the commodity-linked Canadian Dollar (CAD). At the time of writing, the pair trades around 1.3874, near levels last seen in early June.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-resilient-as-oil-strength-counters-firmer-us-dollar-202608181216",
-      "published": "2026-08-18T12:16:05+00:00",
       "score": 2
     },
     {
