@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-08-18T06:46:46.056009+00:00",
-  "count": 64,
+  "updated_at": "2026-08-18T07:39:33.632230+00:00",
+  "count": 66,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Softer as jobs data cools hikes – ING",
+      "summary": "ING’s Chris Turner reports a firmer EUR/GBP after UK labour data, with economist James Smith highlighting a cool jobs market and minimal wage pressures, implying little impetus for Bank of England hikes this year.",
+      "link": "https://www.fxstreet.com/news/british-pound-softer-as-jobs-data-cools-hikes-ing-202608180721",
+      "published": "2026-08-18T07:21:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen hits drift closer to the key 160.00 level as risk appetite fades",
+      "summary": "The Japanese Yen (JPY) accelerates its decline as the US Dollar (USD) draws support from a sourer market mood, with investors wary of a re-escalation of tensions in the Middle East.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-hits-drift-closer-to-the-key-16000-level-as-risk-appetite-fades-202608180715",
+      "published": "2026-08-18T07:15:15+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Carry-supported but rangebound near term – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong highlight that still-attractive US Dollar (USD) carry and softer United States (US) data, which have reduced the odds of a September Fed hike, should keep the Dollar rangebound.",
+      "link": "https://www.fxstreet.com/news/us-dollar-carry-supported-but-rangebound-near-term-ocbc-202608180708",
+      "published": "2026-08-18T07:08:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD remains sideways around $65, FOMC takes centre stage",
+      "summary": "Silver price (XAG/USD) continues to trade in a limited range at around $65.30 during the European trading session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-sideways-around-65-fomc-takes-centre-stage-202608180707",
+      "published": "2026-08-18T07:07:24+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: South Korea national security adviser: Hope Trump's message on scaling back military drills with South Korea leads to meaningful North Korea-US dialogue, helping advance peace on the Korean Peninsula",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9725449/South-Korea-national-security-adviser-Hope-Trumps-message-on-scaling-back-military-drills-with-South-Korea-leads-to-meaningful-North-Korea-US-dialogue-helping-advance-peace-on-the-Korean-Peninsula.aspx?xy=1",
+      "published": "2026-08-18T07:07:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CAD Price Forecast: Consolidates below 1.3900 as bears await 200-SMA breakdown",
+      "summary": "The USD/CAD pair struggles to capitalize on the overnight bounce from its lowest level since June 3, around the 1.3845 zone, also representing the 200-day Simple Moving Average (SMA) support, and oscillates in a narrow band on Tuesday.",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-consolidates-below-13900-as-bears-await-200-sma-breakdown-202608180703",
+      "published": "2026-08-18T07:03:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Currency Strength Chart: Strongest: CAD, USD, AUD, EUR, CHF, GBP, JPY, NZD - Weakest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9725445/Currency-Strength-Chart-Strongest-CAD-USD-AUD-EUR-CHF-GBP-JPY-NZD---Weakest.aspx?xy=1",
+      "published": "2026-08-18T07:01:49+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -34,7 +97,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed Interest Rate Probabilities",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9725374/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9725374/Fed-Interest-Rate-Probabilities.aspx?xy=1",
       "published": "2026-08-18T06:09:53+00:00",
       "score": 1
     },
@@ -43,7 +106,7 @@
       "category": "news",
       "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9725370/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9725370/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=1",
       "published": "2026-08-18T06:07:53+00:00",
       "score": 1
     },
@@ -68,8 +131,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee ticks up on possible RBI’s intervention",
-      "summary": "The Indian Rupee (INR) edges up against the US Dollar (USD) on Tuesday. The USD/INR ticks lower to near 95.67 after refreshing the three-week high at 95.85 in the opening session. The Indian currency has gained slight strength due to potential Reserve Bank of India’s (RBI) intervention.",
+      "title": "Indian Rupee edges up, higher oil prices to remain key drag",
+      "summary": "The Indian Rupee (INR) edges up against the US Dollar (USD) on Tuesday. The USD/INR ticks lower to near 95.67 after refreshing the three-week high at 95.85 in the opening session. The Indian currency has gained slight strength due to potential Reserve Bank of India (RBI) intervention.",
       "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-possible-rbis-intervention-202608180534",
       "published": "2026-08-18T05:34:57+00:00",
       "score": 1
@@ -95,56 +158,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "summary": "Gold prices fell in India on Tuesday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608180437",
-      "published": "2026-08-18T04:37:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive",
-      "summary": "The AUD/JPY cross trades in positive territory around 113.40 during the early European trading hours on Tuesday. The Japanese Yen (JPY) weakens against the Australian Dollar (AUD) amid mounting fiscal concerns and persistent inflationary pressures.",
-      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-to-near-11350-near-term-outlook-remain-constructive-202608180427",
-      "published": "2026-08-18T04:27:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Gold remains depressed below $4,400 as USD firms amid oil-driven inflation fears",
       "summary": "Gold (XAU/USD) sticks to modest intraday losses below the $4,400 mark heading into the European session on Tuesday and, for now, seems to have snapped a two-day winning streak.",
       "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349",
       "published": "2026-08-18T03:49:02+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen remains near two-week low against US Dollar despite hawkish BoJ bets",
-      "summary": "The Japanese Yen (JPY) trades close to its two-week low against the US Dollar (USD) in the Asian trading session on Tuesday at around 159.50. The USD/JPY pair is under pressure even as financial markets are confident about a Bank of Japan (BoJ) interest rate hike in the September meeting.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-remains-near-two-week-low-against-us-dollar-despite-hawkish-boj-bets-202608180326",
-      "published": "2026-08-18T03:26:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index holds ground on safe-haven demand",
-      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is inching higher after three days of losses and trading around 99.60 during the Asian hours on Tuesday.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-ground-on-safe-haven-demand-202608180311",
-      "published": "2026-08-18T03:11:46+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar edges lower below 0.5900 as China’s economy slows in July",
-      "summary": "The NZD/USD pair declines to around 0.5895 during the Asian trading hours on Tuesday. Weaker-than-expected Chinese Retail Sales and Industrial Production data weigh on the China-proxy New Zealand Dollar (NZD) against the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-below-05900-as-chinas-economy-slows-in-july-202608180226",
-      "published": "2026-08-18T02:26:20+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
