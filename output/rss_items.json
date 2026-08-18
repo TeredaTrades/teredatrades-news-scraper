@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-08-18T09:03:16.833177+00:00",
-  "count": 74,
+  "updated_at": "2026-08-18T09:48:30.315561+00:00",
+  "count": 72,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Bearish bias within tight range against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/JPY’s slight increase in upward momentum after trading between 158.82 and 159.59 still falls short of signaling a sustained advance, keeping intraday price action likely confined to 159.00–159.80.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bearish-bias-within-tight-range-against-us-dollar-uob-202608180947",
+      "published": "2026-08-18T09:47:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "summary": "Silver prices (XAG/USD) fell on Tuesday, according to FXStreet data. Silver trades at $64.97 per troy ounce, down 1.25% from the $65.79 it cost on Monday.",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608180931",
+      "published": "2026-08-18T09:31:09+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro remains subdued following German ZEW Survey data",
+      "summary": "EUR/USD depreciates after three days of gains, trading around 1.1570 during the European hours on Tuesday. The pair loses ground as the Euro (EUR) remains subdued following the release of German ZEW Survey data.",
+      "link": "https://www.fxstreet.com/news/euro-remains-subdued-following-german-zew-survey-data-202608180923",
+      "published": "2026-08-18T09:23:43+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound trades lower against US Dollar after soft UK employment data",
+      "summary": "The British Pound (GBP) is down 0.1% to near 1.3530 against the US Dollar (USD) during the European trading session on Tuesday. The British currency comes under pressure after the release of the United Kingdom (UK) employment data for three months ending June.",
+      "link": "https://www.fxstreet.com/news/british-pound-trades-lower-against-us-dollar-after-soft-uk-employment-data-202608180916",
+      "published": "2026-08-18T09:16:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States: August inflation profile – TD Securities",
+      "summary": "TD Securities’ Macro Research team, led by Oscar Munoz and Molly Brooks, projects a stronger US August CPI profile. Headline CPI is seen rising 0.39% month-on-month, with gasoline and food inflation rebounding.",
+      "link": "https://www.fxstreet.com/news/united-states-august-inflation-profile-td-securities-202608180909",
+      "published": "2026-08-18T09:09:33+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar receives support from firm oil prices",
+      "summary": "USD/CAD extends its losses for the fourth successive day, trading around 1.3870 during the European hours on Tuesday. The currency pair depreciates as the commodity-linked Canadian Dollar (CAD) gains support from firming crude oil prices.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-receives-support-from-firm-oil-prices-202608180903",
+      "published": "2026-08-18T09:03:42+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -93,24 +147,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar declines due to increased risk aversion",
-      "summary": "NZD/USD depreciates after two days of losses, trading around 0.5880 during the European hours on Tuesday. The pair depreciates as the US Dollar (USD) holds ground on safe-haven flows amid escalating geopolitical tensions between the US and Iran.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-due-to-increased-risk-aversion-202608180804",
-      "published": "2026-08-18T08:04:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index extends recovery from two-month low; trades above 99.50",
-      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, builds on the overnight goodish rebound from the 99.30 area, or the lowest level since June 5, and gains some follow-through traction on Tuesday.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-extends-recovery-from-two-month-low-trades-above-9950-202608180755",
-      "published": "2026-08-18T07:55:12+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: ECB’s Lane: Right now food inflation is relatively low.",
@@ -138,66 +174,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Upside risk targets 0.7150 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight that AUD/USD strength remains intact after a jump to 0.7129, though overbought conditions should confine intraday moves to a 0.7090–0.7130 band.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-upside-risk-targets-07150-against-us-dollar-uob-202608180743",
-      "published": "2026-08-18T07:43:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Softer as jobs data cools hikes – ING",
-      "summary": "ING’s Chris Turner reports a firmer EUR/GBP after UK labour data, with economist James Smith highlighting a cool jobs market and minimal wage pressures, implying little impetus for Bank of England hikes this year.",
-      "link": "https://www.fxstreet.com/news/british-pound-softer-as-jobs-data-cools-hikes-ing-202608180721",
-      "published": "2026-08-18T07:21:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen hits drift closer to the key 160.00 level as risk appetite fades",
-      "summary": "The Japanese Yen (JPY) accelerates its decline as the US Dollar (USD) draws support from a sourer market mood, with investors wary of a re-escalation of tensions in the Middle East.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-hits-drift-closer-to-the-key-16000-level-as-risk-appetite-fades-202608180715",
-      "published": "2026-08-18T07:15:15+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Carry-supported but rangebound near term – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong highlight that still-attractive US Dollar (USD) carry and softer United States (US) data, which have reduced the odds of a September Fed hike, should keep the Dollar rangebound.",
-      "link": "https://www.fxstreet.com/news/us-dollar-carry-supported-but-rangebound-near-term-ocbc-202608180708",
-      "published": "2026-08-18T07:08:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD remains sideways around $65, FOMC takes centre stage",
-      "summary": "Silver price (XAG/USD) continues to trade in a limited range at around $65.30 during the European trading session on Tuesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-sideways-around-65-fomc-takes-centre-stage-202608180707",
-      "published": "2026-08-18T07:07:24+00:00",
-      "score": 4
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: South Korea national security adviser: Hope Trump's message on scaling back military drills with South Korea leads to meaningful North Korea-US dialogue, helping advance peace on the Korean Peninsula",
       "summary": "",
       "link": "https://www.financialjuice.com/News/9725449/South-Korea-national-security-adviser-Hope-Trumps-message-on-scaling-back-military-drills-with-South-Korea-leads-to-meaningful-North-Korea-US-dialogue-helping-advance-peace-on-the-Korean-Peninsula.aspx?xy=rss",
       "published": "2026-08-18T07:07:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CAD Price Forecast: Consolidates below 1.3900 as bears await 200-SMA breakdown",
-      "summary": "The USD/CAD pair struggles to capitalize on the overnight bounce from its lowest level since June 3, around the 1.3845 zone, also representing the 200-day Simple Moving Average (SMA) support, and oscillates in a narrow band on Tuesday.",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-consolidates-below-13900-as-bears-await-200-sma-breakdown-202608180703",
-      "published": "2026-08-18T07:03:28+00:00",
       "score": 1
     },
     {
@@ -221,8 +203,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee edges up, higher oil prices to remain key drag",
-      "summary": "The Indian Rupee (INR) edges up against the US Dollar (USD) on Tuesday. The USD/INR ticks lower to near 95.67 after refreshing the three-week high at 95.85 in the opening session. The Indian currency has gained slight strength due to potential Reserve Bank of India (RBI) intervention.",
+      "title": "Indian Rupee remains weak due to higher oil prices, RBI closes FCNR (B) window",
+      "summary": "The Indian Rupee (INR) trades with caution against the US Dollar (USD) on Tuesday. The USD/INR is close to its fresh three-week high of 95.85 despite potential Reserve Bank of India (RBI) intervention.",
       "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-possible-rbis-intervention-202608180534",
       "published": "2026-08-18T05:34:57+00:00",
       "score": 1
