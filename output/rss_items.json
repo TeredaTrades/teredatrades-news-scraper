@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-18T10:30:37.604715+00:00",
-  "count": 57,
+  "updated_at": "2026-08-18T11:03:05.414033+00:00",
+  "count": 67,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold falls as rising US Treasury yields strengthen the US Dollar",
+      "summary": "Gold (XAU/USD) attracts sellers on Tuesday, snapping a two-day winning streak as a firmer US Dollar (USD) and rising long-term US Treasury yields weigh on the precious metal. At the time of writing, XAU/USD trades around $4,393, down 0.50% on the day.",
+      "link": "https://www.fxstreet.com/news/gold-falls-as-rising-us-treasury-yields-strengthen-the-us-dollar-202608181051",
+      "published": "2026-08-18T10:51:51+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold Price Forecast: XAU/USD eases below $4,400 as US yields rally",
+      "summary": "Gold (XAU/USD) shows moderate losses on Tuesday, weighed by higher US Treasury yields and a risk-averse sentiment, which has triggered a mild US Dollar recovery.",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-eases-below-4-400-as-us-yields-rally-202608181043",
+      "published": "2026-08-18T10:43:56+00:00",
+      "score": 4
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -61,7 +79,7 @@
       "category": "news",
       "title": "FinancialJuice: UK 10 Yr Gilt Yield Actual 5.155% (Forecast -, Previous 5.04%)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9725602/UK-10-Yr-Gilt-Yield-Actual-5155-Forecast---Previous-504.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9725602/UK-10-Yr-Gilt-Yield-Actual-5155-Forecast---Previous-504.aspx",
       "published": "2026-08-18T09:02:48+00:00",
       "score": 1
     },
@@ -79,14 +97,14 @@
       "category": "news",
       "title": "FinancialJuice: Westpac: Daily Prep - FJElite",
       "summary": "<div>Markets adopted a generally risk-off tone as President Trump reaffirmed he was not interested in extending the truce with Iran, with renewed tensions in the Middle East pushing oil prices higher and complicating sentiment.</div><div><br /></div><div>Equities weakened in the US and Europe as rising oil prices weighed on sentiment, while Asian markets outperformed, supported by semiconductor st",
-      "link": "https://www.financialjuice.com/News/9725573/Westpac-Daily-Prep---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9725573/Westpac-Daily-Prep---FJElite.aspx",
       "published": "2026-08-18T08:54:00+00:00",
       "score": 3
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Fiscal concerns and doubts on Fed independence send US yields to long-term highs",
+      "title": "Fiscal concerns and doubts on Fed independence send US yields to 19-year highs",
       "summary": "US Treasury yields keep rising across the curve this week, with the yield for the 30-year Treasury bond reaching its highest level since 2007, during the global financial crisis, at 5.33% so far on Monday.",
       "link": "https://www.fxstreet.com/news/fiscal-concerns-and-doubts-on-fed-independence-send-us-yields-to-long-term-highs-202608180853",
       "published": "2026-08-18T08:53:14+00:00",
@@ -97,7 +115,7 @@
       "category": "news",
       "title": "FinancialJuice: ING: UK Employment - FJElite",
       "summary": "Nothing particularly earth-shattering in the latest UK jobs figures. Payrolled employment is down a touch - though this masks big differences between government (which is still actively hiring), consumer services (where job numbers are consistently falling and the pace of decline is getting worse) and the remaining private sector, which is flatlining. The unemployment rate is up a touch, though th",
-      "link": "https://www.financialjuice.com/News/9725571/ING-UK-Employment---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9725571/ING-UK-Employment---FJElite.aspx",
       "published": "2026-08-18T08:46:54+00:00",
       "score": 2
     },
@@ -106,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: MUFG: The USD - FJElite",
       "summary": "<div>The US dollar has rebounded modestly today with the focus very much on the deterioration in bond market sentiment. UST bond yields have moved further sharply higher and the 30-year yield is now 25bps higher since the FOMC meeting on 29th July. The 30-year yield at 5.32% this morning is the highest since 2007 and curve steepening is showing clear momentum in the US and elsewhere. What is direc",
-      "link": "https://www.financialjuice.com/News/9725559/MUFG-The-USD---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9725559/MUFG-The-USD---FJElite.aspx",
       "published": "2026-08-18T08:38:39+00:00",
       "score": 5
     },
@@ -129,48 +147,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones futures drop as soaring US yields, US-Iran friction rattle markets",
-      "summary": "Dow Jones futures fall by 0.25%, trading around 53,410 during European hours on Tuesday. Meanwhile, S&amp;P 500 futures decline 0.52% to near 7,730, and Nasdaq 100 futures slip 0.92%, trading near 29,820.",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-drop-as-soaring-us-yields-us-iran-friction-rattle-markets-202608180823",
-      "published": "2026-08-18T08:23:28+00:00",
-      "score": 2
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: LG Electronics speeds up robotics partnership with Nvidia",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9725522/LG-Electronics-speeds-up-robotics-partnership-with-Nvidia.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9725522/LG-Electronics-speeds-up-robotics-partnership-with-Nvidia.aspx",
       "published": "2026-08-18T08:08:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB’s Lane: Right now food inflation is relatively low.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9725501/ECBs-Lane-Right-now-food-inflation-is-relatively-low.aspx?xy=rss",
-      "published": "2026-08-18T07:46:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB’s Lane: Inflation to hover around 3% level for rest of year.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9725496/ECBs-Lane-Inflation-to-hover-around-3-level-for-rest-of-year.aspx?xy=rss",
-      "published": "2026-08-18T07:46:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB’s Lane: Inflation depends on energy prices.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9725495/ECBs-Lane-Inflation-depends-on-energy-prices.aspx?xy=rss",
-      "published": "2026-08-18T07:46:27+00:00",
       "score": 1
     },
     {
@@ -201,6 +183,69 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP APPROVAL FALLS TO PRESIDENCY LOW President Trump’s approval rating fell to 33%, the lowest of his presidency, according to a Reuters/Ipsos poll. About 64% disapprove of his performance. The Iran conflict is a major concern: 80% of Americans expect U.S. involvement to continue for an extended period. The decline comes ahead of November’s midterms, with Republicans defending their congressional majorities.",
+      "summary": "<p>TRUMP APPROVAL FALLS TO PRESIDENCY LOW<br />\n<br />\nPresident Trump’s approval rating fell to 33%, the lowest of his presidency, according to a Reuters/Ipsos poll. About 64% disapprove of his performance.<br />\n<br />\nThe Iran conflict is a major concern: 80% of Americans expect U.S. involvement to continue for an extended period.<br />\n<br />\nThe decline comes ahead of November’s midterms, wit",
+      "link": "https://nitter.net/DeItaone/status/2089423877877141988#m",
+      "published": "2026-08-17T18:47:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SAYS U.S. NOT SEEKING EXTENSION OF IRAN MOU",
+      "summary": "<p>TRUMP SAYS U.S. NOT SEEKING EXTENSION OF IRAN MOU</p>",
+      "link": "https://nitter.net/DeItaone/status/2089416080565408094#m",
+      "published": "2026-08-17T18:16:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: Iran is in big trouble",
+      "summary": "<p>Trump: Iran is in big trouble</p>",
+      "link": "https://nitter.net/DeItaone/status/2089415196351578496#m",
+      "published": "2026-08-17T18:12:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We're taking out millions of barrels of oil a week from the strait of Hormuz, it is open",
+      "summary": "<p>Trump: We're taking out millions of barrels of oil a week from the strait of Hormuz, it is open</p>",
+      "link": "https://nitter.net/DeItaone/status/2089415145193611762#m",
+      "published": "2026-08-17T18:12:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We control the strait of Hormuz",
+      "summary": "<p>Trump: We control the strait of Hormuz</p>",
+      "link": "https://nitter.net/DeItaone/status/2089414997872914941#m",
+      "published": "2026-08-17T18:12:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON UK PM: HE HAS IMMIGRATION, ENERGY PROBLEMS",
+      "summary": "<p>TRUMP ON UK PM: HE HAS IMMIGRATION, ENERGY PROBLEMS</p>",
+      "link": "https://nitter.net/DeItaone/status/2089414308358701322#m",
+      "published": "2026-08-17T18:09:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: THEY'RE NOT GOING TO MAKE THE KIND OF DEAL THAT I THINK IS NECESSARY",
+      "summary": "<p>TRUMP ON IRAN: THEY'RE NOT GOING TO MAKE THE KIND OF DEAL THAT I THINK IS NECESSARY</p>",
+      "link": "https://nitter.net/DeItaone/status/2089413351541526545#m",
+      "published": "2026-08-17T18:05:37+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "Markets are bracing for a more volatile period ahead: S&P 500 options are pricing a daily implied move of ~0.75% on August 27th, the day after Nvidia, $NVDA, reports its quarterly earnings. The following day, August 28th, carries a ~0.70% implied move in the index as the Jackson Hole symposium begins, making them the two most anticipated volatility events of the month. By comparison, typical daily implied moves on non-event days this week are just ~0.40-0.50%. At the same time, options positioning flipped from long to short gamma in early August, a dynamic that tends to amplify market swings once volatility picks up. Meanwhile, the volatility index, $VIX, finished last week at 14.3 points, the lowest level since December 2025. More volatility is likely ahead of us.",
@@ -208,6 +253,51 @@
       "link": "https://nitter.net/KobeissiLetter/status/2089403130890932267#m",
       "published": "2026-08-17T17:25:00+00:00",
       "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "US 30-YEAR YIELD HITS 2007 HIGH The 30-year Treasury yield climbed to 5.29%, its highest since 2007, as investors worry about rising U.S. debt, heavy bond issuance and persistent inflation. AI-related corporate borrowing and weaker demand for long-term bonds are adding pressure. The selloff continues despite softer jobs, inflation and retail data reducing near-term Fed hike expectations. Meanwhile, the yield curve is steepening as long-term yields rise while short-term yields fall.",
+      "summary": "<p>US 30-YEAR YIELD HITS 2007 HIGH<br />\n<br />\nThe 30-year Treasury yield climbed to 5.29%, its highest since 2007, as investors worry about rising U.S. debt, heavy bond issuance and persistent inflation.<br />\n<br />\nAI-related corporate borrowing and weaker demand for long-term bonds are adding pressure.<br />\n<br />\nThe selloff continues despite softer jobs, inflation and retail data reducing ",
+      "link": "https://nitter.net/DeItaone/status/2089399897304736004#m",
+      "published": "2026-08-17T17:12:09+00:00",
+      "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "XI TO SKIP UN, FOCUS ON TRUMP SUMMIT Chinese President Xi Jinping will reportedly skip the UN General Assembly during his U.S. visit next month. Xi is scheduled to meet President Trump at the White House on September 24, with his trip expected to focus almost entirely on the summit. The decision removes a potential opportunity for Xi to promote China’s global leadership agenda at the UN while the U.S. remains focused on the Iran conflict.",
+      "summary": "<p>XI TO SKIP UN, FOCUS ON TRUMP SUMMIT<br />\n<br />\nChinese President Xi Jinping will reportedly skip the UN General Assembly during his U.S. visit next month.<br />\n<br />\nXi is scheduled to meet President Trump at the White House on September 24, with his trip expected to focus almost entirely on the summit.<br />\n<br />\nThe decision removes a potential opportunity for Xi to promote China’s glo",
+      "link": "https://nitter.net/DeItaone/status/2089397489879159237#m",
+      "published": "2026-08-17T17:02:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "CITADEL: FED POLICY KEEPING TREASURY YIELDS HIGH Citadel Securities says the Fed’s policy approach is helping keep long-term Treasury yields near multi-decade highs, creating broader market risks. The 30-year yield topped 5.28%, its highest in 19 years, despite softer inflation and jobs data. Citadel warns inflation pressures remain, making the next Fed decision a close call. On AI, it favors cloud infrastructure and hyperscalers like Microsoft ( $MSFT) and Alphabet ( $GOOGL) over frontier model developers.",
+      "summary": "<p>CITADEL: FED POLICY KEEPING TREASURY YIELDS HIGH<br />\n<br />\nCitadel Securities says the Fed’s policy approach is helping keep long-term Treasury yields near multi-decade highs, creating broader market risks.<br />\n<br />\nThe 30-year yield topped 5.28%, its highest in 19 years, despite softer inflation and jobs data.<br />\n<br />\nCitadel warns inflation pressures remain, making the next Fed de",
+      "link": "https://nitter.net/DeItaone/status/2089387518915411997#m",
+      "published": "2026-08-17T16:22:58+00:00",
+      "score": 5
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "REPORT: PENTAGON SEES NO GUARANTEED HORMUZ SOLUTION The Pentagon has reportedly concluded that no current military plan can guarantee safe shipping through the Strait of Hormuz, according to a regional intelligence source cited by Iran’s Press TV. The source claims the assessment has frustrated President Trump as Washington struggles to secure the key oil route. Meanwhile, Iran’s IRGC says it remains fully prepared to respond to any military threat or aggression.",
+      "summary": "<p>REPORT: PENTAGON SEES NO GUARANTEED HORMUZ SOLUTION<br />\n<br />\nThe Pentagon has reportedly concluded that no current military plan can guarantee safe shipping through the Strait of Hormuz, according to a regional intelligence source cited by Iran’s Press TV.<br />\n<br />\nThe source claims the assessment has frustrated President Trump as Washington struggles to secure the key oil route.<br />\n",
+      "link": "https://nitter.net/DeItaone/status/2089387327080616265#m",
+      "published": "2026-08-17T16:22:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "SPOT SILVER RISES NEARLY 3% TO $66.54/OZ",
+      "summary": "<p>SPOT SILVER RISES NEARLY 3% TO $66.54/OZ</p>",
+      "link": "https://nitter.net/DeItaone/status/2089374522008801762#m",
+      "published": "2026-08-17T15:31:19+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
