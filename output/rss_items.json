@@ -1,32 +1,104 @@
 {
-  "updated_at": "2026-08-18T13:08:35.219625+00:00",
-  "count": 69,
+  "updated_at": "2026-08-18T13:57:12.100662+00:00",
+  "count": 60,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Effective fed funds rate 3.63% August 17th vs 3.63% August 14th",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9725921/Effective-fed-funds-rate-363-August-17th-vs-363-August-14th.aspx?xy=rss",
-      "published": "2026-08-18T13:00:00+00:00",
-      "score": 1
+      "title": "Gold: Price holds despite higher yields – Commerzbank",
+      "summary": "Commerzbank’s Carsten Fritsch notes that Gold remains around USD 4,400 per ounce even as US Treasury yields rise back toward late-July levels, decoupling from real interest rates.",
+      "link": "https://www.fxstreet.com/news/gold-price-holds-despite-higher-yields-commerzbank-202608181344",
+      "published": "2026-08-18T13:44:10+00:00",
+      "score": 4
     },
     {
-      "source": "Walter Bloomberg",
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold expected to trade range-bound despite increasing bets of a Fed rate pause",
+      "summary": "Gold prices continue to draw support from expectations that the Federal Reserve (Fed) will hold interest rates steady through the remainder of the year after softer US inflation and employment data.",
+      "link": "https://www.fxstreet.com/news/gold-expected-to-trade-range-bound-despite-increasing-bets-of-a-fed-rate-pause-202608181334",
+      "published": "2026-08-18T13:34:01+00:00",
+      "score": 4
+    },
+    {
+      "source": "Kobeissi Letter",
       "category": "twitter",
-      "title": "ECB'S LANE: EURO ZONE INFLATION ONE PERCENTAGE POINT ABOVE ECB'S 2% TARGET IS A LOT",
-      "summary": "<p>ECB'S LANE: EURO ZONE INFLATION ONE PERCENTAGE POINT ABOVE ECB'S 2% TARGET IS A LOT</p>",
-      "link": "https://nitter.net/DeItaone/status/2089698311489892695#m",
-      "published": "2026-08-18T12:57:56+00:00",
+      "title": "BREAKING: President Trump says there are no talks or conversations going on or scheduled with Iran.",
+      "summary": "<p>BREAKING: President Trump says there are no talks or conversations going on or scheduled with Iran.</p>\n<img src=\"https://nitter.net/pic/media%2FHQAhbKMXgAApYqt.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2089706981695111232#m",
+      "published": "2026-08-18T13:32:23+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: ECB's Lane: Euro zone inflation one percentage point above ECB's 2% target is a lot.",
+      "title": "FinancialJuice: Trump: Naval blockade remains in full effect.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9725918/ECBs-Lane-Euro-zone-inflation-one-percentage-point-above-ECBs-2-target-is-a-lot.aspx?xy=rss",
-      "published": "2026-08-18T12:57:52+00:00",
+      "link": "https://www.financialjuice.com/News/9725988/Trump-Naval-blockade-remains-in-full-effect.aspx?xy=rss",
+      "published": "2026-08-18T13:31:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: All water mines have been removed or detonated.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9725986/Trump-All-water-mines-have-been-removed-or-detonated.aspx?xy=rss",
+      "published": "2026-08-18T13:31:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Hormuz Strait is open and operating.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9725985/Trump-Hormuz-Strait-is-open-and-operating.aspx?xy=rss",
+      "published": "2026-08-18T13:31:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: +285 mln<br />Nasdaq 100: +13 mln<br />Dow 30: +26 mln<br />Mag 7: -1 mln",
+      "link": "https://www.financialjuice.com/News/9725983/MOO-Imbalance.aspx?xy=rss",
+      "published": "2026-08-18T13:30:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: No talks or conversations are going on or scheduled with Iran - Truth Social",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9725984/Trump-No-talks-or-conversations-are-going-on-or-scheduled-with-Iran---Truth-Social.aspx?xy=rss",
+      "published": "2026-08-18T13:30:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump discussed cooperation between the UAE and the US and ways to further strengthen ties in support of mutual interests - WAM News",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9725979/Trump-discussed-cooperation-between-the-UAE-and-the-US-and-ways-to-further-strengthen-ties-in-support-of-mutual-interests---WAM-News.aspx?xy=rss",
+      "published": "2026-08-18T13:24:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: UAE President and Trump discuss region in a phone call - WAM.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9725975/UAE-President-and-Trump-discuss-region-in-a-phone-call---WAM.aspx?xy=rss",
+      "published": "2026-08-18T13:19:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro consolidates below two-month high as US Dollar steadies",
+      "summary": "EUR/USD consolidates losses on Tuesday after pulling back from a two-month high of 1.1614 reached the previous day.",
+      "link": "https://www.fxstreet.com/news/euro-consolidates-below-two-month-high-as-us-dollar-steadies-202608181319",
+      "published": "2026-08-18T13:19:12+00:00",
       "score": 1
     },
     {
@@ -57,15 +129,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "US 10-YEAR YIELD HITS 19-MONTH HIGH The 10-year Treasury yield climbed to 4.75%, its highest since early 2025, as a global bond selloff deepened. Inflation concerns, heavy corporate debt issuance and thin August trading are pressuring bonds worldwide. Middle East tensions and Brent crude above $91 added to inflation fears. Meanwhile, markets see about a 35% chance of a Fed rate hike in September, with a full hike not priced in until January 2027.",
-      "summary": "<p>US 10-YEAR YIELD HITS 19-MONTH HIGH<br />\n<br />\nThe 10-year Treasury yield climbed to 4.75%, its highest since early 2025, as a global bond selloff deepened.<br />\n<br />\nInflation concerns, heavy corporate debt issuance and thin August trading are pressuring bonds worldwide.<br />\n<br />\nMiddle East tensions and Brent crude above $91 added to inflation fears.<br />\n<br />\nMeanwhile, markets s",
-      "link": "https://nitter.net/DeItaone/status/2089693902873792516#m",
-      "published": "2026-08-18T12:40:25+00:00",
-      "score": 3
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Euro: Range-bound before FOMC against US Dollar – ING",
@@ -73,24 +136,6 @@
       "link": "https://www.fxstreet.com/news/euro-range-bound-before-fomc-against-us-dollar-ing-202608181230",
       "published": "2026-08-18T12:30:23+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs: Q2 Earnings Point to Solid Growth, but Consumer Risks Are Building - FJElite",
-      "summary": "<div>With most of the S&amp;P 500 now reported, Q2 results point to strong underlying activity. Real revenues excluding energy rose 6.4% year-on-year, the fastest pace since 2021, reinforcing the view that economic growth remained solid through the quarter.</div><div><br /></div><div>Consumer commentary also improved, helped by fiscal support despite high oil prices, but the outlook is softer. Rea",
-      "link": "https://www.financialjuice.com/News/9725870/Goldman-Sachs-Q2-Earnings-Point-to-Solid-Growth-but-Consumer-Risks-Are-Building---FJElite.aspx?xy=rss",
-      "published": "2026-08-18T12:29:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Deutsche Bank: Middle East Stalemate Pushes Oil and Long-End Yields Higher - FJElite",
-      "summary": "<div>Markets weakened as the lack of progress between the US and Iran increased expectations for a more prolonged closure of the Strait of Hormuz. Brent moved back above $90 a barrel and continued higher, while equities slipped and inflation concerns pushed long-end bond yields to fresh multi-year highs, including the US 30-year Treasury yield at its highest since 2007.</div><div><br /></div><div>",
-      "link": "https://www.financialjuice.com/News/9725868/Deutsche-Bank-Middle-East-Stalemate-Pushes-Oil-and-Long-End-Yields-Higher---FJElite.aspx?xy=rss",
-      "published": "2026-08-18T12:25:36+00:00",
-      "score": 3
     },
     {
       "source": "FXStreet",
@@ -109,24 +154,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-remains-resilient-as-oil-strength-counters-firmer-us-dollar-202608181216",
       "published": "2026-08-18T12:16:05+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Sentiment: Risk Sentiment Down, with Oil & Yields in Focus - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9725838/US-Sentiment-Risk-Sentiment-Down-with-Oil--Yields-in-Focus---FJElite.aspx?xy=rss",
-      "published": "2026-08-18T12:13:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "🇺🇸TRUMP’S TUESDAY SCHEDULE: President Trump’s schedule for Tuesday, August 18 centers on a series of closed-door policy meetings. 🔸8:00 AM: Executive Time 🔸11:00 AM: Policy Meeting 🔸12:00 PM: Policy Meeting 🔸2:30 PM: Policy Meeting 🔸4:00 PM: Policy Meeting 🔸5:00 PM: Policy Meeting All scheduled presidential events are closed to the press.",
-      "summary": "<p>🇺🇸TRUMP’S TUESDAY SCHEDULE: <br />\n<br />\nPresident Trump’s schedule for Tuesday, August 18 centers on a series of closed-door policy meetings.<br />\n<br />\n🔸8:00 AM: Executive Time<br />\n🔸11:00 AM: Policy Meeting<br />\n🔸12:00 PM: Policy Meeting<br />\n🔸2:30 PM: Policy Meeting<br />\n🔸4:00 PM: Policy Meeting<br />\n🔸5:00 PM: Policy Meeting<br />\n<br />\nAll scheduled presidential events are closed ",
-      "link": "https://nitter.net/DeItaone/status/2089681173798691016#m",
-      "published": "2026-08-18T11:49:50+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -156,24 +183,6 @@
       "score": 5
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "IRAN HITS BACK AT TRUMP OVER HORMUZ Iran’s deputy foreign minister criticized Trump’s position on the Strait of Hormuz, calling it a “delusion” that will soon be corrected. He also noted that Trump had correctly referred to the Persian Gulf by name.",
-      "summary": "<p>IRAN HITS BACK AT TRUMP OVER HORMUZ<br />\n<br />\nIran’s deputy foreign minister criticized Trump’s position on the Strait of Hormuz, calling it a “delusion” that will soon be corrected.<br />\n<br />\nHe also noted that Trump had correctly referred to the Persian Gulf by name.</p>\n<hr />\n<blockquote>\n<b>*Walter Bloomberg (@DeItaone)</b>\n<p>\n<p>Trump tweets: Strait of Hormuz - new American territo",
-      "link": "https://nitter.net/DeItaone/status/2089676990840180826#m",
-      "published": "2026-08-18T11:33:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "R to @DeItaone: 📈 PRICE TARGET RAISED • $ANF: PT raised to $126 from $110 by JPMorgan • $CPB: PT raised to $22 from $20 by JPMorgan • $LIFE: PT raised to $37 from $23 by JPMorgan • $P: PT raised to $170 from $100 by TD Cowen • $MRVL: PT raised to $225 from $200 by TD Cowen • $NTAP: PT raised to $209 from $150 by Citigroup • $OKTA: PT raised to $170 from $140 by Jefferies • $CRM: PT raised to $204 from $187 by Citigroup • $SMBK: PT raised to $60 from $56 by Benchmark • $TNGX: PT raised to $68 from $66 by H.C. Wainwright • $TRGP: PT raised to $345 from $324 by Jefferies • $URBN: PT raised to $110 from $97 by JPMorgan 📉 PRICE TARGET CUT • $CIEN: PT cut to $575 from $675 by TD Cowen • $EYPT: PT cut to $17 from $35 by Citigroup; PT cut to $8 from $30 by Jefferies • $FERG: PT cut to $315 from $325 by BofA Global Research • $FLUT: PT cut to $162 from $190 by Goldman Sachs • $SBET: PT cut to $8 from $16 by Canaccord Genuity • $YSS: PT cut to $15 from $32 by Jefferies 🔵 COVERAGE • $ELVN: Coverage initiated at Outperform by William Blair • $FRNM: Coverage initiated at Buy by TD Cowen; PT $17 • $NUVB: Coverage initiated at Overweight by JPMorgan; PT $13 • $SCTX: Coverage initiated at Outperform by Leerink Partners; PT $37 • $SSMR: Coverage initiated at Speculative Buy by Canaccord Genuity; PT $20 • $WBI: Coverage resumed at Overweight by JPMorgan; PT $38",
-      "summary": "<p>📈 PRICE TARGET RAISED<br />\n• <a href=\"https://nitter.net/search?f=tweets&amp;q=%23ANF\">$ANF</a>: PT raised to $126 from $110 by JPMorgan<br />\n• <a href=\"https://nitter.net/search?f=tweets&amp;q=%23CPB\">$CPB</a>: PT raised to $22 from $20 by JPMorgan<br />\n• <a href=\"https://nitter.net/search?f=tweets&amp;q=%23LIFE\">$LIFE</a>: PT raised to $37 from $23 by JPMorgan<br />\n• <a href=\"https://nitt",
-      "link": "https://nitter.net/DeItaone/status/2089676731611259124#m",
-      "published": "2026-08-18T11:32:11+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "US Dollar: Safe haven status faces debt-market strains – Rabobank",
@@ -183,78 +192,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump tweets: Strait of Hormuz - new American territory",
-      "summary": "<p>Trump tweets: Strait of Hormuz - new American territory</p>",
-      "link": "https://nitter.net/DeItaone/status/2089673580128739556#m",
-      "published": "2026-08-18T11:19:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: Aims to extend rally above 160.00",
-      "summary": "The Japanese Yen (JPY) underperforms its major currency peers on Tuesday, with USD/JPY trading 0.16% higher at around 159.70 during the European trading session.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-aims-to-extend-rally-above-16000-202608181115",
-      "published": "2026-08-18T11:15:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "AI BUBBLE TOPS MARKET RISK FEARS An AI bubble is now the biggest tail risk for markets, according to Bank of America’s August fund manager survey. 32% of investors see an AI bubble as the main threat—a rare event that could trigger major market disruption. Meanwhile, 27% identify a disorderly surge in bond yields as the second-biggest risk facing financial markets.",
-      "summary": "<p>AI BUBBLE TOPS MARKET RISK FEARS<br />\n<br />\nAn AI bubble is now the biggest tail risk for markets, according to Bank of America’s August fund manager survey.<br />\n<br />\n32% of investors see an AI bubble as the main threat—a rare event that could trigger major market disruption.<br />\n<br />\nMeanwhile, 27% identify a disorderly surge in bond yields as the second-biggest risk facing financial",
-      "link": "https://nitter.net/DeItaone/status/2089670652269625849#m",
-      "published": "2026-08-18T11:08:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "INVESTORS GROW MORE BULLISH ON U.S. STOCKS Confidence in U.S. equities is rising, according to Bank of America’s August fund manager survey. A net 27% of managers are overweight U.S. stocks, up from 24% in July and the highest since December 2024. The S&P 500 is up 13% this year, beating Europe’s Stoxx 600 at 10%. However, U.S. stocks continue to trail Japanese and Korean markets.",
-      "summary": "<p>INVESTORS GROW MORE BULLISH ON U.S. STOCKS<br />\n<br />\nConfidence in U.S. equities is rising, according to Bank of America’s August fund manager survey.<br />\n<br />\nA net 27% of managers are overweight U.S. stocks, up from 24% in July and the highest since December 2024.<br />\n<br />\nThe S&amp;P 500 is up 13% this year, beating Europe’s Stoxx 600 at 10%.<br />\n<br />\nHowever, U.S. stocks cont",
-      "link": "https://nitter.net/DeItaone/status/2089669959517339945#m",
-      "published": "2026-08-18T11:05:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FUND MANAGERS SEE GOLD AS UNDERVALUED Fund managers are turning more bullish on gold, according to Bank of America’s August survey. A net 16% say gold is undervalued, up sharply from 6% in July and the highest since March 2023. Gold has fallen significantly since topping $5,300 an ounce in January, although prices have recovered somewhat in August. On Tuesday, New York gold contracts slipped 0.5% to $4,450.30 an ounce.",
-      "summary": "<p>FUND MANAGERS SEE GOLD AS UNDERVALUED<br />\n<br />\nFund managers are turning more bullish on gold, according to Bank of America’s August survey.<br />\n<br />\nA net 16% say gold is undervalued, up sharply from 6% in July and the highest since March 2023.<br />\n<br />\nGold has fallen significantly since topping $5,300 an ounce in January, although prices have recovered somewhat in August.<br />\n<",
-      "link": "https://nitter.net/DeItaone/status/2089669802251984995#m",
-      "published": "2026-08-18T11:04:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "INVESTORS BRACE FOR GLOBAL STAGFLATION Most investors expect stagflation—weak growth combined with high inflation—over the next 12 months, Bank of America’s August survey shows. 49% expect stagflation, up from 47% in July. Meanwhile, 43% expect an economic boom, the highest level since February 2022. Optimism is fading, however, with just a net 14% expecting stronger global growth, down from 21% last month.",
-      "summary": "<p>INVESTORS BRACE FOR GLOBAL STAGFLATION<br />\n<br />\nMost investors expect stagflation—weak growth combined with high inflation—over the next 12 months, Bank of America’s August survey shows.<br />\n<br />\n49% expect stagflation, up from 47% in July.<br />\n<br />\nMeanwhile, 43% expect an economic boom, the highest level since February 2022.<br />\n<br />\nOptimism is fading, however, with just a ne",
-      "link": "https://nitter.net/DeItaone/status/2089669624291811519#m",
-      "published": "2026-08-18T11:03:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "WARSH EXPECTED TO STAY NEUTRAL AT JACKSON HOLE Federal Reserve Chair Kevin Warsh is expected to strike a neutral tone at the Fed’s Jackson Hole meeting later this month, according to Bank of America’s August survey. However, 31% expect a hawkish message, signaling tighter monetary policy. Only 7% expect a dovish stance, pointing to limited expectations for a softer policy outlook.",
-      "summary": "<p>WARSH EXPECTED TO STAY NEUTRAL AT JACKSON HOLE<br />\n<br />\nFederal Reserve Chair Kevin Warsh is expected to strike a neutral tone at the Fed’s Jackson Hole meeting later this month, according to Bank of America’s August survey.<br />\n<br />\nHowever, 31% expect a hawkish message, signaling tighter monetary policy.<br />\n<br />\nOnly 7% expect a dovish stance, pointing to limited expectations for",
-      "link": "https://nitter.net/DeItaone/status/2089669498479489110#m",
-      "published": "2026-08-18T11:03:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*GERMANY PAYS HIGHEST YIELD SINCE 2011 FOR 30-YEAR BOND SALE",
-      "summary": "<p>*GERMANY PAYS HIGHEST YIELD SINCE 2011 FOR 30-YEAR BOND SALE</p>",
-      "link": "https://nitter.net/DeItaone/status/2089669289515139391#m",
-      "published": "2026-08-18T11:02:37+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Gold falls as rising US Treasury yields strengthen the US Dollar",
@@ -262,15 +199,6 @@
       "link": "https://www.fxstreet.com/news/gold-falls-as-rising-us-treasury-yields-strengthen-the-us-dollar-202608181051",
       "published": "2026-08-18T10:51:51+00:00",
       "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD eases below $4,400 as US yields rally",
-      "summary": "Gold (XAU/USD) shows moderate losses on Tuesday, weighed by higher US Treasury yields and a risk-averse sentiment, which has triggered a mild US Dollar recovery.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-eases-below-4-400-as-us-yields-rally-202608181043",
-      "published": "2026-08-18T10:43:56+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
@@ -297,15 +225,6 @@
       "summary": "<p>BREAKING: US interest expense on the national debt hit a record $1.4 trillion over the last 12 months.<br />\n<br />\nSince 2020, the cost of servicing US public debt has nearly TRIPLED.<br />\n<br />\nIf rates remain stable, interest payments are set to rise to $1.7 trillion by November 2028.<br />\n<br />\nAs a result, interest will surpass Social Security spending as the government's largest outla",
       "link": "https://nitter.net/KobeissiLetter/status/2089507603386896421#m",
       "published": "2026-08-18T00:20:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP APPROVAL FALLS TO PRESIDENCY LOW President Trump’s approval rating fell to 33%, the lowest of his presidency, according to a Reuters/Ipsos poll. About 64% disapprove of his performance. The Iran conflict is a major concern: 80% of Americans expect U.S. involvement to continue for an extended period. The decline comes ahead of November’s midterms, with Republicans defending their congressional majorities.",
-      "summary": "<p>TRUMP APPROVAL FALLS TO PRESIDENCY LOW<br />\n<br />\nPresident Trump’s approval rating fell to 33%, the lowest of his presidency, according to a Reuters/Ipsos poll. About 64% disapprove of his performance.<br />\n<br />\nThe Iran conflict is a major concern: 80% of Americans expect U.S. involvement to continue for an extended period.<br />\n<br />\nThe decline comes ahead of November’s midterms, wit",
-      "link": "https://nitter.net/DeItaone/status/2089423877877141988#m",
-      "published": "2026-08-17T18:47:26+00:00",
       "score": 1
     },
     {
