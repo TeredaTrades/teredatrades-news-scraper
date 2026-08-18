@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-08-17T23:37:10.239850+00:00",
-  "count": 71,
+  "updated_at": "2026-08-18T01:45:02.452015+00:00",
+  "count": 59,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound gathers strength to near 1.3550 as Fed hike bets fade, UK jobs data loom",
+      "summary": "The GBP/USD pair gains momentum to around 1.3550 during the early Asian trading hours on Tuesday. The US Dollar (USD) softens against the British Pound (GBP) as cooler US inflation data have prompted traders to reduce bets on a US Federal Reserve (Fed) rate hike.",
+      "link": "https://www.fxstreet.com/news/british-pound-gathers-strength-to-near-13550-as-fed-hike-bets-fade-uk-jobs-data-loom-202608180127",
+      "published": "2026-08-18T01:27:36+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7905 vs. 6.7873 previous",
+      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7905 compared to the previous day's fix of 6.7873 and 6.7452 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67905-vs-67873-previous-202608180115",
+      "published": "2026-08-18T01:15:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro flat lines below two-month high as oil-driven inflation fears support USD",
+      "summary": "The EUR/USD pair holds steady around the 1.1575-1.1580 region during the Asian session on Tuesday and, for now, seems to have stalled the previous day's modest pullback from a two-month top.",
+      "link": "https://www.fxstreet.com/news/euro-flat-lines-below-two-month-low-as-oil-driven-inflation-fears-support-usd-202608180114",
+      "published": "2026-08-18T01:14:26+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar gains as US Dollar struggles amid fading Fed rate hike bets",
+      "summary": "AUD/USD extends its gains for the third successive day, trading around 0.7110 during the Asian hours on Tuesday. The currency pair continues to appreciate as the US Dollar (USD) remains subdued amid fading expectations for further rate hikes by the Federal Reserve (Fed).",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gains-as-us-dollar-struggles-amid-fading-fed-rate-hike-bets-202608180100",
+      "published": "2026-08-18T01:00:26+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "WTI flatlines near $84.00 as Trump rejects truce extension",
+      "summary": "West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $84.00 during the early Asian trading hours on Tuesday. WTI steadies as traders continue to assess the developments surrounding Middle East conflicts.",
+      "link": "https://www.fxstreet.com/news/wti-flatlines-near-8400-as-trump-rejects-truce-extension-202608180029",
+      "published": "2026-08-18T00:29:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: US interest expense on the national debt hit a record $1.4 trillion over the last 12 months. Since 2020, the cost of servicing US public debt has nearly TRIPLED. If rates remain stable, interest payments are set to rise to $1.7 trillion by November 2028. As a result, interest will surpass Social Security spending as the government's largest outlay for the first time. America's debt bill is spiraling out of control.",
+      "summary": "<p>BREAKING: US interest expense on the national debt hit a record $1.4 trillion over the last 12 months.<br />\n<br />\nSince 2020, the cost of servicing US public debt has nearly TRIPLED.<br />\n<br />\nIf rates remain stable, interest payments are set to rise to $1.7 trillion by November 2028.<br />\n<br />\nAs a result, interest will surpass Social Security spending as the government's largest outla",
+      "link": "https://nitter.net/KobeissiLetter/status/2089507603386896421#m",
+      "published": "2026-08-18T00:20:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Donald Trump says not seeking extension of Iran MOU",
+      "summary": "US President Donald Trump said that he is not interested in renewing the expiring agreement with Iran, Bloomberg reported on Monday.",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-not-seeking-extension-of-iran-mou-202608172340",
+      "published": "2026-08-17T23:40:07+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -30,6 +93,15 @@
       "score": 1
     },
     {
+      "source": "r/WallStreetBets",
+      "category": "reddit",
+      "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
+      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tech-100\"> /u/Tech-100 </a> <br /> <span><a href=\"https://www.reuters.com/business/media-telecom/nvidia-invest-15-billion-sb-energy-under-openai-data-center-deal-2026-08-17/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/wallstreetbets/comments/1vr73ke/nvidia_to_provide_up_to_105_billion_guarantee_for/\">[comments]</a><",
+      "link": "https://www.reddit.com/r/wallstreetbets/comments/1vr73ke/nvidia_to_provide_up_to_105_billion_guarantee_for/",
+      "published": "2026-08-17T22:32:55+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "EUR/USD Price Forecast: Struggles at 1.1600, dives below 100-day SMA",
@@ -52,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: Erdogan told Trump Israel is assaulting Palestinians in Gaza as second phase of peace plan was set to begin: Turkish presidency",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9724821/Erdogan-told-Trump-Israel-is-assaulting-Palestinians-in-Gaza-as-second-phase-of-peace-plan-was-set-to-begin-Turkish-presidency.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9724821/Erdogan-told-Trump-Israel-is-assaulting-Palestinians-in-Gaza-as-second-phase-of-peace-plan-was-set-to-begin-Turkish-presidency.aspx",
       "published": "2026-08-17T21:37:11+00:00",
       "score": 1
     },
@@ -61,7 +133,7 @@
       "category": "news",
       "title": "FinancialJuice: Erdogan tells Trump continuing talks with Iran is crucial to leverage diplomacy, Turkey ready to assist",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9724820/Erdogan-tells-Trump-continuing-talks-with-Iran-is-crucial-to-leverage-diplomacy-Turkey-ready-to-assist.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9724820/Erdogan-tells-Trump-continuing-talks-with-Iran-is-crucial-to-leverage-diplomacy-Turkey-ready-to-assist.aspx",
       "published": "2026-08-17T21:36:21+00:00",
       "score": 1
     },
@@ -70,7 +142,7 @@
       "category": "news",
       "title": "FinancialJuice: Turkey’s Erdogan held phone call with US President Trump: Turkish presidency",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9724819/Turkeys-Erdogan-held-phone-call-with-US-President-Trump-Turkish-presidency.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9724819/Turkeys-Erdogan-held-phone-call-with-US-President-Trump-Turkish-presidency.aspx",
       "published": "2026-08-17T21:35:51+00:00",
       "score": 1
     },
@@ -79,7 +151,7 @@
       "category": "news",
       "title": "FinancialJuice: Turkey's Erdogan, Trump discussed bilateral relations, conflicts in Iran and Gaza, defense agreement with Pakistan and Saudi Arabia",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9724818/Turkeys-Erdogan-Trump-discussed-bilateral-relations-conflicts-in-Iran-and-Gaza-defense-agreement-with-Pakistan-and-Saudi-Arabia.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9724818/Turkeys-Erdogan-Trump-discussed-bilateral-relations-conflicts-in-Iran-and-Gaza-defense-agreement-with-Pakistan-and-Saudi-Arabia.aspx",
       "published": "2026-08-17T21:34:50+00:00",
       "score": 1
     },
@@ -90,15 +162,6 @@
       "summary": "NZD/USD is close to flat on the day, holding the 0.5900 region and unable to join the broader move against a soft US Dollar (USD).",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-stalls-as-china-slows-down-202608172134",
       "published": "2026-08-17T21:34:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US judge halts Trump administration plan to move new FBI headquarters from Maryland to Washington, D.C.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724795/US-judge-halts-Trump-administration-plan-to-move-new-FBI-headquarters-from-Maryland-to-Washington-DC.aspx?xy=rss",
-      "published": "2026-08-17T21:25:45+00:00",
       "score": 1
     },
     {
@@ -129,24 +192,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nasdaq: on December 6th 2026, Nasdaq will introduce a new trading session from 9 PM to 4 AM ET.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724707/Nasdaq-on-December-6th-2026-Nasdaq-will-introduce-a-new-trading-session-from-9-PM-to-4-AM-ET.aspx?xy=rss",
-      "published": "2026-08-17T19:55:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nasdaq: Engaging with regulators to offer nearly continuous trading 23 hours a day, 5 days a week, on Nasdaq stock market.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724706/Nasdaq-Engaging-with-regulators-to-offer-nearly-continuous-trading-23-hours-a-day-5-days-a-week-on-Nasdaq-stock-market.aspx?xy=rss",
-      "published": "2026-08-17T19:54:24+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Singapore Dollar: Mild upside bias against US Dollar remains intact – UOB",
@@ -156,120 +201,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso softens as Middle East risks boost US Dollar",
-      "summary": "The Mexican Peso (MXN) weakens against the US Dollar (USD) on Monday, with USD/MXN reclaiming the 17.00 level, even though the latest US inflation and Retail Sales data disappointed investors. At the time of writing, the USD/MXN pair trades at 17.03, breaking a four-day losing streak.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-softens-as-middle-east-risks-boosts-the-us-dollar-202608171952",
-      "published": "2026-08-17T19:52:53+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: +602 mln<br />Nasdaq 100: -43 mln<br />Dow 30: +283 mln<br />Mag 7: -120 mln",
-      "link": "https://www.financialjuice.com/News/9724705/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-08-17T19:50:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Policymakers guide measured RMB appreciation – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong highlight that USD/CNH is trading near recent lows as Chinese policymakers allow a measured pace of Renminbi (RMB) appreciation while resisting an overly rapid move via a sizeable fixing premium.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-policymakers-guide-measured-rmb-appreciation-ocbc-202608171926",
-      "published": "2026-08-17T19:26:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP APPROVAL FALLS TO PRESIDENCY LOW President Trump’s approval rating fell to 33%, the lowest of his presidency, according to a Reuters/Ipsos poll. About 64% disapprove of his performance. The Iran conflict is a major concern: 80% of Americans expect U.S. involvement to continue for an extended period. The decline comes ahead of November’s midterms, with Republicans defending their congressional majorities.",
-      "summary": "<p>TRUMP APPROVAL FALLS TO PRESIDENCY LOW<br />\n<br />\nPresident Trump’s approval rating fell to 33%, the lowest of his presidency, according to a Reuters/Ipsos poll. About 64% disapprove of his performance.<br />\n<br />\nThe Iran conflict is a major concern: 80% of Americans expect U.S. involvement to continue for an extended period.<br />\n<br />\nThe decline comes ahead of November’s midterms, wit",
-      "link": "https://nitter.net/DeItaone/status/2089423877877141988#m",
-      "published": "2026-08-17T18:47:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "A crushed US Dollar sends Gold into a rally above $4,400",
-      "summary": "Gold (XAU/USD) price rises over 1% on Monday amid overall US Dollar (USD) weakness and lower US Treasury yields, following last week’s soft inflation data that reduced speculation of a hawkish Federal Reserve (Fed), . The XAU/USD trades at $4,422 after bouncing off daily lows of $4,367.",
-      "link": "https://www.fxstreet.com/news/a-crushed-us-dollar-sends-gold-into-a-rally-above-4-400-202608171826",
-      "published": "2026-08-17T18:26:01+00:00",
-      "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CHF Price Forecast: Bulls need a break above 0.8200 to regain momentum",
-      "summary": "USD/CHF rebounds on Monday as the US Dollar (USD) recovers from its early losses. At the time of writing, the pair trades around 0.8112 after touching an intraday low of 0.8072, its lowest level in over a week.",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-need-a-break-above-08200-to-regain-momentum-202608171822",
-      "published": "2026-08-17T18:22:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG consolidates as haven demand returns",
-      "summary": "Silver (XAG/USD) price surges nearly 1.80% on Monday as the Greenback dives, while uncertainty over the US-Iran conflict clouds investor sentiment. The precious metals segment seems to have regained its haven status, even though Oil prices edged higher.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-consolidates-as-haven-demand-returns-202608171820",
-      "published": "2026-08-17T18:20:08+00:00",
-      "score": 5
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP SAYS U.S. NOT SEEKING EXTENSION OF IRAN MOU",
-      "summary": "<p>TRUMP SAYS U.S. NOT SEEKING EXTENSION OF IRAN MOU</p>",
-      "link": "https://nitter.net/DeItaone/status/2089416080565408094#m",
-      "published": "2026-08-17T18:16:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: Iran is in big trouble",
-      "summary": "<p>Trump: Iran is in big trouble</p>",
-      "link": "https://nitter.net/DeItaone/status/2089415196351578496#m",
-      "published": "2026-08-17T18:12:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: We're taking out millions of barrels of oil a week from the strait of Hormuz, it is open",
-      "summary": "<p>Trump: We're taking out millions of barrels of oil a week from the strait of Hormuz, it is open</p>",
-      "link": "https://nitter.net/DeItaone/status/2089415145193611762#m",
-      "published": "2026-08-17T18:12:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: We control the strait of Hormuz",
-      "summary": "<p>Trump: We control the strait of Hormuz</p>",
-      "link": "https://nitter.net/DeItaone/status/2089414997872914941#m",
-      "published": "2026-08-17T18:12:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON UK PM: HE HAS IMMIGRATION, ENERGY PROBLEMS",
-      "summary": "<p>TRUMP ON UK PM: HE HAS IMMIGRATION, ENERGY PROBLEMS</p>",
-      "link": "https://nitter.net/DeItaone/status/2089414308358701322#m",
-      "published": "2026-08-17T18:09:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: THEY'RE NOT GOING TO MAKE THE KIND OF DEAL THAT I THINK IS NECESSARY",
-      "summary": "<p>TRUMP ON IRAN: THEY'RE NOT GOING TO MAKE THE KIND OF DEAL THAT I THINK IS NECESSARY</p>",
-      "link": "https://nitter.net/DeItaone/status/2089413351541526545#m",
-      "published": "2026-08-17T18:05:37+00:00",
+      "source": "r/WallStreetBets",
+      "category": "reddit",
+      "title": "[DD] Why $RDDT goes to $1,000 the exact second their AI team figures out Post-Nut Clarity",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Let's talk about your sister. She’s currently pulling $45,000 a month on OnlyFans. How does she run her entire marketing department? By posting &quot;teaser preview&quot; gifs across 40 different subreddits every single morning. Half of this website’s daily active users are here purely to funnel traffic to her page while hiding under a blanket at 2:00 AM.</p> <p>N",
+      "link": "https://www.reddit.com/r/wallstreetbets/comments/1vr15ra/dd_why_rddt_goes_to_1000_the_exact_second_their/",
+      "published": "2026-08-17T18:51:05+00:00",
       "score": 1
     },
     {
@@ -282,49 +219,13 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "US 30-YEAR YIELD HITS 2007 HIGH The 30-year Treasury yield climbed to 5.29%, its highest since 2007, as investors worry about rising U.S. debt, heavy bond issuance and persistent inflation. AI-related corporate borrowing and weaker demand for long-term bonds are adding pressure. The selloff continues despite softer jobs, inflation and retail data reducing near-term Fed hike expectations. Meanwhile, the yield curve is steepening as long-term yields rise while short-term yields fall.",
-      "summary": "<p>US 30-YEAR YIELD HITS 2007 HIGH<br />\n<br />\nThe 30-year Treasury yield climbed to 5.29%, its highest since 2007, as investors worry about rising U.S. debt, heavy bond issuance and persistent inflation.<br />\n<br />\nAI-related corporate borrowing and weaker demand for long-term bonds are adding pressure.<br />\n<br />\nThe selloff continues despite softer jobs, inflation and retail data reducing ",
-      "link": "https://nitter.net/DeItaone/status/2089399897304736004#m",
-      "published": "2026-08-17T17:12:09+00:00",
-      "score": 4
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "XI TO SKIP UN, FOCUS ON TRUMP SUMMIT Chinese President Xi Jinping will reportedly skip the UN General Assembly during his U.S. visit next month. Xi is scheduled to meet President Trump at the White House on September 24, with his trip expected to focus almost entirely on the summit. The decision removes a potential opportunity for Xi to promote China’s global leadership agenda at the UN while the U.S. remains focused on the Iran conflict.",
-      "summary": "<p>XI TO SKIP UN, FOCUS ON TRUMP SUMMIT<br />\n<br />\nChinese President Xi Jinping will reportedly skip the UN General Assembly during his U.S. visit next month.<br />\n<br />\nXi is scheduled to meet President Trump at the White House on September 24, with his trip expected to focus almost entirely on the summit.<br />\n<br />\nThe decision removes a potential opportunity for Xi to promote China’s glo",
-      "link": "https://nitter.net/DeItaone/status/2089397489879159237#m",
-      "published": "2026-08-17T17:02:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "CITADEL: FED POLICY KEEPING TREASURY YIELDS HIGH Citadel Securities says the Fed’s policy approach is helping keep long-term Treasury yields near multi-decade highs, creating broader market risks. The 30-year yield topped 5.28%, its highest in 19 years, despite softer inflation and jobs data. Citadel warns inflation pressures remain, making the next Fed decision a close call. On AI, it favors cloud infrastructure and hyperscalers like Microsoft ( $MSFT) and Alphabet ( $GOOGL) over frontier model developers.",
-      "summary": "<p>CITADEL: FED POLICY KEEPING TREASURY YIELDS HIGH<br />\n<br />\nCitadel Securities says the Fed’s policy approach is helping keep long-term Treasury yields near multi-decade highs, creating broader market risks.<br />\n<br />\nThe 30-year yield topped 5.28%, its highest in 19 years, despite softer inflation and jobs data.<br />\n<br />\nCitadel warns inflation pressures remain, making the next Fed de",
-      "link": "https://nitter.net/DeItaone/status/2089387518915411997#m",
-      "published": "2026-08-17T16:22:58+00:00",
-      "score": 5
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "REPORT: PENTAGON SEES NO GUARANTEED HORMUZ SOLUTION The Pentagon has reportedly concluded that no current military plan can guarantee safe shipping through the Strait of Hormuz, according to a regional intelligence source cited by Iran’s Press TV. The source claims the assessment has frustrated President Trump as Washington struggles to secure the key oil route. Meanwhile, Iran’s IRGC says it remains fully prepared to respond to any military threat or aggression.",
-      "summary": "<p>REPORT: PENTAGON SEES NO GUARANTEED HORMUZ SOLUTION<br />\n<br />\nThe Pentagon has reportedly concluded that no current military plan can guarantee safe shipping through the Strait of Hormuz, according to a regional intelligence source cited by Iran’s Press TV.<br />\n<br />\nThe source claims the assessment has frustrated President Trump as Washington struggles to secure the key oil route.<br />\n",
-      "link": "https://nitter.net/DeItaone/status/2089387327080616265#m",
-      "published": "2026-08-17T16:22:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "SPOT SILVER RISES NEARLY 3% TO $66.54/OZ",
-      "summary": "<p>SPOT SILVER RISES NEARLY 3% TO $66.54/OZ</p>",
-      "link": "https://nitter.net/DeItaone/status/2089374522008801762#m",
-      "published": "2026-08-17T15:31:19+00:00",
-      "score": 1
+      "source": "r/WallStreetBets",
+      "category": "reddit",
+      "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html\">https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html</a></p> <ul> <li>Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by Califor",
+      "link": "https://www.reddit.com/r/wallstreetbets/comments/1vqya30/meta_faces_astronomical_consequences_as_legal/",
+      "published": "2026-08-17T17:11:59+00:00",
+      "score": 2
     },
     {
       "source": "Kobeissi Letter",
@@ -460,15 +361,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vpt790/gold_at_4377_breakdown_or_bounce_from_here/",
       "published": "2026-08-16T10:07:40+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The US Treasury's reliance on short-term debt is rising: US Treasury bills currently account for ~21% of marketable Treasury securities, near the highest since 2020, when federal borrowing surged during the pandemic response. This is well above the 10-15% range seen from 2012 to 2019. By comparison, the peak during the 2008 Financial Crisis was ~34%. This comes as the US government has increasingly relied on T-bills, rather than longer-term notes and bonds, to fund its growing borrowing needs. If the Treasury keeps issuing longer-dated debt at the current pace through FY2027, T-bills could account for ~25% of total debt, the highest since 2004, excluding 2008 and 2020. However, this approach increases the government's exposure to short-term rate swings, making debt-servicing costs more vulnerable if interest rates remain elevated or rise again. The US debt crisis is in full swing.",
-      "summary": "<p>The US Treasury's reliance on short-term debt is rising:<br />\n<br />\nUS Treasury bills currently account for ~21% of marketable Treasury securities, near the highest since 2020, when federal borrowing surged during the pandemic response.<br />\n<br />\nThis is well above the 10-15% range seen from 2012 to 2019.<br />\n<br />\nBy comparison, the peak during the 2008 Financial Crisis was ~34%.<br />",
-      "link": "https://nitter.net/KobeissiLetter/status/2088796634415345725#m",
-      "published": "2026-08-16T01:15:00+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
