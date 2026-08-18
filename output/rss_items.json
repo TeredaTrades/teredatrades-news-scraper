@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-18T02:43:04.318308+00:00",
-  "count": 68,
+  "updated_at": "2026-08-18T03:29:54.452716+00:00",
+  "count": 67,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen remains near two-week low against US Dollar despite hawkish BoJ bets",
+      "summary": "The Japanese Yen (JPY) trades close to its two-week low against the US Dollar (USD) in the Asian trading session on Tuesday at around 159.50. The USD/JPY pair is under pressure even as financial markets are confident about a Bank of Japan (BoJ) interest rate hike in the September meeting.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-remains-near-two-week-low-against-us-dollar-despite-hawkish-boj-bets-202608180326",
+      "published": "2026-08-18T03:26:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index holds ground on safe-haven demand",
+      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is inching higher after three days of losses and trading around 99.60 during the Asian hours on Tuesday.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-ground-on-safe-haven-demand-202608180311",
+      "published": "2026-08-18T03:11:46+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -147,24 +165,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Erdogan told Trump Israel is assaulting Palestinians in Gaza as second phase of peace plan was set to begin: Turkish presidency",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724821/Erdogan-told-Trump-Israel-is-assaulting-Palestinians-in-Gaza-as-second-phase-of-peace-plan-was-set-to-begin-Turkish-presidency.aspx?xy=rss",
-      "published": "2026-08-17T21:37:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Erdogan tells Trump continuing talks with Iran is crucial to leverage diplomacy, Turkey ready to assist",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724820/Erdogan-tells-Trump-continuing-talks-with-Iran-is-crucial-to-leverage-diplomacy-Turkey-ready-to-assist.aspx?xy=rss",
-      "published": "2026-08-17T21:36:21+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "New Zealand Dollar stalls as China slows down",
@@ -181,15 +181,6 @@
       "link": "https://www.fxstreet.com/news/us-treasury-yields-surge-as-30-year-hits-2007-high-202608172045",
       "published": "2026-08-17T20:45:51+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar sags to two-month lows as Middle East risk lifts Oil and Gold",
-      "summary": "The US Dollar Index (DXY) starts the week on the back foot, with the US Dollar Index (DXY) slipping toward two-month lows and holding below the 100.00 mark. August's run of underwhelming US data jobs, inflation and retail sales has steadily trimmed bets on a Federal Reserve (Fed) move next month.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-sags-to-two-month-lows-as-middle-east-risk-lifts-oil-and-gold-202608172022",
-      "published": "2026-08-17T20:22:19+00:00",
-      "score": 5
     },
     {
       "source": "Walter Bloomberg",
