@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-18T03:29:54.452716+00:00",
-  "count": 67,
+  "updated_at": "2026-08-18T04:17:27.953044+00:00",
+  "count": 66,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold drifts lower as oil-driven inflation risks and US-Iran tensions bolster USD",
+      "summary": "Gold (XAU/USD) attracts some sellers following a modest Asian session uptick on Tuesday, stalling a two-day move higher from the $4,300 neighborhood.",
+      "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349",
+      "published": "2026-08-18T03:49:02+00:00",
+      "score": 4
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -25,7 +34,7 @@
       "category": "news",
       "title": "FinancialJuice: Google plans to end Pixel production in China by 2027: Nikkei",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9725154/Google-plans-to-end-Pixel-production-in-China-by-2027-Nikkei.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9725154/Google-plans-to-end-Pixel-production-in-China-by-2027-Nikkei.aspx",
       "published": "2026-08-18T02:31:32+00:00",
       "score": 1
     },
@@ -162,24 +171,6 @@
       "summary": "GBP/USD cleared 1.3550 on Monday for the first time in three months, printed the highest level of the window just above it and handed the entire advance back within hours for a net gain under 10 pips. Sterling did none of the work behind that number.",
       "link": "https://www.fxstreet.com/news/british-pound-sterling-did-not-earn-its-three-month-high-202608172217",
       "published": "2026-08-17T22:17:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar stalls as China slows down",
-      "summary": "NZD/USD is close to flat on the day, holding the 0.5900 region and unable to join the broader move against a soft US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-stalls-as-china-slows-down-202608172134",
-      "published": "2026-08-17T21:34:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Treasury yields surge as 30-year hits 2007 high",
-      "summary": "US Treasury yields advance on Monday during the North American session after reversing their course following the release of US Retail Sales data last week, which disappointed investors.",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-surge-as-30-year-hits-2007-high-202608172045",
-      "published": "2026-08-17T20:45:51+00:00",
       "score": 1
     },
     {
