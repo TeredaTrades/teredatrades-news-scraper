@@ -1,12 +1,39 @@
 {
-  "updated_at": "2026-08-18T04:17:27.953044+00:00",
-  "count": 66,
+  "updated_at": "2026-08-18T05:02:29.990209+00:00",
+  "count": 53,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold drifts lower as oil-driven inflation risks and US-Iran tensions bolster USD",
-      "summary": "Gold (XAU/USD) attracts some sellers following a modest Asian session uptick on Tuesday, stalling a two-day move higher from the $4,300 neighborhood.",
+      "title": "Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low",
+      "summary": "The AUD/USD pair turns lower following a modest Asian session uptick on Tuesday, awaiting a break below the 0.7100 mark before extending the previous day's retracement from the highest level since June 5.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-bulls-seem-hesitant-near-07100-as-usd-recovers-from-two-month-low-202608180449",
+      "published": "2026-08-18T04:49:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "summary": "Gold prices fell in India on Tuesday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608180437",
+      "published": "2026-08-18T04:37:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/JPY Price Forecast: Strengthens to near 113.50, near-term outlook remain constructive",
+      "summary": "The AUD/JPY cross trades in positive territory around 113.40 during the early European trading hours on Tuesday. The Japanese Yen (JPY) weakens against the Australian Dollar (AUD) amid mounting fiscal concerns and persistent inflationary pressures.",
+      "link": "https://www.fxstreet.com/news/aud-jpy-price-forecast-strengthens-to-near-11350-near-term-outlook-remain-constructive-202608180427",
+      "published": "2026-08-18T04:27:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold slides below $4,400 as oil-fueled inflation risks and US-Iran tensions bolster USD",
+      "summary": "Gold (XAU/USD) extends its intraday descent and slides back below the $4,400 mark during the Asian session on Tuesday.",
       "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349",
       "published": "2026-08-18T03:49:02+00:00",
       "score": 4
@@ -28,15 +55,6 @@
       "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-ground-on-safe-haven-demand-202608180311",
       "published": "2026-08-18T03:11:46+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Google plans to end Pixel production in China by 2027: Nikkei",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9725154/Google-plans-to-end-Pixel-production-in-China-by-2027-Nikkei.aspx",
-      "published": "2026-08-18T02:31:32+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -147,96 +165,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Japanese Yen is losing to its own import bill",
-      "summary": "USD/JPY sat near 159.50 through Monday inside a 75-pip range for a net gain of 10 pips, on the day the Dollar Index broke beneath its 200-day Exponential Moving Average (EMA) to its weakest level since June.",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-is-losing-to-its-own-import-bill-202608172238",
-      "published": "2026-08-17T22:38:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Struggles at 1.1600, dives below 100-day SMA",
-      "summary": "The shared currency clings to minimal gains versus the US Dollar on Monday, edging up by some 0.08% after reaching a month-and-a-half high at 1.1614, then reversing course and falling beneath 1.1600, poised to end the session near the low of the day (LOD) of 1.1561.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-struggles-at-11600-dives-below-100-day-sma-202608172221",
-      "published": "2026-08-17T22:21:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound Sterling did not earn its three-month high",
-      "summary": "GBP/USD cleared 1.3550 on Monday for the first time in three months, printed the highest level of the window just above it and handed the entire advance back within hours for a net gain under 10 pips. Sterling did none of the work behind that number.",
-      "link": "https://www.fxstreet.com/news/british-pound-sterling-did-not-earn-its-three-month-high-202608172217",
-      "published": "2026-08-17T22:17:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP APPROVAL FALLS TO PRESIDENCY LOW President Trump’s approval rating fell to 33%, the lowest of his presidency, according to a Reuters/Ipsos poll. About 64% disapprove of his performance. The Iran conflict is a major concern: 80% of Americans expect U.S. involvement to continue for an extended period. The decline comes ahead of November’s midterms, with Republicans defending their congressional majorities.",
-      "summary": "<p>TRUMP APPROVAL FALLS TO PRESIDENCY LOW<br />\n<br />\nPresident Trump’s approval rating fell to 33%, the lowest of his presidency, according to a Reuters/Ipsos poll. About 64% disapprove of his performance.<br />\n<br />\nThe Iran conflict is a major concern: 80% of Americans expect U.S. involvement to continue for an extended period.<br />\n<br />\nThe decline comes ahead of November’s midterms, wit",
-      "link": "https://nitter.net/DeItaone/status/2089423877877141988#m",
-      "published": "2026-08-17T18:47:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP SAYS U.S. NOT SEEKING EXTENSION OF IRAN MOU",
-      "summary": "<p>TRUMP SAYS U.S. NOT SEEKING EXTENSION OF IRAN MOU</p>",
-      "link": "https://nitter.net/DeItaone/status/2089416080565408094#m",
-      "published": "2026-08-17T18:16:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: Iran is in big trouble",
-      "summary": "<p>Trump: Iran is in big trouble</p>",
-      "link": "https://nitter.net/DeItaone/status/2089415196351578496#m",
-      "published": "2026-08-17T18:12:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: We're taking out millions of barrels of oil a week from the strait of Hormuz, it is open",
-      "summary": "<p>Trump: We're taking out millions of barrels of oil a week from the strait of Hormuz, it is open</p>",
-      "link": "https://nitter.net/DeItaone/status/2089415145193611762#m",
-      "published": "2026-08-17T18:12:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "Trump: We control the strait of Hormuz",
-      "summary": "<p>Trump: We control the strait of Hormuz</p>",
-      "link": "https://nitter.net/DeItaone/status/2089414997872914941#m",
-      "published": "2026-08-17T18:12:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON UK PM: HE HAS IMMIGRATION, ENERGY PROBLEMS",
-      "summary": "<p>TRUMP ON UK PM: HE HAS IMMIGRATION, ENERGY PROBLEMS</p>",
-      "link": "https://nitter.net/DeItaone/status/2089414308358701322#m",
-      "published": "2026-08-17T18:09:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ON IRAN: THEY'RE NOT GOING TO MAKE THE KIND OF DEAL THAT I THINK IS NECESSARY",
-      "summary": "<p>TRUMP ON IRAN: THEY'RE NOT GOING TO MAKE THE KIND OF DEAL THAT I THINK IS NECESSARY</p>",
-      "link": "https://nitter.net/DeItaone/status/2089413351541526545#m",
-      "published": "2026-08-17T18:05:37+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "Markets are bracing for a more volatile period ahead: S&P 500 options are pricing a daily implied move of ~0.75% on August 27th, the day after Nvidia, $NVDA, reports its quarterly earnings. The following day, August 28th, carries a ~0.70% implied move in the index as the Jackson Hole symposium begins, making them the two most anticipated volatility events of the month. By comparison, typical daily implied moves on non-event days this week are just ~0.40-0.50%. At the same time, options positioning flipped from long to short gamma in early August, a dynamic that tends to amplify market swings once volatility picks up. Meanwhile, the volatility index, $VIX, finished last week at 14.3 points, the lowest level since December 2025. More volatility is likely ahead of us.",
@@ -244,51 +172,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2089403130890932267#m",
       "published": "2026-08-17T17:25:00+00:00",
       "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "US 30-YEAR YIELD HITS 2007 HIGH The 30-year Treasury yield climbed to 5.29%, its highest since 2007, as investors worry about rising U.S. debt, heavy bond issuance and persistent inflation. AI-related corporate borrowing and weaker demand for long-term bonds are adding pressure. The selloff continues despite softer jobs, inflation and retail data reducing near-term Fed hike expectations. Meanwhile, the yield curve is steepening as long-term yields rise while short-term yields fall.",
-      "summary": "<p>US 30-YEAR YIELD HITS 2007 HIGH<br />\n<br />\nThe 30-year Treasury yield climbed to 5.29%, its highest since 2007, as investors worry about rising U.S. debt, heavy bond issuance and persistent inflation.<br />\n<br />\nAI-related corporate borrowing and weaker demand for long-term bonds are adding pressure.<br />\n<br />\nThe selloff continues despite softer jobs, inflation and retail data reducing ",
-      "link": "https://nitter.net/DeItaone/status/2089399897304736004#m",
-      "published": "2026-08-17T17:12:09+00:00",
-      "score": 4
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "XI TO SKIP UN, FOCUS ON TRUMP SUMMIT Chinese President Xi Jinping will reportedly skip the UN General Assembly during his U.S. visit next month. Xi is scheduled to meet President Trump at the White House on September 24, with his trip expected to focus almost entirely on the summit. The decision removes a potential opportunity for Xi to promote China’s global leadership agenda at the UN while the U.S. remains focused on the Iran conflict.",
-      "summary": "<p>XI TO SKIP UN, FOCUS ON TRUMP SUMMIT<br />\n<br />\nChinese President Xi Jinping will reportedly skip the UN General Assembly during his U.S. visit next month.<br />\n<br />\nXi is scheduled to meet President Trump at the White House on September 24, with his trip expected to focus almost entirely on the summit.<br />\n<br />\nThe decision removes a potential opportunity for Xi to promote China’s glo",
-      "link": "https://nitter.net/DeItaone/status/2089397489879159237#m",
-      "published": "2026-08-17T17:02:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "CITADEL: FED POLICY KEEPING TREASURY YIELDS HIGH Citadel Securities says the Fed’s policy approach is helping keep long-term Treasury yields near multi-decade highs, creating broader market risks. The 30-year yield topped 5.28%, its highest in 19 years, despite softer inflation and jobs data. Citadel warns inflation pressures remain, making the next Fed decision a close call. On AI, it favors cloud infrastructure and hyperscalers like Microsoft ( $MSFT) and Alphabet ( $GOOGL) over frontier model developers.",
-      "summary": "<p>CITADEL: FED POLICY KEEPING TREASURY YIELDS HIGH<br />\n<br />\nCitadel Securities says the Fed’s policy approach is helping keep long-term Treasury yields near multi-decade highs, creating broader market risks.<br />\n<br />\nThe 30-year yield topped 5.28%, its highest in 19 years, despite softer inflation and jobs data.<br />\n<br />\nCitadel warns inflation pressures remain, making the next Fed de",
-      "link": "https://nitter.net/DeItaone/status/2089387518915411997#m",
-      "published": "2026-08-17T16:22:58+00:00",
-      "score": 5
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "REPORT: PENTAGON SEES NO GUARANTEED HORMUZ SOLUTION The Pentagon has reportedly concluded that no current military plan can guarantee safe shipping through the Strait of Hormuz, according to a regional intelligence source cited by Iran’s Press TV. The source claims the assessment has frustrated President Trump as Washington struggles to secure the key oil route. Meanwhile, Iran’s IRGC says it remains fully prepared to respond to any military threat or aggression.",
-      "summary": "<p>REPORT: PENTAGON SEES NO GUARANTEED HORMUZ SOLUTION<br />\n<br />\nThe Pentagon has reportedly concluded that no current military plan can guarantee safe shipping through the Strait of Hormuz, according to a regional intelligence source cited by Iran’s Press TV.<br />\n<br />\nThe source claims the assessment has frustrated President Trump as Washington struggles to secure the key oil route.<br />\n",
-      "link": "https://nitter.net/DeItaone/status/2089387327080616265#m",
-      "published": "2026-08-17T16:22:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "SPOT SILVER RISES NEARLY 3% TO $66.54/OZ",
-      "summary": "<p>SPOT SILVER RISES NEARLY 3% TO $66.54/OZ</p>",
-      "link": "https://nitter.net/DeItaone/status/2089374522008801762#m",
-      "published": "2026-08-17T15:31:19+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
