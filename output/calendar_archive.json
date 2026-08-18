@@ -2554,6 +2554,14 @@
   {
     "title": "10-y Bond Auction",
     "country": "GBP",
+    "date": "2026-08-18T05:02:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "5.04|3.1"
+  },
+  {
+    "title": "10-y Bond Auction",
+    "country": "GBP",
     "date": "2026-08-18T05:33:00-04:00",
     "impact": "Low",
     "forecast": "",
@@ -2982,6 +2990,14 @@
     "impact": "Low",
     "forecast": "0.0B",
     "previous": "16.0B"
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-08-21T02:02:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-5.0%"
   },
   {
     "title": "French Flash Manufacturing PMI",
