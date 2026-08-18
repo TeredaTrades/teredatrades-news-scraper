@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-18T01:45:02.452015+00:00",
-  "count": 59,
+  "updated_at": "2026-08-18T02:43:04.318308+00:00",
+  "count": 68,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google plans to end Pixel production in China by 2027: Nikkei",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9725154/Google-plans-to-end-Pixel-production-in-China-by-2027-Nikkei.aspx?xy=rss",
+      "published": "2026-08-18T02:31:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar edges lower below 0.5900 as China’s economy slows in July",
+      "summary": "The NZD/USD pair declines to around 0.5895 during the Asian trading hours on Tuesday. Weaker-than-expected Chinese Retail Sales and Industrial Production data weigh on the China-proxy New Zealand Dollar (NZD) against the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-below-05900-as-chinas-economy-slows-in-july-202608180226",
+      "published": "2026-08-18T02:26:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD falls to near $65.50 amid US-Iran peace uncertainty",
+      "summary": "Silver price (XAG/USD) declines after two days of gains, trading around $65.60 per troy ounce during the Asian hours on Tuesday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6550-amid-us-iran-peace-uncertainty-202608180208",
+      "published": "2026-08-18T02:08:51+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar holds near early June high as rising oil prices offset modest USD strength",
+      "summary": "The USD/CAD pair struggles to build on the overnight bounce from the 200-day Simple Moving Average (SMA) support near the 1.3845 region, or the lowest level since June 3, and is seen consolidating during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-near-early-june-high-as-rising-oil-prices-offset-modest-usd-strength-202608180155",
+      "published": "2026-08-18T01:55:49+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -93,15 +129,6 @@
       "score": 1
     },
     {
-      "source": "r/WallStreetBets",
-      "category": "reddit",
-      "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tech-100\"> /u/Tech-100 </a> <br /> <span><a href=\"https://www.reuters.com/business/media-telecom/nvidia-invest-15-billion-sb-energy-under-openai-data-center-deal-2026-08-17/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/wallstreetbets/comments/1vr73ke/nvidia_to_provide_up_to_105_billion_guarantee_for/\">[comments]</a><",
-      "link": "https://www.reddit.com/r/wallstreetbets/comments/1vr73ke/nvidia_to_provide_up_to_105_billion_guarantee_for/",
-      "published": "2026-08-17T22:32:55+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "EUR/USD Price Forecast: Struggles at 1.1600, dives below 100-day SMA",
@@ -124,7 +151,7 @@
       "category": "news",
       "title": "FinancialJuice: Erdogan told Trump Israel is assaulting Palestinians in Gaza as second phase of peace plan was set to begin: Turkish presidency",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9724821/Erdogan-told-Trump-Israel-is-assaulting-Palestinians-in-Gaza-as-second-phase-of-peace-plan-was-set-to-begin-Turkish-presidency.aspx",
+      "link": "https://www.financialjuice.com/News/9724821/Erdogan-told-Trump-Israel-is-assaulting-Palestinians-in-Gaza-as-second-phase-of-peace-plan-was-set-to-begin-Turkish-presidency.aspx?xy=rss",
       "published": "2026-08-17T21:37:11+00:00",
       "score": 1
     },
@@ -133,26 +160,8 @@
       "category": "news",
       "title": "FinancialJuice: Erdogan tells Trump continuing talks with Iran is crucial to leverage diplomacy, Turkey ready to assist",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9724820/Erdogan-tells-Trump-continuing-talks-with-Iran-is-crucial-to-leverage-diplomacy-Turkey-ready-to-assist.aspx",
+      "link": "https://www.financialjuice.com/News/9724820/Erdogan-tells-Trump-continuing-talks-with-Iran-is-crucial-to-leverage-diplomacy-Turkey-ready-to-assist.aspx?xy=rss",
       "published": "2026-08-17T21:36:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Turkey’s Erdogan held phone call with US President Trump: Turkish presidency",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724819/Turkeys-Erdogan-held-phone-call-with-US-President-Trump-Turkish-presidency.aspx",
-      "published": "2026-08-17T21:35:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Turkey's Erdogan, Trump discussed bilateral relations, conflicts in Iran and Gaza, defense agreement with Pakistan and Saudi Arabia",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9724818/Turkeys-Erdogan-Trump-discussed-bilateral-relations-conflicts-in-Iran-and-Gaza-defense-agreement-with-Pakistan-and-Saudi-Arabia.aspx",
-      "published": "2026-08-17T21:34:50+00:00",
       "score": 1
     },
     {
@@ -183,30 +192,66 @@
       "score": 5
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen muted on a soft US Dollar note",
-      "summary": "USD/JPY is close to flat on Monday, holding the mid-159.00s region after a soft Japanese growth report overnight failed to shift it in either direction. The pair has been drifting between support at 158.60 and resistance just above 159.50 for five straight days. This is a standoff, not a trend.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-muted-on-a-soft-us-dollar-note-202608172001",
-      "published": "2026-08-17T20:01:10+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP APPROVAL FALLS TO PRESIDENCY LOW President Trump’s approval rating fell to 33%, the lowest of his presidency, according to a Reuters/Ipsos poll. About 64% disapprove of his performance. The Iran conflict is a major concern: 80% of Americans expect U.S. involvement to continue for an extended period. The decline comes ahead of November’s midterms, with Republicans defending their congressional majorities.",
+      "summary": "<p>TRUMP APPROVAL FALLS TO PRESIDENCY LOW<br />\n<br />\nPresident Trump’s approval rating fell to 33%, the lowest of his presidency, according to a Reuters/Ipsos poll. About 64% disapprove of his performance.<br />\n<br />\nThe Iran conflict is a major concern: 80% of Americans expect U.S. involvement to continue for an extended period.<br />\n<br />\nThe decline comes ahead of November’s midterms, wit",
+      "link": "https://nitter.net/DeItaone/status/2089423877877141988#m",
+      "published": "2026-08-17T18:47:26+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Mild upside bias against US Dollar remains intact – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang notes USD/SGD remains under mild downward pressure after slipping to 1.2775 before rebounding. Intraday, the pair may retest 1.2775, but support at 1.2765 is expected to hold.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-mild-upside-bias-against-us-dollar-remains-intact-uob-202608171953",
-      "published": "2026-08-17T19:53:00+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP SAYS U.S. NOT SEEKING EXTENSION OF IRAN MOU",
+      "summary": "<p>TRUMP SAYS U.S. NOT SEEKING EXTENSION OF IRAN MOU</p>",
+      "link": "https://nitter.net/DeItaone/status/2089416080565408094#m",
+      "published": "2026-08-17T18:16:27+00:00",
       "score": 1
     },
     {
-      "source": "r/WallStreetBets",
-      "category": "reddit",
-      "title": "[DD] Why $RDDT goes to $1,000 the exact second their AI team figures out Post-Nut Clarity",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Let's talk about your sister. She’s currently pulling $45,000 a month on OnlyFans. How does she run her entire marketing department? By posting &quot;teaser preview&quot; gifs across 40 different subreddits every single morning. Half of this website’s daily active users are here purely to funnel traffic to her page while hiding under a blanket at 2:00 AM.</p> <p>N",
-      "link": "https://www.reddit.com/r/wallstreetbets/comments/1vr15ra/dd_why_rddt_goes_to_1000_the_exact_second_their/",
-      "published": "2026-08-17T18:51:05+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: Iran is in big trouble",
+      "summary": "<p>Trump: Iran is in big trouble</p>",
+      "link": "https://nitter.net/DeItaone/status/2089415196351578496#m",
+      "published": "2026-08-17T18:12:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We're taking out millions of barrels of oil a week from the strait of Hormuz, it is open",
+      "summary": "<p>Trump: We're taking out millions of barrels of oil a week from the strait of Hormuz, it is open</p>",
+      "link": "https://nitter.net/DeItaone/status/2089415145193611762#m",
+      "published": "2026-08-17T18:12:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "Trump: We control the strait of Hormuz",
+      "summary": "<p>Trump: We control the strait of Hormuz</p>",
+      "link": "https://nitter.net/DeItaone/status/2089414997872914941#m",
+      "published": "2026-08-17T18:12:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON UK PM: HE HAS IMMIGRATION, ENERGY PROBLEMS",
+      "summary": "<p>TRUMP ON UK PM: HE HAS IMMIGRATION, ENERGY PROBLEMS</p>",
+      "link": "https://nitter.net/DeItaone/status/2089414308358701322#m",
+      "published": "2026-08-17T18:09:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ON IRAN: THEY'RE NOT GOING TO MAKE THE KIND OF DEAL THAT I THINK IS NECESSARY",
+      "summary": "<p>TRUMP ON IRAN: THEY'RE NOT GOING TO MAKE THE KIND OF DEAL THAT I THINK IS NECESSARY</p>",
+      "link": "https://nitter.net/DeItaone/status/2089413351541526545#m",
+      "published": "2026-08-17T18:05:37+00:00",
       "score": 1
     },
     {
@@ -219,13 +264,49 @@
       "score": 2
     },
     {
-      "source": "r/WallStreetBets",
-      "category": "reddit",
-      "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html\">https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html</a></p> <ul> <li>Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by Califor",
-      "link": "https://www.reddit.com/r/wallstreetbets/comments/1vqya30/meta_faces_astronomical_consequences_as_legal/",
-      "published": "2026-08-17T17:11:59+00:00",
-      "score": 2
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "US 30-YEAR YIELD HITS 2007 HIGH The 30-year Treasury yield climbed to 5.29%, its highest since 2007, as investors worry about rising U.S. debt, heavy bond issuance and persistent inflation. AI-related corporate borrowing and weaker demand for long-term bonds are adding pressure. The selloff continues despite softer jobs, inflation and retail data reducing near-term Fed hike expectations. Meanwhile, the yield curve is steepening as long-term yields rise while short-term yields fall.",
+      "summary": "<p>US 30-YEAR YIELD HITS 2007 HIGH<br />\n<br />\nThe 30-year Treasury yield climbed to 5.29%, its highest since 2007, as investors worry about rising U.S. debt, heavy bond issuance and persistent inflation.<br />\n<br />\nAI-related corporate borrowing and weaker demand for long-term bonds are adding pressure.<br />\n<br />\nThe selloff continues despite softer jobs, inflation and retail data reducing ",
+      "link": "https://nitter.net/DeItaone/status/2089399897304736004#m",
+      "published": "2026-08-17T17:12:09+00:00",
+      "score": 4
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "XI TO SKIP UN, FOCUS ON TRUMP SUMMIT Chinese President Xi Jinping will reportedly skip the UN General Assembly during his U.S. visit next month. Xi is scheduled to meet President Trump at the White House on September 24, with his trip expected to focus almost entirely on the summit. The decision removes a potential opportunity for Xi to promote China’s global leadership agenda at the UN while the U.S. remains focused on the Iran conflict.",
+      "summary": "<p>XI TO SKIP UN, FOCUS ON TRUMP SUMMIT<br />\n<br />\nChinese President Xi Jinping will reportedly skip the UN General Assembly during his U.S. visit next month.<br />\n<br />\nXi is scheduled to meet President Trump at the White House on September 24, with his trip expected to focus almost entirely on the summit.<br />\n<br />\nThe decision removes a potential opportunity for Xi to promote China’s glo",
+      "link": "https://nitter.net/DeItaone/status/2089397489879159237#m",
+      "published": "2026-08-17T17:02:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "CITADEL: FED POLICY KEEPING TREASURY YIELDS HIGH Citadel Securities says the Fed’s policy approach is helping keep long-term Treasury yields near multi-decade highs, creating broader market risks. The 30-year yield topped 5.28%, its highest in 19 years, despite softer inflation and jobs data. Citadel warns inflation pressures remain, making the next Fed decision a close call. On AI, it favors cloud infrastructure and hyperscalers like Microsoft ( $MSFT) and Alphabet ( $GOOGL) over frontier model developers.",
+      "summary": "<p>CITADEL: FED POLICY KEEPING TREASURY YIELDS HIGH<br />\n<br />\nCitadel Securities says the Fed’s policy approach is helping keep long-term Treasury yields near multi-decade highs, creating broader market risks.<br />\n<br />\nThe 30-year yield topped 5.28%, its highest in 19 years, despite softer inflation and jobs data.<br />\n<br />\nCitadel warns inflation pressures remain, making the next Fed de",
+      "link": "https://nitter.net/DeItaone/status/2089387518915411997#m",
+      "published": "2026-08-17T16:22:58+00:00",
+      "score": 5
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "REPORT: PENTAGON SEES NO GUARANTEED HORMUZ SOLUTION The Pentagon has reportedly concluded that no current military plan can guarantee safe shipping through the Strait of Hormuz, according to a regional intelligence source cited by Iran’s Press TV. The source claims the assessment has frustrated President Trump as Washington struggles to secure the key oil route. Meanwhile, Iran’s IRGC says it remains fully prepared to respond to any military threat or aggression.",
+      "summary": "<p>REPORT: PENTAGON SEES NO GUARANTEED HORMUZ SOLUTION<br />\n<br />\nThe Pentagon has reportedly concluded that no current military plan can guarantee safe shipping through the Strait of Hormuz, according to a regional intelligence source cited by Iran’s Press TV.<br />\n<br />\nThe source claims the assessment has frustrated President Trump as Washington struggles to secure the key oil route.<br />\n",
+      "link": "https://nitter.net/DeItaone/status/2089387327080616265#m",
+      "published": "2026-08-17T16:22:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "SPOT SILVER RISES NEARLY 3% TO $66.54/OZ",
+      "summary": "<p>SPOT SILVER RISES NEARLY 3% TO $66.54/OZ</p>",
+      "link": "https://nitter.net/DeItaone/status/2089374522008801762#m",
+      "published": "2026-08-17T15:31:19+00:00",
+      "score": 1
     },
     {
       "source": "Kobeissi Letter",
