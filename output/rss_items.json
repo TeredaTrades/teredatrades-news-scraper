@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-18T17:43:31.266613+00:00",
-  "count": 67,
+  "updated_at": "2026-08-18T18:13:03.633625+00:00",
+  "count": 68,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Economists agree: BoE will hold rates through year-end – Reuters poll",
+      "summary": "The Bank of England (BoE) will keep interest rates unchanged for the rest of the year, according to a Reuters poll conducted between August 13 and 18.",
+      "link": "https://www.fxstreet.com/news/economists-agree-boe-will-hold-rates-through-year-end-reuters-poll-202608181809",
+      "published": "2026-08-18T18:09:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen drifts lower as Greenback retains safe-haven bid",
+      "summary": "USD/JPY holds modest gains near the 159.60s on Tuesday, edging higher on the day. The pair has clawed back ground after a recent sharp pullback and is grinding back toward the upper end of its recent range.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-drifts-lower-as-greenback-retains-safe-haven-bid-202608181806",
+      "published": "2026-08-18T18:06:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Total trading volume in onchain tokenized equities has reached $9 billion in 2026, a new record. This marks +207% quarter-over-quarter growth and +800% in year-to-date growth. This comes amid demand for exposure to high momentum stocks, particularly memory and storage stocks, in a globally accessible 24/7 market. Jupiter, the largest onchain platform on Solana, has been driving the move toward tokenization, now seeing +95% quarter-over-quarter growth in routed tokenized equities volume. Amid this trend, the Nasdaq has announced plans to extend trading to 23 hours per day, 5 days per week. Jupiter also reports that 55% of its tokenized equities volume is coming from off-hours trading. Many investors want 24/7 markets.",
+      "summary": "<p>BREAKING: Total trading volume in onchain tokenized equities has reached $9 billion in 2026, a new record.<br />\n<br />\nThis marks +207% quarter-over-quarter growth and +800% in year-to-date growth.<br />\n<br />\nThis comes amid demand for exposure to high momentum stocks, particularly memory and storage stocks, in a globally accessible 24/7 market.<br />\n<br />\nJupiter, the largest onchain plat",
+      "link": "https://nitter.net/KobeissiLetter/status/2089772727083356395#m",
+      "published": "2026-08-18T17:53:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold price falls as US yields surge, pressuring bullion",
+      "summary": "Gold (XAU/USD) retreats on Tuesday as US Treasury yields keep their momentum, while energy prices rise further amid a lack of progress in talks between the US and Iran. XAU/USD trades at $4,364, down over 1.10%.",
+      "link": "https://www.fxstreet.com/news/gold-price-falls-as-us-yields-surge-pressuring-bullion-202608181748",
+      "published": "2026-08-18T17:48:21+00:00",
+      "score": 4
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -24,7 +60,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "The Dow Jones Industrial Average has a term premium problem",
-      "summary": "A quarter-point Federal Reserve increase by December stopped being a certainty over the past eight days, and the Dow Jones Industrial Average is lower for it. Spot trades near 53,400, down roughly 105 points on the session and about 2.5% beneath the record just short of 54,750 set on August 5.",
+      "summary": "A quarter-point Federal Reserve (Fed) increase by December stopped being a certainty over the past eight days, and the Dow Jones Industrial Average is lower for it.",
       "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-has-a-term-premium-problem-202608181727",
       "published": "2026-08-18T17:27:28+00:00",
       "score": 1
@@ -237,39 +273,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Price holds despite higher yields – Commerzbank",
-      "summary": "Commerzbank’s Carsten Fritsch notes that Gold remains around USD 4,400 per ounce even as US Treasury yields rise back toward late-July levels, decoupling from real interest rates.",
-      "link": "https://www.fxstreet.com/news/gold-price-holds-despite-higher-yields-commerzbank-202608181344",
-      "published": "2026-08-18T13:44:10+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold expected to trade range-bound despite increasing bets of a Fed rate pause",
-      "summary": "Gold prices continue to draw support from expectations that the Federal Reserve (Fed) will hold interest rates steady through the remainder of the year after softer US inflation and employment data.",
-      "link": "https://www.fxstreet.com/news/gold-expected-to-trade-range-bound-despite-increasing-bets-of-a-fed-rate-pause-202608181334",
-      "published": "2026-08-18T13:34:01+00:00",
-      "score": 4
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says there are no talks or conversations going on or scheduled with Iran.",
       "summary": "<p>BREAKING: President Trump says there are no talks or conversations going on or scheduled with Iran.</p>\n<img src=\"https://nitter.net/pic/media%2FHQAhbKMXgAApYqt.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2089706981695111232#m",
       "published": "2026-08-18T13:32:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro consolidates below two-month high as US Dollar steadies",
-      "summary": "EUR/USD consolidates losses on Tuesday after pulling back from a two-month high of 1.1614 reached the previous day.",
-      "link": "https://www.fxstreet.com/news/euro-consolidates-below-two-month-high-as-us-dollar-steadies-202608181319",
-      "published": "2026-08-18T13:19:12+00:00",
       "score": 1
     },
     {
