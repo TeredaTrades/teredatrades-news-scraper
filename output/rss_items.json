@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-18T23:00:43.310287+00:00",
-  "count": 55,
+  "updated_at": "2026-08-18T23:36:55.015467+00:00",
+  "count": 61,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold steadies below $4,350 as surging yields offset support from Fed rate-hold bets",
+      "summary": "Gold price (XAU/USD) holds steady near $4,335 after pulling back from an early-June top near $4,450 during the early Asian trading hours on Wednesday. The precious metal faced some selling pressure in the previous session as Treasury yields surged to their highest levels in decades.",
+      "link": "https://www.fxstreet.com/news/gold-steadies-below-4-350-as-surging-yields-offset-support-from-fed-rate-hold-bets-202608182325",
+      "published": "2026-08-18T23:25:00+00:00",
+      "score": 6
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump discussed arranging face-to-face meeting with Kim Jong Un during next Asia trip in November: WSJ",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9726623/Trump-discussed-arranging-face-to-face-meeting-with-Kim-Jong-Un-during-next-Asia-trip-in-November-WSJ.aspx?xy=rss",
+      "published": "2026-08-18T23:07:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump pushes for meeting with Kim Jong Un this year: WSJ",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9726622/Trump-pushes-for-meeting-with-Kim-Jong-Un-this-year-WSJ.aspx?xy=rss",
+      "published": "2026-08-18T23:06:48+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -84,6 +111,15 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
+      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
+      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
+      "published": "2026-08-18T20:06:07+00:00",
+      "score": 3
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "Forex Today: US Dollar firms on Hormuz jitters ahead of UK CPI and FOMC Minutes",
@@ -117,6 +153,15 @@
       "summary": "<p>BREAKING: The SEC announces new proposed rules that will create a \"clear and fit-for purpose framework\" for certain investment contracts involving crypto assets.<br />\n<br />\nDetails include:<br />\n<br />\n1. The proposal follows the SEC's March 2026 interpretation clarifying how federal securities laws apply to certain crypto assets<br />\n<br />\n2. The rules will address \"long-standing barriers",
       "link": "https://nitter.net/KobeissiLetter/status/2089785910384906281#m",
       "published": "2026-08-18T18:46:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
+      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
+      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
+      "published": "2026-08-18T18:39:53+00:00",
       "score": 1
     },
     {
@@ -165,30 +210,39 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "A two-decade yield high buys the Dollar Index nothing",
-      "summary": "The highest long-dated US yields in nearly two decades have moved the US Dollar Index (DXY) by three hundredths of a point.",
-      "link": "https://www.fxstreet.com/news/a-two-decade-yield-high-buys-the-dollar-index-nothing-202608181728",
-      "published": "2026-08-18T17:28:48+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
+      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
+      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
+      "published": "2026-08-18T16:50:51+00:00",
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Dow Jones Industrial Average has a term premium problem",
-      "summary": "A quarter-point Federal Reserve (Fed) increase by December stopped being a certainty over the past eight days, and the Dow Jones Industrial Average is lower for it.",
-      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-has-a-term-premium-problem-202608181727",
-      "published": "2026-08-18T17:27:28+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
+      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
+      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
+      "published": "2026-08-18T16:48:13+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar declines from two-month highs as Hormuz tensions lift the US Dollar",
-      "summary": "AUD/USD trades just below 0.7100 on Tuesday, a touch lower for the day and sliding from the two-month highs reached on Monday.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-from-two-month-highs-as-hormuz-tensions-lift-the-us-dollar-202608181625",
-      "published": "2026-08-18T16:25:40+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "DIESEL MARGINS SMASH RECORD ABOVE $100 U.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch. Supply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets. Meanwhile, U.S. diesel inventories are at their lowest late-August level since 1996, raising fears of higher winter heating costs and renewed inflation.",
+      "summary": "<p>DIESEL MARGINS SMASH RECORD ABOVE $100<br />\n<br />\nU.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch.<br />\n<br />\nSupply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets.<br />\n<br />\nMeanwhile, U.S. diesel ",
+      "link": "https://nitter.net/DeItaone/status/2089751755026215258#m",
+      "published": "2026-08-18T16:30:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AAPL - APPLE OVERHAULS EU APP STORE FEES Apple is revamping its EU App Store terms from October 1. The Core Technology Fee will be replaced by a 5% commission on digital transactions outside the App Store. EU commissions will be 26% for Apple in-app purchases, 20% for alternative payments, and 15% for external purchase links. Apple will also expand alternative app distribution and introduce additional child-safety measures.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a> - APPLE OVERHAULS EU APP STORE FEES<br />\n<br />\nApple is revamping its EU App Store terms from October 1.<br />\n<br />\nThe Core Technology Fee will be replaced by a 5% commission on digital transactions outside the App Store.<br />\n<br />\nEU commissions will be 26% for Apple in-app purchases, 20% for alternative payments, and",
+      "link": "https://nitter.net/DeItaone/status/2089744406769209473#m",
+      "published": "2026-08-18T16:01:06+00:00",
       "score": 1
     },
     {
