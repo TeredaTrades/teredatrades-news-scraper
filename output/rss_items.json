@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-08-18T08:15:19.483806+00:00",
-  "count": 68,
+  "updated_at": "2026-08-18T09:03:16.833177+00:00",
+  "count": 74,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: UK 10 Yr Gilt Yield Actual 5.155% (Forecast -, Previous 5.04%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9725602/UK-10-Yr-Gilt-Yield-Actual-5155-Forecast---Previous-504.aspx?xy=rss",
+      "published": "2026-08-18T09:02:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Dovish Fed repricing versus strong flows – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad highlights a mixed backdrop for the Dollar, with dovish Federal Reserve (Fed) repricing seen capping US Dollar (USD) rebounds even as foreign demand remains strong.",
+      "link": "https://www.fxstreet.com/news/us-dollar-dovish-fed-repricing-versus-strong-flows-bbh-202608180858",
+      "published": "2026-08-18T08:58:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Westpac: Daily Prep - FJElite",
+      "summary": "<div>Markets adopted a generally risk-off tone as President Trump reaffirmed he was not interested in extending the truce with Iran, with renewed tensions in the Middle East pushing oil prices higher and complicating sentiment.</div><div><br /></div><div>Equities weakened in the US and Europe as rising oil prices weighed on sentiment, while Asian markets outperformed, supported by semiconductor st",
+      "link": "https://www.financialjuice.com/News/9725573/Westpac-Daily-Prep---FJElite.aspx?xy=rss",
+      "published": "2026-08-18T08:54:00+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fiscal concerns and doubts on Fed independence send US yields to long-term highs",
+      "summary": "US Treasury yields keep rising across the curve this week, with the yield for the 30-year Treasury bond reaching its highest level since 2007, during the global financial crisis, at 5.33% so far on Monday.",
+      "link": "https://www.fxstreet.com/news/fiscal-concerns-and-doubts-on-fed-independence-send-us-yields-to-long-term-highs-202608180853",
+      "published": "2026-08-18T08:53:14+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ING: UK Employment - FJElite",
+      "summary": "Nothing particularly earth-shattering in the latest UK jobs figures. Payrolled employment is down a touch - though this masks big differences between government (which is still actively hiring), consumer services (where job numbers are consistently falling and the pace of decline is getting worse) and the remaining private sector, which is flatlining. The unemployment rate is up a touch, though th",
+      "link": "https://www.financialjuice.com/News/9725571/ING-UK-Employment---FJElite.aspx?xy=rss",
+      "published": "2026-08-18T08:46:54+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MUFG: The USD - FJElite",
+      "summary": "<div>The US dollar has rebounded modestly today with the focus very much on the deterioration in bond market sentiment. UST bond yields have moved further sharply higher and the 30-year yield is now 25bps higher since the FOMC meeting on 29th July. The 30-year yield at 5.32% this morning is the highest since 2007 and curve steepening is showing clear momentum in the US and elsewhere. What is direc",
+      "link": "https://www.financialjuice.com/News/9725559/MUFG-The-USD---FJElite.aspx?xy=rss",
+      "published": "2026-08-18T08:38:39+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Overvaluation and energy risks weigh against US Dollar – MUFG",
+      "summary": "MUFG’s Halpenny notes that EUR/USD remains capped near its 200-day moving average at 1.1630 and is 2.5%-3.0% overvalued in the bank’s short-term model.",
+      "link": "https://www.fxstreet.com/news/euro-overvaluation-and-energy-risks-weigh-against-us-dollar-mufg-202608180836",
+      "published": "2026-08-18T08:36:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Holds breakout near 0.7100",
+      "summary": "The Australian Dollar (AUD) trades almost flat at around 0.7100 against the US Dollar (USD) during the European trading session on Tuesday, but is close to its over two-month high of 0.7130 posted on Monday.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-breakout-near-07100-202608180825",
+      "published": "2026-08-18T08:25:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones futures drop as soaring US yields, US-Iran friction rattle markets",
+      "summary": "Dow Jones futures fall by 0.25%, trading around 53,410 during European hours on Tuesday. Meanwhile, S&amp;P 500 futures decline 0.52% to near 7,730, and Nasdaq 100 futures slip 0.92%, trading near 29,820.",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-drop-as-soaring-us-yields-us-iran-friction-rattle-markets-202608180823",
+      "published": "2026-08-18T08:23:28+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -129,39 +210,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound dips to fresh lows near 1.3520 after mixed UK employment data",
-      "summary": "The British Pound (GBP) extends its reversal against the US Dollar (USD) on Tuesday as June’s UK unemployment data fails to convince investors in an already risk-off market, as tensions in the Middle East rise.",
-      "link": "https://www.fxstreet.com/news/british-pound-dips-to-fresh-lows-near-13520-after-mixed-uk-employment-data-202608180629",
-      "published": "2026-08-18T06:29:35+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Shorting gold right now. 4th rejection at resistance.",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vrh5dx/shorting_gold_right_now_4th_rejection_at/\"> <img alt=\"Shorting gold right now. 4th rejection at resistance.\" src=\"https://preview.redd.it/in5rbc1mu2kh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d8b3aa29967882b57412535f7c3dca4b65d17f5\" title=\"Shorting gold right now. 4th rejection at resistance.\" /> </a> </td><td> <!",
       "link": "https://www.reddit.com/r/Forex/comments/1vrh5dx/shorting_gold_right_now_4th_rejection_at/",
       "published": "2026-08-18T06:25:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Upside bias needs confirmation above 1.1615 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report that EUR/USD briefly broke above major resistance at 1.1610 to 1.1614 before fading, leaving the Euro in a near-term consolidation between 1.1560 and 1.1600.",
-      "link": "https://www.fxstreet.com/news/euro-upside-bias-needs-confirmation-above-11615-against-us-dollar-uob-202608180610",
-      "published": "2026-08-18T06:10:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9725374/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-08-18T06:09:53+00:00",
       "score": 1
     },
     {
@@ -176,11 +230,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold remains depressed below $4,400 as USD firms amid oil-driven inflation fears",
-      "summary": "Gold (XAU/USD) sticks to modest intraday losses below the $4,400 mark heading into the European session on Tuesday and, for now, seems to have snapped a two-day winning streak.",
+      "title": "Gold sticks to losses below $4,400 as USD recovers further from two-month low",
+      "summary": "Gold (XAU/USD) remains depressed below the $4,400 mark through the first half of the European session on Tuesday, snapping a two-day winning streak amid a broadly firmer US Dollar (USD).",
       "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349",
       "published": "2026-08-18T03:49:02+00:00",
-      "score": 4
+      "score": 3
     },
     {
       "source": "Kobeissi Letter",
