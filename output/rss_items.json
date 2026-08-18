@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-08-18T07:39:33.632230+00:00",
-  "count": 66,
+  "updated_at": "2026-08-18T08:15:19.483806+00:00",
+  "count": 68,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: LG Electronics speeds up robotics partnership with Nvidia",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9725522/LG-Electronics-speeds-up-robotics-partnership-with-Nvidia.aspx?xy=rss",
+      "published": "2026-08-18T08:08:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar declines due to increased risk aversion",
+      "summary": "NZD/USD depreciates after two days of losses, trading around 0.5880 during the European hours on Tuesday. The pair depreciates as the US Dollar (USD) holds ground on safe-haven flows amid escalating geopolitical tensions between the US and Iran.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-due-to-increased-risk-aversion-202608180804",
+      "published": "2026-08-18T08:04:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index extends recovery from two-month low; trades above 99.50",
+      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, builds on the overnight goodish rebound from the 99.30 area, or the lowest level since June 5, and gains some follow-through traction on Tuesday.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-extends-recovery-from-two-month-low-trades-above-9950-202608180755",
+      "published": "2026-08-18T07:55:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ECB’s Lane: Right now food inflation is relatively low.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9725501/ECBs-Lane-Right-now-food-inflation-is-relatively-low.aspx?xy=rss",
+      "published": "2026-08-18T07:46:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ECB’s Lane: Inflation to hover around 3% level for rest of year.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9725496/ECBs-Lane-Inflation-to-hover-around-3-level-for-rest-of-year.aspx?xy=rss",
+      "published": "2026-08-18T07:46:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ECB’s Lane: Inflation depends on energy prices.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9725495/ECBs-Lane-Inflation-depends-on-energy-prices.aspx?xy=rss",
+      "published": "2026-08-18T07:46:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: Upside risk targets 0.7150 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight that AUD/USD strength remains intact after a jump to 0.7129, though overbought conditions should confine intraday moves to a 0.7090–0.7130 band.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-upside-risk-targets-07150-against-us-dollar-uob-202608180743",
+      "published": "2026-08-18T07:43:13+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -43,7 +106,7 @@
       "category": "news",
       "title": "FinancialJuice: South Korea national security adviser: Hope Trump's message on scaling back military drills with South Korea leads to meaningful North Korea-US dialogue, helping advance peace on the Korean Peninsula",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9725449/South-Korea-national-security-adviser-Hope-Trumps-message-on-scaling-back-military-drills-with-South-Korea-leads-to-meaningful-North-Korea-US-dialogue-helping-advance-peace-on-the-Korean-Peninsula.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9725449/South-Korea-national-security-adviser-Hope-Trumps-message-on-scaling-back-military-drills-with-South-Korea-leads-to-meaningful-North-Korea-US-dialogue-helping-advance-peace-on-the-Korean-Peninsula.aspx?xy=rss",
       "published": "2026-08-18T07:07:23+00:00",
       "score": 1
     },
@@ -61,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: Currency Strength Chart: Strongest: CAD, USD, AUD, EUR, CHF, GBP, JPY, NZD - Weakest",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9725445/Currency-Strength-Chart-Strongest-CAD-USD-AUD-EUR-CHF-GBP-JPY-NZD---Weakest.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9725445/Currency-Strength-Chart-Strongest-CAD-USD-AUD-EUR-CHF-GBP-JPY-NZD---Weakest.aspx?xy=rss",
       "published": "2026-08-18T07:01:49+00:00",
       "score": 1
     },
@@ -97,36 +160,9 @@
       "category": "news",
       "title": "FinancialJuice: Fed Interest Rate Probabilities",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9725374/Fed-Interest-Rate-Probabilities.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9725374/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
       "published": "2026-08-18T06:09:53+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9725370/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=1",
-      "published": "2026-08-18T06:07:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah holds weak footing ahead of looming BI policy decision",
-      "summary": "USD/IDR remains in the positive territory after experiencing volatility, trading around 17,900 during the Asian hours on Tuesday. The pair continues to draw support from a weakening Indonesian Rupiah (IDR), driven by cautious domestic sentiment ahead of Bank Indonesia’s (BI) two-day policy meeting.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-holds-weak-footing-ahead-of-looming-bi-policy-decision-202608180601",
-      "published": "2026-08-18T06:01:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc edges lower as US Dollar rebounds, FOMC minutes in focus",
-      "summary": "The Swiss Franc (CHF) trades marginally lower against the US Dollar (USD) in the early European trading session on Tuesday, with the USD/CHF pair edging up to near 0.8116.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-edges-lower-as-us-dollar-rebounds-fomc-minutes-in-focus-202608180554",
-      "published": "2026-08-18T05:54:32+00:00",
-      "score": 2
     },
     {
       "source": "FXStreet",
@@ -135,24 +171,6 @@
       "summary": "The Indian Rupee (INR) edges up against the US Dollar (USD) on Tuesday. The USD/INR ticks lower to near 95.67 after refreshing the three-week high at 95.85 in the opening session. The Indian currency has gained slight strength due to potential Reserve Bank of India (RBI) intervention.",
       "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-on-possible-rbis-intervention-202608180534",
       "published": "2026-08-18T05:34:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro declines below 1.1600 on US-Iran war worries",
-      "summary": "The EUR/USD pair loses traction to around 1.1575, snapping the three-day winning streak during the early European session on Tuesday. The Euro (EUR) edges lower against the US Dollar (USD) as traders remain cautious about the US-Iran conflict and the closure of the Strait of Hormuz.",
-      "link": "https://www.fxstreet.com/news/euro-declines-below-11600-on-us-iran-war-worries-202608180520",
-      "published": "2026-08-18T05:20:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar bulls seem hesitant near 0.7100 as USD recovers from two-month low",
-      "summary": "The AUD/USD pair turns lower following a modest Asian session uptick on Tuesday, awaiting a break below the 0.7100 mark before extending the previous day's retracement from the highest level since June 5.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-bulls-seem-hesitant-near-07100-as-usd-recovers-from-two-month-low-202608180449",
-      "published": "2026-08-18T04:49:08+00:00",
       "score": 1
     },
     {
