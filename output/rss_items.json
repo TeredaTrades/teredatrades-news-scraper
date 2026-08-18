@@ -1,15 +1,69 @@
 {
-  "updated_at": "2026-08-18T05:45:29.982278+00:00",
-  "count": 66,
+  "updated_at": "2026-08-18T06:46:46.056009+00:00",
+  "count": 64,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound dips to fresh lows near 1.3520 after mixed UK employment data",
+      "summary": "The British Pound (GBP) extends its reversal against the US Dollar (USD) on Tuesday as June’s UK unemployment data fails to convince investors in an already risk-off market, as tensions in the Middle East rise.",
+      "link": "https://www.fxstreet.com/news/british-pound-dips-to-fresh-lows-near-13520-after-mixed-uk-employment-data-202608180629",
+      "published": "2026-08-18T06:29:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Shorting gold right now. 4th rejection at resistance.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vrh5dx/shorting_gold_right_now_4th_rejection_at/\"> <img alt=\"Shorting gold right now. 4th rejection at resistance.\" src=\"https://preview.redd.it/in5rbc1mu2kh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d8b3aa29967882b57412535f7c3dca4b65d17f5\" title=\"Shorting gold right now. 4th rejection at resistance.\" /> </a> </td><td> <!",
+      "link": "https://www.reddit.com/r/Forex/comments/1vrh5dx/shorting_gold_right_now_4th_rejection_at/",
+      "published": "2026-08-18T06:25:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Upside bias needs confirmation above 1.1615 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report that EUR/USD briefly broke above major resistance at 1.1610 to 1.1614 before fading, leaving the Euro in a near-term consolidation between 1.1560 and 1.1600.",
+      "link": "https://www.fxstreet.com/news/euro-upside-bias-needs-confirmation-above-11615-against-us-dollar-uob-202608180610",
+      "published": "2026-08-18T06:10:28+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: China axing Microsoft Windows from state agencies ahead of plan $MSFT",
+      "title": "FinancialJuice: Fed Interest Rate Probabilities",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9725327/China-axing-Microsoft-Windows-from-state-agencies-ahead-of-plan-MSFT.aspx",
-      "published": "2026-08-18T05:44:53+00:00",
+      "link": "https://www.financialjuice.com/News/9725374/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+      "published": "2026-08-18T06:09:53+00:00",
       "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9725370/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+      "published": "2026-08-18T06:07:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah holds weak footing ahead of looming BI policy decision",
+      "summary": "USD/IDR remains in the positive territory after experiencing volatility, trading around 17,900 during the Asian hours on Tuesday. The pair continues to draw support from a weakening Indonesian Rupiah (IDR), driven by cautious domestic sentiment ahead of Bank Indonesia’s (BI) two-day policy meeting.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-holds-weak-footing-ahead-of-looming-bi-policy-decision-202608180601",
+      "published": "2026-08-18T06:01:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc edges lower as US Dollar rebounds, FOMC minutes in focus",
+      "summary": "The Swiss Franc (CHF) trades marginally lower against the US Dollar (USD) in the early European trading session on Tuesday, with the USD/CHF pair edging up to near 0.8116.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-edges-lower-as-us-dollar-rebounds-fomc-minutes-in-focus-202608180554",
+      "published": "2026-08-18T05:54:32+00:00",
+      "score": 2
     },
     {
       "source": "FXStreet",
@@ -59,8 +113,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold slides below $4,400 as oil-fueled inflation risks and US-Iran tensions bolster USD",
-      "summary": "Gold (XAU/USD) extends its intraday descent and slides back below the $4,400 mark during the Asian session on Tuesday.",
+      "title": "Gold remains depressed below $4,400 as USD firms amid oil-driven inflation fears",
+      "summary": "Gold (XAU/USD) sticks to modest intraday losses below the $4,400 mark heading into the European session on Tuesday and, for now, seems to have snapped a two-day winning streak.",
       "link": "https://www.fxstreet.com/news/gold-drifts-lower-as-oil-driven-inflation-risks-and-us-iran-tensions-bolster-usd-202608180349",
       "published": "2026-08-18T03:49:02+00:00",
       "score": 4
@@ -93,84 +147,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD falls to near $65.50 amid US-Iran peace uncertainty",
-      "summary": "Silver price (XAG/USD) declines after two days of gains, trading around $65.60 per troy ounce during the Asian hours on Tuesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6550-amid-us-iran-peace-uncertainty-202608180208",
-      "published": "2026-08-18T02:08:51+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar holds near early June high as rising oil prices offset modest USD strength",
-      "summary": "The USD/CAD pair struggles to build on the overnight bounce from the 200-day Simple Moving Average (SMA) support near the 1.3845 region, or the lowest level since June 3, and is seen consolidating during the Asian session on Tuesday.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-holds-near-early-june-high-as-rising-oil-prices-offset-modest-usd-strength-202608180155",
-      "published": "2026-08-18T01:55:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound gathers strength to near 1.3550 as Fed hike bets fade, UK jobs data loom",
-      "summary": "The GBP/USD pair gains momentum to around 1.3550 during the early Asian trading hours on Tuesday. The US Dollar (USD) softens against the British Pound (GBP) as cooler US inflation data have prompted traders to reduce bets on a US Federal Reserve (Fed) rate hike.",
-      "link": "https://www.fxstreet.com/news/british-pound-gathers-strength-to-near-13550-as-fed-hike-bets-fade-uk-jobs-data-loom-202608180127",
-      "published": "2026-08-18T01:27:36+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7905 vs. 6.7873 previous",
-      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7905 compared to the previous day's fix of 6.7873 and 6.7452 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67905-vs-67873-previous-202608180115",
-      "published": "2026-08-18T01:15:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro flat lines below two-month high as oil-driven inflation fears support USD",
-      "summary": "The EUR/USD pair holds steady around the 1.1575-1.1580 region during the Asian session on Tuesday and, for now, seems to have stalled the previous day's modest pullback from a two-month top.",
-      "link": "https://www.fxstreet.com/news/euro-flat-lines-below-two-month-low-as-oil-driven-inflation-fears-support-usd-202608180114",
-      "published": "2026-08-18T01:14:26+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar gains as US Dollar struggles amid fading Fed rate hike bets",
-      "summary": "AUD/USD extends its gains for the third successive day, trading around 0.7110 during the Asian hours on Tuesday. The currency pair continues to appreciate as the US Dollar (USD) remains subdued amid fading expectations for further rate hikes by the Federal Reserve (Fed).",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gains-as-us-dollar-struggles-amid-fading-fed-rate-hike-bets-202608180100",
-      "published": "2026-08-18T01:00:26+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "WTI flatlines near $84.00 as Trump rejects truce extension",
-      "summary": "West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $84.00 during the early Asian trading hours on Tuesday. WTI steadies as traders continue to assess the developments surrounding Middle East conflicts.",
-      "link": "https://www.fxstreet.com/news/wti-flatlines-near-8400-as-trump-rejects-truce-extension-202608180029",
-      "published": "2026-08-18T00:29:33+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: US interest expense on the national debt hit a record $1.4 trillion over the last 12 months. Since 2020, the cost of servicing US public debt has nearly TRIPLED. If rates remain stable, interest payments are set to rise to $1.7 trillion by November 2028. As a result, interest will surpass Social Security spending as the government's largest outlay for the first time. America's debt bill is spiraling out of control.",
       "summary": "<p>BREAKING: US interest expense on the national debt hit a record $1.4 trillion over the last 12 months.<br />\n<br />\nSince 2020, the cost of servicing US public debt has nearly TRIPLED.<br />\n<br />\nIf rates remain stable, interest payments are set to rise to $1.7 trillion by November 2028.<br />\n<br />\nAs a result, interest will surpass Social Security spending as the government's largest outla",
       "link": "https://nitter.net/KobeissiLetter/status/2089507603386896421#m",
       "published": "2026-08-18T00:20:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US President Donald Trump says not seeking extension of Iran MOU",
-      "summary": "US President Donald Trump said that he is not interested in renewing the expiring agreement with Iran, Bloomberg reported on Monday.",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-not-seeking-extension-of-iran-mou-202608172340",
-      "published": "2026-08-17T23:40:07+00:00",
       "score": 1
     },
     {
