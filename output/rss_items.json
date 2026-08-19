@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-18T23:58:52.909391+00:00",
-  "count": 55,
+  "updated_at": "2026-08-19T01:46:32.537829+00:00",
+  "count": 58,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar declines to weekly low as USD holds firm ahead of FOMC Minutes",
+      "summary": "The NZD/USD pair is seen extending this week's retracement slide from the 0.5925 area, or the highest since June 3, and drifting lower for the second straight day on Wednesday.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-to-weekly-low-as-usd-holds-firm-ahead-of-fomc-minutes-202608190145",
+      "published": "2026-08-19T01:45:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound declines below 1.3550 on soft UK labour figures, traders brace for CPI data",
+      "summary": "The GBP/USD pair loses ground to around 1.3535 during the early Asian trading hours on Wednesday. The British Pound (GBP) weakens against the US Dollar (USD) amid disappointing UK labour data.",
+      "link": "https://www.fxstreet.com/news/british-pound-declines-below-13550-on-soft-uk-labour-figures-traders-brace-for-cpi-data-202608190135",
+      "published": "2026-08-19T01:35:54+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar consolidates near 1.3900 vs USD ahead of US tariffs deadline, FOMC Minutes",
+      "summary": "The USD/CAD pair struggles to capitalize on this week's modest recovery from its lowest level since June 3 and oscillates in a range around the 1.3900 mark during the Asian session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-near-13900-vs-usd-ahead-of-us-tariffs-deadline-fomc-minutes-202608190116",
+      "published": "2026-08-19T01:16:10+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7854 vs. 6.7905 previous",
+      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7854 compared to the previous day's fix of 6.7905 and 6.7421 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67854-vs-67905-previous-202608190115",
+      "published": "2026-08-19T01:15:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro strengthens above 1.1550 on fading Fed hike bets",
+      "summary": "The EUR/USD pair trades with mild gains near 1.1580 during the early Asian session on Wednesday. The US Dollar (USD) softens against the Euro (EUR) as softer US inflation data dialed back expectations of tighter Federal Reserve (Fed) policy.",
+      "link": "https://www.fxstreet.com/news/euro-strengthens-above-11550-on-fading-fed-hike-bets-202608190046",
+      "published": "2026-08-19T00:46:54+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -28,33 +73,6 @@
       "link": "https://www.fxstreet.com/news/gold-steadies-below-4-350-as-surging-yields-offset-support-from-fed-rate-hold-bets-202608182325",
       "published": "2026-08-18T23:25:00+00:00",
       "score": 6
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump discussed arranging face-to-face meeting with Kim Jong Un during next Asia trip in November: WSJ",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9726623/Trump-discussed-arranging-face-to-face-meeting-with-Kim-Jong-Un-during-next-Asia-trip-in-November-WSJ.aspx?xy=rss",
-      "published": "2026-08-18T23:07:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump pushes for meeting with Kim Jong Un this year: WSJ",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9726622/Trump-pushes-for-meeting-with-Kim-Jong-Un-this-year-WSJ.aspx?xy=rss",
-      "published": "2026-08-18T23:06:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Association of Flight Attendants: objects to sale of Spirit's data to Google",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9726597/Association-of-Flight-Attendants-objects-to-sale-of-Spirits-data-to-Google.aspx?xy=rss",
-      "published": "2026-08-18T22:43:05+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -93,15 +111,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canada's Prime Minister Mark Carney and President Trump spoke again this afternoon on ongoing talks: Carney's office statement",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9726527/Canadas-Prime-Minister-Mark-Carney-and-President-Trump-spoke-again-this-afternoon-on-ongoing-talks-Carneys-office-statement.aspx?xy=rss",
-      "published": "2026-08-18T21:24:54+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "Breadth across gold miners is improving rapidly: ~62% of stocks in the gold miners ETF, $GDX, are now trading above their 200-day moving average, the highest proportion since May. This percentage has surged +57 points over the last 3 weeks. During this period, $GDX has soared +22%, entering bull new market territory. This also marks the sharpest improvement in gold miners’ breadth since March-April 2024. Following the 2024 breakout, $GDX gained +52% over the next 12 months. Bullish momentum across gold miners is building.",
@@ -129,6 +138,15 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
+      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
+      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
+      "published": "2026-08-18T20:06:07+00:00",
+      "score": 3
+    },
+    {
       "source": "FXStreet",
       "category": "news",
       "title": "Forex Today: US Dollar firms on Hormuz jitters ahead of UK CPI and FOMC Minutes",
@@ -136,15 +154,6 @@
       "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-on-hormuz-jitters-ahead-of-uk-cpi-and-fomc-minutes-202608181954",
       "published": "2026-08-18T19:54:27+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Upside risk stays in focus against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD rebounded after a sharper-than-expected drop to 1.2752, easing immediate downside pressure and pointing to intraday consolidation between 1.2760 and 1.2795.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-in-focus-against-us-dollar-uob-202608181935",
-      "published": "2026-08-18T19:35:48+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -165,21 +174,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Economists agree: BoE will hold rates through year-end – Reuters poll",
-      "summary": "The Bank of England (BoE) will keep interest rates unchanged for the rest of the year, according to a Reuters poll conducted between August 13 and 18.",
-      "link": "https://www.fxstreet.com/news/economists-agree-boe-will-hold-rates-through-year-end-reuters-poll-202608181809",
-      "published": "2026-08-18T18:09:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen drifts lower as Greenback retains safe-haven bid",
-      "summary": "USD/JPY holds modest gains near the 159.60s on Tuesday, edging higher on the day. The pair has clawed back ground after a recent sharp pullback and is grinding back toward the upper end of its recent range.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-drifts-lower-as-greenback-retains-safe-haven-bid-202608181806",
-      "published": "2026-08-18T18:06:31+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
+      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
+      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
+      "published": "2026-08-18T18:39:53+00:00",
       "score": 1
     },
     {
@@ -189,6 +189,42 @@
       "summary": "<p>BREAKING: Total trading volume in onchain tokenized equities has reached $9 billion in 2026, a new record.<br />\n<br />\nThis marks +207% quarter-over-quarter growth and +800% in year-to-date growth.<br />\n<br />\nThis comes amid demand for exposure to high momentum stocks, particularly memory and storage stocks, in a globally accessible 24/7 market.<br />\n<br />\nJupiter, the largest onchain plat",
       "link": "https://nitter.net/KobeissiLetter/status/2089772727083356395#m",
       "published": "2026-08-18T17:53:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
+      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
+      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
+      "published": "2026-08-18T16:50:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
+      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
+      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
+      "published": "2026-08-18T16:48:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "DIESEL MARGINS SMASH RECORD ABOVE $100 U.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch. Supply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets. Meanwhile, U.S. diesel inventories are at their lowest late-August level since 1996, raising fears of higher winter heating costs and renewed inflation.",
+      "summary": "<p>DIESEL MARGINS SMASH RECORD ABOVE $100<br />\n<br />\nU.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch.<br />\n<br />\nSupply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets.<br />\n<br />\nMeanwhile, U.S. diesel ",
+      "link": "https://nitter.net/DeItaone/status/2089751755026215258#m",
+      "published": "2026-08-18T16:30:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AAPL - APPLE OVERHAULS EU APP STORE FEES Apple is revamping its EU App Store terms from October 1. The Core Technology Fee will be replaced by a 5% commission on digital transactions outside the App Store. EU commissions will be 26% for Apple in-app purchases, 20% for alternative payments, and 15% for external purchase links. Apple will also expand alternative app distribution and introduce additional child-safety measures.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a> - APPLE OVERHAULS EU APP STORE FEES<br />\n<br />\nApple is revamping its EU App Store terms from October 1.<br />\n<br />\nThe Core Technology Fee will be replaced by a 5% commission on digital transactions outside the App Store.<br />\n<br />\nEU commissions will be 26% for Apple in-app purchases, 20% for alternative payments, and",
+      "link": "https://nitter.net/DeItaone/status/2089744406769209473#m",
+      "published": "2026-08-18T16:01:06+00:00",
       "score": 1
     },
     {
@@ -316,15 +352,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vqje88/xauusd_bulls_in_charge_bears_will_get_crushed/",
       "published": "2026-08-17T05:31:24+00:00",
       "score": 3
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "The cost of servicing US debt is the highest in decades: On Thursday, the US government sold $25 billion of 30Y Treasury bonds at a 5.216% yield, the highest auction yield since 2001. This follows a $42 billion auction of 10Y Treasury notes on Wednesday that resulted in a 4.683% yield, the highest since 2007. Previously, on July 9th, the government sold 30Y Treasury bonds at a 5.058% yield, the highest since 2007, highlighting the worsening trend in US debt financing costs. By comparison, yields on the same-maturity Treasury auctions were below 2.00% during the 2020 pandemic. This comes as investors are demanding more compensation to finance the US government's ever-growing deficit. In July, the US Treasury’s budget deficit surged +$141 billion YoY, to $432 billion, the largest July total in history. The US debt crisis is entering uncharted territory.",
-      "summary": "<p>The cost of servicing US debt is the highest in decades:<br />\n<br />\nOn Thursday, the US government sold $25 billion of 30Y Treasury bonds at a 5.216% yield, the highest auction yield since 2001.<br />\n<br />\nThis follows a $42 billion auction of 10Y Treasury notes on Wednesday that resulted in a 4.683% yield, the highest since 2007.<br />\n<br />\nPreviously, on July 9th, the government sold 30",
-      "link": "https://nitter.net/KobeissiLetter/status/2089128940908519580#m",
-      "published": "2026-08-16T23:15:28+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
