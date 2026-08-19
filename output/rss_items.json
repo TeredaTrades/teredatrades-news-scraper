@@ -1,13 +1,76 @@
 {
-  "updated_at": "2026-08-19T19:27:26.107641+00:00",
-  "count": 61,
+  "updated_at": "2026-08-19T19:51:54.124308+00:00",
+  "count": 56,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: -849 mln<br />Nasdaq 100: -627 mln<br />Dow 30: -91 mln<br />Mag 7: -208 mln",
+      "link": "https://www.financialjuice.com/News/9728277/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-08-19T19:50:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump ends remarks at the White House event.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9728257/Trump-ends-remarks-at-the-White-House-event.aspx?xy=rss",
+      "published": "2026-08-19T19:42:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on the bond market: Americans should not be concerned about volatility.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9728256/Trump-on-the-bond-market-Americans-should-not-be-concerned-about-volatility.aspx?xy=rss",
+      "published": "2026-08-19T19:41:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar sinks on Treasury buyback ahead of data-heavy Thursday",
+      "summary": "The US Dollar Index (DXY) sold off broadly on Wednesday, sinking below the 99.00s region and holding well under 100.00.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-sinks-on-treasury-buyback-ahead-of-data-heavy-thursday-202608191938",
+      "published": "2026-08-19T19:38:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Iran sanctions: We'll see what happens.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9728254/Trump-on-Iran-sanctions-Well-see-what-happens.aspx?xy=rss",
+      "published": "2026-08-19T19:34:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Probably have a deal with Canada.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9728251/Trump-Probably-have-a-deal-with-Canada.aspx?xy=rss",
+      "published": "2026-08-19T19:32:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Meeting next week with AI people.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9728247/Trump-Meeting-next-week-with-AI-people.aspx?xy=rss",
+      "published": "2026-08-19T19:29:34+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Thursday FX Options Expiries",
       "summary": "<ul><li><strong>EUR/USD: </strong>1.1300 (EU3.3b), 1.1500 (EU3.27b), 1.1550 (EU1.94b)</li><li><strong>USD/JPY: </strong>160.00 ($1.62b), 164.00 ($1.2b), 158.00 ($1.19b)</li><li><strong>AUD/USD:</strong> 0.7200 (AUD747.2m), 0.7120 (AUD405.9m), 0.6600 (AUD320m)</li><li><strong>USD/CAD:</strong> 1.3900 ($605.1m), 1.3685 ($412m)</li><li><strong>USD/BRL: </strong>5.2000 ($518.8m), 5.1000 ($495.1m), 5.0",
-      "link": "https://www.financialjuice.com/News/9728244/Thursday-FX-Options-Expiries-.aspx",
+      "link": "https://www.financialjuice.com/News/9728244/Thursday-FX-Options-Expiries-.aspx?xy=rss",
       "published": "2026-08-19T19:22:24+00:00",
       "score": 1
     },
@@ -16,7 +79,7 @@
       "category": "news",
       "title": "FinancialJuice: Trump on China Presidnet XI visit: We will probably talk about AI.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9728229/Trump-on-China-Presidnet-XI-visit-We-will-probably-talk-about-AI.aspx",
+      "link": "https://www.financialjuice.com/News/9728229/Trump-on-China-Presidnet-XI-visit-We-will-probably-talk-about-AI.aspx?xy=rss",
       "published": "2026-08-19T19:11:40+00:00",
       "score": 1
     },
@@ -25,7 +88,7 @@
       "category": "news",
       "title": "FinancialJuice: US-Canada trade deal expected to cut top-line US tariff rates on canadian steel, aluminum to 25% but also will include some quota arrangements - source",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9728228/US-Canada-trade-deal-expected-to-cut-top-line-US-tariff-rates-on-canadian-steel-aluminum-to-25-but-also-will-include-some-quota-arrangements---source.aspx",
+      "link": "https://www.financialjuice.com/News/9728228/US-Canada-trade-deal-expected-to-cut-top-line-US-tariff-rates-on-canadian-steel-aluminum-to-25-but-also-will-include-some-quota-arrangements---source.aspx?xy=rss",
       "published": "2026-08-19T19:10:54+00:00",
       "score": 1
     },
@@ -34,7 +97,7 @@
       "category": "news",
       "title": "FinancialJuice: US-Canada trade deal expected to cut top-line US tariff rates on Canadian autos to 15% - source familiar with negotiations.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9728227/US-Canada-trade-deal-expected-to-cut-top-line-US-tariff-rates-on-Canadian-autos-to-15---source-familiar-with-negotiations.aspx",
+      "link": "https://www.financialjuice.com/News/9728227/US-Canada-trade-deal-expected-to-cut-top-line-US-tariff-rates-on-Canadian-autos-to-15---source-familiar-with-negotiations.aspx?xy=rss",
       "published": "2026-08-19T19:10:36+00:00",
       "score": 1
     },
@@ -64,42 +127,6 @@
       "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-positive-momentum-points-to-further-upside-202608191819",
       "published": "2026-08-19T18:19:27+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WATCH LIVE: Trump speaks at a meeting with tech leaders 2:10 PM ET",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728141/WATCH-LIVE-Trump-speaks-at-a-meeting-with-tech-leaders-210-PM-ET.aspx",
-      "published": "2026-08-19T18:07:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Staff Economic Outlook showed the inflation outlook was similar to one prepared for the June meeting, but the economic outlook was a touch weaker.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728132/Fed-Staff-Economic-Outlook-showed-the-inflation-outlook-was-similar-to-one-prepared-for-the-June-meeting-but-the-economic-outlook-was-a-touch-weaker.aspx",
-      "published": "2026-08-19T18:01:38+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Minutes: A couple of participants said ample-reserves regime had helped maintain orderly market functioning during brief payments outage during intermeeting period.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728130/Fed-Minutes-A-couple-of-participants-said-ample-reserves-regime-had-helped-maintain-orderly-market-functioning-during-brief-payments-outage-during-intermeeting-period.aspx",
-      "published": "2026-08-19T18:01:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Minutes: Fed staff economic outlook showed inflation forecast was similar to one prepared for the June meeting, but the economic outlook was a touch weaker.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728129/Fed-Minutes-Fed-staff-economic-outlook-showed-inflation-forecast-was-similar-to-one-prepared-for-the-June-meeting-but-the-economic-outlook-was-a-touch-weaker.aspx",
-      "published": "2026-08-19T18:01:14+00:00",
-      "score": 2
     },
     {
       "source": "Kobeissi Letter",
@@ -180,15 +207,6 @@
       "summary": "EUR/GBP trades on the front foot on Wednesday, pushing up to the vicinity of a two-week high near the 0.8570 region as the Euro holds firm against a softer British Pound (GBP). The pair has cleared its recent range after a run of green candles on the 4-hour chart.",
       "link": "https://www.fxstreet.com/news/eur-gbp-pushes-toward-two-week-high-amid-cooling-uk-services-inflation-202608191619",
       "published": "2026-08-19T16:19:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21",
-      "summary": "<p>TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21</p>",
-      "link": "https://nitter.net/DeItaone/status/2090106461091135874#m",
-      "published": "2026-08-19T15:59:47+00:00",
       "score": 1
     },
     {
@@ -282,15 +300,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Bank of England: Rate hold baseline with conflict risks – Societe Generale",
-      "summary": "Sam Cartwright at Societe Generale argues recent easing in United Kingdom (UK) services inflation and labour market loosening support the Bank of England’s wait-and-see stance. The baseline view is Bank Rate stays at 3.75% through 2026 to restrain underlying inflation.",
-      "link": "https://www.fxstreet.com/news/bank-of-england-rate-hold-baseline-with-conflict-risks-societe-generale-202608191422",
-      "published": "2026-08-19T14:22:40+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Holy f what happen to gold",
@@ -327,66 +336,12 @@
       "score": 6
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE A Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office. Separately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power. The findings could add political pressure ahead of November’s midterm elections.",
-      "summary": "<p>POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE<br />\n<br />\nA Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office.<br />\n<br />\nSeparately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power.<br />\n<br />\nThe findings could add political pressure ahead o",
-      "link": "https://nitter.net/DeItaone/status/2090032203266654456#m",
-      "published": "2026-08-19T11:04:42+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gold Is Getting Interesting Around 4340–4350",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vsenx2/gold_is_getting_interesting_around_43404350/\"> <img alt=\"Gold Is Getting Interesting Around 4340–4350\" src=\"https://preview.redd.it/2ik0mcdr2akh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70236eea34a5ebd02cae92eb1be910efe4885696\" title=\"Gold Is Getting Interesting Around 4340–4350\" /> </a> </td><td> <!-- SC_OFF --><d",
       "link": "https://www.reddit.com/r/Forex/comments/1vsenx2/gold_is_getting_interesting_around_43404350/",
       "published": "2026-08-19T06:43:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
-      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
-      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
-      "published": "2026-08-18T20:06:07+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
-      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
-      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
-      "published": "2026-08-18T18:39:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
-      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
-      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
-      "published": "2026-08-18T16:50:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
-      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
-      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
-      "published": "2026-08-18T16:48:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "DIESEL MARGINS SMASH RECORD ABOVE $100 U.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch. Supply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets. Meanwhile, U.S. diesel inventories are at their lowest late-August level since 1996, raising fears of higher winter heating costs and renewed inflation.",
-      "summary": "<p>DIESEL MARGINS SMASH RECORD ABOVE $100<br />\n<br />\nU.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch.<br />\n<br />\nSupply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets.<br />\n<br />\nMeanwhile, U.S. diesel ",
-      "link": "https://nitter.net/DeItaone/status/2089751755026215258#m",
-      "published": "2026-08-18T16:30:18+00:00",
       "score": 1
     },
     {
