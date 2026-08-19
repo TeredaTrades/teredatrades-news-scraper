@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-08-19T08:15:58.634831+00:00",
-  "count": 52,
+  "updated_at": "2026-08-19T09:05:02.938439+00:00",
+  "count": 63,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Higher yields threaten housing and risk sentiment – MUFG",
+      "summary": "MUFG’s Derek Halpenny highlights how elevated US Treasury yields and rising mortgage rates are beginning to weigh on the US housing market, with Housing Starts and Pending Home Sales softening.",
+      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-threaten-housing-and-risk-sentiment-mufg-202608190900",
+      "published": "2026-08-19T09:00:50+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Eurozone CPI MoM Final Actual 0.2% (Forecast 0.2%, Previous -0.1%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727369/Eurozone-CPI-MoM-Final-Actual-02-Forecast-02-Previous--01.aspx?xy=rss",
+      "published": "2026-08-19T09:00:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ING: The GBP - FJElite",
+      "summary": "<div>EUR/GBP has barely budged on today's release of the UK July CPI data. The rise in headline inflation was widely expected, though food inflation - which the Bank of England tracks closely - remains quite benign. ING's UK economist, James Smith, notes that the BoE's core services measure of inflation has picked up a little to 3.8% year-on-year, but probably not enough to trouble the Bank.</div>",
+      "link": "https://www.financialjuice.com/News/9727352/ING-The-GBP---FJElite.aspx?xy=rss",
+      "published": "2026-08-19T08:41:46+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Goldman Sachs: European Investment Grade Credit - FJElite",
+      "summary": "<div>A key pillar supporting tight index-level credit spreads in recent years has been strong demand from yield-based investors. In Europe, a distinctive source of support has come from retail investors through fixed-income target maturity funds. We estimate these funds have accumulated roughly €270 billion in assets under management since 2021, a meaningful technical tailwind for the EUR IG marke",
+      "link": "https://www.financialjuice.com/News/9727351/Goldman-Sachs-European-Investment-Grade-Credit---FJElite.aspx?xy=rss",
+      "published": "2026-08-19T08:40:48+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc picks up within range, USDollar softens awaiting Fed minutes",
+      "summary": "The Swiss Franc (CHF) appreciates moderately on Wednesday, as the US Dollar (USD) pulls back against major peers, with investors bracing for the release of the minutes of July’s Federal Reserve (Fed) monetary policy meeting, due later on the day.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-picks-up-within-range-usdollar-softens-awaiting-fed-minutes-202608190831",
+      "published": "2026-08-19T08:31:13+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee: Range-bound with RBI support against US Dollar – Commerzbank",
+      "summary": "Commerzbank FX analysts Charlie Lay and Moses Lim see USD/INR staying broadly stable as the Reserve Bank of India (RBI) keeps the policy repo rate at 5.25% and remains in wait-and-see mode.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-range-bound-with-rbi-support-against-us-dollar-commerzbank-202608190828",
+      "published": "2026-08-19T08:28:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Pullback risk with higher yields and Oil – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that Gold’s rebound has lost momentum as renewed Oil gains and higher long-end US yields revive inflation concerns. Daily charts show fading bullish momentum and a lower Relative Strength Index (RSI) from near overbought levels.",
+      "link": "https://www.fxstreet.com/news/gold-pullback-risk-with-higher-yields-and-oil-ocbc-202608190820",
+      "published": "2026-08-19T08:20:11+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones futures pause as tech sell-off, oil pressures weigh on sentiment",
+      "summary": "Dow Jones futures inch higher 0.06% to trade around 53,440 during European hours on Wednesday. Meanwhile, S&amp;P 500 futures remain steady near 7,710, and Nasdaq 100 futures edge lower 0.03%, trading near 29,580.",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-pause-as-tech-sell-off-oil-pressures-weigh-on-sentiment-202608190818",
+      "published": "2026-08-19T08:18:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index slumps in countdown to FOMC minutes",
+      "summary": "The US Dollar (USD) trades lower against its major currency peers on Wednesday ahead of the Federal Open Market Committee (FOMC) minutes of the July policy meeting, which will be published at 18:00 GMT.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-slumps-in-countdown-to-fomc-minutes-202608190818",
+      "published": "2026-08-19T08:18:08+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -43,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: Europe Sentiment: Stocks Halt Losses Yields Continue Rise - FJElite",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9727285/Europe-Sentiment-Stocks-Halt-Losses-Yields-Continue-Rise---FJElite.aspx",
+      "link": "https://www.financialjuice.com/News/9727285/Europe-Sentiment-Stocks-Halt-Losses-Yields-Continue-Rise---FJElite.aspx?xy=rss",
       "published": "2026-08-19T07:48:25+00:00",
       "score": 1
     },
@@ -84,38 +165,11 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecasts: XAG/USD tests levels sub-$63.00 as bearish pressure mounts",
-      "summary": "Silver (XAG/USD) trades lower for the second consecutive day on Wednesday, exploring prices below the $63.00 level at the time of writing, after a reversal from the $66.50 area on Tuesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-tests-levels-sub-6300-as-bearish-pressure-mounts-202608190714",
-      "published": "2026-08-19T07:14:05+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "NZD/USD Price Forecast: Weakens below 0.5900, but staying supported above 100-day SMA",
-      "summary": "The NZD/USD pair trades with mild losses around 0.5875 during the early European session on Wednesday. Escalating tensions in the Middle East boost a safe-haven currency such as the US Dollar (USD) and act as a headwind for the pair.",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-weakens-below-05900-but-staying-supported-above-100-day-sma-202608190711",
-      "published": "2026-08-19T07:11:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah: Oil gains and BI decision shape IDR – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that Indonesian Rupiah (IDR) weakness is driven by higher Oil prices and elevated global yields, even as domestic sentiment improves after President Prabowo’s speeches and the BI governor nomination.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-oil-gains-and-bi-decision-shape-idr-ocbc-202608190704",
-      "published": "2026-08-19T07:04:31+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Currency Strength Chart: Strongest: JPY, CHF, EUR, GBP, CAD, NZD, USD, AUD - Weakest",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9727209/Currency-Strength-Chart-Strongest-JPY-CHF-EUR-GBP-CAD-NZD-USD-AUD---Weakest.aspx",
+      "link": "https://www.financialjuice.com/News/9727209/Currency-Strength-Chart-Strongest-JPY-CHF-EUR-GBP-CAD-NZD-USD-AUD---Weakest.aspx?xy=rss",
       "published": "2026-08-19T07:01:25+00:00",
       "score": 1
     },
@@ -124,26 +178,8 @@
       "category": "news",
       "title": "FinancialJuice: ECB's Rehn: Keeping inflation expectations anchored is essential",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9727199/ECBs-Rehn-Keeping-inflation-expectations-anchored-is-essential.aspx",
+      "link": "https://www.financialjuice.com/News/9727199/ECBs-Rehn-Keeping-inflation-expectations-anchored-is-essential.aspx?xy=rss",
       "published": "2026-08-19T07:00:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "AUD/USD Price Forecast: Rising 20-day EMA supports near-term bullish bias",
-      "summary": "The Australian Dollar (AUD) underperforms its major currency peers on Wednesday, trading 0.17% lower at around 0.7070 against the US Dollar (USD) during the European trading session.",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-rising-20-day-ema-supports-near-term-bullish-bias-202608190653",
-      "published": "2026-08-19T06:53:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Equities: Defensive rotation with higher yields – Danske Bank",
-      "summary": "Danske Research Team reports a marked drop in global equities, with the S&amp;P 500 and Stoxx 600 down 0.7% on Tuesday. After a period of value-versus-growth rotation, flows shifted toward defensive sectors such as consumer staples and health care, funded by cyclicals.",
-      "link": "https://www.fxstreet.com/news/equities-defensive-rotation-with-higher-yields-danske-bank-202608190646",
-      "published": "2026-08-19T06:46:01+00:00",
       "score": 1
     },
     {
@@ -158,37 +194,19 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Asia FX: Lower US yields offset Oil risk – MUFG",
-      "summary": "MUFG’s Lloyd Chan notes that the Korean Won (KRW) and Taiwan Dollar (TWD) are leading Asia FX gains as softer US yields and a resilient technology cycle support sentiment.",
-      "link": "https://www.fxstreet.com/news/asia-fx-lower-us-yields-offset-oil-risk-mufg-202608190637",
-      "published": "2026-08-19T06:37:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro trims gains against British Pound after UK CPI inflation rises to 2.9%",
-      "summary": "The EUR/GBP cross pares gains around 0.8555 during the early European trading hours on Wednesday. The British Pound (GBP) attracts some buyers against the Euro (EUR) following the UK inflation data.",
-      "link": "https://www.fxstreet.com/news/euro-trims-gains-against-british-pound-after-uk-cpi-inflation-rises-to-29-202608190635",
-      "published": "2026-08-19T06:35:19+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727163/Fed-Interest-Rate-Probabilities.aspx",
-      "published": "2026-08-19T06:24:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee stays under pressure amid higher oil prices",
+      "title": "Indian Rupee trades lower amid higher oil prices, early FCNR (B) closure",
       "summary": "The Indian Rupee (INR) remains vulnerable against the US Dollar (USD), close to its two-week low at around 95.75.",
       "link": "https://www.fxstreet.com/news/indian-rupee-holds-onto-two-week-losses-against-us-dollar-202608190531",
       "published": "2026-08-19T05:31:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Iran has weighed attacking US Military targets in Europe should President Trump escalate the war, per FT. Details include: 1. Iranian forces have reportedly assessed striking US assets in south-eastern European countries such as Bulgaria 2. Cyprus, where a British air base was struck by a drone in March, was also among potential targets for retaliation in the event of any renewed US offensive 3. Iranian forces have also reportedly considered attacking subsea fiber-optic cables in the Strait of Hormuz in the event of an escalation Iran is ready to expand its range of targets should the war escalate again.",
+      "summary": "<p>BREAKING: Iran has weighed attacking US Military targets in Europe should President Trump escalate the war, per FT.<br />\n<br />\nDetails include:<br />\n<br />\n1. Iranian forces have reportedly assessed striking US assets in south-eastern European countries such as Bulgaria<br />\n<br />\n2. Cyprus, where a British air base was struck by a drone in March, was also among potential targets for retal",
+      "link": "https://nitter.net/KobeissiLetter/status/2089927254356668900#m",
+      "published": "2026-08-19T04:07:41+00:00",
       "score": 1
     },
     {
@@ -201,57 +219,111 @@
       "score": 4
     },
     {
-      "source": "Walter Bloomberg",
+      "source": "Kobeissi Letter",
       "category": "twitter",
-      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
-      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
-      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
-      "published": "2026-08-18T20:06:07+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
-      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
-      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
-      "published": "2026-08-18T18:39:53+00:00",
+      "title": "BREAKING: President Trump says he has paused the 50% tariffs that were supposed to take effect tomorrow morning for a three day period. President Trump says the US and Canada \"have a deal.\"",
+      "summary": "<p>BREAKING: President Trump says he has paused the 50% tariffs that were supposed to take effect tomorrow morning for a three day period.<br />\n<br />\nPresident Trump says the US and Canada \"have a deal.\"</p>\n<img src=\"https://nitter.net/pic/media%2FHQDQWnOXwAA0-Xe.png\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2089899614660903087#m",
+      "published": "2026-08-19T02:17:51+00:00",
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
-      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
-      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
-      "published": "2026-08-18T16:50:51+00:00",
+      "source": "r/Daytrading",
+      "category": "reddit",
+      "title": "SPX 0DTE Credit Spreads: How I Sell Credit Into Pressure on Choppy Range Days +$215",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Daytrading/comments/1vs5p73/spx_0dte_credit_spreads_how_i_sell_credit_into/\"> <img alt=\"SPX 0DTE Credit Spreads: How I Sell Credit Into Pressure on Choppy Range Days +$215\" src=\"https://preview.redd.it/y1vlu9s1w7kh1.png?width=140&amp;height=102&amp;auto=webp&amp;s=5f3ff67031a9dbada1f218e2aec623dd9c876f07\" title=\"SPX 0DTE Credit Spreads: How I Sell",
+      "link": "https://www.reddit.com/r/Daytrading/comments/1vs5p73/spx_0dte_credit_spreads_how_i_sell_credit_into/",
+      "published": "2026-08-18T23:33:39+00:00",
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
+      "source": "Kobeissi Letter",
       "category": "twitter",
-      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
-      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
-      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
-      "published": "2026-08-18T16:48:13+00:00",
+      "title": "BREAKING: President Trump has instructed top administration envoys to halt their conversations with Iran, per CNN. White House officials have reportedly communicated to political allies that they are shifting their strategy, going from “hammer Iran ASAP” to “strangle them” over time. Today marks day 171 of the Iran War.",
+      "summary": "<p>BREAKING: President Trump has instructed top administration envoys to halt their conversations with Iran, per CNN.<br />\n<br />\nWhite House officials have reportedly communicated to political allies that they are shifting their strategy, going from “hammer Iran ASAP” to “strangle them” over time.<br />\n<br />\nToday marks day 171 of the Iran War.</p>",
+      "link": "https://nitter.net/KobeissiLetter/status/2089839209494257670#m",
+      "published": "2026-08-18T22:17:49+00:00",
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
+      "source": "Kobeissi Letter",
       "category": "twitter",
-      "title": "DIESEL MARGINS SMASH RECORD ABOVE $100 U.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch. Supply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets. Meanwhile, U.S. diesel inventories are at their lowest late-August level since 1996, raising fears of higher winter heating costs and renewed inflation.",
-      "summary": "<p>DIESEL MARGINS SMASH RECORD ABOVE $100<br />\n<br />\nU.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch.<br />\n<br />\nSupply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets.<br />\n<br />\nMeanwhile, U.S. diesel ",
-      "link": "https://nitter.net/DeItaone/status/2089751755026215258#m",
-      "published": "2026-08-18T16:30:18+00:00",
+      "title": "Breadth across gold miners is improving rapidly: ~62% of stocks in the gold miners ETF, $GDX, are now trading above their 200-day moving average, the highest proportion since May. This percentage has surged +57 points over the last 3 weeks. During this period, $GDX has soared +22%, entering bull new market territory. This also marks the sharpest improvement in gold miners’ breadth since March-April 2024. Following the 2024 breakout, $GDX gained +52% over the next 12 months. Bullish momentum across gold miners is building.",
+      "summary": "<p>Breadth across gold miners is improving rapidly:<br />\n<br />\n~62% of stocks in the gold miners ETF, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GDX\">$GDX</a>, are now trading above their 200-day moving average, the highest proportion since May.<br />\n<br />\nThis percentage has surged +57 points over the last 3 weeks.<br />\n<br />\nDuring this period, <a href=\"https://nitter.net/search?",
+      "link": "https://nitter.net/KobeissiLetter/status/2089822896634147023#m",
+      "published": "2026-08-18T21:13:00+00:00",
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
+      "source": "Kobeissi Letter",
       "category": "twitter",
-      "title": "$AAPL - APPLE OVERHAULS EU APP STORE FEES Apple is revamping its EU App Store terms from October 1. The Core Technology Fee will be replaced by a 5% commission on digital transactions outside the App Store. EU commissions will be 26% for Apple in-app purchases, 20% for alternative payments, and 15% for external purchase links. Apple will also expand alternative app distribution and introduce additional child-safety measures.",
-      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a> - APPLE OVERHAULS EU APP STORE FEES<br />\n<br />\nApple is revamping its EU App Store terms from October 1.<br />\n<br />\nThe Core Technology Fee will be replaced by a 5% commission on digital transactions outside the App Store.<br />\n<br />\nEU commissions will be 26% for Apple in-app purchases, 20% for alternative payments, and",
-      "link": "https://nitter.net/DeItaone/status/2089744406769209473#m",
-      "published": "2026-08-18T16:01:06+00:00",
+      "title": "BREAKING: The SEC announces new proposed rules that will create a \"clear and fit-for purpose framework\" for certain investment contracts involving crypto assets. Details include: 1. The proposal follows the SEC's March 2026 interpretation clarifying how federal securities laws apply to certain crypto assets 2. The rules will address \"long-standing barriers\" to \"capital formation and innovation\" within domestic crypto asset markets 3. The proposed rules include 2 exemptions from the registration requirements of the Securities Act of 1933 specifically tailored to certain investment contracts involving crypto assets 4. The proposed rules also include a conditional safe harbor from the term \"investment contract\" in the definitions of \"security\" in the Securities Act of 1933 and the Securities Exchange Act of 1934 Framework for broader crypto adoption is rolling out.",
+      "summary": "<p>BREAKING: The SEC announces new proposed rules that will create a \"clear and fit-for purpose framework\" for certain investment contracts involving crypto assets.<br />\n<br />\nDetails include:<br />\n<br />\n1. The proposal follows the SEC's March 2026 interpretation clarifying how federal securities laws apply to certain crypto assets<br />\n<br />\n2. The rules will address \"long-standing barriers",
+      "link": "https://nitter.net/KobeissiLetter/status/2089785910384906281#m",
+      "published": "2026-08-18T18:46:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Total trading volume in onchain tokenized equities has reached $9 billion in 2026, a new record. This marks +207% quarter-over-quarter growth and +800% in year-to-date growth. This comes amid demand for exposure to high momentum stocks, particularly memory and storage stocks, in a globally accessible 24/7 market. Jupiter, the largest onchain platform on Solana, has been driving the move toward tokenization, now seeing +95% quarter-over-quarter growth in routed tokenized equities volume. Amid this trend, the Nasdaq has announced plans to extend trading to 23 hours per day, 5 days per week. Jupiter also reports that 55% of its tokenized equities volume is coming from off-hours trading. Many investors want 24/7 markets.",
+      "summary": "<p>BREAKING: Total trading volume in onchain tokenized equities has reached $9 billion in 2026, a new record.<br />\n<br />\nThis marks +207% quarter-over-quarter growth and +800% in year-to-date growth.<br />\n<br />\nThis comes amid demand for exposure to high momentum stocks, particularly memory and storage stocks, in a globally accessible 24/7 market.<br />\n<br />\nJupiter, the largest onchain plat",
+      "link": "https://nitter.net/KobeissiLetter/status/2089772727083356395#m",
+      "published": "2026-08-18T17:53:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Daytrading",
+      "category": "reddit",
+      "title": "Watch A Reputable Quant Dismantle Discretionary Trading",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Daytrading/comments/1vrvapp/watch_a_reputable_quant_dismantle_discretionary/\"> <img alt=\"Watch A Reputable Quant Dismantle Discretionary Trading\" src=\"https://external-preview.redd.it/aDZtcGI3YncwNmtoMVesCQUjm68oyU7_jJvkse1YwsSUfydT4DV882MNyO3O.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=321b2baea871ce7d5503a25109c2613a6eed8c00\" title=\"Watch ",
+      "link": "https://www.reddit.com/r/Daytrading/comments/1vrvapp/watch_a_reputable_quant_dismantle_discretionary/",
+      "published": "2026-08-18T17:06:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Global physical gold-backed ETFs posted +$3.5 billion in inflows last week, the largest weekly intake since February 2026. This also marks the 6th consecutive weekly inflow, the longest streak since January. Over this 6-week period, ETFs have attracted +$10.0 billion in inflows. This is equivalent to +72.2 tons of gold, bringing ETF holdings up to 4,114 tons, the highest since May. European funds led last week’s demand at +$2.3 billion, followed by North America at +$1.1 billion, and Asia at +$200 million. Global demand for gold is acclerating sharply.",
+      "summary": "<p>BREAKING: Global physical gold-backed ETFs posted +$3.5 billion in inflows last week, the largest weekly intake since February 2026.<br />\n<br />\nThis also marks the 6th consecutive weekly inflow, the longest streak since January.<br />\n<br />\nOver this 6-week period, ETFs have attracted +$10.0 billion in inflows.<br />\n<br />\nThis is equivalent to +72.2 tons of gold, bringing ETF holdings up t",
+      "link": "https://nitter.net/KobeissiLetter/status/2089740606968901817#m",
+      "published": "2026-08-18T15:46:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "Hidden AI-related commitments are skyrocketing among Big Tech companies: The top 9 US tech firms have ~$3 trillion in off-balance-sheet commitments, including leases for data centers and power infrastructure that have not yet commenced, as well as purchase commitments for AI-related equipment and services. This is roughly triple the amount that these firms report on their balance sheets in leases and long-term debt. This also compares to ~$600 billion in CapEx reported over the last year. Alphabet, $GOOGL, alone posted an increase of more than +800% YoY in off-balance-sheet obligations, more than 7 times its YoY increase in CapEx. This was followed by Meta, $META, which reported an increase of more than +750% YoY in such obligations, more than 9 times the increase in CapEx over the same period. AI infrastructure is driving one of the largest corporate investment waves in history.",
+      "summary": "<p>Hidden AI-related commitments are skyrocketing among Big Tech companies:<br />\n<br />\nThe top 9 US tech firms have ~$3 trillion in off-balance-sheet commitments, including leases for data centers and power infrastructure that have not yet commenced, as well as purchase commitments for AI-related equipment and services.<br />\n<br />\nThis is roughly triple the amount that these firms report on th",
+      "link": "https://nitter.net/KobeissiLetter/status/2089722737384182121#m",
+      "published": "2026-08-18T14:35:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump says there are no talks or conversations going on or scheduled with Iran.",
+      "summary": "<p>BREAKING: President Trump says there are no talks or conversations going on or scheduled with Iran.</p>\n<img src=\"https://nitter.net/pic/media%2FHQAhbKMXgAApYqt.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2089706981695111232#m",
+      "published": "2026-08-18T13:32:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: President Trump posts an image claiming that the Strait of Hormuz is now \"new US territory.\" US oil prices extend gains toward $85 per barrel.",
+      "summary": "<p>BREAKING: President Trump posts an image claiming that the Strait of Hormuz is now \"new US territory.\"<br />\n<br />\nUS oil prices extend gains toward $85 per barrel.</p>\n<img src=\"https://nitter.net/pic/media%2FHQAYuyBXUAA2WMX.jpg\" />",
+      "link": "https://nitter.net/KobeissiLetter/status/2089697614069485989#m",
+      "published": "2026-08-18T12:55:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Daytrading",
+      "category": "reddit",
+      "title": "$110K last 30 days trading Gold",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Daytrading/comments/1vrl9u6/110k_last_30_days_trading_gold/\"> <img alt=\"$110K last 30 days trading Gold\" src=\"https://preview.redd.it/k5ej0lcby3kh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e106ade727a1d5ba94b399a194e38bcc249b3d6\" title=\"$110K last 30 days trading Gold\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>After 3 years of t",
+      "link": "https://www.reddit.com/r/Daytrading/comments/1vrl9u6/110k_last_30_days_trading_gold/",
+      "published": "2026-08-18T10:26:32+00:00",
       "score": 1
     },
     {
@@ -261,6 +333,33 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vrh5dx/shorting_gold_right_now_4th_rejection_at/\"> <img alt=\"Shorting gold right now. 4th rejection at resistance.\" src=\"https://preview.redd.it/in5rbc1mu2kh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d8b3aa29967882b57412535f7c3dca4b65d17f5\" title=\"Shorting gold right now. 4th rejection at resistance.\" /> </a> </td><td> <!",
       "link": "https://www.reddit.com/r/Forex/comments/1vrh5dx/shorting_gold_right_now_4th_rejection_at/",
       "published": "2026-08-18T06:25:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: US interest expense on the national debt hit a record $1.4 trillion over the last 12 months. Since 2020, the cost of servicing US public debt has nearly TRIPLED. If rates remain stable, interest payments are set to rise to $1.7 trillion by November 2028. As a result, interest will surpass Social Security spending as the government's largest outlay for the first time. America's debt bill is spiraling out of control.",
+      "summary": "<p>BREAKING: US interest expense on the national debt hit a record $1.4 trillion over the last 12 months.<br />\n<br />\nSince 2020, the cost of servicing US public debt has nearly TRIPLED.<br />\n<br />\nIf rates remain stable, interest payments are set to rise to $1.7 trillion by November 2028.<br />\n<br />\nAs a result, interest will surpass Social Security spending as the government's largest outla",
+      "link": "https://nitter.net/KobeissiLetter/status/2089507603386896421#m",
+      "published": "2026-08-18T00:20:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "Markets are bracing for a more volatile period ahead: S&P 500 options are pricing a daily implied move of ~0.75% on August 27th, the day after Nvidia, $NVDA, reports its quarterly earnings. The following day, August 28th, carries a ~0.70% implied move in the index as the Jackson Hole symposium begins, making them the two most anticipated volatility events of the month. By comparison, typical daily implied moves on non-event days this week are just ~0.40-0.50%. At the same time, options positioning flipped from long to short gamma in early August, a dynamic that tends to amplify market swings once volatility picks up. Meanwhile, the volatility index, $VIX, finished last week at 14.3 points, the lowest level since December 2025. More volatility is likely ahead of us.",
+      "summary": "<p>Markets are bracing for a more volatile period ahead:<br />\n<br />\nS&amp;P 500 options are pricing a daily implied move of ~0.75% on August 27th, the day after Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, reports its quarterly earnings.<br />\n<br />\nThe following day, August 28th, carries a ~0.70% implied move in the index as the Jackson Hole symposium begins, m",
+      "link": "https://nitter.net/KobeissiLetter/status/2089403130890932267#m",
+      "published": "2026-08-17T17:25:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "BREAKING: Nvidia, $NVDA, has agreed to provide a more than $100 billion backstop for a massive new OpenAI data center in Ohio, per FT. Details include: 1. Nvidia will provide credit support for the \"land, power and shell\" for the facility capped at $105 billion 2. The data center is being developed alongside a SoftBank-led energy companies 3. Nvidia will also invest $1.5 billion into SB Energy, an energy company founded as part of the SoftBank Group in 2019 4. OpenAI plans to lease as much as 8 gigawatts of AI computing power at the data center in Pike County, Ohio, which will take until 2032 to complete This will mark one of the largest AI infrastructure deals yet.",
+      "summary": "<p>BREAKING: Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, has agreed to provide a more than $100 billion backstop for a massive new OpenAI data center in Ohio, per FT.<br />\n<br />\nDetails include:<br />\n<br />\n1. Nvidia will provide credit support for the \"land, power and shell\" for the facility capped at $105 billion<br />\n<br />\n2. The data center is being devel",
+      "link": "https://nitter.net/KobeissiLetter/status/2089352534439624839#m",
+      "published": "2026-08-17T14:03:57+00:00",
       "score": 1
     },
     {
@@ -471,11 +570,5 @@
       "score": 1
     }
   ],
-  "errors": [
-    {
-      "source": "Kobeissi Letter",
-      "type": "twitter",
-      "error": "failed to parse feed (text/html;charset=utf-8 is not an XML media type)"
-    }
-  ]
+  "errors": []
 }
