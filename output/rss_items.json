@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-19T17:03:29.401984+00:00",
-  "count": 57,
+  "updated_at": "2026-08-19T17:41:38.493504+00:00",
+  "count": 61,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: S&P: Micron Technology ratings raised to \"BBB+\", on higher confidence in near-term demand. Outlook \"Positive\". $MU",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9728095/SP-Micron-Technology-ratings-raised-to-BBB-on-higher-confidence-in-near-term-demand-Outlook-Positive-MU.aspx?xy=rss",
+      "published": "2026-08-19T17:37:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar jumps as falling US yields weigh on the USD",
+      "summary": "NZD/USD rises sharply on Wednesday and trades around 0.5930 at the time of writing, up 0.96% on the day. The New Zealand Dollar (NZD) benefits primarily from broad weakness in the US Dollar (USD), as the sharp decline in US Treasury yields reduces the appeal of the Greenback.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-jumps-as-falling-us-yields-weigh-on-the-usd-202608191706",
+      "published": "2026-08-19T17:06:22+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -66,6 +84,15 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21",
+      "summary": "<p>TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21</p>",
+      "link": "https://nitter.net/DeItaone/status/2090106461091135874#m",
+      "published": "2026-08-19T15:59:47+00:00",
+      "score": 1
+    },
+    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: USTR Greer: The deal with Canada will protect American workers, jobs, and supply chains and strengthen the North American economy.",
@@ -111,48 +138,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump reiterates that the Canada deal is subject to finalization.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727930/Trump-reiterates-that-the-Canada-deal-is-subject-to-finalization.aspx?xy=rss",
-      "published": "2026-08-19T15:30:03+00:00",
-      "score": 2
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "R to @KobeissiLetter: Lastly, mortgage rates are back on the rise and we expect new record lows in housing affordability. Without further intervention, we expect 7%+ mortgage rates. The era of \"free\" money has come to an end. Follow us @KobeissiLetter for real time analysis as this develops.",
       "summary": "<p>Lastly, mortgage rates are back on the rise and we expect new record lows in housing affordability.<br />\n<br />\nWithout further intervention, we expect 7%+ mortgage rates.<br />\n<br />\nThe era of \"free\" money has come to an end.<br />\n<br />\nFollow us <a href=\"https://nitter.net/KobeissiLetter\" title=\"The Kobeissi Letter\">@KobeissiLetter</a> for real time analysis as this develops.</p>\n<img sr",
       "link": "https://nitter.net/KobeissiLetter/status/2090098891123302467#m",
       "published": "2026-08-19T15:29:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump, asked if meeting North Korea's Kim this year: Yes.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727929/Trump-asked-if-meeting-North-Koreas-Kim-this-year-Yes.aspx?xy=rss",
-      "published": "2026-08-19T15:29:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We have no tariffs going into Canada. Tariffs will be non-existent for farmers.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727928/Trump-We-have-no-tariffs-going-into-Canada-Tariffs-will-be-non-existent-for-farmers.aspx?xy=rss",
-      "published": "2026-08-19T15:29:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: I had a good conversation with Canada's PM Carney last night.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727927/Trump-I-had-a-good-conversation-with-Canadas-PM-Carney-last-night.aspx?xy=rss",
-      "published": "2026-08-19T15:28:54+00:00",
       "score": 1
     },
     {
@@ -284,7 +275,7 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Fed Minutes set to show the extent of the hawkish bias after divisive meeting",
+      "title": "Fed Minutes set to provide clues about the degree of support for interest-rate hikes",
       "summary": "The United States (US) Federal Reserve (Fed) will release the Minutes of the July Federal Open Market Committee (FOMC) meeting on Wednesday.",
       "link": "https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400",
       "published": "2026-08-19T14:00:00+00:00",
@@ -298,15 +289,6 @@
       "link": "https://www.fxstreet.com/news/euro-rises-to-june-highs-as-falling-us-treasury-yields-weigh-on-us-dollar-202608191341",
       "published": "2026-08-19T13:41:48+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Shallow uptrend risk into next year – Rabobank",
-      "summary": "Rabobank’s Senior FX Strategist Jane Foley notes AUD/USD is currently on the back foot, with the Australian Dollar the weakest G10 currency on a one-day view. Despite market doubts, Rabobank still expects one more Reserve Bank of Australia (RBA) rate hike this year.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-shallow-uptrend-risk-into-next-year-rabobank-202608191339",
-      "published": "2026-08-19T13:39:32+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -327,12 +309,66 @@
       "score": 6
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE A Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office. Separately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power. The findings could add political pressure ahead of November’s midterm elections.",
+      "summary": "<p>POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE<br />\n<br />\nA Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office.<br />\n<br />\nSeparately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power.<br />\n<br />\nThe findings could add political pressure ahead o",
+      "link": "https://nitter.net/DeItaone/status/2090032203266654456#m",
+      "published": "2026-08-19T11:04:42+00:00",
+      "score": 1
+    },
+    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gold Is Getting Interesting Around 4340–4350",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vsenx2/gold_is_getting_interesting_around_43404350/\"> <img alt=\"Gold Is Getting Interesting Around 4340–4350\" src=\"https://preview.redd.it/2ik0mcdr2akh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70236eea34a5ebd02cae92eb1be910efe4885696\" title=\"Gold Is Getting Interesting Around 4340–4350\" /> </a> </td><td> <!-- SC_OFF --><d",
       "link": "https://www.reddit.com/r/Forex/comments/1vsenx2/gold_is_getting_interesting_around_43404350/",
       "published": "2026-08-19T06:43:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
+      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
+      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
+      "published": "2026-08-18T20:06:07+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
+      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
+      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
+      "published": "2026-08-18T18:39:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
+      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
+      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
+      "published": "2026-08-18T16:50:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
+      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
+      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
+      "published": "2026-08-18T16:48:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "DIESEL MARGINS SMASH RECORD ABOVE $100 U.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch. Supply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets. Meanwhile, U.S. diesel inventories are at their lowest late-August level since 1996, raising fears of higher winter heating costs and renewed inflation.",
+      "summary": "<p>DIESEL MARGINS SMASH RECORD ABOVE $100<br />\n<br />\nU.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch.<br />\n<br />\nSupply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets.<br />\n<br />\nMeanwhile, U.S. diesel ",
+      "link": "https://nitter.net/DeItaone/status/2089751755026215258#m",
+      "published": "2026-08-18T16:30:18+00:00",
       "score": 1
     },
     {
