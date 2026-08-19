@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-19T23:37:20.698091+00:00",
-  "count": 58,
+  "updated_at": "2026-08-19T23:59:17.555849+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Donald Trump announces \"crushing economic operation\" on Iran",
+      "summary": "US President Trump announced the most severe economic action ever taken against Iran, CBS News reported on Wednesday. Trump said this will be economic conflict and isolation on an unprecedented scale and the countries allowing financial aid to Iran will face severe economic consequences.",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-announces-crushing-economic-operation-on-iran-202608192341",
+      "published": "2026-08-19T23:41:11+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -84,15 +93,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canadian minister in charge of U.S. trade Leblanc: Prime minister briefed Canada’s premiers on talks with United States",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728425/Canadian-minister-in-charge-of-US-trade-Leblanc-Prime-minister-briefed-Canadas-premiers-on-talks-with-United-States.aspx?xy=rss",
-      "published": "2026-08-19T22:18:54+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Pound Sterling's best level since May was made in Washington",
@@ -100,15 +100,6 @@
       "link": "https://www.fxstreet.com/news/pound-sterlings-best-level-since-may-was-made-in-washington-202608192216",
       "published": "2026-08-19T22:16:53+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Virtuix reports first-quarter fiscal 2027 results as Omni One orders surge 150% after Meta launch",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728390/Virtuix-reports-first-quarter-fiscal-2027-results-as-Omni-One-orders-surge-150-after-Meta-launch.aspx?xy=rss",
-      "published": "2026-08-19T21:34:59+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -147,15 +138,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US State Department spokesperson tells Al Jazeera Trump administration opens discussions on Syria's sovereignty and Israel's right to defend itself",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728309/US-State-Department-spokesperson-tells-Al-Jazeera-Trump-administration-opens-discussions-on-Syrias-sovereignty-and-Israels-right-to-defend-itself.aspx?xy=rss",
-      "published": "2026-08-19T20:17:48+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Euro surges as traders ignore Fed’s hawkish minutes",
@@ -165,57 +147,12 @@
       "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: -849 mln<br />Nasdaq 100: -627 mln<br />Dow 30: -91 mln<br />Mag 7: -208 mln",
-      "link": "https://www.financialjuice.com/News/9728277/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-08-19T19:50:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump ends remarks at the White House event.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728257/Trump-ends-remarks-at-the-White-House-event.aspx?xy=rss",
-      "published": "2026-08-19T19:42:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on the bond market: Americans should not be concerned about volatility.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728256/Trump-on-the-bond-market-Americans-should-not-be-concerned-about-volatility.aspx?xy=rss",
-      "published": "2026-08-19T19:41:36+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Forex Today: US Dollar sinks on Treasury buyback ahead of data-heavy Thursday",
       "summary": "The US Dollar Index (DXY) sold off broadly on Wednesday, sinking below the 99.00s region and holding well under 100.00.",
       "link": "https://www.fxstreet.com/news/forex-today-us-dollar-sinks-on-treasury-buyback-ahead-of-data-heavy-thursday-202608191938",
       "published": "2026-08-19T19:38:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Iran sanctions: We'll see what happens.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728254/Trump-on-Iran-sanctions-Well-see-what-happens.aspx?xy=rss",
-      "published": "2026-08-19T19:34:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Probably have a deal with Canada.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728251/Trump-Probably-have-a-deal-with-Canada.aspx?xy=rss",
-      "published": "2026-08-19T19:32:08+00:00",
       "score": 1
     },
     {
@@ -293,29 +230,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "New Zealand Dollar jumps as falling US yields weigh on the USD",
-      "summary": "NZD/USD rises sharply on Wednesday and trades around 0.5930 at the time of writing, up 0.96% on the day. The New Zealand Dollar (NZD) benefits primarily from broad weakness in the US Dollar (USD), as the sharp decline in US Treasury yields reduces the appeal of the Greenback.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-jumps-as-falling-us-yields-weigh-on-the-usd-202608191706",
-      "published": "2026-08-19T17:06:22+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Gold rallies as buyback sinks yields despite Fed hawkish minutes",
       "summary": "Gold (XAU/USD) rallies during Wednesday’s session after the US Federal Reserve (Fed) released the minutes of its July meeting, in which the US central bank held rates unchanged but not unanimously, with three members dissenting and calling for a rate hike.",
       "link": "https://www.fxstreet.com/news/gold-soars-toward-4-500-as-treasury-buyback-sinks-us-yields-202608191655",
       "published": "2026-08-19T16:55:54+00:00",
       "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones Industrial Average rallies on a bid nobody made",
-      "summary": "The Dow Jones Industrial Average (DJIA) trades near 53,600 on Wednesday, more than 230 points and 0.44% higher, and none of that gain is about earnings, growth or the Federal Reserve (Fed).",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-on-a-bid-nobody-made-202608191641",
-      "published": "2026-08-19T16:41:48+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
