@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-19T11:02:32.190301+00:00",
-  "count": 62,
+  "updated_at": "2026-08-19T11:41:25.626883+00:00",
+  "count": 61,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver has rebounded to $63, but inflationary risks hold buyers back",
+      "summary": "Silver (XAG/USD) stabilizes around $63.45 on Wednesday, up 0.16% on the day at the time of writing. The white metal is attempting to regain its footing after hitting an intraday low of $62.19, initially extending the pullback that followed Tuesday’s rejection from the $66.50 area.",
+      "link": "https://www.fxstreet.com/news/silver-has-rebounded-to-63-but-inflationary-risks-hold-buyers-back-202608191131",
+      "published": "2026-08-19T11:31:24+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Carry appeal keeps Sterling resilient as BoE stays on hold – ING",
+      "summary": "ING’s Chris Turner, citing UK economist James Smith, notes that July United Kingdom (UK) Consumer Price Index (CPI) had limited impact on EUR/GBP, with benign food inflation and only a modest uptick in the Bank of England’s core services measure to 3.8%.",
+      "link": "https://www.fxstreet.com/news/british-pound-carry-appeal-keeps-sterling-resilient-as-boe-stays-on-hold-ing-202608191126",
+      "published": "2026-08-19T11:26:14+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold finds support as US Dollar retreats ahead of Fed Minutes",
+      "summary": "Gold (XAU/USD) regains ground on Wednesday after falling nearly 2% on the previous day as a softer US Dollar (USD) and a modest pullback in long-term US Treasury yields lend support to the precious metal. At the time of writing, XAU/USD trades around $4,371, up 0.90% on the day.",
+      "link": "https://www.fxstreet.com/news/gold-finds-support-as-us-dollar-retreats-ahead-of-fed-minutes-202608191109",
+      "published": "2026-08-19T11:09:12+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Exposure normalizes as real rates fall – BNY",
+      "summary": "BNY’s Geoff Yu highlights that international investors are aggressively cutting Dollar exposure as real-yield support erodes following the July FOMC meeting. The bank sees the Dollar decline as a normalization of previously extreme U.S. asset holdings rather than a collapse in U.S. exceptionalism.",
+      "link": "https://www.fxstreet.com/news/us-dollar-exposure-normalizes-as-real-rates-fall-bny-202608191107",
+      "published": "2026-08-19T11:07:40+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -156,57 +192,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Pullback risk with higher yields and Oil – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that Gold’s rebound has lost momentum as renewed Oil gains and higher long-end US yields revive inflation concerns. Daily charts show fading bullish momentum and a lower Relative Strength Index (RSI) from near overbought levels.",
-      "link": "https://www.fxstreet.com/news/gold-pullback-risk-with-higher-yields-and-oil-ocbc-202608190820",
-      "published": "2026-08-19T08:20:11+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones futures pause as tech sell-off, oil pressures weigh on sentiment",
-      "summary": "Dow Jones futures inch higher 0.06% to trade around 53,440 during European hours on Wednesday. Meanwhile, S&amp;P 500 futures remain steady near 7,710, and Nasdaq 100 futures edge lower 0.03%, trading near 29,580.",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-pause-as-tech-sell-off-oil-pressures-weigh-on-sentiment-202608190818",
-      "published": "2026-08-19T08:18:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index slumps in countdown to FOMC minutes",
-      "summary": "The US Dollar (USD) trades lower against its major currency peers on Wednesday ahead of the Federal Open Market Committee (FOMC) minutes of the July policy meeting, which will be published at 18:00 GMT.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-slumps-in-countdown-to-fomc-minutes-202608190818",
-      "published": "2026-08-19T08:18:08+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Range-bound trading as FOMC minutes loom – ING",
-      "summary": "ING’s Chris Turner notes that the Dollar remains supported by higher energy prices and long-end US yields, but FX volatility is still low, favouring carry trades.",
-      "link": "https://www.fxstreet.com/news/us-dollar-range-bound-trading-as-fomc-minutes-loom-ing-202608190809",
-      "published": "2026-08-19T08:09:38+00:00",
-      "score": 2
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Europe Sentiment: Stocks Halt Losses Yields Continue Rise - FJElite",
       "summary": "",
       "link": "https://www.financialjuice.com/News/9727285/Europe-Sentiment-Stocks-Halt-Losses-Yields-Continue-Rise---FJElite.aspx?xy=rss",
       "published": "2026-08-19T07:48:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Currency Strength Chart: Strongest: JPY, CHF, EUR, GBP, CAD, NZD, USD, AUD - Weakest",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727209/Currency-Strength-Chart-Strongest-JPY-CHF-EUR-GBP-CAD-NZD-USD-AUD---Weakest.aspx?xy=rss",
-      "published": "2026-08-19T07:01:25+00:00",
       "score": 1
     },
     {
