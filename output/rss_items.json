@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-19T04:39:08.145149+00:00",
-  "count": 67,
+  "updated_at": "2026-08-19T05:14:07.051293+00:00",
+  "count": 69,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc strengthens as US Dollar falls on fading Fed rate hike expectations",
+      "summary": "USD/CHF depreciates after registering modest gains in the previous day, trading around 0.8120 during the Asian hours on Wednesday. The pair depreciates as the US Dollar (USD) weakens amid easing expectations of a US interest rate hike next month.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-as-us-dollar-falls-on-fading-fed-rate-hike-expectations-202608190451",
+      "published": "2026-08-19T04:51:47+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -50,8 +59,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold recovers from weekly low as USD softens ahead of FOMC Minutes",
-      "summary": "Gold (XAU/USD) rebounds from the weekly low, which it touched during the Asian session on Wednesday, and climbs above $4,350 in the last hour.",
+      "title": "Gold struggles to capitalize on recovery from weekly low as traders await FOMC Minutes",
+      "summary": "Gold (XAU/USD) struggles to capitalize on its modest intraday bounce from the weekly low, touched during the Asian session on Wednesday, and currently trades just below $4,350.",
       "link": "https://www.fxstreet.com/news/gold-recovers-from-weekly-low-as-usd-softens-ahead-of-fomc-minutes-202608190336",
       "published": "2026-08-19T03:36:33+00:00",
       "score": 4
@@ -174,33 +183,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Keystone XL pipeline may be 'revived from grave'",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9726888/Trump-Keystone-XL-pipeline-may-be-revived-from-grave.aspx?xy=rss",
-      "published": "2026-08-19T02:16:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Canada and U.S., subject to document finalization, reach deal",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9726887/Trump-Canada-and-US-subject-to-document-finalization-reach-deal.aspx?xy=rss",
-      "published": "2026-08-19T02:16:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: half of Canada tariffs paused for three days",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9726886/Trump-half-of-Canada-tariffs-paused-for-three-days.aspx?xy=rss",
-      "published": "2026-08-19T02:16:16+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "United States Dollar Index hovers above 99.50 due to safe-haven support",
@@ -273,24 +255,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Trump, Carney hold last-minute talks ahead of new 50% tariffs on Canadian goods",
-      "summary": "US President Donald Trump and Canadian Prime Minister Mark Carney are negotiating in an effort to reach an agreement on tariffs, with just hours to go before the United States (US) imposes 50% tariffs on hockey sticks, wine and an array of other Canadian imports, CNBC reported on Tuesday.",
-      "link": "https://www.fxstreet.com/news/trump-carney-hold-last-minute-talks-ahead-of-new-50-tariffs-on-canadian-goods-202608182340",
-      "published": "2026-08-18T23:40:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold steadies below $4,350 as surging yields offset support from Fed rate-hold bets",
-      "summary": "Gold price (XAU/USD) holds steady near $4,335 after pulling back from an early-June top near $4,450 during the early Asian trading hours on Wednesday. The precious metal faced some selling pressure in the previous session as Treasury yields surged to their highest levels in decades.",
-      "link": "https://www.fxstreet.com/news/gold-steadies-below-4-350-as-surging-yields-offset-support-from-fed-rate-hold-bets-202608182325",
-      "published": "2026-08-18T23:25:00+00:00",
-      "score": 6
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump has instructed top administration envoys to halt their conversations with Iran, per CNN. White House officials have reportedly communicated to political allies that they are shifting their strategy, going from “hammer Iran ASAP” to “strangle them” over time. Today marks day 171 of the Iran War.",
@@ -309,6 +273,15 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
+      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
+      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
+      "published": "2026-08-18T20:06:07+00:00",
+      "score": 3
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The SEC announces new proposed rules that will create a \"clear and fit-for purpose framework\" for certain investment contracts involving crypto assets. Details include: 1. The proposal follows the SEC's March 2026 interpretation clarifying how federal securities laws apply to certain crypto assets 2. The rules will address \"long-standing barriers\" to \"capital formation and innovation\" within domestic crypto asset markets 3. The proposed rules include 2 exemptions from the registration requirements of the Securities Act of 1933 specifically tailored to certain investment contracts involving crypto assets 4. The proposed rules also include a conditional safe harbor from the term \"investment contract\" in the definitions of \"security\" in the Securities Act of 1933 and the Securities Exchange Act of 1934 Framework for broader crypto adoption is rolling out.",
@@ -318,12 +291,57 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
+      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
+      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
+      "published": "2026-08-18T18:39:53+00:00",
+      "score": 1
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Total trading volume in onchain tokenized equities has reached $9 billion in 2026, a new record. This marks +207% quarter-over-quarter growth and +800% in year-to-date growth. This comes amid demand for exposure to high momentum stocks, particularly memory and storage stocks, in a globally accessible 24/7 market. Jupiter, the largest onchain platform on Solana, has been driving the move toward tokenization, now seeing +95% quarter-over-quarter growth in routed tokenized equities volume. Amid this trend, the Nasdaq has announced plans to extend trading to 23 hours per day, 5 days per week. Jupiter also reports that 55% of its tokenized equities volume is coming from off-hours trading. Many investors want 24/7 markets.",
       "summary": "<p>BREAKING: Total trading volume in onchain tokenized equities has reached $9 billion in 2026, a new record.<br />\n<br />\nThis marks +207% quarter-over-quarter growth and +800% in year-to-date growth.<br />\n<br />\nThis comes amid demand for exposure to high momentum stocks, particularly memory and storage stocks, in a globally accessible 24/7 market.<br />\n<br />\nJupiter, the largest onchain plat",
       "link": "https://nitter.net/KobeissiLetter/status/2089772727083356395#m",
       "published": "2026-08-18T17:53:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
+      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
+      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
+      "published": "2026-08-18T16:50:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
+      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
+      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
+      "published": "2026-08-18T16:48:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "DIESEL MARGINS SMASH RECORD ABOVE $100 U.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch. Supply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets. Meanwhile, U.S. diesel inventories are at their lowest late-August level since 1996, raising fears of higher winter heating costs and renewed inflation.",
+      "summary": "<p>DIESEL MARGINS SMASH RECORD ABOVE $100<br />\n<br />\nU.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch.<br />\n<br />\nSupply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets.<br />\n<br />\nMeanwhile, U.S. diesel ",
+      "link": "https://nitter.net/DeItaone/status/2089751755026215258#m",
+      "published": "2026-08-18T16:30:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AAPL - APPLE OVERHAULS EU APP STORE FEES Apple is revamping its EU App Store terms from October 1. The Core Technology Fee will be replaced by a 5% commission on digital transactions outside the App Store. EU commissions will be 26% for Apple in-app purchases, 20% for alternative payments, and 15% for external purchase links. Apple will also expand alternative app distribution and introduce additional child-safety measures.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a> - APPLE OVERHAULS EU APP STORE FEES<br />\n<br />\nApple is revamping its EU App Store terms from October 1.<br />\n<br />\nThe Core Technology Fee will be replaced by a 5% commission on digital transactions outside the App Store.<br />\n<br />\nEU commissions will be 26% for Apple in-app purchases, 20% for alternative payments, and",
+      "link": "https://nitter.net/DeItaone/status/2089744406769209473#m",
+      "published": "2026-08-18T16:01:06+00:00",
       "score": 1
     },
     {
