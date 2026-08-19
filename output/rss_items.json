@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-19T15:49:13.107061+00:00",
-  "count": 56,
+  "updated_at": "2026-08-19T16:33:44.207484+00:00",
+  "count": 63,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/GBP pushes toward two-week high amid cooling UK services inflation",
+      "summary": "EUR/GBP trades on the front foot on Wednesday, pushing up to the vicinity of a two-week high near the 0.8570 region as the Euro holds firm against a softer British Pound (GBP). The pair has cleared its recent range after a run of green candles on the 4-hour chart.",
+      "link": "https://www.fxstreet.com/news/eur-gbp-pushes-toward-two-week-high-amid-cooling-uk-services-inflation-202608191619",
+      "published": "2026-08-19T16:19:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21",
+      "summary": "<p>TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21</p>",
+      "link": "https://nitter.net/DeItaone/status/2090106461091135874#m",
+      "published": "2026-08-19T15:59:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: USTR Greer: The deal with Canada will protect American workers, jobs, and supply chains and strengthen the North American economy.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727976/USTR-Greer-The-deal-with-Canada-will-protect-American-workers-jobs-and-supply-chains-and-strengthen-the-North-American-economy.aspx?xy=rss",
+      "published": "2026-08-19T15:50:47+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -105,10 +132,10 @@
       "source": "FXStreet",
       "category": "news",
       "title": "British Pound jumps as Treasury buyback weakens the US Dollar",
-      "summary": "The Pound Sterling climbs against the Greenback on Wednesday as the US Treasury stepped up in the markets to offer liquidity support via a buyback of longer-dated bonds, a day after the US 30-year yield hit its highest level since 2007.",
+      "summary": "The Pound Sterling (GBP) climbs against the US Dollar (USD) on Wednesday as the US Treasury stepped up in the markets to offer liquidity support via a buyback of longer-dated bonds, a day after the US 30-year yield hit its highest level since 2007.",
       "link": "https://www.fxstreet.com/news/british-pound-jumps-as-treasury-buyback-weakens-the-us-dollar-202608191523",
       "published": "2026-08-19T15:23:31+00:00",
-      "score": 1
+      "score": 2
     },
     {
       "source": "FXStreet",
@@ -230,7 +257,7 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Fed Minutes expected to shed light on the depth of FOMC hawkish split",
+      "title": "Fed Minutes set to show the extent of the hawkish bias after divisive meeting",
       "summary": "The United States (US) Federal Reserve (Fed) will release the Minutes of the July Federal Open Market Committee (FOMC) meeting on Wednesday.",
       "link": "https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400",
       "published": "2026-08-19T14:00:00+00:00",
@@ -273,6 +300,15 @@
       "score": 6
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE A Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office. Separately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power. The findings could add political pressure ahead of November’s midterm elections.",
+      "summary": "<p>POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE<br />\n<br />\nA Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office.<br />\n<br />\nSeparately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power.<br />\n<br />\nThe findings could add political pressure ahead o",
+      "link": "https://nitter.net/DeItaone/status/2090032203266654456#m",
+      "published": "2026-08-19T11:04:42+00:00",
+      "score": 1
+    },
+    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gold Is Getting Interesting Around 4340–4350",
@@ -300,21 +336,48 @@
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
+      "source": "Walter Bloomberg",
       "category": "twitter",
-      "title": "BREAKING: President Trump has instructed top administration envoys to halt their conversations with Iran, per CNN. White House officials have reportedly communicated to political allies that they are shifting their strategy, going from “hammer Iran ASAP” to “strangle them” over time. Today marks day 171 of the Iran War.",
-      "summary": "<p>BREAKING: President Trump has instructed top administration envoys to halt their conversations with Iran, per CNN.<br />\n<br />\nWhite House officials have reportedly communicated to political allies that they are shifting their strategy, going from “hammer Iran ASAP” to “strangle them” over time.<br />\n<br />\nToday marks day 171 of the Iran War.</p>",
-      "link": "https://nitter.net/KobeissiLetter/status/2089839209494257670#m",
-      "published": "2026-08-18T22:17:49+00:00",
+      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
+      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
+      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
+      "published": "2026-08-18T20:06:07+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
+      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
+      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
+      "published": "2026-08-18T18:39:53+00:00",
       "score": 1
     },
     {
-      "source": "Kobeissi Letter",
+      "source": "Walter Bloomberg",
       "category": "twitter",
-      "title": "Breadth across gold miners is improving rapidly: ~62% of stocks in the gold miners ETF, $GDX, are now trading above their 200-day moving average, the highest proportion since May. This percentage has surged +57 points over the last 3 weeks. During this period, $GDX has soared +22%, entering bull new market territory. This also marks the sharpest improvement in gold miners’ breadth since March-April 2024. Following the 2024 breakout, $GDX gained +52% over the next 12 months. Bullish momentum across gold miners is building.",
-      "summary": "<p>Breadth across gold miners is improving rapidly:<br />\n<br />\n~62% of stocks in the gold miners ETF, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23GDX\">$GDX</a>, are now trading above their 200-day moving average, the highest proportion since May.<br />\n<br />\nThis percentage has surged +57 points over the last 3 weeks.<br />\n<br />\nDuring this period, <a href=\"https://nitter.net/search?",
-      "link": "https://nitter.net/KobeissiLetter/status/2089822896634147023#m",
-      "published": "2026-08-18T21:13:00+00:00",
+      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
+      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
+      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
+      "published": "2026-08-18T16:50:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
+      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
+      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
+      "published": "2026-08-18T16:48:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "DIESEL MARGINS SMASH RECORD ABOVE $100 U.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch. Supply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets. Meanwhile, U.S. diesel inventories are at their lowest late-August level since 1996, raising fears of higher winter heating costs and renewed inflation.",
+      "summary": "<p>DIESEL MARGINS SMASH RECORD ABOVE $100<br />\n<br />\nU.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch.<br />\n<br />\nSupply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets.<br />\n<br />\nMeanwhile, U.S. diesel ",
+      "link": "https://nitter.net/DeItaone/status/2089751755026215258#m",
+      "published": "2026-08-18T16:30:18+00:00",
       "score": 1
     },
     {
