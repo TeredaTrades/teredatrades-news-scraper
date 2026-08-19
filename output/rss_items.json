@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-08-19T16:33:44.207484+00:00",
-  "count": 63,
+  "updated_at": "2026-08-19T17:03:29.401984+00:00",
+  "count": 57,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 20-Year Bond Auction",
+      "summary": "<div><ul><li>High Yield 5.204% (Tailed by 0.5 basis points)</li><li>Bid-to-cover 2.53</li><li>Sells $16 bln</li><li>Awards 65.58% of bids at high</li><li>Primary Dealers take 12.5%</li><li>Direct 24.6%</li><li>Indirect 62.9%</li></ul></div>",
+      "link": "https://www.financialjuice.com/News/9728058/US-20-Year-Bond-Auction.aspx?xy=rss",
+      "published": "2026-08-19T17:02:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 20-Year Bond High Yield Actual 5.204% (Forecast -, Previous 5.163%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9728057/US-20-Year-Bond-High-Yield-Actual-5204-Forecast---Previous-5163.aspx?xy=rss",
+      "published": "2026-08-19T17:02:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Treasury WI 20-year yield 5.199% before $16 billion auction.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9728038/Treasury-WI-20-year-yield-5199-before-16-billion-auction.aspx?xy=rss",
+      "published": "2026-08-19T17:00:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold soars toward $4,500 as Treasury buyback sinks US yields",
+      "summary": "Gold (XAU/USD) skyrockets on Wednesday as the Greenback edges lower amid falling US bond yields, driven by the US Treasury's buyback of long-dated bonds. At the time of writing, the XAU/USD pair trades at $4,495, up by over 3.70% in the day and at its highest level since June 4.",
+      "link": "https://www.fxstreet.com/news/gold-soars-toward-4-500-as-treasury-buyback-sinks-us-yields-202608191655",
+      "published": "2026-08-19T16:55:54+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: CNN Reporter: Sources see good reasons for another Trump-Kim summit, including North Korea's support for Russia's war in Ukraine.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9728029/CNN-Reporter-Sources-see-good-reasons-for-another-Trump-Kim-summit-including-North-Koreas-support-for-Russias-war-in-Ukraine.aspx?xy=rss",
+      "published": "2026-08-19T16:43:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones Industrial Average rallies on a bid nobody made",
+      "summary": "The Dow Jones Industrial Average (DJIA) trades near 53,600 on Wednesday, more than 230 points and 0.44% higher, and none of that gain is about earnings, growth or the Federal Reserve (Fed).",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rallies-on-a-bid-nobody-made-202608191641",
+      "published": "2026-08-19T16:41:48+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -9,15 +63,6 @@
       "summary": "EUR/GBP trades on the front foot on Wednesday, pushing up to the vicinity of a two-week high near the 0.8570 region as the Euro holds firm against a softer British Pound (GBP). The pair has cleared its recent range after a run of green candles on the 4-hour chart.",
       "link": "https://www.fxstreet.com/news/eur-gbp-pushes-toward-two-week-high-amid-cooling-uk-services-inflation-202608191619",
       "published": "2026-08-19T16:19:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21",
-      "summary": "<p>TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21</p>",
-      "link": "https://nitter.net/DeItaone/status/2090106461091135874#m",
-      "published": "2026-08-19T15:59:47+00:00",
       "score": 1
     },
     {
@@ -111,15 +156,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We've come to a deal with Canada.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727926/Trump-Weve-come-to-a-deal-with-Canada.aspx?xy=rss",
-      "published": "2026-08-19T15:28:40+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Indonesian Rupiah: BI holds rates to back IDR – BNY",
@@ -154,15 +190,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-advances-as-falling-treasury-yields-pressure-us-dollar-202608191512",
       "published": "2026-08-19T15:12:05+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Xai: Grok 4.6 is generally available on Amazon Bedrock. $AMZN",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727897/Xai-Grok-46-is-generally-available-on-Amazon-Bedrock-AMZN.aspx?xy=rss",
-      "published": "2026-08-19T15:11:16+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -300,84 +327,12 @@
       "score": 6
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE A Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office. Separately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power. The findings could add political pressure ahead of November’s midterm elections.",
-      "summary": "<p>POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE<br />\n<br />\nA Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office.<br />\n<br />\nSeparately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power.<br />\n<br />\nThe findings could add political pressure ahead o",
-      "link": "https://nitter.net/DeItaone/status/2090032203266654456#m",
-      "published": "2026-08-19T11:04:42+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gold Is Getting Interesting Around 4340–4350",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vsenx2/gold_is_getting_interesting_around_43404350/\"> <img alt=\"Gold Is Getting Interesting Around 4340–4350\" src=\"https://preview.redd.it/2ik0mcdr2akh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70236eea34a5ebd02cae92eb1be910efe4885696\" title=\"Gold Is Getting Interesting Around 4340–4350\" /> </a> </td><td> <!-- SC_OFF --><d",
       "link": "https://www.reddit.com/r/Forex/comments/1vsenx2/gold_is_getting_interesting_around_43404350/",
       "published": "2026-08-19T06:43:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Iran has weighed attacking US Military targets in Europe should President Trump escalate the war, per FT. Details include: 1. Iranian forces have reportedly assessed striking US assets in south-eastern European countries such as Bulgaria 2. Cyprus, where a British air base was struck by a drone in March, was also among potential targets for retaliation in the event of any renewed US offensive 3. Iranian forces have also reportedly considered attacking subsea fiber-optic cables in the Strait of Hormuz in the event of an escalation Iran is ready to expand its range of targets should the war escalate again.",
-      "summary": "<p>BREAKING: Iran has weighed attacking US Military targets in Europe should President Trump escalate the war, per FT.<br />\n<br />\nDetails include:<br />\n<br />\n1. Iranian forces have reportedly assessed striking US assets in south-eastern European countries such as Bulgaria<br />\n<br />\n2. Cyprus, where a British air base was struck by a drone in March, was also among potential targets for retal",
-      "link": "https://nitter.net/KobeissiLetter/status/2089927254356668900#m",
-      "published": "2026-08-19T04:07:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump says he has paused the 50% tariffs that were supposed to take effect tomorrow morning for a three day period. President Trump says the US and Canada \"have a deal.\"",
-      "summary": "<p>BREAKING: President Trump says he has paused the 50% tariffs that were supposed to take effect tomorrow morning for a three day period.<br />\n<br />\nPresident Trump says the US and Canada \"have a deal.\"</p>\n<img src=\"https://nitter.net/pic/media%2FHQDQWnOXwAA0-Xe.png\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2089899614660903087#m",
-      "published": "2026-08-19T02:17:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
-      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
-      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
-      "published": "2026-08-18T20:06:07+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
-      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
-      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
-      "published": "2026-08-18T18:39:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
-      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
-      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
-      "published": "2026-08-18T16:50:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
-      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
-      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
-      "published": "2026-08-18T16:48:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "DIESEL MARGINS SMASH RECORD ABOVE $100 U.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch. Supply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets. Meanwhile, U.S. diesel inventories are at their lowest late-August level since 1996, raising fears of higher winter heating costs and renewed inflation.",
-      "summary": "<p>DIESEL MARGINS SMASH RECORD ABOVE $100<br />\n<br />\nU.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch.<br />\n<br />\nSupply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets.<br />\n<br />\nMeanwhile, U.S. diesel ",
-      "link": "https://nitter.net/DeItaone/status/2089751755026215258#m",
-      "published": "2026-08-18T16:30:18+00:00",
       "score": 1
     },
     {
@@ -406,15 +361,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vqmap9/i_just_cracked_gold/",
       "published": "2026-08-17T08:18:58+00:00",
       "score": 4
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "XAU/USD bulls in charge. Bears will get crushed.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vqje88/xauusd_bulls_in_charge_bears_will_get_crushed/\"> <img alt=\"XAU/USD bulls in charge. Bears will get crushed.\" src=\"https://preview.redd.it/udc0vjdtfvjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09d871ae70fcee2ee2b5a1fa984f9b9390d47cba\" title=\"XAU/USD bulls in charge. Bears will get crushed.\" /> </a> </td><td> &#32; s",
-      "link": "https://www.reddit.com/r/Forex/comments/1vqje88/xauusd_bulls_in_charge_bears_will_get_crushed/",
-      "published": "2026-08-17T05:31:24+00:00",
-      "score": 3
     },
     {
       "source": "Federal Reserve",
