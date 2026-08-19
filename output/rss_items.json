@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-08-19T13:57:50.545534+00:00",
-  "count": 57,
+  "updated_at": "2026-08-19T14:42:04.042350+00:00",
+  "count": 56,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar strengthens as Trump pauses 50% tariffs, Oil prices climb",
+      "summary": "USD/CAD declines on Wednesday and trades around 1.3810 at the time of writing, down 0.62% on the day.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-as-trump-pauses-50-tariffs-oil-prices-climb-202608191440",
+      "published": "2026-08-19T14:40:33+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: RBA keeps hawkish bias on inflation – BNY",
+      "summary": "BNY’s Geoff Yu reports the Reserve Bank of Australia remains concerned about inflation, with Deputy Governor Andrew Hauser saying further rate hikes cannot be ruled out.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-keeps-hawkish-bias-on-inflation-bny-202608191438",
+      "published": "2026-08-19T14:38:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: NVIDIA seeks to connect companies to deploy in Nordics - CNBC.",
+      "summary": "<div><ul><li>Nvidia is seeking to connect companies with its GPUs to data­center operators with available capacity in the Nordics, sources familiar with the matter told CNBC.</li><li>It reflects Nvidia’s attempts to broaden its role in the AI ecosystem as it builds influence beyond chips.</li><li>The Nordics are attracting large AI data-center projects because of access to power and land, as well ",
+      "link": "https://www.financialjuice.com/News/9727831/NVIDIA-seeks-to-connect-companies-to-deploy-in-Nordics---CNBC.aspx?xy=rss",
+      "published": "2026-08-19T14:27:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: NVIDIA seeks to connect companies to deploy in Nordics - CNBC.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727830/NVIDIA-seeks-to-connect-companies-to-deploy-in-Nordics---CNBC.aspx?xy=rss",
+      "published": "2026-08-19T14:26:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Bank of England: Rate hold baseline with conflict risks – Societe Generale",
+      "summary": "Sam Cartwright at Societe Generale argues recent easing in United Kingdom (UK) services inflation and labour market loosening support the Bank of England’s wait-and-see stance. The baseline view is Bank Rate stays at 3.75% through 2026 to restrain underlying inflation.",
+      "link": "https://www.fxstreet.com/news/bank-of-england-rate-hold-baseline-with-conflict-risks-societe-generale-202608191422",
+      "published": "2026-08-19T14:22:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Holy f what happen to gold",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Anyone know y it fly like crazyyyy</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Wooden_Culture5267\"> /u/Wooden_Culture5267 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_what_happen_to_gold/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_wha",
+      "link": "https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_what_happen_to_gold/",
+      "published": "2026-08-19T14:22:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index falls as US Treasury doubles long-dated debt buybacks",
+      "summary": "The US Dollar Index (DXY) comes under fresh selling pressure on Wednesday as longer-term US Treasury yields fall sharply following the Treasury Department’s decision to expand its buyback operations.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-falls-as-us-treasury-doubles-long-dated-debt-buybacks-202608191418",
+      "published": "2026-08-19T14:18:09+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Growth-driven recovery offers policy lesson – ING",
+      "summary": "Chris Turner at ING explains that Korea’s earlier massive portfolio outflows and a weaker Korean Won (KRW) pushed USD/KRW to 1560 in June, despite a large current account surplus.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-growth-driven-recovery-offers-policy-lesson-ing-202608191408",
+      "published": "2026-08-19T14:08:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed Minutes expected to shed light on the depth of FOMC hawkish split",
+      "summary": "The United States (US) Federal Reserve (Fed) will release the Minutes of the July Federal Open Market Committee (FOMC) meeting on Wednesday.",
+      "link": "https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400",
+      "published": "2026-08-19T14:00:00+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -57,24 +138,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Marvell and Google entered a commercial pact on July 29th",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727670/Marvell-and-Google-entered-a-commercial-pact-on-July-29th.aspx?xy=rss",
-      "published": "2026-08-19T12:30:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Marvell issued to Google a warrant.",
-      "summary": "<ul><li>Warrant to google set at $206.58/share exercise price.</li><li>Warrant of up to 58.97m shares.</li><li>Marvell, Google in commercial pact relating to chip products.</li><li>Pact covers AI, storage, network silicon.<br /></li></ul>",
-      "link": "https://www.financialjuice.com/News/9727669/Marvell-issued-to-Google-a-warrant.aspx?xy=rss",
-      "published": "2026-08-19T12:28:05+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Japanese Yen gains as US Dollar retreats ahead of FOMC Minutes",
@@ -91,24 +154,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-fed-minutes-watched-as-rate-doubts-grow-commerzbank-202608191205",
       "published": "2026-08-19T12:05:55+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MUFG: Oil Extends Gains as US-Iran Standoff Persists - FJElite",
-      "summary": "<div>Oil rose for a fourth consecutive session as prospects for resolving the nearly six-month US-Iran conflict remained limited. Brent climbed toward $92 a barrel after gaining 4.5% over the previous three sessions, while WTI traded near $86. Trump said no negotiations with Iran were underway, leaving the Strait of Hormuz contested and traffic severely constrained. The US is preparing additional ",
-      "link": "https://www.financialjuice.com/News/9727641/MUFG-Oil-Extends-Gains-as-US-Iran-Standoff-Persists---FJElite.aspx?xy=rss",
-      "published": "2026-08-19T12:05:10+00:00",
-      "score": 6
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: UBS: Gold Gains as Fed Uncertainty and Investor Demand Improve - FJElite",
-      "summary": "<div>Gold has risen as investors reassess the outlook for US monetary policy and the dollar. Recent Fed communication has left the near-term rate path uncertain, while softer US labour-market data have reinforced expectations that rates could remain unchanged if inflation stays contained.</div><div><br /></div><div>ETF inflows have resumed, first from China and more recently Europe, while central-",
-      "link": "https://www.financialjuice.com/News/9727639/UBS-Gold-Gains-as-Fed-Uncertainty-and-Investor-Demand-Improve---FJElite.aspx?xy=rss",
-      "published": "2026-08-19T12:01:59+00:00",
-      "score": 4
     },
     {
       "source": "FXStreet",
@@ -131,47 +176,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Silver has rebounded to $63, but inflationary risks hold buyers back",
-      "summary": "Silver (XAG/USD) stabilizes around $63.45 on Wednesday, up 0.16% on the day at the time of writing. The white metal is attempting to regain its footing after hitting an intraday low of $62.19, initially extending the pullback that followed Tuesday’s rejection from the $66.50 area.",
-      "link": "https://www.fxstreet.com/news/silver-has-rebounded-to-63-but-inflationary-risks-hold-buyers-back-202608191131",
-      "published": "2026-08-19T11:31:24+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Carry appeal keeps Sterling resilient as BoE stays on hold – ING",
-      "summary": "ING’s Chris Turner, citing UK economist James Smith, notes that July United Kingdom (UK) Consumer Price Index (CPI) had limited impact on EUR/GBP, with benign food inflation and only a modest uptick in the Bank of England’s core services measure to 3.8%.",
-      "link": "https://www.fxstreet.com/news/british-pound-carry-appeal-keeps-sterling-resilient-as-boe-stays-on-hold-ing-202608191126",
-      "published": "2026-08-19T11:26:14+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Gold climbs over 2% as US Treasury buyback plan pressures long-term yields",
       "summary": "Gold (XAU/USD) rallies on Wednesday as a softer US Dollar (USD) and a sharp pullback in long-term US Treasury yields help the metal recover all the previous day’s losses. At the time of writing, XAU/USD trades around $4,458, up over 2.5% on the day.",
       "link": "https://www.fxstreet.com/news/gold-finds-support-as-us-dollar-retreats-ahead-of-fed-minutes-202608191109",
       "published": "2026-08-19T11:09:12+00:00",
       "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Exposure normalizes as real rates fall – BNY",
-      "summary": "BNY’s Geoff Yu highlights that international investors are aggressively cutting Dollar exposure as real-yield support erodes following the July FOMC meeting. The bank sees the Dollar decline as a normalization of previously extreme U.S. asset holdings rather than a collapse in U.S. exceptionalism.",
-      "link": "https://www.fxstreet.com/news/us-dollar-exposure-normalizes-as-real-rates-fall-bny-202608191107",
-      "published": "2026-08-19T11:07:40+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar ticks up from intra-week lows with all eyes on Fed minutes",
-      "summary": "The Australian Dollar (AUD)has bounced up from intra-week lows against the US Dollar (USD) on Friday, although the daily chart remains negative.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-ticks-up-from-intra-week-lows-with-all-eyes-on-fed-minutes-202608191032",
-      "published": "2026-08-19T10:32:03+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -180,15 +189,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vsenx2/gold_is_getting_interesting_around_43404350/\"> <img alt=\"Gold Is Getting Interesting Around 4340–4350\" src=\"https://preview.redd.it/2ik0mcdr2akh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70236eea34a5ebd02cae92eb1be910efe4885696\" title=\"Gold Is Getting Interesting Around 4340–4350\" /> </a> </td><td> <!-- SC_OFF --><d",
       "link": "https://www.reddit.com/r/Forex/comments/1vsenx2/gold_is_getting_interesting_around_43404350/",
       "published": "2026-08-19T06:43:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee trades lower, RBI remains on standby to limit downside",
-      "summary": "The Indian Rupee (INR) remains vulnerable against the US Dollar (USD), close to its two-week low at around 95.75.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-holds-onto-two-week-losses-against-us-dollar-202608190531",
-      "published": "2026-08-19T05:31:26+00:00",
       "score": 1
     },
     {
@@ -351,15 +351,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vq603i/nzdusd_doux_forex/\"> <img alt=\"NZD/USD doux Forex\" src=\"https://preview.redd.it/fg04alg5fsjh1.jpg?width=140&amp;height=63&amp;auto=webp&amp;s=789c919434187da7bbe7ecb17c0504859b3533bf\" title=\"NZD/USD doux Forex\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Après le hit du Tp1 ( inducement mineur H1 ) est ce que les nou",
       "link": "https://www.reddit.com/r/Forex/comments/1vq603i/nzdusd_doux_forex/",
       "published": "2026-08-16T19:21:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gold at 4377 — Breakdown or Bounce From Here? 👀",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vpt790/gold_at_4377_breakdown_or_bounce_from_here/\"> <img alt=\"Gold at 4377 — Breakdown or Bounce From Here? 👀\" src=\"https://preview.redd.it/5or0kz2dopjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=da9bad04f63f7bd72093bf2c8b184c93727d6f7b\" title=\"Gold at 4377 — Breakdown or Bounce From Here? 👀\" /> </a> </td><td> <!-- SC_OFF ",
-      "link": "https://www.reddit.com/r/Forex/comments/1vpt790/gold_at_4377_breakdown_or_bounce_from_here/",
-      "published": "2026-08-16T10:07:40+00:00",
       "score": 1
     },
     {
