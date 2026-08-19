@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-08-19T12:01:54.759044+00:00",
-  "count": 68,
+  "updated_at": "2026-08-19T13:09:14.931994+00:00",
+  "count": 57,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Effective Fed Funds Rate 3.63% August 18 vs 3.63% August 17.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727708/Effective-Fed-Funds-Rate-363-August-18-vs-363-August-17.aspx?xy=rss",
+      "published": "2026-08-19T12:59:43+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Marvell and Google entered a commercial pact on July 29th",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727670/Marvell-and-Google-entered-a-commercial-pact-on-July-29th.aspx?xy=rss",
+      "published": "2026-08-19T12:30:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Marvell issued to Google a warrant.",
+      "summary": "<ul><li>Warrant to google set at $206.58/share exercise price.</li><li>Warrant of up to 58.97m shares.</li><li>Marvell, Google in commercial pact relating to chip products.</li><li>Pact covers AI, storage, network silicon.<br /></li></ul>",
+      "link": "https://www.financialjuice.com/News/9727669/Marvell-issued-to-Google-a-warrant.aspx?xy=rss",
+      "published": "2026-08-19T12:28:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen gains as US Dollar retreats ahead of FOMC Minutes",
+      "summary": "USD/JPY edges lower on Wednesday as the US Dollar (USD) loses momentum and retreats toward the June lows touched earlier this week. At the time of writing, the pair trades around 159.10, down 0.32% on the day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-gains-as-us-dollar-retreats-ahead-of-fomc-minutes-202608191216",
+      "published": "2026-08-19T12:16:19+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Fed minutes watched as rate doubts grow – Commerzbank",
+      "summary": "Commerzbank’s Antje Praefcke says markets will scrutinize the latest Fed minutes for clues on how close policymakers remain to another rate hike after weaker US labour and inflation data reduced expectations for a hike by year-end.",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-minutes-watched-as-rate-doubts-grow-commerzbank-202608191205",
+      "published": "2026-08-19T12:05:55+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MUFG: Oil Extends Gains as US-Iran Standoff Persists - FJElite",
+      "summary": "<div>Oil rose for a fourth consecutive session as prospects for resolving the nearly six-month US-Iran conflict remained limited. Brent climbed toward $92 a barrel after gaining 4.5% over the previous three sessions, while WTI traded near $86. Trump said no negotiations with Iran were underway, leaving the Strait of Hormuz contested and traffic severely constrained. The US is preparing additional ",
+      "link": "https://www.financialjuice.com/News/9727641/MUFG-Oil-Extends-Gains-as-US-Iran-Standoff-Persists---FJElite.aspx?xy=rss",
+      "published": "2026-08-19T12:05:10+00:00",
+      "score": 6
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: UBS: Gold Gains as Fed Uncertainty and Investor Demand Improve - FJElite",
+      "summary": "<div>Gold has risen as investors reassess the outlook for US monetary policy and the dollar. Recent Fed communication has left the near-term rate path uncertain, while softer US labour-market data have reinforced expectations that rates could remain unchanged if inflation stays contained.</div><div><br /></div><div>ETF inflows have resumed, first from China and more recently Europe, while central-",
+      "link": "https://www.financialjuice.com/News/9727639/UBS-Gold-Gains-as-Fed-Uncertainty-and-Investor-Demand-Improve---FJElite.aspx?xy=rss",
+      "published": "2026-08-19T12:01:59+00:00",
+      "score": 4
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -51,7 +114,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Gold finds support as US Dollar retreats ahead of Fed Minutes",
-      "summary": "Gold (XAU/USD) regains ground on Wednesday after falling nearly 2% on the previous day as a softer US Dollar (USD) and a modest pullback in long-term US Treasury yields lend support to the precious metal. At the time of writing, XAU/USD trades around $4,371, up 0.90% on the day.",
+      "summary": "Gold (XAU/USD) enters Wednesday’s American trading hours with decent intraday gains, as a softer US Dollar (USD) and a modest pullback in long-term US Treasury yields help the metal recover some of the previous day’s losses.",
       "link": "https://www.fxstreet.com/news/gold-finds-support-as-us-dollar-retreats-ahead-of-fed-minutes-202608191109",
       "published": "2026-08-19T11:09:12+00:00",
       "score": 6
@@ -64,15 +127,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-exposure-normalizes-as-real-rates-fall-bny-202608191107",
       "published": "2026-08-19T11:07:40+00:00",
       "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE A Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office. Separately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power. The findings could add political pressure ahead of November’s midterm elections.",
-      "summary": "<p>POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE<br />\n<br />\nA Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office.<br />\n<br />\nSeparately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power.<br />\n<br />\nThe findings could add political pressure ahead o",
-      "link": "https://nitter.net/DeItaone/status/2090032203266654456#m",
-      "published": "2026-08-19T11:04:42+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -118,105 +172,6 @@
       "link": "https://www.fxstreet.com/news/euro-extends-gains-against-british-pound-as-eurozone-inflation-accelerates-202608190936",
       "published": "2026-08-19T09:36:53+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: German 10 Yr Bund Yield Actual 3.26% (Forecast -, Previous 3.13%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727427/German-10-Yr-Bund-Yield-Actual-326-Forecast---Previous-313.aspx?xy=rss",
-      "published": "2026-08-19T09:31:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) fell on Wednesday, according to FXStreet data. Silver trades at $63.10 per troy ounce, down 0.38% from the $63.35 it cost on Tuesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608190930",
-      "published": "2026-08-19T09:30:50+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United Kingdom: Upside risks building for inflation – Deutsche Bank",
-      "summary": "Deutsche Bank’s Chief United Kingdom (UK) Economist Sanjay Raja notes that UK inflation data for July broadly matched expectations, with headline Consumer Price Index (CPI) rising and core CPI steady.",
-      "link": "https://www.fxstreet.com/news/united-kingdom-upside-risks-building-for-inflation-deutsche-bank-202608190929",
-      "published": "2026-08-19T09:29:24+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro remains stronger following July’s Eurozone HICP data",
-      "summary": "EUR/USD rises after registering minor losses in the previous day, trading around 1.1600 during the European hours on Wednesday. The pair holds ground as the Euro (EUR) remains stronger following the release of Eurozone Harmonized Index of Consumer Prices (HICP) data for July.",
-      "link": "https://www.fxstreet.com/news/euro-remains-stronger-following-julys-eurozone-hicp-data-202608190915",
-      "published": "2026-08-19T09:15:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Eurozone CPI YoY Final Actual 2.9% (Forecast 2.9%, Previous 2.9%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727371/Eurozone-CPI-YoY-Final-Actual-29-Forecast-29-Previous-29.aspx?xy=rss",
-      "published": "2026-08-19T09:01:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Eurozone Core CPI YoY Final Actual 2.5% (Forecast 2.5%, Previous 2.5%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727370/Eurozone-Core-CPI-YoY-Final-Actual-25-Forecast-25-Previous-25.aspx?xy=rss",
-      "published": "2026-08-19T09:01:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Higher yields threaten housing and risk sentiment – MUFG",
-      "summary": "MUFG’s Derek Halpenny highlights how elevated US Treasury yields and rising mortgage rates are beginning to weigh on the US housing market, with Housing Starts and Pending Home Sales softening.",
-      "link": "https://www.fxstreet.com/news/us-dollar-higher-yields-threaten-housing-and-risk-sentiment-mufg-202608190900",
-      "published": "2026-08-19T09:00:50+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Eurozone CPI MoM Final Actual 0.2% (Forecast 0.2%, Previous -0.1%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727369/Eurozone-CPI-MoM-Final-Actual-02-Forecast-02-Previous--01.aspx?xy=rss",
-      "published": "2026-08-19T09:00:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING: The GBP - FJElite",
-      "summary": "<div>EUR/GBP has barely budged on today's release of the UK July CPI data. The rise in headline inflation was widely expected, though food inflation - which the Bank of England tracks closely - remains quite benign. ING's UK economist, James Smith, notes that the BoE's core services measure of inflation has picked up a little to 3.8% year-on-year, but probably not enough to trouble the Bank.</div>",
-      "link": "https://www.financialjuice.com/News/9727352/ING-The-GBP---FJElite.aspx?xy=rss",
-      "published": "2026-08-19T08:41:46+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs: European Investment Grade Credit - FJElite",
-      "summary": "<div>A key pillar supporting tight index-level credit spreads in recent years has been strong demand from yield-based investors. In Europe, a distinctive source of support has come from retail investors through fixed-income target maturity funds. We estimate these funds have accumulated roughly €270 billion in assets under management since 2021, a meaningful technical tailwind for the EUR IG marke",
-      "link": "https://www.financialjuice.com/News/9727351/Goldman-Sachs-European-Investment-Grade-Credit---FJElite.aspx?xy=rss",
-      "published": "2026-08-19T08:40:48+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Europe Sentiment: Stocks Halt Losses Yields Continue Rise - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727285/Europe-Sentiment-Stocks-Halt-Losses-Yields-Continue-Rise---FJElite.aspx?xy=rss",
-      "published": "2026-08-19T07:48:25+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -273,15 +228,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
-      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
-      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
-      "published": "2026-08-18T20:06:07+00:00",
-      "score": 3
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The SEC announces new proposed rules that will create a \"clear and fit-for purpose framework\" for certain investment contracts involving crypto assets. Details include: 1. The proposal follows the SEC's March 2026 interpretation clarifying how federal securities laws apply to certain crypto assets 2. The rules will address \"long-standing barriers\" to \"capital formation and innovation\" within domestic crypto asset markets 3. The proposed rules include 2 exemptions from the registration requirements of the Securities Act of 1933 specifically tailored to certain investment contracts involving crypto assets 4. The proposed rules also include a conditional safe harbor from the term \"investment contract\" in the definitions of \"security\" in the Securities Act of 1933 and the Securities Exchange Act of 1934 Framework for broader crypto adoption is rolling out.",
@@ -291,48 +237,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
-      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
-      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
-      "published": "2026-08-18T18:39:53+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: Total trading volume in onchain tokenized equities has reached $9 billion in 2026, a new record. This marks +207% quarter-over-quarter growth and +800% in year-to-date growth. This comes amid demand for exposure to high momentum stocks, particularly memory and storage stocks, in a globally accessible 24/7 market. Jupiter, the largest onchain platform on Solana, has been driving the move toward tokenization, now seeing +95% quarter-over-quarter growth in routed tokenized equities volume. Amid this trend, the Nasdaq has announced plans to extend trading to 23 hours per day, 5 days per week. Jupiter also reports that 55% of its tokenized equities volume is coming from off-hours trading. Many investors want 24/7 markets.",
       "summary": "<p>BREAKING: Total trading volume in onchain tokenized equities has reached $9 billion in 2026, a new record.<br />\n<br />\nThis marks +207% quarter-over-quarter growth and +800% in year-to-date growth.<br />\n<br />\nThis comes amid demand for exposure to high momentum stocks, particularly memory and storage stocks, in a globally accessible 24/7 market.<br />\n<br />\nJupiter, the largest onchain plat",
       "link": "https://nitter.net/KobeissiLetter/status/2089772727083356395#m",
       "published": "2026-08-18T17:53:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
-      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
-      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
-      "published": "2026-08-18T16:50:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
-      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
-      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
-      "published": "2026-08-18T16:48:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "DIESEL MARGINS SMASH RECORD ABOVE $100 U.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch. Supply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets. Meanwhile, U.S. diesel inventories are at their lowest late-August level since 1996, raising fears of higher winter heating costs and renewed inflation.",
-      "summary": "<p>DIESEL MARGINS SMASH RECORD ABOVE $100<br />\n<br />\nU.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch.<br />\n<br />\nSupply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets.<br />\n<br />\nMeanwhile, U.S. diesel ",
-      "link": "https://nitter.net/DeItaone/status/2089751755026215258#m",
-      "published": "2026-08-18T16:30:18+00:00",
       "score": 1
     },
     {
@@ -397,15 +307,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2089403130890932267#m",
       "published": "2026-08-17T17:25:00+00:00",
       "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Nvidia, $NVDA, has agreed to provide a more than $100 billion backstop for a massive new OpenAI data center in Ohio, per FT. Details include: 1. Nvidia will provide credit support for the \"land, power and shell\" for the facility capped at $105 billion 2. The data center is being developed alongside a SoftBank-led energy companies 3. Nvidia will also invest $1.5 billion into SB Energy, an energy company founded as part of the SoftBank Group in 2019 4. OpenAI plans to lease as much as 8 gigawatts of AI computing power at the data center in Pike County, Ohio, which will take until 2032 to complete This will mark one of the largest AI infrastructure deals yet.",
-      "summary": "<p>BREAKING: Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, has agreed to provide a more than $100 billion backstop for a massive new OpenAI data center in Ohio, per FT.<br />\n<br />\nDetails include:<br />\n<br />\n1. Nvidia will provide credit support for the \"land, power and shell\" for the facility capped at $105 billion<br />\n<br />\n2. The data center is being devel",
-      "link": "https://nitter.net/KobeissiLetter/status/2089352534439624839#m",
-      "published": "2026-08-17T14:03:57+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
