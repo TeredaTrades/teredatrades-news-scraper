@@ -1,7 +1,124 @@
 {
-  "updated_at": "2026-08-19T15:13:58.553545+00:00",
-  "count": 62,
+  "updated_at": "2026-08-19T15:49:13.107061+00:00",
+  "count": 56,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump ends remarks to reporters.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727959/Trump-ends-remarks-to-reporters.aspx?xy=rss",
+      "published": "2026-08-19T15:32:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Oil prices will be a lot lower when this is over.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727954/Trump-Oil-prices-will-be-a-lot-lower-when-this-is-over.aspx?xy=rss",
+      "published": "2026-08-19T15:32:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Iran: Negotiations may be at some point.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727940/Trump-on-Iran-Negotiations-may-be-at-some-point.aspx?xy=rss",
+      "published": "2026-08-19T15:31:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: We had a lot of boats come through Hormuz last night.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727931/Trump-We-had-a-lot-of-boats-come-through-Hormuz-last-night.aspx?xy=rss",
+      "published": "2026-08-19T15:30:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump reiterates that the Canada deal is subject to finalization.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727930/Trump-reiterates-that-the-Canada-deal-is-subject-to-finalization.aspx?xy=rss",
+      "published": "2026-08-19T15:30:03+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "R to @KobeissiLetter: Lastly, mortgage rates are back on the rise and we expect new record lows in housing affordability. Without further intervention, we expect 7%+ mortgage rates. The era of \"free\" money has come to an end. Follow us @KobeissiLetter for real time analysis as this develops.",
+      "summary": "<p>Lastly, mortgage rates are back on the rise and we expect new record lows in housing affordability.<br />\n<br />\nWithout further intervention, we expect 7%+ mortgage rates.<br />\n<br />\nThe era of \"free\" money has come to an end.<br />\n<br />\nFollow us <a href=\"https://nitter.net/KobeissiLetter\" title=\"The Kobeissi Letter\">@KobeissiLetter</a> for real time analysis as this develops.</p>\n<img sr",
+      "link": "https://nitter.net/KobeissiLetter/status/2090098891123302467#m",
+      "published": "2026-08-19T15:29:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump, asked if meeting North Korea's Kim this year: Yes.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727929/Trump-asked-if-meeting-North-Koreas-Kim-this-year-Yes.aspx?xy=rss",
+      "published": "2026-08-19T15:29:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: We have no tariffs going into Canada. Tariffs will be non-existent for farmers.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727928/Trump-We-have-no-tariffs-going-into-Canada-Tariffs-will-be-non-existent-for-farmers.aspx?xy=rss",
+      "published": "2026-08-19T15:29:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: I had a good conversation with Canada's PM Carney last night.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727927/Trump-I-had-a-good-conversation-with-Canadas-PM-Carney-last-night.aspx?xy=rss",
+      "published": "2026-08-19T15:28:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: We've come to a deal with Canada.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727926/Trump-Weve-come-to-a-deal-with-Canada.aspx?xy=rss",
+      "published": "2026-08-19T15:28:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah: BI holds rates to back IDR – BNY",
+      "summary": "Geoff Yu writes that Bank Indonesia (BI) kept its benchmark rate at 5.75% for a second month in Acting Governor Destry Damayanti’s first decision.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-holds-rates-to-back-idr-bny-202608191524",
+      "published": "2026-08-19T15:24:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound jumps as Treasury buyback weakens the US Dollar",
+      "summary": "The Pound Sterling climbs against the Greenback on Wednesday as the US Treasury stepped up in the markets to offer liquidity support via a buyback of longer-dated bonds, a day after the US 30-year yield hit its highest level since 2007.",
+      "link": "https://www.fxstreet.com/news/british-pound-jumps-as-treasury-buyback-weakens-the-us-dollar-202608191523",
+      "published": "2026-08-19T15:23:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US 10-year Treasury yield tumbles as Treasury steps in to calm bond market",
+      "summary": "The US 10-year Treasury yield declines sharply on Wednesday, trading at 4.651% at the time of writing after reaching an intraday high of 4.712%.",
+      "link": "https://www.fxstreet.com/news/us-10-year-treasury-yield-tumbles-as-treasury-steps-in-to-calm-bond-market-202608191517",
+      "published": "2026-08-19T15:17:04+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -16,7 +133,7 @@
       "category": "news",
       "title": "FinancialJuice: Xai: Grok 4.6 is generally available on Amazon Bedrock. $AMZN",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9727897/Xai-Grok-46-is-generally-available-on-Amazon-Bedrock-AMZN.aspx",
+      "link": "https://www.financialjuice.com/News/9727897/Xai-Grok-46-is-generally-available-on-Amazon-Bedrock-AMZN.aspx?xy=rss",
       "published": "2026-08-19T15:11:16+00:00",
       "score": 1
     },
@@ -72,24 +189,6 @@
       "summary": "BNY’s Geoff Yu reports the Reserve Bank of Australia remains concerned about inflation, with Deputy Governor Andrew Hauser saying further rate hikes cannot be ruled out.",
       "link": "https://www.fxstreet.com/news/australian-dollar-rba-keeps-hawkish-bias-on-inflation-bny-202608191438",
       "published": "2026-08-19T14:38:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: NVIDIA seeks to connect companies to deploy in Nordics - CNBC.",
-      "summary": "<div><ul><li>Nvidia is seeking to connect companies with its GPUs to data­center operators with available capacity in the Nordics, sources familiar with the matter told CNBC.</li><li>It reflects Nvidia’s attempts to broaden its role in the AI ecosystem as it builds influence beyond chips.</li><li>The Nordics are attracting large AI data-center projects because of access to power and land, as well ",
-      "link": "https://www.financialjuice.com/News/9727831/NVIDIA-seeks-to-connect-companies-to-deploy-in-Nordics---CNBC.aspx",
-      "published": "2026-08-19T14:27:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: NVIDIA seeks to connect companies to deploy in Nordics - CNBC.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727830/NVIDIA-seeks-to-connect-companies-to-deploy-in-Nordics---CNBC.aspx",
-      "published": "2026-08-19T14:26:47+00:00",
       "score": 1
     },
     {
@@ -156,15 +255,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: +147 mln<br />Nasdaq 100: -30 mln<br />Dow 30: +7 mln<br />Mag 7: -10 mln",
-      "link": "https://www.financialjuice.com/News/9727759/MOO-Imbalance.aspx",
-      "published": "2026-08-19T13:30:35+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The US Treasury announces it will double the size long-term US government debt buybacks following the rapid surge in US Treasury yields. Repurchases of $2 billion will now be increased to \"at least\" $4 billion, the US Treasury said. The move is intended to provide \"liquidity support\" for bonds maturing in 10 to 30 years as total US debt nears $40 trillion. There is the intervention we have been calling for.",
@@ -174,24 +264,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: North Korea's Kim Yo Jong: The relationship between Trump and Kim is truly excellent",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727729/North-Koreas-Kim-Yo-Jong-The-relationship-between-Trump-and-Kim-is-truly-excellent.aspx",
-      "published": "2026-08-19T13:10:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen gains as US Dollar retreats ahead of FOMC Minutes",
-      "summary": "USD/JPY edges lower on Wednesday as the US Dollar (USD) loses momentum and retreats toward the June lows touched earlier this week. At the time of writing, the pair trades around 159.10, down 0.32% on the day.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-gains-as-us-dollar-retreats-ahead-of-fomc-minutes-202608191216",
-      "published": "2026-08-19T12:16:19+00:00",
-      "score": 2
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Gold approaches $4,500 as US Dollar and Treasury yields tumble, FOMC Minutes in focus",
@@ -199,15 +271,6 @@
       "link": "https://www.fxstreet.com/news/gold-finds-support-as-us-dollar-retreats-ahead-of-fed-minutes-202608191109",
       "published": "2026-08-19T11:09:12+00:00",
       "score": 6
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE A Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office. Separately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power. The findings could add political pressure ahead of November’s midterm elections.",
-      "summary": "<p>POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE<br />\n<br />\nA Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office.<br />\n<br />\nSeparately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power.<br />\n<br />\nThe findings could add political pressure ahead o",
-      "link": "https://nitter.net/DeItaone/status/2090032203266654456#m",
-      "published": "2026-08-19T11:04:42+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -255,105 +318,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
-      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
-      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
-      "published": "2026-08-18T20:06:07+00:00",
-      "score": 3
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The SEC announces new proposed rules that will create a \"clear and fit-for purpose framework\" for certain investment contracts involving crypto assets. Details include: 1. The proposal follows the SEC's March 2026 interpretation clarifying how federal securities laws apply to certain crypto assets 2. The rules will address \"long-standing barriers\" to \"capital formation and innovation\" within domestic crypto asset markets 3. The proposed rules include 2 exemptions from the registration requirements of the Securities Act of 1933 specifically tailored to certain investment contracts involving crypto assets 4. The proposed rules also include a conditional safe harbor from the term \"investment contract\" in the definitions of \"security\" in the Securities Act of 1933 and the Securities Exchange Act of 1934 Framework for broader crypto adoption is rolling out.",
-      "summary": "<p>BREAKING: The SEC announces new proposed rules that will create a \"clear and fit-for purpose framework\" for certain investment contracts involving crypto assets.<br />\n<br />\nDetails include:<br />\n<br />\n1. The proposal follows the SEC's March 2026 interpretation clarifying how federal securities laws apply to certain crypto assets<br />\n<br />\n2. The rules will address \"long-standing barriers",
-      "link": "https://nitter.net/KobeissiLetter/status/2089785910384906281#m",
-      "published": "2026-08-18T18:46:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
-      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
-      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
-      "published": "2026-08-18T18:39:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Total trading volume in onchain tokenized equities has reached $9 billion in 2026, a new record. This marks +207% quarter-over-quarter growth and +800% in year-to-date growth. This comes amid demand for exposure to high momentum stocks, particularly memory and storage stocks, in a globally accessible 24/7 market. Jupiter, the largest onchain platform on Solana, has been driving the move toward tokenization, now seeing +95% quarter-over-quarter growth in routed tokenized equities volume. Amid this trend, the Nasdaq has announced plans to extend trading to 23 hours per day, 5 days per week. Jupiter also reports that 55% of its tokenized equities volume is coming from off-hours trading. Many investors want 24/7 markets.",
-      "summary": "<p>BREAKING: Total trading volume in onchain tokenized equities has reached $9 billion in 2026, a new record.<br />\n<br />\nThis marks +207% quarter-over-quarter growth and +800% in year-to-date growth.<br />\n<br />\nThis comes amid demand for exposure to high momentum stocks, particularly memory and storage stocks, in a globally accessible 24/7 market.<br />\n<br />\nJupiter, the largest onchain plat",
-      "link": "https://nitter.net/KobeissiLetter/status/2089772727083356395#m",
-      "published": "2026-08-18T17:53:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
-      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
-      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
-      "published": "2026-08-18T16:50:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
-      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
-      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
-      "published": "2026-08-18T16:48:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "DIESEL MARGINS SMASH RECORD ABOVE $100 U.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch. Supply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets. Meanwhile, U.S. diesel inventories are at their lowest late-August level since 1996, raising fears of higher winter heating costs and renewed inflation.",
-      "summary": "<p>DIESEL MARGINS SMASH RECORD ABOVE $100<br />\n<br />\nU.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch.<br />\n<br />\nSupply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets.<br />\n<br />\nMeanwhile, U.S. diesel ",
-      "link": "https://nitter.net/DeItaone/status/2089751755026215258#m",
-      "published": "2026-08-18T16:30:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: Global physical gold-backed ETFs posted +$3.5 billion in inflows last week, the largest weekly intake since February 2026. This also marks the 6th consecutive weekly inflow, the longest streak since January. Over this 6-week period, ETFs have attracted +$10.0 billion in inflows. This is equivalent to +72.2 tons of gold, bringing ETF holdings up to 4,114 tons, the highest since May. European funds led last week’s demand at +$2.3 billion, followed by North America at +$1.1 billion, and Asia at +$200 million. Global demand for gold is acclerating sharply.",
-      "summary": "<p>BREAKING: Global physical gold-backed ETFs posted +$3.5 billion in inflows last week, the largest weekly intake since February 2026.<br />\n<br />\nThis also marks the 6th consecutive weekly inflow, the longest streak since January.<br />\n<br />\nOver this 6-week period, ETFs have attracted +$10.0 billion in inflows.<br />\n<br />\nThis is equivalent to +72.2 tons of gold, bringing ETF holdings up t",
-      "link": "https://nitter.net/KobeissiLetter/status/2089740606968901817#m",
-      "published": "2026-08-18T15:46:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Hidden AI-related commitments are skyrocketing among Big Tech companies: The top 9 US tech firms have ~$3 trillion in off-balance-sheet commitments, including leases for data centers and power infrastructure that have not yet commenced, as well as purchase commitments for AI-related equipment and services. This is roughly triple the amount that these firms report on their balance sheets in leases and long-term debt. This also compares to ~$600 billion in CapEx reported over the last year. Alphabet, $GOOGL, alone posted an increase of more than +800% YoY in off-balance-sheet obligations, more than 7 times its YoY increase in CapEx. This was followed by Meta, $META, which reported an increase of more than +750% YoY in such obligations, more than 9 times the increase in CapEx over the same period. AI infrastructure is driving one of the largest corporate investment waves in history.",
-      "summary": "<p>Hidden AI-related commitments are skyrocketing among Big Tech companies:<br />\n<br />\nThe top 9 US tech firms have ~$3 trillion in off-balance-sheet commitments, including leases for data centers and power infrastructure that have not yet commenced, as well as purchase commitments for AI-related equipment and services.<br />\n<br />\nThis is roughly triple the amount that these firms report on th",
-      "link": "https://nitter.net/KobeissiLetter/status/2089722737384182121#m",
-      "published": "2026-08-18T14:35:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump says there are no talks or conversations going on or scheduled with Iran.",
-      "summary": "<p>BREAKING: President Trump says there are no talks or conversations going on or scheduled with Iran.</p>\n<img src=\"https://nitter.net/pic/media%2FHQAhbKMXgAApYqt.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2089706981695111232#m",
-      "published": "2026-08-18T13:32:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump posts an image claiming that the Strait of Hormuz is now \"new US territory.\" US oil prices extend gains toward $85 per barrel.",
-      "summary": "<p>BREAKING: President Trump posts an image claiming that the Strait of Hormuz is now \"new US territory.\"<br />\n<br />\nUS oil prices extend gains toward $85 per barrel.</p>\n<img src=\"https://nitter.net/pic/media%2FHQAYuyBXUAA2WMX.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2089697614069485989#m",
-      "published": "2026-08-18T12:55:10+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Shorting gold right now. 4th rejection at resistance.",
@@ -361,24 +325,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vrh5dx/shorting_gold_right_now_4th_rejection_at/",
       "published": "2026-08-18T06:25:51+00:00",
       "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: US interest expense on the national debt hit a record $1.4 trillion over the last 12 months. Since 2020, the cost of servicing US public debt has nearly TRIPLED. If rates remain stable, interest payments are set to rise to $1.7 trillion by November 2028. As a result, interest will surpass Social Security spending as the government's largest outlay for the first time. America's debt bill is spiraling out of control.",
-      "summary": "<p>BREAKING: US interest expense on the national debt hit a record $1.4 trillion over the last 12 months.<br />\n<br />\nSince 2020, the cost of servicing US public debt has nearly TRIPLED.<br />\n<br />\nIf rates remain stable, interest payments are set to rise to $1.7 trillion by November 2028.<br />\n<br />\nAs a result, interest will surpass Social Security spending as the government's largest outla",
-      "link": "https://nitter.net/KobeissiLetter/status/2089507603386896421#m",
-      "published": "2026-08-18T00:20:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Markets are bracing for a more volatile period ahead: S&P 500 options are pricing a daily implied move of ~0.75% on August 27th, the day after Nvidia, $NVDA, reports its quarterly earnings. The following day, August 28th, carries a ~0.70% implied move in the index as the Jackson Hole symposium begins, making them the two most anticipated volatility events of the month. By comparison, typical daily implied moves on non-event days this week are just ~0.40-0.50%. At the same time, options positioning flipped from long to short gamma in early August, a dynamic that tends to amplify market swings once volatility picks up. Meanwhile, the volatility index, $VIX, finished last week at 14.3 points, the lowest level since December 2025. More volatility is likely ahead of us.",
-      "summary": "<p>Markets are bracing for a more volatile period ahead:<br />\n<br />\nS&amp;P 500 options are pricing a daily implied move of ~0.75% on August 27th, the day after Nvidia, <a href=\"https://nitter.net/search?f=tweets&amp;q=%23NVDA\">$NVDA</a>, reports its quarterly earnings.<br />\n<br />\nThe following day, August 28th, carries a ~0.70% implied move in the index as the Jackson Hole symposium begins, m",
-      "link": "https://nitter.net/KobeissiLetter/status/2089403130890932267#m",
-      "published": "2026-08-17T17:25:00+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
