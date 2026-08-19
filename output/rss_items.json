@@ -1,7 +1,124 @@
 {
-  "updated_at": "2026-08-19T09:05:02.938439+00:00",
-  "count": 63,
+  "updated_at": "2026-08-19T09:49:37.449074+00:00",
+  "count": 72,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Amazon: Amazon Prime Air aims to serve nearly 500 cities and towns by end of 2026 - website",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727470/Amazon-Amazon-Prime-Air-aims-to-serve-nearly-500-cities-and-towns-by-end-of-2026---website.aspx",
+      "published": "2026-08-19T09:49:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Brazilian Real: Election risks then renewed gains – Commerzbank",
+      "summary": "Commerzbank FX analysts Norman Liebke and Michael Pfister see the Brazilian Real (BRL) supported by the Brazilian Central Bank’s (BCB) hawkish stance and still-elevated real interest rates.",
+      "link": "https://www.fxstreet.com/news/brazilian-real-election-risks-then-renewed-gains-commerzbank-202608190939",
+      "published": "2026-08-19T09:39:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro extends gains against British Pound as Eurozone inflation accelerates",
+      "summary": "The Euro (EUR) trades higher against the British Pound (GBP) on Wednesday, on track for a five-day winning streak, and received additional support after Eurozone final inflation figures confirmed higher price pressures in July.",
+      "link": "https://www.fxstreet.com/news/euro-extends-gains-against-british-pound-as-eurozone-inflation-accelerates-202608190936",
+      "published": "2026-08-19T09:36:53+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Hungary sells HUF 30.5 billion in 10-year bonds: average yield 5.48%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727449/Hungary-sells-HUF-305-billion-in-10-year-bonds-average-yield-548.aspx",
+      "published": "2026-08-19T09:32:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Hungary offers HUF 20 billion in 3-year bonds; average yield 5.32%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727448/Hungary-offers-HUF-20-billion-in-3-year-bonds-average-yield-532.aspx",
+      "published": "2026-08-19T09:32:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Germany sells 10-year bond with average yield 3.26% vs 3.13% previously: Buba",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727434/Germany-sells-10-year-bond-with-average-yield-326-vs-313-previously-Buba.aspx",
+      "published": "2026-08-19T09:31:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: German govt bonds weighted average price 97.78; average yield 3.26%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727430/German-govt-bonds-weighted-average-price-9778-average-yield-326.aspx",
+      "published": "2026-08-19T09:31:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: German 10 Yr Bund Yield Actual 3.26% (Forecast -, Previous 3.13%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727427/German-10-Yr-Bund-Yield-Actual-326-Forecast---Previous-313.aspx",
+      "published": "2026-08-19T09:31:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "summary": "Silver prices (XAG/USD) fell on Wednesday, according to FXStreet data. Silver trades at $63.10 per troy ounce, down 0.38% from the $63.35 it cost on Tuesday.",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608190930",
+      "published": "2026-08-19T09:30:50+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United Kingdom: Upside risks building for inflation – Deutsche Bank",
+      "summary": "Deutsche Bank’s Chief United Kingdom (UK) Economist Sanjay Raja notes that UK inflation data for July broadly matched expectations, with headline Consumer Price Index (CPI) rising and core CPI steady.",
+      "link": "https://www.fxstreet.com/news/united-kingdom-upside-risks-building-for-inflation-deutsche-bank-202608190929",
+      "published": "2026-08-19T09:29:24+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro remains stronger following July’s Eurozone HICP data",
+      "summary": "EUR/USD rises after registering minor losses in the previous day, trading around 1.1600 during the European hours on Wednesday. The pair holds ground as the Euro (EUR) remains stronger following the release of Eurozone Harmonized Index of Consumer Prices (HICP) data for July.",
+      "link": "https://www.fxstreet.com/news/euro-remains-stronger-following-julys-eurozone-hicp-data-202608190915",
+      "published": "2026-08-19T09:15:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Eurozone CPI YoY Final Actual 2.9% (Forecast 2.9%, Previous 2.9%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727371/Eurozone-CPI-YoY-Final-Actual-29-Forecast-29-Previous-29.aspx",
+      "published": "2026-08-19T09:01:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Eurozone Core CPI YoY Final Actual 2.5% (Forecast 2.5%, Previous 2.5%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9727370/Eurozone-Core-CPI-YoY-Final-Actual-25-Forecast-25-Previous-25.aspx",
+      "published": "2026-08-19T09:01:11+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -16,7 +133,7 @@
       "category": "news",
       "title": "FinancialJuice: Eurozone CPI MoM Final Actual 0.2% (Forecast 0.2%, Previous -0.1%)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9727369/Eurozone-CPI-MoM-Final-Actual-02-Forecast-02-Previous--01.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9727369/Eurozone-CPI-MoM-Final-Actual-02-Forecast-02-Previous--01.aspx",
       "published": "2026-08-19T09:00:03+00:00",
       "score": 1
     },
@@ -25,7 +142,7 @@
       "category": "news",
       "title": "FinancialJuice: ING: The GBP - FJElite",
       "summary": "<div>EUR/GBP has barely budged on today's release of the UK July CPI data. The rise in headline inflation was widely expected, though food inflation - which the Bank of England tracks closely - remains quite benign. ING's UK economist, James Smith, notes that the BoE's core services measure of inflation has picked up a little to 3.8% year-on-year, but probably not enough to trouble the Bank.</div>",
-      "link": "https://www.financialjuice.com/News/9727352/ING-The-GBP---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9727352/ING-The-GBP---FJElite.aspx",
       "published": "2026-08-19T08:41:46+00:00",
       "score": 2
     },
@@ -34,7 +151,7 @@
       "category": "news",
       "title": "FinancialJuice: Goldman Sachs: European Investment Grade Credit - FJElite",
       "summary": "<div>A key pillar supporting tight index-level credit spreads in recent years has been strong demand from yield-based investors. In Europe, a distinctive source of support has come from retail investors through fixed-income target maturity funds. We estimate these funds have accumulated roughly €270 billion in assets under management since 2021, a meaningful technical tailwind for the EUR IG marke",
-      "link": "https://www.financialjuice.com/News/9727351/Goldman-Sachs-European-Investment-Grade-Credit---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9727351/Goldman-Sachs-European-Investment-Grade-Credit---FJElite.aspx",
       "published": "2026-08-19T08:40:48+00:00",
       "score": 2
     },
@@ -124,62 +241,8 @@
       "category": "news",
       "title": "FinancialJuice: Europe Sentiment: Stocks Halt Losses Yields Continue Rise - FJElite",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9727285/Europe-Sentiment-Stocks-Halt-Losses-Yields-Continue-Rise---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9727285/Europe-Sentiment-Stocks-Halt-Losses-Yields-Continue-Rise---FJElite.aspx",
       "published": "2026-08-19T07:48:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Equities: Chip-led selloff under stagflation pressure – Deutsche Bank",
-      "summary": "Deutsche Bank strategists note that global equities endured another difficult session as rising yields and higher Oil reinforced a stagflationary backdrop. US indices, led by chip stocks and the NASDAQ, extended declines, while the STOXX Europe 600 posted its fifth consecutive drop.",
-      "link": "https://www.fxstreet.com/news/equities-chip-led-selloff-under-stagflation-pressure-deutsche-bank-202608190741",
-      "published": "2026-08-19T07:41:20+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: UK inflation data arrive mixed, focus shifts to FOMC Minutes",
-      "summary": "Here is what you need to know on Wednesday, August 19:",
-      "link": "https://www.fxstreet.com/news/forex-today-uk-inflation-data-arrive-mixed-focus-shifts-to-fomc-minutes-202608190739",
-      "published": "2026-08-19T07:39:09+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah holds firm as BI keeps rate steady at 5.75%",
-      "summary": "USD/IDR depreciates after registering modest gains in the previous day, trading around 17,870 during the European hours on Wednesday. The pair holds losses as the Indonesian Rupiah (IDR) remains stronger following the release of the interest rate decision by the Bank Indonesia (BI).",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-holds-firm-as-bi-keeps-rate-steady-at-575-202608190738",
-      "published": "2026-08-19T07:38:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "ECB's Rehn: Keeping inflation expectations anchored is essential",
-      "summary": "European Central Bank (ECB) official and Finnish Central Bank Governor Olli Rehn said in a written copy of a speech, released during the European trading session on Wednesday, that it is essential to keep inflation expectations anchored.",
-      "link": "https://www.fxstreet.com/news/ecbs-rehn-keeping-inflation-expectations-anchored-is-essential-202608190718",
-      "published": "2026-08-19T07:18:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Currency Strength Chart: Strongest: JPY, CHF, EUR, GBP, CAD, NZD, USD, AUD - Weakest",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727209/Currency-Strength-Chart-Strongest-JPY-CHF-EUR-GBP-CAD-NZD-USD-AUD---Weakest.aspx?xy=rss",
-      "published": "2026-08-19T07:01:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB's Rehn: Keeping inflation expectations anchored is essential",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9727199/ECBs-Rehn-Keeping-inflation-expectations-anchored-is-essential.aspx?xy=rss",
-      "published": "2026-08-19T07:00:03+00:00",
       "score": 1
     },
     {
@@ -210,15 +273,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold climbs back above $4,350 as USD remains depressed ahead of FOMC Minutes",
-      "summary": "Gold (XAU/USD) climbs back above $4,350 during the first half of the European session, reversing a part of the previous day's heavy losses.",
-      "link": "https://www.fxstreet.com/news/gold-recovers-from-weekly-low-as-usd-softens-ahead-of-fomc-minutes-202608190336",
-      "published": "2026-08-19T03:36:33+00:00",
-      "score": 4
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: President Trump says he has paused the 50% tariffs that were supposed to take effect tomorrow morning for a three day period. President Trump says the US and Canada \"have a deal.\"",
@@ -226,15 +280,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2089899614660903087#m",
       "published": "2026-08-19T02:17:51+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Daytrading",
-      "category": "reddit",
-      "title": "SPX 0DTE Credit Spreads: How I Sell Credit Into Pressure on Choppy Range Days +$215",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Daytrading/comments/1vs5p73/spx_0dte_credit_spreads_how_i_sell_credit_into/\"> <img alt=\"SPX 0DTE Credit Spreads: How I Sell Credit Into Pressure on Choppy Range Days +$215\" src=\"https://preview.redd.it/y1vlu9s1w7kh1.png?width=140&amp;height=102&amp;auto=webp&amp;s=5f3ff67031a9dbada1f218e2aec623dd9c876f07\" title=\"SPX 0DTE Credit Spreads: How I Sell",
-      "link": "https://www.reddit.com/r/Daytrading/comments/1vs5p73/spx_0dte_credit_spreads_how_i_sell_credit_into/",
-      "published": "2026-08-18T23:33:39+00:00",
-      "score": 2
     },
     {
       "source": "Kobeissi Letter",
@@ -255,12 +300,30 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
+      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
+      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
+      "published": "2026-08-18T20:06:07+00:00",
+      "score": 3
+    },
+    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The SEC announces new proposed rules that will create a \"clear and fit-for purpose framework\" for certain investment contracts involving crypto assets. Details include: 1. The proposal follows the SEC's March 2026 interpretation clarifying how federal securities laws apply to certain crypto assets 2. The rules will address \"long-standing barriers\" to \"capital formation and innovation\" within domestic crypto asset markets 3. The proposed rules include 2 exemptions from the registration requirements of the Securities Act of 1933 specifically tailored to certain investment contracts involving crypto assets 4. The proposed rules also include a conditional safe harbor from the term \"investment contract\" in the definitions of \"security\" in the Securities Act of 1933 and the Securities Exchange Act of 1934 Framework for broader crypto adoption is rolling out.",
       "summary": "<p>BREAKING: The SEC announces new proposed rules that will create a \"clear and fit-for purpose framework\" for certain investment contracts involving crypto assets.<br />\n<br />\nDetails include:<br />\n<br />\n1. The proposal follows the SEC's March 2026 interpretation clarifying how federal securities laws apply to certain crypto assets<br />\n<br />\n2. The rules will address \"long-standing barriers",
       "link": "https://nitter.net/KobeissiLetter/status/2089785910384906281#m",
       "published": "2026-08-18T18:46:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
+      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
+      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
+      "published": "2026-08-18T18:39:53+00:00",
       "score": 1
     },
     {
@@ -273,12 +336,39 @@
       "score": 1
     },
     {
-      "source": "r/Daytrading",
-      "category": "reddit",
-      "title": "Watch A Reputable Quant Dismantle Discretionary Trading",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Daytrading/comments/1vrvapp/watch_a_reputable_quant_dismantle_discretionary/\"> <img alt=\"Watch A Reputable Quant Dismantle Discretionary Trading\" src=\"https://external-preview.redd.it/aDZtcGI3YncwNmtoMVesCQUjm68oyU7_jJvkse1YwsSUfydT4DV882MNyO3O.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=321b2baea871ce7d5503a25109c2613a6eed8c00\" title=\"Watch ",
-      "link": "https://www.reddit.com/r/Daytrading/comments/1vrvapp/watch_a_reputable_quant_dismantle_discretionary/",
-      "published": "2026-08-18T17:06:29+00:00",
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
+      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
+      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
+      "published": "2026-08-18T16:50:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
+      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
+      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
+      "published": "2026-08-18T16:48:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "DIESEL MARGINS SMASH RECORD ABOVE $100 U.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch. Supply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets. Meanwhile, U.S. diesel inventories are at their lowest late-August level since 1996, raising fears of higher winter heating costs and renewed inflation.",
+      "summary": "<p>DIESEL MARGINS SMASH RECORD ABOVE $100<br />\n<br />\nU.S. diesel refining margins have surged above $100 a barrel for the first time, topping a record $102 amid a worsening global supply crunch.<br />\n<br />\nSupply disruptions linked to the U.S.-Iran war, Strait of Hormuz, Ukrainian strikes on Russian refineries, Libya and Saudi Arabia are tightening markets.<br />\n<br />\nMeanwhile, U.S. diesel ",
+      "link": "https://nitter.net/DeItaone/status/2089751755026215258#m",
+      "published": "2026-08-18T16:30:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "$AAPL - APPLE OVERHAULS EU APP STORE FEES Apple is revamping its EU App Store terms from October 1. The Core Technology Fee will be replaced by a 5% commission on digital transactions outside the App Store. EU commissions will be 26% for Apple in-app purchases, 20% for alternative payments, and 15% for external purchase links. Apple will also expand alternative app distribution and introduce additional child-safety measures.",
+      "summary": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23AAPL\">$AAPL</a> - APPLE OVERHAULS EU APP STORE FEES<br />\n<br />\nApple is revamping its EU App Store terms from October 1.<br />\n<br />\nThe Core Technology Fee will be replaced by a 5% commission on digital transactions outside the App Store.<br />\n<br />\nEU commissions will be 26% for Apple in-app purchases, 20% for alternative payments, and",
+      "link": "https://nitter.net/DeItaone/status/2089744406769209473#m",
+      "published": "2026-08-18T16:01:06+00:00",
       "score": 1
     },
     {
@@ -315,15 +405,6 @@
       "summary": "<p>BREAKING: President Trump posts an image claiming that the Strait of Hormuz is now \"new US territory.\"<br />\n<br />\nUS oil prices extend gains toward $85 per barrel.</p>\n<img src=\"https://nitter.net/pic/media%2FHQAYuyBXUAA2WMX.jpg\" />",
       "link": "https://nitter.net/KobeissiLetter/status/2089697614069485989#m",
       "published": "2026-08-18T12:55:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Daytrading",
-      "category": "reddit",
-      "title": "$110K last 30 days trading Gold",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Daytrading/comments/1vrl9u6/110k_last_30_days_trading_gold/\"> <img alt=\"$110K last 30 days trading Gold\" src=\"https://preview.redd.it/k5ej0lcby3kh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e106ade727a1d5ba94b399a194e38bcc249b3d6\" title=\"$110K last 30 days trading Gold\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>After 3 years of t",
-      "link": "https://www.reddit.com/r/Daytrading/comments/1vrl9u6/110k_last_30_days_trading_gold/",
-      "published": "2026-08-18T10:26:32+00:00",
       "score": 1
     },
     {
