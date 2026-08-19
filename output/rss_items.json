@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-19T22:02:05.131977+00:00",
-  "count": 64,
+  "updated_at": "2026-08-19T22:42:23.186667+00:00",
+  "count": 62,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Washington bought the Japanese Yen again without meaning to",
+      "summary": "USD/JPY closed Wednesday 0.92% lower just above 158.00, the largest single-session decline since the early-August intervention, and Tokyo did not lift a finger for it.",
+      "link": "https://www.fxstreet.com/news/washington-bought-the-japanese-yen-again-without-meaning-to-202608192228",
+      "published": "2026-08-19T22:28:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Canadian minister in charge of U.S. trade Leblanc: Prime minister briefed Canada’s premiers on talks with United States",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9728425/Canadian-minister-in-charge-of-US-trade-Leblanc-Prime-minister-briefed-Canadas-premiers-on-talks-with-United-States.aspx?xy=rss",
+      "published": "2026-08-19T22:18:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Pound Sterling's best level since May was made in Washington",
+      "summary": "GBP/USD closed Wednesday 0.53% higher just above 1.3600, its best close in three months, and the United Kingdom inflation report that opened the session had almost nothing to do with it. Sterling spent the London morning up barely twenty pips on the day.",
+      "link": "https://www.fxstreet.com/news/pound-sterlings-best-level-since-may-was-made-in-washington-202608192216",
+      "published": "2026-08-19T22:16:53+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -135,33 +162,6 @@
       "summary": "<ul><li><strong>EUR/USD: </strong>1.1300 (EU3.3b), 1.1500 (EU3.27b), 1.1550 (EU1.94b)</li><li><strong>USD/JPY: </strong>160.00 ($1.62b), 164.00 ($1.2b), 158.00 ($1.19b)</li><li><strong>AUD/USD:</strong> 0.7200 (AUD747.2m), 0.7120 (AUD405.9m), 0.6600 (AUD320m)</li><li><strong>USD/CAD:</strong> 1.3900 ($605.1m), 1.3685 ($412m)</li><li><strong>USD/BRL: </strong>5.2000 ($518.8m), 5.1000 ($495.1m), 5.0",
       "link": "https://www.financialjuice.com/News/9728244/Thursday-FX-Options-Expiries-.aspx?xy=rss",
       "published": "2026-08-19T19:22:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on China Presidnet XI visit: We will probably talk about AI.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728229/Trump-on-China-Presidnet-XI-visit-We-will-probably-talk-about-AI.aspx?xy=rss",
-      "published": "2026-08-19T19:11:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US-Canada trade deal expected to cut top-line US tariff rates on canadian steel, aluminum to 25% but also will include some quota arrangements - source",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728228/US-Canada-trade-deal-expected-to-cut-top-line-US-tariff-rates-on-canadian-steel-aluminum-to-25-but-also-will-include-some-quota-arrangements---source.aspx?xy=rss",
-      "published": "2026-08-19T19:10:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US-Canada trade deal expected to cut top-line US tariff rates on Canadian autos to 15% - source familiar with negotiations.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728227/US-Canada-trade-deal-expected-to-cut-top-line-US-tariff-rates-on-Canadian-autos-to-15---source-familiar-with-negotiations.aspx?xy=rss",
-      "published": "2026-08-19T19:10:36+00:00",
       "score": 1
     },
     {
@@ -306,24 +306,6 @@
       "summary": "The Pound Sterling (GBP) climbs against the US Dollar (USD) on Wednesday as the US Treasury stepped up in the markets to offer liquidity support via a buyback of longer-dated bonds, a day after the US 30-year yield hit its highest level since 2007.",
       "link": "https://www.fxstreet.com/news/british-pound-jumps-as-treasury-buyback-weakens-the-us-dollar-202608191523",
       "published": "2026-08-19T15:23:31+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US 10-year Treasury yield tumbles as Treasury steps in to calm bond market",
-      "summary": "The US 10-year Treasury yield declines sharply on Wednesday, trading at 4.651% at the time of writing after reaching an intraday high of 4.712%.",
-      "link": "https://www.fxstreet.com/news/us-10-year-treasury-yield-tumbles-as-treasury-steps-in-to-calm-bond-market-202608191517",
-      "published": "2026-08-19T15:17:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen advances as falling Treasury yields pressure US Dollar",
-      "summary": "The Japanese Yen (JPY) extends its intraday gains on Wednesday as the US Dollar (USD) comes under fresh selling pressure following a sharp decline in longer-term US Treasury yields. At the time of writing, USD/JPY trades around 158.47, its lowest level in more than a week.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-advances-as-falling-treasury-yields-pressure-us-dollar-202608191512",
-      "published": "2026-08-19T15:12:05+00:00",
       "score": 2
     },
     {
