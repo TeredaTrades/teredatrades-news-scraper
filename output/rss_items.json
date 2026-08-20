@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-19T23:59:17.555849+00:00",
-  "count": 49,
+  "updated_at": "2026-08-20T01:45:04.542780+00:00",
+  "count": 48,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound edges lower as USD steadies above three-month low; downside seems limited",
+      "summary": "The GBP/USD pair edges lower during the Asian session on Thursday and retreats further from its highest level since May 11, touched the previous day.",
+      "link": "https://www.fxstreet.com/news/british-pound-edges-lower-as-usd-steadies-above-three-month-low-downside-seems-limited-202608200118",
+      "published": "2026-08-20T01:18:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7808 vs. 6.7854 previous",
+      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Thursday at 6.7808 compared to the previous day's fix of 6.7854 and 6.7196 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67808-vs-67854-previous-202608200115",
+      "published": "2026-08-20T01:15:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC leaves Loan Prime Rates unchanged in August",
+      "summary": "The People’s Bank of China (PBOC), China's central bank, announced to leave its Loan Prime Rates (LPRs) unchanged on Thursday. The one-year and five-year LPRs were at 3.00% and 3.50%, respectively.",
+      "link": "https://www.fxstreet.com/news/pboc-leaves-loan-prime-rates-unchanged-in-august-202608200107",
+      "published": "2026-08-20T01:07:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro edges lower below 1.1700 despite fading Fed hike odds",
+      "summary": "The EUR/USD pair posts modest losses around 1.1675 during the early Asian session on Thursday. The Euro (EUR) edges lower against the US Dollar (USD) after experiencing a sharp surge in the previous session.",
+      "link": "https://www.fxstreet.com/news/euro-edges-lower-below-11700-despite-fading-fed-hike-odds-202608200103",
+      "published": "2026-08-20T01:03:21+00:00",
+      "score": 2
+    },
+    {
+      "source": "Kobeissi Letter",
+      "category": "twitter",
+      "title": "US stocks are having one of their best decades in history: The S&P 500 has gained +141.0% so far since the end of 2019. If this pace continues, the index will finish the decade with a cumulative gain of roughly +277%. This would rank as the 2nd-best decade on record, trailing only the +316% return posted during the 1989-1999 Dot-Com Boom. This would also surpass the +257% gain seen during the postwar boom decade of 1949-1959. By comparison, between 2010 and 2020, the S&P 500 returned +190% following the 2008 Financial Crisis. The 2020s are shaping up to be one of the greatest decades in US equity market history.",
+      "summary": "<p>US stocks are having one of their best decades in history:<br />\n<br />\nThe S&amp;P 500 has gained +141.0% so far since the end of 2019.<br />\n<br />\nIf this pace continues, the index will finish the decade with a cumulative gain of roughly +277%.<br />\n<br />\nThis would rank as the 2nd-best decade on record, trailing only the +316% return posted during the 1989-1999 Dot-Com Boom.<br />\n<br />\n",
+      "link": "https://nitter.net/KobeissiLetter/status/2090238429426483621#m",
+      "published": "2026-08-20T00:44:10+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -46,33 +91,6 @@
       "link": "https://nitter.net/KobeissiLetter/status/2090212967317115053#m",
       "published": "2026-08-19T23:03:00+00:00",
       "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: countries allowing financial aid to Iran will face severe economic consequences",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728448/Trump-countries-allowing-financial-aid-to-Iran-will-face-severe-economic-consequences.aspx?xy=rss",
-      "published": "2026-08-19T23:00:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: this will be economic conflict and isolation on an unprecedented scale",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728446/Trump-this-will-be-economic-conflict-and-isolation-on-an-unprecedented-scale.aspx?xy=rss",
-      "published": "2026-08-19T23:00:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: announcing most severe economic action ever taken against Iran",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9728445/Trump-announcing-most-severe-economic-action-ever-taken-against-Iran.aspx?xy=rss",
-      "published": "2026-08-19T23:00:06+00:00",
-      "score": 1
     },
     {
       "source": "Kobeissi Letter",
@@ -174,15 +192,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "AUD/USD Price Forecast: Positive momentum points to further upside",
-      "summary": "AUD/USD holds firm near a two-and-a-half-month high on Wednesday, supported by broad US Dollar (USD) weakness, while technical indicators point to further upside. At the time of writing, the pair trades around 0.7118, up 0.43% on the day, after reaching an intraday high of 0.7129.",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-positive-momentum-points-to-further-upside-202608191819",
-      "published": "2026-08-19T18:19:27+00:00",
-      "score": 1
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "What the government is doing now is the equivalent of holding a 30-year mortgage at a 3% interest rate and refinancing it into a 4% one-year adjustable-rate mortgage. In other words, you are replacing longer-term, lower-cost debt with shorter-term, higher-cost debt. Now apply that to trillions of US dollars. That is effectively what the US Treasury is being forced to do as long-term yields surge. Unfortunately, the Treasury is largely playing the hand it has been dealt. The next phase of the US deficit spending crisis began today.",
@@ -210,15 +219,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso rallies to two-year high on US Treasury buyback",
-      "summary": "The Mexican Peso (MXN) rallies to a two-year high of 16.94 on Wednesday as the US Dollar (USD) weakens amid falling US yields, which retreated after the US Treasury doubled the size of its long-duration bond buyback. The USD/MXN pair trades at 16.95, down 0.27%.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-rallies-to-two-year-high-on-us-treasury-buyback-202608191749",
-      "published": "2026-08-19T17:49:35+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "What Caused This Sudden Gold & Forex Move Around 3:00 PM Bangladesh Time?",
@@ -226,15 +226,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vsth9x/what_caused_this_sudden_gold_forex_move_around/",
       "published": "2026-08-19T17:42:26+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold rallies as buyback sinks yields despite Fed hawkish minutes",
-      "summary": "Gold (XAU/USD) rallies during Wednesday’s session after the US Federal Reserve (Fed) released the minutes of its July meeting, in which the US central bank held rates unchanged but not unanimously, with three members dissenting and calling for a rate hike.",
-      "link": "https://www.fxstreet.com/news/gold-soars-toward-4-500-as-treasury-buyback-sinks-us-yields-202608191655",
-      "published": "2026-08-19T16:55:54+00:00",
-      "score": 6
     },
     {
       "source": "Kobeissi Letter",
@@ -264,15 +255,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Breaking: FOMC officials acknowledged inflation remained elevated",
-      "summary": "The Federal Open Market Committee (FOMC) published the Minutes of the July meeting on Wednesday. \"The information available at the time of the meeting indicated that inflation remained elevated.",
-      "link": "https://www.fxstreet.com/news/fed-minutes-expected-to-shed-light-on-the-depth-of-fomc-hawkish-split-202608191400",
-      "published": "2026-08-19T14:00:00+00:00",
-      "score": 3
-    },
-    {
       "source": "Kobeissi Letter",
       "category": "twitter",
       "title": "BREAKING: The US Treasury announces it will double the size long-term US government debt buybacks following the rapid surge in US Treasury yields. Repurchases of $2 billion will now be increased to \"at least\" $4 billion, the US Treasury said. The move is intended to provide \"liquidity support\" for bonds maturing in 10 to 30 years as total US debt nears $40 trillion. There is the intervention we have been calling for.",
@@ -298,6 +280,15 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vrh5dx/shorting_gold_right_now_4th_rejection_at/",
       "published": "2026-08-18T06:25:51+00:00",
       "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "I just cracked gold.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vqmap9/i_just_cracked_gold/\"> <img alt=\"I just cracked gold.\" src=\"https://preview.redd.it/qnlck4ft8wjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4bbb63d77e87803c23069a0a47ebfa36e38252ad\" title=\"I just cracked gold.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><blockquote> <p>Update</p> <p>One general rule I've been us",
+      "link": "https://www.reddit.com/r/Forex/comments/1vqmap9/i_just_cracked_gold/",
+      "published": "2026-08-17T08:18:58+00:00",
+      "score": 4
     },
     {
       "source": "Federal Reserve",
