@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-20T17:31:29.499262+00:00",
-  "count": 59,
+  "updated_at": "2026-08-20T18:03:05.773455+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen underperforms as elevated Oil prices weigh, US Dollar recovers",
+      "summary": "USD/JPY rebounds on Thursday, recovering most of the previous day’s losses as the US Dollar (USD) stages a modest recovery after falling to a three-month low. At the time of writing, USD/JPY trades around 159.05, up roughly 0.55% on the day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-underperforms-as-elevated-oil-prices-weigh-us-dollar-recovers-202608201756",
+      "published": "2026-08-20T17:56:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold pulls back as US yields recover after Treasury buyback",
+      "summary": "Gold (XAU/USD) price retreats about 0.33% on Thursday as US Treasury yields trim some of their Wednesday losses, weighing on bullion, which is also pressured by the recovery of the US Dollar. The XAU/USD pair trades at $4,509, after hitting a daily high of $4,540.",
+      "link": "https://www.fxstreet.com/news/gold-pulls-back-as-us-yields-recover-after-treasury-buyback-202608201736",
+      "published": "2026-08-20T17:36:43+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Banxico minutes signals long rate pause as inflation eases",
+      "summary": "The minutes of the Bank of Mexico (Banxico) August’s August meeting revealed that the central bank is expected to hold rates steady for some time, despite the resumption of the disinflation process.",
+      "link": "https://www.fxstreet.com/news/banxico-signals-long-rate-pause-as-inflation-eases-202608201736",
+      "published": "2026-08-20T17:36:26+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -165,51 +192,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Musalem: There are some parts of the economy seeing credit getting crowded out.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729797/Feds-Musalem-There-are-some-parts-of-the-economy-seeing-credit-getting-crowded-out.aspx?xy=rss",
-      "published": "2026-08-20T15:34:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Musalem: Underlying inflation is between 2.5%-3%. It is too high and must be lowered.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729796/Feds-Musalem-Underlying-inflation-is-between-25-3-It-is-too-high-and-must-be-lowered.aspx?xy=rss",
-      "published": "2026-08-20T15:33:12+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 4-Week Bill Auction",
-      "summary": "<div><ul><li>High Yield 3.640%</li><li>Bid-to-cover 2.84</li><li>US sells $110 bln</li><li>Awards 14.61% of bids at high</li></ul></div>",
-      "link": "https://www.financialjuice.com/News/9729795/US-4-Week-Bill-Auction.aspx?xy=rss",
-      "published": "2026-08-20T15:32:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Musalem: Given the current Fed rates, I see a lower probability of getting inflation to 2%. Hiking rates now could save more aggressive action later.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729790/Feds-Musalem-Given-the-current-Fed-rates-I-see-a-lower-probability-of-getting-inflation-to-2-Hiking-rates-now-could-save-more-aggressive-action-later.aspx?xy=rss",
-      "published": "2026-08-20T15:32:04+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.64% (Forecast -, Previous 3.625%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729789/US-4-Week-Bill-High-Yield-Actual-364-Forecast---Previous-3625.aspx?xy=rss",
-      "published": "2026-08-20T15:32:04+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Bessent wants bigger bond buybacks, but markets barely blink",
@@ -279,33 +261,6 @@
       "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report that EUR/USD gains are being driven mainly by broad US Dollar (USD) weakness, with front-end spreads narrowing since late June and supporting Euro (EUR) fundamentals.",
       "link": "https://www.fxstreet.com/news/euro-bullish-trend-eyes-upper-117s-against-us-dollar-scotiabank-202608201413",
       "published": "2026-08-20T14:13:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah: BI pause keeps tightening risk alive – Commerzbank",
-      "summary": "Commerzbank’s Moses Lim highlights that Bank Indonesia left the BI Rate at 5.75%, balancing inflation, growth and IDR stability after earlier hikes. BI has expanded hedging incentives and CNY clearing to support inflows and FX stability, while keeping SRBI yields from rising further.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-pause-keeps-tightening-risk-alive-commerzbank-202608201400",
-      "published": "2026-08-20T14:00:26+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Higher range holds but next leg delayed – TD Securities",
-      "summary": "Ryan McKay and Bart Melek at TD Securities say Gold and broader precious metals are likely to remain comfortable in a higher trading range.",
-      "link": "https://www.fxstreet.com/news/gold-higher-range-holds-but-next-leg-delayed-td-securities-202608201345",
-      "published": "2026-08-20T13:45:54+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Upside focus into 1.35–1.37 against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight that USD/CAD is under pressure as broad US Dollar (USD) weakness combines with tentative progress on a US-Canada trade deal.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-upside-focus-into-135-137-against-us-dollar-scotiabank-202608201330",
-      "published": "2026-08-20T13:30:55+00:00",
       "score": 1
     },
     {
