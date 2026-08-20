@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-20T20:02:56.170605+00:00",
-  "count": 49,
+  "updated_at": "2026-08-20T20:47:17.302462+00:00",
+  "count": 50,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: The Fed: Chairman Warsh to speak at 10 am ET August 28th in Jackson Hole.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730108/The-Fed-Chairman-Warsh-to-speak-at-10-am-ET-August-28th-in-Jackson-Hole.aspx?xy=rss",
+      "published": "2026-08-20T20:36:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso holds firm as Banxico minutes supports the Peso",
+      "summary": "The Mexican Peso holds firm versus the Greenback as Banxico adopted a cautious stance regarding monetary policy, while jobs data in the US revealed that the labour market is stable. The USD/MXN pair exchanges hands at 16.95, virtually unchanged.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-holds-firm-as-banxico-minutes-supports-the-peso-202608202014",
+      "published": "2026-08-20T20:14:02+00:00",
+      "score": 2
+    },
     {
       "source": "Federal Reserve",
       "category": "macro",
@@ -9,15 +27,6 @@
       "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
       "published": "2026-08-20T20:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WATCH LIVE: Trump Joins IndyCar and FOX Corporation to Expand Fostering the Future",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9730066/WATCH-LIVE-Trump-Joins-IndyCar-and-FOX-Corporation-to-Expand-Fostering-the-Future.aspx?xy=rss",
-      "published": "2026-08-20T19:52:27+00:00",
       "score": 1
     },
     {
@@ -447,11 +456,6 @@
   "errors": [
     {
       "source": "Kobeissi Letter",
-      "type": "twitter",
-      "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
-    },
-    {
-      "source": "Walter Bloomberg",
       "type": "twitter",
       "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
     }
