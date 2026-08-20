@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-08-20T23:03:04.705557+00:00",
-  "count": 51,
+  "updated_at": "2026-08-20T23:41:36.288120+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japan July nationwide overall CPI rises 1.9% year on year, not 2.0%: govt",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730292/Japan-July-nationwide-overall-CPI-rises-19-year-on-year-not-20-govt.aspx?xy=rss",
+      "published": "2026-08-20T23:38:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japan July CPI excluding fresh food, energy prices rises 1.9% year-on-year: govt",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730291/Japan-July-CPI-excluding-fresh-food-energy-prices-rises-19-year-on-year-govt.aspx?xy=rss",
+      "published": "2026-08-20T23:38:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold drifts higher above $4,500 on US Treasury buyback",
+      "summary": "Gold price (XAU/USD) edges higher to around $4,530 during the early Asian session on Friday. The precious metal rebounds after earlier falling following the US President Donald Trump administration’s unexpected decision to boost repurchases of longer-dated bonds.",
+      "link": "https://www.fxstreet.com/news/gold-drifts-higher-above-4-500-on-us-treasury-buyback-202608202337",
+      "published": "2026-08-20T23:37:16+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japan’s National CPI climbs 2.0% YoY in July, Core CPI rises as expected",
+      "summary": "Japan’s National Consumer Price Index (CPI) climbed by 2.0% YoY in July, compared to the previous reading of 1.7%, according to the latest data released by the Japan Statistics Bureau on Friday.",
+      "link": "https://www.fxstreet.com/news/japans-national-cpi-climbs-20-yoy-in-july-core-cpi-rises-as-expected-202608202332",
+      "published": "2026-08-20T23:32:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japanese CPI Overall Nationwide Actual 2.0% (Forecast 1.9%, Previous 1.7%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730260/Japanese-CPI-Overall-Nationwide-Actual-20-Forecast-19-Previous-17.aspx?xy=rss",
+      "published": "2026-08-20T23:31:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japanese Core CPI Nationwide YoY Actual 1.8% (Forecast 1.8%, Previous 1.6%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730257/Japanese-Core-CPI-Nationwide-YoY-Actual-18-Forecast-18-Previous-16.aspx?xy=rss",
+      "published": "2026-08-20T23:31:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japan July nationwide core CPI rises 1.8% yr/yr: govt (Poll: 1.8%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730259/Japan-July-nationwide-core-CPI-rises-18-yryr-govt-Poll-18.aspx?xy=rss",
+      "published": "2026-08-20T23:30:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japan July CPI excluding fresh food and energy rises 1.8% year on year: govt",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730258/Japan-July-CPI-excluding-fresh-food-and-energy-rises-18-year-on-year-govt.aspx?xy=rss",
+      "published": "2026-08-20T23:30:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japan July nationwide overall CPI rises 2.0% yr/yr: govt",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730256/Japan-July-nationwide-overall-CPI-rises-20-yryr-govt.aspx?xy=rss",
+      "published": "2026-08-20T23:30:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar weakens as US yields rebound, PMIs fail to impress",
+      "summary": "The Australian Dollar retreated against the Greenback on Thursday as US bond yields resumed their advance, despite the US Treasury's efforts to cap elevated yields following its announcement of a long-end bond buyback program. The AUD/USD trades at 0.7114, down 0.14%.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-as-us-yields-rebound-pmis-fail-to-impress-202608202315",
+      "published": "2026-08-20T23:15:34+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -102,33 +192,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia: We have no China-specific LPU product in roadmap. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9730065/Nvidia-We-have-no-China-specific-LPU-product-in-roadmap-NVDA.aspx?xy=rss",
-      "published": "2026-08-20T19:50:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: -361 mln<br />Nasdaq 100: +149 mln<br />Dow 30: +144 mln<br />Mag 7: -171 mln",
-      "link": "https://www.financialjuice.com/News/9730064/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-08-20T19:50:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia: The Information report on co.'s LPU is incorrect. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9730063/Nvidia-The-Information-report-on-cos-LPU-is-incorrect-NVDA.aspx?xy=rss",
-      "published": "2026-08-20T19:50:13+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "South Korean Won: Rally accelerates with foreign inflows – DBS",
@@ -199,33 +262,6 @@
       "link": "https://www.fxstreet.com/news/gold-pulls-back-as-us-yields-recover-after-treasury-buyback-202608201736",
       "published": "2026-08-20T17:36:43+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Banxico minutes signal long rate pause as inflation eases",
-      "summary": "The minutes of the Bank of Mexico (Banxico) August meeting showed that the central bank is expected to hold rates steady for some time, despite the resumption of the disinflation process.",
-      "link": "https://www.fxstreet.com/news/banxico-signals-long-rate-pause-as-inflation-eases-202608201736",
-      "published": "2026-08-20T17:36:26+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar rises as RBNZ rate hike expectations strengthen",
-      "summary": "NZD/USD advances for the second consecutive day on Thursday, trading around 0.5940 at the time of writing, up 0.12% on the day.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rises-as-rbnz-rate-hike-expectations-strengthen-202608201705",
-      "published": "2026-08-20T17:05:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar holds near highs as mixed data keeps RBA tightening bets alive",
-      "summary": "AUD/USD is trading in the 0.7100 neighborhood at the time of writing on Thursday, holding close to multi-week highs after a steady climb off its earlier lows. The pair is marginally weaker on the day as the US Dollar (USD) regains a little ground, but the broader uptrend remains intact.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-near-highs-as-mixed-data-keeps-rba-tightening-bets-alive-202608201701",
-      "published": "2026-08-20T17:01:02+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
