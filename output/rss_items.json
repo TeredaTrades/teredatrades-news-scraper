@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-08-20T01:45:04.542780+00:00",
-  "count": 48,
+  "updated_at": "2026-08-20T02:44:05.088783+00:00",
+  "count": 42,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar gathers strength to near 0.5950 after China holds loan rates steady in August",
+      "summary": "The NZD/USD pair gains momentum to near 0.5950 during the Asian trading hours on Thursday. The pair holds near a two-and-a-half-month high, bolstered by hawkish Reserve Bank of New Zealand (RBNZ) tone and softer US inflation data.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gathers-strength-to-near-05950-after-china-holds-loan-rates-steady-in-august-202608200238",
+      "published": "2026-08-20T02:38:06+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "China's Commerce Ministry sets anti-dumping tax rates on polyoxymethylene from US, EU, Taiwan and Japan",
+      "summary": "China's Commerce Ministry on Thursday announced a decision on corporate tax rate for enterprises related to anti-dumping measures on imported polyoxymethylene from the United States (US), the European Union (EU), Taiwan and Japan, Reuters reported.",
+      "link": "https://www.fxstreet.com/news/chinas-commerce-ministry-sets-anti-dumping-tax-rates-on-polyoxymethylene-from-us-eu-taiwan-and-japan-202608200225",
+      "published": "2026-08-20T02:25:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: South Korea defense minister: unable to confirm Trump claim on North Korea's 57 nuclear warheads",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9728744/South-Korea-defense-minister-unable-to-confirm-Trump-claim-on-North-Koreas-57-nuclear-warheads.aspx?xy=rss",
+      "published": "2026-08-20T02:22:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: South Korea defense minister: North Korea's reaction to Trump overtures shows Pyongyang is interested",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9728742/South-Korea-defense-minister-North-Koreas-reaction-to-Trump-overtures-shows-Pyongyang-is-interested.aspx?xy=rss",
+      "published": "2026-08-20T02:17:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar declines following weak labor data",
+      "summary": "AUD/USD depreciates after registering over 0.5% gains in the previous day, trading around 0.7120 during the Asian hours on Thursday. The AUD/USD pair faces downward pressure as the Australian Dollar (AUD) slips in response to a weak domestic labor market report.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-following-weak-labor-data-202608200155",
+      "published": "2026-08-20T01:55:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar reacts little to dismal jobs data; holds above weekly low vs weaker JPY",
+      "summary": "The AUD/JPY cross attracts some sellers following the release of a dismal Australian jobs report, though it lacks follow-through and holds above the weekly low touched the previous day.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-reacts-little-to-dismal-jobs-data-holds-above-weekly-low-vs-weaker-jpy-202608200152",
+      "published": "2026-08-20T01:52:34+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -39,15 +93,6 @@
       "score": 2
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "US stocks are having one of their best decades in history: The S&P 500 has gained +141.0% so far since the end of 2019. If this pace continues, the index will finish the decade with a cumulative gain of roughly +277%. This would rank as the 2nd-best decade on record, trailing only the +316% return posted during the 1989-1999 Dot-Com Boom. This would also surpass the +257% gain seen during the postwar boom decade of 1949-1959. By comparison, between 2010 and 2020, the S&P 500 returned +190% following the 2008 Financial Crisis. The 2020s are shaping up to be one of the greatest decades in US equity market history.",
-      "summary": "<p>US stocks are having one of their best decades in history:<br />\n<br />\nThe S&amp;P 500 has gained +141.0% so far since the end of 2019.<br />\n<br />\nIf this pace continues, the index will finish the decade with a cumulative gain of roughly +277%.<br />\n<br />\nThis would rank as the 2nd-best decade on record, trailing only the +316% return posted during the 1989-1999 Dot-Com Boom.<br />\n<br />\n",
-      "link": "https://nitter.net/KobeissiLetter/status/2090238429426483621#m",
-      "published": "2026-08-20T00:44:10+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "US President Donald Trump announces \"crushing economic operation\" on Iran",
@@ -73,33 +118,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-gains-as-treasury-buyback-offsets-hawkish-fed-202608192321",
       "published": "2026-08-19T23:21:00+00:00",
       "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump announces “the most crushing economic operation ever taken against a country” on Iran. Trump says any country that does business with Iran will face “tremendous economic consequences.” This is “Economic D-Day” President Trump says.",
-      "summary": "<p>BREAKING: President Trump announces “the most crushing economic operation ever taken against a country” on Iran.<br />\n<br />\nTrump says any country that does business with Iran will face “tremendous economic consequences.”<br />\n<br />\nThis is “Economic D-Day” President Trump says.</p>\n<img src=\"https://nitter.net/pic/media%2FHQHt5DxWQAAHGXQ.jpg\" />",
-      "link": "https://nitter.net/KobeissiLetter/status/2090213270883909721#m",
-      "published": "2026-08-19T23:04:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "Gold and silver added a combined +$1.3 trillion in market cap after the US Treasury's announcement this morning. The Fed can no longer contain yields and the US government cannot afford higher yields. Asset owners will be the only winners.",
-      "summary": "<p>Gold and silver added a combined +$1.3 trillion in market cap after the US Treasury's announcement this morning.<br />\n<br />\nThe Fed can no longer contain yields and the US government cannot afford higher yields.<br />\n<br />\nAsset owners will be the only winners.</p>\n<img src=\"https://nitter.net/pic/media%2FHQHaM_IWkAEdSfE.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHQHaM_NWMAAONpw.jpg\"",
-      "link": "https://nitter.net/KobeissiLetter/status/2090212967317115053#m",
-      "published": "2026-08-19T23:03:00+00:00",
-      "score": 4
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: President Trump is set to reduce tariffs on automobiles imported from Canada from 25% to 15% as part of a broader trade deal with the country, per Bloomberg. Details include: 1. Currently the US has imposed a 25% tariff on the non-US content of vehicles produces in Canada 2. The same content provision will apply to the new 15% rate 3. US and Canadian negotiators have reportedly discussed whether to widen the exemption to include additional content, though no firm decision to do so has been reached The US-Canada trade deal appears to be materializing.",
-      "summary": "<p>BREAKING: President Trump is set to reduce tariffs on automobiles imported from Canada from 25% to 15% as part of a broader trade deal with the country, per Bloomberg.<br />\n<br />\nDetails include:<br />\n<br />\n1. Currently the US has imposed a 25% tariff on the non-US content of vehicles produces in Canada<br />\n<br />\n2. The same content provision will apply to the new 15% rate<br />\n<br />\n3",
-      "link": "https://nitter.net/KobeissiLetter/status/2090206172196266376#m",
-      "published": "2026-08-19T22:36:00+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -147,60 +165,6 @@
       "score": 4
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The Cass Freight Index fell -4.8% YoY in July, to 0.96, matching the lowest level since the 2020 pandemic. The index tracks freight shipment activity across North America and is a widely followed indicator of freight demand. This marks the 42nd consecutive monthly decline, the longest streak on record. Over this period, shipments have fallen -20%, with the index declining -7.0% in 2023, -5.8% in 2024, and -7.5% in 2025. MoM, shipments posted their 3rd consecutive monthly decline, reversing the brief rebound seen earlier this year. This decline reflects higher fuel prices, while a renewed driver shortage is reducing available trucking capacity and weighing on shipment volumes. The US freight market continues to weaken.",
-      "summary": "<p>BREAKING: The Cass Freight Index fell -4.8% YoY in July, to 0.96, matching the lowest level since the 2020 pandemic.<br />\n<br />\nThe index tracks freight shipment activity across North America and is a widely followed indicator of freight demand.<br />\n<br />\nThis marks the 42nd consecutive monthly decline, the longest streak on record.<br />\n<br />\nOver this period, shipments have fallen -20%",
-      "link": "https://nitter.net/KobeissiLetter/status/2090173708262371645#m",
-      "published": "2026-08-19T20:27:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro surges as traders ignore Fed’s hawkish minutes",
-      "summary": "The Euro (EUR) gains over 0.85% against the US Dollar (USD) during the North American session on Wednesday, even though the latest Federal Reserve (Fed) minutes had a hawkish tone, with some participants, along with the three dissenters, suggesting that raising rates could be necessary if the disinf",
-      "link": "https://www.fxstreet.com/news/euro-surges-as-traders-ignore-feds-hawkish-minutes-202608192007",
-      "published": "2026-08-19T20:07:27+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar sinks on Treasury buyback ahead of data-heavy Thursday",
-      "summary": "The US Dollar Index (DXY) sold off broadly on Wednesday, sinking below the 99.00s region and holding well under 100.00.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-sinks-on-treasury-buyback-ahead-of-data-heavy-thursday-202608191938",
-      "published": "2026-08-19T19:38:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver surges as Treasury buyback plan sinks the US Dollar",
-      "summary": "Silver (XAG/USD) trades sharply higher on Wednesday, changing hands near $65.80. The metal is riding a broad rally across precious metals with Gold (XAU/USD) soaring toward $4,500.",
-      "link": "https://www.fxstreet.com/news/silver-surges-as-treasury-buyback-plan-sinks-the-us-dollar-202608191908",
-      "published": "2026-08-19T19:08:29+00:00",
-      "score": 7
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CHF Price Forecast: Franc tests 100-day SMA as US Dollar tanks",
-      "summary": "The USD/CHF pair tumbles nearly 2% on Wednesday as a US Treasury buyback announcement sends the Greenback into a tailspin, while US Treasury yields also dive. The pair trades at 0.7979 after reaching a high of 0.8128.",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-100-day-sma-tested-as-us-dollar-tanks-202608191854",
-      "published": "2026-08-19T18:54:29+00:00",
-      "score": 2
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "What the government is doing now is the equivalent of holding a 30-year mortgage at a 3% interest rate and refinancing it into a 4% one-year adjustable-rate mortgage. In other words, you are replacing longer-term, lower-cost debt with shorter-term, higher-cost debt. Now apply that to trillions of US dollars. That is effectively what the US Treasury is being forced to do as long-term yields surge. Unfortunately, the Treasury is largely playing the hand it has been dealt. The next phase of the US deficit spending crisis began today.",
-      "summary": "<p>What the government is doing now is the equivalent of holding a 30-year mortgage at a 3% interest rate and refinancing it into a 4% one-year adjustable-rate mortgage.<br />\n<br />\nIn other words, you are replacing longer-term, lower-cost debt with shorter-term, higher-cost debt.<br />\n<br />\nNow apply that to trillions of US dollars.<br />\n<br />\nThat is effectively what the US Treasury is bein",
-      "link": "https://nitter.net/KobeissiLetter/status/2090136718397911100#m",
-      "published": "2026-08-19T18:00:01+00:00",
-      "score": 1
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
@@ -228,15 +192,6 @@
       "score": 2
     },
     {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "R to @KobeissiLetter: Lastly, mortgage rates are back on the rise and we expect new record lows in housing affordability. Without further intervention, we expect 7%+ mortgage rates. The era of \"free\" money has come to an end. Follow us @KobeissiLetter for real time analysis as this develops.",
-      "summary": "<p>Lastly, mortgage rates are back on the rise and we expect new record lows in housing affordability.<br />\n<br />\nWithout further intervention, we expect 7%+ mortgage rates.<br />\n<br />\nThe era of \"free\" money has come to an end.<br />\n<br />\nFollow us <a href=\"https://nitter.net/KobeissiLetter\" title=\"The Kobeissi Letter\">@KobeissiLetter</a> for real time analysis as this develops.</p>\n<img sr",
-      "link": "https://nitter.net/KobeissiLetter/status/2090098891123302467#m",
-      "published": "2026-08-19T15:29:42+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Getting my first 100k FTMO account",
@@ -252,15 +207,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Anyone know y it fly like crazyyyy</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Wooden_Culture5267\"> /u/Wooden_Culture5267 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_what_happen_to_gold/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_wha",
       "link": "https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_what_happen_to_gold/",
       "published": "2026-08-19T14:22:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "Kobeissi Letter",
-      "category": "twitter",
-      "title": "BREAKING: The US Treasury announces it will double the size long-term US government debt buybacks following the rapid surge in US Treasury yields. Repurchases of $2 billion will now be increased to \"at least\" $4 billion, the US Treasury said. The move is intended to provide \"liquidity support\" for bonds maturing in 10 to 30 years as total US debt nears $40 trillion. There is the intervention we have been calling for.",
-      "summary": "<p>BREAKING: The US Treasury announces it will double the size long-term US government debt buybacks following the rapid surge in US Treasury yields.<br />\n<br />\nRepurchases of $2 billion will now be increased to \"at least\" $4 billion, the US Treasury said.<br />\n<br />\nThe move is intended to provide \"liquidity support\" for bonds maturing in 10 to 30 years as total US debt nears $40 trillion.<br",
-      "link": "https://nitter.net/KobeissiLetter/status/2090065952922611880#m",
-      "published": "2026-08-19T13:18:49+00:00",
       "score": 1
     },
     {
@@ -435,5 +381,16 @@
       "score": 1
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "source": "Kobeissi Letter",
+      "type": "twitter",
+      "error": "failed to parse feed (text/html;charset=utf-8 is not an XML media type)"
+    },
+    {
+      "source": "Walter Bloomberg",
+      "type": "twitter",
+      "error": "failed to parse feed (text/html;charset=utf-8 is not an XML media type)"
+    }
+  ]
 }
