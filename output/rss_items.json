@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-20T18:59:38.114448+00:00",
-  "count": 50,
+  "updated_at": "2026-08-20T19:38:15.220695+00:00",
+  "count": 57,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Friday FX Options Expiries",
+      "summary": "<ul><li><strong>EUR/USD:</strong> 1.1500 (EU7.32b), 1.2500 (EU1.81b), 1.2000 (EU1.77b)</li><li><strong>USD/JPY: </strong>152.50 ($1.3b), 155.50 ($1b), 159.00 ($946.5m)</li><li><strong>AUD/USD:</strong> 0.7100 (AUD531.4m), 0.6900 (AUD482.9m), 0.6920 (AUD320m)</li><li><strong>USD/CAD: </strong>1.4100 ($635.9m), 1.3900 ($612.6m), 1.4115 ($595.5m)</li><li><strong>USD/BRL:</strong> 5.1500 ($396.3m), 5.",
+      "link": "https://www.financialjuice.com/News/9730040/Friday-FX-Options-Expiries-.aspx?xy=rss",
+      "published": "2026-08-20T19:22:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Rally accelerates with foreign inflows – DBS",
+      "summary": "DBS strategist Chang Wei Liang reports that South Korean Won (KRW) strength has resumed, with USD/KRW dropping to the mid-1380s even as KOSPI fell nearly 6% on semiconductor-led losses.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-rally-accelerates-with-foreign-inflows-dbs-202608201921",
+      "published": "2026-08-20T19:21:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar firms ahead of global flash PMIs",
+      "summary": "The US Dollar Index (DXY) is hovering near 98.90, still short of 100.00, but grinding higher on Thursday. Hawkish commentary from Federal Reserve Bank of St.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-global-flash-pmis-202608201915",
+      "published": "2026-08-20T19:15:15+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -33,7 +60,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Silver Price Forecast: XAG/USD tests 100-day SMA as rally extends",
-      "summary": "Silver price extended its gains on Thursday, up more than 1.70%, even as US yields recovered some ground and then resumed their rise following the US Treasury bond buyback announcement. The XAG/USD trades at $68.18 at the time of writing.",
+      "summary": "Silver (XAG/USD) price extended its gains on Thursday, up more than 1.70%, even as US yields recovered some ground following the US Treasury bond buyback announcement. The XAG/USD pair trades at $68.18 at the time of writing, its highest level since June 18.",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-tests-100-day-sma-as-rally-extends-202608201812",
       "published": "2026-08-20T18:12:21+00:00",
       "score": 4
@@ -59,8 +86,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Banxico minutes signals long rate pause as inflation eases",
-      "summary": "The minutes of the Bank of Mexico (Banxico) August’s August meeting revealed that the central bank is expected to hold rates steady for some time, despite the resumption of the disinflation process.",
+      "title": "Banxico minutes signal long rate pause as inflation eases",
+      "summary": "The minutes of the Bank of Mexico (Banxico) August meeting showed that the central bank is expected to hold rates steady for some time, despite the resumption of the disinflation process.",
       "link": "https://www.fxstreet.com/news/banxico-signals-long-rate-pause-as-inflation-eases-202608201736",
       "published": "2026-08-20T17:36:26+00:00",
       "score": 2
@@ -120,15 +147,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: NVIDIA plots a China comeback with a new AI chip - The Information. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729884/NVIDIA-plots-a-China-comeback-with-a-new-AI-chip---The-Information-NVDA.aspx?xy=rss",
-      "published": "2026-08-20T16:59:17+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "British Pound climbs as UK inflation keeps BoE hike bets alive",
@@ -165,15 +183,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Musalem concludes interview on CNBC.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729804/Feds-Musalem-concludes-interview-on-CNBC.aspx?xy=rss",
-      "published": "2026-08-20T15:38:49+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Bessent wants bigger bond buybacks, but markets barely blink",
@@ -181,15 +190,6 @@
       "link": "https://www.fxstreet.com/news/bessent-wants-bigger-bond-buybacks-but-markets-barely-blink-202608201527",
       "published": "2026-08-20T15:27:44+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar remains supported by rising Oil prices and US tariff pause",
-      "summary": "USD/CAD remains under pressure on Thursday even as the US Dollar (USD) stages a modest recovery following the previous day’s sharp selloff. Higher Oil prices support the commodity-linked Canadian Dollar (CAD), keeping the pair near a three-month low.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-supported-despite-modest-us-dollar-rebound-202608201502",
-      "published": "2026-08-20T15:02:01+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
@@ -207,15 +207,6 @@
       "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
       "published": "2026-08-20T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Sustained break above 1.3650 may open 1.41 – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note that GBP/USD gains into the mid-1.36s are driven more by US Dollar (USD) weakness than intrinsic British Pound (GBP) strength, though United Kingdom (UK) survey data show improving manufacturing orders and pricing power.",
-      "link": "https://www.fxstreet.com/news/british-pound-sustained-break-above-13650-may-open-141-scotiabank-202608201459",
-      "published": "2026-08-20T14:59:38+00:00",
       "score": 1
     },
     {
@@ -282,6 +273,24 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ANNOUNCES MAJOR ECONOMIC CAMPAIGN AGAINST IRAN President Trump announced sweeping new economic measures aimed at further isolating Iran after saying Tehran failed to reach a deal. Trump warned that countries providing Iran with financial, commercial or logistical support could face U.S. economic consequences. He called for allies to join Washington in targeting oil smuggling, cash transfers, financial channels and front companies supporting Tehran.",
+      "summary": "<p>TRUMP ANNOUNCES MAJOR ECONOMIC CAMPAIGN AGAINST IRAN<br />\n<br />\nPresident Trump announced sweeping new economic measures aimed at further isolating Iran after saying Tehran failed to reach a deal.<br />\n<br />\nTrump warned that countries providing Iran with financial, commercial or logistical support could face U.S. economic consequences.<br />\n<br />\nHe called for allies to join Washington i",
+      "link": "https://nitter.net/DeItaone/status/2090213913598337351#m",
+      "published": "2026-08-19T23:06:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP: I AM ANNOUNCING MOST CRUSHING IRAN ECONOMIC OPERATION",
+      "summary": "<p>*TRUMP: I AM ANNOUNCING MOST CRUSHING IRAN ECONOMIC OPERATION</p>",
+      "link": "https://nitter.net/DeItaone/status/2090213563059036648#m",
+      "published": "2026-08-19T23:05:22+00:00",
+      "score": 1
+    },
+    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
@@ -300,6 +309,15 @@
       "score": 2
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21",
+      "summary": "<p>TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21</p>",
+      "link": "https://nitter.net/DeItaone/status/2090106461091135874#m",
+      "published": "2026-08-19T15:59:47+00:00",
+      "score": 1
+    },
+    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Getting my first 100k FTMO account",
@@ -315,6 +333,51 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Anyone know y it fly like crazyyyy</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Wooden_Culture5267\"> /u/Wooden_Culture5267 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_what_happen_to_gold/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_wha",
       "link": "https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_what_happen_to_gold/",
       "published": "2026-08-19T14:22:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE A Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office. Separately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power. The findings could add political pressure ahead of November’s midterm elections.",
+      "summary": "<p>POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE<br />\n<br />\nA Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office.<br />\n<br />\nSeparately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power.<br />\n<br />\nThe findings could add political pressure ahead o",
+      "link": "https://nitter.net/DeItaone/status/2090032203266654456#m",
+      "published": "2026-08-19T11:04:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
+      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
+      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
+      "published": "2026-08-18T20:06:07+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
+      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
+      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
+      "published": "2026-08-18T18:39:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
+      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
+      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
+      "published": "2026-08-18T16:50:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
+      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
+      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
+      "published": "2026-08-18T16:48:13+00:00",
       "score": 1
     },
     {
@@ -456,11 +519,6 @@
   "errors": [
     {
       "source": "Kobeissi Letter",
-      "type": "twitter",
-      "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
-    },
-    {
-      "source": "Walter Bloomberg",
       "type": "twitter",
       "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
     }
