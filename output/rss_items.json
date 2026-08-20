@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-20T11:04:19.538714+00:00",
-  "count": 45,
+  "updated_at": "2026-08-20T11:43:23.237701+00:00",
+  "count": 44,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Benefits from US Dollar weakness – DBS",
+      "summary": "Chang Wei Liang at DBS Group Research highlights that EUR/USD has rallied toward 1.17, with the Euro the main beneficiary of Dollar softness.",
+      "link": "https://www.fxstreet.com/news/euro-benefits-from-us-dollar-weakness-dbs-202608201140",
+      "published": "2026-08-20T11:40:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Downside risks grow as yields contained – MUFG",
+      "summary": "MUFG’s Derek Halpenny and Abdul-Ahad Lockhart highlight that the US Treasury’s unscheduled expansion of long-end buybacks triggered the largest daily US Dollar drop since March outside intervention episodes.",
+      "link": "https://www.fxstreet.com/news/us-dollar-downside-risks-grow-as-yields-contained-mufg-202608201128",
+      "published": "2026-08-20T11:28:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold pares gains, remaining close to recent highs, as Treasury buybacks weigh on US Dollar",
+      "summary": "Gold (XAU/USD) bulls take a breather on Thursday following the sharp rally on the previous day, triggered by a steep pullback in long-term US Treasury yields. At the time of writing, XAU/USD trades around $4,488, easing from an intraday high of $4,527, its highest level since June 2.",
+      "link": "https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116",
+      "published": "2026-08-20T11:16:10+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: Softer jobs data keeps RBA sidelined – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes AUD/USD is holding gains on broad US Dollar weakness despite a soft July Australian labor report. The economy unexpectedly lost jobs, with rising unemployment and falling hours worked pointing to weaker labor demand.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-softer-jobs-data-keeps-rba-sidelined-bbh-202608201112",
+      "published": "2026-08-20T11:12:49+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -93,15 +129,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: French 3 Yr OAT Yield Actual 3.17% (Forecast -, Previous 3.04%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729157/French-3-Yr-OAT-Yield-Actual-317-Forecast---Previous-304.aspx?xy=rss",
-      "published": "2026-08-20T08:59:23+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Dow Jones futures gain on Treasury bond buyback relief",
@@ -127,33 +154,6 @@
       "link": "https://www.fxstreet.com/news/federal-reserve-divided-hawks-shape-late-2026-hike-risks-societe-generale-202608200833",
       "published": "2026-08-20T08:33:48+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Treasury doubles long-dated bond buybacks: Why are yields rising again?",
-      "summary": "The US 10-year Treasury yield attempts to stabilize on Thursday, edging higher to 4.672% at the time of writing after hitting a low of 4.635% on Wednesday.",
-      "link": "https://www.fxstreet.com/news/us-treasury-doubles-long-dated-bond-buybacks-why-are-yields-rising-again-202608200832",
-      "published": "2026-08-20T08:32:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Upside capped as yields ease – MUFG",
-      "summary": "MUFG’s Lloyd Chan notes the US Dollar weakened after US Treasury Secretary Bessent announced a major expansion of long-dated Treasury buybacks, which pushed long-end yields lower.",
-      "link": "https://www.fxstreet.com/news/us-dollar-upside-capped-as-yields-ease-mufg-202608200824",
-      "published": "2026-08-20T08:24:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound gains as US Dollar softens on Treasury bond buybacks",
-      "summary": "GBP/USD extends its gains for the second successive day, trading around 1.3630 during the European hours on Thursday. The pair appreciates as the US Dollar (USD) faces challenges, driven by the decision of the US Treasury Department to stabilize domestic bond markets.",
-      "link": "https://www.fxstreet.com/news/british-pound-gains-as-us-dollar-softens-on-treasury-bond-buybacks-202608200818",
-      "published": "2026-08-20T08:18:30+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -185,11 +185,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee capitalizes on falling US bond yields",
-      "summary": "The Indian Rupee (INR) snaps three-day losing streak against the US Dollar (USD) on Thursday.",
+      "title": "Indian Rupee surrenders gains as higher Oil prices outweigh US Dollar weakness",
+      "summary": "The Indian Rupee (INR) surrenders a majority of its opening gains against the US Dollar (USD) on Thursday. The USD/INR pair rebounds to near 95.72 from its day's low of 95.59 as higher Oil prices limit the upside in the Indian currency.",
       "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-after-three-day-losing-streak-against-us-dollar-202608200502",
       "published": "2026-08-20T05:02:58+00:00",
-      "score": 2
+      "score": 1
     },
     {
       "source": "r/Forex",
@@ -199,15 +199,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vt9m1k/im_really_pissed_please_give_me_genuine_advice/",
       "published": "2026-08-20T04:42:46+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold bears seem hesitant as sustained USD selling offsets hawkish Fed and Iran risks",
-      "summary": "Gold (XAU/USD) maintains its offered tone below the $4,500 mark through the first half of the European session on Thursday. Wednesday's hawkish FOMC Minutes turn out to be a key factor undermining the bullion.",
-      "link": "https://www.fxstreet.com/news/gold-retreats-from-june-highs-as-hawkish-fomc-minutes-and-us-iran-tensions-support-usd-202608200354",
-      "published": "2026-08-20T03:54:54+00:00",
-      "score": 5
     },
     {
       "source": "Federal Reserve",
@@ -411,11 +402,6 @@
   "errors": [
     {
       "source": "Kobeissi Letter",
-      "type": "twitter",
-      "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
-    },
-    {
-      "source": "Walter Bloomberg",
       "type": "twitter",
       "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
     }
