@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-20T18:03:05.773455+00:00",
-  "count": 54,
+  "updated_at": "2026-08-20T18:59:38.114448+00:00",
+  "count": 50,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Dollar Index takes its floor from a Fed non-voter",
+      "summary": "The Dollar Index has spent Thursday building a floor just above 98.50 and defending it with everything the calendar had to offer, and the entire effort is worth roughly a tenth of a point.",
+      "link": "https://www.fxstreet.com/news/the-dollar-index-takes-its-floor-from-a-fed-non-voter-202608201844",
+      "published": "2026-08-20T18:44:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah: Softer Dollar offers limited relief – OCBC",
+      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong note that Indonesian Rupiah (IDR) should find some relief from a softer Dollar and lower long-end US yields, with BI keeping its policy rate at 5.75% and focusing on currency stability.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-softer-dollar-offers-limited-relief-ocbc-202608201843",
+      "published": "2026-08-20T18:43:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Upside risk stays in focus against US Dollar – UOB",
+      "summary": "United Overseas Bank’s Quek Ser Leang and Lee Sue Ann note that USD/SGD extended its overnight slide as the US Dollar (USD) sell-off pushed the pair back toward the 1.27 area.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-in-focus-against-us-dollar-uob-202608201833",
+      "published": "2026-08-20T18:33:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD tests 100-day SMA as rally extends",
+      "summary": "Silver price extended its gains on Thursday, up more than 1.70%, even as US yields recovered some ground and then resumed their rise following the US Treasury bond buyback announcement. The XAG/USD trades at $68.18 at the time of writing.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-tests-100-day-sma-as-rally-extends-202608201812",
+      "published": "2026-08-20T18:12:21+00:00",
+      "score": 4
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -138,60 +174,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Musalem: I recommended raising rates in July, but I won't offer a firm view on what I want the Fed to do at the September FOMC.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729803/Feds-Musalem-I-recommended-raising-rates-in-July-but-I-wont-offer-a-firm-view-on-what-I-want-the-Fed-to-do-at-the-September-FOMC.aspx?xy=rss",
-      "published": "2026-08-20T15:38:12+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Musalem: I want inflation down to 2% within 18 months.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729802/Feds-Musalem-I-want-inflation-down-to-2-within-18-months.aspx?xy=rss",
-      "published": "2026-08-20T15:37:23+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Musalem: When you have supply shocks, you have to look at core inflation.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729801/Feds-Musalem-When-you-have-supply-shocks-you-have-to-look-at-core-inflation.aspx?xy=rss",
-      "published": "2026-08-20T15:37:03+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Musalem: Forward guidance suggests a commitment, communicating a framework is different.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729800/Feds-Musalem-Forward-guidance-suggests-a-commitment-communicating-a-framework-is-different.aspx?xy=rss",
-      "published": "2026-08-20T15:36:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Musalem: There is no inflation pressure coming from the labor market.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729799/Feds-Musalem-There-is-no-inflation-pressure-coming-from-the-labor-market.aspx?xy=rss",
-      "published": "2026-08-20T15:36:39+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Musalem: Forward guidance is useful when rates are at zero.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729798/Feds-Musalem-Forward-guidance-is-useful-when-rates-are-at-zero.aspx?xy=rss",
-      "published": "2026-08-20T15:36:06+00:00",
-      "score": 2
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Bessent wants bigger bond buybacks, but markets barely blink",
@@ -237,15 +219,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swedish Krona: Riksbank keeps hikes on table – BNY",
-      "summary": "BNY Mellon’s Geoff Yu reports the Swedish Riksbank left its policy rate at 1.75%, judging the stance well balanced amid stronger growth and inflation but a softer labor market. Underlying inflation is near 2% and summer readings beat forecasts.",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-keeps-hikes-on-table-bny-202608201432",
-      "published": "2026-08-20T14:32:07+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Ending day",
@@ -253,15 +226,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vtl2m7/ending_day/",
       "published": "2026-08-20T14:28:20+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Bullish trend eyes upper 1.17s against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report that EUR/USD gains are being driven mainly by broad US Dollar (USD) weakness, with front-end spreads narrowing since late June and supporting Euro (EUR) fundamentals.",
-      "link": "https://www.fxstreet.com/news/euro-bullish-trend-eyes-upper-117s-against-us-dollar-scotiabank-202608201413",
-      "published": "2026-08-20T14:13:55+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
