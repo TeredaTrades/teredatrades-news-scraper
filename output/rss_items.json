@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-20T09:06:09.854921+00:00",
-  "count": 57,
+  "updated_at": "2026-08-20T09:50:57.537293+00:00",
+  "count": 48,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "summary": "Silver prices (XAG/USD) fell on Thursday, according to FXStreet data. Silver trades at $66.71 per troy ounce, down 0.42% from the $67.00 it cost on Wednesday.",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608200932",
+      "published": "2026-08-20T09:32:47+00:00",
+      "score": 3
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "XAUUSD BULLISH SETUP 20th august",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vtemem/xauusd_bullish_setup_20th_august/\"> <img alt=\"XAUUSD BULLISH SETUP 20th august\" src=\"https://preview.redd.it/1ny2m9jh1ikh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e249a151804c2171b8c8f096677ee524a6c571d1\" title=\"XAUUSD BULLISH SETUP 20th august\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Last trade hit SL ",
+      "link": "https://www.reddit.com/r/Forex/comments/1vtemem/xauusd_bullish_setup_20th_august/",
+      "published": "2026-08-20T09:31:06+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: AI, inflation risks and limited FX impact – MUFG",
+      "summary": "MUFG’s research team uses AI-driven textual analysis to judge the July FOMC minutes as slightly more hawkish, with broader support for a rate hike and concern over inflation expectations.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-ai-inflation-risks-and-limited-fx-impact-mufg-202608200925",
+      "published": "2026-08-20T09:25:37+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Policy-driven yield retreat – UBS",
+      "summary": "UBS' chief economist Paul Donovan notes that the United States (US) Treasury’s plan to at least double purchases of long-term US government bonds triggered a rally, pushing 10-year yields down to levels seen a week ago.",
+      "link": "https://www.fxstreet.com/news/us-dollar-policy-driven-yield-retreat-ubs-202608200916",
+      "published": "2026-08-20T09:16:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Upside bias targets 1.1725 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s Quek Ser Leang and Lee Sue Ann highlight that EUR/USD has broken to a three‑month high near 1.1680 as Dollar weakness and strong momentum underpin the pair.",
+      "link": "https://www.fxstreet.com/news/euro-upside-bias-targets-11725-against-us-dollar-uob-202608200905",
+      "published": "2026-08-20T09:05:59+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -147,60 +192,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Under pressure as yields capped – OCBC",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong say the Dollar has weakened to its lowest level since May as expanded Treasury buybacks pushed long-end US yields lower.",
-      "link": "https://www.fxstreet.com/news/us-dollar-under-pressure-as-yields-capped-ocbc-202608200738",
-      "published": "2026-08-20T07:38:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar advances on RBNZ hawkish outlook",
-      "summary": "NZD/USD extends its gains for the second successive day, trading around 0.5950 during the European hours on Thursday. The pair appreciates as the New Zealand Dollar (NZD) gains on expectations of another rate hike from the Reserve Bank of New Zealand (RBNZ) in September.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-advances-on-rbnz-hawkish-outlook-202608200735",
-      "published": "2026-08-20T07:35:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee: Hawkish RBI pause shifts rate outlook – Societe Generale",
-      "summary": "Societe Generale’s Kunal Kundu says the Reserve Bank of India's (RBI) August 2026 Monetary Policy Committee (MPC) minutes reveal a more hawkish inflation assessment than the policy statement suggested.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-hawkish-rbi-pause-shifts-rate-outlook-societe-generale-202608200728",
-      "published": "2026-08-20T07:28:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Upside risk hinges on 0.7150 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s Quek Ser Leang and Lee Sue Ann note AUD/USD retested recent highs near 0.7130 but momentum has not strengthened markedly.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-upside-risk-hinges-on-07150-against-us-dollar-uob-202608200719",
-      "published": "2026-08-20T07:19:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "98.75 support tested; US Dollar Index under pressure amid US debt buyback plan",
-      "summary": "The US Dollar (USD) took a beating on Wednesday after US Treasury Secretary Scott Bessent announced a plan to buy back long-term government debt to ease Bond yields.",
-      "link": "https://www.fxstreet.com/news/9875-support-tested-us-dollar-index-under-pressure-amid-us-debt-buyback-plan-202608200718",
-      "published": "2026-08-20T07:18:54+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Currency Strength Chart: Strongest: NZD, CAD, EUR, GBP, USD, AUD, GBP, CHF - Weakest",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729019/Currency-Strength-Chart-Strongest-NZD-CAD-EUR-GBP-USD-AUD-GBP-CHF---Weakest.aspx?xy=rss",
-      "published": "2026-08-20T07:00:55+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Made a small game called dailypips",
@@ -246,24 +237,6 @@
       "score": 5
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ANNOUNCES MAJOR ECONOMIC CAMPAIGN AGAINST IRAN President Trump announced sweeping new economic measures aimed at further isolating Iran after saying Tehran failed to reach a deal. Trump warned that countries providing Iran with financial, commercial or logistical support could face U.S. economic consequences. He called for allies to join Washington in targeting oil smuggling, cash transfers, financial channels and front companies supporting Tehran.",
-      "summary": "<p>TRUMP ANNOUNCES MAJOR ECONOMIC CAMPAIGN AGAINST IRAN<br />\n<br />\nPresident Trump announced sweeping new economic measures aimed at further isolating Iran after saying Tehran failed to reach a deal.<br />\n<br />\nTrump warned that countries providing Iran with financial, commercial or logistical support could face U.S. economic consequences.<br />\n<br />\nHe called for allies to join Washington i",
-      "link": "https://nitter.net/DeItaone/status/2090213913598337351#m",
-      "published": "2026-08-19T23:06:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP: I AM ANNOUNCING MOST CRUSHING IRAN ECONOMIC OPERATION",
-      "summary": "<p>*TRUMP: I AM ANNOUNCING MOST CRUSHING IRAN ECONOMIC OPERATION</p>",
-      "link": "https://nitter.net/DeItaone/status/2090213563059036648#m",
-      "published": "2026-08-19T23:05:22+00:00",
-      "score": 1
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
@@ -291,15 +264,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21",
-      "summary": "<p>TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21</p>",
-      "link": "https://nitter.net/DeItaone/status/2090106461091135874#m",
-      "published": "2026-08-19T15:59:47+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Getting my first 100k FTMO account",
@@ -318,57 +282,12 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE A Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office. Separately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power. The findings could add political pressure ahead of November’s midterm elections.",
-      "summary": "<p>POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE<br />\n<br />\nA Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office.<br />\n<br />\nSeparately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power.<br />\n<br />\nThe findings could add political pressure ahead o",
-      "link": "https://nitter.net/DeItaone/status/2090032203266654456#m",
-      "published": "2026-08-19T11:04:42+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gold Is Getting Interesting Around 4340–4350",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vsenx2/gold_is_getting_interesting_around_43404350/\"> <img alt=\"Gold Is Getting Interesting Around 4340–4350\" src=\"https://preview.redd.it/2ik0mcdr2akh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70236eea34a5ebd02cae92eb1be910efe4885696\" title=\"Gold Is Getting Interesting Around 4340–4350\" /> </a> </td><td> <!-- SC_OFF --><d",
       "link": "https://www.reddit.com/r/Forex/comments/1vsenx2/gold_is_getting_interesting_around_43404350/",
       "published": "2026-08-19T06:43:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
-      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
-      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
-      "published": "2026-08-18T20:06:07+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
-      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
-      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
-      "published": "2026-08-18T18:39:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
-      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
-      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
-      "published": "2026-08-18T16:50:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
-      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
-      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
-      "published": "2026-08-18T16:48:13+00:00",
       "score": 1
     },
     {
@@ -519,6 +438,11 @@
   "errors": [
     {
       "source": "Kobeissi Letter",
+      "type": "twitter",
+      "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
+    },
+    {
+      "source": "Walter Bloomberg",
       "type": "twitter",
       "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
     }
