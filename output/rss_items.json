@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-20T20:47:17.302462+00:00",
-  "count": 50,
+  "updated_at": "2026-08-20T21:30:08.512732+00:00",
+  "count": 52,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen slips as firmer yields lift US Dollar ahead of global PMIs",
+      "summary": "USD/JPY trades north of the 159.00 barrier at the time of writing on Thursday, higher on the day and clawing back most of the previous session's losses. The move owes more to a steadier US Dollar (USD) than to anything out of Japan, with the Greenback recovering after slipping to a three-month low.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-firmer-yields-lift-us-dollar-ahead-of-global-pmis-202608202118",
+      "published": "2026-08-20T21:18:26+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: White House: Trump signs directive to support U.S. space launches",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730132/White-House-Trump-signs-directive-to-support-US-space-launches.aspx?xy=rss",
+      "published": "2026-08-20T21:00:46+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -15,7 +33,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Mexican Peso holds firm as Banxico minutes supports the Peso",
-      "summary": "The Mexican Peso holds firm versus the Greenback as Banxico adopted a cautious stance regarding monetary policy, while jobs data in the US revealed that the labour market is stable. The USD/MXN pair exchanges hands at 16.95, virtually unchanged.",
+      "summary": "The Mexican Peso (MXN) holds firm versus the US Dollar (USD) on Thursday as the Bank of Mexico (Banxico) adopted a cautious stance regarding monetary policy, while jobs data in the US showed that the labor market is stable.",
       "link": "https://www.fxstreet.com/news/mexican-peso-holds-firm-as-banxico-minutes-supports-the-peso-202608202014",
       "published": "2026-08-20T20:14:02+00:00",
       "score": 2
@@ -457,7 +475,7 @@
     {
       "source": "Kobeissi Letter",
       "type": "twitter",
-      "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
+      "error": "failed to parse feed (text/html;charset=utf-8 is not an XML media type)"
     }
   ]
 }
