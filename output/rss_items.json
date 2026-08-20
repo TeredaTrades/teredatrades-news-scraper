@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-20T11:43:23.237701+00:00",
-  "count": 44,
+  "updated_at": "2026-08-20T12:15:17.934093+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Treasury buybacks raise fiscal questions – BBH",
+      "summary": "Brown Brothers Harriman (BBH) notes that US long-term Treasury yields have retraced most of their decline following the Treasury’s expanded buyback announcement, while the US Dollar (USD) remains under pressure.",
+      "link": "https://www.fxstreet.com/news/us-dollar-treasury-buybacks-raise-fiscal-questions-bbh-202608201211",
+      "published": "2026-08-20T12:11:55+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen trims gains as downbeat foreign trade data offsets US Dollar’s weakness",
+      "summary": "The Japanese Yen (JPY) shows a moderate pullback on Friday, despite the broad-based US Dollar (USD) weakness, following the US Treasury’s plan to double buybacks of long-term Government debt.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-trims-gains-as-downbeat-foreign-trade-data-offsets-us-dollars-weakness-202608201154",
+      "published": "2026-08-20T11:54:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver gives back some gains as US yields rebound",
+      "summary": "Silver (XAG/USD) declines 0.44% on Thursday and trades around $66.70 at the time of writing, giving back part of Wednesday’s gains.",
+      "link": "https://www.fxstreet.com/news/silver-gives-back-some-gains-as-us-yields-rebound-202608201144",
+      "published": "2026-08-20T11:44:25+00:00",
+      "score": 4
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -118,42 +145,6 @@
       "link": "https://www.fxstreet.com/news/euro-upside-bias-targets-11725-against-us-dollar-uob-202608200905",
       "published": "2026-08-20T09:05:59+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: French 8 Yr OAT Yield Actual 3.88% (Forecast -, Previous 3.45%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729160/French-8-Yr-OAT-Yield-Actual-388-Forecast---Previous-345.aspx?xy=rss",
-      "published": "2026-08-20T08:59:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones futures gain on Treasury bond buyback relief",
-      "summary": "Dow Jones futures inch lose 0.11% to trade around 53,470 during European hours on Thursday. Meanwhile, S&amp;P 500 futures remain inching lower by 0.06%, trading near 7,720, and Nasdaq 100 futures remain steady around 29,520.",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-gain-on-treasury-bond-buyback-relief-202608200850",
-      "published": "2026-08-20T08:50:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee: RBI seen comfortably on hold – Commerzbank",
-      "summary": "Commerzbank’s Dr. Henry Hao and Moses Lim note India’s economy remains supported by strong domestic demand and exports, with growth projected at 6.7% in fiscal 2026-2027 versus 8% previously. Inflation is forecast at 5%, within the RBI’s 2-6% band, allowing policy to stay on hold at 5.25%.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-seen-comfortably-on-hold-commerzbank-202608200846",
-      "published": "2026-08-20T08:46:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: Divided hawks shape late-2026 hike risks – Societe Generale",
-      "summary": "Societe Generale’s Jan Groen highlights a divided Federal Reserve, with a larger ‘keep-on-hold’ camp waiting for core PCE inflation data in 2H 2026 before backing rate hikes.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-divided-hawks-shape-late-2026-hike-risks-societe-generale-202608200833",
-      "published": "2026-08-20T08:33:48+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
