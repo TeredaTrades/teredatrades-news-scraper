@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-20T14:09:57.020833+00:00",
-  "count": 52,
+  "updated_at": "2026-08-20T14:55:35.306441+00:00",
+  "count": 46,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swedish Krona: Riksbank keeps hikes on table – BNY",
+      "summary": "BNY Mellon’s Geoff Yu reports the Swedish Riksbank left its policy rate at 1.75%, judging the stance well balanced amid stronger growth and inflation but a softer labor market. Underlying inflation is near 2% and summer readings beat forecasts.",
+      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-keeps-hikes-on-table-bny-202608201432",
+      "published": "2026-08-20T14:32:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Ending day",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vtl2m7/ending_day/\"> <img alt=\"Ending day\" src=\"https://preview.redd.it/vmvh1aoiijkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a28d2bff47498675afccb6e1962884be2b149f48\" title=\"Ending day\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>XAU/USD,</p> <p>After yasterday highs gold Is moving crazy</p> <p>ending day on 40e+",
+      "link": "https://www.reddit.com/r/Forex/comments/1vtl2m7/ending_day/",
+      "published": "2026-08-20T14:28:20+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Bullish trend eyes upper 1.17s against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report that EUR/USD gains are being driven mainly by broad US Dollar (USD) weakness, with front-end spreads narrowing since late June and supporting Euro (EUR) fundamentals.",
+      "link": "https://www.fxstreet.com/news/euro-bullish-trend-eyes-upper-117s-against-us-dollar-scotiabank-202608201413",
+      "published": "2026-08-20T14:13:55+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -138,60 +165,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: Two softer prints didn't clear up inflation picture.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729522/Feds-Daly-Two-softer-prints-didnt-clear-up-inflation-picture.aspx?xy=rss",
-      "published": "2026-08-20T12:47:05+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: I am not seeing broad inflation spillover from AI buildout.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729505/Feds-Daly-I-am-not-seeing-broad-inflation-spillover-from-AI-buildout.aspx?xy=rss",
-      "published": "2026-08-20T12:45:29+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: I don't see any signs of labor market faltering.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729499/Feds-Daly-I-dont-see-any-signs-of-labor-market-faltering.aspx?xy=rss",
-      "published": "2026-08-20T12:44:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: job market is showing uncomfortable stability, don't see signs the job market is faltering",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729498/Feds-Daly-job-market-is-showing-uncomfortable-stability-dont-see-signs-the-job-market-is-faltering.aspx?xy=rss",
-      "published": "2026-08-20T12:44:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: Fed really has to focus on achieving its inflation target.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729497/Feds-Daly-Fed-really-has-to-focus-on-achieving-its-inflation-target.aspx?xy=rss",
-      "published": "2026-08-20T12:41:47+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: Fed will stick to its job regardless of Treasury action",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729496/Feds-Daly-Fed-will-stick-to-its-job-regardless-of-Treasury-action.aspx?xy=rss",
-      "published": "2026-08-20T12:41:42+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Gold: Rally faces questions as buybacks reshape yields – BNY",
@@ -212,26 +185,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US Dollar: Treasury buybacks raise fiscal questions – BBH",
-      "summary": "Brown Brothers Harriman (BBH) notes that US long-term Treasury yields have retraced most of their decline following the Treasury’s expanded buyback announcement, while the US Dollar (USD) remains under pressure.",
-      "link": "https://www.fxstreet.com/news/us-dollar-treasury-buybacks-raise-fiscal-questions-bbh-202608201211",
-      "published": "2026-08-20T12:11:55+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen trims gains as downbeat foreign trade data offsets US Dollar’s weakness",
-      "summary": "The Japanese Yen (JPY) shows a moderate pullback on Friday, despite the broad-based US Dollar (USD) weakness, following the US Treasury’s plan to double buybacks of long-term Government debt.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-trims-gains-as-downbeat-foreign-trade-data-offsets-us-dollars-weakness-202608201154",
-      "published": "2026-08-20T11:54:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Gold pares gains as US Treasury yields, Dollar recover",
-      "summary": "Gold (XAU/USD) remains on the back foot during American trading hours on Thursday as US Treasury yields rebound and the US Dollar stabilises following the previous day’s sharp pullback.",
+      "summary": "Gold (XAU/USD) remains on the back foot during American trading hours on Thursday as US Treasury yields rebound and the US Dollar stabilizes following the previous day’s sharp pullback.",
       "link": "https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116",
       "published": "2026-08-20T11:16:10+00:00",
       "score": 4
@@ -288,15 +243,6 @@
       "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
       "published": "2026-08-19T18:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "How to trade gold on forex",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vstqt5/how_to_trade_gold_on_forex/\"> <img alt=\"How to trade gold on forex\" src=\"https://preview.redd.it/pv1ycpwvddkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7793b245f893e8d204cc3b929f506ac0cf40c34a\" title=\"How to trade gold on forex\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Ik this a stupid post but. How the h",
-      "link": "https://www.reddit.com/r/Forex/comments/1vstqt5/how_to_trade_gold_on_forex/",
-      "published": "2026-08-19T17:51:40+00:00",
       "score": 1
     },
     {
