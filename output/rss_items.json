@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-20T19:38:15.220695+00:00",
-  "count": 57,
+  "updated_at": "2026-08-20T20:02:56.170605+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+      "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+      "published": "2026-08-20T20:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: WATCH LIVE: Trump Joins IndyCar and FOX Corporation to Expand Fostering the Future",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730066/WATCH-LIVE-Trump-Joins-IndyCar-and-FOX-Corporation-to-Expand-Fostering-the-Future.aspx?xy=rss",
+      "published": "2026-08-20T19:52:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia: We have no China-specific LPU product in roadmap. $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730065/Nvidia-We-have-no-China-specific-LPU-product-in-roadmap-NVDA.aspx?xy=rss",
+      "published": "2026-08-20T19:50:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: -361 mln<br />Nasdaq 100: +149 mln<br />Dow 30: +144 mln<br />Mag 7: -171 mln",
+      "link": "https://www.financialjuice.com/News/9730064/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-08-20T19:50:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia: The Information report on co.'s LPU is incorrect. $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730063/Nvidia-The-Information-report-on-cos-LPU-is-incorrect-NVDA.aspx?xy=rss",
+      "published": "2026-08-20T19:50:13+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -102,48 +147,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 30-Year TIPS High Yield Actual 2.973% (Forecast -, Previous 2.473%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729898/US-30-Year-TIPS-High-Yield-Actual-2973-Forecast---Previous-2473.aspx?xy=rss",
-      "published": "2026-08-20T17:04:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 30-Year TIPS Auction",
-      "summary": "<div><ul><li>High Yield 2.973% (Stopped through by 1.8 basis points)</li><li>Bid-to-cover 2.82</li><li>Sells $8 bln</li><li>Awards 67.82% of bids at high</li><li>Primary Dealers take 2.1%</li><li>Direct 13.4%</li><li>Indirect 84.4%</li></ul></div>",
-      "link": "https://www.financialjuice.com/News/9729897/US-30-Year-TIPS-Auction.aspx?xy=rss",
-      "published": "2026-08-20T17:02:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Google: Gemma surpasses 1b downloads. $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729892/Google-Gemma-surpasses-1b-downloads-GOOGL.aspx?xy=rss",
-      "published": "2026-08-20T17:02:09+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Australian Dollar holds near highs as mixed data keeps RBA tightening bets alive",
       "summary": "AUD/USD is trading in the 0.7100 neighborhood at the time of writing on Thursday, holding close to multi-week highs after a steady climb off its earlier lows. The pair is marginally weaker on the day as the US Dollar (USD) regains a little ground, but the broader uptrend remains intact.",
       "link": "https://www.fxstreet.com/news/australian-dollar-holds-near-highs-as-mixed-data-keeps-rba-tightening-bets-alive-202608201701",
       "published": "2026-08-20T17:01:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WI 30Y tips yield about 2.991% before the $8 billion auction.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729890/WI-30Y-tips-yield-about-2991-before-the-8-billion-auction.aspx?xy=rss",
-      "published": "2026-08-20T17:00:58+00:00",
       "score": 1
     },
     {
@@ -273,24 +282,6 @@
       "score": 1
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP ANNOUNCES MAJOR ECONOMIC CAMPAIGN AGAINST IRAN President Trump announced sweeping new economic measures aimed at further isolating Iran after saying Tehran failed to reach a deal. Trump warned that countries providing Iran with financial, commercial or logistical support could face U.S. economic consequences. He called for allies to join Washington in targeting oil smuggling, cash transfers, financial channels and front companies supporting Tehran.",
-      "summary": "<p>TRUMP ANNOUNCES MAJOR ECONOMIC CAMPAIGN AGAINST IRAN<br />\n<br />\nPresident Trump announced sweeping new economic measures aimed at further isolating Iran after saying Tehran failed to reach a deal.<br />\n<br />\nTrump warned that countries providing Iran with financial, commercial or logistical support could face U.S. economic consequences.<br />\n<br />\nHe called for allies to join Washington i",
-      "link": "https://nitter.net/DeItaone/status/2090213913598337351#m",
-      "published": "2026-08-19T23:06:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*TRUMP: I AM ANNOUNCING MOST CRUSHING IRAN ECONOMIC OPERATION",
-      "summary": "<p>*TRUMP: I AM ANNOUNCING MOST CRUSHING IRAN ECONOMIC OPERATION</p>",
-      "link": "https://nitter.net/DeItaone/status/2090213563059036648#m",
-      "published": "2026-08-19T23:05:22+00:00",
-      "score": 1
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
@@ -309,15 +300,6 @@
       "score": 2
     },
     {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21",
-      "summary": "<p>TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21</p>",
-      "link": "https://nitter.net/DeItaone/status/2090106461091135874#m",
-      "published": "2026-08-19T15:59:47+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Getting my first 100k FTMO account",
@@ -333,51 +315,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Anyone know y it fly like crazyyyy</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Wooden_Culture5267\"> /u/Wooden_Culture5267 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_what_happen_to_gold/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_wha",
       "link": "https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_what_happen_to_gold/",
       "published": "2026-08-19T14:22:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE A Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office. Separately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power. The findings could add political pressure ahead of November’s midterm elections.",
-      "summary": "<p>POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE<br />\n<br />\nA Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office.<br />\n<br />\nSeparately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power.<br />\n<br />\nThe findings could add political pressure ahead o",
-      "link": "https://nitter.net/DeItaone/status/2090032203266654456#m",
-      "published": "2026-08-19T11:04:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
-      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
-      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
-      "published": "2026-08-18T20:06:07+00:00",
-      "score": 3
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
-      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
-      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
-      "published": "2026-08-18T18:39:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
-      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
-      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
-      "published": "2026-08-18T16:50:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "Walter Bloomberg",
-      "category": "twitter",
-      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
-      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
-      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
-      "published": "2026-08-18T16:48:13+00:00",
       "score": 1
     },
     {
@@ -419,15 +356,6 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-      "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank &quot;insiders&quot;—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
-      "published": "2026-07-31T14:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
       "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
       "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
@@ -437,10 +365,10 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
-      "published": "2026-07-30T15:00:00+00:00",
+      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank &quot;insiders&quot;—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+      "published": "2026-07-31T14:00:00+00:00",
       "score": 1
     },
     {
@@ -449,6 +377,15 @@
       "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
       "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+      "published": "2026-07-30T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
       "published": "2026-07-30T15:00:00+00:00",
       "score": 1
     },
@@ -505,20 +442,16 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
       "published": "2026-07-07T19:00:00+00:00",
       "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with Small Business Bank and announces termination enforcement actions with BNP Paribas S.A., BNP Paribas USA, Inc., BNP Paribas Securities Corp., and Community Bankshares, Inc.",
-      "summary": "Federal Reserve Board issues enforcement action with Small Business Bank and announces termination enforcement actions with BNP Paribas S.A., BNP Paribas USA, Inc., BNP Paribas Securities Corp., and Community Bankshares, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm",
-      "published": "2026-07-02T15:00:00+00:00",
-      "score": 1
     }
   ],
   "errors": [
     {
       "source": "Kobeissi Letter",
+      "type": "twitter",
+      "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
+    },
+    {
+      "source": "Walter Bloomberg",
       "type": "twitter",
       "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
     }
