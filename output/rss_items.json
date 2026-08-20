@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-20T22:33:01.525836+00:00",
+  "updated_at": "2026-08-20T23:03:04.705557+00:00",
   "count": 51,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australia's S&P Global Manufacturing PMI steadies at 52.0 in August",
+      "summary": "The preliminary reading of Australia's S&amp;P Global Manufacturing Purchasing Managers Index (PMI) came in at 52.0 in August versus 52.0 prior, the latest data published by S&amp;P Global showed on Friday.",
+      "link": "https://www.fxstreet.com/news/australias-sp-global-manufacturing-pmi-steadies-at-520-in-august-202608202302",
+      "published": "2026-08-20T23:02:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australia S&P Global August flash composite PMI at 52.5 vs 53.2 in July",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730233/Australia-SP-Global-August-flash-composite-PMI-at-525-vs-532-in-July.aspx?xy=rss",
+      "published": "2026-08-20T23:00:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Japanese Yen is the reason for its own hike",
+      "summary": "USD/JPY trades near 159.00 late in the session, 0.5% higher on the day and a little over a point clear of a rising 200-day Exponential Moving Average (EMA) near 158.00.",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-is-the-reason-for-its-own-hike-202608202246",
+      "published": "2026-08-20T22:46:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The British Pound is buying an energy bill, not inflation",
+      "summary": "GBP/USD trades just beneath 1.3650 late in the session, 0.2% higher on the day and at its highest level in more than four months.",
+      "link": "https://www.fxstreet.com/news/the-british-pound-is-buying-an-energy-bill-not-inflation-202608202245",
+      "published": "2026-08-20T22:45:03+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -90,15 +126,6 @@
       "summary": "",
       "link": "https://www.financialjuice.com/News/9730063/Nvidia-The-Information-report-on-cos-LPU-is-incorrect-NVDA.aspx?xy=rss",
       "published": "2026-08-20T19:50:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Friday FX Options Expiries",
-      "summary": "<ul><li><strong>EUR/USD:</strong> 1.1500 (EU7.32b), 1.2500 (EU1.81b), 1.2000 (EU1.77b)</li><li><strong>USD/JPY: </strong>152.50 ($1.3b), 155.50 ($1b), 159.00 ($946.5m)</li><li><strong>AUD/USD:</strong> 0.7100 (AUD531.4m), 0.6900 (AUD482.9m), 0.6920 (AUD320m)</li><li><strong>USD/CAD: </strong>1.4100 ($635.9m), 1.3900 ($612.6m), 1.4115 ($595.5m)</li><li><strong>USD/BRL:</strong> 5.1500 ($396.3m), 5.",
-      "link": "https://www.financialjuice.com/News/9730040/Friday-FX-Options-Expiries-.aspx?xy=rss",
-      "published": "2026-08-20T19:22:41+00:00",
       "score": 1
     },
     {
@@ -201,24 +228,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound climbs as UK inflation keeps BoE hike bets alive",
-      "summary": "The Pound Sterling (GBP) advances on Thursday during the North American session, up 0.25% after US economic data showed that the labor market remains solid, despite a weaker Nonfarm Payrolls in July.",
-      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-uk-inflation-keeps-boe-hike-bets-alive-202608201558",
-      "published": "2026-08-20T15:58:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed's Musalem: Hiking rates now could save more aggressive action later",
-      "summary": "Federal Reserve Bank of St. Louis President Alberto Musalem is crossing the wires with remarks on the economy and the monetary policy outlook, speaking in an interview with CNBC on Thursday.",
-      "link": "https://www.fxstreet.com/news/feds-musalem-hiking-rates-now-could-save-more-aggressive-action-later-202608201552",
-      "published": "2026-08-20T15:52:51+00:00",
-      "score": 2
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
@@ -244,15 +253,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vtl2m7/ending_day/",
       "published": "2026-08-20T14:28:20+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold reclaims $4,500 despite rebound in US Treasury yields and US Dollar",
-      "summary": "Gold (XAU/USD) trims its earlier intraday losses during American trading hours on Thursday and climbs back above the $4,500 mark, even as US Treasury yields rebound and the US Dollar (USD) stabilizes following the previous day’s sharp pullback.",
-      "link": "https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116",
-      "published": "2026-08-20T11:16:10+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
@@ -465,6 +465,11 @@
   "errors": [
     {
       "source": "Kobeissi Letter",
+      "type": "twitter",
+      "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
+    },
+    {
+      "source": "Walter Bloomberg",
       "type": "twitter",
       "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
     }
