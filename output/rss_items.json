@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-08-20T13:27:30.404669+00:00",
-  "count": 55,
+  "updated_at": "2026-08-20T14:09:57.020833+00:00",
+  "count": 52,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah: BI pause keeps tightening risk alive – Commerzbank",
+      "summary": "Commerzbank’s Moses Lim highlights that Bank Indonesia left the BI Rate at 5.75%, balancing inflation, growth and IDR stability after earlier hikes. BI has expanded hedging incentives and CNY clearing to support inflows and FX stability, while keeping SRBI yields from rising further.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-pause-keeps-tightening-risk-alive-commerzbank-202608201400",
+      "published": "2026-08-20T14:00:26+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google Threat Intelligence Group is tracking three distinct suspected Russian cyber espionage threat clusters - Blog. $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9729611/Google-Threat-Intelligence-Group-is-tracking-three-distinct-suspected-Russian-cyber-espionage-threat-clusters---Blog-GOOGL.aspx?xy=rss",
+      "published": "2026-08-20T13:59:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Higher range holds but next leg delayed – TD Securities",
+      "summary": "Ryan McKay and Bart Melek at TD Securities say Gold and broader precious metals are likely to remain comfortable in a higher trading range.",
+      "link": "https://www.fxstreet.com/news/gold-higher-range-holds-but-next-leg-delayed-td-securities-202608201345",
+      "published": "2026-08-20T13:45:54+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Upside focus into 1.35–1.37 against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight that USD/CAD is under pressure as broad US Dollar (USD) weakness combines with tentative progress on a US-Canada trade deal.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-upside-focus-into-135-137-against-us-dollar-scotiabank-202608201330",
+      "published": "2026-08-20T13:30:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: -214 mln<br />Nasdaq 100: +13 mln<br />Dow 30: -43 mln<br />Mag 7: +1 mln",
+      "link": "https://www.financialjuice.com/News/9729580/MOO-Imbalance.aspx?xy=rss",
+      "published": "2026-08-20T13:30:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro eases from three-month high as US Dollar stabilises, Jobless Claims beat expectations",
+      "summary": "EUR/USD trims part of its earlier gains on Thursday as the US Dollar (USD) stabilises following the previous day’s sharp selloff. At the time of writing, the pair trades around 1.1686 after touching an intraday high of 1.1710, its highest level since May 14.",
+      "link": "https://www.fxstreet.com/news/euro-eases-from-three-month-high-as-us-dollar-stabilises-jobless-claims-beat-expectations-202608201327",
+      "published": "2026-08-20T13:27:55+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -25,7 +79,7 @@
       "category": "news",
       "title": "FinancialJuice: Treasury proposes eligible investments for Trump accounts.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9729550/Treasury-proposes-eligible-investments-for-Trump-accounts.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9729550/Treasury-proposes-eligible-investments-for-Trump-accounts.aspx?xy=rss",
       "published": "2026-08-20T13:02:19+00:00",
       "score": 1
     },
@@ -43,7 +97,7 @@
       "category": "news",
       "title": "FinancialJuice: Effective Fed Funds rate 3.63% August 19th vs 3.63% August 18th",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9729528/Effective-Fed-Funds-rate-363-August-19th-vs-363-August-18th.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9729528/Effective-Fed-Funds-rate-363-August-19th-vs-363-August-18th.aspx?xy=rss",
       "published": "2026-08-20T13:00:07+00:00",
       "score": 1
     },
@@ -70,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Daly: Labor market stable, my attention is on inflation.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9729524/Feds-Daly-Labor-market-stable-my-attention-is-on-inflation.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9729524/Feds-Daly-Labor-market-stable-my-attention-is-on-inflation.aspx?xy=rss",
       "published": "2026-08-20T12:48:01+00:00",
       "score": 2
     },
@@ -79,7 +133,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Daly: The Fed is missing its inflation goal by quite a bit",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9729523/Feds-Daly-The-Fed-is-missing-its-inflation-goal-by-quite-a-bit.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9729523/Feds-Daly-The-Fed-is-missing-its-inflation-goal-by-quite-a-bit.aspx?xy=rss",
       "published": "2026-08-20T12:47:46+00:00",
       "score": 2
     },
@@ -88,7 +142,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Daly: Two softer prints didn't clear up inflation picture.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9729522/Feds-Daly-Two-softer-prints-didnt-clear-up-inflation-picture.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9729522/Feds-Daly-Two-softer-prints-didnt-clear-up-inflation-picture.aspx?xy=rss",
       "published": "2026-08-20T12:47:05+00:00",
       "score": 2
     },
@@ -97,7 +151,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Daly: I am not seeing broad inflation spillover from AI buildout.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9729505/Feds-Daly-I-am-not-seeing-broad-inflation-spillover-from-AI-buildout.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9729505/Feds-Daly-I-am-not-seeing-broad-inflation-spillover-from-AI-buildout.aspx?xy=rss",
       "published": "2026-08-20T12:45:29+00:00",
       "score": 2
     },
@@ -106,7 +160,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Daly: I don't see any signs of labor market faltering.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9729499/Feds-Daly-I-dont-see-any-signs-of-labor-market-faltering.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9729499/Feds-Daly-I-dont-see-any-signs-of-labor-market-faltering.aspx?xy=rss",
       "published": "2026-08-20T12:44:45+00:00",
       "score": 1
     },
@@ -115,7 +169,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Daly: job market is showing uncomfortable stability, don't see signs the job market is faltering",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9729498/Feds-Daly-job-market-is-showing-uncomfortable-stability-dont-see-signs-the-job-market-is-faltering.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9729498/Feds-Daly-job-market-is-showing-uncomfortable-stability-dont-see-signs-the-job-market-is-faltering.aspx?xy=rss",
       "published": "2026-08-20T12:44:37+00:00",
       "score": 1
     },
@@ -124,7 +178,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Daly: Fed really has to focus on achieving its inflation target.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9729497/Feds-Daly-Fed-really-has-to-focus-on-achieving-its-inflation-target.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9729497/Feds-Daly-Fed-really-has-to-focus-on-achieving-its-inflation-target.aspx?xy=rss",
       "published": "2026-08-20T12:41:47+00:00",
       "score": 2
     },
@@ -133,7 +187,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Daly: Fed will stick to its job regardless of Treasury action",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9729496/Feds-Daly-Fed-will-stick-to-its-job-regardless-of-Treasury-action.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9729496/Feds-Daly-Fed-will-stick-to-its-job-regardless-of-Treasury-action.aspx?xy=rss",
       "published": "2026-08-20T12:41:42+00:00",
       "score": 1
     },
@@ -145,42 +199,6 @@
       "link": "https://www.fxstreet.com/news/gold-rally-faces-questions-as-buybacks-reshape-yields-bny-202608201240",
       "published": "2026-08-20T12:40:12+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: The Fed will find a way to achieve its policy goals.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729495/Feds-Daly-The-Fed-will-find-a-way-to-achieve-its-policy-goals.aspx?xy=1",
-      "published": "2026-08-20T12:40:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: Early days to discuss treasury issuance patterns",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729494/Feds-Daly-Early-days-to-discuss-treasury-issuance-patterns.aspx?xy=1",
-      "published": "2026-08-20T12:39:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING: “Bessent Put” Supports Risk Assets and Weighs on the Dollar - FJElite",
-      "summary": "<div>The US Treasury’s decision to increase long-end buybacks has been welcomed as a sign that officials are becoming more willing to lean against disorderly rises in longer-dated yields. The move does not solve the underlying fiscal problem, but it reduces one of the main threats to risk assets and has helped pull long yields lower, lift equities and weaken the dollar, particularly against higher",
-      "link": "https://www.financialjuice.com/News/9729493/ING-Bessent-Put-Supports-Risk-Assets-and-Weighs-on-the-Dollar---FJElite.aspx?xy=1",
-      "published": "2026-08-20T12:38:07+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Daly: I don't see the job market contributing to inflation right now",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729492/Feds-Daly-I-dont-see-the-job-market-contributing-to-inflation-right-now.aspx?xy=1",
-      "published": "2026-08-20T12:37:56+00:00",
-      "score": 2
     },
     {
       "source": "FXStreet",
@@ -212,35 +230,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Silver gives back some gains as US yields rebound",
-      "summary": "Silver (XAG/USD) declines 0.44% on Thursday and trades around $66.70 at the time of writing, giving back part of Wednesday’s gains.",
-      "link": "https://www.fxstreet.com/news/silver-gives-back-some-gains-as-us-yields-rebound-202608201144",
-      "published": "2026-08-20T11:44:25+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Benefits from US Dollar weakness – DBS",
-      "summary": "Chang Wei Liang at DBS Group Research highlights that EUR/USD has rallied toward 1.17, with the Euro the main beneficiary of Dollar softness.",
-      "link": "https://www.fxstreet.com/news/euro-benefits-from-us-dollar-weakness-dbs-202608201140",
-      "published": "2026-08-20T11:40:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Downside risks grow as yields contained – MUFG",
-      "summary": "MUFG’s Derek Halpenny and Abdul-Ahad Lockhart highlight that the US Treasury’s unscheduled expansion of long-end buybacks triggered the largest daily US Dollar drop since March outside intervention episodes.",
-      "link": "https://www.fxstreet.com/news/us-dollar-downside-risks-grow-as-yields-contained-mufg-202608201128",
-      "published": "2026-08-20T11:28:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Gold pares gains as US Treasury yields, Dollar recover",
-      "summary": "Gold (XAU/USD) extends its intraday decline at the start of American trading hours on Thursday as US Treasury yields and the US Dollar stabilise following the previous day’s sharp pullback.",
+      "summary": "Gold (XAU/USD) remains on the back foot during American trading hours on Thursday as US Treasury yields rebound and the US Dollar stabilises following the previous day’s sharp pullback.",
       "link": "https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116",
       "published": "2026-08-20T11:16:10+00:00",
       "score": 4
@@ -279,15 +270,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vta7ju/gold_is_holding_an_interesting_zone_around/\"> <img alt=\"Gold Is Holding an Interesting Zone Around 4485–4495\" src=\"https://preview.redd.it/eq3ikv5prgkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e43dff1445246bfaba7334e189f1e8547a5792d5\" title=\"Gold Is Holding an Interesting Zone Around 4485–4495\" /> </a> </td><td> <!",
       "link": "https://www.reddit.com/r/Forex/comments/1vta7ju/gold_is_holding_an_interesting_zone_around/",
       "published": "2026-08-20T05:14:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee surrenders gains as higher Oil prices outweigh US Dollar weakness",
-      "summary": "The Indian Rupee (INR) surrenders a majority of its opening gains against the US Dollar (USD) on Thursday. The USD/INR pair rebounds to near 95.72 from its day's low of 95.59 as higher Oil prices limit the upside in the Indian currency.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-after-three-day-losing-streak-against-us-dollar-202608200502",
-      "published": "2026-08-20T05:02:58+00:00",
       "score": 1
     },
     {
@@ -342,15 +324,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Anyone know y it fly like crazyyyy</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Wooden_Culture5267\"> /u/Wooden_Culture5267 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_what_happen_to_gold/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_wha",
       "link": "https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_what_happen_to_gold/",
       "published": "2026-08-19T14:22:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gold Is Getting Interesting Around 4340–4350",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vsenx2/gold_is_getting_interesting_around_43404350/\"> <img alt=\"Gold Is Getting Interesting Around 4340–4350\" src=\"https://preview.redd.it/2ik0mcdr2akh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=70236eea34a5ebd02cae92eb1be910efe4885696\" title=\"Gold Is Getting Interesting Around 4340–4350\" /> </a> </td><td> <!-- SC_OFF --><d",
-      "link": "https://www.reddit.com/r/Forex/comments/1vsenx2/gold_is_getting_interesting_around_43404350/",
-      "published": "2026-08-19T06:43:59+00:00",
       "score": 1
     },
     {
@@ -501,11 +474,6 @@
   "errors": [
     {
       "source": "Kobeissi Letter",
-      "type": "twitter",
-      "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
-    },
-    {
-      "source": "Walter Bloomberg",
       "type": "twitter",
       "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
     }
