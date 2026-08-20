@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-08-20T15:36:48.393657+00:00",
-  "count": 56,
+  "updated_at": "2026-08-20T16:05:59.017234+00:00",
+  "count": 68,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound climbs as UK inflation keeps BoE hike bets alive",
+      "summary": "The Pound Sterling advances on Thursday during the North American session, up 0.25% after US economic data revealed that the labour market remains solid, despite a weaker Nonfarm Payrolls in July. The GBP/USD trades at 1.3639 after reaching a daily low of 1.3594.",
+      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-uk-inflation-keeps-boe-hike-bets-alive-202608201558",
+      "published": "2026-08-20T15:58:58+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed's Musalem: Hiking rates now could save more aggressive action later",
+      "summary": "Federal Reserve Bank of St. Louis President Alberto Musalem is crossing the wires with remarks on the economy and the monetary policy outlook, speaking in an interview with CNBC on Thursday.",
+      "link": "https://www.fxstreet.com/news/feds-musalem-hiking-rates-now-could-save-more-aggressive-action-later-202608201552",
+      "published": "2026-08-20T15:52:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Debasement worries weigh after buyback – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the US Dollar (USD) is extending losses to its weakest level since mid-June as markets react to the US Treasury’s decision to double bond buybacks.",
+      "link": "https://www.fxstreet.com/news/us-dollar-debasement-worries-weigh-after-buyback-scotiabank-202608201552",
+      "published": "2026-08-20T15:52:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CHF Price Forecast: Attempts to reclaim 0.8000 after defending the 100-day SMA",
+      "summary": "USD/CHF regains ground on Thursday as the US Dollar (USD) stabilises following the previous day’s broad weakness, which pushed the pair below the 0.8000 psychological mark and to its lowest level since June 17, weakening the near-term bullish structure.",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-attempts-to-reclaim-08000-after-defending-the-100-day-sma-202608201540",
+      "published": "2026-08-20T15:40:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem concludes interview on CNBC.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9729804/Feds-Musalem-concludes-interview-on-CNBC.aspx?xy=rss",
+      "published": "2026-08-20T15:38:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem: I recommended raising rates in July, but I won't offer a firm view on what I want the Fed to do at the September FOMC.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9729803/Feds-Musalem-I-recommended-raising-rates-in-July-but-I-wont-offer-a-firm-view-on-what-I-want-the-Fed-to-do-at-the-September-FOMC.aspx?xy=rss",
+      "published": "2026-08-20T15:38:12+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem: I want inflation down to 2% within 18 months.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9729802/Feds-Musalem-I-want-inflation-down-to-2-within-18-months.aspx?xy=rss",
+      "published": "2026-08-20T15:37:23+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem: When you have supply shocks, you have to look at core inflation.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9729801/Feds-Musalem-When-you-have-supply-shocks-you-have-to-look-at-core-inflation.aspx?xy=rss",
+      "published": "2026-08-20T15:37:03+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem: Forward guidance suggests a commitment, communicating a framework is different.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9729800/Feds-Musalem-Forward-guidance-suggests-a-commitment-communicating-a-framework-is-different.aspx?xy=rss",
+      "published": "2026-08-20T15:36:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem: There is no inflation pressure coming from the labor market.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9729799/Feds-Musalem-There-is-no-inflation-pressure-coming-from-the-labor-market.aspx?xy=rss",
+      "published": "2026-08-20T15:36:39+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -108,33 +198,6 @@
       "summary": "",
       "link": "https://www.financialjuice.com/News/9729765/Feds-Musalem-Competition-for-capital-is-affecting-the-bond-market.aspx?xy=rss",
       "published": "2026-08-20T15:29:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Musalem: The Fed is focused on making monetary policy independent of fiscal policy.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729764/Feds-Musalem-The-Fed-is-focused-on-making-monetary-policy-independent-of-fiscal-policy.aspx?xy=rss",
-      "published": "2026-08-20T15:28:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Musalem: Fed credibility is not in question.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729762/Feds-Musalem-Fed-credibility-is-not-in-question.aspx?xy=rss",
-      "published": "2026-08-20T15:28:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Musalem: Strong growth and investment is influencing the bond market - CNBC.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9729761/Feds-Musalem-Strong-growth-and-investment-is-influencing-the-bond-market---CNBC.aspx?xy=rss",
-      "published": "2026-08-20T15:28:22+00:00",
       "score": 1
     },
     {
@@ -257,35 +320,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US Dollar: Consolidation after treasury buybacks – DBS",
-      "summary": "DBS Group Research strategist Chang Wei Liang notes ongoing Dollar weakness after the US Treasury unexpectedly doubled long-dated bond buybacks, pushing DXY below 99.",
-      "link": "https://www.fxstreet.com/news/us-dollar-consolidation-after-treasury-buybacks-dbs-202608201305",
-      "published": "2026-08-20T13:05:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed's Daly: Rise in long term yields is a global issue",
-      "summary": "In an interview with Bloomberg TV on Thursday, Federal Reserve (Fed) Bank of San Francisco President Mary Daly argued that the rise in long term Treasury bond yields is a global issue and added that she doesn't see the Fed's credibility at risk.",
-      "link": "https://www.fxstreet.com/news/feds-daly-rise-in-long-term-yields-is-a-global-issue-202608201300",
-      "published": "2026-08-20T13:00:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar retreats as weak jobs data weighs on RBA rate outlook",
-      "summary": "AUD/USD declines 0.22% on Thursday and trades around 0.7110 at the time of writing.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-retreats-as-weak-jobs-data-weighs-on-rba-rate-outlook-202608201254",
-      "published": "2026-08-20T12:54:02+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold pares gains as US Treasury yields, Dollar recover",
-      "summary": "Gold (XAU/USD) remains on the back foot during American trading hours on Thursday as US Treasury yields rebound and the US Dollar stabilizes following the previous day’s sharp pullback.",
+      "title": "Gold reclaims $4,500 despite rebound in US Treasury yields and US Dollar",
+      "summary": "Gold (XAU/USD) trims its earlier intraday losses during American trading hours on Thursday and climbs back above the $4,500 mark, even as US Treasury yields rebound and the US Dollar (USD) stabilizes following the previous day’s sharp pullback.",
       "link": "https://www.fxstreet.com/news/gold-pares-gains-remaining-close-to-recent-highs-as-treasury-buybacks-weigh-on-us-dollar-202608201116",
       "published": "2026-08-20T11:16:10+00:00",
       "score": 4
@@ -336,6 +372,24 @@
       "score": 1
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP ANNOUNCES MAJOR ECONOMIC CAMPAIGN AGAINST IRAN President Trump announced sweeping new economic measures aimed at further isolating Iran after saying Tehran failed to reach a deal. Trump warned that countries providing Iran with financial, commercial or logistical support could face U.S. economic consequences. He called for allies to join Washington in targeting oil smuggling, cash transfers, financial channels and front companies supporting Tehran.",
+      "summary": "<p>TRUMP ANNOUNCES MAJOR ECONOMIC CAMPAIGN AGAINST IRAN<br />\n<br />\nPresident Trump announced sweeping new economic measures aimed at further isolating Iran after saying Tehran failed to reach a deal.<br />\n<br />\nTrump warned that countries providing Iran with financial, commercial or logistical support could face U.S. economic consequences.<br />\n<br />\nHe called for allies to join Washington i",
+      "link": "https://nitter.net/DeItaone/status/2090213913598337351#m",
+      "published": "2026-08-19T23:06:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*TRUMP: I AM ANNOUNCING MOST CRUSHING IRAN ECONOMIC OPERATION",
+      "summary": "<p>*TRUMP: I AM ANNOUNCING MOST CRUSHING IRAN ECONOMIC OPERATION</p>",
+      "link": "https://nitter.net/DeItaone/status/2090213563059036648#m",
+      "published": "2026-08-19T23:05:22+00:00",
+      "score": 1
+    },
+    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
@@ -354,6 +408,15 @@
       "score": 2
     },
     {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21",
+      "summary": "<p>TRUMP: NEW WHITE HOUSE HELIPAD COULD OPEN BY SEPTEMBER 21</p>",
+      "link": "https://nitter.net/DeItaone/status/2090106461091135874#m",
+      "published": "2026-08-19T15:59:47+00:00",
+      "score": 1
+    },
+    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Getting my first 100k FTMO account",
@@ -369,6 +432,51 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Anyone know y it fly like crazyyyy</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Wooden_Culture5267\"> /u/Wooden_Culture5267 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_what_happen_to_gold/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_wha",
       "link": "https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_what_happen_to_gold/",
       "published": "2026-08-19T14:22:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE A Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office. Separately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power. The findings could add political pressure ahead of November’s midterm elections.",
+      "summary": "<p>POLL SHOWS 69% SEE TRUMP BUSINESS INFLUENCE<br />\n<br />\nA Reuters/Ipsos poll found 69% of Americans believe President Trump’s private business interests influence his decisions in office.<br />\n<br />\nSeparately, 63% said it was inappropriate for Trump and his family to profit from cryptocurrency ventures since his return to power.<br />\n<br />\nThe findings could add political pressure ahead o",
+      "link": "https://nitter.net/DeItaone/status/2090032203266654456#m",
+      "published": "2026-08-19T11:04:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "TECH SELLOFF HITS WALL STREET AS YIELDS SURGE Wall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks. The Nasdaq fell 1.3%, while the S&P 500 lost 0.7%. Semiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward healthcare, consumer staples and energy as defensive positioning increased.",
+      "summary": "<p>TECH SELLOFF HITS WALL STREET AS YIELDS SURGE<br />\n<br />\nWall Street closed lower as rising oil prices and Middle East tensions pushed Treasury yields sharply higher, pressuring technology stocks.<br />\n<br />\nThe Nasdaq fell 1.3%, while the S&amp;P 500 lost 0.7%.<br />\n<br />\nSemiconductors led declines as higher yields weighed on AI-related valuations. Meanwhile, investors rotated toward he",
+      "link": "https://nitter.net/DeItaone/status/2089806066959757422#m",
+      "published": "2026-08-18T20:06:07+00:00",
+      "score": 3
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY *TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY",
+      "summary": "<p>*US DOWNPLAYS CANADA TRADE DEAL HOPES TUESDAY<br />\n<br />\n*TRUMP, CARNEY EXPECTED TO SPEAK AGAIN TUESDAY</p>",
+      "link": "https://nitter.net/DeItaone/status/2089784363651096937#m",
+      "published": "2026-08-18T18:39:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS A Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive. For a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000. In an extreme one-week government default scenario, payments could rise by roughly $44,000. Americans now owe about $1.87 trillion in federal and private student debt.",
+      "summary": "<p>FEDERAL DEFICITS COULD DRIVE UP STUDENT LOAN COSTS<br />\n<br />\nA Conference Board study warns that rising U.S. deficits can push up interest rates and make student loans more expensive.<br />\n<br />\nFor a hypothetical student borrowing $75,000, lower deficits could reduce lifetime payments by about $14,000.<br />\n<br />\nIn an extreme one-week government default scenario, payments could rise by",
+      "link": "https://nitter.net/DeItaone/status/2089756926162952253#m",
+      "published": "2026-08-18T16:50:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "Walter Bloomberg",
+      "category": "twitter",
+      "title": "ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO Anthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO. The Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall. Anthropic’s annualized revenue run rate reportedly reached $65 billion in July, strengthening its case for a blockbuster Wall Street debut.",
+      "summary": "<p>ANTHROPIC LINES UP $10B+ CREDIT AHEAD OF IPO<br />\n<br />\nAnthropic’s revolving credit facility is set to exceed $10 billion as banks compete for roles in the AI giant’s highly anticipated IPO.<br />\n<br />\nThe Claude maker is reportedly working with Morgan Stanley, Goldman Sachs and JPMorgan on the listing, which could come as soon as this fall.<br />\n<br />\nAnthropic’s annualized revenue run ",
+      "link": "https://nitter.net/DeItaone/status/2089756261399093655#m",
+      "published": "2026-08-18T16:48:13+00:00",
       "score": 1
     },
     {
