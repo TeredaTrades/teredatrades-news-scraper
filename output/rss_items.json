@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-20T21:56:28.265650+00:00",
-  "count": 52,
+  "updated_at": "2026-08-20T22:33:01.525836+00:00",
+  "count": 51,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro fades below 1.1700 as US Dollar rebounds on yields",
+      "summary": "The Euro remains steady below 1.1700 after failing to hold gains above it, despite hitting a three-month high. Broad US Dollar strength kept EUR/USD from ending Thursday’s session above the 1.1700 mark, with the pair finishing at around familiar levels, unchanged from Thursday’s opening price.",
+      "link": "https://www.fxstreet.com/news/euro-fades-below-11700-as-us-dollar-rebounds-on-yields-202608202230",
+      "published": "2026-08-20T22:30:09+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -208,24 +217,6 @@
       "link": "https://www.fxstreet.com/news/feds-musalem-hiking-rates-now-could-save-more-aggressive-action-later-202608201552",
       "published": "2026-08-20T15:52:51+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Debasement worries weigh after buyback – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the US Dollar (USD) is extending losses to its weakest level since mid-June as markets react to the US Treasury’s decision to double bond buybacks.",
-      "link": "https://www.fxstreet.com/news/us-dollar-debasement-worries-weigh-after-buyback-scotiabank-202608201552",
-      "published": "2026-08-20T15:52:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CHF Price Forecast: Attempts to reclaim 0.8000 after defending the 100-day SMA",
-      "summary": "USD/CHF regains ground on Thursday as the US Dollar (USD) stabilises following the previous day’s broad weakness, which pushed the pair below the 0.8000 psychological mark and to its lowest level since June 17, weakening the near-term bullish structure.",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-attempts-to-reclaim-08000-after-defending-the-100-day-sma-202608201540",
-      "published": "2026-08-20T15:40:03+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
@@ -474,11 +465,6 @@
   "errors": [
     {
       "source": "Kobeissi Letter",
-      "type": "twitter",
-      "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
-    },
-    {
-      "source": "Walter Bloomberg",
       "type": "twitter",
       "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
     }
