@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-08-20T06:49:50.735706+00:00",
+  "updated_at": "2026-08-20T07:42:15.948678+00:00",
   "count": 46,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Under pressure as yields capped – OCBC",
+      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong say the Dollar has weakened to its lowest level since May as expanded Treasury buybacks pushed long-end US yields lower.",
+      "link": "https://www.fxstreet.com/news/us-dollar-under-pressure-as-yields-capped-ocbc-202608200738",
+      "published": "2026-08-20T07:38:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar advances on RBNZ hawkish outlook",
+      "summary": "NZD/USD extends its gains for the second successive day, trading around 0.5950 during the European hours on Thursday. The pair appreciates as the New Zealand Dollar (NZD) gains on expectations of another rate hike from the Reserve Bank of New Zealand (RBNZ) in September.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-advances-on-rbnz-hawkish-outlook-202608200735",
+      "published": "2026-08-20T07:35:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee: Hawkish RBI pause shifts rate outlook – Societe Generale",
+      "summary": "Societe Generale’s Kunal Kundu says the Reserve Bank of India's (RBI) August 2026 Monetary Policy Committee (MPC) minutes reveal a more hawkish inflation assessment than the policy statement suggested.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-hawkish-rbi-pause-shifts-rate-outlook-societe-generale-202608200728",
+      "published": "2026-08-20T07:28:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: Upside risk hinges on 0.7150 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s Quek Ser Leang and Lee Sue Ann note AUD/USD retested recent highs near 0.7130 but momentum has not strengthened markedly.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-upside-risk-hinges-on-07150-against-us-dollar-uob-202608200719",
+      "published": "2026-08-20T07:19:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "98.75 support tested; US Dollar Index under pressure amid US debt buyback plan",
+      "summary": "The US Dollar (USD) took a beating on Wednesday after US Treasury Secretary Scott Bessent announced a plan to buy back long-term government debt to ease Bond yields.",
+      "link": "https://www.fxstreet.com/news/9875-support-tested-us-dollar-index-under-pressure-amid-us-debt-buyback-plan-202608200718",
+      "published": "2026-08-20T07:18:54+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen underperforms amid rising trade concerns",
+      "summary": "The Japanese Yen (JPY) is down against its major currency peers on Thursday, with USD/JPY trading 0.22% higher at around 158.50 during the European trading session. The Japanese currency underperforms as the Trade Deficit widens due to elevated energy prices.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-underperforms-amid-rising-trade-concerns-202608200714",
+      "published": "2026-08-20T07:14:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Risk-on pattern with softer DXY – ING",
+      "summary": "ING’s Chris Turner notes that US Treasury buy-back operations and a drop in longer-dated yields have supported equities and weighed on the Dollar.",
+      "link": "https://www.fxstreet.com/news/us-dollar-risk-on-pattern-with-softer-dxy-ing-202608200710",
+      "published": "2026-08-20T07:10:42+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar holds early losses driven by weak job data",
+      "summary": "The Australian Dollar (AUD) remains under pressure against its major currency peers during the early European trading session on Thursday. As of writing, the antipodean is down 0.17% to near 0.7110 against the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-early-losses-driven-by-weak-job-data-202608200704",
+      "published": "2026-08-20T07:04:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar gains traction on fading Fed rate hike bets, US-Canada tariff pause",
+      "summary": "The USD/CAD pair declines to around 1.3790 during the early European trading hours on Thursday. The US Dollar (USD) weakens against the Canadian Dollar (CAD) as cooling US inflation dampens aggressive US Federal Reserve (Fed) policy expectations.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-traction-on-fading-fed-rate-hike-bets-us-canada-tariff-pause-202608200704",
+      "published": "2026-08-20T07:04:03+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Currency Strength Chart: Strongest: NZD, CAD, EUR, GBP, USD, AUD, GBP, CHF - Weakest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9729019/Currency-Strength-Chart-Strongest-NZD-CAD-EUR-GBP-USD-AUD-GBP-CHF---Weakest.aspx?xy=rss",
+      "published": "2026-08-20T07:00:55+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -84,15 +174,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah strengthens as BI to focus on currency stability",
-      "summary": "USD/IDR extends its losses for the second successive day, trading around 17,810 during the Asian hours on Thursday. The pair depreciates as the Indonesian Rupiah (IDR) finds solid backing from Bank Indonesia's (BI) renewed commitment to currency stability.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-strengthens-as-bi-to-focus-on-currency-stability-202608200531",
-      "published": "2026-08-20T05:31:09+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Gold Is Holding an Interesting Zone Around 4485–4495",
@@ -104,29 +185,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "GBP/USD Price Forecast: Strengthens above 1.3600 as bullish trend holds above 100-day SMA",
-      "summary": "The GBP/USD pair trades in positive territory around 1.3610 during the early European trading hours on Thursday.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-strengthens-above-13600-as-bullish-trend-holds-above-100-day-sma-202608200513",
-      "published": "2026-08-20T05:13:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc weakens ahead of Trade Balance data",
-      "summary": "USD/CHF gains ground after registering handsome losses in the previous day, trading around 0.8000 during the Asian hours on Thursday. The USD/CHF pair continues to hold its gains as the Swiss Franc (CHF) remains under pressure ahead of the upcoming domestic Trade Balance report.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-ahead-of-trade-balance-data-202608200510",
-      "published": "2026-08-20T05:10:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee rebounds after three-day losing streak against US Dollar",
+      "title": "Indian Rupee snaps three-day losing streak as US yields plummet",
       "summary": "The Indian Rupee (INR) snaps three-day losing streak against the US Dollar (USD) on Thursday.",
       "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-after-three-day-losing-streak-against-us-dollar-202608200502",
       "published": "2026-08-20T05:02:58+00:00",
-      "score": 1
+      "score": 2
     },
     {
       "source": "r/Forex",
@@ -140,74 +203,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro consolidates near late May highs as USD draws support from hawkish Fed, Iran risks",
-      "summary": "The EUR/USD pair enters a bullish consolidation phase after touching its highest level since late May during the Asian session on Thursday. Bulls now await a move beyond the 1.1700 mark before placing fresh bets and positioning for an extension of an over a three-week-old uptrend.",
-      "link": "https://www.fxstreet.com/news/euro-consolidates-near-late-may-highs-as-usd-draws-support-from-hawkish-fed-iran-risks-202608200442",
-      "published": "2026-08-20T04:42:45+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index weakens below 99.00 on Fed repricing, Treasury bond buybacks",
-      "summary": "The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 98.80 in the early European trading hours on Thursday.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-below-9900-on-fed-repricing-treasury-bond-buybacks-202608200437",
-      "published": "2026-08-20T04:37:40+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "summary": "Gold prices fell in India on Thursday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608200437",
-      "published": "2026-08-20T04:37:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar gains on higher oil prices, weaker US Dollar",
-      "summary": "USD/CAD extends its losses for the second successive day, trading around 1.3800 during the Asian hours on Thursday. The pair declines as the commodity-linked Canadian Dollar (CAD) receives support from improved oil prices.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-on-higher-oil-prices-weaker-us-dollar-202608200416",
-      "published": "2026-08-20T04:16:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Asian equities rally; KOSPI leads gains as US Treasury support counters Fed/Iran risks",
-      "summary": "Asian equities advanced on Thursday, with South Korea's KOSPI surging nearly 6% intraday amid a more than 5% jump in SK Hynix shares following the buyback announcement.",
-      "link": "https://www.fxstreet.com/news/asian-equities-rally-kospi-leads-gains-as-us-treasury-support-counters-fed-iran-risks-202608200357",
-      "published": "2026-08-20T03:57:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD refreshes two-month high as US doubles bond buyback plan",
-      "summary": "Silver price (XAG/USD) posts a fresh two-month high at $67.33 in the Asian trading session on Thursday.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-refreshes-two-month-high-as-us-doubles-bond-buyback-plan-202608200356",
-      "published": "2026-08-20T03:56:31+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold sticks to losses below $4,500 as USD firms on hawkish FOMC minutes and Iran risks",
-      "summary": "Gold (XAU/USD) sticks to modest intraday losses through the Asian session and currently trades below the $4,500 mark, though it remains close to the highest level since early June, set earlier this Thursday.",
+      "title": "Gold remains depressed below $4,500 amid hawkish Fed; weak USD sentiment limits losses",
+      "summary": "Gold (XAU/USD) remains depressed below the $4,500 mark through the early European session, though it remains close to the highest level since early June, touched earlier this Thursday.",
       "link": "https://www.fxstreet.com/news/gold-retreats-from-june-highs-as-hawkish-fomc-minutes-and-us-iran-tensions-support-usd-202608200354",
       "published": "2026-08-20T03:54:54+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen struggles amid widening Trade Deficit, escalating import costs",
-      "summary": "USD/JPY appreciates after registering modest losses in the previous day, trading around 158.50 during the Asian hours on Thursday.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-amid-widening-trade-deficit-escalating-import-costs-202608200253",
-      "published": "2026-08-20T02:53:54+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
