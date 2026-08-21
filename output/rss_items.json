@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-21T04:02:20.888520+00:00",
-  "count": 48,
+  "updated_at": "2026-08-21T04:55:07.410050+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro sits near multi-month top vs weak USD as bulls await move beyond 1.1700 ahead of PMIs",
+      "summary": "The EUR/USD pair attracts some dip-buyers during the Asian session on Friday and climbs back closer to its highest level since May 14, set the previous day, with bulls now awaiting a move beyond the 1.1700 mark before placing fresh bets.",
+      "link": "https://www.fxstreet.com/news/euro-sits-near-multi-month-top-vs-weak-usd-as-bulls-await-move-beyond-11700-ahead-of-pmis-202608210439",
+      "published": "2026-08-21T04:39:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Friday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608210435",
+      "published": "2026-08-21T04:35:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: 20-day EMA remains key hurdle",
+      "summary": "The Japanese Yen (JPY) trades in a limited range at around 159.00 against the US Dollar (USD) during the Asian trading session on Friday. The pair consolidates, while both the JPY and the USD are underperforming against their other currency peers.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-20-day-ema-remains-key-hurdle-202608210408",
+      "published": "2026-08-21T04:08:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold advances to fresh high since June amid renewed USD selling, fading Fed hike bets",
+      "summary": "Gold (XAU/USD) hits a fresh high since early June, around the $4,544 region, during the Asian session on Friday and looks to build on the momentum above a technically significant 200-day Simple Moving Average (SMA).",
+      "link": "https://www.fxstreet.com/news/gold-advances-to-fresh-high-since-june-amid-renewed-usd-selling-fading-fed-hike-bets-202608210407",
+      "published": "2026-08-21T04:07:20+00:00",
+      "score": 4
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -145,51 +181,6 @@
       "link": "https://www.fxstreet.com/news/japans-national-cpi-climbs-20-yoy-in-july-core-cpi-rises-as-expected-202608202332",
       "published": "2026-08-20T23:32:02+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar weakens as US yields rebound, PMIs fail to impress",
-      "summary": "The Australian Dollar retreated against the Greenback on Thursday as US bond yields resumed their advance, despite the US Treasury's efforts to cap elevated yields following its announcement of a long-end bond buyback program. The AUD/USD trades at 0.7114, down 0.14%.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-as-us-yields-rebound-pmis-fail-to-impress-202608202315",
-      "published": "2026-08-20T23:15:34+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australia's S&P Global Manufacturing PMI steadies at 52.0 in August",
-      "summary": "The preliminary reading of Australia's S&amp;P Global Manufacturing Purchasing Managers Index (PMI) came in at 52.0 in August versus 52.0 prior, the latest data published by S&amp;P Global showed on Friday.",
-      "link": "https://www.fxstreet.com/news/australias-sp-global-manufacturing-pmi-steadies-at-520-in-august-202608202302",
-      "published": "2026-08-20T23:02:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Japanese Yen is the reason for its own hike",
-      "summary": "USD/JPY trades near 159.00 late in the session, 0.5% higher on the day and a little over a point clear of a rising 200-day Exponential Moving Average (EMA) near 158.00.",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-is-the-reason-for-its-own-hike-202608202246",
-      "published": "2026-08-20T22:46:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The British Pound is buying an energy bill, not inflation",
-      "summary": "GBP/USD trades just beneath 1.3650 late in the session, 0.2% higher on the day and at its highest level in more than four months.",
-      "link": "https://www.fxstreet.com/news/the-british-pound-is-buying-an-energy-bill-not-inflation-202608202245",
-      "published": "2026-08-20T22:45:03+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro fades below 1.1700 as US Dollar rebounds on yields",
-      "summary": "The Euro remains steady below 1.1700 after failing to hold gains above it, despite hitting a three-month high. Broad US Dollar strength kept EUR/USD from ending Thursday’s session above the 1.1700 mark, with the pair finishing at around familiar levels, unchanged from Thursday’s opening price.",
-      "link": "https://www.fxstreet.com/news/euro-fades-below-11700-as-us-dollar-rebounds-on-yields-202608202230",
-      "published": "2026-08-20T22:30:09+00:00",
-      "score": 2
     },
     {
       "source": "Federal Reserve",
