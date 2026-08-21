@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-21T17:47:38.814281+00:00",
-  "count": 42,
+  "updated_at": "2026-08-21T18:39:05.086488+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Moody's ratings affirms Microsoft's AAA rating. Outlook stable. $MSFT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9731699/Moodys-ratings-affirms-Microsofts-AAA-rating-Outlook-stable-MSFT.aspx?xy=rss",
+      "published": "2026-08-21T18:29:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore: inflation and production outlook – DBS",
+      "summary": "DBS economists Taimur Baig and Radhika Rao project Singapore’s headline and core inflation will rise in July to 2.4% and 2.3% year-on-year, respectively, driven by higher energy and food costs.",
+      "link": "https://www.fxstreet.com/news/singapore-inflation-and-production-outlook-dbs-202608211824",
+      "published": "2026-08-21T18:24:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG bulls test $70 as rally extends",
+      "summary": "Silver prices rally for the third straight day, up more than 2% and, for the week, gains over 7.40%, as a firm US Dollar is not an excuse for precious metals buyers, who are choosing flight-to-quality over haven demand due to the difficult US fiscal stance.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-bulls-test-70-as-rally-extends-202608211805",
+      "published": "2026-08-21T18:05:45+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold hits three-month peak above $4,600 as Middle East risks fuel rally",
+      "summary": "Gold price hits a three-month high and is poised to end the week with gains of over 5.6%, even though business activity in the services sector in the US was solid. Recent developments in the Middle East and a softer US Dollar underpin the yellow metal, which has surpassed the $4,600 threshold.",
+      "link": "https://www.fxstreet.com/news/gold-hits-three-month-peak-above-4-600-as-middle-east-risks-fuel-rally-202608211756",
+      "published": "2026-08-21T17:56:27+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Bulls test 1.1700 as RSI turns overbought",
+      "summary": "EUR/USD heads for a fourth consecutive weekly gain on Friday, although it has erased its earlier intraday advance. At the time of writing, the pair trades around 1.1682 after briefly rising above 1.1700, its highest level since May 14.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-bulls-test-11700-as-rsi-turns-overbought-202608211752",
+      "published": "2026-08-21T17:52:54+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -25,7 +70,7 @@
       "category": "news",
       "title": "FinancialJuice: Tesla is cleared for up to 5,000 autonomous vehicles in Nevada. $TSLA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731617/Tesla-is-cleared-for-up-to-5000-autonomous-vehicles-in-Nevada-TSLA.aspx",
+      "link": "https://www.financialjuice.com/News/9731617/Tesla-is-cleared-for-up-to-5000-autonomous-vehicles-in-Nevada-TSLA.aspx?xy=rss",
       "published": "2026-08-21T17:19:20+00:00",
       "score": 1
     },
@@ -43,7 +88,7 @@
       "category": "news",
       "title": "FinancialJuice: AI Cloud firm NScale is said to seek up to $3 billion in a US IPO.",
       "summary": "<ul><li>The London-based company is working with Goldman Sachs and JPMorgan on the potential IPO, which could occur as early as September.</li><li><div>According to people familiar with the matter, the company is building data centers in locations such as Norway and West Virginia and has told prospective investors that it has approximately $51 billion in total contracted revenue ahead of the listi",
-      "link": "https://www.financialjuice.com/News/9731555/AI-Cloud-firm-NScale-is-said-to-seek-up-to-3-billion-in-a-US-IPO.aspx",
+      "link": "https://www.financialjuice.com/News/9731555/AI-Cloud-firm-NScale-is-said-to-seek-up-to-3-billion-in-a-US-IPO.aspx?xy=rss",
       "published": "2026-08-21T16:42:08+00:00",
       "score": 1
     },
@@ -79,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: SNB's Tschudin: Artificial Intelligence can increase inflation in the short term..",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731463/SNBs-Tschudin-Artificial-Intelligence-can-increase-inflation-in-the-short-term.aspx",
+      "link": "https://www.financialjuice.com/News/9731463/SNBs-Tschudin-Artificial-Intelligence-can-increase-inflation-in-the-short-term.aspx?xy=rss",
       "published": "2026-08-21T15:05:38+00:00",
       "score": 1
     },
@@ -88,7 +133,7 @@
       "category": "news",
       "title": "FinancialJuice: SNB's Tschudin: Swiss inflation is low because of low inflation expectations, low weight of oil in the Swiss consumer basket.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731462/SNBs-Tschudin-Swiss-inflation-is-low-because-of-low-inflation-expectations-low-weight-of-oil-in-the-Swiss-consumer-basket.aspx",
+      "link": "https://www.financialjuice.com/News/9731462/SNBs-Tschudin-Swiss-inflation-is-low-because-of-low-inflation-expectations-low-weight-of-oil-in-the-Swiss-consumer-basket.aspx?xy=rss",
       "published": "2026-08-21T15:05:13+00:00",
       "score": 1
     },
@@ -97,44 +142,8 @@
       "category": "news",
       "title": "FinancialJuice: SNB's Tschudin: We don't publish interest rate forecasts; the current inflation forecast should not be taken to mean interest rates will remain at the current level for three years.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731461/SNBs-Tschudin-We-dont-publish-interest-rate-forecasts-the-current-inflation-forecast-should-not-be-taken-to-mean-interest-rates-will-remain-at-the-current-level-for-three-years.aspx",
+      "link": "https://www.financialjuice.com/News/9731461/SNBs-Tschudin-We-dont-publish-interest-rate-forecasts-the-current-inflation-forecast-should-not-be-taken-to-mean-interest-rates-will-remain-at-the-current-level-for-three-years.aspx?xy=rss",
       "published": "2026-08-21T15:04:54+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: SNB's Tschudin: The SNB would cut rates below 0% if inflation required it.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9731440/SNBs-Tschudin-The-SNB-would-cut-rates-below-0-if-inflation-required-it.aspx",
-      "published": "2026-08-21T15:00:43+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Jackson Hole volatility over credibility – TD Securities",
-      "summary": "TD Securities strategists argue that Kevin Warsh’s Jackson Hole speech will focus on structural themes such as productivity, AI-driven growth and Federal Reserve (Fed) regime change.",
-      "link": "https://www.fxstreet.com/news/us-dollar-jackson-hole-volatility-over-credibility-td-securities-202608211443",
-      "published": "2026-08-21T14:43:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: PMI strength supports against US Dollar – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports EUR/USD is firmer on broad US Dollar (USD) weakness and stronger-than-expected Eurozone August Purchasing Managers' Index (PMI) data. Elias Haddad highlights the composite PMI at a nine-month high, driven by manufacturing.",
-      "link": "https://www.fxstreet.com/news/euro-pmi-strength-supports-against-us-dollar-bbh-202608211428",
-      "published": "2026-08-21T14:28:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen strengthens against US Dollar as inflation backs BoJ rate hike bets",
-      "summary": "USD/JPY trades around 158.85 on Friday at the time of writing, edging lower after rebounding from the 158.00 level on Thursday.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-against-us-dollar-as-inflation-backs-boj-rate-hike-bets-202608211423",
-      "published": "2026-08-21T14:23:31+00:00",
       "score": 2
     },
     {
