@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-21T09:38:33.164709+00:00",
-  "count": 44,
+  "updated_at": "2026-08-21T10:12:17.984423+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Limited upside as fiscal plans questioned – MUFG",
+      "summary": "MUFG’s Derek Halpenny notes that the US Dollar has weakened as investors focus on potential US Treasury measures to stem the decline in Treasury yields, while Japanese inflation data supports expectations for a 25bp BoJ rate hike in September.",
+      "link": "https://www.fxstreet.com/news/us-dollar-limited-upside-as-fiscal-plans-questioned-mufg-202608211004",
+      "published": "2026-08-21T10:04:15+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "S&P Global US PMIs expected to ease slightly in August, still showing solid growth",
+      "summary": "S&amp;P Global will release the preliminary figures of August’s United States Purchasing Managers' Indices (PMIs), a report collecting top private sector executives' opinions about business conditions, to provide an early indication of momentum in the world’s largest economy.",
+      "link": "https://www.fxstreet.com/news/sp-global-us-pmis-expected-to-ease-slightly-in-august-still-showing-solid-growth-202608210945",
+      "published": "2026-08-21T09:45:00+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -117,15 +135,6 @@
       "summary": "The Euro (EUR) is trading a few pips below 1.1700 against a depressed US Dollar (USD) on Friday, on track for a more than 1% weekly rally, and with the three-month high of 1.1710 at a short distance.",
       "link": "https://www.fxstreet.com/news/euro-holds-near-three-month-highs-as-eurozone-flash-pmis-beat-expectations-202608210823",
       "published": "2026-08-21T08:23:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar stands firm near three-month high vs weak USD ahead of data",
-      "summary": "The USD/CAD pair remains under some selling pressure for the third consecutive day and trades near a three-month low, just above mid-1.3700s during the first half of the European session on Friday.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-stands-firm-near-three-month-high-vs-weak-usd-ahead-of-data-202608210802",
-      "published": "2026-08-21T08:02:48+00:00",
       "score": 1
     },
     {
