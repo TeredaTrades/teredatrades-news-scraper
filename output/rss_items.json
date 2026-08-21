@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-21T14:37:24.051335+00:00",
-  "count": 48,
+  "updated_at": "2026-08-21T15:14:58.075115+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SNB's Tschudin: Artificial Intelligence can increase inflation in the short term..",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9731463/SNBs-Tschudin-Artificial-Intelligence-can-increase-inflation-in-the-short-term.aspx",
+      "published": "2026-08-21T15:05:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SNB's Tschudin: Swiss inflation is low because of low inflation expectations, low weight of oil in the Swiss consumer basket.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9731462/SNBs-Tschudin-Swiss-inflation-is-low-because-of-low-inflation-expectations-low-weight-of-oil-in-the-Swiss-consumer-basket.aspx",
+      "published": "2026-08-21T15:05:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SNB's Tschudin: We don't publish interest rate forecasts; the current inflation forecast should not be taken to mean interest rates will remain at the current level for three years.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9731461/SNBs-Tschudin-We-dont-publish-interest-rate-forecasts-the-current-inflation-forecast-should-not-be-taken-to-mean-interest-rates-will-remain-at-the-current-level-for-three-years.aspx",
+      "published": "2026-08-21T15:04:54+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SNB's Tschudin: The SNB would cut rates below 0% if inflation required it.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9731440/SNBs-Tschudin-The-SNB-would-cut-rates-below-0-if-inflation-required-it.aspx",
+      "published": "2026-08-21T15:00:43+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Jackson Hole volatility over credibility – TD Securities",
+      "summary": "TD Securities strategists argue that Kevin Warsh’s Jackson Hole speech will focus on structural themes such as productivity, AI-driven growth and Federal Reserve (Fed) regime change.",
+      "link": "https://www.fxstreet.com/news/us-dollar-jackson-hole-volatility-over-credibility-td-securities-202608211443",
+      "published": "2026-08-21T14:43:09+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -52,7 +97,7 @@
       "category": "news",
       "title": "FinancialJuice: US S&P Composite PMI Flash  Actual 56 (Forecast 54, Previous 54.5)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731330/US-SP-Composite-PMI-Flash--Actual-56-Forecast-54-Previous-545.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9731330/US-SP-Composite-PMI-Flash--Actual-56-Forecast-54-Previous-545.aspx",
       "published": "2026-08-21T13:45:00+00:00",
       "score": 1
     },
@@ -61,7 +106,7 @@
       "category": "news",
       "title": "FinancialJuice: US S&P Services PMI Flash Actual 56.8 (Forecast 54, Previous 54.6)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731329/US-SP-Services-PMI-Flash-Actual-568-Forecast-54-Previous-546.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9731329/US-SP-Services-PMI-Flash-Actual-568-Forecast-54-Previous-546.aspx",
       "published": "2026-08-21T13:45:00+00:00",
       "score": 1
     },
@@ -70,7 +115,7 @@
       "category": "news",
       "title": "FinancialJuice: US S&P Manufacturing PMI Flash Actual 53.2 (Forecast 53.9, Previous 53.9)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731328/US-SP-Manufacturing-PMI-Flash-Actual-532-Forecast-539-Previous-539.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9731328/US-SP-Manufacturing-PMI-Flash-Actual-532-Forecast-539-Previous-539.aspx",
       "published": "2026-08-21T13:45:00+00:00",
       "score": 1
     },
@@ -88,7 +133,7 @@
       "category": "news",
       "title": "FinancialJuice: Cloverleaf Infrastructure forms a partnership with NVIDIA to deploy the NVIDIA DSX platform at AI sites $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731323/Cloverleaf-Infrastructure-forms-a-partnership-with-NVIDIA-to-deploy-the-NVIDIA-DSX-platform-at-AI-sites-NVDA.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9731323/Cloverleaf-Infrastructure-forms-a-partnership-with-NVIDIA-to-deploy-the-NVIDIA-DSX-platform-at-AI-sites-NVDA.aspx",
       "published": "2026-08-21T13:31:44+00:00",
       "score": 1
     },
@@ -97,7 +142,7 @@
       "category": "news",
       "title": "FinancialJuice: MOO Imbalance",
       "summary": "S&amp;P 500: +987 mln<br />Nasdaq 100: +213 mln<br />Dow 30: +378 mln<br />Mag 7: +174 mln",
-      "link": "https://www.financialjuice.com/News/9731322/MOO-Imbalance.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9731322/MOO-Imbalance.aspx",
       "published": "2026-08-21T13:30:36+00:00",
       "score": 1
     },
@@ -108,15 +153,6 @@
       "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note that the Canadian Dollar (CAD) continues to show strength against the US Dollar (USD).",
       "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-structure-points-to-135-handle-against-us-dollar-scotiabank-202608211325",
       "published": "2026-08-21T13:25:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Effective Fed Funds Rate: 3.63% August 20th vs 3.63% August 19th",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9731279/Effective-Fed-Funds-Rate-363-August-20th-vs-363-August-19th.aspx?xy=rss",
-      "published": "2026-08-21T12:59:52+00:00",
       "score": 1
     },
     {
@@ -138,57 +174,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Credit Agricole Japan Outlook: Weak Domestic Demand, but Investment Could Support a Structural Recovery - FJElite",
-      "summary": "<div>Domestic demand remains weak, with structural stagnation still visible in Japan’s unusually positive corporate savings rate. Higher oil prices, tighter monetary policy and a weaker global backdrop are weighing on households and purchasing power, while core inflation is expected to slow temporarily. A reduction in geopolitical risk and stronger public-private investment could eventually lift r",
-      "link": "https://www.financialjuice.com/News/9731265/Credit-Agricole-Japan-Outlook-Weak-Domestic-Demand-but-Investment-Could-Support-a-Structural-Recovery---FJElite.aspx?xy=rss",
-      "published": "2026-08-21T12:46:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBC: Midterm Years Have Historically Brought More Volatility - FJElite",
-      "summary": "<div>Looking back at the last two US midterm election years, the second half of both 2018 and 2022 was choppy, with the S&amp;P 500 peaking in early autumn, troughing in October, rebounding into November and weakening again in December. In both cases, Consumer Staples and Health Care outperformed during drawdowns, while Technology and Consumer Discretionary lagged. During rebounds, Financials, Ind",
-      "link": "https://www.financialjuice.com/News/9731261/RBC-Midterm-Years-Have-Historically-Brought-More-Volatility---FJElite.aspx?xy=rss",
-      "published": "2026-08-21T12:44:40+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs Refinery Outages Keep Runs Low Despite Near-Record Margins - FJElite",
-      "summary": "<div>Global refinery runs are down around 7mb/d year-on-year even as product margins remain near record highs, breaking the usual relationship between supply and margins. The main reason is severe capacity disruption: Middle Eastern and Russian refineries are operating at only around 60% of capacity after drone and missile attacks, leaving nearly 10mb/d of global refining capacity offline.</div><d",
-      "link": "https://www.financialjuice.com/News/9731260/Goldman-Sachs-Refinery-Outages-Keep-Runs-Low-Despite-Near-Record-Margins---FJElite.aspx?xy=rss",
-      "published": "2026-08-21T12:42:53+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Friday",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vuf5ku/friday/\"> <img alt=\"Friday\" src=\"https://preview.redd.it/sd4cc2hd3qkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df9d29384976efa33a8c4f489232a8f6d1987f86\" title=\"Friday\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>XAU/USD one of the best moves i catched this week</p> <p>Curently scaling small account. from 50",
       "link": "https://www.reddit.com/r/Forex/comments/1vuf5ku/friday/",
       "published": "2026-08-21T12:35:56+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Support test as Japan data firm – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad highlights USD/JPY testing key support at its 200-day moving average as Japanese data firm.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-support-test-as-japan-data-firm-bbh-202608211232",
-      "published": "2026-08-21T12:32:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Safe-haven bid on US debt worries – Commerzbank",
-      "summary": "Commerzbank’s Carsten Fritsch notes Gold has surged, breaking above USD 4,500 per troy ounce as safe‑haven demand rises on US debt concerns and a weaker Dollar.",
-      "link": "https://www.fxstreet.com/news/gold-safe-haven-bid-on-us-debt-worries-commerzbank-202608211214",
-      "published": "2026-08-21T12:14:30+00:00",
       "score": 2
     },
     {
