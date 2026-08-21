@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-21T17:12:01.787099+00:00",
-  "count": 41,
+  "updated_at": "2026-08-21T17:47:38.814281+00:00",
+  "count": 42,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Higher yields stop paying the Dollar Index",
+      "summary": "The Dollar Index trades just beneath 99.00 and unchanged on the session, with the entire day fitting inside 35 pips between the 98.50 area and a high that stopped a shade short of the handle.",
+      "link": "https://www.fxstreet.com/news/higher-yields-stop-paying-the-dollar-index-202608211733",
+      "published": "2026-08-21T17:33:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc struggles as US Dollar steadies, SNB keeps negative rates on table",
+      "summary": "USD/CHF holds firm on Friday as the US Dollar (USD) trims its intraday losses. At the time of writing, the pair trades around 0.8013 after slipping to 0.7949 on the previous day, its lowest level since June 17.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-struggles-as-us-dollar-steadies-snb-keeps-negative-rates-on-table-202608211726",
+      "published": "2026-08-21T17:26:39+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Tesla is cleared for up to 5,000 autonomous vehicles in Nevada. $TSLA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9731617/Tesla-is-cleared-for-up-to-5000-autonomous-vehicles-in-Nevada-TSLA.aspx",
+      "published": "2026-08-21T17:19:20+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -16,7 +43,7 @@
       "category": "news",
       "title": "FinancialJuice: AI Cloud firm NScale is said to seek up to $3 billion in a US IPO.",
       "summary": "<ul><li>The London-based company is working with Goldman Sachs and JPMorgan on the potential IPO, which could occur as early as September.</li><li><div>According to people familiar with the matter, the company is building data centers in locations such as Norway and West Virginia and has told prospective investors that it has approximately $51 billion in total contracted revenue ahead of the listi",
-      "link": "https://www.financialjuice.com/News/9731555/AI-Cloud-firm-NScale-is-said-to-seek-up-to-3-billion-in-a-US-IPO.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9731555/AI-Cloud-firm-NScale-is-said-to-seek-up-to-3-billion-in-a-US-IPO.aspx",
       "published": "2026-08-21T16:42:08+00:00",
       "score": 1
     },
@@ -52,7 +79,7 @@
       "category": "news",
       "title": "FinancialJuice: SNB's Tschudin: Artificial Intelligence can increase inflation in the short term..",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731463/SNBs-Tschudin-Artificial-Intelligence-can-increase-inflation-in-the-short-term.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9731463/SNBs-Tschudin-Artificial-Intelligence-can-increase-inflation-in-the-short-term.aspx",
       "published": "2026-08-21T15:05:38+00:00",
       "score": 1
     },
@@ -61,7 +88,7 @@
       "category": "news",
       "title": "FinancialJuice: SNB's Tschudin: Swiss inflation is low because of low inflation expectations, low weight of oil in the Swiss consumer basket.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731462/SNBs-Tschudin-Swiss-inflation-is-low-because-of-low-inflation-expectations-low-weight-of-oil-in-the-Swiss-consumer-basket.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9731462/SNBs-Tschudin-Swiss-inflation-is-low-because-of-low-inflation-expectations-low-weight-of-oil-in-the-Swiss-consumer-basket.aspx",
       "published": "2026-08-21T15:05:13+00:00",
       "score": 1
     },
@@ -70,7 +97,7 @@
       "category": "news",
       "title": "FinancialJuice: SNB's Tschudin: We don't publish interest rate forecasts; the current inflation forecast should not be taken to mean interest rates will remain at the current level for three years.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731461/SNBs-Tschudin-We-dont-publish-interest-rate-forecasts-the-current-inflation-forecast-should-not-be-taken-to-mean-interest-rates-will-remain-at-the-current-level-for-three-years.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9731461/SNBs-Tschudin-We-dont-publish-interest-rate-forecasts-the-current-inflation-forecast-should-not-be-taken-to-mean-interest-rates-will-remain-at-the-current-level-for-three-years.aspx",
       "published": "2026-08-21T15:04:54+00:00",
       "score": 2
     },
@@ -79,7 +106,7 @@
       "category": "news",
       "title": "FinancialJuice: SNB's Tschudin: The SNB would cut rates below 0% if inflation required it.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731440/SNBs-Tschudin-The-SNB-would-cut-rates-below-0-if-inflation-required-it.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9731440/SNBs-Tschudin-The-SNB-would-cut-rates-below-0-if-inflation-required-it.aspx",
       "published": "2026-08-21T15:00:43+00:00",
       "score": 2
     },
@@ -109,24 +136,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-against-us-dollar-as-inflation-backs-boj-rate-hike-bets-202608211423",
       "published": "2026-08-21T14:23:31+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro pares gains against US Dollar but eyes fourth weekly advance",
-      "summary": "EUR/USD reverses its earlier gains on Friday as the US Dollar (USD) steadies after retesting the three-month low touched the previous day. At the time of writing, the pair trades around 1.1677, easing from an intraday high of 1.1711, its highest level since May 14.",
-      "link": "https://www.fxstreet.com/news/euro-pares-gains-against-us-dollar-but-eyes-fourth-weekly-advance-202608211409",
-      "published": "2026-08-21T14:09:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Soft Dollar and BoJ outlook shift near-term tone – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret point out that Japan’s July Consumer Price Index (CPI) and stronger August Purchasing Managers' Index (PMI) data support expectations for Bank of Japan (BoJ) tightening, with about 20 bps of hikes priced in swaps.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-soft-dollar-and-boj-outlook-shift-near-term-tone-scotiabank-202608211359",
-      "published": "2026-08-21T13:59:56+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
