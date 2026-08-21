@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-21T04:55:07.410050+00:00",
-  "count": 47,
+  "updated_at": "2026-08-21T05:34:35.005244+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah advances despite record Current Account Deficit",
+      "summary": "USD/IDR extends its losses for the third successive day, trading around 17,760 during the Asian hours on Friday. The currency pair continues to depreciate as the Indonesian Rupiah (IDR) maintains its strength, defying a sharp widening of Indonesia’s current account deficit.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-advances-despite-record-current-account-deficit-202608210500",
+      "published": "2026-08-21T05:00:25+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -147,39 +156,12 @@
       "score": 4
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Japan S&P global August flash manufacturing PMI at 55.1 vs 54.5 in July",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9730339/Japan-SP-global-August-flash-manufacturing-PMI-at-551-vs-545-in-July.aspx?xy=rss",
-      "published": "2026-08-21T00:30:04+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Bessent says US unlikely to resume large-scale Iran combat, steps up economic pressure",
       "summary": "US Treasury Secretary Scott Bessent said that the US President Donald Trump administration’s plan to crush Iran’s economy will likely negate the need for major US military operations against the Islamic Republic, CNBC reported on Thursday.",
       "link": "https://www.fxstreet.com/news/bessent-says-us-unlikely-to-resume-large-scale-iran-combat-steps-up-economic-pressure-202608202352",
       "published": "2026-08-20T23:52:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold drifts higher above $4,500 on US Treasury buyback",
-      "summary": "Gold price (XAU/USD) edges higher to around $4,530 during the early Asian session on Friday. The precious metal rebounds after earlier falling following the US President Donald Trump administration’s unexpected decision to boost repurchases of longer-dated bonds.",
-      "link": "https://www.fxstreet.com/news/gold-drifts-higher-above-4-500-on-us-treasury-buyback-202608202337",
-      "published": "2026-08-20T23:37:16+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japan’s National CPI climbs 2.0% YoY in July, Core CPI rises as expected",
-      "summary": "Japan’s National Consumer Price Index (CPI) climbed by 2.0% YoY in July, compared to the previous reading of 1.6% (revised from 1.7%), according to the latest data released by the Japan Statistics Bureau on Friday.",
-      "link": "https://www.fxstreet.com/news/japans-national-cpi-climbs-20-yoy-in-july-core-cpi-rises-as-expected-202608202332",
-      "published": "2026-08-20T23:32:02+00:00",
       "score": 1
     },
     {
