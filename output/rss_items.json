@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-08-21T00:01:22.803013+00:00",
-  "count": 54,
+  "updated_at": "2026-08-21T01:58:09.735023+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound edges higher to near 1.3650, UK Retail Sales data looms",
+      "summary": "The GBP/USD pair gathers strength near 1.3645 during the early Asian trading hours on Friday. The US Dollar (USD) softens against the British Pound (GBP) amid fading Federal Reserve (Fed) rate hike expectations.",
+      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-to-near-13650-uk-retail-sales-data-looms-202608210155",
+      "published": "2026-08-21T01:55:26+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar gains ground amid rising oil prices",
+      "summary": "USD/CAD extends its losses for the third successive day, trading around 1.3770 during the Asian hours on Friday. The currency pair loses ground as the commodity-linked Canadian Dollar (CAD) receives support from rising crude oil prices.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-ground-amid-rising-oil-prices-202608210153",
+      "published": "2026-08-21T01:53:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar extends gains to fresh high since June, above mid-0.5900s vs softer USD",
+      "summary": "The NZD/USD pair attracts buyers for the third straight day and climbs to a fresh high since early June, around the 0.5965-0.5970 region during the Asian session on Friday. Spot prices remain on track to register strong weekly gains amid a supportive fundamental backdrop.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-gains-to-fresh-high-since-june-above-mid-05900s-vs-softer-usd-202608210141",
+      "published": "2026-08-21T01:41:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro gains on hawkish ECB outlook despite firm US Dollar",
+      "summary": "EUR/USD remains stronger for the third consecutive day, trading around 1.1680 during the Asian hours on Friday. The Euro (EUR) gains ground against the US Dollar (USD), bolstered by strong economic fundamentals across the region.",
+      "link": "https://www.fxstreet.com/news/euro-gains-on-hawkish-ecb-outlook-despite-firm-us-dollar-202608210122",
+      "published": "2026-08-21T01:22:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Bok Kwon: to weigh growth, inflation, financial stability, and rate hike side-effects for careful, flexible policy decisions if needed",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730389/Bok-Kwon-to-weigh-growth-inflation-financial-stability-and-rate-hike-side-effects-for-careful-flexible-policy-decisions-if-needed.aspx?xy=rss",
+      "published": "2026-08-21T01:17:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7817 vs. 6.7808 previous",
+      "summary": "On Friday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7817 compared to the previous day's fix of 6.7808 and 6.7262 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67817-vs-67808-previous-202608210115",
+      "published": "2026-08-21T01:15:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen flatlines after CPI inflation report",
+      "summary": "The USD/JPY pair holds steady near 159.05 during the early Asian session on Friday. Growing speculation that the Bank of Japan (BoJ) could raise interest rates next month offsets the weaker Gross Domestic Product (GDP) data.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-flatlines-after-cpi-inflation-report-202608210058",
+      "published": "2026-08-21T00:58:01+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japan S&P global August flash manufacturing PMI at 55.1 vs 54.5 in July",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730339/Japan-SP-global-August-flash-manufacturing-PMI-at-551-vs-545-in-July.aspx?xy=rss",
+      "published": "2026-08-21T00:30:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Kwon: Inflation surpassing target, financial stability risks persist",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730335/Kwon-Inflation-surpassing-target-financial-stability-risks-persist.aspx?xy=rss",
+      "published": "2026-08-21T00:30:03+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -9,24 +90,6 @@
       "summary": "US Treasury Secretary Scott Bessent said that the US President Donald Trump administration’s plan to crush Iran’s economy will likely negate the need for major US military operations against the Islamic Republic, CNBC reported on Thursday.",
       "link": "https://www.fxstreet.com/news/bessent-says-us-unlikely-to-resume-large-scale-iran-combat-steps-up-economic-pressure-202608202352",
       "published": "2026-08-20T23:52:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Japan July nationwide overall CPI rises 1.9% year on year, not 2.0%: govt",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9730292/Japan-July-nationwide-overall-CPI-rises-19-year-on-year-not-20-govt.aspx?xy=rss",
-      "published": "2026-08-20T23:38:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Japan July CPI excluding fresh food, energy prices rises 1.9% year-on-year: govt",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9730291/Japan-July-CPI-excluding-fresh-food-energy-prices-rises-19-year-on-year-govt.aspx?xy=rss",
-      "published": "2026-08-20T23:38:39+00:00",
       "score": 1
     },
     {
@@ -42,54 +105,9 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Japan’s National CPI climbs 2.0% YoY in July, Core CPI rises as expected",
-      "summary": "Japan’s National Consumer Price Index (CPI) climbed by 2.0% YoY in July, compared to the previous reading of 1.7%, according to the latest data released by the Japan Statistics Bureau on Friday.",
+      "summary": "Japan’s National Consumer Price Index (CPI) climbed by 2.0% YoY in July, compared to the previous reading of 1.6% (revised from 1.7%), according to the latest data released by the Japan Statistics Bureau on Friday.",
       "link": "https://www.fxstreet.com/news/japans-national-cpi-climbs-20-yoy-in-july-core-cpi-rises-as-expected-202608202332",
       "published": "2026-08-20T23:32:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Japanese CPI Overall Nationwide Actual 2.0% (Forecast 1.9%, Previous 1.7%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9730260/Japanese-CPI-Overall-Nationwide-Actual-20-Forecast-19-Previous-17.aspx?xy=rss",
-      "published": "2026-08-20T23:31:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Japanese Core CPI Nationwide YoY Actual 1.8% (Forecast 1.8%, Previous 1.6%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9730257/Japanese-Core-CPI-Nationwide-YoY-Actual-18-Forecast-18-Previous-16.aspx?xy=rss",
-      "published": "2026-08-20T23:31:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Japan July nationwide core CPI rises 1.8% yr/yr: govt (Poll: 1.8%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9730259/Japan-July-nationwide-core-CPI-rises-18-yryr-govt-Poll-18.aspx?xy=rss",
-      "published": "2026-08-20T23:30:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Japan July CPI excluding fresh food and energy rises 1.8% year on year: govt",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9730258/Japan-July-CPI-excluding-fresh-food-and-energy-rises-18-year-on-year-govt.aspx?xy=rss",
-      "published": "2026-08-20T23:30:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Japan July nationwide overall CPI rises 2.0% yr/yr: govt",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9730256/Japan-July-nationwide-overall-CPI-rises-20-yryr-govt.aspx?xy=rss",
-      "published": "2026-08-20T23:30:03+00:00",
       "score": 1
     },
     {
@@ -108,15 +126,6 @@
       "summary": "The preliminary reading of Australia's S&amp;P Global Manufacturing Purchasing Managers Index (PMI) came in at 52.0 in August versus 52.0 prior, the latest data published by S&amp;P Global showed on Friday.",
       "link": "https://www.fxstreet.com/news/australias-sp-global-manufacturing-pmi-steadies-at-520-in-august-202608202302",
       "published": "2026-08-20T23:02:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Australia S&P Global August flash composite PMI at 52.5 vs 53.2 in July",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9730233/Australia-SP-Global-August-flash-composite-PMI-at-525-vs-532-in-July.aspx?xy=rss",
-      "published": "2026-08-20T23:00:04+00:00",
       "score": 1
     },
     {
@@ -165,15 +174,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump signs directive to support U.S. space launches",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9730132/White-House-Trump-signs-directive-to-support-US-space-launches.aspx?xy=rss",
-      "published": "2026-08-20T21:00:46+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Mexican Peso holds firm as Banxico minutes support the Peso",
@@ -189,69 +189,6 @@
       "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
       "published": "2026-08-20T20:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South Korean Won: Rally accelerates with foreign inflows – DBS",
-      "summary": "DBS strategist Chang Wei Liang reports that South Korean Won (KRW) strength has resumed, with USD/KRW dropping to the mid-1380s even as KOSPI fell nearly 6% on semiconductor-led losses.",
-      "link": "https://www.fxstreet.com/news/south-korean-won-rally-accelerates-with-foreign-inflows-dbs-202608201921",
-      "published": "2026-08-20T19:21:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar firms ahead of global flash PMIs",
-      "summary": "The US Dollar Index (DXY) is hovering near 98.90, still short of 100.00, but grinding higher on Thursday. Hawkish commentary from Federal Reserve Bank of St.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-global-flash-pmis-202608201915",
-      "published": "2026-08-20T19:15:15+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Dollar Index takes its floor from a Fed non-voter",
-      "summary": "The Dollar Index has spent Thursday building a floor just above 98.50 and defending it with everything the calendar had to offer, and the entire effort is worth roughly a tenth of a point.",
-      "link": "https://www.fxstreet.com/news/the-dollar-index-takes-its-floor-from-a-fed-non-voter-202608201844",
-      "published": "2026-08-20T18:44:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah: Softer Dollar offers limited relief – OCBC",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong note that Indonesian Rupiah (IDR) should find some relief from a softer Dollar and lower long-end US yields, with BI keeping its policy rate at 5.75% and focusing on currency stability.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-softer-dollar-offers-limited-relief-ocbc-202608201843",
-      "published": "2026-08-20T18:43:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Upside risk stays in focus against US Dollar – UOB",
-      "summary": "United Overseas Bank’s Quek Ser Leang and Lee Sue Ann note that USD/SGD extended its overnight slide as the US Dollar (USD) sell-off pushed the pair back toward the 1.27 area.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-in-focus-against-us-dollar-uob-202608201833",
-      "published": "2026-08-20T18:33:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD tests 100-day SMA as rally extends",
-      "summary": "Silver (XAG/USD) price extended its gains on Thursday, up more than 1.70%, even as US yields recovered some ground following the US Treasury bond buyback announcement. The XAG/USD pair trades at $68.18 at the time of writing, its highest level since June 18.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-tests-100-day-sma-as-rally-extends-202608201812",
-      "published": "2026-08-20T18:12:21+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen underperforms as elevated Oil prices weigh, US Dollar recovers",
-      "summary": "USD/JPY rebounds on Thursday, recovering most of the previous day’s losses as the US Dollar (USD) stages a modest recovery after falling to a three-month low. At the time of writing, USD/JPY trades around 159.05, up roughly 0.55% on the day.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-underperforms-as-elevated-oil-prices-weigh-us-dollar-recovers-202608201756",
-      "published": "2026-08-20T17:56:46+00:00",
       "score": 1
     },
     {
@@ -492,11 +429,6 @@
   "errors": [
     {
       "source": "Kobeissi Letter",
-      "type": "twitter",
-      "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
-    },
-    {
-      "source": "Walter Bloomberg",
       "type": "twitter",
       "error": "failed to parse feed (<unknown>:44:226: mismatched tag)"
     }
