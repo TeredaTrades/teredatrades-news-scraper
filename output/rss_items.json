@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-21T10:12:17.984423+00:00",
-  "count": 45,
+  "updated_at": "2026-08-21T10:50:07.186578+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar broadly consolidates as analysts cast doubts over long-term impact of US Treasury buyback",
+      "summary": "The US Dollar Index (DXY) is broadly consolidating near the 99.00 level as investors process the US Treasury's expanded long-end bond buyback and a modest rebound in Treasury yields.",
+      "link": "https://www.fxstreet.com/news/us-dollar-broadly-consolidates-as-analysts-cast-doubts-over-long-term-impact-of-us-treasury-buyback-202608211043",
+      "published": "2026-08-21T10:43:23+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar climbs to highest since June as US Dollar weakens",
+      "summary": "NZD/USD extends its advance on Friday and trades around 0.5980 at the time of writing, up 0.62% on the day. The pair reached its highest level since early June and is heading for a solid weekly performance, mainly supported by persistent weakness in the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-climbs-to-highest-since-june-as-us-dollar-weakens-202608211020",
+      "published": "2026-08-21T10:20:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Tesla to recall 1,956,713 China-made Model 3 and Y vehicles - China market regulator",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9731074/Tesla-to-recall-1956713-China-made-Model-3-and-Y-vehicles---China-market-regulator.aspx?xy=rss",
+      "published": "2026-08-21T10:16:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold Price Forecast: XAU/USD testing three-month highs near $4,600 as the US Dollar dives",
+      "summary": "Gold (XAU/USD) extends gains on Friday, with bulls aiming for a retest of the $4,600 resistance area, the top of the last six months' trading range.",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-testing-three-month-highs-near-4-600-as-the-us-dollar-dives-202608211014",
+      "published": "2026-08-21T10:14:13+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -117,24 +153,6 @@
       "summary": "Commerzbank’s Tatha Ghose highlights growing challenges for Polish policymakers, citing stretched fiscal plans and accelerating underlying inflation.",
       "link": "https://www.fxstreet.com/news/polish-zloty-inflation-re-acceleration-weighs-on-pln-commerzbank-202608210840",
       "published": "2026-08-21T08:40:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Range-bound with mild upside against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang notes USD/JPY at 159.00 rebounded sharply from 158.00, but now looks set to trade between 158.50 and 159.35 intraday.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-range-bound-with-mild-upside-against-us-dollar-uob-202608210828",
-      "published": "2026-08-21T08:28:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro holds near three-month highs as Eurozone Flash PMIs beat expectations",
-      "summary": "The Euro (EUR) is trading a few pips below 1.1700 against a depressed US Dollar (USD) on Friday, on track for a more than 1% weekly rally, and with the three-month high of 1.1710 at a short distance.",
-      "link": "https://www.fxstreet.com/news/euro-holds-near-three-month-highs-as-eurozone-flash-pmis-beat-expectations-202608210823",
-      "published": "2026-08-21T08:23:27+00:00",
       "score": 1
     },
     {
@@ -411,6 +429,11 @@
   "errors": [
     {
       "source": "Kobeissi Letter",
+      "type": "twitter",
+      "error": "failed to parse feed (<unknown>:98:2: mismatched tag)"
+    },
+    {
+      "source": "Walter Bloomberg",
       "type": "twitter",
       "error": "failed to parse feed (<unknown>:98:2: mismatched tag)"
     }
