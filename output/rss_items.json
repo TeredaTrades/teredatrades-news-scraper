@@ -1,32 +1,122 @@
 {
-  "updated_at": "2026-08-21T07:08:19.508825+00:00",
-  "count": 42,
+  "updated_at": "2026-08-21T07:57:56.936034+00:00",
+  "count": 47,
   "items": [
     {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Consolidation around 99.00 after buyback news – DBS",
+      "summary": "DBS Group Research economist Chang Wei Liang notes that the Dollar has firmed slightly as US Treasury yields recover, with DXY consolidating near 99.00 after the US Treasury expanded long-end bond buybacks.",
+      "link": "https://www.fxstreet.com/news/us-dollar-consolidation-around-9900-after-buyback-news-dbs-202608210750",
+      "published": "2026-08-21T07:50:32+00:00",
+      "score": 2
+    },
+    {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
+      "title": "FinancialJuice: Japan PM Takaichi on X: An economy that is growing would experience certain level of inflation, though Japan has the lowest inflation among G7 nations due in part to effect of government steps.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9730801/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-08-21T07:04:59+00:00",
+      "link": "https://www.financialjuice.com/News/9730640/Japan-PM-Takaichi-on-X-An-economy-that-is-growing-would-experience-certain-level-of-inflation-though-Japan-has-the-lowest-inflation-among-G7-nations-due-in-part-to-effect-of-government-steps.aspx",
+      "published": "2026-08-21T07:48:05+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Top S&P 500 Stock names Implied Volatility",
+      "title": "FinancialJuice: NVIDIA and AI chipmaker Rebellions in talks for potential deal.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9730796/Top-SP-500-Stock-names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-08-21T07:03:19+00:00",
+      "link": "https://www.financialjuice.com/News/9730885/NVIDIA-and-AI-chipmaker-Rebellions-in-talks-for-potential-deal.aspx",
+      "published": "2026-08-21T07:47:22+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Currency Strength Chart: Strongest: AUD, NZD, CAD, EUR, GBP, JPY, CHF, USD - Weakest",
+      "title": "FinancialJuice: Japan PM Takaichi on X: Long-term interest rates are rising gradually including in Japan.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9730773/Currency-Strength-Chart-Strongest-AUD-NZD-CAD-EUR-GBP-JPY-CHF-USD---Weakest.aspx?xy=rss",
-      "published": "2026-08-21T07:01:23+00:00",
+      "link": "https://www.financialjuice.com/News/9730639/Japan-PM-Takaichi-on-X-Long-term-interest-rates-are-rising-gradually-including-in-Japan.aspx",
+      "published": "2026-08-21T07:45:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones futures gain as traders weigh US debt buybacks against surging oil prices",
+      "summary": "Dow Jones futures gain 0.13% to trade above 52,900 during European hours on Friday. Meanwhile, S&amp;P 500 futures remain up by 0.18%, to trade near 7,680, and Nasdaq 100 futures advance by 0.38% to trade above 29,400.",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-gain-as-traders-weigh-us-debt-buybacks-against-surging-oil-prices-202608210744",
+      "published": "2026-08-21T07:44:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: September BoJ risk builds – Commerzbank",
+      "summary": "Volkmar Baur at Commerzbank argues that July inflation and strong Purchasing Managers' Index (PMI) data in Japan suggest price dynamics would not block a Bank of Japan (BoJ) rate hike.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-september-boj-risk-builds-commerzbank-202608210741",
+      "published": "2026-08-21T07:41:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Upward momentum targets 1.3700 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang reports GBP/USD at 1.3640 remains supported after breaking key resistance levels, with intraday gains likely capped between 1.3605 and 1.3670.",
+      "link": "https://www.fxstreet.com/news/british-pound-upward-momentum-targets-13700-against-us-dollar-uob-202608210731",
+      "published": "2026-08-21T07:31:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Iran's parliament speaker Qalibaf, following Trump's threat: We must plan to overcome these unjust sanctions so that we can overcome them",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730829/Irans-parliament-speaker-Qalibaf-following-Trumps-threat-We-must-plan-to-overcome-these-unjust-sanctions-so-that-we-can-overcome-them.aspx",
+      "published": "2026-08-21T07:24:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Gentle upside against US Dollar as greenback softens - ING",
+      "summary": "ING’s Chris Turner says EUR/USD remains well supported by broad Dollar softness. Expected mild eurozone growth in the August PMIs and elevated inflation expectations keep the case for another European Central Bank (ECB) hike alive.",
+      "link": "https://www.fxstreet.com/news/euro-gentle-upside-against-us-dollar-as-greenback-softens-ing-202608210723",
+      "published": "2026-08-21T07:23:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Hits fresh high since June as bulls eye gains beyond 0.7150",
+      "summary": "The AUD/USD pair regains positive traction following the previous day's dismal Aussie jobs data-led modest fall and climbs to a fresh high since early June during the first half of the European session.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-hits-fresh-high-since-june-as-bulls-eye-gains-beyond-07150-202608210717",
+      "published": "2026-08-21T07:17:13+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ECB's Kazaks: ECB is well placed to act if needed to get inflation to 2%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730810/ECBs-Kazaks-ECB-is-well-placed-to-act-if-needed-to-get-inflation-to-2.aspx",
+      "published": "2026-08-21T07:14:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecasts: XAG/USD hits highs past $69.00 amid US Dollar weakness",
+      "summary": "Silver (XAG/USD) rallies for the third consecutive day on Friday, hitting fresh two-month highs above $69.00 in the early European session.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-hits-highs-past-6900-amid-us-dollar-weakness-202608210713",
+      "published": "2026-08-21T07:13:58+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ECB's Kazaks: Inflation expectations are still anchored near target",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730809/ECBs-Kazaks-Inflation-expectations-are-still-anchored-near-target.aspx",
+      "published": "2026-08-21T07:13:54+00:00",
       "score": 1
     },
     {
@@ -86,17 +176,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro: Further upside toward 1.1725 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang highlights EUR/USD at 1.1685 holding recent gains, with intraday trading likely between 1.1655 and 1.1715.",
-      "link": "https://www.fxstreet.com/news/euro-further-upside-toward-11725-against-us-dollar-uob-202608210610",
-      "published": "2026-08-21T06:10:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee ticks lower due to elevated oil prices, recovery in US bond yields",
-      "summary": "The Indian Rupee (INR) edges down against the US Dollar (USD) in the opening session on Friday. The USD/INR ticks up to near 95.72 as elevated oil prices and a sharp recovery in United States (US) Treasury Yields have weighed on the Indian currency.",
+      "title": "Indian Rupee edges down amid elevated oil prices, recovery in US yields",
+      "summary": "The Indian Rupee (INR) ticks lower against the US Dollar (USD) in India's afternoon trading hours on Friday. The USD/INR edges up to near 95.72 as elevated oil prices and a sharp recovery in United States (US) Treasury yields have weighed on the Indian currency.",
       "link": "https://www.fxstreet.com/news/indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-202608210551",
       "published": "2026-08-21T05:51:50+00:00",
       "score": 2
@@ -113,44 +194,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indonesian Rupiah advances despite record Current Account Deficit",
-      "summary": "USD/IDR extends its losses for the third successive day, trading around 17,760 during the Asian hours on Friday. The currency pair continues to depreciate as the Indonesian Rupiah (IDR) maintains its strength, defying a sharp widening of Indonesia’s current account deficit.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-advances-despite-record-current-account-deficit-202608210500",
-      "published": "2026-08-21T05:00:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro sits near multi-month top vs weak USD as bulls await move beyond 1.1700 ahead of PMIs",
-      "summary": "The EUR/USD pair attracts some dip-buyers during the Asian session on Friday and climbs back closer to its highest level since May 14, set the previous day, with bulls now awaiting a move beyond the 1.1700 mark before placing fresh bets.",
-      "link": "https://www.fxstreet.com/news/euro-sits-near-multi-month-top-vs-weak-usd-as-bulls-await-move-beyond-11700-ahead-of-pmis-202608210439",
-      "published": "2026-08-21T04:39:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "summary": "Gold prices rose in India on Friday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608210435",
-      "published": "2026-08-21T04:35:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: 20-day EMA remains key hurdle",
-      "summary": "The Japanese Yen (JPY) trades in a limited range at around 159.00 against the US Dollar (USD) during the Asian trading session on Friday. The pair consolidates, while both the JPY and the USD are underperforming against their other currency peers.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-20-day-ema-remains-key-hurdle-202608210408",
-      "published": "2026-08-21T04:08:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold hits fresh high since June, above $4,550 as receding Fed hike bets undermine USD",
-      "summary": "Gold (XAU/USD) sticks to modest gains near its highest level since early June, touched earlier this Friday, and trades just above $4,550 heading into the European session.",
+      "title": "Gold climbs beyond $4,550, fresh high since June as USD stays weak and Fed hike bets fade",
+      "summary": "Gold (XAU/USD) builds on its breakout momentum above a technically significant 200-day Simple Moving Average (SMA) and climbs further beyond $4,550, hitting a fresh high since early June during the early part of the European session on Friday.",
       "link": "https://www.fxstreet.com/news/gold-advances-to-fresh-high-since-june-amid-renewed-usd-selling-fading-fed-hike-bets-202608210407",
       "published": "2026-08-21T04:07:20+00:00",
       "score": 4
