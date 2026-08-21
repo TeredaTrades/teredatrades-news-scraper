@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-21T22:34:35.754443+00:00",
-  "count": 49,
+  "updated_at": "2026-08-21T23:01:09.296615+00:00",
+  "count": 50,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Treasury yields extend rebound as Services PMI beats estimates",
+      "summary": "US Treasury yields continue their recovery following the announcement of a bond buyback by the US Department of the Treasury, while data reveal that business activity remains solid despite a slowdown in manufacturing.",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-extend-rebound-as-services-pmi-beats-estimates-202608212238",
+      "published": "2026-08-21T22:38:51+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
