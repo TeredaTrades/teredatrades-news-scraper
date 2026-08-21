@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-21T19:41:49.071172+00:00",
-  "count": 44,
+  "updated_at": "2026-08-21T19:59:52.133209+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +163 mln<br />Nasdaq 100: -38 mln<br />Dow 30: +101 mln<br />Mag 7: +68 mln",
+      "link": "https://www.financialjuice.com/News/9731802/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-08-21T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Gold CFTC Positions Week August 18th - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9731801/Gold-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+      "published": "2026-08-21T19:47:30+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -36,24 +54,6 @@
       "summary": "OCBC’s Sim Moh Siong and Christopher Wong stress that the Malaysian Ringgit (MYR) remains relatively well supported by a softer US Dollar (USD) and robust domestic fundamentals.",
       "link": "https://www.fxstreet.com/news/malaysian-ringgit-supported-by-strong-fundamentals-against-us-dollar-ocbc-202608211853",
       "published": "2026-08-21T18:53:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Apple cuts jobs in Siri, Vision Pro 3D video and gaming teams. To affect over 200 people. $AAPL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9731725/Apple-cuts-jobs-in-Siri-Vision-Pro-3D-video-and-gaming-teams-To-affect-over-200-people-AAPL.aspx?xy=rss",
-      "published": "2026-08-21T18:45:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Moody's ratings affirms Microsoft's AAA rating. Outlook stable. $MSFT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9731699/Moodys-ratings-affirms-Microsofts-AAA-rating-Outlook-stable-MSFT.aspx?xy=rss",
-      "published": "2026-08-21T18:29:24+00:00",
       "score": 1
     },
     {
@@ -109,15 +109,6 @@
       "link": "https://www.fxstreet.com/news/swiss-franc-struggles-as-us-dollar-steadies-snb-keeps-negative-rates-on-table-202608211726",
       "published": "2026-08-21T17:26:39+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Tesla is cleared for up to 5,000 autonomous vehicles in Nevada. $TSLA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9731617/Tesla-is-cleared-for-up-to-5000-autonomous-vehicles-in-Nevada-TSLA.aspx?xy=rss",
-      "published": "2026-08-21T17:19:20+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
