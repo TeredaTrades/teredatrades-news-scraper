@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-08-21T08:51:04.698921+00:00",
-  "count": 45,
+  "updated_at": "2026-08-21T09:38:33.164709+00:00",
+  "count": 44,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States: Yields risk renewed surge – Rabobank",
+      "summary": "Rabobank's Senior US Strategist Philip Marey discusses United States (US) Treasuries, noting that the Treasury Department’s surprise move to boost buybacks of longer-term bonds has only briefly interrupted rising yields.",
+      "link": "https://www.fxstreet.com/news/united-states-yields-risk-renewed-surge-rabobank-202608210933",
+      "published": "2026-08-21T09:33:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "1.3670: British Pound hits six-month highs as UK PMI beats expectations",
+      "summary": "The British Pound (GBP) rallied to fresh six-month highs against the US Dollar (USD) on Friday, boosted by stronger-than-expected UK business activity data, while the US Dollar remains depressed following the US Treasury’s plan to boost bond buybacks.",
+      "link": "https://www.fxstreet.com/news/13670-british-pound-hits-six-month-highs-as-uk-pmi-beats-expectations-202608210932",
+      "published": "2026-08-21T09:32:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price today: Silver rises, according to FXStreet data",
+      "summary": "Silver prices (XAG/USD) rose on Friday, according to FXStreet data. Silver trades at $69.94 per troy ounce, up 2.67% from the $68.12 it cost on Thursday.",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608210930",
+      "published": "2026-08-21T09:30:09+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "ECB’s Kazāks: Central bank is well placed to act if needed to get inflation to 2%",
+      "summary": "European Central Bank (ECB) Governing Council member Mārtiņš Kazāks said during the European trading session on Friday that the central bank won’t hesitate to act if needed to bring Eurozone inflationary pressures down to the 2% target.",
+      "link": "https://www.fxstreet.com/news/ecbs-kazaks-central-bank-is-well-placed-to-act-if-needed-to-get-inflation-to-2-202608210916",
+      "published": "2026-08-21T09:16:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Weakness offsets intervention impact – MUFG",
+      "summary": "MUFG's Michael Wan notes that US longer-end yields have returned close to pre-buyback levels, with the 10-year at 4.7% and 30-year at 5.24%, weighing on risk assets.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakness-offsets-intervention-impact-mufg-202608210912",
+      "published": "2026-08-21T09:12:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Softer bias with pro-risk flows – ING",
+      "summary": "ING’s Chris Turner, Francesco Pesole and Frantisek Taborsky argue that recent US Treasury buy-backs are primarily a signalling tool against high yields, pointing to a softer Dollar in a risk-friendly environment.",
+      "link": "https://www.fxstreet.com/news/us-dollar-softer-bias-with-pro-risk-flows-ing-202608210901",
+      "published": "2026-08-21T09:01:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen sticks to gains amid hawkish BoJ bets as USD stays weak on Fed expectations",
+      "summary": "The USD/JPY pair struggles to capitalize on the previous day's recovery from the 158.00 mark, or a one-and-a-half-week low, and meets with fresh supply on Friday.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-sticks-to-gains-amid-hawkish-boj-bets-as-usd-stays-weak-on-fed-expectations-202608210851",
+      "published": "2026-08-21T08:51:32+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: Backstop doubts and high intervention bar – BNY",
+      "summary": "BNY’s David Tam stresses that while the Federal Reserve retains legal capacity to support corporate credit, the current Warsh Fed is unlikely to repeat Covid‑era interventions.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-backstop-doubts-and-high-intervention-bar-bny-202608210851",
+      "published": "2026-08-21T08:51:21+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -57,24 +129,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc: Funding role grows as volatility stays low – ING",
-      "summary": "Chris Turner at ING explains that USD/CHF’s sharp drop after the US Treasury buy-back announcement was mainly position adjustment after a hawkish Fed narrative had favoured longs.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-funding-role-grows-as-volatility-stays-low-ing-202608210758",
-      "published": "2026-08-21T07:58:43+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Consolidation around 99.00 after buyback news – DBS",
-      "summary": "DBS Group Research economist Chang Wei Liang notes that the Dollar has firmed slightly as US Treasury yields recover, with DXY consolidating near 99.00 after the US Treasury expanded long-end bond buybacks.",
-      "link": "https://www.fxstreet.com/news/us-dollar-consolidation-around-9900-after-buyback-news-dbs-202608210750",
-      "published": "2026-08-21T07:50:32+00:00",
-      "score": 2
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Japan PM Takaichi on X: An economy that is growing would experience certain level of inflation, though Japan has the lowest inflation among G7 nations due in part to effect of government steps.",
@@ -104,61 +158,7 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Dow Jones futures gain as traders weigh US debt buybacks against surging oil prices",
-      "summary": "Dow Jones futures gain 0.13% to trade above 52,900 during European hours on Friday. Meanwhile, S&amp;P 500 futures remain up by 0.18%, to trade near 7,680, and Nasdaq 100 futures advance by 0.38% to trade above 29,400.",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-gain-as-traders-weigh-us-debt-buybacks-against-surging-oil-prices-202608210744",
-      "published": "2026-08-21T07:44:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: September BoJ risk builds – Commerzbank",
-      "summary": "Volkmar Baur at Commerzbank argues that July inflation and strong Purchasing Managers' Index (PMI) data in Japan suggest price dynamics would not block a Bank of Japan (BoJ) rate hike.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-september-boj-risk-builds-commerzbank-202608210741",
-      "published": "2026-08-21T07:41:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Upward momentum targets 1.3700 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang reports GBP/USD at 1.3640 remains supported after breaking key resistance levels, with intraday gains likely capped between 1.3605 and 1.3670.",
-      "link": "https://www.fxstreet.com/news/british-pound-upward-momentum-targets-13700-against-us-dollar-uob-202608210731",
-      "published": "2026-08-21T07:31:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Gentle upside against US Dollar as greenback softens - ING",
-      "summary": "ING’s Chris Turner says EUR/USD remains well supported by broad Dollar softness. Expected mild eurozone growth in the August PMIs and elevated inflation expectations keep the case for another European Central Bank (ECB) hike alive.",
-      "link": "https://www.fxstreet.com/news/euro-gentle-upside-against-us-dollar-as-greenback-softens-ing-202608210723",
-      "published": "2026-08-21T07:23:04+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "AUD/USD Price Forecast: Hits fresh high since June as bulls eye gains beyond 0.7150",
-      "summary": "The AUD/USD pair regains positive traction following the previous day's dismal Aussie jobs data-led modest fall and climbs to a fresh high since early June during the first half of the European session.",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-hits-fresh-high-since-june-as-bulls-eye-gains-beyond-07150-202608210717",
-      "published": "2026-08-21T07:17:13+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecasts: XAG/USD hits highs past $69.00 amid US Dollar weakness",
-      "summary": "Silver (XAG/USD) rallies for the third consecutive day on Friday, hitting fresh two-month highs above $69.00 in the early European session.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-hits-highs-past-6900-amid-us-dollar-weakness-202608210713",
-      "published": "2026-08-21T07:13:58+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee edges down amid elevated oil prices, recovery in US yields",
+      "title": "Indian Rupee remains under pressure amid higher oil prices",
       "summary": "The Indian Rupee (INR) ticks lower against the US Dollar (USD) in India's afternoon trading hours on Friday. The USD/INR edges up to near 95.72 as elevated oil prices and a sharp recovery in United States (US) Treasury yields have weighed on the Indian currency.",
       "link": "https://www.fxstreet.com/news/indian-rupee-ticks-lower-due-to-elevated-oil-prices-recovery-in-us-bond-yields-202608210551",
       "published": "2026-08-21T05:51:50+00:00",
@@ -174,13 +174,22 @@
       "score": 1
     },
     {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "WARNING: Vantage Markets caught manipulating MT5 Server Logs to withhold client profits – Six support agents exposed!",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Traders, be warned. Vantage Markets is actively manipulating server data and illegally withholding legitimate client trading profits. I have been fighting this broker for months over my funds, and they are completely trapped by their own technical data and all the files that i have.</p> <p>On April 22, my 10 buy positions on XAUUSD successfully hit my Take Profit ",
+      "link": "https://www.reddit.com/r/Forex/comments/1vu6zvy/warning_vantage_markets_caught_manipulating_mt5/",
+      "published": "2026-08-21T05:13:44+00:00",
+      "score": 4
+    },
+    {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold climbs beyond $4,550, fresh high since June as USD stays weak and Fed hike bets fade",
-      "summary": "Gold (XAU/USD) builds on its breakout momentum above a technically significant 200-day Simple Moving Average (SMA) and climbs further beyond $4,550, hitting a fresh high since early June during the early part of the European session on Friday.",
+      "title": "Gold rallies to its highest level since late May, eyes $4,600 on weak USD ahead of US PMIs",
+      "summary": "Gold (XAU/USD) builds on the intraday breakout momentum above a technically significant 200-day Simple Moving Average (SMA) and climbs to its highest level since late May during the first half of the European session on Friday.",
       "link": "https://www.fxstreet.com/news/gold-advances-to-fresh-high-since-june-amid-renewed-usd-selling-fading-fed-hike-bets-202608210407",
       "published": "2026-08-21T04:07:20+00:00",
-      "score": 4
+      "score": 3
     },
     {
       "source": "Federal Reserve",
@@ -230,15 +239,6 @@
     {
       "source": "r/Forex",
       "category": "reddit",
-      "title": "EURUSD",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vtde98/eurusd/\"> <img alt=\"EURUSD\" src=\"https://preview.redd.it/snobnbuwnhkh1.png?width=140&amp;height=73&amp;auto=webp&amp;s=98eb66e1c5fe5c140bd168135a44f1c7770828ed\" title=\"EURUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Everyone was busy with Gold while EURUSD gave a textbook setup. there is a different happiness in ",
-      "link": "https://www.reddit.com/r/Forex/comments/1vtde98/eurusd/",
-      "published": "2026-08-20T08:17:16+00:00",
-      "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
       "title": "Made a small game called dailypips",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just a quick wordle-like game for xauusd <a href=\"https://dailypips.app/\">https://dailypips.app/</a> </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/vongutom\"> /u/vongutom </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1vtblob/made_a_small_game_called_dailypips/\">[link]</a></span> &#32; <span><a href=\"htt",
       "link": "https://www.reddit.com/r/Forex/comments/1vtblob/made_a_small_game_called_dailypips/",
@@ -270,15 +270,6 @@
       "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
       "published": "2026-08-19T18:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Holy f what happen to gold",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Anyone know y it fly like crazyyyy</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Wooden_Culture5267\"> /u/Wooden_Culture5267 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_what_happen_to_gold/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_wha",
-      "link": "https://www.reddit.com/r/Forex/comments/1vsnv61/holy_f_what_happen_to_gold/",
-      "published": "2026-08-19T14:22:07+00:00",
       "score": 1
     },
     {
