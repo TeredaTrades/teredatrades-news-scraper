@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-08-21T12:51:58.374676+00:00",
-  "count": 48,
+  "updated_at": "2026-08-21T13:47:42.545686+00:00",
+  "count": 51,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US S&P Composite PMI Flash  Actual 56 (Forecast 54, Previous 54.5)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9731330/US-SP-Composite-PMI-Flash--Actual-56-Forecast-54-Previous-545.aspx?xy=rss",
+      "published": "2026-08-21T13:45:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US S&P Services PMI Flash Actual 56.8 (Forecast 54, Previous 54.6)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9731329/US-SP-Services-PMI-Flash-Actual-568-Forecast-54-Previous-546.aspx?xy=rss",
+      "published": "2026-08-21T13:45:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US S&P Manufacturing PMI Flash Actual 53.2 (Forecast 53.9, Previous 53.9)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9731328/US-SP-Manufacturing-PMI-Flash-Actual-532-Forecast-539-Previous-539.aspx?xy=rss",
+      "published": "2026-08-21T13:45:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Mixed data but Sterling supported – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad says GBP/USD is firmer on broad US Dollar (USD) weakness despite mixed United Kingdom (UK) data.",
+      "link": "https://www.fxstreet.com/news/british-pound-mixed-data-but-sterling-supported-bbh-202608211335",
+      "published": "2026-08-21T13:35:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Cloverleaf Infrastructure forms a partnership with NVIDIA to deploy the NVIDIA DSX platform at AI sites $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9731323/Cloverleaf-Infrastructure-forms-a-partnership-with-NVIDIA-to-deploy-the-NVIDIA-DSX-platform-at-AI-sites-NVDA.aspx?xy=rss",
+      "published": "2026-08-21T13:31:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: +987 mln<br />Nasdaq 100: +213 mln<br />Dow 30: +378 mln<br />Mag 7: +174 mln",
+      "link": "https://www.financialjuice.com/News/9731322/MOO-Imbalance.aspx?xy=rss",
+      "published": "2026-08-21T13:30:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Bullish structure points to 1.35 handle against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note that the Canadian Dollar (CAD) continues to show strength against the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-structure-points-to-135-handle-against-us-dollar-scotiabank-202608211325",
+      "published": "2026-08-21T13:25:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Effective Fed Funds Rate: 3.63% August 20th vs 3.63% August 19th",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9731279/Effective-Fed-Funds-Rate-363-August-20th-vs-363-August-19th.aspx?xy=rss",
+      "published": "2026-08-21T12:59:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar heads for fourth weekly gain on weaker US Dollar, elevated Oil prices",
+      "summary": "USD/CAD extends its decline on Friday as broad US Dollar (USD) weakness and elevated Oil prices provide a double boost to the Canadian Dollar (CAD). At the time of writing, the pair trades around 1.3745, while the Loonie is on track for a fourth consecutive weekly gain.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-heads-for-fourth-weekly-gain-on-weaker-us-dollar-elevated-oil-prices-202608211259",
+      "published": "2026-08-21T12:59:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Brent: Supply risks keep prices elevated – Commerzbank",
+      "summary": "Commerzbank’s Barbara Lambrecht says tensions around the Strait of Hormuz and tight diesel inventories continue to support Brent. With prices near USD 94 and almost 20% above their early-August lows, Brent remains well below its April peak.",
+      "link": "https://www.fxstreet.com/news/brent-supply-risks-keep-prices-elevated-commerzbank-202608211255",
+      "published": "2026-08-21T12:55:18+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -122,83 +212,20 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US Dollar: Yield management weighs on currency – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is weaker against all major currencies as longer-term US Treasury yields edge lower following buyback plans. Haddad argues expanded buybacks and fiscal messaging may cap long-end yields but at a credibility cost for the USD.",
-      "link": "https://www.fxstreet.com/news/us-dollar-yield-management-weighs-on-currency-bbh-202608211115",
-      "published": "2026-08-21T11:15:01+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "$4,600: Gold rallies to three-month high, eyes third weekly gain",
-      "summary": "Gold (XAU/USD) is heading for a third consecutive weekly gain on Friday, extending an impressive rally that has lifted the precious metal by around 13% so far this month. At the time of writing, XAU/USD trades near $4,590 after briefly climbing above $4,600, its highest level since May 15.",
+      "summary": "Gold (XAU/USD) consolidates its intraday advance during American trading hours on Friday after briefly climbing above $4,600 earlier in the day, its highest level since May 15. At the time of writing, XAU/USD trades around $4,580, heading for a third consecutive weekly gain.",
       "link": "https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106",
       "published": "2026-08-21T11:06:55+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar broadly consolidates as analysts cast doubts over long-term impact of US Treasury buyback",
-      "summary": "The US Dollar Index (DXY) is broadly consolidating near the 99.00 level as investors process the US Treasury's expanded long-end bond buyback and a modest rebound in Treasury yields.",
-      "link": "https://www.fxstreet.com/news/us-dollar-broadly-consolidates-as-analysts-cast-doubts-over-long-term-impact-of-us-treasury-buyback-202608211043",
-      "published": "2026-08-21T10:43:23+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar climbs to highest since June as US Dollar weakens",
-      "summary": "NZD/USD extends its advance on Friday and trades around 0.5980 at the time of writing, up 0.62% on the day. The pair reached its highest level since early June and is heading for a solid weekly performance, mainly supported by persistent weakness in the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-climbs-to-highest-since-june-as-us-dollar-weakens-202608211020",
-      "published": "2026-08-21T10:20:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Tesla to recall 1,956,713 China-made Model 3 and Y vehicles - China market regulator",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9731074/Tesla-to-recall-1956713-China-made-Model-3-and-Y-vehicles---China-market-regulator.aspx?xy=rss",
-      "published": "2026-08-21T10:16:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD testing three-month highs near $4,600 as the US Dollar dives",
-      "summary": "Gold (XAU/USD) extends gains on Friday, with bulls aiming for a retest of the $4,600 resistance area, the top of the last six months' trading range.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-testing-three-month-highs-near-4-600-as-the-us-dollar-dives-202608211014",
-      "published": "2026-08-21T10:14:13+00:00",
       "score": 3
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US Dollar: Limited upside as fiscal plans questioned – MUFG",
-      "summary": "MUFG’s Derek Halpenny notes that the US Dollar has weakened as investors focus on potential US Treasury measures to stem the decline in Treasury yields, while Japanese inflation data supports expectations for a 25bp BoJ rate hike in September.",
-      "link": "https://www.fxstreet.com/news/us-dollar-limited-upside-as-fiscal-plans-questioned-mufg-202608211004",
-      "published": "2026-08-21T10:04:15+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING: The USD - FJElite",
-      "summary": "Many commentators seem to be treating this week's US Treasury intervention in bond markets as a heinous financial crime. We prefer to take the view offered by a former US Treasury official interviewed in the Financial Times today that this was a signalling exercise. Yes, these buy-back operations were originally designed to address market liquidity issues and the off- cycle nature of the adjustmen",
-      "link": "https://www.financialjuice.com/News/9730961/ING-The-USD---FJElite.aspx?xy=rss",
-      "published": "2026-08-21T08:46:21+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Credit Ágricole: Japan Economic Outlook - FJElite",
-      "summary": "<div>Domestic demand remains weak, as structural stagnation pressures persist - evidenced by the anomalously positive corporate savings rate. The economy faces downward pressure from a global slowdown driven by rising crude oil prices and monetary policy tightening. Rising energy costs are eroding household purchasing power and increasing the price elasticity of demand. With domestic demand still ",
-      "link": "https://www.financialjuice.com/News/9730954/Credit-%c3%81gricole-Japan-Economic-Outlook---FJElite.aspx?xy=rss",
-      "published": "2026-08-21T08:44:50+00:00",
-      "score": 2
+      "title": "Breaking: S&P Global Composite PMI is seen at 56.0 in August",
+      "summary": "US business activity is predicted to have gained momentum in August, according to the flash reading of the S&amp;P Global’s Composite PMI, which ticked up to 56.0 from 54.5 in July.",
+      "link": "https://www.fxstreet.com/news/sp-global-us-pmis-expected-to-ease-slightly-in-august-still-showing-solid-growth-202608210945",
+      "published": "2026-08-21T09:45:00+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
@@ -439,7 +466,12 @@
     {
       "source": "Kobeissi Letter",
       "type": "twitter",
-      "error": "failed to parse feed (<unknown>:98:2: mismatched tag)"
+      "error": "failed to parse feed (text/html;charset=utf-8 is not an XML media type)"
+    },
+    {
+      "source": "Walter Bloomberg",
+      "type": "twitter",
+      "error": "failed to parse feed (text/html;charset=utf-8 is not an XML media type)"
     }
   ]
 }
