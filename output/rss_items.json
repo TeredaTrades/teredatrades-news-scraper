@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-21T23:01:09.296615+00:00",
-  "count": 50,
+  "updated_at": "2026-08-21T23:39:38.377013+00:00",
+  "count": 51,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Bulls target YTD high after breakout",
+      "summary": "The Aussie Dollar finished the week with gains of over 0.82% on Friday and up more than 1.20% for the week as the US Dollar tumbled following the US Treasury Department's announcement of a bond buyback for the long end of the curve. The AUD/USD trades at 0.7170, after rebounding near 0.7067.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-target-ytd-high-after-breakout-202608212315",
+      "published": "2026-08-21T23:15:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls",
+      "summary": "The USD/CHF advanced on Friday, registering a modest 0.07% gain, trading at 0.8010. During the week, the pair finished with losses of over 1.49%, triggered by a drop in US yields on Wednesday, as the US Treasury tries to cap elevated yields on the 30-year bond.",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-reclaim-08000-as-recovery-stalls-202608212302",
+      "published": "2026-08-21T23:02:00+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -208,15 +226,6 @@
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-rally-as-fading-fed-hike-bets-soften-us-dollar-202608211708",
       "published": "2026-08-21T17:08:00+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro treads water vs Yen as Japanese inflation, European PMIs offset each other",
-      "summary": "EUR/JPY trades around 185.70 on Friday at the time of writing, virtually unchanged on the day. The Japanese Yen (JPY) gains some support from firmer Japanese inflation data, but the move is offset by resilience in the Euro (EUR) following better-than-expected activity indicators in the Eurozone.",
-      "link": "https://www.fxstreet.com/news/euro-treads-water-vs-yen-as-japanese-inflation-european-pmis-offset-each-other-202608211619",
-      "published": "2026-08-21T16:19:49+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
