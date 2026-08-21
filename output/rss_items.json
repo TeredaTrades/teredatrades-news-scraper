@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-21T16:36:53.206231+00:00",
-  "count": 47,
+  "updated_at": "2026-08-21T17:12:01.787099+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar extends rally as fading Fed-hike bets soften US Dollar",
+      "summary": "The New Zealand Dollar (NZD) extends its rally against the US Dollar (USD) on Friday,  trading near 0.6000 and close to its highest level since end-May.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-rally-as-fading-fed-hike-bets-soften-us-dollar-202608211708",
+      "published": "2026-08-21T17:08:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: AI Cloud firm NScale is said to seek up to $3 billion in a US IPO.",
+      "summary": "<ul><li>The London-based company is working with Goldman Sachs and JPMorgan on the potential IPO, which could occur as early as September.</li><li><div>According to people familiar with the matter, the company is building data centers in locations such as Norway and West Virginia and has told prospective investors that it has approximately $51 billion in total contracted revenue ahead of the listi",
+      "link": "https://www.financialjuice.com/News/9731555/AI-Cloud-firm-NScale-is-said-to-seek-up-to-3-billion-in-a-US-IPO.aspx?xy=rss",
+      "published": "2026-08-21T16:42:08+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -111,69 +129,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Upside asymmetry into next week – TD Securities",
-      "summary": "TD Securities’ Ryan McKay and Bart Melek note that Gold and broader precious metals are trading in a higher range that could trigger another round of CTA (Commodity Trading Advisors) buying.",
-      "link": "https://www.fxstreet.com/news/gold-upside-asymmetry-into-next-week-td-securities-202608211350",
-      "published": "2026-08-21T13:50:36+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US S&P Composite PMI Flash  Actual 56 (Forecast 54, Previous 54.5)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9731330/US-SP-Composite-PMI-Flash--Actual-56-Forecast-54-Previous-545.aspx?xy=rss",
-      "published": "2026-08-21T13:45:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US S&P Services PMI Flash Actual 56.8 (Forecast 54, Previous 54.6)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9731329/US-SP-Services-PMI-Flash-Actual-568-Forecast-54-Previous-546.aspx?xy=rss",
-      "published": "2026-08-21T13:45:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US S&P Manufacturing PMI Flash Actual 53.2 (Forecast 53.9, Previous 53.9)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9731328/US-SP-Manufacturing-PMI-Flash-Actual-532-Forecast-539-Previous-539.aspx?xy=rss",
-      "published": "2026-08-21T13:45:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Mixed data but Sterling supported – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad says GBP/USD is firmer on broad US Dollar (USD) weakness despite mixed United Kingdom (UK) data.",
-      "link": "https://www.fxstreet.com/news/british-pound-mixed-data-but-sterling-supported-bbh-202608211335",
-      "published": "2026-08-21T13:35:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Cloverleaf Infrastructure forms a partnership with NVIDIA to deploy the NVIDIA DSX platform at AI sites $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9731323/Cloverleaf-Infrastructure-forms-a-partnership-with-NVIDIA-to-deploy-the-NVIDIA-DSX-platform-at-AI-sites-NVDA.aspx?xy=rss",
-      "published": "2026-08-21T13:31:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Bullish structure points to 1.35 handle against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note that the Canadian Dollar (CAD) continues to show strength against the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-structure-points-to-135-handle-against-us-dollar-scotiabank-202608211325",
-      "published": "2026-08-21T13:25:35+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Friday",
@@ -190,15 +145,6 @@
       "link": "https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106",
       "published": "2026-08-21T11:06:55+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Breaking: S&P Global Composite PMI is seen at 56 in August",
-      "summary": "US business activity is predicted to have gained momentum in August, according to the flash reading of S&amp;P Global’s Composite PMI, which ticked up to 56 from 54.5 in July.",
-      "link": "https://www.fxstreet.com/news/sp-global-us-pmis-expected-to-ease-slightly-in-august-still-showing-solid-growth-202608210945",
-      "published": "2026-08-21T09:45:00+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
