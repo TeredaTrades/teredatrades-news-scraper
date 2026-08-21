@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-08-21T06:05:00.572721+00:00",
-  "count": 43,
+  "updated_at": "2026-08-21T07:08:19.508825+00:00",
+  "count": 42,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed Interest Rate Probabilities",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730801/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+      "published": "2026-08-21T07:04:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Top S&P 500 Stock names Implied Volatility",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730796/Top-SP-500-Stock-names-Implied-Volatility.aspx?xy=rss",
+      "published": "2026-08-21T07:03:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Currency Strength Chart: Strongest: AUD, NZD, CAD, EUR, GBP, JPY, CHF, USD - Weakest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9730773/Currency-Strength-Chart-Strongest-AUD-NZD-CAD-EUR-GBP-JPY-CHF-USD---Weakest.aspx?xy=rss",
+      "published": "2026-08-21T07:01:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee: Higher profile after hawkish RBI – MUFG",
+      "summary": "MUFG’s Michael Wan highlights that FX measures to attract US Dollar (USD) inflows into India have significantly lowered Indian Rupee (INR) rates via added liquidity, with limited impact on USD/INR.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-higher-profile-after-hawkish-rbi-mufg-202608210700",
+      "published": "2026-08-21T07:00:08+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index remains below 99.00 as 10-year US yield steadies",
+      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is holding losses after registering minor gains in the previous day and trading around 98.80 during the early European hours on Friday.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-remains-below-9900-as-10-year-us-yield-steadies-202608210652",
+      "published": "2026-08-21T06:52:06+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Equities: Mixed recovery after US selloff – Deutsche Bank",
+      "summary": "Deutsche Bank strategists note that United States (US) equities fell sharply as earlier gains in fixed income reversed, with losses across the S&amp;P 500, Nasdaq and Magnificent Seven. Weak Walmart earnings and slower US sales growth added to concerns about consumer resilience.",
+      "link": "https://www.fxstreet.com/news/equities-mixed-recovery-after-us-selloff-deutsche-bank-202608210644",
+      "published": "2026-08-21T06:44:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound holds gains against a weak US Dollar despite downbeat UK Retail Sales",
+      "summary": "The British Pound (GBP) trades firm against the US Dollar (USD) on Friday, with the GBP/USD pair pushing against six-month highs in the 1.3660 area at the time of writing, on track for a 0.8% weekly rally.",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-gains-against-a-weak-us-dollar-despite-downbeat-uk-retail-sales-202608210636",
+      "published": "2026-08-21T06:36:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Treasury twist signals structural risks – Commerzbank",
+      "summary": "Commerzbank’s Volkmar Baur notes the US Dollar remains under pressure as EUR/USD trades around 1.17 following the US Treasury’s expansion of its Liquidity Support Buyback Operations.",
+      "link": "https://www.fxstreet.com/news/us-dollar-treasury-twist-signals-structural-risks-commerzbank-202608210628",
+      "published": "2026-08-21T06:28:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Asian stocks gain despite easing pressure on global bond yields",
+      "summary": "Asian share indices hold gains on Friday, though they remain on track for weekly losses as pressure on global bond yields eases. US Treasury yields resumed their upward trajectory following a brief reprieve triggered by Wednesday’s unexpected Treasury intervention.",
+      "link": "https://www.fxstreet.com/news/asian-stocks-gain-despite-easing-pressure-on-global-bond-yields-202608210614",
+      "published": "2026-08-21T06:14:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Further upside toward 1.1725 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang highlights EUR/USD at 1.1685 holding recent gains, with intraday trading likely between 1.1655 and 1.1715.",
+      "link": "https://www.fxstreet.com/news/euro-further-upside-toward-11725-against-us-dollar-uob-202608210610",
+      "published": "2026-08-21T06:10:57+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -64,96 +154,6 @@
       "link": "https://www.fxstreet.com/news/gold-advances-to-fresh-high-since-june-amid-renewed-usd-selling-fading-fed-hike-bets-202608210407",
       "published": "2026-08-21T04:07:20+00:00",
       "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China finance ministry sells 2-year bonds at 1.2088% yield: traders",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9730579/China-finance-ministry-sells-2-year-bonds-at-12088-yield-traders.aspx",
-      "published": "2026-08-21T03:39:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc edges up against US Dollar amid heightened US debt concerns",
-      "summary": "The Swiss Franc (CHF) resumes its upside journey against the US Dollar (USD) on Friday after a corrective move the previous day. The USD/CHF pair is down 0.17% to near 0.7990 in the Asian trading session.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-edges-up-against-us-dollar-amid-heightened-us-debt-concerns-202608210322",
-      "published": "2026-08-21T03:22:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar gains ground above 0.7100 as US debt concerns weigh on US Dollar",
-      "summary": "The AUD/USD pair gains traction to near 0.7135 during the Asian trading hours on Friday. The US Dollar (USD) weakens against the Australian Dollar (AUD) and is set for a weekly loss as traders viewed the US Treasury's bond buyback gambit as merely a temporary fix.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-gains-ground-above-07100-as-us-debt-concerns-weigh-on-us-dollar-202608210245",
-      "published": "2026-08-21T02:45:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD surges to near $69.00 amid heightened volatility",
-      "summary": "Silver price (XAG/USD) extends its gains for the third successive day, trading around $68.70 per troy ounce during the Asian hours on Friday. Silver prices rise as investors turn to safe-haven metals amid heightened volatility across global currency and bond markets.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-surges-to-near-6900-amid-heightened-volatility-202608210237",
-      "published": "2026-08-21T02:37:37+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index trades around 99.75-99.70, hangs near three-month low",
-      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, attracts fresh sellers during the Asian session on Friday, stalling the previous day's modest bounce from the vicinity of mid-98.00s, or the lowest since May 14.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-around-9975-9970-hangs-near-three-month-low-202608210226",
-      "published": "2026-08-21T02:26:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound edges higher to near 1.3650, UK Retail Sales data looms",
-      "summary": "The GBP/USD pair gathers strength near 1.3645 during the early Asian trading hours on Friday. The US Dollar (USD) softens against the British Pound (GBP) amid fading Federal Reserve (Fed) rate hike expectations.",
-      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-to-near-13650-uk-retail-sales-data-looms-202608210155",
-      "published": "2026-08-21T01:55:26+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar gains ground amid rising oil prices",
-      "summary": "USD/CAD extends its losses for the third successive day, trading around 1.3770 during the Asian hours on Friday. The currency pair loses ground as the commodity-linked Canadian Dollar (CAD) receives support from rising crude oil prices.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-ground-amid-rising-oil-prices-202608210153",
-      "published": "2026-08-21T01:53:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar extends gains to fresh high since June, above mid-0.5900s vs softer USD",
-      "summary": "The NZD/USD pair attracts buyers for the third straight day and climbs to a fresh high since early June, around the 0.5965-0.5970 region during the Asian session on Friday. Spot prices remain on track to register strong weekly gains amid a supportive fundamental backdrop.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-extends-gains-to-fresh-high-since-june-above-mid-05900s-vs-softer-usd-202608210141",
-      "published": "2026-08-21T01:41:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro gains on hawkish ECB outlook despite firm US Dollar",
-      "summary": "EUR/USD remains stronger for the third consecutive day, trading around 1.1680 during the Asian hours on Friday. The Euro (EUR) gains ground against the US Dollar (USD), bolstered by strong economic fundamentals across the region.",
-      "link": "https://www.fxstreet.com/news/euro-gains-on-hawkish-ecb-outlook-despite-firm-us-dollar-202608210122",
-      "published": "2026-08-21T01:22:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7817 vs. 6.7808 previous",
-      "summary": "On Friday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7817 compared to the previous day's fix of 6.7808 and 6.7262 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67817-vs-67808-previous-202608210115",
-      "published": "2026-08-21T01:15:46+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
@@ -244,15 +244,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
       "published": "2026-08-19T18:00:00+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "What Caused This Sudden Gold & Forex Move Around 3:00 PM Bangladesh Time?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vsth9x/what_caused_this_sudden_gold_forex_move_around/\"> <img alt=\"What Caused This Sudden Gold &amp; Forex Move Around 3:00 PM Bangladesh Time?\" src=\"https://preview.redd.it/5mxmqbb8cdkh1.jpg?width=140&amp;height=62&amp;auto=webp&amp;s=7754e1195658a4a3fe2d862776f85463d8c47737\" title=\"What Caused This Sudden Gold &amp; Forex Move A",
-      "link": "https://www.reddit.com/r/Forex/comments/1vsth9x/what_caused_this_sudden_gold_forex_move_around/",
-      "published": "2026-08-19T17:42:26+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
