@@ -1,13 +1,31 @@
 {
-  "updated_at": "2026-08-21T15:14:58.075115+00:00",
-  "count": 47,
+  "updated_at": "2026-08-21T15:51:56.798647+00:00",
+  "count": 48,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound eases as UK sales drop, US services beat",
+      "summary": "The Pound Sterling loses some ground against the US Dollar, though it remains poised to end the week with gains of over 0.60%, even as UK Retail Sales disappointed investors and US business activity improved in August. The GBP/USD trades at 1.3626, down some 0.02%.",
+      "link": "https://www.fxstreet.com/news/british-pound-eases-as-uk-sales-drop-us-services-beat-202608211548",
+      "published": "2026-08-21T15:48:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Bulls eye 0.7200 as RSI nears overbought territory",
+      "summary": "AUD/USD edges higher on Friday, climbing to its highest level since June 3 as the Australian Dollar (AUD) outperforms all its major peers.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-eye-07200-as-rsi-nears-overbought-territory-202608211526",
+      "published": "2026-08-21T15:26:03+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: SNB's Tschudin: Artificial Intelligence can increase inflation in the short term..",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731463/SNBs-Tschudin-Artificial-Intelligence-can-increase-inflation-in-the-short-term.aspx",
+      "link": "https://www.financialjuice.com/News/9731463/SNBs-Tschudin-Artificial-Intelligence-can-increase-inflation-in-the-short-term.aspx?xy=rss",
       "published": "2026-08-21T15:05:38+00:00",
       "score": 1
     },
@@ -16,7 +34,7 @@
       "category": "news",
       "title": "FinancialJuice: SNB's Tschudin: Swiss inflation is low because of low inflation expectations, low weight of oil in the Swiss consumer basket.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731462/SNBs-Tschudin-Swiss-inflation-is-low-because-of-low-inflation-expectations-low-weight-of-oil-in-the-Swiss-consumer-basket.aspx",
+      "link": "https://www.financialjuice.com/News/9731462/SNBs-Tschudin-Swiss-inflation-is-low-because-of-low-inflation-expectations-low-weight-of-oil-in-the-Swiss-consumer-basket.aspx?xy=rss",
       "published": "2026-08-21T15:05:13+00:00",
       "score": 1
     },
@@ -25,7 +43,7 @@
       "category": "news",
       "title": "FinancialJuice: SNB's Tschudin: We don't publish interest rate forecasts; the current inflation forecast should not be taken to mean interest rates will remain at the current level for three years.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731461/SNBs-Tschudin-We-dont-publish-interest-rate-forecasts-the-current-inflation-forecast-should-not-be-taken-to-mean-interest-rates-will-remain-at-the-current-level-for-three-years.aspx",
+      "link": "https://www.financialjuice.com/News/9731461/SNBs-Tschudin-We-dont-publish-interest-rate-forecasts-the-current-inflation-forecast-should-not-be-taken-to-mean-interest-rates-will-remain-at-the-current-level-for-three-years.aspx?xy=rss",
       "published": "2026-08-21T15:04:54+00:00",
       "score": 2
     },
@@ -34,7 +52,7 @@
       "category": "news",
       "title": "FinancialJuice: SNB's Tschudin: The SNB would cut rates below 0% if inflation required it.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731440/SNBs-Tschudin-The-SNB-would-cut-rates-below-0-if-inflation-required-it.aspx",
+      "link": "https://www.financialjuice.com/News/9731440/SNBs-Tschudin-The-SNB-would-cut-rates-below-0-if-inflation-required-it.aspx?xy=rss",
       "published": "2026-08-21T15:00:43+00:00",
       "score": 2
     },
@@ -97,7 +115,7 @@
       "category": "news",
       "title": "FinancialJuice: US S&P Composite PMI Flash  Actual 56 (Forecast 54, Previous 54.5)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731330/US-SP-Composite-PMI-Flash--Actual-56-Forecast-54-Previous-545.aspx",
+      "link": "https://www.financialjuice.com/News/9731330/US-SP-Composite-PMI-Flash--Actual-56-Forecast-54-Previous-545.aspx?xy=rss",
       "published": "2026-08-21T13:45:00+00:00",
       "score": 1
     },
@@ -106,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: US S&P Services PMI Flash Actual 56.8 (Forecast 54, Previous 54.6)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731329/US-SP-Services-PMI-Flash-Actual-568-Forecast-54-Previous-546.aspx",
+      "link": "https://www.financialjuice.com/News/9731329/US-SP-Services-PMI-Flash-Actual-568-Forecast-54-Previous-546.aspx?xy=rss",
       "published": "2026-08-21T13:45:00+00:00",
       "score": 1
     },
@@ -115,7 +133,7 @@
       "category": "news",
       "title": "FinancialJuice: US S&P Manufacturing PMI Flash Actual 53.2 (Forecast 53.9, Previous 53.9)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731328/US-SP-Manufacturing-PMI-Flash-Actual-532-Forecast-539-Previous-539.aspx",
+      "link": "https://www.financialjuice.com/News/9731328/US-SP-Manufacturing-PMI-Flash-Actual-532-Forecast-539-Previous-539.aspx?xy=rss",
       "published": "2026-08-21T13:45:00+00:00",
       "score": 1
     },
@@ -133,7 +151,7 @@
       "category": "news",
       "title": "FinancialJuice: Cloverleaf Infrastructure forms a partnership with NVIDIA to deploy the NVIDIA DSX platform at AI sites $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9731323/Cloverleaf-Infrastructure-forms-a-partnership-with-NVIDIA-to-deploy-the-NVIDIA-DSX-platform-at-AI-sites-NVDA.aspx",
+      "link": "https://www.financialjuice.com/News/9731323/Cloverleaf-Infrastructure-forms-a-partnership-with-NVIDIA-to-deploy-the-NVIDIA-DSX-platform-at-AI-sites-NVDA.aspx?xy=rss",
       "published": "2026-08-21T13:31:44+00:00",
       "score": 1
     },
@@ -142,7 +160,7 @@
       "category": "news",
       "title": "FinancialJuice: MOO Imbalance",
       "summary": "S&amp;P 500: +987 mln<br />Nasdaq 100: +213 mln<br />Dow 30: +378 mln<br />Mag 7: +174 mln",
-      "link": "https://www.financialjuice.com/News/9731322/MOO-Imbalance.aspx",
+      "link": "https://www.financialjuice.com/News/9731322/MOO-Imbalance.aspx?xy=rss",
       "published": "2026-08-21T13:30:36+00:00",
       "score": 1
     },
@@ -165,15 +183,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Brent: Supply risks keep prices elevated – Commerzbank",
-      "summary": "Commerzbank’s Barbara Lambrecht says tensions around the Strait of Hormuz and tight diesel inventories continue to support Brent. With prices near USD 94 and almost 20% above their early-August lows, Brent remains well below its April peak.",
-      "link": "https://www.fxstreet.com/news/brent-supply-risks-keep-prices-elevated-commerzbank-202608211255",
-      "published": "2026-08-21T12:55:18+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Friday",
@@ -186,10 +195,10 @@
       "source": "FXStreet",
       "category": "news",
       "title": "$4,600: Gold rallies to three-month high, eyes third weekly gain",
-      "summary": "Gold (XAU/USD) consolidates its intraday advance during American trading hours on Friday after briefly climbing above $4,600 earlier in the day, its highest level since May 15. At the time of writing, XAU/USD trades around $4,588, heading for a third consecutive weekly gain.",
+      "summary": "Gold (XAU/USD) is heading for a third consecutive weekly gain on Friday, extending an impressive rally that has lifted the precious metal by around 13% so far this month. At the time of writing, XAU/USD trades around $4,603, its highest level since May 15.",
       "link": "https://www.fxstreet.com/news/4-600-gold-rallies-to-three-month-high-eyes-third-weekly-gain-202608211106",
       "published": "2026-08-21T11:06:55+00:00",
-      "score": 3
+      "score": 4
     },
     {
       "source": "FXStreet",
