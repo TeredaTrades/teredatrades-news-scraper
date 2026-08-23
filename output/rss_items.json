@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-23T23:29:12.839935+00:00",
-  "count": 41,
+  "updated_at": "2026-08-23T23:50:22.797267+00:00",
+  "count": 42,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar edges lower below 0.6000 after weaker Retail Sales data",
+      "summary": "The NZD/USD pair declines to around 0.5970 during the early Asian session on Monday. The New Zealand Dollar (NZD) weakens against the US Dollar (USD) following New Zealand's downbeat economic data.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-edges-lower-below-06000-after-weaker-retail-sales-data-202608232339",
+      "published": "2026-08-23T23:39:41+00:00",
+      "score": 1
+    },
     {
       "source": "r/Forex",
       "category": "reddit",
