@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-24T19:31:13.223741+00:00",
-  "count": 44,
+  "updated_at": "2026-08-24T20:03:08.121120+00:00",
+  "count": 46,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia falls for the 7th day, longest losing streak since 2022 $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9734178/Nvidia-falls-for-the-7th-day-longest-losing-streak-since-2022-NVDA.aspx?xy=rss",
+      "published": "2026-08-24T20:01:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +1289 mln<br />Nasdaq 100: +735 mln<br />Dow 30: +424 mln<br />Mag 7: +279 mln",
+      "link": "https://www.financialjuice.com/News/9734173/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-08-24T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index: Cautious rebound capped near 100 – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret observe that the US Dollar (USD) is modestly stronger as markets start the week cautiously, with equities defensive and Treasuries firmer.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-cautious-rebound-capped-near-100-scotiabank-202608241936",
+      "published": "2026-08-24T19:36:02+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -51,7 +78,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Silver Price Forecast: XAG pullback tests 100-day SMA",
-      "summary": "Silver price reverses course on Monday, down 0.59% as buyers failed to push the white metal past the $70.00, which exacerbated a reversal, to the first support level seen at the 100-day Simple Moving Average (SMA) at $68.42. At the time of writing, XAG/USD trades at $68.52, afer peaking at $69.92.",
+      "summary": "Silver (XAG/USD) price reverses course on Monday, down 0.59% as buyers failed to push the white metal past $70.00, which exacerbated a reversal to the first support level at the 100-day Simple Moving Average (SMA) at $68.42. At the time of writing, XAG/USD trades at $68.52, after peaking at $69.92.",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-pullback-tests-100-day-sma-202608241852",
       "published": "2026-08-24T18:52:11+00:00",
       "score": 4
@@ -171,15 +198,6 @@
       "summary": "Wells Fargo Economics, led by Tom Porcelli and colleagues, expects July consumer spending to rise modestly, with nominal Personal Income up 0.3% and spending up 0.2%. They highlight fading support from tax refunds, leaving demand more reliant on income growth.",
       "link": "https://www.fxstreet.com/news/united-states-spending-and-inflation-outlook-wells-fargo-202608241506",
       "published": "2026-08-24T15:06:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen slips as US Dollar stabilizes, US PCE in focus",
-      "summary": "USD/JPY edges higher on Monday as the US Dollar (USD) finds some stability following last week’s sharp volatility, with geopolitical developments back in focus as the United States prepares to widen secondary sanctions against Iran.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-us-dollar-stabilizes-us-pce-in-focus-202608241451",
-      "published": "2026-08-24T14:51:35+00:00",
       "score": 1
     },
     {
