@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-24T10:11:20.860280+00:00",
-  "count": 39,
+  "updated_at": "2026-08-24T10:54:50.137980+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Aussie eases from 12-week highs with bulls still in command",
+      "summary": "The Australian Dollar (AUD) ticks lower against the US Dollar (USD) on Monday, but maintains its broader bullish tone, with the AUD/USD pair trading at 0.7164, a few pips shy of the 12-week high of 0.7180 hit last Friday.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-aussie-eases-from-12-week-highs-with-bulls-still-in-command-202608241049",
+      "published": "2026-08-24T10:49:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold Price Forecast: XAU/USD pushes higher, but overbought RSI warns bulls",
+      "summary": "Gold (XAU/USD) maintains a bullish bias on Monday and trades near its highest levels since mid-May.",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-pushes-higher-but-overbought-rsi-warns-bulls-202608241026",
+      "published": "2026-08-24T10:26:24+00:00",
+      "score": 3
+    },
     {
       "source": "r/Forex",
       "category": "reddit",
