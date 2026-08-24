@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-24T01:24:42.700645+00:00",
+  "updated_at": "2026-08-24T02:46:46.673535+00:00",
   "count": 42,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen advances on BoJ rate hike bets, subdued US Dollar",
+      "summary": "USD/JPY extended its losses for the second straight day after intraday volatility, trading around 158.80 during Asian hours on Monday. The pair declines as the Japanese Yen (JPY) gains ground on stronger-than-expected inflation data, which accelerated for a second straight month.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-advances-on-boj-rate-hike-bets-subdued-us-dollar-202608240228",
+      "published": "2026-08-24T02:28:14+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar bears seem hesitant as weak USD counters US-Canada trade war",
+      "summary": "The USD/CAD pair struggles to capitalize on a bullish gap opening on Monday, though it retains an intraday positive bias amid concerns about a deepening US-Canada trade war.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bears-seem-hesitant-as-weak-usd-counters-us-canada-trade-war-202608240203",
+      "published": "2026-08-24T02:03:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold gains momentum above $4,600 on US Treasury buyback plans",
+      "summary": "Gold price (XAU/USD) gains traction to around $4,625 during the early Asian trading hours on Monday. The precious metal climbs to the highest since May 15 as the US Treasury's buyback support plan weighs on the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/gold-gains-momentum-above-4-600-on-us-treasury-buyback-plans-202608240140",
+      "published": "2026-08-24T01:40:30+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: S. Korea central bank sells 91-day monetary stabilisation bonds yielding 2.965%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9732894/S-Korea-central-bank-sells-91-day-monetary-stabilisation-bonds-yielding-2965.aspx?xy=rss",
+      "published": "2026-08-24T01:40:05+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -163,42 +199,6 @@
       "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-warshs-jackson-hole-debut-and-us-inflation-test-a-soft-us-dollar-202608212022",
       "published": "2026-08-21T20:22:46+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen neutral as it meets resilient US data",
-      "summary": "The US Dollar (USD) is muted against the Japanese Yen (JPY). USD/JPY traded in the low 159.00s at the time of writing on Friday.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-neutral-as-it-meets-resilient-us-data-202608211935",
-      "published": "2026-08-21T19:35:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Malaysian Ringgit: Supported by strong fundamentals against US Dollar – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong stress that the Malaysian Ringgit (MYR) remains relatively well supported by a softer US Dollar (USD) and robust domestic fundamentals.",
-      "link": "https://www.fxstreet.com/news/malaysian-ringgit-supported-by-strong-fundamentals-against-us-dollar-ocbc-202608211853",
-      "published": "2026-08-21T18:53:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore: inflation and production outlook – DBS",
-      "summary": "DBS economists Taimur Baig and Radhika Rao project Singapore’s headline and core inflation will rise in July to 2.4% and 2.3% year-on-year, respectively, driven by higher energy and food costs.",
-      "link": "https://www.fxstreet.com/news/singapore-inflation-and-production-outlook-dbs-202608211824",
-      "published": "2026-08-21T18:24:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG bulls test $70 as rally extends",
-      "summary": "Silver (XAG/USD) prices rally for the third straight day on Friday, up more than 2% and, for the week, gains over 7.40%, as a firm US Dollar (USD) is not an excuse for precious metals buyers, who are choosing flight-to-quality over haven demand due to the difficult US fiscal stance.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-bulls-test-70-as-rally-extends-202608211805",
-      "published": "2026-08-21T18:05:45+00:00",
-      "score": 5
     },
     {
       "source": "r/Forex",
