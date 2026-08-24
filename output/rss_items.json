@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-08-24T12:02:11.895616+00:00",
-  "count": 39,
+  "updated_at": "2026-08-24T13:13:32.005500+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Verizon to integrate Google Cloud's full AI stack into business.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9733616/Verizon-to-integrate-Google-Clouds-full-AI-stack-into-business.aspx?xy=rss",
+      "published": "2026-08-24T13:02:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Verizon to deploy Google Gemini Enterprise across operations",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9733610/Verizon-to-deploy-Google-Gemini-Enterprise-across-operations.aspx?xy=rss",
+      "published": "2026-08-24T13:01:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google Cloud partnership with Verizon for enterprise AI.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9733608/Google-Cloud-partnership-with-Verizon-for-enterprise-AI.aspx?xy=rss",
+      "published": "2026-08-24T13:00:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Effective Fed Funds Rate 3.63% August 21 vs 3.63% August 20.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9733605/Effective-Fed-Funds-Rate-363-August-21-vs-363-August-20.aspx?xy=rss",
+      "published": "2026-08-24T12:59:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Trade war escalation threatens recent strength – MUFG",
+      "summary": "MUFG's Derek Halpenny argues the Canadian Dollar’s (CAD) reaction to the new US tariffs on USD 20bn of Canadian exports will hinge on escalation risks rather than the initial measures.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-war-escalation-threatens-recent-strength-mufg-202608241257",
+      "published": "2026-08-24T12:57:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump plans another $100,000 h-1b fee in new proposal.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9733603/Trump-plans-another-100000-h-1b-fee-in-new-proposal.aspx?xy=rss",
+      "published": "2026-08-24T12:53:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Range consolidation against US Dollar as growth gap narrows – Societe Generale",
+      "summary": "Societe Generale’s Kit Juckes notes EUR/USD has retraced half of its drop from above 1.20 to 1.1325 and is now stuck in a range as markets await fresh US data.",
+      "link": "https://www.fxstreet.com/news/euro-range-consolidation-against-us-dollar-as-growth-gap-narrows-societe-generale-202608241246",
+      "published": "2026-08-24T12:46:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Iran is completely collapsing",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9733577/Trump-Iran-is-completely-collapsing.aspx?xy=rss",
+      "published": "2026-08-24T12:42:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: Cooling inflation but carry remains supportive – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad expects Australia’s July Consumer Price Index (CPI) to ease, with headline and trimmed mean inflation drifting lower, in line with softer labor conditions and wage growth.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-cooling-inflation-but-carry-remains-supportive-bbh-202608241223",
+      "published": "2026-08-24T12:23:56+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: Buyers stall near $70 after strong rally",
+      "summary": "Silver (XAG/USD) is little changed on Monday, fluctuating between modest gains and losses near its highest level since mid-June, with buyers struggling to clear the $70 psychological mark.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-buyers-stall-near-70-after-strong-rally-202608241209",
+      "published": "2026-08-24T12:09:33+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -42,7 +132,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Gold extends rally as markets await US PCE and Warsh’s Jackson Hole speech",
-      "summary": "Gold (XAU/USD) extends its advance on Monday, building on the strong rally seen last week following the US Treasury’s buyback announcement. At the time of writing, XAU/USD trades around $4,644, up nearly 0.90% on the day, at levels last seen on May 15.",
+      "summary": "Gold (XAU/USD) holds intraday gains at the start of American trading hours on Monday, building on the strong rally seen last week following the US Treasury’s buyback announcement. At the time of writing, XAU/USD trades around $4,658, up nearly 1.2% on the day at levels last seen on May 15.",
       "link": "https://www.fxstreet.com/news/gold-extends-rally-as-markets-await-us-pce-and-warshs-jackson-hole-speech-202608241107",
       "published": "2026-08-24T11:07:10+00:00",
       "score": 3
@@ -72,78 +162,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vwyerl/some_setups_i_called_before_the_move_last_friday/\"> <img alt=\"Some setups I called before the move last Friday\" src=\"https://preview.redd.it/obm7pjjxpalh1.png?width=140&amp;height=97&amp;auto=webp&amp;s=175705093fadf992071f969e96e58319de6ede6e\" title=\"Some setups I called before the move last Friday\" /> </a> </td><td> <!-- S",
       "link": "https://www.reddit.com/r/Forex/comments/1vwyerl/some_setups_i_called_before_the_move_last_friday/",
       "published": "2026-08-24T09:59:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Event-driven risks shape debasement narrative – MUFG",
-      "summary": "MUFG’s Derek Halpenny notes the US Dollar is broadly stable as investors focus on US Treasury actions to contain long-term yields and renewed talk of Dollar debasement.",
-      "link": "https://www.fxstreet.com/news/us-dollar-event-driven-risks-shape-debasement-narrative-mufg-202608240958",
-      "published": "2026-08-24T09:58:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Momentum builds toward 0.7200 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight AUD/USD’s sharp rally to 0.7180 and close near 0.7170, noting the move looks stretched but still lacks signs of a pause.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-momentum-builds-toward-07200-against-us-dollar-uob-202608240948",
-      "published": "2026-08-24T09:48:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) fell on Monday, according to FXStreet data. Silver trades at $68.80 per troy ounce, down 0.25% from the $68.98 it cost on Friday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608240931",
-      "published": "2026-08-24T09:31:38+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro holds near three-month highs as investors await US sanctions to Iran",
-      "summary": "The Euro (EUR) nurses minor losses against the US Dollar (USD) on Monday but holds most of the gains taken last week.",
-      "link": "https://www.fxstreet.com/news/euro-holds-near-three-month-highs-as-investors-await-us-sanctions-to-iran-202608240915",
-      "published": "2026-08-24T09:15:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen weakens against recovering USD; seems vulnerable amid US-Japan rate gap",
-      "summary": "The USD/JPY pair rallies over 75 pips following an intraday slide to mid-158.00s and climbs to a fresh daily high during the first half of the European session on Monday.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-against-recovering-usd-seems-vulnerable-amid-us-japan-rate-gap-202608240909",
-      "published": "2026-08-24T09:09:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Credit Ágricole: US Week Ahead - FJElite",
-      "summary": "<div><ul><li>A much busier calendar lies ahead with the Fed’s Jackson Hole symposium in the spotlight. On the data front, highlights include PCE inflation, personal income &amp; spending, GDP revisions and the preliminary estimate for the annual benchmark revision for NFP, among others.</li><li>The Kansas City Fed’s annual Jackson Hole conference will arrive at the end of the week, with new Chair ",
-      "link": "https://www.financialjuice.com/News/9733298/Credit-%c3%81gricole-US-Week-Ahead---FJElite.aspx?xy=rss",
-      "published": "2026-08-24T08:56:07+00:00",
-      "score": 6
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Morgan Stanley: US Treasury Larger Buybacks - FJElite",
-      "summary": "<div><ul><li>We think additional UST liquidity buybacks and associated signaling buy time for the fundamental drivers of a steeper yield curve and lower rates to play out.</li><li>We think Treasury funds these incrementally larger buybacks with T-bill issuance. Investors should not conflate this with a Maturity Extension Program or QE.</li><li>We suggest investors maintain UST 7s30s steepeners and",
-      "link": "https://www.financialjuice.com/News/9733277/Morgan-Stanley-US-Treasury-Larger-Buybacks---FJElite.aspx?xy=rss",
-      "published": "2026-08-24T08:36:57+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Pakistan's Munir spoke to Trump ahead of Tehran visit - Sources",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9733250/Pakistans-Munir-spoke-to-Trump-ahead-of-Tehran-visit---Sources.aspx?xy=rss",
-      "published": "2026-08-24T08:15:04+00:00",
       "score": 1
     },
     {
