@@ -2426,6 +2426,14 @@
   {
     "title": "Treasury Sec Bessent Speaks",
     "country": "USD",
+    "date": "2026-08-24T13:00:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "Treasury Sec Bessent Speaks",
+    "country": "USD",
     "date": "2026-08-24T14:00:00-04:00",
     "impact": "Medium",
     "forecast": "",
@@ -2460,7 +2468,7 @@
     "country": "EUR",
     "date": "2026-08-25T04:00:00-04:00",
     "impact": "Low",
-    "forecast": "87.3",
+    "forecast": "87.2",
     "previous": "86.6"
   },
   {
@@ -2470,6 +2478,14 @@
     "impact": "Low",
     "forecast": "",
     "previous": "9.5K"
+  },
+  {
+    "title": "FOMC Member Barkin Speaks",
+    "country": "USD",
+    "date": "2026-08-25T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "Belgian NBB Business Climate",
@@ -2492,7 +2508,7 @@
     "country": "USD",
     "date": "2026-08-25T09:00:00-04:00",
     "impact": "Low",
-    "forecast": "1.9%",
+    "forecast": "1.8%",
     "previous": "1.6%"
   },
   {
@@ -2516,8 +2532,16 @@
     "country": "USD",
     "date": "2026-08-25T10:00:00-04:00",
     "impact": "Low",
-    "forecast": "7",
+    "forecast": "6",
     "previous": "5"
+  },
+  {
+    "title": "FOMC Member Barkin Speaks",
+    "country": "USD",
+    "date": "2026-08-25T16:00:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "API Weekly Statistical Bulletin",
@@ -2564,7 +2588,7 @@
     "country": "AUD",
     "date": "2026-08-25T21:30:00-04:00",
     "impact": "High",
-    "forecast": "0.3%",
+    "forecast": "0.4%",
     "previous": "0.3%"
   },
   {
@@ -2654,6 +2678,14 @@
     "impact": "Low",
     "forecast": "",
     "previous": "4.4M"
+  },
+  {
+    "title": "FOMC Member Barkin Speaks",
+    "country": "USD",
+    "date": "2026-08-26T11:45:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "Gov Board Member Martin Speaks",
