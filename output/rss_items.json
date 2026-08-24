@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-08-24T14:05:08.767240+00:00",
-  "count": 46,
+  "updated_at": "2026-08-24T15:01:02.800775+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SpaceXAI adopts Nvidia Vera CPU to accelerate Agentic AI. $NVDA $SPCX",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9733769/SpaceXAI-adopts-Nvidia-Vera-CPU-to-accelerate-Agentic-AI-NVDA-SPCX.aspx?xy=rss",
+      "published": "2026-08-24T15:00:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen slips as US Dollar stabilizes, US PCE in focus",
+      "summary": "USD/JPY edges higher on Monday as the US Dollar (USD) finds some stability following last week’s sharp volatility, with geopolitical developments back in focus as the United States prepares to widen secondary sanctions against Iran.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-us-dollar-stabilizes-us-pce-in-focus-202608241451",
+      "published": "2026-08-24T14:51:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: Jackson Hole communication focus – Wells Fargo",
+      "summary": "Wells Fargo Economics argues that Jackson Hole is often overhyped, with only a couple of truly consequential speeches in the past 14 years.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-jackson-hole-communication-focus-wells-fargo-202608241433",
+      "published": "2026-08-24T14:33:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Bank of Canada: Rates seen on hold then higher – TD Securities",
+      "summary": "TD Securities expects the Bank of Canada to maintain the Overnight Rate at 2.25% through 2026, despite headline CPI near the top of its target range.",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-rates-seen-on-hold-then-higher-td-securities-202608241421",
+      "published": "2026-08-24T14:21:43+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Trump announces tariffs on Canadian autos, trucks and steel",
+      "summary": "United States (US) President Donald Trump has announced a sharp escalation in the trade fight with Canada, declaring that beginning January 1, 2027, the United States will raise tariffs to 50% on all cars, trucks, automotive parts, and steel imported from its northern neighbor.",
+      "link": "https://www.fxstreet.com/news/us-president-trump-announces-tariffs-on-canadian-autos-trucks-and-steel-202608241413",
+      "published": "2026-08-24T14:13:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Weakness may stabilize as US growth advantage persists - BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes that the Treasury’s buyback announcement initially pushed longer-term Treasuries lower, weakened the Dollar and boosted Gold. He argues the USD slump should stabilize this week, with the US growth advantage offsetting fiscal concerns.",
+      "link": "https://www.fxstreet.com/news/us-dollar-weakness-may-stabilize-as-us-growth-advantage-persists-bbh-202608241411",
+      "published": "2026-08-24T14:11:49+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -111,39 +165,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Google Cloud partnership with Verizon for enterprise AI.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9733608/Google-Cloud-partnership-with-Verizon-for-enterprise-AI.aspx?xy=rss",
-      "published": "2026-08-24T13:00:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Effective Fed Funds Rate 3.63% August 21 vs 3.63% August 20.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9733605/Effective-Fed-Funds-Rate-363-August-21-vs-363-August-20.aspx?xy=rss",
-      "published": "2026-08-24T12:59:46+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Canadian Dollar: Trade war escalation threatens recent strength – MUFG",
       "summary": "MUFG's Derek Halpenny argues the Canadian Dollar’s (CAD) reaction to the new US tariffs on USD 20bn of Canadian exports will hinge on escalation risks rather than the initial measures.",
       "link": "https://www.fxstreet.com/news/canadian-dollar-trade-war-escalation-threatens-recent-strength-mufg-202608241257",
       "published": "2026-08-24T12:57:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump plans another $100,000 h-1b fee in new proposal.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9733603/Trump-plans-another-100000-h-1b-fee-in-new-proposal.aspx?xy=rss",
-      "published": "2026-08-24T12:53:20+00:00",
       "score": 1
     },
     {
@@ -163,42 +190,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-cooling-inflation-but-carry-remains-supportive-bbh-202608241223",
       "published": "2026-08-24T12:23:56+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: Buyers stall near $70 after strong rally",
-      "summary": "Silver (XAG/USD) is little changed on Monday, fluctuating between modest gains and losses near its highest level since mid-June, with buyers struggling to clear the $70 psychological mark.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-buyers-stall-near-70-after-strong-rally-202608241209",
-      "published": "2026-08-24T12:09:33+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Debasement narrative caps upside – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that the US Treasury’s expanded long-end buyback programme has revived market fears of Dollar debasement, driving a weaker USD, stronger Gold and higher breakevens.",
-      "link": "https://www.fxstreet.com/news/us-dollar-debasement-narrative-caps-upside-ocbc-202608241139",
-      "published": "2026-08-24T11:39:59+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Experts agree: Japanese Yen needs more than intervention to take off from lows",
-      "summary": "The Japanese Yen (JPY) extends losses against the US Dollar (USD) in a calm trading session on Monday.",
-      "link": "https://www.fxstreet.com/news/experts-agree-japanese-yen-needs-more-than-intervention-to-take-off-from-lows-202608241139",
-      "published": "2026-08-24T11:39:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Breakout sustains upward momentum – Societe Generale",
-      "summary": "Societe Generale analysts highlight that Gold has broken out of a small base formation, reclaimed its 200‑DMA and is enjoying an extended rebound. The move is framed within broader Dollar debasement concerns and rising term premium.",
-      "link": "https://www.fxstreet.com/news/gold-breakout-sustains-upward-momentum-societe-generale-202608241126",
-      "published": "2026-08-24T11:26:06+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
