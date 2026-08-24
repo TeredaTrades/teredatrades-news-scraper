@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-24T20:49:00.065391+00:00",
-  "count": 44,
+  "updated_at": "2026-08-24T21:31:38.166421+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen lower as US Dollar firms on heavier Iran sanctions",
+      "summary": "The US Dollar (USD) is grinding higher against the Japanese Yen (JPY) at the time of writing, with USD/JPY holding north of the 159.00 mark.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-lower-as-us-dollar-firms-on-heavier-iran-sanctions-202608242115",
+      "published": "2026-08-24T21:15:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Thoughts on EURUSD",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vxfpdk/thoughts_on_eurusd/\"> <img alt=\"Thoughts on EURUSD\" src=\"https://preview.redd.it/wmjyim6d2elh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0d470ee0d6a74a8d13e8a9fb7372e019a09d56a\" title=\"Thoughts on EURUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Solid uptrend looking for longs because of the nice swings .",
+      "link": "https://www.reddit.com/r/Forex/comments/1vxfpdk/thoughts_on_eurusd/",
+      "published": "2026-08-24T21:13:03+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -15,7 +33,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Mexican Peso weakens as Iran sanctions offset Mexico’s inflation data",
-      "summary": "The Mexican Peso lost ground against the Greenback on Monday, even though economic data showed that inflation accelerated in the first half of August, while economic growth was softer than expected. Consequently, the USD/MXN exotic pair trades with gains of over 0.25%, at 16.96.",
+      "summary": "The Mexican Peso (MXN) loses ground against the Greenback on Monday, even though economic data showed that inflation accelerated in the first half of August, while economic growth was softer than expected. Consequently, the USD/MXN pair trades with gains of over 0.25% to 16.96.",
       "link": "https://www.fxstreet.com/news/mexican-peso-weakens-as-iran-sanctions-offset-mexicos-inflation-data-202608242013",
       "published": "2026-08-24T20:13:47+00:00",
       "score": 2
@@ -165,39 +183,12 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar retreats from recent highs on weak Retail Sales",
-      "summary": "NZD/USD retreats to around 0.5960 on Monday at the time of writing, down 0.25% on the day, after approaching the 0.6000 level on Friday.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-retreats-from-recent-highs-on-weak-retail-sales-202608241552",
-      "published": "2026-08-24T15:52:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar pulls back near multi-month highs as traders await RBA Minutes",
-      "summary": "AUD/USD is pulling back to the 0.7150 region, consolidating just below its recent multi-month highs. Traders are largely focused on the Reserve Bank of Australia (RBA) Minutes due later in the Asian session.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-pulls-back-near-multi-month-highs-as-traders-await-rba-minutes-202608241543",
-      "published": "2026-08-24T15:43:58+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Why do all my XAUUSD strategies suddenly work better after 2023",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>I’ve been backtesting XAUUSD and noticed something really strange.</p> <p>I’ve made 4–5 different strategies: liquidity sweeps, market structure, HH/HL, previous-day Fibonacci, etc. They’re based on completely different POIs.</p> <p>The only major thing they have in common is my 15m confirmation: a VSA-style engulfing/two-bar reversal where the fir",
       "link": "https://www.reddit.com/r/Forex/comments/1vx1v03/why_do_all_my_xauusd_strategies_suddenly_work/",
       "published": "2026-08-24T12:48:00+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold extends gains as US Treasury buyback fallout keeps buyers in control",
-      "summary": "Gold (XAU/USD) remains firmly bid on Monday after last week’s rally sparked by the US Treasury’s buyback announcement. However, buyers appear hesitant to push prices much higher as traders await key risk events later this week.",
-      "link": "https://www.fxstreet.com/news/gold-extends-rally-as-markets-await-us-pce-and-warshs-jackson-hole-speech-202608241107",
-      "published": "2026-08-24T11:07:10+00:00",
       "score": 3
     },
     {
