@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-24T03:55:48.996450+00:00",
+  "updated_at": "2026-08-24T04:49:51.814871+00:00",
   "count": 45,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc advances as Dollar slides on US bond buyback surge",
+      "summary": "USD/CHF depreciates after two days of gains, trading around 0.8000 during the Asian hours on Monday. The currency pair depreciates as the US Dollar (USD) struggles under pressure from newly announced fiscal measures in Washington.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-advances-as-dollar-slides-on-us-bond-buyback-surge-202608240445",
+      "published": "2026-08-24T04:45:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold hits fresh high since mid-May as lower bond yields and fading Fed bets undermine USD",
+      "summary": "Gold (XAU/USD) builds on last week's breakout momentum above a technically significant 200-day Simple Moving Average (SMA) and climbs above $4,650 during the Asian session on Monday, hitting a fresh high since mid-May.",
+      "link": "https://www.fxstreet.com/news/gold-hits-fresh-high-since-mid-may-as-lower-bond-yields-and-fading-fed-bets-undermine-usd-202608240444",
+      "published": "2026-08-24T04:44:26+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Monday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608240436",
+      "published": "2026-08-24T04:36:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee strengthens due to strong capital inflows, RBI support",
+      "summary": "The Indian Rupee (INR) inches higher against the US Dollar (USD) for the second consecutive day on Monday, positioning itself for a quiet start to the week.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-strengthens-due-to-strong-capital-inflows-rbi-support-202608240412",
+      "published": "2026-08-24T04:12:40+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -189,42 +225,6 @@
       "summary": "The Aussie Dollar finished the week with gains of over 0.82% on Friday and up more than 1.20% for the week as the US Dollar tumbled following the US Treasury Department's announcement of a bond buyback for the long end of the curve. The AUD/USD trades at 0.7170, after rebounding near 0.7067.",
       "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-bulls-target-ytd-high-after-breakout-202608212315",
       "published": "2026-08-21T23:15:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CHF Price Forecast: Bulls reclaim 0.8000 as recovery stalls",
-      "summary": "The USD/CHF advanced on Friday, registering a modest 0.07% gain, trading at 0.8010. During the week, the pair finished with losses of over 1.49%, triggered by a drop in US yields on Wednesday, as the US Treasury tries to cap elevated yields on the 30-year bond.",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-reclaim-08000-as-recovery-stalls-202608212302",
-      "published": "2026-08-21T23:02:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Treasury yields extend rebound as Services PMI beats estimates",
-      "summary": "US Treasury yields continue their recovery following the announcement of a bond buyback by the US Department of the Treasury, while data reveal that business activity remains solid despite a slowdown in manufacturing.",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-extend-rebound-as-services-pmi-beats-estimates-202608212238",
-      "published": "2026-08-21T22:38:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso reaches two-year high despite weaker Retail Sales",
-      "summary": "The Mexican currency appreciates to levels last seen in May 2024 as the USD/MXN falls to a two-year low as the US Dollar tumbles even though business activity in the services sector improved. The exotic pair trades at 16.92, down 0.22% for the week and 0.50% for the week.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-reaches-two-year-high-despite-weaker-retail-sales-202608212222",
-      "published": "2026-08-21T22:22:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South Korean Won: Cautious tightening path expected from BoK – DBS",
-      "summary": "DBS economists Taimur Baig and Radhika Rao expect the Bank of Korea (BoK) to raise its base rate by 25bps to 3.00% at the August meeting, alongside upgraded Gross Domestic Product (GDP) and Consumer Price Index (CPI) forecasts.",
-      "link": "https://www.fxstreet.com/news/south-korean-won-cautious-tightening-path-expected-from-bok-dbs-202608212058",
-      "published": "2026-08-21T20:58:00+00:00",
       "score": 1
     },
     {
