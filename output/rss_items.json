@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-08-24T13:13:32.005500+00:00",
-  "count": 41,
+  "updated_at": "2026-08-24T14:05:08.767240+00:00",
+  "count": 46,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar slides as Trump escalates trade war with Canada",
+      "summary": "USD/CAD extends its advance on Monday, trading around 1.3830 at the time of writing, up 0.52% on the day.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-as-trump-escalates-trade-war-with-canada-202608241403",
+      "published": "2026-08-24T14:03:36+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: German Fin. Min. Klingbeil: Surge in bond yields a result of Trump's war.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9733701/German-Fin-Min-Klingbeil-Surge-in-bond-yields-a-result-of-Trumps-war.aspx?xy=rss",
+      "published": "2026-08-24T14:01:16+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Rally vulnerable to reversal against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight that the Euro (EUR) is softer against the Dollar (USD) after an almost 3% rally from late July, with price action turning defensive.",
+      "link": "https://www.fxstreet.com/news/euro-rally-vulnerable-to-reversal-against-us-dollar-scotiabank-202608241355",
+      "published": "2026-08-24T13:55:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump Clarifies Tariffs on Canada - Truth Social",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9733689/Trump-Clarifies-Tariffs-on-Canada---Truth-Social.aspx?xy=rss",
+      "published": "2026-08-24T13:55:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Build in US and there are zero tariffs.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9733663/Trump-Build-in-US-and-there-are-zero-tariffs.aspx?xy=rss",
+      "published": "2026-08-24T13:39:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Canada: On January 1st, 2027, tariffs on all cars, trucks, both large and small, automotive parts, and steel, will be increased to 50%.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9733662/Trump-on-Canada-On-January-1st-2027-tariffs-on-all-cars-trucks-both-large-and-small-automotive-parts-and-steel-will-be-increased-to-50.aspx?xy=rss",
+      "published": "2026-08-24T13:38:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: +25 mln<br />Nasdaq 100: +15 mln<br />Dow 30: +8 mln<br />Mag 7: +8 mln",
+      "link": "https://www.financialjuice.com/News/9733644/MOO-Imbalance.aspx?xy=rss",
+      "published": "2026-08-24T13:30:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro holds ground as US Dollar steadies, markets brace for Iran sanctions",
+      "summary": "EUR/USD trades flat on Monday as the US Dollar (USD) steadies and markets settle into a calmer tone following the sharp volatility triggered by the US Treasury’s surprise buyback announcement last week. At the time of writing, the pair trades around 1.1670, hovering near levels last seen in mid-May.",
+      "link": "https://www.fxstreet.com/news/euro-holds-ground-as-us-dollar-steadies-and-markets-brace-for-iran-sanctions-202608241330",
+      "published": "2026-08-24T13:30:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Deutsche Bank's View So Far - FJElite",
+      "summary": "<div>Pullback in Treasury yields this morning follows last week’s surprise announcement that the US Treasury will increase its buyback operations for longer-dated Treasuries. That briefly eased the pressure on yields when it was announced, with the 30yr yield down -9.2bps on Wednesday to 5.19%, after reachinga post-2007 high of 5.31% last Monday. But even with that intervention, yields then crept ",
+      "link": "https://www.financialjuice.com/News/9733641/Deutsche-Banks-View-So-Far---FJElite.aspx?xy=rss",
+      "published": "2026-08-24T13:27:24+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: Warsh faces a communication test – DBS",
+      "summary": "DBS Bank strategist Philip Wee argues that Fed Chairman Kevin Warsh’s rejection of forward guidance is amplifying market volatility and complicating the policy mix with the Treasury.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-warsh-faces-a-communication-test-dbs-202608241319",
+      "published": "2026-08-24T13:19:36+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -66,15 +156,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran is completely collapsing",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9733577/Trump-Iran-is-completely-collapsing.aspx?xy=rss",
-      "published": "2026-08-24T12:42:36+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Australian Dollar: Cooling inflation but carry remains supportive – BBH",
@@ -122,37 +203,10 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro: Positioning supports gradual gains against US Dollar – ING",
-      "summary": "ING’s Chris Turner highlights futures data showing asset managers and leveraged funds adding Euro exposure, leaving speculators underweight. He notes recovering German IFO and Eurozone PMIs, and sees limited need for EUR/USD to drop sharply below 1.1660/70 unless risk assets suffer.",
-      "link": "https://www.fxstreet.com/news/euro-positioning-supports-gradual-gains-against-us-dollar-ing-202608241117",
-      "published": "2026-08-24T11:17:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold extends rally as markets await US PCE and Warsh’s Jackson Hole speech",
-      "summary": "Gold (XAU/USD) holds intraday gains at the start of American trading hours on Monday, building on the strong rally seen last week following the US Treasury’s buyback announcement. At the time of writing, XAU/USD trades around $4,658, up nearly 1.2% on the day at levels last seen on May 15.",
+      "title": "Gold extends gains as US Treasury buyback fallout keeps buyers in control",
+      "summary": "Gold (XAU/USD)extends its intraday advance on Monday, building on the strong rally seen last week following the US Treasury’s buyback announcement. At the time of writing, XAU/USD trades around $4,674, up nearly 1.5% on the day at levels last seen on May 14.",
       "link": "https://www.fxstreet.com/news/gold-extends-rally-as-markets-await-us-pce-and-warshs-jackson-hole-speech-202608241107",
       "published": "2026-08-24T11:07:10+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "AUD/USD Price Forecast: Aussie eases from 12-week highs with bulls still in command",
-      "summary": "The Australian Dollar (AUD) ticks lower against the US Dollar (USD) on Monday, but maintains its broader bullish tone, with the AUD/USD pair trading at 0.7164, a few pips shy of the 12-week high of 0.7180 hit last Friday.",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-aussie-eases-from-12-week-highs-with-bulls-still-in-command-202608241049",
-      "published": "2026-08-24T10:49:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD pushes higher, but overbought RSI warns bulls",
-      "summary": "Gold (XAU/USD) maintains a bullish bias on Monday and trades near its highest levels since mid-May.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-pushes-higher-but-overbought-rsi-warns-bulls-202608241026",
-      "published": "2026-08-24T10:26:24+00:00",
       "score": 3
     },
     {
@@ -199,15 +253,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vvl9mw/monday_price_actin_prediction_xauusd_thoughts/",
       "published": "2026-08-22T19:18:37+00:00",
       "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gold at 4608 — What’s Your Monday Bias?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vv6e88/gold_at_4608_whats_your_monday_bias/\"> <img alt=\"Gold at 4608 — What’s Your Monday Bias?\" src=\"https://preview.redd.it/mkwoijg5wvkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6751e05300d3120a34942ea2c516d5035dc527c6\" title=\"Gold at 4608 — What’s Your Monday Bias?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>T",
-      "link": "https://www.reddit.com/r/Forex/comments/1vv6e88/gold_at_4608_whats_your_monday_bias/",
-      "published": "2026-08-22T08:06:09+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
