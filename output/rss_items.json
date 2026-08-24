@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-24T21:31:38.166421+00:00",
-  "count": 43,
+  "updated_at": "2026-08-24T22:01:55.933100+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Rally faces consolidation risk on policy week – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that South Korean Won (KRW) has extended its rally, with USD/KRW briefly touching 1380 on exporter and corporate US Dollar (USD) selling and a softer USD backdrop.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-rally-faces-consolidation-risk-on-policy-week-ocbc-202608242151",
+      "published": "2026-08-24T21:51:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: 1.1700 caps bulls as RSI overheats",
+      "summary": "The shared currency registers minimal losses of 0.13% versus the US Dollar as EUR/USD fails to surpass 1.1700, exacerbating the drop towards the 1.1660 area, despite retaining its current neutral-to-upward bias.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-11700-caps-bulls-as-rsi-overheats-202608242146",
+      "published": "2026-08-24T21:46:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar muted near multi-month highs as it outweighs soft retail sales",
+      "summary": "The New Zealand Dollar (NZD) is holding firm against the US Dollar (USD) at the time of writing, with NZD/USD consolidating near its recent multi-month highs, just south of the 0.6000 handle.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-muted-near-multi-month-highs-as-it-outweighs-soft-retail-sales-202608242141",
+      "published": "2026-08-24T21:41:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US considers 7.5% China overcapacity tariffs ahead of Xi-Trump meeting",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9734269/US-considers-75-China-overcapacity-tariffs-ahead-of-Xi-Trump-meeting.aspx?xy=rss",
+      "published": "2026-08-24T21:32:44+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -163,24 +199,6 @@
       "link": "https://www.fxstreet.com/news/japanese-yen-focus-shifts-to-boj-path-scotiabank-202608241747",
       "published": "2026-08-24T17:47:26+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Treasury bids and offers the Dow Jones Industrial Average",
-      "summary": "The same department that spent the morning telling the bond market it has roughly 950 billion Dollars available to hold long yields down will spend the afternoon announcing sanctions designed to tighten the oil chokepoint that drove those yields up.",
-      "link": "https://www.fxstreet.com/news/the-treasury-bids-and-offers-the-dow-jones-industrial-average-202608241614",
-      "published": "2026-08-24T16:14:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound holds firm as US sanctions on Iran loom",
-      "summary": "The Pound Sterling (GBP) holds firm against the US Dollar (USD) at around 1.3640 on Monday, with traders eyeing speeches by US Treasury Secretary Scott Bessent on Iran’s sanctions later in the day and by Federal Reserve (Fed) Chair Kevin Warsh at the Kansas City Fed Jackson Hole Symposium on Friday.",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-firm-as-the-us-sanctions-on-iran-loom-202608241613",
-      "published": "2026-08-24T16:13:06+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
