@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-24T15:56:08.862645+00:00",
-  "count": 45,
+  "updated_at": "2026-08-24T16:43:18.710914+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Treasury bids and offers the Dow Jones Industrial Average",
+      "summary": "The same department that spent the morning telling the bond market it has roughly 950 billion Dollars available to hold long yields down will spend the afternoon announcing sanctions designed to tighten the oil chokepoint that drove those yields up.",
+      "link": "https://www.fxstreet.com/news/the-treasury-bids-and-offers-the-dow-jones-industrial-average-202608241614",
+      "published": "2026-08-24T16:14:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound holds firm as the US sanctions on Iran loom",
+      "summary": "The Pound Sterling holds firm against the US Dollar at around 1.3640, with traders eyeing speeches by US Treasury Secretary Scott Bessent on Iran’s sanctions and by Fed Chair Kevin Warsh at the Kansas City Fed Jackson Hole Symposium. The GBP/USD trades near its opening price, barely unchanged.",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-firm-as-the-us-sanctions-on-iran-loom-202608241613",
+      "published": "2026-08-24T16:13:06+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Wall Street executives say Trump administration is not expected to pursue austerity and instead aims to grow out of debt through higher tax revenue  - Fox Business Reporter on X",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9733882/Wall-Street-executives-say-Trump-administration-is-not-expected-to-pursue-austerity-and-instead-aims-to-grow-out-of-debt-through-higher-tax-revenue----Fox-Business-Reporter-on-X.aspx",
+      "published": "2026-08-24T16:07:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Wall Street executives say measures are aimed at preventing a further surge in yields ahead of the midterms  - Fox Business Reporter on X",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9733880/Wall-Street-executives-say-measures-are-aimed-at-preventing-a-further-surge-in-yields-ahead-of-the-midterms----Fox-Business-Reporter-on-X.aspx",
+      "published": "2026-08-24T16:07:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Wall Street executives say Treasury Secretary Bessent is prepared to take aggressive steps to push 10-year Treasury yield toward 5% - Fox Business Reporter on X",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9733878/Wall-Street-executives-say-Treasury-Secretary-Bessent-is-prepared-to-take-aggressive-steps-to-push-10-year-Treasury-yield-toward-5---Fox-Business-Reporter-on-X.aspx",
+      "published": "2026-08-24T16:05:54+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -21,51 +66,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 6-Month Bill Auctions",
-      "summary": "<ul><li>High yield 3.79%</li><li>Bid-to-Cover 3.05</li><li>Sells $97 bln</li><li>Awards 59.64% of bids at high</li></ul>",
-      "link": "https://www.financialjuice.com/News/9733836/US-6-Month-Bill-Auctions.aspx",
-      "published": "2026-08-24T15:36:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 3-Month Bill Auction",
-      "summary": "<ul><li>High yield 3.715%</li><li>Bid&nbsp; to Cover 3.08</li><li>Sells $92 bln</li><li>Awards 97.66% of bids at high</li></ul>",
-      "link": "https://www.financialjuice.com/News/9733835/US-3-Month-Bill-Auction.aspx",
-      "published": "2026-08-24T15:34:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 6-Month Bill High Yield Actual 3.79% (Forecast -, Previous 3.780%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9733829/US-6-Month-Bill-High-Yield-Actual-379-Forecast---Previous-3780.aspx",
-      "published": "2026-08-24T15:32:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 3-Month Bill High Yield Actual 3.715% (Forecast -, Previous 3.715%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9733826/US-3-Month-Bill-High-Yield-Actual-3715-Forecast---Previous-3715.aspx",
-      "published": "2026-08-24T15:32:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US eyes 7.5% China overcapacity tariffs before Xi-Trump talks.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9733808/US-eyes-75-China-overcapacity-tariffs-before-Xi-Trump-talks.aspx",
-      "published": "2026-08-24T15:29:06+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "British Pound: Sentiment supports further gains against US Dollar – Scotiabank",
@@ -81,33 +81,6 @@
       "summary": "Wells Fargo Economics, led by Tom Porcelli and colleagues, expects July consumer spending to rise modestly, with nominal Personal Income up 0.3% and spending up 0.2%. They highlight fading support from tax refunds, leaving demand more reliant on income growth.",
       "link": "https://www.fxstreet.com/news/united-states-spending-and-inflation-outlook-wells-fargo-202608241506",
       "published": "2026-08-24T15:06:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia Groq 3 LPX hits 3,400 output tokens/sec. $NVDA $SPCX",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9733771/Nvidia-Groq-3-LPX-hits-3400-output-tokenssec-NVDA-SPCX.aspx",
-      "published": "2026-08-24T15:01:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia Groq 3 LPX now in full production. $NVDA $SPCX",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9733770/Nvidia-Groq-3-LPX-now-in-full-production-NVDA-SPCX.aspx",
-      "published": "2026-08-24T15:01:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: SpaceXAI adopts Nvidia Vera CPU to accelerate Agentic AI. $NVDA $SPCX",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9733769/SpaceXAI-adopts-Nvidia-Vera-CPU-to-accelerate-Agentic-AI-NVDA-SPCX.aspx",
-      "published": "2026-08-24T15:00:40+00:00",
       "score": 1
     },
     {
@@ -180,15 +153,6 @@
       "summary": "EUR/USD trades flat on Monday as the US Dollar (USD) steadies and markets settle into a calmer tone following the sharp volatility triggered by the US Treasury’s surprise buyback announcement last week. At the time of writing, the pair trades around 1.1670, hovering near levels last seen in mid-May.",
       "link": "https://www.fxstreet.com/news/euro-holds-ground-as-us-dollar-steadies-and-markets-brace-for-iran-sanctions-202608241330",
       "published": "2026-08-24T13:30:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: Warsh faces a communication test – DBS",
-      "summary": "DBS Bank strategist Philip Wee argues that Fed Chairman Kevin Warsh’s rejection of forward guidance is amplifying market volatility and complicating the policy mix with the Treasury.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-warsh-faces-a-communication-test-dbs-202608241319",
-      "published": "2026-08-24T13:19:36+00:00",
       "score": 1
     },
     {
