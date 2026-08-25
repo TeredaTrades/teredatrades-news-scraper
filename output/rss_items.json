@@ -1,23 +1,95 @@
 {
-  "updated_at": "2026-08-25T13:02:38.342396+00:00",
-  "count": 42,
+  "updated_at": "2026-08-25T14:04:45.819845+00:00",
+  "count": 43,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Apple introduces M6 & M5 ultra.",
+      "title": "FinancialJuice: Fed's Collins:  The labor market is consistent with full employment; the economy is growing at a near-trend pace.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735333/Apple-introduces-M6--M5-ultra.aspx?xy=rss",
-      "published": "2026-08-25T13:01:06+00:00",
+      "link": "https://www.financialjuice.com/News/9735443/Feds-Collins--The-labor-market-is-consistent-with-full-employment-the-economy-is-growing-at-a-near-trend-pace.aspx?xy=rss",
+      "published": "2026-08-25T14:03:10+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Effective Fed Funds Rate 3.63% August 24 vs 3.63% August 21.",
+      "title": "FinancialJuice: Fed's Collins:  Inflation is still too high, I am concerned about the price stability part of the Fed's mandate.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735325/Effective-Fed-Funds-Rate-363-August-24-vs-363-August-21.aspx?xy=rss",
-      "published": "2026-08-25T12:59:45+00:00",
+      "link": "https://www.financialjuice.com/News/9735442/Feds-Collins--Inflation-is-still-too-high-I-am-concerned-about-the-price-stability-part-of-the-Feds-mandate.aspx?xy=rss",
+      "published": "2026-08-25T14:02:35+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Conference Board: Consumers' average and median 12-month inflation expectations were slightly higher in August. Most consumers, 61.3%, still anticipated higher interest rates over the next 12 months, down moderately from 62% in July.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735417/US-Conference-Board-Consumers-average-and-median-12-month-inflation-expectations-were-slightly-higher-in-August-Most-consumers-613-still-anticipated-higher-interest-rates-over-the-next-12-months-down-moderately-from-62-in-July.aspx?xy=rss",
+      "published": "2026-08-25T14:01:25+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Richmond Fed Comp. Index Actual 4 (Forecast 7, Previous 5)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735408/Richmond-Fed-Comp-Index-Actual-4-Forecast-7-Previous-5.aspx?xy=rss",
+      "published": "2026-08-25T14:00:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Overbought rally eyes key resistance – UOB",
+      "summary": "UOB’s Quek Ser Leang notes that Spot Gold remains in a broader uptrend after breaking above a key declining trendline and reaching an intraday high near $4,700.",
+      "link": "https://www.fxstreet.com/news/gold-overbought-rally-eyes-key-resistance-uob-202608251359",
+      "published": "2026-08-25T13:59:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro stays near three-month high as US Dollar remains subdued",
+      "summary": "EUR/USD holds modest gains on Tuesday as the latest Middle East developments fail to trigger a strong market reaction, while the US Dollar (USD) struggles to recover from last week’s sell-off sparked by the US Treasury’s decision to increase buybacks of longer-dated government securities.",
+      "link": "https://www.fxstreet.com/news/euro-stays-near-three-month-high-as-us-dollar-remains-subdued-202608251335",
+      "published": "2026-08-25T13:35:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Trading near fair value against US Dollar - Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret describe USD/CAD trading close to their fair value estimate around 1.3842 as the Canadian Dollar (CAD) reacts to trade headlines and weaker Oil prices.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trading-near-fair-value-against-us-dollar-scotiabank-202608251334",
+      "published": "2026-08-25T13:34:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: North Korea has been unthreatening and respectful - Truth Social.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735383/Trump-North-Korea-has-been-unthreatening-and-respectful---Truth-Social.aspx?xy=rss",
+      "published": "2026-08-25T13:33:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: -65 mln<br />Nasdaq 100: -4 mln<br />Dow 30: -34 mln<br />Mag 7: +3 mln",
+      "link": "https://www.financialjuice.com/News/9735379/MOO-Imbalance.aspx?xy=rss",
+      "published": "2026-08-25T13:30:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Bond market supports cautious consolidation – ING",
+      "summary": "ING’s Francesco Pesole notes the Dollar is drawing support from the US bond market as long-dated yields stabilise, while US-Canada trade tensions and Iran-related sanctions risks complicate the outlook.",
+      "link": "https://www.fxstreet.com/news/us-dollar-bond-market-supports-cautious-consolidation-ing-202608251314",
+      "published": "2026-08-25T13:14:32+00:00",
       "score": 1
     },
     {
@@ -36,33 +108,6 @@
       "summary": "NZD/USD edges slightly higher on Tuesday and trades around 0.5965 at the time of writing, up 0.08% on the day.",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-defies-stronger-us-dollar-as-rbnz-rate-hike-bets-offer-support-202608251241",
       "published": "2026-08-25T12:41:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Morgan Stanley: US-China Summit Likely to Reinforce Managed Competition - FJElite",
-      "summary": "<div>The September 24 Trump-Xi summit is expected to reinforce the current framework of managed strategic competition rather than produce a major breakthrough. The May meeting delivered sector-specific commercial agreements, new trade and investment dialogue mechanisms, and a commitment to continued engagement, but did not resolve the larger structural disputes. The more useful framework remains s",
-      "link": "https://www.financialjuice.com/News/9735293/Morgan-Stanley-US-China-Summit-Likely-to-Reinforce-Managed-Competition---FJElite.aspx?xy=rss",
-      "published": "2026-08-25T12:33:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Deutsche Bank: Warsh’s Jackson Hole Speech Comes Against a Difficult Policy Backdrop - FJElite",
-      "summary": "<div>Kevin Warsh will deliver the Jackson Hole keynote on Friday, with his remarks likely to take one of two forms: a broader “big-picture” speech or a more traditional setup for the September-to-December policy meetings. The backdrop is challenging, with inflation still elevated, active debate over whether tighter policy is needed, and three dissents in favour of a hike at the July FOMC meeting.<",
-      "link": "https://www.financialjuice.com/News/9735285/Deutsche-Bank-Warshs-Jackson-Hole-Speech-Comes-Against-a-Difficult-Policy-Backdrop---FJElite.aspx?xy=rss",
-      "published": "2026-08-25T12:31:38+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Credit Agricole: Europe’s Energy Crisis Is Worsening - FJElite",
-      "summary": "<div>Despite a pullback in crude prices, Europe’s broader energy backdrop is deteriorating. Natural gas prices are approaching €70/MWh, above Q2 levels, while 2027 electricity prices continue to rise. Combined with very high gasoline and diesel crack spreads, the pressure is broader than crude alone suggests.</div><div><br /></div><div>The concern is that these energy costs could feed into food an",
-      "link": "https://www.financialjuice.com/News/9735279/Credit-Agricole-Europes-Energy-Crisis-Is-Worsening---FJElite.aspx?xy=rss",
-      "published": "2026-08-25T12:30:00+00:00",
       "score": 1
     },
     {
@@ -122,38 +167,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold takes a breather after climbing to a three-month high",
-      "summary": "Gold (XAU/USD) remains under pressure on Tuesday heading into American trading hours after setting a fresh three-month high of $4,697 earlier in the day.",
+      "title": "Gold takes a breather after climbing to a fresh three-month high, US PCE in focus",
+      "summary": "Gold (XAU/USD) extends its intraday decline during American trading hours on Tuesday after setting a fresh three-month high of $4,697 earlier in the day.",
       "link": "https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109",
       "published": "2026-08-25T11:09:01+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Debasement fears meet historical skepticism – MUFG",
-      "summary": "MUFG analysts Derek Halpenny and Abdul-Ahad Lockhart note that the Dollar Index (DXY) is consolidating after a modest rebound, even as markets focus on US fiscal concerns, Treasury buybacks and perceived USD debasement.",
-      "link": "https://www.fxstreet.com/news/us-dollar-debasement-fears-meet-historical-skepticism-mufg-202608251108",
-      "published": "2026-08-25T11:08:27+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro stands above 1.1650, supported by upbeat German macroeconomic data",
-      "summary": "The Euro (EUR) remains practically flat against the  US Dollar (USD) on Tuesday, trading above 1.1650, at a relatively short distance from the three-month highs, at 1.1710 hit last week.",
-      "link": "https://www.fxstreet.com/news/euro-stands-above-11650-supported-by-upbeat-german-macroeconomic-data-202608251035",
-      "published": "2026-08-25T10:35:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD holds onto early losses near $4,630, US Yields plunge",
-      "summary": "Gold price (XAU/USD) is down 0.4% to near $4,630 during the European trading session on Tuesday. The precious metal corrects after failing to extend the rally above $4,700 earlier in the day.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-onto-early-losses-near-4-630-us-yields-plunge-202608251022",
-      "published": "2026-08-25T10:22:26+00:00",
-      "score": 5
     },
     {
       "source": "r/Forex",
@@ -181,15 +199,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vxr3fu/is_gold_ready_for_another_push_higher/",
       "published": "2026-08-25T05:45:04+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee jumps to weekly high amid lower Oil prices, declining US Yields",
-      "summary": "The Indian Rupee (INR) opened almost flat against the US Dollar (USD) on Tuesday, but there is a significant appreciation in India's afternoon trading hours.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-against-us-dollar-on-rbis-likely-intervention-202608250537",
-      "published": "2026-08-25T05:37:39+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
