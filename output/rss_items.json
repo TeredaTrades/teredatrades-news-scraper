@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-25T17:35:02.974091+00:00",
-  "count": 40,
+  "updated_at": "2026-08-25T18:04:21.778244+00:00",
+  "count": 39,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: IMF's Managing Director Georgieva: The IMF is concerned about mounting fiscal pressures as evidenced by rising bond yields and a stalled disinflation process.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735757/IMFs-Managing-Director-Georgieva-The-IMF-is-concerned-about-mounting-fiscal-pressures-as-evidenced-by-rising-bond-yields-and-a-stalled-disinflation-process.aspx?xy=rss",
+      "published": "2026-08-25T18:02:01+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: IMF's Managing Director Georgieva: A renewed rise in oil prices could fuel inflation, forcing central banks to retain a restrictive policy stance.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735751/IMFs-Managing-Director-Georgieva-A-renewed-rise-in-oil-prices-could-fuel-inflation-forcing-central-banks-to-retain-a-restrictive-policy-stance.aspx?xy=rss",
+      "published": "2026-08-25T18:01:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CAD Price Forecast: Bearish indicators keep the path tilted lower",
+      "summary": "USD/CAD edges lower on Tuesday, with the Canadian Dollar (CAD) drawing support from a weaker US Dollar (USD) as traders also assess the latest tit-for-tat tariff measures between the United States (US) and Canada.",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-indicators-keep-the-path-tilted-lower-202608251756",
+      "published": "2026-08-25T17:56:36+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -54,15 +81,6 @@
       "summary": "The Pound Sterling (GBP) consolidates near a six-month high of 1.3675 on Tuesday as Middle East headlines improve risk appetite, while investors await the release of key US economic data and the speech by Federal Reserve (Fed) Chair Kevin Warsh at Jackson Hole.",
       "link": "https://www.fxstreet.com/news/british-pound-holds-near-six-month-high-as-hormuz-hopes-lift-sentiment-202608251605",
       "published": "2026-08-25T16:05:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canada's Joly: Spoke with Ford, Honda, and Toyota after the Trump auto threat.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735604/Canadas-Joly-Spoke-with-Ford-Honda-and-Toyota-after-the-Trump-auto-threat.aspx?xy=rss",
-      "published": "2026-08-25T15:59:03+00:00",
       "score": 1
     },
     {
@@ -131,24 +149,6 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Silver retreats ahead of US PCE data, but underlying support persists",
-      "summary": "Silver (XAG/USD) extends its decline on Tuesday and trades around $67.50 at the time of writing, down 1.43% on the day.",
-      "link": "https://www.fxstreet.com/news/silver-retreats-ahead-of-us-pce-data-but-underlying-support-persists-202608251418",
-      "published": "2026-08-25T14:18:01+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Upside limited above fair value against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report EUR/USD consolidating in the mid to upper 1.16s after stronger German IFO and Gross Domestic Product (GDP) data, which should bolster European Central Bank (ECB) confidence ahead of the September 10 meeting.",
-      "link": "https://www.fxstreet.com/news/euro-upside-limited-above-fair-value-against-us-dollar-scotiabank-202608251408",
-      "published": "2026-08-25T14:08:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Gold takes a breather after climbing to a fresh three-month high, US PCE in focus",
       "summary": "Gold (XAU/USD) remains under pressure on Tuesday after setting a fresh three-month high of $4,697 earlier in the day. Traders appear to be booking some profits following the recent rally, which has pushed the Relative Strength Index (RSI) into overbought territory.",
       "link": "https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109",
@@ -212,18 +212,18 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-      "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
       "published": "2026-08-20T15:00:00+00:00",
       "score": 1
     },
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
       "published": "2026-08-20T15:00:00+00:00",
       "score": 1
     },
@@ -275,18 +275,18 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-      "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
+      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank &quot;insiders&quot;—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
       "published": "2026-07-31T14:00:00+00:00",
       "score": 1
     },
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-      "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank &quot;insiders&quot;—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+      "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+      "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
       "published": "2026-07-31T14:00:00+00:00",
       "score": 1
     },
@@ -351,15 +351,6 @@
       "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
       "published": "2026-07-08T18:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-      "summary": "Federal Reserve Board requests comment on a proposal to amend its requirements for banks to maintain anti-money laundering programs",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm",
-      "published": "2026-07-07T19:00:00+00:00",
       "score": 1
     }
   ],
