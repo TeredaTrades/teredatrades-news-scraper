@@ -1,41 +1,176 @@
 {
-  "updated_at": "2026-08-25T14:04:45.819845+00:00",
-  "count": 43,
+  "updated_at": "2026-08-25T15:06:03.055642+00:00",
+  "count": 51,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Fed's Collins:  The labor market is consistent with full employment; the economy is growing at a near-trend pace.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735443/Feds-Collins--The-labor-market-is-consistent-with-full-employment-the-economy-is-growing-at-a-near-trend-pace.aspx?xy=rss",
-      "published": "2026-08-25T14:03:10+00:00",
+      "title": "Canada: Investment risk and USMCA reliability – Societe Generale",
+      "summary": "Dev Ashish at Societe Generale highlights that the Trump administration’s threatened 50% tariff on Canadian vehicles and parts signals a broader push to redirect manufacturing investment to the US, challenging USMCA reliability.",
+      "link": "https://www.fxstreet.com/news/canada-investment-risk-and-usmca-reliability-societe-generale-202608251459",
+      "published": "2026-08-25T14:59:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso: Carry appeal faces crowding risk – MUFG",
+      "summary": "MUFG analysts Derek Halpenny and Abdul-Ahad Lockhart state that the Mexican Peso continues to benefit from low FX volatility and strong carry demand, with USD/MXN breaking below 17.00 for the first time since June 2024.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-carry-appeal-faces-crowding-risk-mufg-202608251442",
+      "published": "2026-08-25T14:42:50+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed's Collins:  Inflation is still too high, I am concerned about the price stability part of the Fed's mandate.",
+      "title": "FinancialJuice: Trump: We're watching every square inch of the Strait of Hormuz and Pickaxe Mountain.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735442/Feds-Collins--Inflation-is-still-too-high-I-am-concerned-about-the-price-stability-part-of-the-Feds-mandate.aspx?xy=rss",
-      "published": "2026-08-25T14:02:35+00:00",
+      "link": "https://www.financialjuice.com/News/9735486/Trump-Were-watching-every-square-inch-of-the-Strait-of-Hormuz-and-Pickaxe-Mountain.aspx?xy=rss",
+      "published": "2026-08-25T14:32:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Iran has been notified that any ship or boat placing new mines will be immediately and systematically destroyed - Truth Social.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735485/Trump-Iran-has-been-notified-that-any-ship-or-boat-placing-new-mines-will-be-immediately-and-systematically-destroyed---Truth-Social.aspx?xy=rss",
+      "published": "2026-08-25T14:30:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: All mines have been removed and/or detonated from Hormuz - Truth Social.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735484/Trump-All-mines-have-been-removed-andor-detonated-from-Hormuz---Truth-Social.aspx?xy=rss",
+      "published": "2026-08-25T14:30:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: BoJ September risk looms in flat range against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note USD/JPY trading in a relatively flat range between 158.00 and the mid-159s as the Japanese Yen (JPY) underperforms most G10 currencies.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-september-risk-looms-in-flat-range-against-us-dollar-scotiabank-202608251428",
+      "published": "2026-08-25T14:28:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Credibility risks for USD – TD Securities",
+      "summary": "TD Securities argues that Jackson Hole is more about Federal Reserve (Fed) credibility than new guidance for the US Dollar (USD). They see rate expectations staying anchored, but warn that any failure by Chair Warsh to reaffirm the inflation mandate could weigh on USD.",
+      "link": "https://www.fxstreet.com/news/us-dollar-credibility-risks-for-usd-td-securities-202608251418",
+      "published": "2026-08-25T14:18:13+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver retreats ahead of US PCE data, but underlying support persists",
+      "summary": "Silver (XAG/USD) extends its decline on Tuesday and trades around $67.50 at the time of writing, down 1.43% on the day.",
+      "link": "https://www.fxstreet.com/news/silver-retreats-ahead-of-us-pce-data-but-underlying-support-persists-202608251418",
+      "published": "2026-08-25T14:18:01+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Collins: It is appropriate to raise interest rates soon, absent evidence of sustained disinflation.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735457/Feds-Collins-It-is-appropriate-to-raise-interest-rates-soon-absent-evidence-of-sustained-disinflation.aspx?xy=rss",
+      "published": "2026-08-25T14:13:57+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Collins: I remain particularly concerned about inflation.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735456/Feds-Collins-I-remain-particularly-concerned-about-inflation.aspx?xy=rss",
+      "published": "2026-08-25T14:13:01+00:00",
       "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: US Conference Board: Consumers' average and median 12-month inflation expectations were slightly higher in August. Most consumers, 61.3%, still anticipated higher interest rates over the next 12 months, down moderately from 62% in July.",
+      "title": "FinancialJuice: Fed's Collins: Labor market is broadly balanced, but with risks.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735417/US-Conference-Board-Consumers-average-and-median-12-month-inflation-expectations-were-slightly-higher-in-August-Most-consumers-613-still-anticipated-higher-interest-rates-over-the-next-12-months-down-moderately-from-62-in-July.aspx?xy=rss",
-      "published": "2026-08-25T14:01:25+00:00",
+      "link": "https://www.financialjuice.com/News/9735455/Feds-Collins-Labor-market-is-broadly-balanced-but-with-risks.aspx?xy=rss",
+      "published": "2026-08-25T14:12:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Collins: Maintaining the current policy rate will require continued evidence that inflation is falling.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735453/Feds-Collins-Maintaining-the-current-policy-rate-will-require-continued-evidence-that-inflation-is-falling.aspx?xy=rss",
+      "published": "2026-08-25T14:12:09+00:00",
       "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Richmond Fed Comp. Index Actual 4 (Forecast 7, Previous 5)",
+      "title": "FinancialJuice: Fed's Collins:  A balanced labor market and continued productivity growth could also support a gradual disinflation.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735408/Richmond-Fed-Comp-Index-Actual-4-Forecast-7-Previous-5.aspx?xy=rss",
-      "published": "2026-08-25T14:00:21+00:00",
+      "link": "https://www.financialjuice.com/News/9735452/Feds-Collins--A-balanced-labor-market-and-continued-productivity-growth-could-also-support-a-gradual-disinflation.aspx?xy=rss",
+      "published": "2026-08-25T14:08:34+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Upside limited above fair value against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report EUR/USD consolidating in the mid to upper 1.16s after stronger German IFO and Gross Domestic Product (GDP) data, which should bolster European Central Bank (ECB) confidence ahead of the September 10 meeting.",
+      "link": "https://www.fxstreet.com/news/euro-upside-limited-above-fair-value-against-us-dollar-scotiabank-202608251408",
+      "published": "2026-08-25T14:08:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Collins:  The rise in longer-term interest rates should work against a re-acceleration in demand.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735451/Feds-Collins--The-rise-in-longer-term-interest-rates-should-work-against-a-re-acceleration-in-demand.aspx?xy=rss",
+      "published": "2026-08-25T14:07:51+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Collins: Current monetary policy is mildly restrictive.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735450/Feds-Collins-Current-monetary-policy-is-mildly-restrictive.aspx?xy=rss",
+      "published": "2026-08-25T14:07:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Collins: I consider disinflation as the most likely outcome based on limited additional tariffs and progress on reopening the Strait of Hormuz.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735449/Feds-Collins-I-consider-disinflation-as-the-most-likely-outcome-based-on-limited-additional-tariffs-and-progress-on-reopening-the-Strait-of-Hormuz.aspx?xy=rss",
+      "published": "2026-08-25T14:06:33+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Collins: I will be looking for evidence in the coming months that inflation is durably returning to 2%.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735448/Feds-Collins-I-will-be-looking-for-evidence-in-the-coming-months-that-inflation-is-durably-returning-to-2.aspx?xy=rss",
+      "published": "2026-08-25T14:05:35+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Collins: Concerns about high prices are pervasive among contacts in the New England region.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735447/Feds-Collins-Concerns-about-high-prices-are-pervasive-among-contacts-in-the-New-England-region.aspx?xy=rss",
+      "published": "2026-08-25T14:04:51+00:00",
       "score": 1
     },
     {
@@ -63,24 +198,6 @@
       "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret describe USD/CAD trading close to their fair value estimate around 1.3842 as the Canadian Dollar (CAD) reacts to trade headlines and weaker Oil prices.",
       "link": "https://www.fxstreet.com/news/canadian-dollar-trading-near-fair-value-against-us-dollar-scotiabank-202608251334",
       "published": "2026-08-25T13:34:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: North Korea has been unthreatening and respectful - Truth Social.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735383/Trump-North-Korea-has-been-unthreatening-and-respectful---Truth-Social.aspx?xy=rss",
-      "published": "2026-08-25T13:33:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: -65 mln<br />Nasdaq 100: -4 mln<br />Dow 30: -34 mln<br />Mag 7: +3 mln",
-      "link": "https://www.financialjuice.com/News/9735379/MOO-Imbalance.aspx?xy=rss",
-      "published": "2026-08-25T13:30:35+00:00",
       "score": 1
     },
     {
@@ -122,53 +239,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "GBP/JPY Price Forecast: Bulls recover lost ground as intervention effect wears off",
-      "summary": "GBP/JPY extends its steady recovery on Tuesday and has now recouped almost all the losses triggered by the joint US-Japan intervention in late July. The intervention was aimed at curbing excessive weakness in the Japanese Yen (JPY) after USD/JPY climbed above 160 to a forty-year high.",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-recover-lost-ground-as-intervention-effect-wears-off-202608251157",
-      "published": "2026-08-25T11:57:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen under pressure as geopolitical risks support the US Dollar",
-      "summary": "USD/JPY trades around 159.30 on Tuesday at the time of writing, up 0.15% on the day.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-under-pressure-as-geopolitical-risks-support-the-us-dollar-202608251150",
-      "published": "2026-08-25T11:50:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound hovers near six-month highs with investors awaiting key US events",
-      "summary": "The British Pound (GBP) remains practically flat for the second consecutive day against the US Dollar (USD), with markets on a “wait-and-see” stance, awaiting key US Inflation data on Wednesday and the Jackson Hole central bankers’ summit on Friday.",
-      "link": "https://www.fxstreet.com/news/british-pound-hovers-near-six-month-highs-with-investors-awaiting-key-us-events-202608251135",
-      "published": "2026-08-25T11:35:13+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Strength intact with 0.7200 in focus against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note AUD/USD has slipped into short-term consolidation between 0.7135 and 0.7170 after last week’s sharp rise, but they still regard the broader uptrend as intact.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-strength-intact-with-07200-in-focus-against-us-dollar-uob-202608251127",
-      "published": "2026-08-25T11:27:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Recovery against US Dollar supported by data – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports EUR/USD is firmer but still below 1.1700 as Germany’s IFO survey rises to a one-year high, echoing Eurozone PMI and ZEW improvements.",
-      "link": "https://www.fxstreet.com/news/euro-recovery-against-us-dollar-supported-by-data-bbh-202608251117",
-      "published": "2026-08-25T11:17:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Gold takes a breather after climbing to a fresh three-month high, US PCE in focus",
-      "summary": "Gold (XAU/USD) extends its intraday decline during American trading hours on Tuesday after setting a fresh three-month high of $4,697 earlier in the day.",
+      "summary": "Gold (XAU/USD) remains under pressure on Tuesday after setting a fresh three-month high of $4,697 earlier in the day. Traders appear to be booking some profits following the recent rally, which has pushed the Relative Strength Index (RSI) into overbought territory.",
       "link": "https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109",
       "published": "2026-08-25T11:09:01+00:00",
       "score": 3
