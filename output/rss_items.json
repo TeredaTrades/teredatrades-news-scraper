@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-25T22:45:37.566326+00:00",
-  "count": 48,
+  "updated_at": "2026-08-25T23:26:11.284024+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar rises after RBA hawkish minutes, inflation data eyed",
+      "summary": "The Aussie Dollar advanced on Tuesday, gaining over 0.20% as the Greenback edged lower, amid minutes from the Reserve Bank of Australia (RBA)'s last meeting suggesting the board was close to raising rates. At the time of writing, the AUD/USD trades at 0.7163, after bouncing off daily lows of 0.7137.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rises-after-rba-hawkish-minutes-inflation-data-eyed-202608252304",
+      "published": "2026-08-25T23:04:10+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Tokyo bought the Japanese Yen a range, not a trend",
+      "summary": "USD/JPY trades just above 159.00 late on Tuesday, August 25, holding a gain of under a tenth of a percent across a session that has covered 44 pips between a floor near 159.00 and a ceiling short of 159.50.",
+      "link": "https://www.fxstreet.com/news/tokyo-bought-the-japanese-yen-a-range-not-a-trend-202608252302",
+      "published": "2026-08-25T23:02:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Pound Sterling's six-month high has no British test this week",
+      "summary": "GBP/USD trades near 1.3650 late on Tuesday, August 25, up around a tenth of a percent on a session that has covered barely 33 pips between a floor just above 1.3600 and a ceiling a shade over 1.3650.",
+      "link": "https://www.fxstreet.com/news/pound-sterlings-six-month-high-has-no-british-test-this-week-202608252301",
+      "published": "2026-08-25T23:01:27+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -217,24 +244,6 @@
       "link": "https://www.fxstreet.com/news/gold-pulls-back-from-4-700-as-hormuz-hopes-cool-haven-demand-202608251814",
       "published": "2026-08-25T18:14:14+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CAD Price Forecast: Bearish indicators keep the path tilted lower",
-      "summary": "USD/CAD edges lower on Tuesday, with the Canadian Dollar (CAD) drawing support from a weaker US Dollar (USD) as traders also assess the latest tit-for-tat tariff measures between the United States (US) and Canada.",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bearish-indicators-keep-the-path-tilted-lower-202608251756",
-      "published": "2026-08-25T17:56:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen remains vulnerable despite softer Greenback",
-      "summary": "USD/JPY extends its sideways movement below the 160.00 mark on Tuesday, holding modest gains despite a softer US Dollar (USD). The weaker Greenback has failed to lift the Japanese Yen (JPY), which is underperforming its major peers. At the time of writing, the pair trades around 159.30.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-remains-vulnerable-despite-softer-greenback-202608251719",
-      "published": "2026-08-25T17:19:16+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
