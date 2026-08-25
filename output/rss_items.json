@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-08-25T18:57:30.825267+00:00",
-  "count": 40,
+  "updated_at": "2026-08-25T19:38:25.840861+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Trade risks limit gains against US Dollar – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that reports of potential US tariffs on Chinese goods and the PBoC’s resistance to rapid Renminbi (RMB) gains are likely to limit further downside in USD/CNH.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-trade-risks-limit-gains-against-us-dollar-ocbc-202608251923",
+      "published": "2026-08-25T19:23:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Wednesday FX Option Expiries",
+      "summary": "<ul><li><strong>EUR/USD: </strong>1.1750 (EU1.31b), 1.1350 (EU1.06b), 1.1675 (EU965.6m)</li><li><strong>USD/JPY: </strong>159.00 ($936.5m), 161.00 ($844.1m), 160.00 ($621.4m)</li><li><strong>USD/BRL:</strong> 4.9300 ($640m), 5.2000 ($593.5m), 5.1000 ($525.1m)</li><li><strong>AUD/USD:</strong> 0.7060 (AUD598.1m), 0.7160 (AUD401.2m), 0.7100 (AUD362.5m)</li><li><strong>GBP/USD: </strong>1.3625 (GBP52",
+      "link": "https://www.financialjuice.com/News/9735853/Wednesday-FX-Option-Expiries-.aspx",
+      "published": "2026-08-25T19:22:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ECB policymakers ready to raise rates in sept to stem side effects of the Iran war - Sources",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735851/ECB-policymakers-ready-to-raise-rates-in-sept-to-stem-side-effects-of-the-Iran-war---Sources.aspx",
+      "published": "2026-08-25T19:19:26+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -34,7 +61,7 @@
       "category": "news",
       "title": "FinancialJuice: Northrop Grumman CEO Warden: We expect to have a decent share of Golden Dome. $NOC",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735800/Northrop-Grumman-CEO-Warden-We-expect-to-have-a-decent-share-of-Golden-Dome-NOC.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9735800/Northrop-Grumman-CEO-Warden-We-expect-to-have-a-decent-share-of-Golden-Dome-NOC.aspx",
       "published": "2026-08-25T18:36:29+00:00",
       "score": 1
     },
@@ -43,7 +70,7 @@
       "category": "news",
       "title": "FinancialJuice: Northrop Grumman CEO Warden: Golden Dome is becoming very tangible for defense firms $NOC",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735799/Northrop-Grumman-CEO-Warden-Golden-Dome-is-becoming-very-tangible-for-defense-firms-NOC.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9735799/Northrop-Grumman-CEO-Warden-Golden-Dome-is-becoming-very-tangible-for-defense-firms-NOC.aspx",
       "published": "2026-08-25T18:35:42+00:00",
       "score": 1
     },
@@ -61,7 +88,7 @@
       "category": "news",
       "title": "FinancialJuice: The Democrats urge Fed Chair Warsh to maintain the FOMC schedule of 8 meetings a year.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735792/The-Democrats-urge-Fed-Chair-Warsh-to-maintain-the-FOMC-schedule-of-8-meetings-a-year.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9735792/The-Democrats-urge-Fed-Chair-Warsh-to-maintain-the-FOMC-schedule-of-8-meetings-a-year.aspx",
       "published": "2026-08-25T18:26:33+00:00",
       "score": 2
     },
@@ -79,18 +106,9 @@
       "category": "news",
       "title": "FinancialJuice: IMF's Managing Director Georgieva: The IMF is concerned about mounting fiscal pressures as evidenced by rising bond yields and a stalled disinflation process.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735757/IMFs-Managing-Director-Georgieva-The-IMF-is-concerned-about-mounting-fiscal-pressures-as-evidenced-by-rising-bond-yields-and-a-stalled-disinflation-process.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9735757/IMFs-Managing-Director-Georgieva-The-IMF-is-concerned-about-mounting-fiscal-pressures-as-evidenced-by-rising-bond-yields-and-a-stalled-disinflation-process.aspx",
       "published": "2026-08-25T18:02:01+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: IMF's Managing Director Georgieva: A renewed rise in oil prices could fuel inflation, forcing central banks to retain a restrictive policy stance.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735751/IMFs-Managing-Director-Georgieva-A-renewed-rise-in-oil-prices-could-fuel-inflation-forcing-central-banks-to-retain-a-restrictive-policy-stance.aspx?xy=rss",
-      "published": "2026-08-25T18:01:42+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -154,15 +172,6 @@
       "link": "https://www.fxstreet.com/news/us-president-trump-us-navy-has-cleared-strait-of-hormuz-mines-202608251506",
       "published": "2026-08-25T15:06:58+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold takes a breather after climbing to a fresh three-month high, US PCE in focus",
-      "summary": "Gold (XAU/USD) remains under pressure on Tuesday after setting a fresh three-month high of $4,697 earlier in the day. Traders appear to be booking some profits following the recent rally, which has pushed the Relative Strength Index (RSI) into overbought territory.",
-      "link": "https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109",
-      "published": "2026-08-25T11:09:01+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
