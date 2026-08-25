@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-08-25T11:57:38.887392+00:00",
-  "count": 41,
+  "updated_at": "2026-08-25T13:02:38.342396+00:00",
+  "count": 42,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Apple introduces M6 & M5 ultra.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735333/Apple-introduces-M6--M5-ultra.aspx?xy=rss",
+      "published": "2026-08-25T13:01:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Effective Fed Funds Rate 3.63% August 24 vs 3.63% August 21.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735325/Effective-Fed-Funds-Rate-363-August-24-vs-363-August-21.aspx?xy=rss",
+      "published": "2026-08-25T12:59:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Tariff conflict fuels safe haven bid – Commerzbank",
+      "summary": "Commerzbank’s Carsten Fritsch reports that Gold has surged to a three‑month high near USD 4,700 per ounce as US–Canada tariff tensions escalate and concerns over US debt intensify. Silver and Platinum have also rallied.",
+      "link": "https://www.fxstreet.com/news/gold-tariff-conflict-fuels-safe-haven-bid-commerzbank-202608251250",
+      "published": "2026-08-25T12:50:27+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar defies stronger US Dollar as RBNZ rate hike bets offer support",
+      "summary": "NZD/USD edges slightly higher on Tuesday and trades around 0.5965 at the time of writing, up 0.08% on the day.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-defies-stronger-us-dollar-as-rbnz-rate-hike-bets-offer-support-202608251241",
+      "published": "2026-08-25T12:41:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Morgan Stanley: US-China Summit Likely to Reinforce Managed Competition - FJElite",
+      "summary": "<div>The September 24 Trump-Xi summit is expected to reinforce the current framework of managed strategic competition rather than produce a major breakthrough. The May meeting delivered sector-specific commercial agreements, new trade and investment dialogue mechanisms, and a commitment to continued engagement, but did not resolve the larger structural disputes. The more useful framework remains s",
+      "link": "https://www.financialjuice.com/News/9735293/Morgan-Stanley-US-China-Summit-Likely-to-Reinforce-Managed-Competition---FJElite.aspx?xy=rss",
+      "published": "2026-08-25T12:33:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Deutsche Bank: Warsh’s Jackson Hole Speech Comes Against a Difficult Policy Backdrop - FJElite",
+      "summary": "<div>Kevin Warsh will deliver the Jackson Hole keynote on Friday, with his remarks likely to take one of two forms: a broader “big-picture” speech or a more traditional setup for the September-to-December policy meetings. The backdrop is challenging, with inflation still elevated, active debate over whether tighter policy is needed, and three dissents in favour of a hike at the July FOMC meeting.<",
+      "link": "https://www.financialjuice.com/News/9735285/Deutsche-Bank-Warshs-Jackson-Hole-Speech-Comes-Against-a-Difficult-Policy-Backdrop---FJElite.aspx?xy=rss",
+      "published": "2026-08-25T12:31:38+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Credit Agricole: Europe’s Energy Crisis Is Worsening - FJElite",
+      "summary": "<div>Despite a pullback in crude prices, Europe’s broader energy backdrop is deteriorating. Natural gas prices are approaching €70/MWh, above Q2 levels, while 2027 electricity prices continue to rise. Combined with very high gasoline and diesel crack spreads, the pressure is broader than crude alone suggests.</div><div><br /></div><div>The concern is that these energy costs could feed into food an",
+      "link": "https://www.financialjuice.com/News/9735279/Credit-Agricole-Europes-Energy-Crisis-Is-Worsening---FJElite.aspx?xy=rss",
+      "published": "2026-08-25T12:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US ADP Employment Change 4-week average increases to 11.750K",
+      "summary": "Private-sector hiring in the US has gained some pace in early August. According to the NER Pulse, the weekly companion to the ADP National Employment Report, companies added an average of 11.750K jobs per week in the four weeks ending August 8.",
+      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-increases-to-11750k-202608251221",
+      "published": "2026-08-25T12:21:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "GBP/JPY Price Forecast: Bulls recover lost ground as intervention effect wears off",
+      "summary": "GBP/JPY extends its steady recovery on Tuesday and has now recouped almost all the losses triggered by the joint US-Japan intervention in late July. The intervention was aimed at curbing excessive weakness in the Japanese Yen (JPY) after USD/JPY climbed above 160 to a forty-year high.",
+      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-bulls-recover-lost-ground-as-intervention-effect-wears-off-202608251157",
+      "published": "2026-08-25T11:57:00+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -39,19 +120,10 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not protesting, at levels not seen before. It is a humanitarian crisis of epic proportions, and must be stopped, NOW.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735171/Trump-The-failing-Islamic-Republic-of-Iran-is-not-paying-large-segments-of-their-military-while-at-the-same-time-killing-protesters-even-when-they-are-not-protesting-at-levels-not-seen-before-It-is-a-humanitarian-crisis-of-epic-proportions-.aspx?xy=rss",
-      "published": "2026-08-25T11:10:36+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold pauses near three-month high after sharp rally",
-      "summary": "Gold (XAU/USD) loses ground on Tuesday after setting a fresh three-month high of $4,697 earlier in the Asian session. Traders appear to be booking some profits following the recent rally, which has pushed the Relative Strength Index (RSI) into overbought territory.",
+      "title": "Gold takes a breather after climbing to a three-month high",
+      "summary": "Gold (XAU/USD) remains under pressure on Tuesday heading into American trading hours after setting a fresh three-month high of $4,697 earlier in the day.",
       "link": "https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109",
       "published": "2026-08-25T11:09:01+00:00",
       "score": 3
@@ -64,15 +136,6 @@
       "link": "https://www.fxstreet.com/news/us-dollar-debasement-fears-meet-historical-skepticism-mufg-202608251108",
       "published": "2026-08-25T11:08:27+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: The US is giving serious consideration to changing the name of Lake Ontario to Lake America, in that we don’t expect to do much business with Ontario any longer.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735144/Trump-The-US-is-giving-serious-consideration-to-changing-the-name-of-Lake-Ontario-to-Lake-America-in-that-we-dont-expect-to-do-much-business-with-Ontario-any-longer.aspx?xy=rss",
-      "published": "2026-08-25T10:59:18+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -102,33 +165,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Hungarian Forint: Holding firm against Euro below key resistance - Societe Generale",
-      "summary": "Societe Generale strategists expect Hungary's central bank, Magyar Nemzeti Bank (MNB), to cut rates by 25 bp to 5.50% today, with dovish July minutes and softer-than-expected inflation leaving room for further easing.",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-holding-firm-against-euro-below-key-resistance-societe-generale-202608250948",
-      "published": "2026-08-25T09:48:07+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) fell on Tuesday, according to FXStreet data. Silver trades at $67.82 per troy ounce, down 0.97% from the $68.48 it cost on Monday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202608250931",
-      "published": "2026-08-25T09:31:18+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: German 2 Yr Schatz Yield Actual 2.85% (Forecast -, Previous 2.78%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735048/German-2-Yr-Schatz-Yield-Actual-285-Forecast---Previous-278.aspx?xy=rss",
-      "published": "2026-08-25T09:31:08+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "XAUUSD SETUP 25 AUGUST",
@@ -136,33 +172,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vxurd7/xauusd_setup_25_august/",
       "published": "2026-08-25T09:20:15+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Range trade within 157.90 and 159.80 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann describe USD/JPY as locked in a range-trading phase, with a slightly firmer tone keeping the pair in a higher intraday band of 158.80–159.45.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-range-trade-within-15790-and-15980-against-us-dollar-uob-202608250917",
-      "published": "2026-08-25T09:17:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD faces rejection near $70.00 as upside momentum fades",
-      "summary": "Silver (XAG/USD) continues its struggle to make it through the $70.00 psychological mark and turns lower for the second straight day on Tuesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-faces-rejection-near-7000-as-upside-momentum-fades-202608250904",
-      "published": "2026-08-25T09:04:21+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee: Range holds against US Dollar as inflows offset trade drag – DBS",
-      "summary": "DBS economist Radhika Rao observes that strong FCNR (B) swap inflows and higher FX reserves have not translated into significant Rupee gains, with USD/INR staying in a tight 95.50–96.00 range.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-range-holds-against-us-dollar-as-inflows-offset-trade-drag-dbs-202608250902",
-      "published": "2026-08-25T09:02:47+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
