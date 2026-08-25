@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-08-25T10:52:08.019219+00:00",
-  "count": 40,
+  "updated_at": "2026-08-25T11:29:44.658712+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: Strength intact with 0.7200 in focus against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note AUD/USD has slipped into short-term consolidation between 0.7135 and 0.7170 after last week’s sharp rise, but they still regard the broader uptrend as intact.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-strength-intact-with-07200-in-focus-against-us-dollar-uob-202608251127",
+      "published": "2026-08-25T11:27:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Recovery against US Dollar supported by data – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports EUR/USD is firmer but still below 1.1700 as Germany’s IFO survey rises to a one-year high, echoing Eurozone PMI and ZEW improvements.",
+      "link": "https://www.fxstreet.com/news/euro-recovery-against-us-dollar-supported-by-data-bbh-202608251117",
+      "published": "2026-08-25T11:17:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: The failing Islamic Republic of Iran is not paying large segments of their military, while at the same time killing protesters, even when they are not protesting, at levels not seen before. It is a humanitarian crisis of epic proportions, and must be stopped, NOW.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735171/Trump-The-failing-Islamic-Republic-of-Iran-is-not-paying-large-segments-of-their-military-while-at-the-same-time-killing-protesters-even-when-they-are-not-protesting-at-levels-not-seen-before-It-is-a-humanitarian-crisis-of-epic-proportions-.aspx?xy=rss",
+      "published": "2026-08-25T11:10:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold pauses near three-month high after sharp rally",
+      "summary": "Gold (XAU/USD) loses ground on Tuesday after setting a fresh three-month high of $4,697 earlier in the Asian session. Traders appear to be booking some profits following the recent rally, which has pushed the Relative Strength Index (RSI) into overbought territory.",
+      "link": "https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109",
+      "published": "2026-08-25T11:09:01+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Debasement fears meet historical skepticism – MUFG",
+      "summary": "MUFG analysts Derek Halpenny and Abdul-Ahad Lockhart note that the Dollar Index (DXY) is consolidating after a modest rebound, even as markets focus on US fiscal concerns, Treasury buybacks and perceived USD debasement.",
+      "link": "https://www.fxstreet.com/news/us-dollar-debasement-fears-meet-historical-skepticism-mufg-202608251108",
+      "published": "2026-08-25T11:08:27+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: The US is giving serious consideration to changing the name of Lake Ontario to Lake America, in that we don’t expect to do much business with Ontario any longer.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735144/Trump-The-US-is-giving-serious-consideration-to-changing-the-name-of-Lake-Ontario-to-Lake-America-in-that-we-dont-expect-to-do-much-business-with-Ontario-any-longer.aspx?xy=rss",
+      "published": "2026-08-25T10:59:18+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -52,7 +106,7 @@
       "category": "news",
       "title": "FinancialJuice: German 2 Yr Schatz Yield Actual 2.85% (Forecast -, Previous 2.78%)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735048/German-2-Yr-Schatz-Yield-Actual-285-Forecast---Previous-278.aspx",
+      "link": "https://www.financialjuice.com/News/9735048/German-2-Yr-Schatz-Yield-Actual-285-Forecast---Previous-278.aspx?xy=rss",
       "published": "2026-08-25T09:31:08+00:00",
       "score": 1
     },
@@ -124,36 +178,9 @@
       "category": "news",
       "title": "FinancialJuice: MUFG: The USD - FJElite",
       "summary": "<div>DXY is little changed after Monday's modest rebound, but the broader market narrative remains centred on US fiscal concerns. Treasury buybacks and the prospect of &quot;USD debasement&quot;. Despite the buyback announcement, yields remain elevated, with the 10Y near 4.72% and the 30Y above 5.2%, suggesting investors remain unconvinced that buybacks can reverse the ongoing long-end sell-off.</",
-      "link": "https://www.financialjuice.com/News/9734987/MUFG-The-USD---FJElite.aspx",
+      "link": "https://www.financialjuice.com/News/9734987/MUFG-The-USD---FJElite.aspx?xy=rss",
       "published": "2026-08-25T08:34:57+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Policy crosscurrents shape outlook – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong highlight that renewed policy uncertainty and Federal Reserve (Fed) reaction risks are constraining US Dollar (USD) gains, even as higher US real yields and a resilient US economy limit downside.",
-      "link": "https://www.fxstreet.com/news/us-dollar-policy-crosscurrents-shape-outlook-ocbc-202608250825",
-      "published": "2026-08-25T08:25:53+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Upside bias toward 1.3700 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann describe GBP/USD price action as range-bound intraday between 1.3615 and 1.3660, with momentum indicators neutral.",
-      "link": "https://www.fxstreet.com/news/british-pound-upside-bias-toward-13700-against-us-dollar-uob-202608250810",
-      "published": "2026-08-25T08:10:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/USD Price Forecast: Rally pauses below 1.3700",
-      "summary": "The British Pound (GBP) trades marginally higher against the US Dollar (USD) at around 1.3640 during the European trading session on Tuesday, even as the US Dollar Index (DXY) edges up, indicating strength in the British currency.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-rally-pauses-below-13700-202608250757",
-      "published": "2026-08-25T07:57:55+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -167,8 +194,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee jumps to weekly high amid lower oil prices, US Yields",
-      "summary": "The Indian Rupee (INR) is sharply higher against the US Dollar (USD) on Tuesday. The USD/INR pair declines to near 95.40, the lowest level seen in over a week, as the Indian Rupee strengthens due to a significant decline in oil prices and United States (US) Treasury Yields.",
+      "title": "Indian Rupee jumps to weekly high amid lower Oil prices, declining US Yields",
+      "summary": "The Indian Rupee (INR) opened almost flat against the US Dollar (USD) on Tuesday, but there is a significant appreciation in India's afternoon trading hours.",
       "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-against-us-dollar-on-rbis-likely-intervention-202608250537",
       "published": "2026-08-25T05:37:39+00:00",
       "score": 2
