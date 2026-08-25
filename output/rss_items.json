@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-25T11:29:44.658712+00:00",
-  "count": 43,
+  "updated_at": "2026-08-25T11:57:38.887392+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen under pressure as geopolitical risks support the US Dollar",
+      "summary": "USD/JPY trades around 159.30 on Tuesday at the time of writing, up 0.15% on the day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-under-pressure-as-geopolitical-risks-support-the-us-dollar-202608251150",
+      "published": "2026-08-25T11:50:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound hovers near six-month highs with investors awaiting key US events",
+      "summary": "The British Pound (GBP) remains practically flat for the second consecutive day against the US Dollar (USD), with markets on a “wait-and-see” stance, awaiting key US Inflation data on Wednesday and the Jackson Hole central bankers’ summit on Friday.",
+      "link": "https://www.fxstreet.com/news/british-pound-hovers-near-six-month-highs-with-investors-awaiting-key-us-events-202608251135",
+      "published": "2026-08-25T11:35:13+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -145,42 +163,6 @@
       "link": "https://www.fxstreet.com/news/indian-rupee-range-holds-against-us-dollar-as-inflows-offset-trade-drag-dbs-202608250902",
       "published": "2026-08-25T09:02:47+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones futures advance as tech stocks rebound ahead of looming Nvidia earnings",
-      "summary": "Dow Jones futures gain by 0.18%, trading around 53,590 during European hours on Tuesday. Meanwhile, S&amp;P 500 futures advance by 0.28%, to trade near 7,690, and Nasdaq 100 futures rise by 0.58% to trade around 29,270.",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-advance-as-tech-stocks-rebound-ahead-of-looming-nvidia-earnings-202608250856",
-      "published": "2026-08-25T08:56:46+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: CPI keeps RBA on hold bias – ING",
-      "summary": "ING’s Francesco Pesole expects Australia’s July inflation data to show further moderation, consistent with no additional Reserve Bank of Australia hikes this year. He argues Governor Bullock is likely to stay hawkish, and even a small inflation surprise could lift AUD.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-cpi-keeps-rba-on-hold-bias-ing-202608250848",
-      "published": "2026-08-25T08:48:22+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Hungarian Forint: MNB tone shift watched – Commerzbank",
-      "summary": "Commerzbank’s Tatha Ghose expects Hungary's central bank, Magyar Nemzeti Bank (MNB), to cut its base rate by 25bp to 5.50%, but stresses that guidance will matter more for the Forint. While headline inflation has surprised on the downside, core and services pressures and energy risks persist.",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-mnb-tone-shift-watched-commerzbank-202608250838",
-      "published": "2026-08-25T08:38:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MUFG: The USD - FJElite",
-      "summary": "<div>DXY is little changed after Monday's modest rebound, but the broader market narrative remains centred on US fiscal concerns. Treasury buybacks and the prospect of &quot;USD debasement&quot;. Despite the buyback announcement, yields remain elevated, with the 10Y near 4.72% and the 30Y above 5.2%, suggesting investors remain unconvinced that buybacks can reverse the ongoing long-end sell-off.</",
-      "link": "https://www.financialjuice.com/News/9734987/MUFG-The-USD---FJElite.aspx?xy=rss",
-      "published": "2026-08-25T08:34:57+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
