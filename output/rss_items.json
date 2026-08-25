@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-25T15:06:03.055642+00:00",
-  "count": 51,
+  "updated_at": "2026-08-25T16:00:46.980718+00:00",
+  "count": 46,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Canada's Joly: Spoke with Ford, Honda, and Toyota after the Trump auto threat.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9735604/Canadas-Joly-Spoke-with-Ford-Honda-and-Toyota-after-the-Trump-auto-threat.aspx",
+      "published": "2026-08-25T15:59:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar up modestly on RBA, weak USD",
+      "summary": "AUD/USD steadies around the mid 0.7100s at the time of writing on Tuesday, clawing back most of the previous day's modest losses.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-after-hawkish-rba-minutes-as-soft-us-dollar-lends-support-202608251520",
+      "published": "2026-08-25T15:20:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Range-bound against US Dollar ahead of Budget – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight GBP/USD consolidating in a tight mid-1.36 range as a quiet data and Bank of England (BoE) calendar contrasts with softer yield spreads, which have eroded some fundamental support.",
+      "link": "https://www.fxstreet.com/news/british-pound-range-bound-against-us-dollar-ahead-of-budget-scotiabank-202608251508",
+      "published": "2026-08-25T15:08:19+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Trump: US Navy has cleared Strait of Hormuz mines",
+      "summary": "United States (US) President Donald Trump said the US Navy has cleared the Strait of Hormuz of mines, removing one of the supply risks that has kept the Oil market on edge.",
+      "link": "https://www.fxstreet.com/news/us-president-trump-us-navy-has-cleared-strait-of-hormuz-mines-202608251506",
+      "published": "2026-08-25T15:06:58+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -25,7 +61,7 @@
       "category": "news",
       "title": "FinancialJuice: Trump: We're watching every square inch of the Strait of Hormuz and Pickaxe Mountain.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735486/Trump-Were-watching-every-square-inch-of-the-Strait-of-Hormuz-and-Pickaxe-Mountain.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9735486/Trump-Were-watching-every-square-inch-of-the-Strait-of-Hormuz-and-Pickaxe-Mountain.aspx",
       "published": "2026-08-25T14:32:07+00:00",
       "score": 1
     },
@@ -34,7 +70,7 @@
       "category": "news",
       "title": "FinancialJuice: Trump: Iran has been notified that any ship or boat placing new mines will be immediately and systematically destroyed - Truth Social.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735485/Trump-Iran-has-been-notified-that-any-ship-or-boat-placing-new-mines-will-be-immediately-and-systematically-destroyed---Truth-Social.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9735485/Trump-Iran-has-been-notified-that-any-ship-or-boat-placing-new-mines-will-be-immediately-and-systematically-destroyed---Truth-Social.aspx",
       "published": "2026-08-25T14:30:23+00:00",
       "score": 1
     },
@@ -43,7 +79,7 @@
       "category": "news",
       "title": "FinancialJuice: Trump: All mines have been removed and/or detonated from Hormuz - Truth Social.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735484/Trump-All-mines-have-been-removed-andor-detonated-from-Hormuz---Truth-Social.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9735484/Trump-All-mines-have-been-removed-andor-detonated-from-Hormuz---Truth-Social.aspx",
       "published": "2026-08-25T14:30:09+00:00",
       "score": 1
     },
@@ -79,7 +115,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Collins: It is appropriate to raise interest rates soon, absent evidence of sustained disinflation.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735457/Feds-Collins-It-is-appropriate-to-raise-interest-rates-soon-absent-evidence-of-sustained-disinflation.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9735457/Feds-Collins-It-is-appropriate-to-raise-interest-rates-soon-absent-evidence-of-sustained-disinflation.aspx",
       "published": "2026-08-25T14:13:57+00:00",
       "score": 3
     },
@@ -88,7 +124,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Collins: I remain particularly concerned about inflation.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735456/Feds-Collins-I-remain-particularly-concerned-about-inflation.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9735456/Feds-Collins-I-remain-particularly-concerned-about-inflation.aspx",
       "published": "2026-08-25T14:13:01+00:00",
       "score": 2
     },
@@ -97,27 +133,9 @@
       "category": "news",
       "title": "FinancialJuice: Fed's Collins: Labor market is broadly balanced, but with risks.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735455/Feds-Collins-Labor-market-is-broadly-balanced-but-with-risks.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9735455/Feds-Collins-Labor-market-is-broadly-balanced-but-with-risks.aspx",
       "published": "2026-08-25T14:12:57+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Collins: Maintaining the current policy rate will require continued evidence that inflation is falling.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735453/Feds-Collins-Maintaining-the-current-policy-rate-will-require-continued-evidence-that-inflation-is-falling.aspx?xy=rss",
-      "published": "2026-08-25T14:12:09+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Collins:  A balanced labor market and continued productivity growth could also support a gradual disinflation.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735452/Feds-Collins--A-balanced-labor-market-and-continued-productivity-growth-could-also-support-a-gradual-disinflation.aspx?xy=rss",
-      "published": "2026-08-25T14:08:34+00:00",
-      "score": 2
     },
     {
       "source": "FXStreet",
@@ -126,51 +144,6 @@
       "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report EUR/USD consolidating in the mid to upper 1.16s after stronger German IFO and Gross Domestic Product (GDP) data, which should bolster European Central Bank (ECB) confidence ahead of the September 10 meeting.",
       "link": "https://www.fxstreet.com/news/euro-upside-limited-above-fair-value-against-us-dollar-scotiabank-202608251408",
       "published": "2026-08-25T14:08:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Collins:  The rise in longer-term interest rates should work against a re-acceleration in demand.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735451/Feds-Collins--The-rise-in-longer-term-interest-rates-should-work-against-a-re-acceleration-in-demand.aspx?xy=rss",
-      "published": "2026-08-25T14:07:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Collins: Current monetary policy is mildly restrictive.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735450/Feds-Collins-Current-monetary-policy-is-mildly-restrictive.aspx?xy=rss",
-      "published": "2026-08-25T14:07:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Collins: I consider disinflation as the most likely outcome based on limited additional tariffs and progress on reopening the Strait of Hormuz.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735449/Feds-Collins-I-consider-disinflation-as-the-most-likely-outcome-based-on-limited-additional-tariffs-and-progress-on-reopening-the-Strait-of-Hormuz.aspx?xy=rss",
-      "published": "2026-08-25T14:06:33+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Collins: I will be looking for evidence in the coming months that inflation is durably returning to 2%.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735448/Feds-Collins-I-will-be-looking-for-evidence-in-the-coming-months-that-inflation-is-durably-returning-to-2.aspx?xy=rss",
-      "published": "2026-08-25T14:05:35+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Collins: Concerns about high prices are pervasive among contacts in the New England region.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735447/Feds-Collins-Concerns-about-high-prices-are-pervasive-among-contacts-in-the-New-England-region.aspx?xy=rss",
-      "published": "2026-08-25T14:04:51+00:00",
       "score": 1
     },
     {
@@ -230,29 +203,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US ADP Employment Change 4-week average increases to 11.750K",
-      "summary": "Private-sector hiring in the US has gained some pace in early August. According to the NER Pulse, the weekly companion to the ADP National Employment Report, companies added an average of 11.750K jobs per week in the four weeks ending August 8.",
-      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-increases-to-11750k-202608251221",
-      "published": "2026-08-25T12:21:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Gold takes a breather after climbing to a fresh three-month high, US PCE in focus",
       "summary": "Gold (XAU/USD) remains under pressure on Tuesday after setting a fresh three-month high of $4,697 earlier in the day. Traders appear to be booking some profits following the recent rally, which has pushed the Relative Strength Index (RSI) into overbought territory.",
       "link": "https://www.fxstreet.com/news/gold-pauses-near-three-month-high-after-sharp-rally-202608251109",
       "published": "2026-08-25T11:09:01+00:00",
       "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gold Analysis",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Gold Crucial Level !! 4700 for upper limit And 4610 for resistance </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Adinasmelter\"> /u/Adinasmelter </a> <br /> <span><a href=\"https://i.redd.it/38ksu9psyhlh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1vxvsut/gold_analysis/\">[comments]</",
-      "link": "https://www.reddit.com/r/Forex/comments/1vxvsut/gold_analysis/",
-      "published": "2026-08-25T10:20:10+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
