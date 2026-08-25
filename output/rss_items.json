@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-25T01:45:47.345828+00:00",
+  "updated_at": "2026-08-25T03:00:40.478095+00:00",
   "count": 44,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar gains as high inflation fuels odds of RBNZ September rate hikes",
+      "summary": "NZD/USD gains ground after registering modest losses in the previous day, trading around 0.5960 during the Asian hours on Tuesday.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-as-high-inflation-fuels-odds-of-rbnz-september-rate-hikes-202608250300",
+      "published": "2026-08-25T03:00:34+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold retreats from mid-May highs; fails ahead of $4,700 as Fed risks support USD",
+      "summary": "Gold (XAU/USD) touched a fresh high since May 14, during the Asian session on Tuesday, though it struggled to capitalize on the move and failed to break the $4,700 mark.",
+      "link": "https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254",
+      "published": "2026-08-25T02:54:12+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar remains steady following RBA Meeting Minutes",
+      "summary": "AUD/USD gains ground after registering modest losses in the previous day, trading around 0.7150 during the Asian hours on Tuesday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-steady-following-rba-meeting-minutes-202608250205",
+      "published": "2026-08-25T02:05:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Apple prepares to unveil new Mac Mini in coming days",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9734505/Apple-prepares-to-unveil-new-Mac-Mini-in-coming-days.aspx?xy=rss",
+      "published": "2026-08-25T02:00:00+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -16,7 +52,7 @@
       "category": "news",
       "title": "FinancialJuice: RBA: needs more data progress to confirm inflation will return to target",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9734468/RBA-needs-more-data-progress-to-confirm-inflation-will-return-to-target.aspx",
+      "link": "https://www.financialjuice.com/News/9734468/RBA-needs-more-data-progress-to-confirm-inflation-will-return-to-target.aspx?xy=rss",
       "published": "2026-08-25T01:30:04+00:00",
       "score": 1
     },
@@ -25,7 +61,7 @@
       "category": "news",
       "title": "FinancialJuice: Rba board noted it will have data on inflation, jobs and GDP by September meeting",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9734466/Rba-board-noted-it-will-have-data-on-inflation-jobs-and-GDP-by-September-meeting.aspx",
+      "link": "https://www.financialjuice.com/News/9734466/Rba-board-noted-it-will-have-data-on-inflation-jobs-and-GDP-by-September-meeting.aspx?xy=rss",
       "published": "2026-08-25T01:30:04+00:00",
       "score": 2
     },
@@ -34,7 +70,7 @@
       "category": "news",
       "title": "FinancialJuice: RBA highlights upside inflation risks: oil prices, cost pass-through, data center surge",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9734465/RBA-highlights-upside-inflation-risks-oil-prices-cost-pass-through-data-center-surge.aspx",
+      "link": "https://www.financialjuice.com/News/9734465/RBA-highlights-upside-inflation-risks-oil-prices-cost-pass-through-data-center-surge.aspx?xy=rss",
       "published": "2026-08-25T01:30:04+00:00",
       "score": 1
     },
@@ -43,7 +79,7 @@
       "category": "news",
       "title": "FinancialJuice: RBA: policy seems restrictive enough to bring inflation to target within reasonable timeframe",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9734464/RBA-policy-seems-restrictive-enough-to-bring-inflation-to-target-within-reasonable-timeframe.aspx",
+      "link": "https://www.financialjuice.com/News/9734464/RBA-policy-seems-restrictive-enough-to-bring-inflation-to-target-within-reasonable-timeframe.aspx?xy=rss",
       "published": "2026-08-25T01:30:04+00:00",
       "score": 1
     },
@@ -52,7 +88,7 @@
       "category": "news",
       "title": "FinancialJuice: RBA: risks to inflation possibly balanced, not tilted to the upside",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9734463/RBA-risks-to-inflation-possibly-balanced-not-tilted-to-the-upside.aspx",
+      "link": "https://www.financialjuice.com/News/9734463/RBA-risks-to-inflation-possibly-balanced-not-tilted-to-the-upside.aspx?xy=rss",
       "published": "2026-08-25T01:30:04+00:00",
       "score": 1
     },
@@ -61,7 +97,7 @@
       "category": "news",
       "title": "FinancialJuice: RBA: faster inflation reduction could be less damaging to labor market than initially expected",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9734462/RBA-faster-inflation-reduction-could-be-less-damaging-to-labor-market-than-initially-expected.aspx",
+      "link": "https://www.financialjuice.com/News/9734462/RBA-faster-inflation-reduction-could-be-less-damaging-to-labor-market-than-initially-expected.aspx?xy=rss",
       "published": "2026-08-25T01:30:04+00:00",
       "score": 1
     },
@@ -91,15 +127,6 @@
       "link": "https://www.fxstreet.com/news/euro-gains-support-amid-hawkish-ecb-expectations-subdued-us-dollar-202608250108",
       "published": "2026-08-25T01:08:50+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: UK PM Burnham plans US trip next month to lobby Trump on Ukraine requirements",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9734346/UK-PM-Burnham-plans-US-trip-next-month-to-lobby-Trump-on-Ukraine-requirements.aspx",
-      "published": "2026-08-24T23:08:36+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -162,33 +189,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vxfpdk/thoughts_on_eurusd/\"> <img alt=\"Thoughts on EURUSD\" src=\"https://preview.redd.it/wmjyim6d2elh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0d470ee0d6a74a8d13e8a9fb7372e019a09d56a\" title=\"Thoughts on EURUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Solid uptrend looking for longs because of the nice swings .",
       "link": "https://www.reddit.com/r/Forex/comments/1vxfpdk/thoughts_on_eurusd/",
       "published": "2026-08-24T21:13:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Asia FX: Mixed central bank paths shape THB, KRW, PHP – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad expects the Bank of Thailand (BoT) to hold rates at 1.00%, leaving negative real yields that keep Thai Baht (THB) lagging. The Bank of Korea (BoK) is seen hiking again to 3.00%, supporting South Korean Won (KRW) as growth and inflation exceed targets.",
-      "link": "https://www.fxstreet.com/news/asia-fx-mixed-central-bank-paths-shape-thb-krw-php-bbh-202608242033",
-      "published": "2026-08-24T20:33:00+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso weakens as Iran sanctions offset Mexico’s inflation data",
-      "summary": "The Mexican Peso (MXN) loses ground against the Greenback on Monday, even though economic data showed that inflation accelerated in the first half of August, while economic growth was softer than expected. Consequently, the USD/MXN pair trades with gains of over 0.25% to 16.96.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-weakens-as-iran-sanctions-offset-mexicos-inflation-data-202608242013",
-      "published": "2026-08-24T20:13:47+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar firms on safe-haven demand ahead of data-heavy Tuesday",
-      "summary": "The US Dollar Index (DXY) reclaimed the 99.00 mark for the first time since last Wednesday's plunge.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-on-safe-haven-demand-ahead-of-data-heavy-tuesday-202608242013",
-      "published": "2026-08-24T20:13:42+00:00",
       "score": 1
     },
     {
