@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-25T04:00:03.154849+00:00",
-  "count": 39,
+  "updated_at": "2026-08-25T04:48:25.226310+00:00",
+  "count": 37,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "summary": "Gold prices fell in India on Tuesday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608250435",
+      "published": "2026-08-25T04:35:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar remains depressed as firmer USD and trade war counter higher oil prices",
+      "summary": "The USD/CAD pair sticks to a positive bias for the second straight day and trades around mid-1.3800s during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-depressed-as-firmer-usd-and-trade-war-counter-higher-oil-prices-202608250412",
+      "published": "2026-08-25T04:12:38+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -41,8 +59,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold retreats from mid-May highs; fails ahead of $4,700 as Fed risks support USD",
-      "summary": "Gold (XAU/USD) touched a fresh high since May 14, during the Asian session on Tuesday, though it struggled to capitalize on the move and failed to break the $4,700 mark.",
+      "title": "Gold moves away from multi‑month top as Fed rate fears and Middle East jitters support USD",
+      "summary": "Gold (XAU/USD) faces rejection ahead of the $4,700 mark on Tuesday and witnessed an intraday turnaround from its highest level since May 14, touched during the Asian session.",
       "link": "https://www.fxstreet.com/news/gold-retreats-from-mid-may-highs-fails-ahead-of-4-700-as-fed-risks-support-usd-202608250254",
       "published": "2026-08-25T02:54:12+00:00",
       "score": 4
@@ -54,15 +72,6 @@
       "summary": "AUD/USD gains ground after registering modest losses in the previous day, trading around 0.7150 during the Asian hours on Tuesday.",
       "link": "https://www.fxstreet.com/news/australian-dollar-remains-steady-following-rba-meeting-minutes-202608250205",
       "published": "2026-08-25T02:05:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Apple prepares to unveil new Mac Mini in coming days",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9734505/Apple-prepares-to-unveil-new-Mac-Mini-in-coming-days.aspx?xy=rss",
-      "published": "2026-08-25T02:00:00+00:00",
       "score": 1
     },
     {
@@ -108,33 +117,6 @@
       "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann keep a downside bias on USD/CNH after the pair dipped to 6.7180 and closed near 6.7210.",
       "link": "https://www.fxstreet.com/news/chinese-yuan-targeting-67200-against-us-dollar-uob-202608242233",
       "published": "2026-08-24T22:33:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/JPY Price Forecast: 217.00 caps bulls as RSI stalls",
-      "summary": "The GBP/JPY consolidates near familiar levels around 217.00 on Monday, as risk aversion dominates markets, with flows moving into haven assets like the US Dollar and Gold amid uncertainty over the Middle East conflict.",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-21700-caps-bulls-as-rsi-stalls-202608242207",
-      "published": "2026-08-24T22:07:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South Korean Won: Rally faces consolidation risk on policy week – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that South Korean Won (KRW) has extended its rally, with USD/KRW briefly touching 1380 on exporter and corporate US Dollar (USD) selling and a softer USD backdrop.",
-      "link": "https://www.fxstreet.com/news/south-korean-won-rally-faces-consolidation-risk-on-policy-week-ocbc-202608242151",
-      "published": "2026-08-24T21:51:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: 1.1700 caps bulls as RSI overheats",
-      "summary": "The shared currency registers minimal losses of 0.13% versus the US Dollar as EUR/USD fails to surpass 1.1700, exacerbating the drop towards the 1.1660 area, despite retaining its current neutral-to-upward bias.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-11700-caps-bulls-as-rsi-overheats-202608242146",
-      "published": "2026-08-24T21:46:34+00:00",
       "score": 1
     },
     {
