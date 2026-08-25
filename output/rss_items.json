@@ -1,32 +1,104 @@
 {
-  "updated_at": "2026-08-24T23:58:59.219533+00:00",
-  "count": 47,
+  "updated_at": "2026-08-25T01:45:47.345828+00:00",
+  "count": 44,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "RBA Minutes: Board ready to raise rates if upside risks materialise",
+      "summary": "Reserve Bank of Australia (RBA) published the Minutes of its July monetary policy meeting on Tuesday, with the key takeaways noted below.",
+      "link": "https://www.fxstreet.com/news/rba-minutes-board-ready-to-raise-rates-if-upside-risks-materialise-202608250132",
+      "published": "2026-08-25T01:32:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: RBA: needs more data progress to confirm inflation will return to target",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9734468/RBA-needs-more-data-progress-to-confirm-inflation-will-return-to-target.aspx",
+      "published": "2026-08-25T01:30:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Rba board noted it will have data on inflation, jobs and GDP by September meeting",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9734466/Rba-board-noted-it-will-have-data-on-inflation-jobs-and-GDP-by-September-meeting.aspx",
+      "published": "2026-08-25T01:30:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: RBA highlights upside inflation risks: oil prices, cost pass-through, data center surge",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9734465/RBA-highlights-upside-inflation-risks-oil-prices-cost-pass-through-data-center-surge.aspx",
+      "published": "2026-08-25T01:30:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: RBA: policy seems restrictive enough to bring inflation to target within reasonable timeframe",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9734464/RBA-policy-seems-restrictive-enough-to-bring-inflation-to-target-within-reasonable-timeframe.aspx",
+      "published": "2026-08-25T01:30:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: RBA: risks to inflation possibly balanced, not tilted to the upside",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9734463/RBA-risks-to-inflation-possibly-balanced-not-tilted-to-the-upside.aspx",
+      "published": "2026-08-25T01:30:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: RBA: faster inflation reduction could be less damaging to labor market than initially expected",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9734462/RBA-faster-inflation-reduction-could-be-less-damaging-to-labor-market-than-initially-expected.aspx",
+      "published": "2026-08-25T01:30:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen consolidates around 159.00 vs USD as bearish potential remains intact",
+      "summary": "The USD/JPY pair is seen oscillating in a narrow band just above the 159.00 mark during the Asian session on Tuesday, awaiting a fresh catalyst before the next leg of a directional move.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-consolidates-around-15900-vs-usd-as-bearish-potential-remains-intact-202608250116",
+      "published": "2026-08-25T01:16:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7852 vs. 6.7841 previous",
+      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7852 compared to the previous day's fix of 6.7841 and 6.7219 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67852-vs-67841-previous-202608250115",
+      "published": "2026-08-25T01:15:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro gains support amid hawkish ECB expectations, subdued US Dollar",
+      "summary": "EUR/USD inches higher after posting minor losses in the previous day, trading around 1.1670 during the Asian hours on Tuesday. The pair finds support as rising oil prices, elevated bond yields, and escalating Middle East tensions drive Eurozone inflation concerns.",
+      "link": "https://www.fxstreet.com/news/euro-gains-support-amid-hawkish-ecb-expectations-subdued-us-dollar-202608250108",
+      "published": "2026-08-25T01:08:50+00:00",
+      "score": 3
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: UK PM Burnham plans US trip next month to lobby Trump on Ukraine requirements",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9734346/UK-PM-Burnham-plans-US-trip-next-month-to-lobby-Trump-on-Ukraine-requirements.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9734346/UK-PM-Burnham-plans-US-trip-next-month-to-lobby-Trump-on-Ukraine-requirements.aspx",
       "published": "2026-08-24T23:08:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Burnham plans US trip next month to lobby Trump on Ukraine aid",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9734345/Burnham-plans-US-trip-next-month-to-lobby-Trump-on-Ukraine-aid.aspx?xy=rss",
-      "published": "2026-08-24T23:07:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Meta to unveil 'Hatch' AI agent platform in coming weeks: The Information",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9734330/Meta-to-unveil-Hatch-AI-agent-platform-in-coming-weeks-The-Information.aspx?xy=rss",
-      "published": "2026-08-24T22:41:36+00:00",
       "score": 1
     },
     {
@@ -75,15 +147,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US considers 7.5% China overcapacity tariffs ahead of Xi-Trump meeting",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9734269/US-considers-75-China-overcapacity-tariffs-ahead-of-Xi-Trump-meeting.aspx?xy=rss",
-      "published": "2026-08-24T21:32:44+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Japanese Yen lower as US Dollar firms on heavier Iran sanctions",
@@ -127,96 +190,6 @@
       "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-on-safe-haven-demand-ahead-of-data-heavy-tuesday-202608242013",
       "published": "2026-08-24T20:13:42+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia falls for the 7th day, longest losing streak since 2022 $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9734178/Nvidia-falls-for-the-7th-day-longest-losing-streak-since-2022-NVDA.aspx?xy=rss",
-      "published": "2026-08-24T20:01:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: +1289 mln<br />Nasdaq 100: +735 mln<br />Dow 30: +424 mln<br />Mag 7: +279 mln",
-      "link": "https://www.financialjuice.com/News/9734173/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-08-24T19:50:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index: Cautious rebound capped near 100 – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret observe that the US Dollar (USD) is modestly stronger as markets start the week cautiously, with equities defensive and Treasuries firmer.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-cautious-rebound-capped-near-100-scotiabank-202608241936",
-      "published": "2026-08-24T19:36:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Amazon estimated more than $530m in project investment - Insider $AMZN",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9734149/Amazon-estimated-more-than-530m-in-project-investment---Insider-AMZN.aspx?xy=rss",
-      "published": "2026-08-24T19:29:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Amazon project aims to automate delivery stations - Insider $AMZN",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9734148/Amazon-project-aims-to-automate-delivery-stations---Insider-AMZN.aspx?xy=rss",
-      "published": "2026-08-24T19:28:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Amazon planning new automated warehouses - Insider $AMZN",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9734147/Amazon-planning-new-automated-warehouses---Insider-AMZN.aspx?xy=rss",
-      "published": "2026-08-24T19:28:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Gradual appreciation bias with key levels against US Dollar – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong highlight that RMB and CNH remain supported by softer USD dynamics and exporter conversion, but the People’s Bank of China is signalling a preference for gradual gains via its fixing.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-appreciation-bias-with-key-levels-against-us-dollar-ocbc-202608241917",
-      "published": "2026-08-24T19:17:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG pullback tests 100-day SMA",
-      "summary": "Silver (XAG/USD) price reverses course on Monday, down 0.59% as buyers failed to push the white metal past $70.00, which exacerbated a reversal to the first support level at the 100-day Simple Moving Average (SMA) at $68.42. At the time of writing, XAG/USD trades at $68.52, after peaking at $69.92.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-pullback-tests-100-day-sma-202608241852",
-      "published": "2026-08-24T18:52:11+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Upside risk stays intact against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann maintain a cautious stance on USD/SGD after Friday’s drop to 1.2682 and close near 1.2700.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-risk-stays-intact-against-us-dollar-uob-202608241841",
-      "published": "2026-08-24T18:41:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold rallies as Iran sanctions stoke haven demand",
-      "summary": "Gold (XAU/USD) price resumes its advance on Monday and refreshes three-month highs at $4,681 as US Treasury Secretary Scott Bessent crosses the wires to reveal sanctions on Iran-linked entities, while investors await a speech by new Fed Chair Kevin Warsh at the Jackson Hole symposium on Friday.",
-      "link": "https://www.fxstreet.com/news/gold-rallies-as-iran-sanctions-stoke-haven-demand-202608241820",
-      "published": "2026-08-24T18:20:57+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
