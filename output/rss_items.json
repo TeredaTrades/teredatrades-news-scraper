@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-08-25T06:03:59.333839+00:00",
-  "count": 40,
+  "updated_at": "2026-08-25T07:08:40.149988+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Currency Strength Chart: Strongest: USD, GBP, AUD, EUR, NZD, CAD, JPY, CHF - Weakest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9734859/Currency-Strength-Chart-Strongest-USD-GBP-AUD-EUR-NZD-CAD-JPY-CHF---Weakest.aspx?xy=rss",
+      "published": "2026-08-25T07:02:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "WTI slides below $84.00 on firmer USD but US-Iran tensions limit deeper losses",
+      "summary": "West Texas Intermediate (WTI) – the benchmark US Crude Oil price – attracts fresh sellers following an intraday uptick to the $85.35 region and turns lower for the second straight day. The commodity slides below $84.00 during the early European session, though the downside potential seems limited.",
+      "link": "https://www.fxstreet.com/news/wti-slides-below-8400-on-firmer-usd-but-us-iran-tensions-limit-deeper-losses-202608250647",
+      "published": "2026-08-25T06:47:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar edges up as RBA keeps rate hike option quite possible",
+      "summary": "The Australian Dollar (AUD) trades slightly higher against its major currency peers, except the US Dollar (USD), on Tuesday. In the European session, the Aussie pair is slightly down to near 0.7147.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-up-as-rba-keeps-rate-hike-option-quite-possible-202608250644",
+      "published": "2026-08-25T06:44:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Equities: Semiconductor selloff pressures Wall Street - Deutsche Bank",
+      "summary": "Deutsche Bank strategists describe a cautious session for United States (US) equities, with the S&amp;P 500 slipping as AI‑chip names sold off ahead of Nvidia’s earnings. While the equal‑weighted S&amp;P approached record highs, headline indices were dragged lower by semiconductor weakness.",
+      "link": "https://www.fxstreet.com/news/equities-semiconductor-selloff-pressures-wall-street-deutsche-bank-202608250638",
+      "published": "2026-08-25T06:38:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: US Dollar keeps crawling towards the key 160.00 area",
+      "summary": "The Japanese Yen (JPY) remains on the defensive against the US Dollar (USD) on Tuesday, in a low-volatility market, as investors await key data releases and the Jackson Hole symposium, due in the second half of the week, to make decisions.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-us-dollar-keeps-crawling-towards-the-key-16000-area-202608250631",
+      "published": "2026-08-25T06:31:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Data weakness keeps downside risks elevated - TD Securities",
+      "summary": "TD Securities strategists argue that the US Dollar (USD) has re-entered a bearish regime after the Treasury buyback announcement pushed the US Dollar Index (DXY) below its 200‑day SMA.",
+      "link": "https://www.fxstreet.com/news/us-dollar-data-weakness-keeps-downside-risks-elevated-td-securities-202608250627",
+      "published": "2026-08-25T06:27:10+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed Interest Rate Probabilities",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9734807/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+      "published": "2026-08-25T06:10:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Further gains eyed toward 1.1800 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann keep a constructive stance on EUR/USD despite recent consolidation around 1.1660. They still see room for upside toward 1.1725 in the coming weeks as long as support at 1.1630 holds.",
+      "link": "https://www.fxstreet.com/news/euro-further-gains-eyed-toward-11800-against-us-dollar-uob-202608250608",
+      "published": "2026-08-25T06:08:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9734803/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+      "published": "2026-08-25T06:08:50+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -23,7 +104,7 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee ticks up against US Dollar on RBI’s likely intervention",
+      "title": "Indian Rupee edges up against US Dollar on possible RBI’s intervention",
       "summary": "The Indian Rupee (INR) trades marginally higher against the US Dollar (USD) in the opening session on Tuesday.",
       "link": "https://www.fxstreet.com/news/indian-rupee-ticks-up-against-us-dollar-on-rbis-likely-intervention-202608250537",
       "published": "2026-08-25T05:37:39+00:00",
@@ -36,15 +117,6 @@
       "summary": "USD/IDR halts its three-day losing streak, trading around 17,770 during the Asian hours on Tuesday. The pair appreciates as the Indonesian Rupiah (IDR) struggles under the weight of cautious market sentiment driven by persistent external pressures.",
       "link": "https://www.fxstreet.com/news/indonesian-rupiah-struggles-amid-record-deficit-external-pressures-202608250527",
       "published": "2026-08-25T05:27:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BOJ: core CPI excluding special factors rises 2.3% in July after 2.6% increase in June",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9734756/BOJ-core-CPI-excluding-special-factors-rises-23-in-July-after-26-increase-in-June.aspx?xy=rss",
-      "published": "2026-08-25T05:01:18+00:00",
       "score": 1
     },
     {
@@ -120,42 +192,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "RBA Minutes: Board ready to raise rates if upside risks materialise",
-      "summary": "Reserve Bank of Australia (RBA) published the Minutes of its July monetary policy meeting on Tuesday, with the key takeaways noted below.",
-      "link": "https://www.fxstreet.com/news/rba-minutes-board-ready-to-raise-rates-if-upside-risks-materialise-202608250132",
-      "published": "2026-08-25T01:32:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen consolidates around 159.00 vs USD as bearish potential remains intact",
-      "summary": "The USD/JPY pair is seen oscillating in a narrow band just above the 159.00 mark during the Asian session on Tuesday, awaiting a fresh catalyst before the next leg of a directional move.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-consolidates-around-15900-vs-usd-as-bearish-potential-remains-intact-202608250116",
-      "published": "2026-08-25T01:16:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7852 vs. 6.7841 previous",
-      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7852 compared to the previous day's fix of 6.7841 and 6.7219 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67852-vs-67841-previous-202608250115",
-      "published": "2026-08-25T01:15:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro gains support amid hawkish ECB expectations, subdued US Dollar",
-      "summary": "EUR/USD inches higher after posting minor losses in the previous day, trading around 1.1670 during the Asian hours on Tuesday. The pair finds support as rising oil prices, elevated bond yields, and escalating Middle East tensions drive Eurozone inflation concerns.",
-      "link": "https://www.fxstreet.com/news/euro-gains-support-amid-hawkish-ecb-expectations-subdued-us-dollar-202608250108",
-      "published": "2026-08-25T01:08:50+00:00",
-      "score": 3
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Thoughts on EURUSD",
@@ -189,15 +225,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vwingk/when_a_stable_ea_suddenly_stops_being_stable/\"> <img alt=\"When a “stable” EA suddenly stops being stable\" src=\"https://preview.redd.it/jx2h9lf4t6lh1.jpg?width=140&amp;height=109&amp;auto=webp&amp;s=462622fae27a4285f0d7b2d6466429a79ddff28d\" title=\"When a “stable” EA suddenly stops being stable\" /> </a> </td><td> <!-- SC_OFF -",
       "link": "https://www.reddit.com/r/Forex/comments/1vwingk/when_a_stable_ea_suddenly_stops_being_stable/",
       "published": "2026-08-23T20:52:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gold Pullback: Can 4580 Hold? 👀",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vw7kj5/gold_pullback_can_4580_hold/\"> <img alt=\"Gold Pullback: Can 4580 Hold? 👀\" src=\"https://preview.redd.it/0cyq4ak7p4lh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8119e87caf8a4d424d7ddddf4c46eee351d2fbd3\" title=\"Gold Pullback: Can 4580 Hold? 👀\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Gold remains structurally",
-      "link": "https://www.reddit.com/r/Forex/comments/1vw7kj5/gold_pullback_can_4580_hold/",
-      "published": "2026-08-23T13:43:19+00:00",
       "score": 1
     },
     {
