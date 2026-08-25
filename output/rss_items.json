@@ -1,13 +1,31 @@
 {
-  "updated_at": "2026-08-25T16:00:46.980718+00:00",
-  "count": 46,
+  "updated_at": "2026-08-25T16:55:58.759771+00:00",
+  "count": 40,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar faces double trouble from Oil slump, US tariffs",
+      "summary": "USD/CAD trades around 1.3835 on Tuesday at the time of writing, down a modest 0.07% on the day. The pair lacks a clear direction as both the US Dollar (USD) and the Canadian Dollar (CAD) face headwinds.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-faces-double-trouble-from-oil-slump-us-tariffs-202608251622",
+      "published": "2026-08-25T16:22:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound holds near six-month high as Hormuz hopes lift sentiment",
+      "summary": "The Pound Sterling (GBP) consolidates near a six-month high of 1.3675 on Tuesday as Middle East headlines improve risk appetite, while investors await the release of key US economic data and the speech by Federal Reserve (Fed) Chair Kevin Warsh at Jackson Hole.",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-near-six-month-high-as-hormuz-hopes-lift-sentiment-202608251605",
+      "published": "2026-08-25T16:05:02+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Canada's Joly: Spoke with Ford, Honda, and Toyota after the Trump auto threat.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735604/Canadas-Joly-Spoke-with-Ford-Honda-and-Toyota-after-the-Trump-auto-threat.aspx",
+      "link": "https://www.financialjuice.com/News/9735604/Canadas-Joly-Spoke-with-Ford-Honda-and-Toyota-after-the-Trump-auto-threat.aspx?xy=rss",
       "published": "2026-08-25T15:59:03+00:00",
       "score": 1
     },
@@ -61,7 +79,7 @@
       "category": "news",
       "title": "FinancialJuice: Trump: We're watching every square inch of the Strait of Hormuz and Pickaxe Mountain.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735486/Trump-Were-watching-every-square-inch-of-the-Strait-of-Hormuz-and-Pickaxe-Mountain.aspx",
+      "link": "https://www.financialjuice.com/News/9735486/Trump-Were-watching-every-square-inch-of-the-Strait-of-Hormuz-and-Pickaxe-Mountain.aspx?xy=rss",
       "published": "2026-08-25T14:32:07+00:00",
       "score": 1
     },
@@ -70,7 +88,7 @@
       "category": "news",
       "title": "FinancialJuice: Trump: Iran has been notified that any ship or boat placing new mines will be immediately and systematically destroyed - Truth Social.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735485/Trump-Iran-has-been-notified-that-any-ship-or-boat-placing-new-mines-will-be-immediately-and-systematically-destroyed---Truth-Social.aspx",
+      "link": "https://www.financialjuice.com/News/9735485/Trump-Iran-has-been-notified-that-any-ship-or-boat-placing-new-mines-will-be-immediately-and-systematically-destroyed---Truth-Social.aspx?xy=rss",
       "published": "2026-08-25T14:30:23+00:00",
       "score": 1
     },
@@ -79,7 +97,7 @@
       "category": "news",
       "title": "FinancialJuice: Trump: All mines have been removed and/or detonated from Hormuz - Truth Social.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9735484/Trump-All-mines-have-been-removed-andor-detonated-from-Hormuz---Truth-Social.aspx",
+      "link": "https://www.financialjuice.com/News/9735484/Trump-All-mines-have-been-removed-andor-detonated-from-Hormuz---Truth-Social.aspx?xy=rss",
       "published": "2026-08-25T14:30:09+00:00",
       "score": 1
     },
@@ -111,33 +129,6 @@
       "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Collins: It is appropriate to raise interest rates soon, absent evidence of sustained disinflation.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735457/Feds-Collins-It-is-appropriate-to-raise-interest-rates-soon-absent-evidence-of-sustained-disinflation.aspx",
-      "published": "2026-08-25T14:13:57+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Collins: I remain particularly concerned about inflation.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735456/Feds-Collins-I-remain-particularly-concerned-about-inflation.aspx",
-      "published": "2026-08-25T14:13:01+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Collins: Labor market is broadly balanced, but with risks.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735455/Feds-Collins-Labor-market-is-broadly-balanced-but-with-risks.aspx",
-      "published": "2026-08-25T14:12:57+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Euro: Upside limited above fair value against US Dollar – Scotiabank",
@@ -153,51 +144,6 @@
       "summary": "UOB’s Quek Ser Leang notes that Spot Gold remains in a broader uptrend after breaking above a key declining trendline and reaching an intraday high near $4,700.",
       "link": "https://www.fxstreet.com/news/gold-overbought-rally-eyes-key-resistance-uob-202608251359",
       "published": "2026-08-25T13:59:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro stays near three-month high as US Dollar remains subdued",
-      "summary": "EUR/USD holds modest gains on Tuesday as the latest Middle East developments fail to trigger a strong market reaction, while the US Dollar (USD) struggles to recover from last week’s sell-off sparked by the US Treasury’s decision to increase buybacks of longer-dated government securities.",
-      "link": "https://www.fxstreet.com/news/euro-stays-near-three-month-high-as-us-dollar-remains-subdued-202608251335",
-      "published": "2026-08-25T13:35:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Trading near fair value against US Dollar - Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret describe USD/CAD trading close to their fair value estimate around 1.3842 as the Canadian Dollar (CAD) reacts to trade headlines and weaker Oil prices.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trading-near-fair-value-against-us-dollar-scotiabank-202608251334",
-      "published": "2026-08-25T13:34:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Bond market supports cautious consolidation – ING",
-      "summary": "ING’s Francesco Pesole notes the Dollar is drawing support from the US bond market as long-dated yields stabilise, while US-Canada trade tensions and Iran-related sanctions risks complicate the outlook.",
-      "link": "https://www.fxstreet.com/news/us-dollar-bond-market-supports-cautious-consolidation-ing-202608251314",
-      "published": "2026-08-25T13:14:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Tariff conflict fuels safe haven bid – Commerzbank",
-      "summary": "Commerzbank’s Carsten Fritsch reports that Gold has surged to a three‑month high near USD 4,700 per ounce as US–Canada tariff tensions escalate and concerns over US debt intensify. Silver and Platinum have also rallied.",
-      "link": "https://www.fxstreet.com/news/gold-tariff-conflict-fuels-safe-haven-bid-commerzbank-202608251250",
-      "published": "2026-08-25T12:50:27+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar defies stronger US Dollar as RBNZ rate hike bets offer support",
-      "summary": "NZD/USD edges slightly higher on Tuesday and trades around 0.5965 at the time of writing, up 0.08% on the day.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-defies-stronger-us-dollar-as-rbnz-rate-hike-bets-offer-support-202608251241",
-      "published": "2026-08-25T12:41:12+00:00",
       "score": 1
     },
     {
@@ -417,16 +363,5 @@
       "score": 1
     }
   ],
-  "errors": [
-    {
-      "source": "Kobeissi Letter",
-      "type": "twitter",
-      "error": "failed to parse feed (text/html;charset=utf-8 is not an XML media type)"
-    },
-    {
-      "source": "Walter Bloomberg",
-      "type": "twitter",
-      "error": "failed to parse feed (text/html;charset=utf-8 is not an XML media type)"
-    }
-  ]
+  "errors": []
 }
