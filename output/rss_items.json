@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-26T16:19:17.391269+00:00",
-  "count": 46,
+  "updated_at": "2026-08-26T18:15:48.840115+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Further gains toward 6.7000 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report USD/CNH slipped to 6.7166 and closed slightly lower, with short-term downside momentum gradually building.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-further-gains-toward-67000-against-us-dollar-uob-202608261811",
+      "published": "2026-08-26T18:11:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CAD Price Forecast: Bulls eye 1.3900 as RSI recovers",
+      "summary": "The USD/CAD pair bounces off daily lows at 1.3833 and is up about 0.26% on Wednesday, driven by sticky US inflation data, which triggered a jump to new weekly highs amid an ongoing short-term downturn. At the time of writing, the pair trades at 1.3873.",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bulls-eye-13900-as-rsi-recovers-202608261810",
+      "published": "2026-08-26T18:10:58+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold tumbles as high US inflation supports Fed hawkish bets",
+      "summary": "Gold (XAU/USD) price drops over 1.37% on Wednesday as economic data from the United States (US) broadly aligned with estimates. Meanwhile, inflation remains close to the 4% threshold, increasing the likelihood of higher interest rates.",
+      "link": "https://www.fxstreet.com/news/gold-tumbles-as-high-us-inflation-supports-fed-hawkish-bets-202608261809",
+      "published": "2026-08-26T18:09:42+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Tariff headlines but range intact against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight that the Canadian Dollar (CAD) is slightly softer, tracking broader USD gains and weaker Oil, while USD/CAD trades almost exactly at their fair value estimate near 1.3862.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-tariff-headlines-but-range-intact-against-us-dollar-scotiabank-202608261748",
+      "published": "2026-08-26T17:48:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc falls against US Dollar as headline PCE inflation tops forecasts",
+      "summary": "The Swiss Franc (CHF) weakens against the US Dollar (USD) on Wednesday as the Greenback attracts buyers following the release of the latest United States (US) inflation data. Traders also remain attentive to developments in the Middle East.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-falls-against-us-dollar-as-headline-pce-inflation-tops-forecasts-202608261726",
+      "published": "2026-08-26T17:26:29+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 5-Year Note Auction",
+      "summary": "<ul><li>High yield&nbsp;4.393% (Tail of 0.2 BPS)</li><li>Bid-to-Cover 2.37</li><li>Sells $70 bln</li><li>Awards 19.22% of bids at high</li><li>Primary dealers take 10.05%</li><li>Direct 28.44%</li><li>Indirect 61.51%<br /></li></ul>",
+      "link": "https://www.financialjuice.com/News/9737449/US-5-Year-Note-Auction.aspx?xy=rss",
+      "published": "2026-08-26T17:03:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google launches Gemini 3.5 transcribe speech-to-text model. $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737436/Google-launches-Gemini-35-transcribe-speech-to-text-model-GOOGL.aspx?xy=rss",
+      "published": "2026-08-26T17:02:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 5-Year Note High Yield Actual 4.393% (Forecast -, Previous 4.408%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737425/US-5-Year-Note-High-Yield-Actual-4393-Forecast---Previous-4408.aspx?xy=rss",
+      "published": "2026-08-26T17:02:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Treasury WI 5 Yr yield 4.391% before $70 billion auction",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737421/Treasury-WI-5-Yr-yield-4391-before-70-billion-auction.aspx?xy=rss",
+      "published": "2026-08-26T17:00:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound retreats as sticky PCE inflation keeps Fed hike bets alive",
+      "summary": "The Pound Sterling (GBP) retreats about 0.39% on Wednesday as the US Dollar (USD) stages a recovery after a US inflation report showed prices remain elevated, keeping the chances of a Federal Reserve (Fed) rate hike toward the end of the year.",
+      "link": "https://www.fxstreet.com/news/british-pound-retreats-as-sticky-pce-revives-fed-hike-bets-202608261634",
+      "published": "2026-08-26T16:34:23+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones Industrial Average ignores a revision made of inflation",
+      "summary": "The Dow Jones Industrial Average (DJIA) trades a shade beneath 53,500 and roughly 100 points lower in the session on Wednesday, after a 12:30 GMT data drop the wires filed as uneventful.",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-ignores-a-revision-made-of-inflation-202608261627",
+      "published": "2026-08-26T16:27:43+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fitch Ratings: Sovereign bond yield spike highlights persistent fiscal challenges.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737380/Fitch-Ratings-Sovereign-bond-yield-spike-highlights-persistent-fiscal-challenges.aspx?xy=rss",
+      "published": "2026-08-26T16:27:36+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -30,15 +138,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Judge suspends META trial: I'm inclined to approve deal but needs more time to review. $META",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737348/Judge-suspends-META-trial-Im-inclined-to-approve-deal-but-needs-more-time-to-review-META.aspx?xy=rss",
-      "published": "2026-08-26T15:45:57+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Silver Price Forecast: Buyers struggle below the 100-day SMA",
@@ -48,15 +147,6 @@
       "score": 4
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Iranian Nuclear Chief Eslami: Trump's threats to bomb alleged secret Iranian nuclear site show how international organizations are pawns of US and Israel.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737326/Iranian-Nuclear-Chief-Eslami-Trumps-threats-to-bomb-alleged-secret-Iranian-nuclear-site-show-how-international-organizations-are-pawns-of-US-and-Israel.aspx?xy=rss",
-      "published": "2026-08-26T15:22:55+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Australian Dollar stumbles as hot Australian CPI runs into a firmer US Dollar",
@@ -64,33 +154,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-stumbles-as-hot-australian-cpi-runs-into-a-firmer-us-dollar-202608261456",
       "published": "2026-08-26T14:56:20+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: No time schedule for the negotiations with Iran to resume - Al Jazeera Interview",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737267/Trump-No-time-schedule-for-the-negotiations-with-Iran-to-resume---Al-Jazeera-Interview.aspx?xy=rss",
-      "published": "2026-08-26T14:41:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump reiterates US is 'winning very big' and Iran's economy is 'falling apart - Al Jazeera.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737265/Trump-reiterates-US-is-winning-very-big-and-Irans-economy-is-falling-apart---Al-Jazeera.aspx?xy=rss",
-      "published": "2026-08-26T14:39:08+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to Al Jazeera: Both economic warfare and military strikes are effective against Iran.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737264/Trump-to-Al-Jazeera-Both-economic-warfare-and-military-strikes-are-effective-against-Iran.aspx?xy=rss",
-      "published": "2026-08-26T14:38:28+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -108,60 +171,6 @@
       "summary": "The Japanese Yen (JPY) gives up its earlier gains against the US Dollar (USD) on Wednesday as traders react to the latest United States (US) inflation data. At the time of writing, USD/JPY trades around 159.41, recovering from an intraday low of 158.88.",
       "link": "https://www.fxstreet.com/news/japanese-yen-reverses-earlier-gains-as-us-dollar-firms-after-pce-data-202608261418",
       "published": "2026-08-26T14:18:59+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Pressure builds as risk premia rise – ABN AMRO",
-      "summary": "ABN AMRO’s Georgette Boele notes that sentiment towards the Dollar is weakening as fiscal concerns and rising risk premia outweigh the support from higher US Treasury yields.",
-      "link": "https://www.fxstreet.com/news/us-dollar-pressure-builds-as-risk-premia-rise-abn-amro-202608261406",
-      "published": "2026-08-26T14:06:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Neither a confirmed hike nor a guaranteed pause: Why the Australian Dollar is climbing toward 0.7200",
-      "summary": "The Australian Dollar (AUD) is outperforming across global FX markets following higher-than-expected Consumer Price Index (CPI) data for July, which sharply lifted expectations for additional Reserve Bank of Australia (RBA) interest-rate hikes.",
-      "link": "https://www.fxstreet.com/news/neither-a-confirmed-hike-nor-a-guaranteed-pause-why-the-australian-dollar-is-climbing-toward-07200-202608261405",
-      "published": "2026-08-26T14:05:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound weakens against US Dollar as headline PCE beats forecasts",
-      "summary": "GBP/USD falls to a five-day low on Wednesday as traders react to the latest United States (US) Personal Consumption Expenditures (PCE) Price Index data. At the time of writing, the pair trades around 1.3603, down roughly 0.33% on the day.",
-      "link": "https://www.fxstreet.com/news/british-pound-weakens-against-us-dollar-as-headline-pce-beats-forecasts-202608261335",
-      "published": "2026-08-26T13:35:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Kevin Warsh’s Jackson Hole dilemma: Say too much, too little, or just enough",
-      "summary": "Kevin Warsh is preparing to deliver his first Jackson Hole speech as Federal Reserve (Fed) Chair on Friday, and expectations extend well beyond whether interest rates will be raised or left unchanged in September.",
-      "link": "https://www.fxstreet.com/news/kevin-warshs-jackson-hole-dilemma-say-too-much-too-little-or-just-enough-202608261315",
-      "published": "2026-08-26T13:15:09+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold slips as sticky US PCE inflation fails to boost Fed rate-hike expectations",
-      "summary": "Gold (XAU/USD) trades around $4,620 on Wednesday at the time of writing, down 0.83% on the day.",
-      "link": "https://www.fxstreet.com/news/gold-slips-as-sticky-us-pce-inflation-fails-to-boost-fed-rate-hike-expectations-202608261259",
-      "published": "2026-08-26T12:59:41+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro comes under pressure against US Dollar after mixed US PCE data",
-      "summary": "EUR/USD trades under modest pressure on Wednesday after the US Personal Consumption Expenditures (PCE) Price Index report delivered a mixed inflation picture.",
-      "link": "https://www.fxstreet.com/news/euro-comes-under-pressure-against-us-dollar-after-mixed-us-pce-data-202608261257",
-      "published": "2026-08-26T12:57:38+00:00",
       "score": 2
     },
     {
