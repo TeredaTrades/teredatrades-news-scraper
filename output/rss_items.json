@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-26T02:48:52.983298+00:00",
-  "count": 54,
+  "updated_at": "2026-08-26T03:54:49.318362+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: China finance ministry offers 3-month bills with 1.0899% yield: traders",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736387/China-finance-ministry-offers-3-month-bills-with-10899-yield-traders.aspx?xy=rss",
+      "published": "2026-08-26T03:37:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold holds steady around $4,650 as traders look to US PCE for Fed rate cues",
+      "summary": "Gold (XAU/USD) extends its two-way price moves for the second straight day and trades above $4,650 during the Asian session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/gold-holds-steady-around-4-650-as-traders-look-to-us-pce-for-fed-rate-cues-202608260332",
+      "published": "2026-08-26T03:32:20+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD holds firmly above $69 ahead of US PCE Inflation data",
+      "summary": "Silver price (XAG/USD) is up almost 1% to near $69.40 during the Asian trading session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-firmly-above-69-ahead-of-us-pce-inflation-data-202608260319",
+      "published": "2026-08-26T03:19:54+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar declines as US Dollar advances ahead of PCE index data",
+      "summary": "NZD/USD depreciates after registering modest gains in the previous day, trading around 0.5960 during the Asian hours on Wednesday.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-as-us-dollar-advances-ahead-of-pce-index-data-202608260313",
+      "published": "2026-08-26T03:13:03+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -244,33 +280,6 @@
       "link": "https://www.fxstreet.com/news/australia-cpi-expected-to-show-inflation-easing-in-july-202608252230",
       "published": "2026-08-25T22:30:00+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso holds below 16.95 as traders eye US data, Iran shift",
-      "summary": "The Mexican Peso holds firm near 10-year highs against the US Dollar on Tuesday, as the USD/MXN pair sits below the 16.95 level while investors digest US economic data and recent developments between the US and Iran. The exotic pair trades at 16.94, virtually unchanged.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-holds-below-1695-as-traders-eye-us-data-iran-shift-202608252202",
-      "published": "2026-08-25T22:02:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Thai Baht: Bullish bias against US Dollar faces BoT sensitivity – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong highlight that Thai Baht (THB) has rallied to a two‑month high on softer US Dollar (USD), lower Oil prices, strong electronics exports and Gold-related flows.",
-      "link": "https://www.fxstreet.com/news/thai-baht-bullish-bias-against-us-dollar-faces-bot-sensitivity-ocbc-202608252154",
-      "published": "2026-08-25T21:54:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Bullish bias with focus on 6.7000 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann maintain a negative stance on USD/CNH, noting a softened underlying tone even as recent price action stayed relatively quiet. Intraday, they see scope for a modest drift lower while keeping 6.7150 as key support.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-bullish-bias-with-focus-on-67000-against-us-dollar-uob-202608252121",
-      "published": "2026-08-25T21:21:00+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
