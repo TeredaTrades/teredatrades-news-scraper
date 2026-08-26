@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-08-26T18:15:48.840115+00:00",
-  "count": 47,
+  "updated_at": "2026-08-26T20:11:48.204830+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Pace of appreciation against US Dollar seen slowing – ING",
+      "summary": "Chris Turner at ING notes USD/CNH is consolidating after last week’s sharp decline, as investors hesitate to buy Renminbi with the PBoC slowing lower USD/CNY fixings and US–Iran sanctions risks in focus.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-pace-of-appreciation-against-us-dollar-seen-slowing-ing-202608261957",
+      "published": "2026-08-26T19:57:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +1071 mln<br />Nasdaq 100: +219 mln<br />Dow 30: +231 mln<br />Mag 7: +275 mln",
+      "link": "https://www.financialjuice.com/News/9737632/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-08-26T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Banxico lifts 2026 GDP forecast, delays inflation target return",
+      "summary": "On Wednesday, the Bank of Mexico (Banxico) releases its Quarterly Report for Q2 2026, in which the institution revises its forecasts for economic growth and inflation.",
+      "link": "https://www.fxstreet.com/news/banxico-lifts-2026-gdp-forecast-delays-inflation-target-return-202608261938",
+      "published": "2026-08-26T19:38:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump Signs Order Banning Some Foreign Energy Equipment From US Grid",
+      "summary": "<div><ul><li>Trump signs an executive order banning certain foreign energy equipment from the US power grid on national security grounds</li><li>Move comes amid concerns over Chinese-manufactured components</li><li>US Energy Department has 120 days to develop rules implementing the ban</li></ul></div>",
+      "link": "https://www.financialjuice.com/News/9737611/Trump-Signs-Order-Banning-Some-Foreign-Energy-Equipment-From-US-Grid.aspx?xy=rss",
+      "published": "2026-08-26T19:38:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google moves it's AI-responsibility team out of the DeepMind lab - WSJ. $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737610/Google-moves-its-AI-responsibility-team-out-of-the-DeepMind-lab---WSJ-GOOGL.aspx?xy=rss",
+      "published": "2026-08-26T19:37:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Appreciation may slow against US Dollar – OCBC",
+      "summary": "OCBC Bank strategists Sim Moh Siong and Christopher Wong observe that USD/KRW has consolidated after sharp declines over the past eight sessions, with exporter and month-end US Dollar (USD) selling offset by a firmer USD tone and foreign equity outflows.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-appreciation-may-slow-against-us-dollar-ocbc-202608261925",
+      "published": "2026-08-26T19:25:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Emerging Markets: Idiosyncratic bid persists in equities – BNY",
+      "summary": "Geoff Yu at BNY highlights that EM EMEA equities have outperformed, with strong buying in Poland, South Africa and Turkey since before the July Fed meeting, despite weaker regional currencies and bonds.",
+      "link": "https://www.fxstreet.com/news/emerging-markets-idiosyncratic-bid-persists-in-equities-bny-202608261907",
+      "published": "2026-08-26T19:07:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: 160.00 caps bulls as intervention risk lingers",
+      "summary": "The USD/JPY pair drifts higher for the third straight day on Wednesday, up a modest 0.11% as buyers reaffirm their control over price action despite uncertainty over another round of intervention by Japanese authorities. The pair trades at 159.38 at the time of writing.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-16000-caps-bulls-as-intervention-risk-lingers-202608261850",
+      "published": "2026-08-26T18:50:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Rally stalls against US Dollar as spreads drive trade – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report the Euro (EUR) is slightly softer versus the Dollar, with its late-July rally stalling as price action mirrors yield spreads.",
+      "link": "https://www.fxstreet.com/news/euro-rally-stalls-against-us-dollar-as-spreads-drive-trade-scotiabank-202608261843",
+      "published": "2026-08-26T18:43:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar firms ahead of Jackson Hole",
+      "summary": "The US Dollar (USD) firmed on Wednesday, with the US Dollar Index (DXY) climbing toward 99.20 as traders squared positions ahead of the Jackson Hole Symposium.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-jackson-hole-202608261842",
+      "published": "2026-08-26T18:42:14+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -48,42 +138,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 5-Year Note Auction",
-      "summary": "<ul><li>High yield&nbsp;4.393% (Tail of 0.2 BPS)</li><li>Bid-to-Cover 2.37</li><li>Sells $70 bln</li><li>Awards 19.22% of bids at high</li><li>Primary dealers take 10.05%</li><li>Direct 28.44%</li><li>Indirect 61.51%<br /></li></ul>",
-      "link": "https://www.financialjuice.com/News/9737449/US-5-Year-Note-Auction.aspx?xy=rss",
-      "published": "2026-08-26T17:03:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Google launches Gemini 3.5 transcribe speech-to-text model. $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737436/Google-launches-Gemini-35-transcribe-speech-to-text-model-GOOGL.aspx?xy=rss",
-      "published": "2026-08-26T17:02:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 5-Year Note High Yield Actual 4.393% (Forecast -, Previous 4.408%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737425/US-5-Year-Note-High-Yield-Actual-4393-Forecast---Previous-4408.aspx?xy=rss",
-      "published": "2026-08-26T17:02:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Treasury WI 5 Yr yield 4.391% before $70 billion auction",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737421/Treasury-WI-5-Yr-yield-4391-before-70-billion-auction.aspx?xy=rss",
-      "published": "2026-08-26T17:00:19+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "British Pound retreats as sticky PCE inflation keeps Fed hike bets alive",
@@ -102,15 +156,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fitch Ratings: Sovereign bond yield spike highlights persistent fiscal challenges.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737380/Fitch-Ratings-Sovereign-bond-yield-spike-highlights-persistent-fiscal-challenges.aspx?xy=rss",
-      "published": "2026-08-26T16:27:36+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Reserve Bank of Australia: Preemptive hike debate intensifies – TD Securities",
@@ -118,69 +163,6 @@
       "link": "https://www.fxstreet.com/news/reserve-bank-of-australia-preemptive-hike-debate-intensifies-td-securities-202608261616",
       "published": "2026-08-26T16:16:13+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Apple to hold new iPhone launch event on Sept. 9th. $AAPL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737370/Apple-to-hold-new-iPhone-launch-event-on-Sept-9th-AAPL.aspx?xy=rss",
-      "published": "2026-08-26T16:03:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar dips, but RBNZ hike bets provide safety net",
-      "summary": "NZD/USD retreats to around 0.5940 on Wednesday at the time of writing, down 0.60% on the day. The New Zealand Dollar (NZD) loses ground against the US Dollar (USD), which finds some support following the release of the latest United States (US) inflation data.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-dips-but-rbnz-hike-bets-provide-safety-net-202608261603",
-      "published": "2026-08-26T16:03:05+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: Buyers struggle below the 100-day SMA",
-      "summary": "Silver (XAG/USD) comes under selling pressure on Wednesday as the US Dollar (USD) strengthens following the latest United States (US) inflation data. At the time of writing, XAG/USD trades around $67.79, down nearly 1.26% on the day.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-buyers-struggle-below-the-100-day-sma-202608261528",
-      "published": "2026-08-26T15:28:43+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar stumbles as hot Australian CPI runs into a firmer US Dollar",
-      "summary": "AUD/USD is trading around 0.7170 on Wednesday, down slightly after a hot Australian inflation print ran straight into a firmer US Dollar.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-stumbles-as-hot-australian-cpi-runs-into-a-firmer-us-dollar-202608261456",
-      "published": "2026-08-26T14:56:20+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar falls despite Oil gains as trade tensions take center stage",
-      "summary": "USD/CAD rises 0.30% on Wednesday, trading around 1.3880 at the time of writing.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-despite-oil-gains-as-trade-tensions-take-center-stage-202608261438",
-      "published": "2026-08-26T14:38:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen reverses earlier gains as US Dollar firms after PCE data",
-      "summary": "The Japanese Yen (JPY) gives up its earlier gains against the US Dollar (USD) on Wednesday as traders react to the latest United States (US) inflation data. At the time of writing, USD/JPY trades around 159.41, recovering from an intraday low of 158.88.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-reverses-earlier-gains-as-us-dollar-firms-after-pce-data-202608261418",
-      "published": "2026-08-26T14:18:59+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold stays under pressure as US Dollar firms after PCE data",
-      "summary": "Gold (XAU/USD) remains under pressure on Wednesday as the latest US inflation figures leave buyers reluctant to step back in. At the time of writing, XAU/USD trades around $4,618 after reaching $4,697 on Tuesday, its highest since May 14.",
-      "link": "https://www.fxstreet.com/news/gold-slips-ahead-of-us-pce-as-us-dollar-firms-modestly-202608261107",
-      "published": "2026-08-26T11:07:10+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
