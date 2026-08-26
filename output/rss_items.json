@@ -1,13 +1,31 @@
 {
-  "updated_at": "2026-08-26T09:45:02.232987+00:00",
-  "count": 48,
+  "updated_at": "2026-08-26T10:19:40.120102+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold Price Forecast: XAU/USD corrects to near $4,620 in countdown to US PCE Inflation data",
+      "summary": "Gold price (XAU/USD) is down 0.75% to near $4,620 during the European trading session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-corrects-to-near-4-620-in-countdown-to-us-pce-inflation-data-202608261012",
+      "published": "2026-08-26T10:12:36+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: Watching 0.7200 resistance against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note AUD/USD extended its consolidation slightly higher, closing at 0.7165 as short-term momentum improves.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-watching-07200-resistance-against-us-dollar-uob-202608260955",
+      "published": "2026-08-26T09:55:04+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: German 15 Yr Bund Yield Actual 3.5% (Forecast -, Previous 3.46%)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9736819/German-15-Yr-Bund-Yield-Actual-35-Forecast---Previous-346.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9736819/German-15-Yr-Bund-Yield-Actual-35-Forecast---Previous-346.aspx",
       "published": "2026-08-26T09:35:23+00:00",
       "score": 1
     },
@@ -43,7 +61,7 @@
       "category": "news",
       "title": "FinancialJuice: Fed Interest Rate Probabilities",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9736782/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9736782/Fed-Interest-Rate-Probabilities.aspx",
       "published": "2026-08-26T09:03:18+00:00",
       "score": 1
     },
@@ -52,7 +70,7 @@
       "category": "news",
       "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9736773/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9736773/Top-SP-500-Stock-Names-Implied-Volatility.aspx",
       "published": "2026-08-26T09:01:53+00:00",
       "score": 1
     },
@@ -97,18 +115,9 @@
       "category": "news",
       "title": "FinancialJuice: Credit Ágricole: Gold - FJElite",
       "summary": "<div>Gold has emerged as one of the key beneficiaries from the USD sell-off triggered by the US Treasury’s recent attempts to curb the rise of long­dated UST yields. These efforts included an FX intervention in support of the JPY - which among other things was meant to keep Japanese policy rates low and Japanese investors invested in USTs. We also got signals that the US Treasury would buy long-da",
-      "link": "https://www.financialjuice.com/News/9736746/Credit-%c3%81gricole-Gold---FJElite.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9736746/Credit-%c3%81gricole-Gold---FJElite.aspx",
       "published": "2026-08-26T08:45:57+00:00",
       "score": 9
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING: The USD - FJElite",
-      "summary": "<div>A week after US Treasury Secretary Scott Bessent's intervention in the US Treasury market, longer-dated yields are some 10-15bp lower. In defending that intervention last week, Bessent claimed that, as Treasury Secretary, he has 'asymmetric information’- i.e. more information than the market. Whether such information includes the path to de-escalation talks in the Middle East remains to be se",
-      "link": "https://www.financialjuice.com/News/9736742/ING-The-USD---FJElite.aspx?xy=rss",
-      "published": "2026-08-26T08:44:38+00:00",
-      "score": 6
     },
     {
       "source": "r/Forex",
@@ -145,42 +154,6 @@
       "link": "https://www.fxstreet.com/news/dow-jones-futures-hold-flat-as-traders-await-us-pce-inflation-data-nvidia-earnings-202608260806",
       "published": "2026-08-26T08:06:27+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Range-bound trading outlook against US Dollar – UOB",
-      "summary": "United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann describe USD/JPY as remaining in a range-trading phase. For the 24-hour view they see the Dollar fluctuating between 158.95 and 159.50 after recent narrow ranges and little-changed closes.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-range-bound-trading-outlook-against-us-dollar-uob-202608260804",
-      "published": "2026-08-26T08:04:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US core PCE inflation set to keep pressure on the Federal Reserve to hike interest rates",
-      "summary": "The United States (US) Bureau of Economic Analysis (BEA) is expected to publish the Personal Consumption Expenditures (PCE) Price Index data for July on Wednesday, at 12:30 GMT.",
-      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-keep-pressure-on-the-federal-reserve-to-hike-interest-rates-202608260800",
-      "published": "2026-08-26T08:00:00+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index Price Forecast: Bears prevail with the 200-day SMA capping rallies",
-      "summary": "The US Dollar (USD) nurses marginal gains on Wednesday and holds a mild recovery attempt from the three-month highs hit last week, but seems unable to extend gains past the 200-day Simple Moving Average (SMA), just above 99.00, which keeps the broader bearish structure intact.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-bears-prevail-with-the-200-day-sma-capping-rallies-202608260758",
-      "published": "2026-08-26T07:58:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro holds above mid-1.1600s vs USD; looks to US PCE data for fresh impetus",
-      "summary": "The EUR/USD pair struggles to capitalize on the previous day's modest bounce from the weekly low, and trades with a negative bias through the early European session on Wednesday.",
-      "link": "https://www.fxstreet.com/news/euro-holds-above-mid-11600s-vs-usd-looks-to-us-pce-data-for-fresh-impetus-202608260754",
-      "published": "2026-08-26T07:54:28+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
