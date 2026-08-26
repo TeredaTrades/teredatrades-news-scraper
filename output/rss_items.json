@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-26T07:59:58.563145+00:00",
-  "count": 44,
+  "updated_at": "2026-08-26T08:55:27.657287+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc ticks up against US Dollar despite bright Swiss ZEW economic expectations",
+      "summary": "The Swiss Franc (CHF) is trading lower against the US Dollar (USD) on Wednesday, but it has managed to trim some losses after the release of an upbeat Swiss ZEW Economic Expectations Index.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-ticks-up-against-us-dollar-despite-bright-swiss-zew-economic-expectations-202608260848",
+      "published": "2026-08-26T08:48:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar remains stronger as CPI YoY climbs in July",
+      "summary": "AUD/USD extends its gains for the second consecutive day, trading around 0.7180 during the European hours on Wednesday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-stronger-as-cpi-yoy-climbs-in-july-202608260847",
+      "published": "2026-08-26T08:47:39+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Credit Ágricole: Gold - FJElite",
+      "summary": "<div>Gold has emerged as one of the key beneficiaries from the USD sell-off triggered by the US Treasury’s recent attempts to curb the rise of long­dated UST yields. These efforts included an FX intervention in support of the JPY - which among other things was meant to keep Japanese policy rates low and Japanese investors invested in USTs. We also got signals that the US Treasury would buy long-da",
+      "link": "https://www.financialjuice.com/News/9736746/Credit-%c3%81gricole-Gold---FJElite.aspx?xy=rss",
+      "published": "2026-08-26T08:45:57+00:00",
+      "score": 9
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ING: The USD - FJElite",
+      "summary": "<div>A week after US Treasury Secretary Scott Bessent's intervention in the US Treasury market, longer-dated yields are some 10-15bp lower. In defending that intervention last week, Bessent claimed that, as Treasury Secretary, he has 'asymmetric information’- i.e. more information than the market. Whether such information includes the path to de-escalation talks in the Middle East remains to be se",
+      "link": "https://www.financialjuice.com/News/9736742/ING-The-USD---FJElite.aspx?xy=rss",
+      "published": "2026-08-26T08:44:38+00:00",
+      "score": 6
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "XAUUSD SETUP 26th August",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vyrbqd/xauusd_setup_26th_august/\"> <img alt=\"XAUUSD SETUP 26th August\" src=\"https://preview.redd.it/eo109te3molh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b80fe43a43a999286f453b33ad97b9fd201d0932\" title=\"XAUUSD SETUP 26th August\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Different Day! Same Direction...my instinc",
+      "link": "https://www.reddit.com/r/Forex/comments/1vyrbqd/xauusd_setup_26th_august/",
+      "published": "2026-08-26T08:41:26+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MUFG: The AUD - FJElite",
+      "summary": "<div>The Australian dollar was roughly stable yesterday with different crosscurrents keeping the FX moves limited. From an energy perspective, natural gas prices fell between 3- 4% in Europe and that from a terms of trade perspective is negative for AUD given Australia is the second largest global exporter of LNG. In addition, the escalation of tensions between China and the US carry risks for Aus",
+      "link": "https://www.financialjuice.com/News/9736741/MUFG-The-AUD---FJElite.aspx?xy=rss",
+      "published": "2026-08-26T08:37:11+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: RBA risks seen underpriced – MUFG",
+      "summary": "Derek Halpenny at MUFG says the August RBA minutes and stronger-than-expected monthly CPI reinforce the risk of an earlier rate hike than markets currently price.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-risks-seen-underpriced-mufg-202608260836",
+      "published": "2026-08-26T08:36:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Europe Sentiment: Eyes On NVIDIA - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736725/Europe-Sentiment-Eyes-On-NVIDIA---FJElite.aspx?xy=rss",
+      "published": "2026-08-26T08:27:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar extends consolidation ahead of key inflation data, Nvidia earnings",
+      "summary": "Here is what you need to know on Wednesday, August 26:",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-extends-consolidation-ahead-of-key-inflation-data-nvidia-earnings-202608260815",
+      "published": "2026-08-26T08:15:41+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones futures hold flat as traders await US PCE inflation data, Nvidia earnings",
+      "summary": "Dow Jones futures gain steadies around 53,650 during European hours on Wednesday. Meanwhile, S&amp;P 500 futures decline by 0.11%, to trade near 7,680, and Nasdaq 100 futures fall by 0.23% to trade around 29,210.",
+      "link": "https://www.fxstreet.com/news/dow-jones-futures-hold-flat-as-traders-await-us-pce-inflation-data-nvidia-earnings-202608260806",
+      "published": "2026-08-26T08:06:27+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Range-bound trading outlook against US Dollar – UOB",
+      "summary": "United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann describe USD/JPY as remaining in a range-trading phase. For the 24-hour view they see the Dollar fluctuating between 158.95 and 159.50 after recent narrow ranges and little-changed closes.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-range-bound-trading-outlook-against-us-dollar-uob-202608260804",
+      "published": "2026-08-26T08:04:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US core PCE inflation set to keep pressure on the Federal Reserve to hike interest rates",
+      "summary": "The United States (US) Bureau of Economic Analysis (BEA) is expected to publish the Personal Consumption Expenditures (PCE) Price Index data for July on Wednesday, at 12:30 GMT.",
+      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-keep-pressure-on-the-federal-reserve-to-hike-interest-rates-202608260800",
+      "published": "2026-08-26T08:00:00+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -48,93 +156,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Holds near 1.1670 against US Dollar as rate moves offset - Danske Bank",
-      "summary": "Danske Research Team reports that EUR/USD remained little changed around 1.1670, with the chart showing only a modest pullback from overnight highs before a partial recovery.",
-      "link": "https://www.fxstreet.com/news/euro-holds-near-11670-against-us-dollar-as-rate-moves-offset-danske-bank-202608260709",
-      "published": "2026-08-26T07:09:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "ECB sets for September rate hike with no appetite to signal more – RTE",
-      "summary": "According to sources, the European Central Bank (ECB) is all set to hike its key policy rates at the September policy meeting, RTE reported. Sources also said that the central bank has no appetite to raise interest rates again after a hike next month.",
-      "link": "https://www.fxstreet.com/news/ecb-sets-for-september-rate-hike-with-no-appetite-to-signal-more-rte-202608260701",
-      "published": "2026-08-26T07:01:51+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Currency Strength Chart: Strongest: AUD, JPY, USD, EUR, GBP, CAD, CHF, NZD - Weakest",
       "summary": "",
       "link": "https://www.financialjuice.com/News/9736604/Currency-Strength-Chart-Strongest-AUD-JPY-USD-EUR-GBP-CAD-CHF-NZD---Weakest.aspx?xy=rss",
       "published": "2026-08-26T07:01:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound edges lower below 1.3650 as traders await US PCE release",
-      "summary": "The GBP/USD pair declines to near 1.3625 during the early European trading hours on Wednesday. The US Dollar (USD) edges higher against the British Pound (GBP) as markets turn cautious ahead of the US July Personal Consumption Expenditures (PCE) Price Index data, which is due later on Wednesday.",
-      "link": "https://www.fxstreet.com/news/british-pound-edges-lower-below-13650-as-traders-await-us-pce-release-202608260656",
-      "published": "2026-08-26T06:56:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Upside remains intact above 1.3605 against US Dollar - UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann maintain a positive 1–3 week outlook for GBP/USD, with 1.3700 still in sight as long as the pair holds above 1.3605.",
-      "link": "https://www.fxstreet.com/news/british-pound-upside-remains-intact-above-13605-against-us-dollar-uob-202608260656",
-      "published": "2026-08-26T06:56:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: 20-day EMA continues to act as key barrier",
-      "summary": "The Japanese Yen (JPY) trades higher against the US Dollar (USD) on Wednesday, with USD/JPY dropping 0.1% to near 159.00. The Asia-Pacific currency gains amid firm expectations that the Bank of Japan (BoJ) will hike policy rates by 25 basis points (bps) to 1.25% in the September meeting.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-20-day-ema-continues-to-act-as-key-barrier-202608260649",
-      "published": "2026-08-26T06:49:37+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Equities: Tech-led gains with softer Oil – Deutsche Bank",
-      "summary": "Deutsche Bank notes that Nvidia’s earnings have become a major macro catalyst, although the impact of positive surprises has faded in recent quarters.",
-      "link": "https://www.fxstreet.com/news/equities-tech-led-gains-with-softer-oil-deutsche-bank-202608260647",
-      "published": "2026-08-26T06:47:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Core PCE and Warsh remarks in focus – OCBC",
-      "summary": "OCBC Bank strategists Sim Moh Siong and Christopher Wong highlight that lower energy prices have helped pull US and European yields down, supporting a more benign macro backdrop without stoking USD debasement fears.",
-      "link": "https://www.fxstreet.com/news/us-dollar-core-pce-and-warsh-remarks-in-focus-ocbc-202608260639",
-      "published": "2026-08-26T06:39:26+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: RBA waits as inflation sticks – Commerzbank",
-      "summary": "Volkmar Baur at Commerzbank notes that the Reserve Bank of Australia (RBA) is in wait-and-see mode after three rate hikes, assessing how inflation and the labor market evolve. July Consumer Price Index (CPI) eased to 3.5% but missed expectations, with trimmed-mean inflation stuck at 3.6%.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-waits-as-inflation-sticks-commerzbank-202608260630",
-      "published": "2026-08-26T06:30:46+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar gives away gains amid lower oil prices, fresh trade tensions",
-      "summary": "The Canadian Dollar (CAD) reverses earlier gains against the US Dollar (USD) on Wednesday, weighed by a recent pullback in oil prices and the escalation of the trade war with the US.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-gives-away-gains-amid-lower-oil-prices-fresh-trade-tensions-202608260624",
-      "published": "2026-08-26T06:24:57+00:00",
       "score": 1
     },
     {
@@ -167,11 +194,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold remains depressed below $4,650 on firmer USD; looks to US PCE for Fed rate outlook",
-      "summary": "Gold (XAU/USD) sticks to modest losses below $4,650 heading into the European session on Wednesday, though it lacks bearish conviction and remains confined within the previous day's broader range.",
+      "title": "Gold refreshes daily low, around $4,625 as USD sticks to modest gains ahead of US PCE",
+      "summary": "Gold (XAU/USD) touches a fresh daily low, around the $4,630-$4,625 region, during the first half of the European session on Wednesday, though the downside seems limited.",
       "link": "https://www.fxstreet.com/news/gold-holds-steady-around-4-650-as-traders-look-to-us-pce-for-fed-rate-cues-202608260332",
       "published": "2026-08-26T03:32:20+00:00",
-      "score": 4
+      "score": 3
     },
     {
       "source": "r/Forex",
