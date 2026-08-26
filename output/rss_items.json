@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-25T23:50:01.851875+00:00",
-  "count": 49,
+  "updated_at": "2026-08-26T01:25:15.541303+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta: states have discussed resolving teen social media harm lawsuit",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736193/Meta-states-have-discussed-resolving-teen-social-media-harm-lawsuit.aspx?xy=rss",
+      "published": "2026-08-26T01:24:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar weakens amid falling oil prices as USD holds steady ahead of US PCE",
+      "summary": "The USD/CAD pair edges higher during the Asian session on Wednesday, though it remains confined within the previous day’s range. Spot prices currently trade around mid-1.3800s as traders now look to the US Personal Consumption Expenditures (PCE) Price Index for some meaningful impetus.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-amid-falling-oil-prices-as-usd-holds-steady-ahead-of-us-pce-202608260120",
+      "published": "2026-08-26T01:20:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7829 vs. 6.7852 previous",
+      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7829 compared to the previous day's fix of 6.7852 and 6.7166 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67829-vs-67852-previous-202608260115",
+      "published": "2026-08-26T01:15:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro steadies above 1.1650 ahead of US PCE data",
+      "summary": "The EUR/USD pair flatlines near 1.1675 during the early Asian trading hours on Wednesday. The US Treasury's decision to expand its long-term bond buyback program could weigh on the US Dollar (USD) against the Euro (EUR).",
+      "link": "https://www.fxstreet.com/news/euro-steadies-above-11650-ahead-of-us-pce-data-202608260103",
+      "published": "2026-08-26T01:03:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs up to 50% against US",
+      "summary": "Canada said that it will implement 50% retaliatory tariffs on $20bn worth of US goods, following through on Prime Minister Mark Carney’s vow to match US President Donald Trump’s duties “dollar for dollar,” the Guardian reported.",
+      "link": "https://www.fxstreet.com/news/canada-announces-dollar-for-dollar-retaliatory-tariffs-up-to-50-against-us-202608260042",
+      "published": "2026-08-26T00:42:28+00:00",
+      "score": 1
+    },
     {
       "source": "r/Forex",
       "category": "reddit",
@@ -15,7 +60,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Gold advances above $4,650 on US Dollar weakness, Treasury bond buyback plans",
-      "summary": "Gold price (XAU/USD) rises to around 4,670, the highest since May 14, during the early Asian session on Wednesday. The precious metal extends the rally amid a weaker US Dollar (USD) and as the US Treasury’s bond buyback plans.",
+      "summary": "Gold price (XAU/USD) rises to around $4,670, the highest since May 14, during the early Asian session on Wednesday. The precious metal extends the rally amid a weaker US Dollar (USD) and as the US Treasury’s bond buyback plans.",
       "link": "https://www.fxstreet.com/news/gold-advances-above-4-650-on-us-dollar-weakness-treasury-bond-buyback-plans-202608252327",
       "published": "2026-08-25T23:27:51+00:00",
       "score": 4
@@ -59,7 +104,7 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Australia CPI expected to show inflation easing in July",
+      "title": "Australia CPI forecast to show cooling inflation in July, still above RBA target",
       "summary": "The Australian Bureau of Statistics (ABS) will publish the July Consumer Price Index (CPI) on Wednesday at 01:30 GMT. The report is expected to show that inflation rose 3.2% from a year earlier, easing from the 3.8% posted in June.",
       "link": "https://www.fxstreet.com/news/australia-cpi-expected-to-show-inflation-easing-in-july-202608252230",
       "published": "2026-08-25T22:30:00+00:00",
@@ -180,69 +225,6 @@
       "summary": "Societe Generale analysts highlight that the Korean Won (KRW) has gained 12% versus the Dollar year-to-date, with USD/KRW falling from around 1560 in June to below 1380.",
       "link": "https://www.fxstreet.com/news/south-korean-won-strength-backed-by-tech-flows-against-us-dollar-societe-generale-202608251954",
       "published": "2026-08-25T19:54:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: +967 mln<br />Nasdaq 100: +91 mln<br />Dow 30: +519 mln<br />Mag 7: -10 mln",
-      "link": "https://www.financialjuice.com/News/9735886/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-08-25T19:50:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Trade risks limit gains against US Dollar – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that reports of potential US tariffs on Chinese goods and the PBoC’s resistance to rapid Renminbi (RMB) gains are likely to limit further downside in USD/CNH.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-trade-risks-limit-gains-against-us-dollar-ocbc-202608251923",
-      "published": "2026-08-25T19:23:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Wednesday FX Option Expiries",
-      "summary": "<ul><li><strong>EUR/USD: </strong>1.1750 (EU1.31b), 1.1350 (EU1.06b), 1.1675 (EU965.6m)</li><li><strong>USD/JPY: </strong>159.00 ($936.5m), 161.00 ($844.1m), 160.00 ($621.4m)</li><li><strong>USD/BRL:</strong> 4.9300 ($640m), 5.2000 ($593.5m), 5.1000 ($525.1m)</li><li><strong>AUD/USD:</strong> 0.7060 (AUD598.1m), 0.7160 (AUD401.2m), 0.7100 (AUD362.5m)</li><li><strong>GBP/USD: </strong>1.3625 (GBP52",
-      "link": "https://www.financialjuice.com/News/9735853/Wednesday-FX-Option-Expiries-.aspx?xy=rss",
-      "published": "2026-08-25T19:22:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB policymakers ready to raise rates in sept to stem side effects of the Iran war - Sources",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735851/ECB-policymakers-ready-to-raise-rates-in-sept-to-stem-side-effects-of-the-Iran-war---Sources.aspx?xy=rss",
-      "published": "2026-08-25T19:19:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The US Dollar Index stops paying for hawks who cannot vote",
-      "summary": "A non-voting regional Federal Reserve president published a conditional hold on Tuesday, tying the current target range to continued evidence that inflation is actually coming down, and the Dollar Index has not moved for it.",
-      "link": "https://www.fxstreet.com/news/the-us-dollar-index-stops-paying-for-hawks-who-cannot-vote-202608251853",
-      "published": "2026-08-25T18:53:53+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar stays on the back foot ahead of PCE",
-      "summary": "The US Dollar Index (DXY) is hovering below the 99.00 mark as traders squared positions ahead of a heavy Wednesday data slate and Federal Reserve (Fed) Chair Kevin Warsh's Jackson Hole address on Friday.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-stays-on-the-back-foot-ahead-of-pce-202608251843",
-      "published": "2026-08-25T18:43:32+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Upside momentum eases against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD remains under mild downward pressure but short-term momentum is flat, keeping the pair in a tight intraday band around 1.2700.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-upside-momentum-eases-against-us-dollar-uob-202608251839",
-      "published": "2026-08-25T18:39:11+00:00",
       "score": 1
     },
     {
