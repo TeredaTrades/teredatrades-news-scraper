@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-08-26T04:41:29.199572+00:00",
-  "count": 54,
+  "updated_at": "2026-08-26T05:17:03.324717+00:00",
+  "count": 48,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah remains subdued amid market caution, external headwinds",
+      "summary": "USD/IDR remains stronger for the second successive day, trading around 17,760 during the Asian hours on Tuesday. The pair continues to hold its ground while the Indonesian Rupiah (IDR) faces ongoing pressure from a cautious market sentiment and persistent external headwinds.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-remains-subdued-amid-market-caution-external-headwinds-202608260447",
+      "published": "2026-08-26T04:47:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index recovers to near 99.00 ahead of US PCE inflation data",
+      "summary": "The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 99.00 in the early European trading hours on Wednesday.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-recovers-to-near-9900-ahead-of-us-pce-inflation-data-202608260442",
+      "published": "2026-08-26T04:42:51+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -59,11 +77,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold holds steady around $4,650 as traders look to US PCE for Fed rate cues",
-      "summary": "Gold (XAU/USD) extends its two-way price moves for the second straight day and trades above $4,650 during the Asian session on Wednesday.",
+      "title": "Gold trades with negative bias below $4,650 as USD edges higher ahead of US PCE",
+      "summary": "Gold (XAU/USD) attracts fresh sellers following the previous day's two-way price swings and trades below $4,650 during the Asian session on Wednesday.",
       "link": "https://www.fxstreet.com/news/gold-holds-steady-around-4-650-as-traders-look-to-us-pce-for-fed-rate-cues-202608260332",
       "published": "2026-08-26T03:32:20+00:00",
-      "score": 4
+      "score": 3
     },
     {
       "source": "FXStreet",
@@ -156,51 +174,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Australia July RBA trimmed mean CPI rises 0.5% month on month",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9736201/Australia-July-RBA-trimmed-mean-CPI-rises-05-month-on-month.aspx?xy=rss",
-      "published": "2026-08-26T01:30:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Australia July RBA trimmed mean CPI rises 3.6% year-on-year",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9736200/Australia-July-RBA-trimmed-mean-CPI-rises-36-year-on-year.aspx?xy=rss",
-      "published": "2026-08-26T01:30:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Australia July RBA weighted median CPI rises 0.4% month/month",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9736199/Australia-July-RBA-weighted-median-CPI-rises-04-monthmonth.aspx?xy=rss",
-      "published": "2026-08-26T01:30:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Australia July RBA weighted median CPI at 3.6% year/year",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9736198/Australia-July-RBA-weighted-median-CPI-at-36-yearyear.aspx?xy=rss",
-      "published": "2026-08-26T01:30:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Australia July CPI (all groups) rises 3.5% year/year",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9736197/Australia-July-CPI-all-groups-rises-35-yearyear.aspx?xy=rss",
-      "published": "2026-08-26T01:30:04+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Canadian Dollar weakens amid falling oil prices as USD holds steady ahead of US PCE",
@@ -228,39 +201,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs up to 50% against US",
-      "summary": "Canada said that it will implement 50% retaliatory tariffs on $20bn worth of US goods, following through on Prime Minister Mark Carney’s vow to match US President Donald Trump’s duties “dollar for dollar,” the Guardian reported.",
-      "link": "https://www.fxstreet.com/news/canada-announces-dollar-for-dollar-retaliatory-tariffs-up-to-50-against-us-202608260042",
-      "published": "2026-08-26T00:42:28+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Day 2 of learning forex as a complete beginner [EUR/USD + XAU/USD]",
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Day 2 of actually trying to learn forex instead of just watching videos about it.</p> <p>Started a fresh TradingView paper account with $500 and ended today at $518.36 (+3.67%).</p> <p>Obviously, I know one profitable day means basically nothing lol. The goal right now is to learn, not pretend I've discovered a strategy.</p> <p>Today I mainly traded EUR/USD, using",
       "link": "https://www.reddit.com/r/Forex/comments/1vyghoz/day_2_of_learning_forex_as_a_complete_beginner/",
       "published": "2026-08-25T23:42:51+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold advances above $4,650 on US Dollar weakness, Treasury bond buyback plans",
-      "summary": "Gold price (XAU/USD) rises to around $4,670, the highest since May 14, during the early Asian session on Wednesday. The precious metal extends the rally amid a weaker US Dollar (USD) and as the US Treasury’s bond buyback plans.",
-      "link": "https://www.fxstreet.com/news/gold-advances-above-4-650-on-us-dollar-weakness-treasury-bond-buyback-plans-202608252327",
-      "published": "2026-08-25T23:27:51+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar rises after RBA hawkish minutes, inflation data eyed",
-      "summary": "The Aussie Dollar advanced on Tuesday, gaining over 0.20% as the Greenback edged lower, amid minutes from the Reserve Bank of Australia (RBA)'s last meeting suggesting the board was close to raising rates. At the time of writing, the AUD/USD trades at 0.7163, after bouncing off daily lows of 0.7137.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rises-after-rba-hawkish-minutes-inflation-data-eyed-202608252304",
-      "published": "2026-08-25T23:04:10+00:00",
       "score": 3
     },
     {
