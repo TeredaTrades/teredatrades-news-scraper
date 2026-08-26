@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-08-26T07:02:39.544194+00:00",
-  "count": 48,
+  "updated_at": "2026-08-26T07:59:58.563145+00:00",
+  "count": 44,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index Price Forecast: Bears prevail with the 200-day SMA capping rallies",
+      "summary": "The US Dollar (USD) nurses marginal gains on Wednesday and holds a mild recovery attempt from the three-month highs hit last week, but seems unable to extend gains past the 200-day Simple Moving Average (SMA), just above 99.00, which keeps the broader bearish structure intact.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-bears-prevail-with-the-200-day-sma-capping-rallies-202608260758",
+      "published": "2026-08-26T07:58:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro holds above mid-1.1600s vs USD; looks to US PCE data for fresh impetus",
+      "summary": "The EUR/USD pair struggles to capitalize on the previous day's modest bounce from the weekly low, and trades with a negative bias through the early European session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/euro-holds-above-mid-11600s-vs-usd-looks-to-us-pce-data-for-fresh-impetus-202608260754",
+      "published": "2026-08-26T07:54:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD rises to near $69.00 ahead of US PCE inflation data",
+      "summary": "Silver price (XAG/USD) extends its gains for the second successive day, trading around $68.80 per troy ounce during the European hours on Wednesday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-to-near-6900-ahead-of-us-pce-inflation-data-202608260742",
+      "published": "2026-08-26T07:42:22+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Hungarian Forint: MNB caution offers modest HUF support - Commerzbank",
+      "summary": "Commerzbank’s Tatha Ghose reports that Hungary’s central bank, Magyar Nemzeti Bank (MNB), cut its base rate to 5.50% but avoided pre-committing to further easing, stressing that September’s Inflation Report will guide policy. The bank will monitor global rate hikes, could limit the scope.",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-mnb-caution-offers-modest-huf-support-commerzbank-202608260718",
+      "published": "2026-08-26T07:18:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "NZD/USD Price Forecast: Dips below 0.5950, fresh weekly low as USD firms ahead of US PCE",
+      "summary": "The NZD/USD pair comes under some renewed selling pressure on Wednesday and drops to a fresh weekly low, around the 0.5945 region during the early European session.",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-dips-below-05950-fresh-weekly-low-as-usd-firms-ahead-of-us-pce-202608260709",
+      "published": "2026-08-26T07:09:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Holds near 1.1670 against US Dollar as rate moves offset - Danske Bank",
+      "summary": "Danske Research Team reports that EUR/USD remained little changed around 1.1670, with the chart showing only a modest pullback from overnight highs before a partial recovery.",
+      "link": "https://www.fxstreet.com/news/euro-holds-near-11670-against-us-dollar-as-rate-moves-offset-danske-bank-202608260709",
+      "published": "2026-08-26T07:09:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "ECB sets for September rate hike with no appetite to signal more – RTE",
+      "summary": "According to sources, the European Central Bank (ECB) is all set to hike its key policy rates at the September policy meeting, RTE reported. Sources also said that the central bank has no appetite to raise interest rates again after a hike next month.",
+      "link": "https://www.fxstreet.com/news/ecb-sets-for-september-rate-hike-with-no-appetite-to-signal-more-rte-202608260701",
+      "published": "2026-08-26T07:01:51+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -84,84 +147,12 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Upside bias toward 1.1725 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report EUR/USD broke out of its recent tight range, closing slightly higher near 1.1675 as tentative upside momentum emerges.",
-      "link": "https://www.fxstreet.com/news/euro-upside-bias-toward-11725-against-us-dollar-uob-202608260612",
-      "published": "2026-08-26T06:12:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "AUD/USD Price Forecast: Hot Australian CPI data boosts hawkish RBA bets",
-      "summary": "The Australian Dollar (AUD) outperforms its major currency peers on Wednesday, trading 0.2% higher to near 0.7180 against the US Dollar (USD) during the early European trading session.",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-hot-australian-cpi-data-boosts-hawkish-rba-bets-202608260548",
-      "published": "2026-08-26T05:48:37+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "ECB's Schnabel: Inflation likely to top 2% for extended period",
-      "summary": "European Central Bank (ECB) Executive Board member Isabel Schnabel said that inflation is unlikely to return to target over the medium term, and therefore further tightening will be necessary, Bloomberg reported on Wednesday.",
-      "link": "https://www.fxstreet.com/news/ecbs-schnabel-inflation-likely-to-top-2-for-extended-period-202608260541",
-      "published": "2026-08-26T05:41:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Declines to near 1.1650, overbought signals curb upside bias",
-      "summary": "The EUR/USD pair trades in negative territory near 1.1665 during the early European trading hours on Wednesday, pressured by a rebound in the US Dollar (USD). Markets turn cautious ahead of the release of the key US July Personal Consumption Expenditures (PCE) Price Index report later on Wednesday.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-declines-to-near-11650-overbought-signals-curb-upside-bias-202608260536",
-      "published": "2026-08-26T05:36:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc weakens as US Dollar gains ahead of PCE inflation data",
-      "summary": "USD/CHF gains ground after posting minor losses, trading around 0.8040 during the Asian hours on Wednesday. The pair appreciates as the US Dollar (USD) gains support ahead of the upcoming US Personal Consumption Expenditures (PCE) release, the Federal Reserve’s key inflation metric.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-gains-ahead-of-pce-inflation-data-202608260528",
-      "published": "2026-08-26T05:28:59+00:00",
-      "score": 3
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: ECB's Schnabel: Inflation likely to top 2% for extended period.",
       "summary": "",
       "link": "https://www.financialjuice.com/News/9736505/ECBs-Schnabel-Inflation-likely-to-top-2-for-extended-period.aspx?xy=rss",
       "published": "2026-08-26T05:16:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah remains subdued amid market caution, external headwinds",
-      "summary": "USD/IDR remains stronger for the second successive day, trading around 17,760 during the Asian hours on Tuesday. The pair continues to hold its ground while the Indonesian Rupiah (IDR) faces ongoing pressure from a cautious market sentiment and persistent external headwinds.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-remains-subdued-amid-market-caution-external-headwinds-202608260447",
-      "published": "2026-08-26T04:47:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index recovers to near 99.00 ahead of US PCE inflation data",
-      "summary": "The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 99.00 in the early European trading hours on Wednesday.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-recovers-to-near-9900-ahead-of-us-pce-inflation-data-202608260442",
-      "published": "2026-08-26T04:42:51+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "summary": "Gold prices fell in India on Wednesday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608260435",
-      "published": "2026-08-26T04:35:21+00:00",
       "score": 1
     },
     {
@@ -174,15 +165,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China finance ministry offers 3-month bills with 1.0899% yield: traders",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9736387/China-finance-ministry-offers-3-month-bills-with-10899-yield-traders.aspx?xy=rss",
-      "published": "2026-08-26T03:37:25+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Gold remains depressed below $4,650 on firmer USD; looks to US PCE for Fed rate outlook",
@@ -190,15 +172,6 @@
       "link": "https://www.fxstreet.com/news/gold-holds-steady-around-4-650-as-traders-look-to-us-pce-for-fed-rate-cues-202608260332",
       "published": "2026-08-26T03:32:20+00:00",
       "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft 365 confirms issue affecting Microsoft Teams service in Asia-Pacific region resolved",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9736338/Microsoft-365-confirms-issue-affecting-Microsoft-Teams-service-in-Asia-Pacific-region-resolved.aspx?xy=rss",
-      "published": "2026-08-26T02:25:50+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -270,15 +243,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vxfpdk/thoughts_on_eurusd/\"> <img alt=\"Thoughts on EURUSD\" src=\"https://preview.redd.it/wmjyim6d2elh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0d470ee0d6a74a8d13e8a9fb7372e019a09d56a\" title=\"Thoughts on EURUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Solid uptrend looking for longs because of the nice swings .",
       "link": "https://www.reddit.com/r/Forex/comments/1vxfpdk/thoughts_on_eurusd/",
       "published": "2026-08-24T21:13:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Some setups I called before the move last Friday",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vwyerl/some_setups_i_called_before_the_move_last_friday/\"> <img alt=\"Some setups I called before the move last Friday\" src=\"https://preview.redd.it/obm7pjjxpalh1.png?width=140&amp;height=97&amp;auto=webp&amp;s=175705093fadf992071f969e96e58319de6ede6e\" title=\"Some setups I called before the move last Friday\" /> </a> </td><td> <!-- S",
-      "link": "https://www.reddit.com/r/Forex/comments/1vwyerl/some_setups_i_called_before_the_move_last_friday/",
-      "published": "2026-08-24T09:59:47+00:00",
       "score": 1
     },
     {
