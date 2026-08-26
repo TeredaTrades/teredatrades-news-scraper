@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-08-26T11:02:03.555402+00:00",
-  "count": 44,
+  "updated_at": "2026-08-26T11:46:02.103206+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee poised for positive opening on Thursday amid lower oil prices",
+      "summary": "The Indian Rupee (INR) is expected to open on a positive note against the US Dollar (USD) on Thursday after a holiday on Wednesday on account of Id-e-Milad. On Tuesday, the USD/INR pair declined 0.35% to near 95.40 due to weaker oil prices, which also led to a sharp decline in US Treasury Yields.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-poised-for-positive-opening-on-thursday-amid-lower-oil-prices-202608261144",
+      "published": "2026-08-26T11:44:11+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: ECB tightening outlook offers support against US Dollar - BNY",
+      "summary": "BNY's Geoff Yu highlights that European Central Bank (ECB) Executive Board member Isabel Schnabel sees further rate hikes as necessary, with Euro area inflation risks still tilted to the upside and growth more resilient than expected.",
+      "link": "https://www.fxstreet.com/news/euro-ecb-tightening-outlook-offers-support-against-us-dollar-bny-202608261140",
+      "published": "2026-08-26T11:40:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen treads water around 159.00 with US PCE Inflation on tap",
+      "summary": "The Japanese Yen (JPY) ticks higher against the US Dollar (USD) on Wednesday but keeps looking for direction, as investors bide their time, awaiting an array of key US macroeconomic releases due later on the day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-treads-water-around-15900-with-us-pce-inflation-on-tap-202608261139",
+      "published": "2026-08-26T11:39:41+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: RBA tightening risks rise – TD Securities",
+      "summary": "TD Securities’ Prashant Newnaha highlights that Australia’s July Consumer Price Index (CPI  delivered a strong inflation impulse, with headline and trimmed mean measures beating consensus and remaining uncomfortably high.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-tightening-risks-rise-td-securities-202608261128",
+      "published": "2026-08-26T11:28:22+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index: Range-bound consolidation as PCE looms – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is firm, consolidating just above recent lows following the US Treasury buyback announcement.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-range-bound-consolidation-as-pce-looms-bbh-202608261117",
+      "published": "2026-08-26T11:17:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold slips ahead of US PCE as US Dollar firms modestly",
+      "summary": "Gold (XAU/USD) edges lower on Wednesday as buyers trim their exposure ahead of the US Personal Consumption Expenditures (PCE) Price Index data, due at 12:30 GMT. At the time of writing, XAU/USD trades around $4,615 after reaching $4,697 on Tuesday, its highest since May 14.",
+      "link": "https://www.fxstreet.com/news/gold-slips-ahead-of-us-pce-as-us-dollar-firms-modestly-202608261107",
+      "published": "2026-08-26T11:07:10+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -43,7 +97,7 @@
       "category": "news",
       "title": "FinancialJuice: German 15 Yr Bund Yield Actual 3.5% (Forecast -, Previous 3.46%)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9736819/German-15-Yr-Bund-Yield-Actual-35-Forecast---Previous-346.aspx",
+      "link": "https://www.financialjuice.com/News/9736819/German-15-Yr-Bund-Yield-Actual-35-Forecast---Previous-346.aspx?xy=rss",
       "published": "2026-08-26T09:35:23+00:00",
       "score": 1
     },
@@ -75,24 +129,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9736782/Fed-Interest-Rate-Probabilities.aspx",
-      "published": "2026-08-26T09:03:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9736773/Top-SP-500-Stock-Names-Implied-Volatility.aspx",
-      "published": "2026-08-26T09:01:53+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "US Dollar: Shaky basis trade risks weigh – Commerzbank",
@@ -111,24 +147,6 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc ticks up against US Dollar despite bright Swiss ZEW economic expectations",
-      "summary": "The Swiss Franc (CHF) is trading lower against the US Dollar (USD) on Wednesday, but it has managed to trim some losses after the release of an upbeat Swiss ZEW Economic Expectations Index.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-ticks-up-against-us-dollar-despite-bright-swiss-zew-economic-expectations-202608260848",
-      "published": "2026-08-26T08:48:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar remains stronger as CPI YoY climbs in July",
-      "summary": "AUD/USD extends its gains for the second consecutive day, trading around 0.7180 during the European hours on Wednesday.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-stronger-as-cpi-yoy-climbs-in-july-202608260847",
-      "published": "2026-08-26T08:47:39+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "XAUUSD SETUP 26th August",
@@ -140,20 +158,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Australian Dollar: RBA risks seen underpriced – MUFG",
-      "summary": "Derek Halpenny at MUFG says the August RBA minutes and stronger-than-expected monthly CPI reinforce the risk of an earlier rate hike than markets currently price.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-risks-seen-underpriced-mufg-202608260836",
-      "published": "2026-08-26T08:36:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar extends consolidation ahead of key inflation data, Nvidia earnings",
-      "summary": "Here is what you need to know on Wednesday, August 26:",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-extends-consolidation-ahead-of-key-inflation-data-nvidia-earnings-202608260815",
-      "published": "2026-08-26T08:15:41+00:00",
-      "score": 2
+      "title": "US core PCE inflation expected to remain stubbornly high, urging the Fed to hike rates",
+      "summary": "The United States (US) Bureau of Economic Analysis (BEA) is expected to publish the Personal Consumption Expenditures (PCE) Price Index data for July on Wednesday, at 12:30 GMT.",
+      "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-keep-pressure-on-the-federal-reserve-to-hike-interest-rates-202608260800",
+      "published": "2026-08-26T08:00:00+00:00",
+      "score": 3
     },
     {
       "source": "r/Forex",
