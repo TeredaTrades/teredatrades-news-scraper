@@ -1,7 +1,187 @@
 {
-  "updated_at": "2026-08-26T12:56:22.479080+00:00",
-  "count": 43,
+  "updated_at": "2026-08-26T13:57:39.287211+00:00",
+  "count": 58,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound weakens against US Dollar as headline PCE beats forecasts",
+      "summary": "GBP/USD falls to a five-day low on Wednesday as traders react to the latest United States (US) Personal Consumption Expenditures (PCE) Price Index data. At the time of writing, the pair trades around 1.3603, down roughly 0.33% on the day.",
+      "link": "https://www.fxstreet.com/news/british-pound-weakens-against-us-dollar-as-headline-pce-beats-forecasts-202608261335",
+      "published": "2026-08-26T13:35:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta: Otherwise, guidance ranges provided July remain unchanged. $META",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737161/Meta-Otherwise-guidance-ranges-provided-July-remain-unchanged-META.aspx?xy=1",
+      "published": "2026-08-26T13:34:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta sees a legal expense of about $10b in Q3 2026. $META",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737160/Meta-sees-a-legal-expense-of-about-10b-in-Q3-2026-META.aspx?xy=1",
+      "published": "2026-08-26T13:33:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: -46 mln<br />Nasdaq 100: -9 mln<br />Dow 30: -27 mln<br />Mag 7: -8 mln",
+      "link": "https://www.financialjuice.com/News/9737151/MOO-Imbalance.aspx?xy=1",
+      "published": "2026-08-26T13:30:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: We can get by without Canada.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737149/Trump-We-can-get-by-without-Canada.aspx?xy=1",
+      "published": "2026-08-26T13:27:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Canada: They don't have anything that we have to have",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737148/Trump-on-Canada-They-dont-have-anything-that-we-have-to-have.aspx?xy=1",
+      "published": "2026-08-26T13:27:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Prices are coming down.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737146/Trump-Prices-are-coming-down.aspx?xy=1",
+      "published": "2026-08-26T13:20:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: A lot of oil is pouring out of Hormuz",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737145/Trump-A-lot-of-oil-is-pouring-out-of-Hormuz.aspx?xy=1",
+      "published": "2026-08-26T13:19:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: The strait of Hormuz is functioning.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737144/Trump-The-strait-of-Hormuz-is-functioning.aspx?xy=1",
+      "published": "2026-08-26T13:19:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: $Meta agrees to pay $16.7 billion in settlement with states.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737129/Meta-agrees-to-pay-167-billion-in-settlement-with-states.aspx?xy=1",
+      "published": "2026-08-26T13:16:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump suggests 22 ships passed through Hormuz last night",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737128/Trump-suggests-22-ships-passed-through-Hormuz-last-night.aspx?xy=1",
+      "published": "2026-08-26T13:15:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Kevin Warsh’s Jackson Hole dilemma: Say too much, too little, or just enough",
+      "summary": "Kevin Warsh is preparing to deliver his first Jackson Hole speech as Federal Reserve (Fed) Chair on Friday, and expectations extend well beyond whether interest rates will be raised or left unchanged in September.",
+      "link": "https://www.fxstreet.com/news/kevin-warshs-jackson-hole-dilemma-say-too-much-too-little-or-just-enough-202608261315",
+      "published": "2026-08-26T13:15:09+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump reiterates: The US blockade in Hormuz is working.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737119/Trump-reiterates-The-US-blockade-in-Hormuz-is-working.aspx?xy=1",
+      "published": "2026-08-26T13:14:35+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Iran's Ayatollah: I don't think he's dead.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737118/Trump-on-Irans-Ayatollah-I-dont-think-hes-dead.aspx?xy=1",
+      "published": "2026-08-26T13:13:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Something may come out of the CIA director's visit to Russia - Glenn Beck program.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737117/Trump-Something-may-come-out-of-the-CIA-directors-visit-to-Russia---Glenn-Beck-program.aspx?xy=1",
+      "published": "2026-08-26T13:12:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: $Meta agrees to pay $2.20 billion to California as part of deaL - Court filing",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737116/Meta-agrees-to-pay-220-billion-to-California-as-part-of-deaL---Court-filing.aspx?xy=1",
+      "published": "2026-08-26T13:11:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta agree to settle claims that platforms harmed children - Court Filing.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737113/Meta-agree-to-settle-claims-that-platforms-harmed-children---Court-Filing.aspx?xy=1",
+      "published": "2026-08-26T13:02:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold slips as sticky US PCE inflation fails to boost Fed rate-hike expectations",
+      "summary": "Gold (XAU/USD) trades around $4,620 on Wednesday at the time of writing, down 0.83% on the day.",
+      "link": "https://www.fxstreet.com/news/gold-slips-as-sticky-us-pce-inflation-fails-to-boost-fed-rate-hike-expectations-202608261259",
+      "published": "2026-08-26T12:59:41+00:00",
+      "score": 5
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Effective Fed Funds Rate 3.63% August 25 vs 3.63% August 24.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9737082/Effective-Fed-Funds-Rate-363-August-25-vs-363-August-24.aspx?xy=1",
+      "published": "2026-08-26T12:59:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro comes under pressure against US Dollar after mixed US PCE data",
+      "summary": "EUR/USD trades under modest pressure on Wednesday after the US Personal Consumption Expenditures (PCE) Price Index report delivered a mixed inflation picture.",
+      "link": "https://www.fxstreet.com/news/euro-comes-under-pressure-against-us-dollar-after-mixed-us-pce-data-202608261257",
+      "published": "2026-08-26T12:57:38+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -10,15 +190,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-hot-cpi-supports-carry-and-rba-risk-bbh-202608261227",
       "published": "2026-08-26T12:27:16+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: UBS on Bond Market - FJElite",
-      "summary": "<div>30-year US Treasury yields have broken out to their highest levels since 2007, prompting intervention from the Treasury.<br /><br /></div><div>We see four fundamental drivers weighing on long-end risk premiums: Fed uncertainty, Al-related debt issuance, fiscal pressures, and a more price-sensitive investor base.<br /><br /></div><div>Long-end yields should stabilize from here, even if we see ",
-      "link": "https://www.financialjuice.com/News/9737010/UBS-on-Bond-Market---FJElite.aspx?xy=rss",
-      "published": "2026-08-26T12:27:16+00:00",
-      "score": 2
     },
     {
       "source": "FXStreet",
@@ -93,42 +264,6 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/USD Price Forecast: Hits fresh intra-week lows after failure at 1.3660 resistance",
-      "summary": "The British Pound (GBP) pares gains against the US Dollar (USD) on Wednesday, with bears testing the bottom of the intra-week trading range at the 1.3620 area, after failure to breach resistance at 1.3660.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-hits-fresh-intra-week-lows-after-failure-at-13660-resistance-202608261059",
-      "published": "2026-08-26T10:59:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CAD Price Forecast: Approaches 20-day EMA on the back of US-Canada trade dispute",
-      "summary": "The US Dollar (USD) trades 0.2% higher at around 1.3870 against the Canadian Dollar (USD) during the European trading session on Wednesday. The Loonie pair strengthens as the Canadian Dollar underperforms due to trade tensions between the United States (US) and Canada.",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-approaches-20-day-ema-on-the-back-of-us-canada-trade-dispute-202608261053",
-      "published": "2026-08-26T10:53:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD corrects to near $4,620 in countdown to US PCE Inflation data",
-      "summary": "Gold price (XAU/USD) is down 0.75% to near $4,620 during the European trading session on Wednesday.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-corrects-to-near-4-620-in-countdown-to-us-pce-inflation-data-202608261012",
-      "published": "2026-08-26T10:12:36+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Watching 0.7200 resistance against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note AUD/USD extended its consolidation slightly higher, closing at 0.7165 as short-term momentum improves.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-watching-07200-resistance-against-us-dollar-uob-202608260955",
-      "published": "2026-08-26T09:55:04+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "XAUUSD SETUP 26th August",
@@ -141,7 +276,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Breaking: US core PCE inflation holds steady at 3.3% in July as expected",
-      "summary": "Annual inflation in the United States (US), as measured by the change in the Personal Consumption Expenditures (PCE) Price Index, remained unchanged at 3.7%, the US Bureau of Economic Analysis (BEA) reported on Wednesday. This reading came in above the market expectation of 3.6%.",
+      "summary": "Annual inflation in the United States (US), as measured by the change in the Personal Consumption Expenditures (PCE) Price Index, remained unchanged at 3.7% YoY in July, the US Bureau of Economic Analysis (BEA) reported on Wednesday. This reading came in above the market expectation of 3.6%.",
       "link": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-keep-pressure-on-the-federal-reserve-to-hike-interest-rates-202608260800",
       "published": "2026-08-26T08:00:00+00:00",
       "score": 1
