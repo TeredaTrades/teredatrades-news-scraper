@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-08-26T05:17:03.324717+00:00",
-  "count": 48,
+  "updated_at": "2026-08-26T05:59:38.613801+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Hot Australian CPI data boosts hawkish RBA bets",
+      "summary": "The Australian Dollar (AUD) outperforms its major currency peers on Wednesday, trading 0.2% higher to near 0.7180 against the US Dollar (USD) during the early European trading session.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-hot-australian-cpi-data-boosts-hawkish-rba-bets-202608260548",
+      "published": "2026-08-26T05:48:37+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "ECB's Schnabel: Inflation likely to top 2% for extended period",
+      "summary": "European Central Bank (ECB) Executive Board member Isabel Schnabel said that inflation is unlikely to return to target over the medium term, and therefore further tightening will be necessary, Bloomberg reported on Wednesday.",
+      "link": "https://www.fxstreet.com/news/ecbs-schnabel-inflation-likely-to-top-2-for-extended-period-202608260541",
+      "published": "2026-08-26T05:41:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Declines to near 1.1650, overbought signals curb upside bias",
+      "summary": "The EUR/USD pair trades in negative territory near 1.1665 during the early European trading hours on Wednesday, pressured by a rebound in the US Dollar (USD). Markets turn cautious ahead of the release of the key US July Personal Consumption Expenditures (PCE) Price Index report later on Wednesday.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-declines-to-near-11650-overbought-signals-curb-upside-bias-202608260536",
+      "published": "2026-08-26T05:36:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc weakens as US Dollar gains ahead of PCE inflation data",
+      "summary": "USD/CHF gains ground after posting minor losses, trading around 0.8040 during the Asian hours on Wednesday. The pair appreciates as the US Dollar (USD) gains support ahead of the upcoming US Personal Consumption Expenditures (PCE) release, the Federal Reserve’s key inflation metric.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-gains-ahead-of-pce-inflation-data-202608260528",
+      "published": "2026-08-26T05:28:59+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ECB's Schnabel: Inflation likely to top 2% for extended period.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736505/ECBs-Schnabel-Inflation-likely-to-top-2-for-extended-period.aspx?xy=rss",
+      "published": "2026-08-26T05:16:52+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -163,42 +208,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-after-hot-cpi-report-eyes-multi-month-high-ahead-of-us-pce-202608260147",
       "published": "2026-08-26T01:47:29+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Australia July CPI (all groups) rises 1% m/m",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9736204/Australia-July-CPI-all-groups-rises-1-mm.aspx?xy=rss",
-      "published": "2026-08-26T01:31:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar weakens amid falling oil prices as USD holds steady ahead of US PCE",
-      "summary": "The USD/CAD pair edges higher during the Asian session on Wednesday, though it remains confined within the previous day’s range. Spot prices currently trade around mid-1.3800s as traders now look to the US Personal Consumption Expenditures (PCE) Price Index for some meaningful impetus.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-amid-falling-oil-prices-as-usd-holds-steady-ahead-of-us-pce-202608260120",
-      "published": "2026-08-26T01:20:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7829 vs. 6.7852 previous",
-      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7829 compared to the previous day's fix of 6.7852 and 6.7166 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67829-vs-67852-previous-202608260115",
-      "published": "2026-08-26T01:15:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro steadies above 1.1650 ahead of US PCE data",
-      "summary": "The EUR/USD pair flatlines near 1.1675 during the early Asian trading hours on Wednesday. The US Treasury's decision to expand its long-term bond buyback program could weigh on the US Dollar (USD) against the Euro (EUR).",
-      "link": "https://www.fxstreet.com/news/euro-steadies-above-11650-ahead-of-us-pce-data-202608260103",
-      "published": "2026-08-26T01:03:06+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
