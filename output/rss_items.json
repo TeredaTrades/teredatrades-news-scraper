@@ -1,7 +1,142 @@
 {
-  "updated_at": "2026-08-26T01:25:15.541303+00:00",
-  "count": 47,
+  "updated_at": "2026-08-26T02:48:52.983298+00:00",
+  "count": 54,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen strengthens on US bond buyback, traders brace for US PCE inflation report",
+      "summary": "The USD/JPY pair loses ground to near 158.90 during the Asian trading hours on Wednesday. The US Treasury’s bond buyback programs weigh on the US Dollar (USD) against the Japanese Yen (JPY).",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-on-us-bond-buyback-traders-brace-for-us-pce-inflation-report-202608260241",
+      "published": "2026-08-26T02:41:32+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft 365 confirms issue affecting Microsoft Teams service in Asia-Pacific region resolved",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736338/Microsoft-365-confirms-issue-affecting-Microsoft-Teams-service-in-Asia-Pacific-region-resolved.aspx?xy=rss",
+      "published": "2026-08-26T02:25:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar strengthens against Japanese Yen following CPI data",
+      "summary": "AUD/JPY gains ground for the second consecutive day, trading around 114.20 during the Asian hours on Wednesday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-against-japanese-yen-following-cpi-data-202608260214",
+      "published": "2026-08-26T02:14:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Yet another profitable \"IA Grail\" for trading gold on Forex?",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vyjl0a/yet_another_profitable_ia_grail_for_trading_gold/\"> <img alt=\"Yet another profitable &quot;IA Grail&quot; for trading gold on Forex?\" src=\"https://preview.redd.it/5mbr4vjojmlh1.jpg?width=140&amp;height=94&amp;auto=webp&amp;s=1d896c2766222499c6daf22f9e140e5f4e237418\" title=\"Yet another profitable &quot;IA Grail&quot; for trad",
+      "link": "https://www.reddit.com/r/Forex/comments/1vyjl0a/yet_another_profitable_ia_grail_for_trading_gold/",
+      "published": "2026-08-26T01:58:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft 365 halts maintenance activity: service returns to normal availability levels",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736244/Microsoft-365-halts-maintenance-activity-service-returns-to-normal-availability-levels.aspx?xy=rss",
+      "published": "2026-08-26T01:49:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft 365: Maintenance activity causes degraded Microsoft Teams functionality for users in Asia-Pacific",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736243/Microsoft-365-Maintenance-activity-causes-degraded-Microsoft-Teams-functionality-for-users-in-Asia-Pacific.aspx?xy=rss",
+      "published": "2026-08-26T01:49:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar strengthens after hot CPI report; eyes multi-month high ahead of US PCE",
+      "summary": "The AUD/USD pair attracts buyers for the second straight day and climbs to the 0.7170 area following the release of Australian consumer inflation figures during the Asian session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-after-hot-cpi-report-eyes-multi-month-high-ahead-of-us-pce-202608260147",
+      "published": "2026-08-26T01:47:29+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australia July CPI (all groups) rises 1% m/m",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736204/Australia-July-CPI-all-groups-rises-1-mm.aspx?xy=rss",
+      "published": "2026-08-26T01:31:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australia July RBA trimmed mean CPI rises 0.5% month on month",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736201/Australia-July-RBA-trimmed-mean-CPI-rises-05-month-on-month.aspx?xy=rss",
+      "published": "2026-08-26T01:30:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australia July RBA trimmed mean CPI rises 3.6% year-on-year",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736200/Australia-July-RBA-trimmed-mean-CPI-rises-36-year-on-year.aspx?xy=rss",
+      "published": "2026-08-26T01:30:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australia July RBA weighted median CPI rises 0.4% month/month",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736199/Australia-July-RBA-weighted-median-CPI-rises-04-monthmonth.aspx?xy=rss",
+      "published": "2026-08-26T01:30:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australia July RBA weighted median CPI at 3.6% year/year",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736198/Australia-July-RBA-weighted-median-CPI-at-36-yearyear.aspx?xy=rss",
+      "published": "2026-08-26T01:30:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australia July CPI (all groups) rises 3.5% year/year",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736197/Australia-July-CPI-all-groups-rises-35-yearyear.aspx?xy=rss",
+      "published": "2026-08-26T01:30:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australian CPI YoY NSA Actual 3.5% (Forecast 3.3%, Previous 3.8%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736195/Australian-CPI-YoY-NSA-Actual-35-Forecast-33-Previous-38.aspx?xy=rss",
+      "published": "2026-08-26T01:30:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australian CPI Trimmed Mean YoY Actual 3.6% (Forecast 3.5%, Previous 3.6%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9736194/Australian-CPI-Trimmed-Mean-YoY-Actual-36-Forecast-35-Previous-36.aspx?xy=rss",
+      "published": "2026-08-26T01:30:01+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -104,29 +239,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Australia CPI forecast to show cooling inflation in July, still above RBA target",
-      "summary": "The Australian Bureau of Statistics (ABS) will publish the July Consumer Price Index (CPI) on Wednesday at 01:30 GMT. The report is expected to show that inflation rose 3.2% from a year earlier, easing from the 3.8% posted in June.",
+      "title": "Australia’s CPI inflation declines to 3.5% YoY in July vs. 3.2% forecast",
+      "summary": "Australia’s Consumer Price Index (CPI) rose by 3.5% year-over-year (YoY) in July, compared to a 3.8% growth reported in June, the latest data published by the Australian Bureau of Statistics (ABS) showed on Wednesday.",
       "link": "https://www.fxstreet.com/news/australia-cpi-expected-to-show-inflation-easing-in-july-202608252230",
       "published": "2026-08-25T22:30:00+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump says nuclear deal with Saudi Arabia will advance only if Riyadh joins Abraham Accords, recognizes Israel: US official",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9736042/Trump-says-nuclear-deal-with-Saudi-Arabia-will-advance-only-if-Riyadh-joins-Abraham-Accords-recognizes-Israel-US-official.aspx?xy=rss",
-      "published": "2026-08-25T22:12:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump administration sends agreement on civil nuclear energy with Saudi Arabia to Congress: US administration official",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9736041/Trump-administration-sends-agreement-on-civil-nuclear-energy-with-Saudi-Arabia-to-Congress-US-administration-official.aspx?xy=rss",
-      "published": "2026-08-25T22:10:51+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -135,15 +252,6 @@
       "summary": "The Mexican Peso holds firm near 10-year highs against the US Dollar on Tuesday, as the USD/MXN pair sits below the 16.95 level while investors digest US economic data and recent developments between the US and Iran. The exotic pair trades at 16.94, virtually unchanged.",
       "link": "https://www.fxstreet.com/news/mexican-peso-holds-below-1695-as-traders-eye-us-data-iran-shift-202608252202",
       "published": "2026-08-25T22:02:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Poll: BoJ to raise rates to minimum 1.50% in Q1 2027, narrow majority of economists forecast (up from 1.25% in prior survey)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9736017/Poll-BoJ-to-raise-rates-to-minimum-150-in-Q1-2027-narrow-majority-of-economists-forecast-up-from-125-in-prior-survey.aspx?xy=rss",
-      "published": "2026-08-25T22:00:05+00:00",
       "score": 1
     },
     {
@@ -165,33 +273,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Barkin: If debt rises at some point, investors will stop buying.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9735943/Feds-Barkin-If-debt-rises-at-some-point-investors-will-stop-buying.aspx?xy=rss",
-      "published": "2026-08-25T20:59:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar climbs to fresh highs amid timid US Dollar",
-      "summary": "NZD/USD climbed to around 0.5980 Tuesday, near its highest level since June 1 as a softer US Dollar (USD) and firm Reserve Bank of New Zealand (RBNZ) rate-hike expectations powered the Kiwi higher.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-climbs-to-fresh-highs-amid-timid-us-dollar-202608252054",
-      "published": "2026-08-25T20:54:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Range-bound consolidation outlook against US Dollar – Commerzbank",
-      "summary": "Commerzbank’s Charlie Lay and Dr. Henry Hao note that USD/SGD has eased from 1.2800 to around 1.2700 as the softer US Dollar (USD) and global risk sentiment dominate.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-bound-consolidation-outlook-against-us-dollar-commerzbank-202608252040",
-      "published": "2026-08-25T20:40:00+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Question of FVGS AND OB, XAUUSD",
@@ -207,24 +288,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vyanz4/100k_prop_firm_acc_day_4/\"> <img alt=\"100k prop firm acc DAY 4\" src=\"https://preview.redd.it/9tsqj4d0uklh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de3d89c26f041622a53a00fd9269a111a1a66ef6\" title=\"100k prop firm acc DAY 4\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Now I know you guys are like what the duck",
       "link": "https://www.reddit.com/r/Forex/comments/1vyanz4/100k_prop_firm_acc_day_4/",
       "published": "2026-08-25T19:58:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Treasury yields fall as Hormuz progress eases inflation fears",
-      "summary": "US yields edge lower across the whole curve on Tuesday, following suit.",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-fall-as-hormuz-progress-eases-inflation-fears-202608251954",
-      "published": "2026-08-25T19:54:06+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South Korean Won: Strength backed by tech flows against US Dollar – Societe Generale",
-      "summary": "Societe Generale analysts highlight that the Korean Won (KRW) has gained 12% versus the Dollar year-to-date, with USD/KRW falling from around 1560 in June to below 1380.",
-      "link": "https://www.fxstreet.com/news/south-korean-won-strength-backed-by-tech-flows-against-us-dollar-societe-generale-202608251954",
-      "published": "2026-08-25T19:54:00+00:00",
       "score": 1
     },
     {
