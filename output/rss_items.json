@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-08-26T23:38:00.999642+00:00",
-  "count": 53,
+  "updated_at": "2026-08-27T05:05:27.352374+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc steadies as US Dollar holds ground following robust economic data",
+      "summary": "USD/CHF remains steady after registering 0.5% gains in the previous day, trading around 0.8050 during the Asian hours on Thursday. The currency pair remains bound to a tight range as a resilient US Dollar (USD) holds its ground, bolstered by robust economic data.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-steadies-as-us-dollar-holds-ground-following-robust-economic-data-202608270502",
+      "published": "2026-08-27T05:02:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Thursday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608270435",
+      "published": "2026-08-27T04:35:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound languishes near weekly low, below 1.3600 as USD bulls await Warsh's speech",
+      "summary": "The GBP/USD pair is seen consolidating near the lower end of its weekly range, below the 1.3600 mark, during the Asian session on Thursday.",
+      "link": "https://www.fxstreet.com/news/british-pound-languishes-near-weekly-low-below-13600-as-usd-bulls-await-warshs-speech-202608270425",
+      "published": "2026-08-27T04:25:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold scales higher on softer US yields as traders await Fed Chair Warsh's speech",
+      "summary": "Gold (XAU/USD) catches fresh bids during the Asian session on Thursday, reversing a major part of the previous day's losses to the $4,583 region, or the weekly low.",
+      "link": "https://www.fxstreet.com/news/gold-scales-higher-on-softer-us-yields-as-traders-await-fed-chair-warshs-speech-202608270356",
+      "published": "2026-08-27T03:56:28+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won gains on back-to-back BoK interest rate hikes",
+      "summary": "The South Korean Won (KRW) trades higher against the US Dollar (USD) on Thursday, with USD/KRW falling 0.3% to near 1,380 during the Asian trading session. The pair revisits its 11-month low as back-to-back interest rate hikes by the Bank of Korea (BoK) have strengthened the currency.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-gains-on-back-to-back-bok-interest-rate-hikes-202608270312",
+      "published": "2026-08-27T03:12:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD holds above $69.00 as traders assess Fed stance",
+      "summary": "Silver price (XAG/USD) rises after posting losses in the previous day, trading around $69.10 per troy ounce during the Asian hours on Thursday. Investors are closely tuning into Federal Reserve (Fed) Chair Kevin Warsh’s upcoming speech at the annual Jackson Hole symposium on Friday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-above-6900-as-traders-assess-fed-stance-202608270251",
+      "published": "2026-08-27T02:51:35+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar declines to near 0.5950 as US PCE data lift Fed rate hike bets",
+      "summary": "The NZD/USD pair trades with mild losses around 0.5950 during the early Asian session on Thursday. The US Dollar (USD) strengthens against the New Zealand Dollar (NZD) as US inflation data lifted expectations of a Federal Reserve (Fed) rate hike.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-to-near-05950-as-us-pce-data-lift-fed-rate-hike-bets-202608270222",
+      "published": "2026-08-27T02:22:30+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar holds strong due to RBA rate hike bets",
+      "summary": "AUD/USD extends its gains for the third successive day, trading around 0.7180 during the Asian hours on Thursday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-strong-due-to-rba-rate-hike-bets-202608270203",
+      "published": "2026-08-27T02:03:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar consolidates near weekly low as USD bulls seem hesitant",
+      "summary": "The USD/CAD pair is seen consolidating near the weekly high and trading around the 1.3875-1.3880 region during the Asian session on Thursday amid mixed fundamental cues.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-near-weekly-low-as-usd-bulls-seem-hesitant-202608270201",
+      "published": "2026-08-27T02:01:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7840 vs. 6.7829 previous",
+      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Thursday at 6.7840 compared to the previous day's fix of 6.7829 and 6.7261 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67840-vs-67829-previous-202608270115",
+      "published": "2026-08-27T01:15:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen edges higher as USD bulls seem hesitant amid Hormuz optimism",
+      "summary": "The USD/JPY pair attracts some sellers during the Asian session on Thursday, snapping a three-day winning streak, though the downside potential seems limited. Spot prices currently trade above the 159.00 mark as the focus remains on Tokyo inflation data and the Jackson Hole Symposium on Friday.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-edges-higher-as-usd-bulls-seem-hesitant-amid-hormuz-optimism-202608270111",
+      "published": "2026-08-27T01:11:01+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro holds gains above 1.1650 on hawkish ECB bias",
+      "summary": "The EUR/USD pair edges higher to around 1.1655 during the early Asian session on Thursday. A hawkish stance of the European Central Bank (ECB) provides some support to the Euro (EUR) against the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11650-on-hawkish-ecb-bias-202608270057",
+      "published": "2026-08-27T00:57:08+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -12,42 +120,6 @@
       "score": 6
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar extends rally as RBA hike bets, offset US data",
-      "summary": "The Aussie Dollar advances for the third straight day, up more than 0.17%, even though the latest US inflation report renewed investors' hawkish bets that the US central bank might increase rates by the end of 2026. The AUD/USD trades at 0.7176, up from 0.7159.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-extends-rally-as-rba-hike-bets-offset-us-data-202608262321",
-      "published": "2026-08-26T23:21:01+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: No legally valid reason for ousting Governor Cook from Federal Reserve board: letter from Cook's lawyer",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737799/No-legally-valid-reason-for-ousting-Governor-Cook-from-Federal-Reserve-board-letter-from-Cooks-lawyer.aspx?xy=rss",
-      "published": "2026-08-26T23:02:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Lawyer for Federal Reserve Governor Cook: White House letter depends on untested and unproven claims of criminal conduct - letter",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737785/Lawyer-for-Federal-Reserve-Governor-Cook-White-House-letter-depends-on-untested-and-unproven-claims-of-criminal-conduct---letter.aspx?xy=rss",
-      "published": "2026-08-26T23:01:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed governor Lisa Cook responds to White House",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737782/Fed-governor-Lisa-Cook-responds-to-White-House.aspx?xy=rss",
-      "published": "2026-08-26T23:00:34+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "XAUUSD SETUP",
@@ -55,186 +127,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vzc6s6/xauusd_setup/",
       "published": "2026-08-26T22:38:49+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia CFO: preliminary outlook for fy 28 revenue to rise about 70% yoy",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737765/Nvidia-CFO-preliminary-outlook-for-fy-28-revenue-to-rise-about-70-yoy.aspx?xy=rss",
-      "published": "2026-08-26T22:23:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/JPY Price Forecast: Evening star threatens 216.00 support",
-      "summary": "The GBP/JPY failed to sustain the 217.00 breakout, reversing to the 216.50 area as traders faded the move, exacerbating the decline to current exchange rates. At the time of writing, the cross-pair exchanges hands with losses of 0.36%.",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-evening-star-threatens-21600-support-202608262152",
-      "published": "2026-08-26T21:52:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar steadies as firm US Dollar caps gains",
-      "summary": "NZD/USD is trading around 0.5940 on Tuesday, little changed on the day as the risk-sensitive Kiwi consolidates a strong recovery. The pair has clawed back from its recent lows, but a firm US Dollar (USD) ahead of the Jackson Hole Symposium is keeping a lid on further gains for now.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-as-firm-us-dollar-caps-gains-202608262150",
-      "published": "2026-08-26T21:50:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso dips as US Core PCE renew Fed hawkish bets",
-      "summary": "The Mexican Peso loses some traction against the US Dollar on Wednesday as traders seem confident that the Federal Reserve could raise interest rates toward the end of the year, following a red-hot inflation report. The USD/MXN trades at 16.95, after reaching a daily low of 16.92.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-dips-as-us-core-pce-renew-fed-hawkish-bets-202608262136",
-      "published": "2026-08-26T21:36:13+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump issues proclamation on beef affordability",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737735/White-House-Trump-issues-proclamation-on-beef-affordability.aspx?xy=rss",
-      "published": "2026-08-26T21:21:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump issued proclamation to temporarily raise lean beef trimmings imports without extra tariff",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737734/White-House-Trump-issued-proclamation-to-temporarily-raise-lean-beef-trimmings-imports-without-extra-tariff.aspx?xy=rss",
-      "published": "2026-08-26T21:20:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "What are the worst strategies?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Like for example almost every 2nd post i see on this sub is either ‘psychology’-related or some guy trading like 0.15 xauusd with a 200 deposit in both directions every few minutes with no stop loss</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Electrical_Alarm7207\"> /u/Electrical_Alarm7207 </a> <br /> <span><a href=\"https:",
-      "link": "https://www.reddit.com/r/Forex/comments/1vza58a/what_are_the_worst_strategies/",
-      "published": "2026-08-26T21:18:56+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: AWS and Nvidia to provide 2 million extra GPUs and advanced infrastructure for agentic and physical AI",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737723/AWS-and-Nvidia-to-provide-2-million-extra-GPUs-and-advanced-infrastructure-for-agentic-and-physical-AI.aspx?xy=rss",
-      "published": "2026-08-26T21:05:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen slips ahead of Tokyo CPI",
-      "summary": "USD/JPY trades around 159.40 on Wednesday, holding onto modest gains as a firmer US Dollar (USD) keeps the pair underpinned. The Dollar is broadly bid ahead of the Jackson Hole Symposium.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-slips-ahead-of-tokyo-cpi-202608262100",
-      "published": "2026-08-26T21:00:15+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: NVIDIA: We will be shipping both Blackwell and Rubin systems in the future and are currently experiencing certain supply constraints - SEC filing. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9737684/NVIDIA-We-will-be-shipping-both-Blackwell-and-Rubin-systems-in-the-future-and-are-currently-experiencing-certain-supply-constraints---SEC-filing-NVDA.aspx?xy=rss",
-      "published": "2026-08-26T20:45:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Pace of appreciation against US Dollar seen slowing – ING",
-      "summary": "Chris Turner at ING notes USD/CNH is consolidating after last week’s sharp decline, as investors hesitate to buy Renminbi with the PBoC slowing lower USD/CNY fixings and US–Iran sanctions risks in focus.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-pace-of-appreciation-against-us-dollar-seen-slowing-ing-202608261957",
-      "published": "2026-08-26T19:57:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Banxico lifts 2026 GDP forecast, delays inflation target return",
-      "summary": "On Wednesday, the Bank of Mexico (Banxico) released its Quarterly Report for Q2 2026, in which it revised its forecasts for economic growth and inflation.",
-      "link": "https://www.fxstreet.com/news/banxico-lifts-2026-gdp-forecast-delays-inflation-target-return-202608261938",
-      "published": "2026-08-26T19:38:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South Korean Won: Appreciation may slow against US Dollar – OCBC",
-      "summary": "OCBC Bank strategists Sim Moh Siong and Christopher Wong observe that USD/KRW has consolidated after sharp declines over the past eight sessions, with exporter and month-end US Dollar (USD) selling offset by a firmer USD tone and foreign equity outflows.",
-      "link": "https://www.fxstreet.com/news/south-korean-won-appreciation-may-slow-against-us-dollar-ocbc-202608261925",
-      "published": "2026-08-26T19:25:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Emerging Markets: Idiosyncratic bid persists in equities – BNY",
-      "summary": "Geoff Yu at BNY highlights that EM EMEA equities have outperformed, with strong buying in Poland, South Africa and Turkey since before the July Fed meeting, despite weaker regional currencies and bonds.",
-      "link": "https://www.fxstreet.com/news/emerging-markets-idiosyncratic-bid-persists-in-equities-bny-202608261907",
-      "published": "2026-08-26T19:07:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: 160.00 caps bulls as intervention risk lingers",
-      "summary": "The USD/JPY pair drifts higher for the third straight day on Wednesday, up a modest 0.11% as buyers reaffirm their control over price action despite uncertainty over another round of intervention by Japanese authorities. The pair trades at 159.38 at the time of writing.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-16000-caps-bulls-as-intervention-risk-lingers-202608261850",
-      "published": "2026-08-26T18:50:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Rally stalls against US Dollar as spreads drive trade – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report the Euro (EUR) is slightly softer versus the Dollar, with its late-July rally stalling as price action mirrors yield spreads.",
-      "link": "https://www.fxstreet.com/news/euro-rally-stalls-against-us-dollar-as-spreads-drive-trade-scotiabank-202608261843",
-      "published": "2026-08-26T18:43:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar firms ahead of Jackson Hole",
-      "summary": "The US Dollar (USD) firmed on Wednesday, with the US Dollar Index (DXY) climbing toward 99.20 as traders squared positions ahead of the Jackson Hole Symposium.",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-firms-ahead-of-jackson-hole-202608261842",
-      "published": "2026-08-26T18:42:14+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Further gains toward 6.7000 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report USD/CNH slipped to 6.7166 and closed slightly lower, with short-term downside momentum gradually building.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-further-gains-toward-67000-against-us-dollar-uob-202608261811",
-      "published": "2026-08-26T18:11:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CAD Price Forecast: Bulls eye 1.3900 as RSI recovers",
-      "summary": "The USD/CAD pair bounces off daily lows at 1.3833 and is up about 0.26% on Wednesday, driven by sticky US inflation data, which triggered a jump to new weekly highs amid an ongoing short-term downturn. At the time of writing, the pair trades at 1.3873.",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-bulls-eye-13900-as-rsi-recovers-202608261810",
-      "published": "2026-08-26T18:10:58+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold tumbles as high US inflation supports Fed hawkish bets",
-      "summary": "Gold (XAU/USD) price drops over 1.37% on Wednesday as economic data from the United States (US) broadly aligned with estimates. Meanwhile, inflation remains close to the 4% threshold, increasing the likelihood of higher interest rates.",
-      "link": "https://www.fxstreet.com/news/gold-tumbles-as-high-us-inflation-supports-fed-hawkish-bets-202608261809",
-      "published": "2026-08-26T18:09:42+00:00",
-      "score": 6
     },
     {
       "source": "r/Forex",
