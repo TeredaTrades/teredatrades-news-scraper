@@ -1,123 +1,204 @@
 {
-  "updated_at": "2026-08-27T05:05:27.352374+00:00",
-  "count": 41,
+  "updated_at": "2026-08-27T16:31:42.050720+00:00",
+  "count": 46,
   "items": [
     {
-      "source": "FXStreet",
+      "source": "FinancialJuice",
       "category": "news",
-      "title": "Swiss Franc steadies as US Dollar holds ground following robust economic data",
-      "summary": "USD/CHF remains steady after registering 0.5% gains in the previous day, trading around 0.8050 during the Asian hours on Thursday. The currency pair remains bound to a tight range as a resilient US Dollar (USD) holds its ground, bolstered by robust economic data.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-steadies-as-us-dollar-holds-ground-following-robust-economic-data-202608270502",
-      "published": "2026-08-27T05:02:30+00:00",
+      "title": "FinancialJuice: Trump administration executive order for new AI regulator stalls - The Information",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9739086/Trump-administration-executive-order-for-new-AI-regulator-stalls---The-Information.aspx?xy=rss",
+      "published": "2026-08-27T16:14:29+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "summary": "Gold prices rose in India on Thursday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202608270435",
-      "published": "2026-08-27T04:35:20+00:00",
+      "title": "British Pound slips on solid US jobless claims as Fed hawks lift USD",
+      "summary": "The Pound Sterling (GBP) registers back-to-back bearish days on Thursday, down about 0.05% against the US Dollar (USD) after economic data showed the labor market remains solid, while investors eye Federal Reserve (Fed) speakers at the Jackson Hole Symposium.",
+      "link": "https://www.fxstreet.com/news/british-pound-slips-on-solid-us-jobless-claims-as-fed-hawks-lift-usd-202608271554",
+      "published": "2026-08-27T15:54:59+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 4-Week Bill Auction",
+      "summary": "<ul><li>High Yield 3.65%</li><li>Bid-to-Cover 2.73</li><li>Awards&nbsp;93.57% of bids at high</li><li>Sells $100 bln</li></ul>",
+      "link": "https://www.financialjuice.com/News/9739047/US-4-Week-Bill-Auction.aspx?xy=rss",
+      "published": "2026-08-27T15:33:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.65% (Forecast -, Previous 3.640%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9739045/US-4-Week-Bill-High-Yield-Actual-365-Forecast---Previous-3640.aspx?xy=rss",
+      "published": "2026-08-27T15:32:05+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound languishes near weekly low, below 1.3600 as USD bulls await Warsh's speech",
-      "summary": "The GBP/USD pair is seen consolidating near the lower end of its weekly range, below the 1.3600 mark, during the Asian session on Thursday.",
-      "link": "https://www.fxstreet.com/news/british-pound-languishes-near-weekly-low-below-13600-as-usd-bulls-await-warshs-speech-202608270425",
-      "published": "2026-08-27T04:25:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold scales higher on softer US yields as traders await Fed Chair Warsh's speech",
-      "summary": "Gold (XAU/USD) catches fresh bids during the Asian session on Thursday, reversing a major part of the previous day's losses to the $4,583 region, or the weekly low.",
-      "link": "https://www.fxstreet.com/news/gold-scales-higher-on-softer-us-yields-as-traders-await-fed-chair-warshs-speech-202608270356",
-      "published": "2026-08-27T03:56:28+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South Korean Won gains on back-to-back BoK interest rate hikes",
-      "summary": "The South Korean Won (KRW) trades higher against the US Dollar (USD) on Thursday, with USD/KRW falling 0.3% to near 1,380 during the Asian trading session. The pair revisits its 11-month low as back-to-back interest rate hikes by the Bank of Korea (BoK) have strengthened the currency.",
-      "link": "https://www.fxstreet.com/news/south-korean-won-gains-on-back-to-back-bok-interest-rate-hikes-202608270312",
-      "published": "2026-08-27T03:12:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD holds above $69.00 as traders assess Fed stance",
-      "summary": "Silver price (XAG/USD) rises after posting losses in the previous day, trading around $69.10 per troy ounce during the Asian hours on Thursday. Investors are closely tuning into Federal Reserve (Fed) Chair Kevin Warsh’s upcoming speech at the annual Jackson Hole symposium on Friday.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-above-6900-as-traders-assess-fed-stance-202608270251",
-      "published": "2026-08-27T02:51:35+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar declines to near 0.5950 as US PCE data lift Fed rate hike bets",
-      "summary": "The NZD/USD pair trades with mild losses around 0.5950 during the early Asian session on Thursday. The US Dollar (USD) strengthens against the New Zealand Dollar (NZD) as US inflation data lifted expectations of a Federal Reserve (Fed) rate hike.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-to-near-05950-as-us-pce-data-lift-fed-rate-hike-bets-202608270222",
-      "published": "2026-08-27T02:22:30+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar holds strong due to RBA rate hike bets",
-      "summary": "AUD/USD extends its gains for the third successive day, trading around 0.7180 during the Asian hours on Thursday.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-strong-due-to-rba-rate-hike-bets-202608270203",
-      "published": "2026-08-27T02:03:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar consolidates near weekly low as USD bulls seem hesitant",
-      "summary": "The USD/CAD pair is seen consolidating near the weekly high and trading around the 1.3875-1.3880 region during the Asian session on Thursday amid mixed fundamental cues.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-near-weekly-low-as-usd-bulls-seem-hesitant-202608270201",
-      "published": "2026-08-27T02:01:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7840 vs. 6.7829 previous",
-      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Thursday at 6.7840 compared to the previous day's fix of 6.7829 and 6.7261 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67840-vs-67829-previous-202608270115",
-      "published": "2026-08-27T01:15:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen edges higher as USD bulls seem hesitant amid Hormuz optimism",
-      "summary": "The USD/JPY pair attracts some sellers during the Asian session on Thursday, snapping a three-day winning streak, though the downside potential seems limited. Spot prices currently trade above the 159.00 mark as the focus remains on Tokyo inflation data and the Jackson Hole Symposium on Friday.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-edges-higher-as-usd-bulls-seem-hesitant-amid-hormuz-optimism-202608270111",
-      "published": "2026-08-27T01:11:01+00:00",
+      "title": "Japanese Yen remains fragile ahead of Tokyo CPI, Warsh’s Jackson Hole speech",
+      "summary": "USD/JPY trades in a narrow range below 160 on Thursday, with neither side able to build strong momentum. The US Dollar (USD) is struggling to extend Wednesday’s recovery, while persistent weakness in the Japanese Yen (JPY) continues to keep the pair supported.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-remains-fragile-ahead-of-tokyo-cpi-warshs-jackson-hole-speech-202608271509",
+      "published": "2026-08-27T15:09:18+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro holds gains above 1.1650 on hawkish ECB bias",
-      "summary": "The EUR/USD pair edges higher to around 1.1655 during the early Asian session on Thursday. A hawkish stance of the European Central Bank (ECB) provides some support to the Euro (EUR) against the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11650-on-hawkish-ecb-bias-202608270057",
-      "published": "2026-08-27T00:57:08+00:00",
+      "title": "Thailand: Stable policy anchors short-end yields – DBS",
+      "summary": "DBS Group Research economist Chua Han Teng expects the Bank of Thailand (BoT) to keep its policy rate at 1.00% through 2026, following the unanimous decision on August 26 to stay on hold.",
+      "link": "https://www.fxstreet.com/news/thailand-stable-policy-anchors-short-end-yields-dbs-202608271503",
+      "published": "2026-08-27T15:03:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Kansas City Fed Manufacturing Actual 17 (Forecast -, Previous 17)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9739007/Kansas-City-Fed-Manufacturing-Actual-17-Forecast---Previous-17.aspx?xy=rss",
+      "published": "2026-08-27T15:02:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Kansas City Fed Composite Index Actual 10 (Forecast 9.5, Previous 9)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9739004/Kansas-City-Fed-Composite-Index-Actual-10-Forecast-95-Previous-9.aspx?xy=rss",
+      "published": "2026-08-27T15:02:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+      "published": "2026-08-27T15:00:00+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold retreats from three-month high to near $4,600 after US PCE data",
-      "summary": "Gold price (XAU/USD) falls to near $4,610 during the early Asian session on Thursday. The precious metal retreats from a three-month high as US inflation data came largely in line with expectations, increasing expectations of a Federal Reserve (Fed) interest-rate hike next month.",
-      "link": "https://www.fxstreet.com/news/gold-retreats-from-three-month-high-to-near-4-600-after-us-pce-data-202608262326",
-      "published": "2026-08-26T23:26:52+00:00",
-      "score": 6
+      "title": "Chinese Yuan: Structural export drivers outweigh CNY – Commerzbank",
+      "summary": "Commerzbank’s Michael Pfister examines whether the weaker CNY explains China’s rising export market share. Using bilateral real exchange rates across major partners, he finds no systematic link between CNY moves and market share gains, including in advanced sectors like electric cars.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-structural-export-drivers-outweigh-cny-commerzbank-202608271441",
+      "published": "2026-08-27T14:41:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed's Hammack says “now” is the time to tackle inflation",
+      "summary": "Cleveland Federal Reserve (Fed) President Beth Hammack crossed the wires on CNBC on Thursday as the Jackson Hole Symposium begins.",
+      "link": "https://www.fxstreet.com/news/feds-hammack-says-now-is-the-time-to-tackle-inflation-202608271435",
+      "published": "2026-08-27T14:35:38+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Second Setup XAUUSD",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vzvogg/second_setup_xauusd/\"> <img alt=\"Second Setup XAUUSD\" src=\"https://preview.redd.it/4fcl87ethxlh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ce838062e85d84300821ff75303ba1618a35bd9\" title=\"Second Setup XAUUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Second Setup XAUUSD for today...new york session</p> </di",
+      "link": "https://www.reddit.com/r/Forex/comments/1vzvogg/second_setup_xauusd/",
+      "published": "2026-08-27T14:33:29+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "European Central Bank: September hike prospects strengthen – Nordea",
+      "summary": "Nordea’s Jan von Gerich argues that the European Central Bank remains focused on upside inflation risks and is likely to continue tightening policy.",
+      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-prospects-strengthen-nordea-202608271347",
+      "published": "2026-08-27T13:47:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Schmid warns energy shock is leaking into the economy",
+      "summary": "Kansas City Fed President Jeffrey Schmid warned on Thursday that inflation remains stubborn and that the energy shock is spreading into the broader economy. With the next meeting approaching, he said the Fed needs more information but remains committed to returning inflation to 2%.",
+      "link": "https://www.fxstreet.com/news/feds-schmid-warns-energy-shock-is-leaking-into-the-economy-202608271342",
+      "published": "2026-08-27T13:42:02+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed's Goolsbee warns political interference with Fed could fuel inflation",
+      "summary": "Chicago Federal Reserve (Fed) President Austan Goolsbee said on Thursday that the economy remains broadly stable but warned that tariffs and war-related price increases are complicating the inflation outlook.",
+      "link": "https://www.fxstreet.com/news/feds-goolsbee-warns-political-interference-with-fed-could-fuel-inflation-202608271338",
+      "published": "2026-08-27T13:38:17+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro trims intraday losses as traders weigh Fed-ECB interest rate outlooks",
+      "summary": "EUR/USD holds firm on Thursday after coming under pressure on the previous day as the latest US inflation figures helped the US Dollar (USD) regain some lost ground.",
+      "link": "https://www.fxstreet.com/news/euro-trims-intraday-losses-as-traders-weigh-fed-ecb-interest-rate-outlooks-202608271337",
+      "published": "2026-08-27T13:37:03+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Fed repricing risk weighs on usd – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH Elias Haddad notes the US Dollar (USD) is consolidating gains, with the US Dollar Index (DXY) testing its 200‑day moving average resistance and United States (US) data showing Personal Consumption Expenditures (PCE) Price Index inflation stuck above the Fed’s 2% target",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-repricing-risk-weighs-on-usd-bbh-202608271328",
+      "published": "2026-08-27T13:28:41+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swedish Krona: Inflation risks may prompt tougher Riksbank stance - BNY",
+      "summary": "BNY’s Geoff Yu says rising Swedish import prices and continued weakness in the krona are adding to inflation risks. He expects the Riksbank to adopt firmer language on SEK valuations and sees scope for the market to bring forward expectations for the next rate hike.",
+      "link": "https://www.fxstreet.com/news/swedish-krona-inflation-risks-may-prompt-tougher-riksbank-stance-bny-202608271303",
+      "published": "2026-08-27T13:03:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Choppy range trading outlook – Rabobank",
+      "summary": "Rabobank's Senior FX Strategist Jane Foley discusses EUR/USD dynamics around divergent inflation and policy outlooks in the US and Eurozone.",
+      "link": "https://www.fxstreet.com/news/euro-choppy-range-trading-outlook-rabobank-202608271245",
+      "published": "2026-08-27T12:45:55+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar stays vulnerable as US-Canada trade war heats up",
+      "summary": "USD/CAD trades around 1.3870 on Thursday, down a modest 0.05% on the day at the time of writing.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-stays-vulnerable-as-us-canada-trade-war-heats-up-202608271216",
+      "published": "2026-08-27T12:16:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold eases as traders await clearer signals on the Fed interest rate path",
+      "summary": "Gold (XAU/USD) remains on the back foot at the start of American trading hours on Thursday after reversing its earlier intraday gains. At the time of writing, XAU/USD trades around $4,577, after reaching an intraday high of $4,643.",
+      "link": "https://www.fxstreet.com/news/gold-eases-as-traders-await-clearer-signals-on-the-fed-interest-rate-path-202608271115",
+      "published": "2026-08-27T11:15:51+00:00",
+      "score": 4
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "You see the chart differently? Then you must be an idiot!",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>It really fascinates me, how a difference of opinion particularly when it comes to forex, really brings out the worst in some people. </p> <p>I've seen a couple of people type comments like: DXY is clearly primed for a rise! </p> <p>If you disagree you're a jackass and a moron.</p> <p>Is there strategy so fragile that the mere suggestion of an opposing position ma",
+      "link": "https://www.reddit.com/r/Forex/comments/1vzmdo2/you_see_the_chart_differently_then_you_must_be_an/",
+      "published": "2026-08-27T06:46:08+00:00",
+      "score": 1
     },
     {
       "source": "r/Forex",
@@ -176,28 +257,10 @@
     {
       "source": "r/Forex",
       "category": "reddit",
-      "title": "Question of FVGS AND OB, XAUUSD",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys I had a question, how do you know which order block price will react from considering there are many order blocks sometimes on one time frame or multiple on low time frames too, do you look for addition confluence’s (Except CHOCH)<br /> And if you do which ones.. similar for FVGS I see multiple FVGS and IFVGS and prices almost take a good resistance too t",
-      "link": "https://www.reddit.com/r/Forex/comments/1vyatis/question_of_fvgs_and_ob_xauusd/",
-      "published": "2026-08-25T20:03:51+00:00",
-      "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
       "title": "100k prop firm acc DAY 4",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vyanz4/100k_prop_firm_acc_day_4/\"> <img alt=\"100k prop firm acc DAY 4\" src=\"https://preview.redd.it/9tsqj4d0uklh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de3d89c26f041622a53a00fd9269a111a1a66ef6\" title=\"100k prop firm acc DAY 4\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Now I know you guys are like what the duck",
       "link": "https://www.reddit.com/r/Forex/comments/1vyanz4/100k_prop_firm_acc_day_4/",
       "published": "2026-08-25T19:58:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Need Proper Guidance On My Current Trading Journey!",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I am trading since mid 2023, first on my own capital traded it, made some money, lost it all on news trading, got a FundingPips $5k 2 step account in mid 2024, was trading with the IRL -&gt; ERL model including ICT concepts. traded it till Nov 2025 and blew it without passing any phase, due to inactivity of 30 days. Started 2026 with a fresh $5k 2 st",
-      "link": "https://www.reddit.com/r/Forex/comments/1vy2jke/need_proper_guidance_on_my_current_trading_journey/",
-      "published": "2026-08-25T15:10:29+00:00",
       "score": 1
     },
     {
@@ -208,15 +271,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vxurd7/xauusd_setup_25_august/",
       "published": "2026-08-25T09:20:15+00:00",
       "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Is Gold Ready for Another Push Higher?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vxr3fu/is_gold_ready_for_another_push_higher/\"> <img alt=\"Is Gold Ready for Another Push Higher?\" src=\"https://preview.redd.it/xxnr0tdplglh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b284914361888b4186b72f2386edaf949874d213\" title=\"Is Gold Ready for Another Push Higher?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>P",
-      "link": "https://www.reddit.com/r/Forex/comments/1vxr3fu/is_gold_ready_for_another_push_higher/",
-      "published": "2026-08-25T05:45:04+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
@@ -293,15 +347,6 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-      "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank &quot;insiders&quot;—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
-      "published": "2026-07-31T14:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
       "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
       "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
@@ -311,10 +356,10 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-      "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
-      "published": "2026-07-30T15:00:00+00:00",
+      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank &quot;insiders&quot;—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+      "published": "2026-07-31T14:00:00+00:00",
       "score": 1
     },
     {
@@ -323,6 +368,15 @@
       "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
       "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+      "published": "2026-07-30T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
       "published": "2026-07-30T15:00:00+00:00",
       "score": 1
     },
@@ -360,15 +414,6 @@
       "summary": "Federal Reserve Board issues enforcement action with TS Banking Group, Inc. and TS Contrarian Bancshares, Inc.",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260709a.htm",
       "published": "2026-07-09T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
-      "summary": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
-      "published": "2026-07-08T18:00:00+00:00",
       "score": 1
     }
   ],
