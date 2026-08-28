@@ -1,140 +1,221 @@
 {
-  "updated_at": "2026-08-28T12:47:27.261067+00:00",
-  "count": 47,
+  "updated_at": "2026-08-28T22:56:06.936407+00:00",
+  "count": 45,
   "items": [
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "European Central Bank: September hike seen with energy risks – Nomura",
-      "summary": "Nomura’s Euro area team expects the European Central Bank to raise rates by 25 basis points to 2.50% at the 10 September meeting, citing higher HICP inflation and resilient growth.",
-      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-seen-with-energy-risks-nomura-202608281243",
-      "published": "2026-08-28T12:43:38+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Month-end rebalancing and UK policy mix – BNY",
-      "summary": "BNY's Geoff Yu notes that month-end rebalancing flows leave the British Pound (GBP) vulnerable, with GBP seen as particularly exposed after strong performance and stretched GBP/USD levels.",
-      "link": "https://www.fxstreet.com/news/british-pound-month-end-rebalancing-and-uk-policy-mix-bny-202608281226",
-      "published": "2026-08-28T12:26:01+00:00",
-      "score": 1
-    },
-    {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump: I can't let big processors hurt farmers and ranchers - Truth Social",
+      "title": "FinancialJuice: Trump: United States has just reached an oil pact with Venezuela",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9740376/Trump-I-cant-let-big-processors-hurt-farmers-and-ranchers---Truth-Social.aspx?xy=rss",
-      "published": "2026-08-28T12:24:42+00:00",
+      "link": "https://www.financialjuice.com/News/9741210/Trump-United-States-has-just-reached-an-oil-pact-with-Venezuela.aspx?xy=rss",
+      "published": "2026-08-28T22:48:30+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump: I am authorizing legal documents to be drawn in order to allow farmers and ranchers to be given the right to process their own food. - Truth Social",
+      "title": "FinancialJuice: Trump: secured majority u.s. control of over 65 bln barrels of proven oil reserves in Venezuela",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9740375/Trump-I-am-authorizing-legal-documents-to-be-drawn-in-order-to-allow-farmers-and-ranchers-to-be-given-the-right-to-process-their-own-food---Truth-Social.aspx?xy=rss",
-      "published": "2026-08-28T12:23:36+00:00",
+      "link": "https://www.financialjuice.com/News/9741209/Trump-secured-majority-us-control-of-over-65-bln-barrels-of-proven-oil-reserves-in-Venezuela.aspx?xy=rss",
+      "published": "2026-08-28T22:48:28+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Nordea on Bond Yields - FJElite",
-      "summary": "<div>The yield curve, however, is behaving differently. In 2003-07, the curve flattened as the Federal Reserve raised short-term rates while long-end yields remained subdued—the &quot;Greenspan conundrum.&quot; This was later associated with a global savings glut: strong demand for securities held down long-term yields even as policy rates rose. Today, the curve is steepening, suggesting a differe",
-      "link": "https://www.financialjuice.com/News/9740374/Nordea-on-Bond-Yields---FJElite.aspx?xy=rss",
-      "published": "2026-08-28T12:17:15+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING's View on USD - FJElite",
-      "summary": "<div>It has been a quiet, risk-positive week for global asset markets. Volatility remains low and the picture in G10 FX has been mixed, with certainly no follow-through on the dollar debasement theme which returned last week. The FX market expects little from Kevin Warsh today, with a one-day USD/JPY straddle pricing around a 35 USD pip range today. On Warsh, he speaks at a symposium dedicated to ",
-      "link": "https://www.financialjuice.com/News/9740357/INGs-View-on-USD---FJElite.aspx?xy=rss",
-      "published": "2026-08-28T12:09:32+00:00",
-      "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Dovish Fed repricing risk grows – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is mixed near a one‑week high as major FX pairs test key technical levels, including EUR/USD at its 200‑day moving average and USD/JPY near 160.00.",
-      "link": "https://www.fxstreet.com/news/us-dollar-dovish-fed-repricing-risk-grows-bbh-202608281209",
-      "published": "2026-08-28T12:09:24+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Deutsche Bank's View Ahead of Fed's Warsh - FJElite",
-      "summary": "<div>Market focus today will be on the Jackson Hole symposium, where Fed Chair Warsh is speaking at 3pm London time. This is a significant one, as the speech is often used by Fed Chairs to make big announcements or send policy signals. Indeed, last year sawformer Chair Powell acknowledge “the shifting balance of risks”, which set the stage for rate cuts to resume the following month. And with mark",
-      "link": "https://www.financialjuice.com/News/9740356/Deutsche-Banks-View-Ahead-of-Feds-Warsh---FJElite.aspx?xy=rss",
-      "published": "2026-08-28T12:08:06+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Blue-collar jobs are the new flashpoint in data-center fight - WSJ.",
+      "title": "FinancialJuice: Trump: United States has just reached an accord with Venezuela",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9740354/Blue-collar-jobs-are-the-new-flashpoint-in-data-center-fight---WSJ.aspx?xy=rss",
-      "published": "2026-08-28T12:03:43+00:00",
+      "link": "https://www.financialjuice.com/News/9741208/Trump-United-States-has-just-reached-an-accord-with-Venezuela.aspx?xy=rss",
+      "published": "2026-08-28T22:48:10+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Federal Reserve: Markets eye Warsh signals – Rabobank",
-      "summary": "Rabobank’s Senior Macro Strategist Bas van Geffen notes that central bankers and market participants are focused on Jackson Hole, where FOMC Chair Warsh will give the keynote. Report highlights his aversion to forward guidance and suggests he may avoid clear policy signals.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-markets-eye-warsh-signals-rabobank-202608281154",
-      "published": "2026-08-28T11:54:52+00:00",
+      "title": "South Korean Won: BoK front-loading hikes as KRW consolidates – Commerzbank",
+      "summary": "Commerzbank’s Charlie Lay reports the Bank of Korea has delivered back-to-back 25bp hikes to 3.0%, front-loading tightening as growth and core inflation forecasts rise. The bank signals one more hike over six months but may pause to assess effects.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-bok-front-loading-hikes-as-krw-consolidates-commerzbank-202608282233",
+      "published": "2026-08-28T22:33:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Week Ahead: NFP Main Focus, RBNZ Expected to Hike Rates - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9741198/Week-Ahead-NFP-Main-Focus-RBNZ-Expected-to-Hike-Rates---FJElite.aspx?xy=rss",
+      "published": "2026-08-28T22:25:42+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold Price Forecast: XAU/USD holds above $4.600 with all eyes on Fed Warsh’s speech",
-      "summary": "Gold (XAU/USD) trades practically flat for the second consecutive day on Friday, with the rejection from three-month highs near $4,700 hit earlier in the week contained at a previous resistance area, just below $4,600.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-holds-above-4600-with-all-eyes-on-fed-warshs-speech-202608281142",
-      "published": "2026-08-28T11:42:18+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: ECB vigilance and inflation risks – BNY",
-      "summary": "BNY’s Geoff Yu highlights that European inflation is firming, with French and Spanish data reinforcing concerns for the European Central Bank (ECB). Governing Council members Kazaks and Schnabel are framed as hawkish voices, stressing the need to prevent persistent price pressures.",
-      "link": "https://www.fxstreet.com/news/euro-ecb-vigilance-and-inflation-risks-bny-202608281133",
-      "published": "2026-08-28T11:33:56+00:00",
+      "title": "Philippine Peso: BSP tightening bias on inflation risks – DBS",
+      "summary": "DBS Group Research economists Radhika Rao and Chua Han Teng note that Bangko Sentral ng Pilipinas (BSP) raised its policy rate by 25 bps to 5.0% to anchor inflation expectations and support the Peso.",
+      "link": "https://www.fxstreet.com/news/philippine-peso-bsp-tightening-bias-on-inflation-risks-dbs-202608282156",
+      "published": "2026-08-28T21:56:00+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US Dollar: Jackson Hole scenarios shape FX risk – MUFG",
-      "summary": "MUFG’s Derek Halpenny and Abdul-Ahad Lockhart argue that Jackson Hole only becomes a significant FX event for the Dollar when the Federal Reserve Chair delivers a clear policy surprise or commits to future action.",
-      "link": "https://www.fxstreet.com/news/us-dollar-jackson-hole-scenarios-shape-fx-risk-mufg-202608281125",
-      "published": "2026-08-28T11:25:20+00:00",
+      "title": "South Korean Won: Higher rates and chip boom support gains – ING",
+      "summary": "ING’s Chris Turner reports that the Korean Won (KRW) continues to advance, driven by back-to-back Bank of Korea (BoK) rate hikes to 3.00% and a Dot Plot pointing to 3.25% in six months.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-higher-rates-and-chip-boom-support-gains-ing-202608282118",
+      "published": "2026-08-28T21:18:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: IMF's Managing Director Georgieva: Fed's Chair Warsh did a great job, articulated views clearly.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9741118/IMFs-Managing-Director-Georgieva-Feds-Chair-Warsh-did-a-great-job-articulated-views-clearly.aspx?xy=rss",
+      "published": "2026-08-28T20:32:53+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Canadian Dollar awaits fresh catalyst with Warsh, GDP data in focus",
-      "summary": "USD/CAD trades around 1.3845 on Friday, edging 0.07% lower on the day, as investors refrain from taking large positions ahead of the highly anticipated speech by Federal Reserve (Fed) Chair Kevin Warsh at the Jackson Hole Symposium.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-awaits-fresh-catalyst-with-warsh-gdp-data-in-focus-202608281112",
-      "published": "2026-08-28T11:12:19+00:00",
+      "title": "Mexican Peso tumbles as Warsh embarks on inflation fight",
+      "summary": "The Mexican Peso (MXN) depreciates against the US Dollar (USD) on Friday, down by over 0.42% on hawkish remarks by Federal Reserve (Fed) Chair Kevin Warsh at the Jackson Hole Symposium. This prompted investors to price in a potential rate hike in 2026, a tailwind for the Greenback.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-tumbles-as-warsh-embarks-on-inflation-fight-202608282024",
+      "published": "2026-08-28T20:24:56+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: USD CFTC Positions Week August 25th - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9741084/USD-CFTC-Positions-Week-August-25th---FJElite.aspx?xy=rss",
+      "published": "2026-08-28T20:10:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Undervaluation and export gains questioned – Commerzbank",
+      "summary": "Commerzbank’s Volkmar Baur challenges recent internal analysis on CNY undervaluation and exports, arguing that China’s exchange-rate management and gold purchases point to deliberate weakening.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-undervaluation-and-export-gains-questioned-commerzbank-202608282001",
+      "published": "2026-08-28T20:01:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Strong exports support KRW and KOSPI – DBS",
+      "summary": "DBS Group strategists Taimur Baig and Nathan Chow expect South Korea’s August exports to stay strong near 60% year-on-year, underpinning the outlook for the KOSPI and Korean Won (KRW) even as growth moderates from June’s peak.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-strong-exports-support-krw-and-kospi-dbs-202608281931",
+      "published": "2026-08-28T19:31:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "BoE’s Bailey sees muted inflation effects ahead of policy meeting",
+      "summary": "Bank of England (BoE) Governor Andrew Bailey said on Friday that he doesn’t see significant second-round inflation effects in the UK, in an interview with Bloomberg TV at the Jackson Hole Symposium.",
+      "link": "https://www.fxstreet.com/news/boes-bailey-sees-muted-inflation-effects-ahead-of-boes-meeting-202608281848",
+      "published": "2026-08-28T18:48:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "What was your favorite trade of the week?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I only had one trade this week, which was an AUD/CHF long. I closed it this morning based on where price is currently sitting.</p> <p>I also had a nice technical setup on AUD/USD, but with all the news, fundamentals, and DXY movement this week, I felt there was too much risk in splitting my exposure on AUD. Thank goodness I didn’t take the trade.</p> <p>It was a s",
+      "link": "https://www.reddit.com/r/Forex/comments/1w0ytc1/what_was_your_favorite_trade_of_the_week/",
+      "published": "2026-08-28T18:34:47+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Need help understanding NASDAQ",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>What should someone keep in mind while trading Nas 100? Or if someone can share a proven strategy that works.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/miloshahpk\"> /u/miloshahpk </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1w0yivi/need_help_understanding_nasdaq/\">[link]</a></span> &#32; <span><a h",
+      "link": "https://www.reddit.com/r/Forex/comments/1w0yivi/need_help_understanding_nasdaq/",
+      "published": "2026-08-28T18:23:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Goolsbee says inflation is the main issue right now",
+      "summary": "Chicago Federal Reserve (Fed) President Austan Goolsbee commented in a CNBC interview at the Jackson Hole Symposium on Friday that he agreed with Fed Chair Kevin Warsh about the details of the economy, adding that “inflation is the Fed’s main issue right now.”",
+      "link": "https://www.fxstreet.com/news/feds-goolsbee-says-inflation-is-the-main-issue-right-now-202608281823",
+      "published": "2026-08-28T18:23:13+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Australian Dollar tests three-month highs above 0.7200 with all eyes on Fed’s Warsh",
-      "summary": "The Australian Dollar (AUD) ticks higher for the fourth consecutive day against the US Dollar (USD) as investors brace for the Federal Reserve (Fed) Chairman Kevin Warsh’s speech at the Jackson Hole Symposium, due later on Friday.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-tests-three-month-highs-above-07200-with-all-eyes-on-feds-warsh-202608281039",
-      "published": "2026-08-28T10:39:30+00:00",
+      "title": "Silver Price Forecast: False breakout and hawkish Fed sink XAG",
+      "summary": "Silver (XAG/USD) price made a U-turn after reaching a two-month high of $71.12 on Friday, then dove below the $69.00 figure as Federal Reserve (Fed) Chair Kevin Warsh leaned hawkish in his Jackson Hole speech, pushing US Treasury yields higher.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-false-breakout-and-hawkish-fed-sinks-xag-202608281630",
+      "published": "2026-08-28T16:30:23+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar retreats from highs as Warsh’s hawkish message lifts US Dollar",
+      "summary": "AUD/USD retreats 0.30% on Friday to trade around 0.7170 at the time of writing, correcting after reaching its highest level since mid-May at 0.7206 earlier in the day.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-retreats-from-highs-as-warshs-hawkish-message-lifts-us-dollar-202608281603",
+      "published": "2026-08-28T16:03:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones Industrial Average round-trips a Fed that promised nothing",
+      "summary": "The Federal Reserve (Fed) chair used the largest speaking slot on the calendar to commit to nothing and the futures market repriced September anyway.",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-round-trips-a-fed-that-promised-nothing-202608281554",
+      "published": "2026-08-28T15:54:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Japanese Yen gives up the big figure intervention won back",
+      "summary": "Japan delivered the inflation and labour data the Bank of Japan needs to move next month and the Japanese Yen is weaker for a fifth consecutive session.",
+      "link": "https://www.fxstreet.com/news/tokyo-reaching-2-is-not-enough-for-the-japanese-yen-202608281535",
+      "published": "2026-08-28T15:35:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index rallies as Warsh puts September rate hike back on the table",
+      "summary": "The US Dollar Index (DXY) rallies on Friday, gaining 0.36% to trade around 99.50 at the time of writing, as Federal Reserve (Fed) Chair Kevin Warsh’s hawkish remarks at the Jackson Hole Symposium prompt investors to sharply reassess the outlook for US interest rates.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-rallies-as-warsh-puts-september-rate-hike-back-on-the-table-202608281530",
+      "published": "2026-08-28T15:30:45+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold tumbles as Warsh sparks rally on the US Dollar",
+      "summary": "Gold (XAU/USD) prices extend losses to over 2.50% on Friday as market participants digest hawkish comments from Federal Reserve (Fed) Chair Kevin Warsh at Jackson Hole. Rising US Treasury yields and overall US Dollar strength are the two drivers of the sudden weakness in precious metals.",
+      "link": "https://www.fxstreet.com/news/gold-slides-as-warsh-hawkish-tilt-lifts-us-dollar-and-us-yields-202608281517",
+      "published": "2026-08-28T15:17:46+00:00",
+      "score": 7
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound tumbles as Warsh revives Fed hike bets",
+      "summary": "The Pound Sterling (GBP) tumbles versus the US Dollar (USD) on Friday as Federal Reserve (Fed) Chair Kevin Warsh put inflation as the priority at the Fed, increasing the likelihood of an interest rate hike next month. The GBP/USD trades at 1.3538, down 0.40%.",
+      "link": "https://www.fxstreet.com/news/british-pound-tumbles-as-warsh-revives-fed-hike-bets-202608281500",
+      "published": "2026-08-28T15:00:14+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro slides below 1.1600 as Warsh brings Fed rate hike back into play",
+      "summary": "EUR/USD falls sharply toward 1.1595 on Friday at the time of writing, losing 0.48% on the day, as the US Dollar (USD) rallies following Federal Reserve (Fed) Chair Kevin Warsh’s speech at the Jackson Hole Symposium.",
+      "link": "https://www.fxstreet.com/news/euro-slides-below-11600-as-warsh-brings-fed-rate-hike-back-into-play-202608281450",
+      "published": "2026-08-28T14:50:18+00:00",
       "score": 2
     },
     {
@@ -145,69 +226,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w0mnlp/gold_supply_zone_rejection/",
       "published": "2026-08-28T10:21:15+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "\"Anything else would likely put the Japanese Yen under significant pressure\": Commerzbank on why BoJ should hike rates",
-      "summary": "The Japanese Yen (JPY) is holding within a narrow trading range against the US Dollar (USD) at around 159.35, but pressures are rising following an acceleration in Tokyo inflation data.",
-      "link": "https://www.fxstreet.com/news/anything-else-would-likely-put-the-japanese-yen-under-significant-pressure-commerzbank-on-why-boj-should-hike-rates-202608281002",
-      "published": "2026-08-28T10:02:00+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Trade war clouds Q2 GDP rebound – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes USD/CAD is trading just above its 200‑day moving average near 1.3840 as Canada’s Q2 GDP is expected to rebound strongly, with real GDP seen rising 3.4% SAAR versus a slight Q1 contraction.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-war-clouds-q2-gdp-rebound-bbh-202608281001",
-      "published": "2026-08-28T10:01:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD hits fresh two-month highs with all eyes on Jackson Hole",
-      "summary": "Silver (XAG/USD) heads north for the second consecutive day on Friday, with all eyes on the Federal Reserve (Fed) Chairman Kevin Warsh’s speech at the Jackson Hole Symposium, due later on the day.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-hits-fresh-two-month-highs-with-all-eyes-on-jackson-hole-202608280945",
-      "published": "2026-08-28T09:45:31+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Bulls challenge 0.7200 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight AUD/USD’s third consecutive daily gain, with the pair stalling just under the 0.7200 resistance.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-bulls-challenge-07200-against-us-dollar-uob-202608280945",
-      "published": "2026-08-28T09:45:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Nonfarm Payrolls face a reality check with key benchmark revision",
-      "summary": "US investors will watch on Friday a labor market report that is far less familiar than the monthly jobs release but has gained considerable importance following the spectacular revisions of recent years.",
-      "link": "https://www.fxstreet.com/news/nonfarm-payrolls-face-a-reality-check-with-key-benchmark-revision-202608280933",
-      "published": "2026-08-28T09:33:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) rose on Friday, according to FXStreet data. Silver trades at $70.41 per troy ounce, up 1.68% from the $69.25 it cost on Thursday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202608280932",
-      "published": "2026-08-28T09:32:30+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: UBS: Commodities - FJElite",
-      "summary": "<div>While shifting conditions in the Middle East continue to impact oil and refined product markets, we believe the case for broad commodity exposure as both a source of return and an inflation hedge extends beyond energy. Industrial metals should stay supported by investment in AI and electrification. Agricultural commodities have potential for gains given El Niño-re ated risks, while gold remai",
-      "link": "https://www.financialjuice.com/News/9740154/UBS-Commodities---FJElite.aspx?xy=rss",
-      "published": "2026-08-28T09:25:02+00:00",
-      "score": 4
     },
     {
       "source": "Federal Reserve",
@@ -244,42 +262,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vzc6s6/xauusd_setup/",
       "published": "2026-08-26T22:38:49+00:00",
       "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "XAUUSD SETUP 26th August",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vyrbqd/xauusd_setup_26th_august/\"> <img alt=\"XAUUSD SETUP 26th August\" src=\"https://preview.redd.it/eo109te3molh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b80fe43a43a999286f453b33ad97b9fd201d0932\" title=\"XAUUSD SETUP 26th August\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Different Day! Same Direction...my instinc",
-      "link": "https://www.reddit.com/r/Forex/comments/1vyrbqd/xauusd_setup_26th_august/",
-      "published": "2026-08-26T08:41:26+00:00",
-      "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Is Gold Finding Buyers Around 4635–4640?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vyouyx/is_gold_finding_buyers_around_46354640/\"> <img alt=\"Is Gold Finding Buyers Around 4635–4640?\" src=\"https://preview.redd.it/6a4z9v9gwnlh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3bcd2d2d065bcc6903afae5f00526a4c48362b0a\" title=\"Is Gold Finding Buyers Around 4635–4640?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"",
-      "link": "https://www.reddit.com/r/Forex/comments/1vyouyx/is_gold_finding_buyers_around_46354640/",
-      "published": "2026-08-26T06:17:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gold overbought ???",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vymt13/gold_overbought/\"> <img alt=\"Gold overbought ???\" src=\"https://preview.redd.it/1ey3m25xcnlh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=377b270c8697f023fae43e7480d8e43089e38bc8\" title=\"Gold overbought ???\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Daily Chart , should we expect a pull back soon or what </p> ",
-      "link": "https://www.reddit.com/r/Forex/comments/1vymt13/gold_overbought/",
-      "published": "2026-08-26T04:28:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "100k prop firm acc DAY 4",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vyanz4/100k_prop_firm_acc_day_4/\"> <img alt=\"100k prop firm acc DAY 4\" src=\"https://preview.redd.it/9tsqj4d0uklh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de3d89c26f041622a53a00fd9269a111a1a66ef6\" title=\"100k prop firm acc DAY 4\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Now I know you guys are like what the duck",
-      "link": "https://www.reddit.com/r/Forex/comments/1vyanz4/100k_prop_firm_acc_day_4/",
-      "published": "2026-08-25T19:58:40+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
