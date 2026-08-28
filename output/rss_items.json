@@ -1,78 +1,204 @@
 {
-  "updated_at": "2026-08-27T16:31:42.050720+00:00",
-  "count": 46,
+  "updated_at": "2026-08-28T01:09:21.168374+00:00",
+  "count": 48,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Trump administration executive order for new AI regulator stalls - The Information",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9739086/Trump-administration-executive-order-for-new-AI-regulator-stalls---The-Information.aspx?xy=rss",
-      "published": "2026-08-27T16:14:29+00:00",
-      "score": 1
+      "title": "Japanese Yen strengthens as Tokyo core CPI inflatin bolsters BoJ rate hike chance",
+      "summary": "The USD/JPY pair declines to around 159.30 during the early Asian session on Friday. The Japanese Yen (JPY) strengthens against the US Dollar (USD) as Japan’s Tokyo Consumer Price Index (CPI) inflation data strengthens the case for a September Bank of Japan (BoJ) rate hike.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-as-tokyo-core-cpi-inflatin-bolsters-boj-rate-hike-chance-202608280053",
+      "published": "2026-08-28T00:53:39+00:00",
+      "score": 3
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound slips on solid US jobless claims as Fed hawks lift USD",
-      "summary": "The Pound Sterling (GBP) registers back-to-back bearish days on Thursday, down about 0.05% against the US Dollar (USD) after economic data showed the labor market remains solid, while investors eye Federal Reserve (Fed) speakers at the Jackson Hole Symposium.",
-      "link": "https://www.fxstreet.com/news/british-pound-slips-on-solid-us-jobless-claims-as-fed-hawks-lift-usd-202608271554",
-      "published": "2026-08-27T15:54:59+00:00",
+      "title": "1.9%: Japan’s Tokyo CPI inflation rises in August",
+      "summary": "The headline Tokyo Consumer Price Index (CPI) for August rose 1.9% YoY as compared to 1.8% in the previous month, the Statistics Bureau of Japan showed on Friday.",
+      "link": "https://www.fxstreet.com/news/19-japans-tokyo-cpi-inflation-rises-in-august-202608272331",
+      "published": "2026-08-27T23:31:49+00:00",
       "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: US 4-Week Bill Auction",
-      "summary": "<ul><li>High Yield 3.65%</li><li>Bid-to-Cover 2.73</li><li>Awards&nbsp;93.57% of bids at high</li><li>Sells $100 bln</li></ul>",
-      "link": "https://www.financialjuice.com/News/9739047/US-4-Week-Bill-Auction.aspx?xy=rss",
-      "published": "2026-08-27T15:33:42+00:00",
+      "title": "FinancialJuice: Tokyo Core CPI YoY Actual 1.8% (Forecast 1.8%, Previous 1.9%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9739574/Tokyo-Core-CPI-YoY-Actual-18-Forecast-18-Previous-19.aspx?xy=rss",
+      "published": "2026-08-27T23:31:27+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.65% (Forecast -, Previous 3.640%)",
+      "title": "FinancialJuice: Tokyo area August overall CPI rises 1.9% yr/yr: govt",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9739045/US-4-Week-Bill-High-Yield-Actual-365-Forecast---Previous-3640.aspx?xy=rss",
-      "published": "2026-08-27T15:32:05+00:00",
+      "link": "https://www.financialjuice.com/News/9739578/Tokyo-area-August-overall-CPI-rises-19-yryr-govt.aspx?xy=rss",
+      "published": "2026-08-27T23:30:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Tokyo CPI Overall Actual 1.9% (Forecast 1.9%, Previous 2.0%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9739575/Tokyo-CPI-Overall-Actual-19-Forecast-19-Previous-20.aspx?xy=rss",
+      "published": "2026-08-27T23:30:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Tokyo area august core CPI rises 1.8% yr/yr: govt (poll 1.7%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9739573/Tokyo-area-august-core-CPI-rises-18-yryr-govt-poll-17.aspx?xy=rss",
+      "published": "2026-08-27T23:30:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japan July jobs-applicants ratio steady at 1.18, unchanged from June: govt (Poll 1.19)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9739571/Japan-July-jobs-applicants-ratio-steady-at-118-unchanged-from-June-govt-Poll-119.aspx?xy=rss",
+      "published": "2026-08-27T23:30:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japanese Jobs/Applicants Ratio Actual 1.18 (Forecast 1.19, Previous 1.18)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9739570/Japanese-JobsApplicants-Ratio-Actual-118-Forecast-119-Previous-118.aspx?xy=rss",
+      "published": "2026-08-27T23:30:00+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Japanese Yen remains fragile ahead of Tokyo CPI, Warsh’s Jackson Hole speech",
-      "summary": "USD/JPY trades in a narrow range below 160 on Thursday, with neither side able to build strong momentum. The US Dollar (USD) is struggling to extend Wednesday’s recovery, while persistent weakness in the Japanese Yen (JPY) continues to keep the pair supported.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-remains-fragile-ahead-of-tokyo-cpi-warshs-jackson-hole-speech-202608271509",
-      "published": "2026-08-27T15:09:18+00:00",
+      "title": "Euro holds modest bid above 1.1650 ahead of Jackson Hole Symposium",
+      "summary": "The EUR/USD pair posts modest gains near 1.1655 during the early Asian session on Friday. Markets might turn cautious later in the day as Federal Reserve (Fed) Chairman Kevin Warsh is set to deliver his much-awaited keynote address in Jackson Hole.",
+      "link": "https://www.fxstreet.com/news/euro-holds-modest-bid-above-11650-ahead-of-jackson-hole-symposium-202608272329",
+      "published": "2026-08-27T23:29:21+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Thailand: Stable policy anchors short-end yields – DBS",
-      "summary": "DBS Group Research economist Chua Han Teng expects the Bank of Thailand (BoT) to keep its policy rate at 1.00% through 2026, following the unanimous decision on August 26 to stay on hold.",
-      "link": "https://www.fxstreet.com/news/thailand-stable-policy-anchors-short-end-yields-dbs-202608271503",
-      "published": "2026-08-27T15:03:50+00:00",
-      "score": 1
+      "title": "Australian Dollar hits three-month peak on risk-on mood, eyes on Warsh",
+      "summary": "The Aussie Dollar climbed to a three-month high of 0.7198 on Thursday, even though the US Dollar steadied on solid jobs data and hawkish comments by Federal Reserve officials. The AUD/USD trades at 0.7194, up 0.34%.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-hits-three-month-peak-on-risk-on-mood-eyes-on-warsh-202608272246",
+      "published": "2026-08-27T22:46:57+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Japanese Yen gets its hike whatever Tokyo CPI prints",
+      "summary": "USD/JPY holds just beneath 159.50 on Thursday, ahead 0.05% across a range of forty-two pips, a fifth consecutive session of grinding higher without getting anywhere.",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-gets-its-hike-whatever-tokyo-cpi-prints-202608272154",
+      "published": "2026-08-27T21:54:19+00:00",
+      "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Kansas City Fed Manufacturing Actual 17 (Forecast -, Previous 17)",
+      "title": "FinancialJuice: Nvidia halts revenue-sharing agreements with AI cloud providers - WSJ",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9739007/Kansas-City-Fed-Manufacturing-Actual-17-Forecast---Previous-17.aspx?xy=rss",
-      "published": "2026-08-27T15:02:40+00:00",
+      "link": "https://www.financialjuice.com/News/9739512/Nvidia-halts-revenue-sharing-agreements-with-AI-cloud-providers---WSJ.aspx?xy=rss",
+      "published": "2026-08-27T21:47:17+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Kansas City Fed Composite Index Actual 10 (Forecast 9.5, Previous 9)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9739004/Kansas-City-Fed-Composite-Index-Actual-10-Forecast-95-Previous-9.aspx?xy=rss",
-      "published": "2026-08-27T15:02:19+00:00",
+      "title": "China: Beijing balances tariff pushback and dialogue – BNY",
+      "summary": "Geoff Yu at BNY reports that China is opposing potential new U.S. Section 301 tariffs while keeping communication channels open. Beijing has threatened “necessary measures” in response to additional duties but continues high-level engagement ahead of a possible Trump–Xi summit.",
+      "link": "https://www.fxstreet.com/news/china-beijing-balances-tariff-pushback-and-dialogue-bny-202608272139",
+      "published": "2026-08-27T21:39:00+00:00",
       "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound Sterling borrows a month it did not earn",
+      "summary": "GBP/USD holds near 1.3600 on Thursday, effectively unchanged at minus 0.05% across a range of barely thirty pips, a third session of drift beneath the high just short of 1.3700 posted earlier this week.",
+      "link": "https://www.fxstreet.com/news/british-pound-sterling-borrows-a-month-it-did-not-earn-202608272132",
+      "published": "2026-08-27T21:32:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso edges lower as solid US jobs boost the USD",
+      "summary": "The Mexican Peso (MXN) loses ground modestly against the US Dollar (USD) on Thursday after economic data in the United States showed that the jobs market is solid, while inflation remains above the Federal Reserve’s (Fed) 2% goal.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-edges-lower-as-solid-us-jobs-boosts-the-usd-202608272123",
+      "published": "2026-08-27T21:23:20+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand's Kiwi prices a hike it has already delivered",
+      "summary": "NZD/USD holds just beneath 0.5950 on Thursday, unchanged on the session across a range of twenty-two pips and some forty-five pips under the window high just short of 0.6000 set in early June.",
+      "link": "https://www.fxstreet.com/news/new-zealands-kiwi-prices-a-hike-it-has-already-delivered-202608272108",
+      "published": "2026-08-27T21:08:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Rate hikes and undervaluation support KRW – BNY",
+      "summary": "BNY’s Geoff Yu highlights that the Bank of Korea’s 25bp hike to 3.00% and upgraded growth and inflation forecasts underline ongoing tightening risks. Robust exports and investment are supporting the economy, though stronger demand could fuel inflation and household debt.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-rate-hikes-and-undervaluation-support-krw-bny-202608272047",
+      "published": "2026-08-27T20:47:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Near-term downside risks against US Dollar – OCBC",
+      "summary": "OCBC Bank strategists Sim Moh Siong and Christopher Wong note that USD/SGD traded slightly firmer as resilient US data halted US Dollar downside pressure, though the pair remains subdued and rangebound ahead of Chair Warsh’s Jackson Hole speech.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-near-term-downside-risks-against-us-dollar-ocbc-202608272028",
+      "published": "2026-08-27T20:28:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Thai Baht: Consolidation expected in defined range against US Dollar – Commerzbank",
+      "summary": "Commerzbank FX Analyst Charlie Lay reports USD/THB has eased from around 33.90 in late July to about 32.70, helped by a softer Dollar.",
+      "link": "https://www.fxstreet.com/news/thai-baht-consolidation-expected-in-defined-range-against-us-dollar-commerzbank-202608271919",
+      "published": "2026-08-27T19:19:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Undervalued currency backed by BoK hikes – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad highlights USD/KRW near a one‑year low after the Bank of Korea (BoK) delivered a back‑to‑back 25bps hike to 3.00%.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-undervalued-currency-backed-by-bok-hikes-bbh-202608271858",
+      "published": "2026-08-27T18:58:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Measured RMB appreciation with two-way risks – OCBC",
+      "summary": "OCBC Bank strategists Sim Moh Siong and Christopher Wong highlight that USD/CNH has edged higher alongside a broader US Dollar (USD) rebound and firmer US Treasury yields, while the People's Bank of China (PBoC) continues to prefer a gradual appreciation path.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-measured-rmb-appreciation-with-two-way-risks-ocbc-202608271837",
+      "published": "2026-08-27T18:37:31+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold holds firm above $4,600 as Warsh speech looms",
+      "summary": "Gold (XAU/USD) extended its gains on Thursday, up 0.17% as US jobs data was solid, while the US trade deficit widened. In the meantime, investors eye Fed Chair Warsh's speech, keeping the precious metal near familiar levels. The XAU/USD trades at $4,601 at the time of writing.",
+      "link": "https://www.fxstreet.com/news/gold-edges-higher-as-falling-yields-offset-fed-hawkish-talk-202608271743",
+      "published": "2026-08-27T17:43:12+00:00",
+      "score": 6
     },
     {
       "source": "Federal Reserve",
@@ -84,24 +210,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Structural export drivers outweigh CNY – Commerzbank",
-      "summary": "Commerzbank’s Michael Pfister examines whether the weaker CNY explains China’s rising export market share. Using bilateral real exchange rates across major partners, he finds no systematic link between CNY moves and market share gains, including in advanced sectors like electric cars.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-structural-export-drivers-outweigh-cny-commerzbank-202608271441",
-      "published": "2026-08-27T14:41:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed's Hammack says “now” is the time to tackle inflation",
-      "summary": "Cleveland Federal Reserve (Fed) President Beth Hammack crossed the wires on CNBC on Thursday as the Jackson Hole Symposium begins.",
-      "link": "https://www.fxstreet.com/news/feds-hammack-says-now-is-the-time-to-tackle-inflation-202608271435",
-      "published": "2026-08-27T14:35:38+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Second Setup XAUUSD",
@@ -109,87 +217,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1vzvogg/second_setup_xauusd/",
       "published": "2026-08-27T14:33:29+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "European Central Bank: September hike prospects strengthen – Nordea",
-      "summary": "Nordea’s Jan von Gerich argues that the European Central Bank remains focused on upside inflation risks and is likely to continue tightening policy.",
-      "link": "https://www.fxstreet.com/news/european-central-bank-september-hike-prospects-strengthen-nordea-202608271347",
-      "published": "2026-08-27T13:47:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed’s Schmid warns energy shock is leaking into the economy",
-      "summary": "Kansas City Fed President Jeffrey Schmid warned on Thursday that inflation remains stubborn and that the energy shock is spreading into the broader economy. With the next meeting approaching, he said the Fed needs more information but remains committed to returning inflation to 2%.",
-      "link": "https://www.fxstreet.com/news/feds-schmid-warns-energy-shock-is-leaking-into-the-economy-202608271342",
-      "published": "2026-08-27T13:42:02+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed's Goolsbee warns political interference with Fed could fuel inflation",
-      "summary": "Chicago Federal Reserve (Fed) President Austan Goolsbee said on Thursday that the economy remains broadly stable but warned that tariffs and war-related price increases are complicating the inflation outlook.",
-      "link": "https://www.fxstreet.com/news/feds-goolsbee-warns-political-interference-with-fed-could-fuel-inflation-202608271338",
-      "published": "2026-08-27T13:38:17+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro trims intraday losses as traders weigh Fed-ECB interest rate outlooks",
-      "summary": "EUR/USD holds firm on Thursday after coming under pressure on the previous day as the latest US inflation figures helped the US Dollar (USD) regain some lost ground.",
-      "link": "https://www.fxstreet.com/news/euro-trims-intraday-losses-as-traders-weigh-fed-ecb-interest-rate-outlooks-202608271337",
-      "published": "2026-08-27T13:37:03+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Fed repricing risk weighs on usd – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH Elias Haddad notes the US Dollar (USD) is consolidating gains, with the US Dollar Index (DXY) testing its 200‑day moving average resistance and United States (US) data showing Personal Consumption Expenditures (PCE) Price Index inflation stuck above the Fed’s 2% target",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-repricing-risk-weighs-on-usd-bbh-202608271328",
-      "published": "2026-08-27T13:28:41+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swedish Krona: Inflation risks may prompt tougher Riksbank stance - BNY",
-      "summary": "BNY’s Geoff Yu says rising Swedish import prices and continued weakness in the krona are adding to inflation risks. He expects the Riksbank to adopt firmer language on SEK valuations and sees scope for the market to bring forward expectations for the next rate hike.",
-      "link": "https://www.fxstreet.com/news/swedish-krona-inflation-risks-may-prompt-tougher-riksbank-stance-bny-202608271303",
-      "published": "2026-08-27T13:03:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Choppy range trading outlook – Rabobank",
-      "summary": "Rabobank's Senior FX Strategist Jane Foley discusses EUR/USD dynamics around divergent inflation and policy outlooks in the US and Eurozone.",
-      "link": "https://www.fxstreet.com/news/euro-choppy-range-trading-outlook-rabobank-202608271245",
-      "published": "2026-08-27T12:45:55+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar stays vulnerable as US-Canada trade war heats up",
-      "summary": "USD/CAD trades around 1.3870 on Thursday, down a modest 0.05% on the day at the time of writing.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-stays-vulnerable-as-us-canada-trade-war-heats-up-202608271216",
-      "published": "2026-08-27T12:16:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold eases as traders await clearer signals on the Fed interest rate path",
-      "summary": "Gold (XAU/USD) remains on the back foot at the start of American trading hours on Thursday after reversing its earlier intraday gains. At the time of writing, XAU/USD trades around $4,577, after reaching an intraday high of $4,643.",
-      "link": "https://www.fxstreet.com/news/gold-eases-as-traders-await-clearer-signals-on-the-fed-interest-rate-path-202608271115",
-      "published": "2026-08-27T11:15:51+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
@@ -234,15 +261,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vymt13/gold_overbought/\"> <img alt=\"Gold overbought ???\" src=\"https://preview.redd.it/1ey3m25xcnlh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=377b270c8697f023fae43e7480d8e43089e38bc8\" title=\"Gold overbought ???\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Daily Chart , should we expect a pull back soon or what </p> ",
       "link": "https://www.reddit.com/r/Forex/comments/1vymt13/gold_overbought/",
       "published": "2026-08-26T04:28:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Yet another profitable \"IA Grail\" for trading gold on Forex?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1vyjl0a/yet_another_profitable_ia_grail_for_trading_gold/\"> <img alt=\"Yet another profitable &quot;IA Grail&quot; for trading gold on Forex?\" src=\"https://preview.redd.it/5mbr4vjojmlh1.jpg?width=140&amp;height=94&amp;auto=webp&amp;s=1d896c2766222499c6daf22f9e140e5f4e237418\" title=\"Yet another profitable &quot;IA Grail&quot; for trad",
-      "link": "https://www.reddit.com/r/Forex/comments/1vyjl0a/yet_another_profitable_ia_grail_for_trading_gold/",
-      "published": "2026-08-26T01:58:46+00:00",
       "score": 1
     },
     {
