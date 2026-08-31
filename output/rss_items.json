@@ -1,24 +1,213 @@
 {
-  "updated_at": "2026-08-31T06:46:49.558802+00:00",
-  "count": 43,
+  "updated_at": "2026-08-31T14:55:00.849133+00:00",
+  "count": 47,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Asian stock markets face slight pressure renewed geopolitical risks, hawkish Fed bets",
-      "summary": "Asian equity markets remain under pressure at the start of the week, as risk sentiment turns sour due to renewed tensions in the Middle East and a sharp increase in Federal Reserve (Fed) interest rate hike expectations.",
-      "link": "https://www.fxstreet.com/news/asian-stock-markets-face-slight-pressure-renewed-geopolitical-risks-hawkish-fed-bets-202608310642",
-      "published": "2026-08-31T06:42:45+00:00",
+      "title": "Canadian Dollar outperforms US Dollar as geopolitical tensions boost Oil",
+      "summary": "USD/CAD falls 0.24% on Monday and trades around 1.3870 at the time of writing, after reaching its highest level in more than two weeks earlier. The pair comes under pressure from both a stronger Canadian Dollar (CAD), supported by rising Oil prices, and a modest pullback in the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-outperforms-us-dollar-as-geopolitical-tensions-boost-oil-202608311453",
+      "published": "2026-08-31T14:53:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Treasury Secretary Bessent: We're working with Trump Budget Director Vought on a fiscal consolidation package - CNBC Interview.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9743157/US-Treasury-Secretary-Bessent-Were-working-with-Trump-Budget-Director-Vought-on-a-fiscal-consolidation-package---CNBC-Interview.aspx?xy=rss",
+      "published": "2026-08-31T14:37:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Treasury Secretary Bessent: Core inflation has remained very restrained.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9743156/US-Treasury-Secretary-Bessent-Core-inflation-has-remained-very-restrained.aspx?xy=rss",
+      "published": "2026-08-31T14:36:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Treasury Secretary Bessent: Traditionally, you don't raise rates into a supply shock.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9743155/US-Treasury-Secretary-Bessent-Traditionally-you-dont-raise-rates-into-a-supply-shock-.aspx?xy=rss",
+      "published": "2026-08-31T14:35:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Treasury Secretary Bessent: I am not going to speculate on what the Fed may do or not.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9743154/US-Treasury-Secretary-Bessent-I-am-not-going-to-speculate-on-what-the-Fed-may-do-or-not.aspx?xy=rss",
+      "published": "2026-08-31T14:35:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Treasury Secretary Bessent: The 10-year yield is flat since  Trump came in.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9743152/US-Treasury-Secretary-Bessent-The-10-year-yield-is-flat-since--Trump-came-in.aspx?xy=rss",
+      "published": "2026-08-31T14:34:43+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Treasury Secretary Bessent: Fed's Chair Warsh and I are on the same page on bonds.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9743150/US-Treasury-Secretary-Bessent-Feds-Chair-Warsh-and-I-are-on-the-same-page-on-bonds.aspx?xy=rss",
+      "published": "2026-08-31T14:33:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Dallas Fed Mfg. Bus. Index Actual 11.6 (Forecast 1.6, Previous 1.30)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9743126/Dallas-Fed-Mfg-Bus-Index-Actual-116-Forecast-16-Previous-130.aspx?xy=rss",
+      "published": "2026-08-31T14:30:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Treasury Secretary Bessent: Trump doesn't think Iran is ready to make a deal.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9743125/US-Treasury-Secretary-Bessent-Trump-doesnt-think-Iran-is-ready-to-make-a-deal.aspx?xy=rss",
+      "published": "2026-08-31T14:30:03+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound: Downside risks with 1.3480 in sight against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report that GBP/USD fell sharply to 1.3527 and closed at 1.3540, contradicting expectations for range trading. Intraday, they see limited further losses within 1.3520–1.3570 due to oversold conditions.",
-      "link": "https://www.fxstreet.com/news/british-pound-downside-risks-with-13480-in-sight-against-us-dollar-uob-202608310628",
-      "published": "2026-08-31T06:28:31+00:00",
+      "title": "Canadian Dollar: Rangebound near fair value against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret observe that the Canadian Dollar (CAD) is little changed, with USD/CAD trading around their fundamental equilibrium estimate near 1.3920.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-rangebound-near-fair-value-against-us-dollar-scotiabank-202608311420",
+      "published": "2026-08-31T14:20:24+00:00",
       "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Range consolidation after sharp decline against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD surged to 1.2754 after previously expecting a tighter range, with the Singapore Dollar (SGD) Nominal Effective Exchange Rate (S$NEER) still above its mid-point.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-consolidation-after-sharp-decline-against-us-dollar-uob-202608311401",
+      "published": "2026-08-31T14:01:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro holds modest gains as US Dollar lacks momentum, Eurozone inflation in focus",
+      "summary": "EUR/USD holds modest gains on Monday during American trading hours as the US Dollar (USD) struggles to build on Friday’s strength, which followed hawkish remarks from Federal Reserve (Fed) Chair Kevin Warsh at the Jackson Hole Symposium.",
+      "link": "https://www.fxstreet.com/news/euro-holds-modest-gains-as-us-dollar-lacks-momentum-eurozone-inflation-in-focus-202608311354",
+      "published": "2026-08-31T13:54:20+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver rebounds, but Fed rate-hike threat hangs over the metal",
+      "summary": "Silver (XAG/USD) rebounds on Monday and trades around $66.70 at the time of writing, up 0.40% on the day. The main obstacle to a stronger recovery in Silver remains the shift in expectations surrounding the Federal Reserve’s (Fed) monetary policy.",
+      "link": "https://www.fxstreet.com/news/silver-rebounds-but-fed-rate-hike-threat-hangs-over-the-metal-202608311311",
+      "published": "2026-08-31T13:11:23+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Warsh boosts policy credibility – OCBC",
+      "summary": "OCBC FX Strategist Sim Moh Siong and Christopher Wong note that Fed Chair Warsh’s Jackson Hole speech eased debasement concerns and supported the Dollar, with Gold lower and the US yield curve flatter.",
+      "link": "https://www.fxstreet.com/news/us-dollar-warsh-boosts-policy-credibility-ocbc-202608311242",
+      "published": "2026-08-31T12:42:42+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Oil: geopolitical support and Venezuela deal risk – BNY",
+      "summary": "BNY’s Wee Khoon Chong notes Oil prices are underpinned by renewed U.S.–Iran tensions near the Strait of Hormuz and President Trump’s claim of a deal granting U.S. majority control over Venezuela’s vast reserves.",
+      "link": "https://www.fxstreet.com/news/oil-geopolitical-support-and-venezuela-deal-risk-bny-202608311227",
+      "published": "2026-08-31T12:27:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: Warsh’s hawkish shift reshapes rate outlook – Rabobank",
+      "summary": "Rabobank’s Elwin de Groot discusses Fed Chair Kevin Warsh’s Jackson Hole speech and its impact on US rates. He notes that Warsh signalled dissatisfaction with recent inflation and openness to further hikes, lifting near-term rate expectations while lowering longer-term premia.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-warshs-hawkish-shift-reshapes-rate-outlook-rabobank-202608311210",
+      "published": "2026-08-31T12:10:04+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Germany flash HICP growth remains slower than expected at 2.9% in August",
+      "summary": "Preliminary Germany Harmonized Index of Consumer Prices (HICP) data for August arrives at 2.9% YoY, lower than estimates of 3.1% but higher than the previous reading of 2.8%. On a monthly basis, inflation grew by 0.2%, slower than 0.3% estimates and the prior release of 0.9%.",
+      "link": "https://www.fxstreet.com/news/germany-flash-hicp-growth-remains-slower-than-expected-at-29-in-august-202608311202",
+      "published": "2026-08-31T12:02:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: ECB tightening expectations support pair – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad expects Eurozone August headline Consumer Price Index (CPI) to accelerate to 3.3% year-on-year on higher energy, with core inflation steady at 2.5%.",
+      "link": "https://www.fxstreet.com/news/euro-ecb-tightening-expectations-support-pair-bbh-202608311147",
+      "published": "2026-08-31T11:47:38+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: Faces selling pressure above 160.00",
+      "summary": "The US Dollar (USD) is down 0.3% to near 159.65 against the Japanese Yen (JPY) during the European trading session on Monday. The USD/JPY pair declines as the Japanese currency outperforms its peers on hopes of support from the United States (US)-Japan joint intervention.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-faces-selling-pressure-above-16000-202608311143",
+      "published": "2026-08-31T11:43:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro languishes around 1.1600 amid Fed hiking hopes, fresh tensions in Iran",
+      "summary": "The Euro (EUR) posts marginal gains against the US Dollar (USD) on Monday, but it remains close to Friday’s lows at 1.1578, as bulls fail to find significant acceptance above 1.1600.",
+      "link": "https://www.fxstreet.com/news/euro-languages-around-11600-amid-fed-hiking-hopes-fresh-tensions-in-iran-202608311134",
+      "published": "2026-08-31T11:34:50+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold consolidates after sharp decline as higher-for-longer Fed outlook weighs",
+      "summary": "Gold (XAU/USD) fluctuates between gains and losses on Monday after opening the week lower and briefly falling below $4,400, its lowest level since August 19, during Asian trading hours. The metal retains a near-term bearish bias as hawkish Federal Reserve (Fed) expectations keep buyers cautious.",
+      "link": "https://www.fxstreet.com/news/gold-holds-near-4-450-as-fed-rate-hike-expectations-keep-buyers-cautious-202608311131",
+      "published": "2026-08-31T11:31:56+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar holds above 0.5900 as traders await RBNZ decision",
+      "summary": "NZD/USD trades around 0.5910 on Monday, virtually unchanged on the day at the time of writing. The New Zealand Dollar (NZD) retains some support from improving Chinese activity data, but the move remains limited as investors prepare for the Reserve Bank of New Zealand (RBNZ) decision on Wednesday.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-above-05900-as-traders-await-rbnz-decision-202608311117",
+      "published": "2026-08-31T11:17:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Monday! Let's see XAUUSD",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w37dav/monday_lets_see_xauusd/\"> <img alt=\"Monday! Let's see XAUUSD\" src=\"https://preview.redd.it/ivv01hbh5omh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d48f03b26c7cb841d2dc9bd5aee3ab4a5d6900d8\" title=\"Monday! Let's see XAUUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Gold is showing a strong bullish recovery af",
+      "link": "https://www.reddit.com/r/Forex/comments/1w37dav/monday_lets_see_xauusd/",
+      "published": "2026-08-31T08:12:27+00:00",
+      "score": 4
     },
     {
       "source": "r/Forex",
@@ -28,132 +217,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w35h8z/is_gold_ready_for_bounce_from_this_demand_zone/",
       "published": "2026-08-31T06:26:36+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound holds losses amid geopolitical tensions, Fed tightening hopes",
-      "summary": "The British Pound (GBP) edges up on Monday but remains close to two-week lows against the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-losses-amid-geopolitical-tensions-fed-tightening-hopes-202608310624",
-      "published": "2026-08-31T06:24:12+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Warsh speech weighs on EUR against US Dollar – Danske Bank",
-      "summary": "Danske Research Team notes that Federal Reserve (Fed) Chair Kevin Warsh’s hawkish Jackson Hole speech pushed EUR/USD lower, with markets now pricing September as nearly a coin-flip for a rate hike.",
-      "link": "https://www.fxstreet.com/news/euro-warsh-speech-weighs-on-eur-against-us-dollar-danske-bank-202608310619",
-      "published": "2026-08-31T06:19:37+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9742483/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-08-31T06:11:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9742479/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-08-31T06:09:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro falls against Japanese Yen ahead of German inflation data",
-      "summary": "The Euro (EUR) is down 0.1% to near 185.20 against the Japanese Yen (JPY) during the European trading session on Monday. The cross faces pressure as the Japanese Yen (JPY) outperforms its peers amid fears that the Bak of Japan (BoJ) will raise interest rates in the September policy meeting.",
-      "link": "https://www.fxstreet.com/news/euro-falls-against-japanese-yen-ahead-of-german-inflation-data-202608310603",
-      "published": "2026-08-31T06:03:10+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Gains ground to near 1.1600, bullish vibe prevails above 100-day SMA",
-      "summary": "The EUR/USD pair trades in positive territory around 1.1590 during the early European trading hours on Monday. However, the potential upside for the major pair might be limited as traders ramped up bets on a rate hike after hawkish remarks by Federal Reserve (Fed) Chair Kevin Warsh.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-gains-ground-to-near-11600-bullish-vibe-prevails-above-100-day-sma-202608310556",
-      "published": "2026-08-31T05:56:22+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: Retreats from one-month top as bullish bias remains below 160.00",
-      "summary": "The USD/JPY pair retreats from the 160.20 area, or a one-month high retested earlier this Monday, and, for now, seems to have snapped a five-day winning streak. Spot prices slide to the 159.80-159.75 region during the Asian session, though the downside potential seems limited.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-retreats-from-one-month-top-as-bullish-bias-remains-below-16000-202608310540",
-      "published": "2026-08-31T05:40:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee opens lower as renewed US-Iran tensions lift oil prices",
-      "summary": "The Indian Rupee (INR) opens slightly lower against the US Dollar (USD) at the start of the week. The USD/INR pair ticks up to near 95.43, as higher oil prices due to renewed tensions between the United States (US) and Iran have weighed on the Indian currency.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-lower-as-renewed-us-iran-tensions-lift-oil-prices-202608310525",
-      "published": "2026-08-31T05:25:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "AUD/USD Price Forecast: Holds above 0.7150 on soft USD; Fed/Iran risks curb upside",
-      "summary": "The AUD/USD pair attracts some buyers in the vicinity of mid-0.7100s at the start of a new week, stalling Friday's retracement slide from its highest level since mid-May. Spot prices, however, lack bullish conviction and remain below the 0.7200 mark through the Asian session.",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-holds-above-07150-on-soft-usd-fed-iran-risks-curb-upside-202608310502",
-      "published": "2026-08-31T05:02:32+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold pares intraday losses to sub-$4,400 levels on softer USD; not out of the woods yet",
-      "summary": "Gold (XAU/USD) recovers slightly from sub-$4,400 levels – a one-and-a-half-week low – touched during the Asian session on Monday, though the upside potential seems limited. A softer US Dollar (USD) offers some support to the precious metal and helps trim a part of its intraday losses.",
-      "link": "https://www.fxstreet.com/news/gold-drops-to-nearly-two-week-low-as-hawkish-fed-bets-rise-amid-oil-driven-inflation-fears-202608310440",
-      "published": "2026-08-31T04:40:55+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "summary": "Gold prices fell in India on Monday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202608310435",
-      "published": "2026-08-31T04:35:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc gains as US Dollar weakens despite Fed Chair Warsh’s hawkish remarks",
-      "summary": "USD/CHF holds losses after registering modest gains in the previous day, trading around 0.8090 during the Asian hours on Monday. The currency pair edges lower as the US Dollar (USD) weakens following comments from Goldman Sachs chief economist Jan Hatzius.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-weakens-despite-fed-chair-warshs-hawkish-remarks-202608310411",
-      "published": "2026-08-31T04:11:40+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index trades slightly lower at the start of the US NFP week",
-      "summary": "The US Dollar (USD) is slightly down in the Asian trading session at the start of the week. The US Dollar Index (DXY), which gauges the Greenback’s value against its peers, corrects 0.1% to near 99.58 after a strong Friday.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-slightly-lower-at-the-start-of-the-us-nfp-week-202608310351",
-      "published": "2026-08-31T03:51:30+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD falls to near $66.00 amid Fed Chair Warsh’s hawkish tone",
-      "summary": "Silver price (XAG/USD) extends its losses for the second successive day, trading around $66.10 per troy ounce during the Asian hours on Monday. The non-yielding Silver declined following hawkish remarks from Federal Reserve (Fed) Chair Kevin Warsh.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-falls-to-near-6600-amid-fed-chair-warshs-hawkish-tone-202608310309",
-      "published": "2026-08-31T03:09:31+00:00",
-      "score": 5
     },
     {
       "source": "r/Forex",
@@ -207,33 +270,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w1h88v/monday_gold_bias/\"> <img alt=\"Monday Gold Bias? 🧐\" src=\"https://preview.redd.it/50jfx60k1amh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2048bc4fab6ed8e9e7d687ea3c0cbfe4604684ee\" title=\"Monday Gold Bias? 🧐\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Looking at the D1 chart, which side are you seeing — BUY 📈 o",
       "link": "https://www.reddit.com/r/Forex/comments/1w1h88v/monday_gold_bias/",
       "published": "2026-08-29T08:45:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "What was your favorite trade of the week?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I only had one trade this week, which was an AUD/CHF long. I closed it this morning based on where price is currently sitting.</p> <p>I also had a nice technical setup on AUD/USD, but with all the news, fundamentals, and DXY movement this week, I felt there was too much risk in splitting my exposure on AUD. Thank goodness I didn’t take the trade.</p> <p>It was a s",
-      "link": "https://www.reddit.com/r/Forex/comments/1w0ytc1/what_was_your_favorite_trade_of_the_week/",
-      "published": "2026-08-28T18:34:47+00:00",
-      "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Need help understanding NASDAQ",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>What should someone keep in mind while trading Nas 100? Or if someone can share a proven strategy that works.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/miloshahpk\"> /u/miloshahpk </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1w0yivi/need_help_understanding_nasdaq/\">[link]</a></span> &#32; <span><a h",
-      "link": "https://www.reddit.com/r/Forex/comments/1w0yivi/need_help_understanding_nasdaq/",
-      "published": "2026-08-28T18:23:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "🔥 GOLD — Supply Zone Rejection",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w0mnlp/gold_supply_zone_rejection/\"> <img alt=\"🔥 GOLD — Supply Zone Rejection\" src=\"https://preview.redd.it/g2kl5rmpd3mh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e318b4c7878e42e4af7b4fad9043c5a45d0feaeb\" title=\"🔥 GOLD — Supply Zone Rejection\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Price is reacting from 4605–",
-      "link": "https://www.reddit.com/r/Forex/comments/1w0mnlp/gold_supply_zone_rejection/",
-      "published": "2026-08-28T10:21:15+00:00",
       "score": 1
     },
     {
