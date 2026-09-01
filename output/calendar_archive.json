@@ -2424,6 +2424,14 @@
     "previous": "6.3%"
   },
   {
+    "title": "German Buba President Nagel Speaks",
+    "country": "EUR",
+    "date": "2026-09-01T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "FOMC Member Barr Speaks",
     "country": "USD",
     "date": "2026-09-01T09:05:00-04:00",
@@ -2528,6 +2536,14 @@
     "previous": ""
   },
   {
+    "title": "GDT Price Index",
+    "country": "NZD",
+    "date": "2026-09-01T11:25:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "2.3%"
+  },
+  {
     "title": "API Weekly Statistical Bulletin",
     "country": "USD",
     "date": "2026-09-01T16:30:00-04:00",
@@ -2620,7 +2636,7 @@
     "country": "USD",
     "date": "2026-09-02T08:15:00-04:00",
     "impact": "Medium",
-    "forecast": "48K",
+    "forecast": "47K",
     "previous": "44K"
   },
   {
@@ -2660,7 +2676,7 @@
     "country": "USD",
     "date": "2026-09-02T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "-0.4M",
     "previous": "0.1M"
   },
   {
@@ -2908,7 +2924,7 @@
     "country": "USD",
     "date": "2026-09-03T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "30B",
     "previous": "15B"
   },
   {
