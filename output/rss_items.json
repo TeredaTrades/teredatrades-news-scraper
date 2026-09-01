@@ -1,15 +1,105 @@
 {
-  "updated_at": "2026-08-31T20:42:05.036711+00:00",
-  "count": 58,
+  "updated_at": "2026-09-01T00:06:21.928954+00:00",
+  "count": 44,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Apple vs. OpenAI – Trade Secret Case",
-      "summary": "<ul><li>Apple is asking a US federal court to expedite discovery in its trade secret case against OpenAI.</li><li>Apple says new evidence emerged from a MacBook OpenAI provided on August 21 as part of the legal proceedings.</li><li>Apple alleges a defendant trained an AI agent using proprietary Apple information.</li><li>Apple also alleges the defendant accessed a power converter circuit schematic",
-      "link": "https://www.financialjuice.com/News/9743545/Apple-vs-OpenAI--Trade-Secret-Case.aspx?xy=1",
-      "published": "2026-08-31T20:15:57+00:00",
+      "title": "FinancialJuice: Ireland s&p global august manufacturing pmi at 55.4 vs 55.1 in july",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9743777/Ireland-sp-global-august-manufacturing-pmi-at-554-vs-551-in-july.aspx?xy=rss",
+      "published": "2026-09-01T00:01:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold edges lower below $4,450 as Middle East tensions add inflation pressure",
+      "summary": "Gold price (XAU/USD) declines to near $4,445 during the early Asian trading hours on Tuesday. The precious metal loses momentum as ongoing tensions in the Middle East stoked concerns about inflationary pressures that could make the Federal Reserve hike interest rates.",
+      "link": "https://www.fxstreet.com/news/gold-edges-lower-below-4-450-as-middle-east-tensions-add-inflation-pressure-202608312330",
+      "published": "2026-08-31T23:30:29+00:00",
+      "score": 7
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia to supply chips for Texas data center, hold lease under Anthropic agreement - WSJ",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9743738/Nvidia-to-supply-chips-for-Texas-data-center-hold-lease-under-Anthropic-agreement---WSJ.aspx?xy=rss",
+      "published": "2026-08-31T23:27:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Anthropic inks $35 billion cloud agreement supported by Nvidia - WSJ",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9743737/Anthropic-inks-35-billion-cloud-agreement-supported-by-Nvidia---WSJ.aspx?xy=rss",
+      "published": "2026-08-31T23:26:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar flat as Oil spike, Fed hawkish bets keep traders cautious",
+      "summary": "The Aussie Dollar traded sideways on Monday, unchanged at 0.7165, as a jump in energy prices sparked by the Middle East conflict pushed US Treasury yields higher, but not the Greenback.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-flat-as-oil-spike-fed-hawkish-bets-keep-traders-cautious-202608312300",
+      "published": "2026-08-31T23:00:10+00:00",
       "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Nobody was ever paying the British Pound for its hawks",
+      "summary": "GBP/USD trades near 1.3550 on Monday, a fraction higher on the session after three consecutive declines took the pair more than a cent off the six-month high just short of 1.3700.",
+      "link": "https://www.fxstreet.com/news/nobody-was-ever-paying-the-british-pound-for-its-hawks-202608312255",
+      "published": "2026-08-31T22:55:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Japanese Yen gets nothing for a strong consumption print",
+      "summary": "USD/JPY trades a little beneath 160.00 on Monday, down around 0.2% after an early push above the handle was sold back inside the session. The 50-day Exponential Moving Average (EMA) sits directly on 160.00 and has been descending since the late-July intervention, while the 200-day sits on 158.00.",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-gets-nothing-for-a-strong-consumption-print-202608312245",
+      "published": "2026-08-31T22:45:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The New Zealand Dollar has nothing left to win",
+      "summary": "NZD/USD trades a little above 0.5900 on Monday, barely changed on the session and around seventy pips beneath the late-August peak that stalled just short of 0.6000.",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-has-nothing-left-to-win-202608312235",
+      "published": "2026-08-31T22:35:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "One more with Gold /XAUUSD",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w3t98n/one_more_with_gold_xauusd/\"> <img alt=\"One more with Gold /XAUUSD\" src=\"https://preview.redd.it/g4x2u121esmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6ff6eedf7d5604aaf4e3fb6275ed6c29e5affef5\" title=\"One more with Gold /XAUUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>My POV? </p> <p>Fundamental:</p> <p>📈",
+      "link": "https://www.reddit.com/r/Forex/comments/1w3t98n/one_more_with_gold_xauusd/",
+      "published": "2026-08-31T22:27:29+00:00",
+      "score": 6
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "My H1 setup literally changes depending on which chart I use",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I thought I was losing my mind with EURUSD recently. I mark most of my structure on H1 using TradingView, then execute through Moon.</p> <p>Started comparing them side by side and realized some of my H1 candles aren't closing at the same points because of the broker server time. On a few setups it completely changes where I would mark the swing high or even whethe",
+      "link": "https://www.reddit.com/r/Forex/comments/1w3qjxo/my_h1_setup_literally_changes_depending_on_which/",
+      "published": "2026-08-31T20:50:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "NZD/USD Price Forecast: Bulls defend trendline above 0.5900",
+      "summary": "The NZD/USD pair is poised to finish Monday’s session virtually unchanged near its opening price, despite a modest 0.08% gain as the US Dollar (USD) weakens amid rising tensions in the Middle East. The pair trades above 0.5900.",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bulls-defend-trendline-above-05900-202608312045",
+      "published": "2026-08-31T20:45:54+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
@@ -18,24 +108,6 @@
       "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight that the Japanese Yen (JPY) is modestly stronger versus the US Dollar (USD), helped by upbeat domestic data including robust retail sales and industrial production.",
       "link": "https://www.fxstreet.com/news/japanese-yen-supported-below-160-against-us-dollar-scotiabank-202608312012",
       "published": "2026-08-31T20:12:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump ends remarks at the White House event.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743541/Trump-ends-remarks-at-the-White-House-event.aspx?xy=1",
-      "published": "2026-08-31T20:04:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Venezuela leaving OPEC: That's up to them.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743521/Trump-on-Venezuela-leaving-OPEC-Thats-up-to-them.aspx?xy=1",
-      "published": "2026-08-31T19:57:50+00:00",
       "score": 1
     },
     {
@@ -57,147 +129,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Xi has been relatively inactive with Iran.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743519/Trump-Xi-has-been-relatively-inactive-with-Iran.aspx?xy=1",
-      "published": "2026-08-31T19:52:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: +1107 mln<br />Nasdaq 100: +3322 mln<br />Dow 30: +882 mln<br />Mag 7: +1854 mln",
-      "link": "https://www.financialjuice.com/News/9743518/MOC-Imbalance.aspx?xy=1",
-      "published": "2026-08-31T19:50:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: have a lot of respect for Warsh.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743517/Trump-have-a-lot-of-respect-for-Warsh.aspx?xy=1",
-      "published": "2026-08-31T19:49:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump reiterates that interest rates are too high.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743516/Trump-reiterates-that-interest-rates-are-too-high.aspx?xy=1",
-      "published": "2026-08-31T19:49:15+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Warsh: He'll do what he has to do.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743515/Trump-on-Warsh-Hell-do-what-he-has-to-do.aspx?xy=1",
-      "published": "2026-08-31T19:48:59+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Mexican Peso appreciates as USD/MXN dives on USD weakness",
       "summary": "The Mexican Peso (MXN) appreciates by about 0.20% against the US Dollar (USD) on Monday, even as risk appetite deteriorated amid the escalation of the US-Iran conflict, which triggered a jump in energy prices.",
       "link": "https://www.fxstreet.com/news/mexican-peso-appreciates-as-usd-mxn-dives-on-usd-weakness-202608311948",
       "published": "2026-08-31T19:48:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran doesn't know who the leader is.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743514/Trump-Iran-doesnt-know-who-the-leader-is.aspx?xy=1",
-      "published": "2026-08-31T19:47:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Iran: We'll see what happens.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743513/Trump-on-Iran-Well-see-what-happens.aspx?xy=1",
-      "published": "2026-08-31T19:47:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Averaging 30 ships a night out of Hormuz.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743512/Trump-Averaging-30-ships-a-night-out-of-Hormuz.aspx?xy=1",
-      "published": "2026-08-31T19:47:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Ships came through Hormuz last night with navy assist.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743511/Trump-Ships-came-through-Hormuz-last-night-with-navy-assist.aspx?xy=1",
-      "published": "2026-08-31T19:46:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: A lot of oil is coming out of Hormuz.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743509/Trump-A-lot-of-oil-is-coming-out-of-Hormuz.aspx?xy=1",
-      "published": "2026-08-31T19:46:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: The Strait of Hormuz is in extremely good shape.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743502/Trump-The-Strait-of-Hormuz-is-in-extremely-good-shape.aspx?xy=1",
-      "published": "2026-08-31T19:46:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Iran strikes will be limited.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743497/Trump-Iran-strikes-will-be-limited.aspx?xy=1",
-      "published": "2026-08-31T19:45:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Tuesday FX Option Expiries",
-      "summary": "<div><ul><li><strong>EUR/USD:</strong> 1.1600 (EU1.83b), 1.1650 (EU1.78b), 1.1540 (EU1.18b)</li><li><strong>USD/JPY:</strong> 156.25 ($802m), 161.00 ($540.9m), 158.90 ($537.8m)</li><li><strong>AUD/USD:</strong> 0.7100 (AUD663.1m), 0.6820 (AUD590.3m), 0.6940 (AUD549.7m)</li><li><strong>USD/CAD:</strong> 1.4250 ($647.3m), 1.3975 ($434m), 1.4165 ($426m)</li><li><strong>USD/BRL: </strong>5.3700 ($320.",
-      "link": "https://www.financialjuice.com/News/9743490/Tuesday-FX-Option-Expiries.aspx?xy=1",
-      "published": "2026-08-31T19:44:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Now have 26 companies representing 90% of the pharma market.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743468/Trump-Now-have-26-companies-representing-90-of-the-pharma-market.aspx?xy=1",
-      "published": "2026-08-31T19:12:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Nine new pharma companies committing to low prices.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743467/Trump-Nine-new-pharma-companies-committing-to-low-prices.aspx?xy=1",
-      "published": "2026-08-31T19:09:06+00:00",
       "score": 1
     },
     {
@@ -244,69 +181,6 @@
       "link": "https://www.fxstreet.com/news/forex-today-attention-shifts-to-us-ism-jolts-and-inflation-in-europe-202608311749",
       "published": "2026-08-31T17:49:06+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound edges higher as USD softens ahead US jobs data",
-      "summary": "The Pound Sterling (GBP) advances during the North American session on Monday, up a modest 0.09%, as the US Dollar (USD) edges lower despite last Friday’s hawkish remarks from Federal Reserve (Fed) Chair Kevin Warsh, ahead of a packed week of economic data from the United States (US).",
-      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-as-usd-softens-ahead-us-jobs-data-202608311634",
-      "published": "2026-08-31T16:34:28+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Dollar Index falls through a war and a hawkish repricing",
-      "summary": "The US Dollar Index (DXY) trades just beneath 99.50 and 0.26% lower on Monday, on a session that handed it every input a currency is supposed to rally on.",
-      "link": "https://www.fxstreet.com/news/the-dollar-index-falls-through-a-war-and-a-hawkish-repricing-202608311630",
-      "published": "2026-08-31T16:30:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Dow Jones Industrial Average is short its own war",
-      "summary": "The Dow Jones Industrial Average (DJIA) trades near 53,250, roughly 300 points lower on the session on Monday, after American forces struck two Iranian rocket launchers on Larak Island and Tehran answered with attacks on bases in Jordan and assets in the United Arab Emirates.",
-      "link": "https://www.fxstreet.com/news/the-dow-jones-industrial-average-is-short-its-own-war-202608311552",
-      "published": "2026-08-31T15:52:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen advances as Bessent expects further strengthening",
-      "summary": "USD/JPY declines 0.21% on Monday and trades around 159.80 at the time of writing, after briefly moving above the psychological 160.00 level.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-advances-as-bessent-expects-further-strengthening-202608311548",
-      "published": "2026-08-31T15:48:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Treasury Secretary Bessent says Oil prices to fall, Yen to strengthen",
-      "summary": "Scott Bessent, the US Treasury Secretary, crossed the wires in an interview with CNBC, saying Oil prices will come down and that US President Donald Trump has been saying that Iran is not ready for a deal.",
-      "link": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-says-oil-prices-to-fall-yen-to-strengthen-202608311505",
-      "published": "2026-08-31T15:05:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc gains as US Dollar loses post-Jackson Hole momentum",
-      "summary": "USD/CHF trades with a downside bias on Monday as the US Dollar (USD) struggles to gain traction despite rising Federal Reserve (Fed) interest rate hike expectations and Middle East tensions. At the time of writing, the pair trades around 0.8080, down roughly 0.15% on the day.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-loses-post-jackson-hole-momentum-202608311504",
-      "published": "2026-08-31T15:04:55+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold consolidates after sharp decline as higher-for-longer Fed outlook weighs",
-      "summary": "Gold (XAU/USD) fluctuates between gains and losses on Monday after opening the week lower and briefly falling below $4,400, its lowest level since August 19, during Asian trading hours. The metal retains a near-term bearish bias as hawkish Federal Reserve (Fed) expectations keep buyers cautious.",
-      "link": "https://www.fxstreet.com/news/gold-holds-near-4-450-as-fed-rate-hike-expectations-keep-buyers-cautious-202608311131",
-      "published": "2026-08-31T11:31:56+00:00",
-      "score": 5
     },
     {
       "source": "r/Forex",
