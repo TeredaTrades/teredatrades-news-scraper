@@ -1,78 +1,150 @@
 {
-  "updated_at": "2026-09-01T00:06:21.928954+00:00",
-  "count": 44,
+  "updated_at": "2026-09-01T05:10:42.040937+00:00",
+  "count": 42,
   "items": [
     {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah declines despite higher August inflation",
+      "summary": "USD/IDR edges higher after registering minor losses, trading around 17,770 during the Asian hours on Tuesday. The currency pair holds its ground as the US Dollar (USD) rebounds, driven by hawkish sentiment surrounding the Federal Reserve (Fed).",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-despite-higher-august-inflation-202609010506",
+      "published": "2026-09-01T05:06:43+00:00",
+      "score": 3
+    },
+    {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Ireland s&p global august manufacturing pmi at 55.4 vs 55.1 in july",
+      "title": "FinancialJuice: India HSBC and S&P Global August final manufacturing PMI at 52.8, forecast 53.0",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9743777/Ireland-sp-global-august-manufacturing-pmi-at-554-vs-551-in-july.aspx?xy=rss",
-      "published": "2026-09-01T00:01:03+00:00",
+      "link": "https://www.financialjuice.com/News/9744166/India-HSBC-and-SP-Global-August-final-manufacturing-PMI-at-528-forecast-530.aspx?xy=rss",
+      "published": "2026-09-01T05:00:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Netherlands s&p global august manufacturing pmi at 53.8 vs 54.4 in july",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9744165/Netherlands-sp-global-august-manufacturing-pmi-at-538-vs-544-in-july.aspx?xy=rss",
+      "published": "2026-09-01T05:00:04+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold edges lower below $4,450 as Middle East tensions add inflation pressure",
-      "summary": "Gold price (XAU/USD) declines to near $4,445 during the early Asian trading hours on Tuesday. The precious metal loses momentum as ongoing tensions in the Middle East stoked concerns about inflationary pressures that could make the Federal Reserve hike interest rates.",
-      "link": "https://www.fxstreet.com/news/gold-edges-lower-below-4-450-as-middle-east-tensions-add-inflation-pressure-202608312330",
-      "published": "2026-08-31T23:30:29+00:00",
-      "score": 7
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia to supply chips for Texas data center, hold lease under Anthropic agreement - WSJ",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743738/Nvidia-to-supply-chips-for-Texas-data-center-hold-lease-under-Anthropic-agreement---WSJ.aspx?xy=rss",
-      "published": "2026-08-31T23:27:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Anthropic inks $35 billion cloud agreement supported by Nvidia - WSJ",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9743737/Anthropic-inks-35-billion-cloud-agreement-supported-by-Nvidia---WSJ.aspx?xy=rss",
-      "published": "2026-08-31T23:26:32+00:00",
+      "title": "India Gold price today: Gold falls, according to FXStreet data",
+      "summary": "Gold prices fell in India on Tuesday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609010435",
+      "published": "2026-09-01T04:35:46+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Australian Dollar flat as Oil spike, Fed hawkish bets keep traders cautious",
-      "summary": "The Aussie Dollar traded sideways on Monday, unchanged at 0.7165, as a jump in energy prices sparked by the Middle East conflict pushed US Treasury yields higher, but not the Greenback.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-flat-as-oil-spike-fed-hawkish-bets-keep-traders-cautious-202608312300",
-      "published": "2026-08-31T23:00:10+00:00",
+      "title": "Japanese Yen weakens as 10-year bond yield hits 3% for first time since 1996",
+      "summary": "The USD/JPY pair edges higher to around 159.85 during the early European trading hours on Tuesday.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-as-10-year-bond-yield-hits-3-for-first-time-since-1996-202609010421",
+      "published": "2026-09-01T04:21:19+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Nobody was ever paying the British Pound for its hawks",
-      "summary": "GBP/USD trades near 1.3550 on Monday, a fraction higher on the session after three consecutive declines took the pair more than a cent off the six-month high just short of 1.3700.",
-      "link": "https://www.fxstreet.com/news/nobody-was-ever-paying-the-british-pound-for-its-hawks-202608312255",
-      "published": "2026-08-31T22:55:26+00:00",
+      "title": "Euro struggles near 1.1600 amid firm USD; looks to Eurozone HICP for some impetus",
+      "summary": "The EUR/USD pair struggles to capitalize on the overnight bounce from the 100-day Simple Moving Average (SMA), near the 1.1575-1.1580 region, or a one-and-a-half-week low, and drifts lower during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/euro-struggles-near-11600-amid-firm-usd-looks-to-eurozone-hicp-for-some-impetus-202609010418",
+      "published": "2026-09-01T04:18:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ‘Conflict of attrition’ in Iran could keep inflation high, ECB official Rehn warns - FT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9744105/Conflict-of-attrition-in-Iran-could-keep-inflation-high-ECB-official-Rehn-warns---FT.aspx?xy=rss",
+      "published": "2026-09-01T04:10:44+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "The Japanese Yen gets nothing for a strong consumption print",
-      "summary": "USD/JPY trades a little beneath 160.00 on Monday, down around 0.2% after an early push above the handle was sold back inside the session. The 50-day Exponential Moving Average (EMA) sits directly on 160.00 and has been descending since the late-July intervention, while the 200-day sits on 158.00.",
-      "link": "https://www.fxstreet.com/news/the-japanese-yen-gets-nothing-for-a-strong-consumption-print-202608312245",
-      "published": "2026-08-31T22:45:35+00:00",
+      "title": "Gold declines as rising Fed hike bets and US‑Iran tensions support USD",
+      "summary": "Gold (XAU/USD) struggles to capitalize on the previous day's bounce from sub-$4,400 levels, or a one-and-a-half-week low, and attracts fresh sellers during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/gold-declines-as-rising-fed-hike-bets-and-us-iran-tensions-support-usd-202609010350",
+      "published": "2026-09-01T03:50:29+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD trades flat around $66.60 ahead of US data",
+      "summary": "Silver price (XAG/USD) trades in a tight range at around $66.67 during the Asian trading session on Tuesday. The white metal consolidates as investors await the United States (US) ISM Manufacturing PMI data for August and the JOLTS Job Openings data for July, which will be published at 14:00 GMT.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-flat-around-6660-ahead-of-us-data-202609010317",
+      "published": "2026-09-01T03:17:14+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar remains subdued despite stronger Chinese PMI data",
+      "summary": "NZD/USD depreciates after posting minor gains in the previous day, trading around 0.5910 during the Asian hours on Tuesday.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-subdued-despite-stronger-chinese-pmi-data-202609010245",
+      "published": "2026-09-01T02:45:23+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "The New Zealand Dollar has nothing left to win",
-      "summary": "NZD/USD trades a little above 0.5900 on Monday, barely changed on the session and around seventy pips beneath the late-August peak that stalled just short of 0.6000.",
-      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-has-nothing-left-to-win-202608312235",
-      "published": "2026-08-31T22:35:26+00:00",
+      "title": "Australian Dollar holds gains following stronger Chinese PMI data",
+      "summary": "AUD/USD gains ground for the second consecutive day, trading around 0.7170 during the Asian hours on Tuesday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-stronger-on-stronger-chinese-pmi-data-202609010208",
+      "published": "2026-09-01T02:08:58+00:00",
       "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound softens to near 1.3550 on geopolitical tensions, hawkish Fed bets",
+      "summary": "The GBP/USD pair trades with mild losses around 1.3550 during the early Asian trading hours on Tuesday. The US Dollar (USD) edges higher against the British Pound (GBP) amid ongoing Middle East tensions and Federal Reserve (Fed) Chair Kevin Warsh's hawkish remarks at the Jackson Hole symposium.",
+      "link": "https://www.fxstreet.com/news/british-pound-softens-to-near-13550-on-geopolitical-tensions-hawkish-fed-bets-202609010200",
+      "published": "2026-09-01T02:00:42+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen bulls seem hesitant amid fiscal woes, wide US-Japan rate gap",
+      "summary": "The USD/JPY pair holds steady below the 160.00 psychological mark during the Asian session on Tuesday and remains close to a one-month peak, which was retested the previous day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-bulls-seem-hesitant-amid-fiscal-woes-wide-us-japan-rate-gap-202609010156",
+      "published": "2026-09-01T01:56:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7809 vs. 6.7828 previous",
+      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7809 compared to the previous day's fix of 6.7828 and 6.7170 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67809-vs-67828-previous-202609010115",
+      "published": "2026-09-01T01:15:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar consolidates vs USD as rising oil prices and Fed hike bets clash",
+      "summary": "The USD/CAD pair is hovering around mid-1.3800s during the Asian session on Tuesday, though the lack of follow-through selling warrants caution before positioning for an extension of the previous day's retracement slide from an over two-week top.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidates-vs-usd-as-rising-oil-prices-and-fed-hike-bets-clash-202609010113",
+      "published": "2026-09-01T01:13:53+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro holds gains above 1.1600 ahead of Eurozone HICP inflation data",
+      "summary": "The EUR/USD pair trades with mild gains around 1.1620 during the early Asian session on Tuesday. The US Dollar (USD) strengthens against the Euro (EUR) despite a hawkish Jackson Hole speech from Federal Reserve (Fed) Chair Kevin Warsh.",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11600-ahead-of-eurozone-hicp-inflation-data-202609010057",
+      "published": "2026-09-01T00:57:18+00:00",
+      "score": 3
     },
     {
       "source": "r/Forex",
@@ -91,96 +163,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w3qjxo/my_h1_setup_literally_changes_depending_on_which/",
       "published": "2026-08-31T20:50:19+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "NZD/USD Price Forecast: Bulls defend trendline above 0.5900",
-      "summary": "The NZD/USD pair is poised to finish Monday’s session virtually unchanged near its opening price, despite a modest 0.08% gain as the US Dollar (USD) weakens amid rising tensions in the Middle East. The pair trades above 0.5900.",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bulls-defend-trendline-above-05900-202608312045",
-      "published": "2026-08-31T20:45:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Supported below 160 against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight that the Japanese Yen (JPY) is modestly stronger versus the US Dollar (USD), helped by upbeat domestic data including robust retail sales and industrial production.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-supported-below-160-against-us-dollar-scotiabank-202608312012",
-      "published": "2026-08-31T20:12:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US President Trump says Iran strikes will be limited as Oil flows through Hormuz",
-      "summary": "US President Donald Trump said on Monday that strikes on Iran will be limited, following a previous story reported by Axios, which said that he and his senior aides are considering waging limited strikes in Hormuz to prevent Iran from reconstituting its radar and missile capabilities to attack ships",
-      "link": "https://www.fxstreet.com/news/us-president-trump-says-iran-strikes-will-be-limited-as-hormuz-oil-flows-202608311956",
-      "published": "2026-08-31T19:56:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "August was three good days for the Dow Jones Industrial Average",
-      "summary": "The Dow Jones Industrial Average closed just short of 53,300, roughly 250 points and about 0.5% lower, after American forces struck two Iranian rocket launchers on Larak Island and Tehran answered with missile and drone attacks on bases in Jordan and the United Arab Emirates.",
-      "link": "https://www.fxstreet.com/news/august-was-three-good-days-for-the-dow-jones-industrial-average-202608311955",
-      "published": "2026-08-31T19:55:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso appreciates as USD/MXN dives on USD weakness",
-      "summary": "The Mexican Peso (MXN) appreciates by about 0.20% against the US Dollar (USD) on Monday, even as risk appetite deteriorated amid the escalation of the US-Iran conflict, which triggered a jump in energy prices.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-appreciates-as-usd-mxn-dives-on-usd-weakness-202608311948",
-      "published": "2026-08-31T19:48:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold slips as Warsh Fed hike bets, Oil rally lift US yields",
-      "summary": "Gold (XAU/USD) price retreats some 0.40% on Monday after last Friday's hawkish remarks by Federal Reserve (Fed) Chair Kevin Warsh, which sparked speculation of a possible rate hike at the September meeting.",
-      "link": "https://www.fxstreet.com/news/gold-slips-as-warsh-fed-hike-bets-oil-rally-lift-us-yields-202608311836",
-      "published": "2026-08-31T18:36:48+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD consolidates below 100-Day SMA as momentum fades",
-      "summary": "Silver (XAG/USD) is little changed on Monday, caught between a weaker US Dollar (USD) and lingering hawkish Federal Reserve (Fed) expectations, leaving the metal without clear direction after tumbling 4.11% on Friday in the wake of Fed Chair Kevin Warsh's hawkish Jackson Hole comments.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-consolidates-below-100-day-sma-as-momentum-fades-202608311821",
-      "published": "2026-08-31T18:21:18+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar holds firm amid hawkish Fed and RBA expectations",
-      "summary": "AUD/USD trades in a narrow range on Monday as markets weigh hawkish expectations from both the Reserve Bank of Australia (RBA) and Federal Reserve (Fed). At the time of writing, the pair trades around 0.7167, with a modest pullback in the US Dollar (USD) helping cushion the downside.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-amid-hawkish-fed-and-rba-expectations-202608311753",
-      "published": "2026-08-31T17:53:16+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Limited downside, range defined against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report the Euro (EUR) is fractionally higher versus the US Dollar (USD), stabilizing after recent losses and attempting a modest recovery from upper-1.15 lows.",
-      "link": "https://www.fxstreet.com/news/euro-limited-downside-range-defined-against-us-dollar-scotiabank-202608311751",
-      "published": "2026-08-31T17:51:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: Attention shifts to US ISM, JOLTS and inflation in Europe",
-      "summary": "The US Dollar (USD) has faded part of Friday’s strong advance despite the geopolitical landscape seeming to have deteriorated a tad in the last few days, while market participants appear to have already digested the hawkish remarks from Chair Warsh in Jackson Hole.",
-      "link": "https://www.fxstreet.com/news/forex-today-attention-shifts-to-us-ism-jolts-and-inflation-in-europe-202608311749",
-      "published": "2026-08-31T17:49:06+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
