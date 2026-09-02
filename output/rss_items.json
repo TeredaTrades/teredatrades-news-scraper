@@ -1,159 +1,213 @@
 {
-  "updated_at": "2026-09-02T11:27:12.204316+00:00",
-  "count": 47,
+  "updated_at": "2026-09-02T15:14:41.748374+00:00",
+  "count": 49,
   "items": [
     {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoC's Gov. Macklem: Multiple rate increases could be needed if we felt inflation is a problem.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9747035/BoCs-Gov-Macklem-Multiple-rate-increases-could-be-needed-if-we-felt-inflation-is-a-problem.aspx?xy=rss",
+      "published": "2026-09-02T15:04:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoC's Gov. Macklem: We are seeing some spillover of global bond yields into Canada, we will take that into account.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9747006/BoCs-Gov-Macklem-We-are-seeing-some-spillover-of-global-bond-yields-into-Canada-we-will-take-that-into-account.aspx?xy=rss",
+      "published": "2026-09-02T14:57:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoC's Gov. Macklem: The central banks' tolerance for higher inflation is limited.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9747005/BoCs-Gov-Macklem-The-central-banks-tolerance-for-higher-inflation-is-limited.aspx?xy=rss",
+      "published": "2026-09-02T14:56:40+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold: Oil-driven rate repricing weighs on bullion – ING",
-      "summary": "ING commodities strategists Warren Patterson and Ewa Manthey say Gold has slipped to a two‑week low below $4,300/oz as higher Oil prices revive concerns over US inflation and limit near‑term Federal Reserve easing.",
-      "link": "https://www.fxstreet.com/news/gold-oil-driven-rate-repricing-weighs-on-bullion-ing-202609021117",
-      "published": "2026-09-02T11:17:25+00:00",
+      "title": "Euro: Headwinds from Fed and energy – ING",
+      "summary": "ING’s Chris Turner highlights growing headwinds for the Euro as higher energy prices and a more hawkish Federal Reserve push EUR/USD lower.",
+      "link": "https://www.fxstreet.com/news/euro-headwinds-from-fed-and-energy-ing-202609021454",
+      "published": "2026-09-02T14:54:17+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoC's Gov. Macklem: Where we go on rates is really going to be guided by our inflation forecasts and risks around that.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9747003/BoCs-Gov-Macklem-Where-we-go-on-rates-is-really-going-to-be-guided-by-our-inflation-forecasts-and-risks-around-that.aspx?xy=rss",
+      "published": "2026-09-02T14:48:53+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoC's Gov. Macklem: Elevated energy prices are a bigger inflation risk.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9746997/BoCs-Gov-Macklem-Elevated-energy-prices-are-a-bigger-inflation-risk.aspx?xy=rss",
+      "published": "2026-09-02T14:46:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoC's Gov. Macklem: Inflation is very concentrated in gasoline and oil prices. There is no clear end to it in sight.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9746986/BoCs-Gov-Macklem-Inflation-is-very-concentrated-in-gasoline-and-oil-prices-There-is-no-clear-end-to-it-in-sight.aspx?xy=rss",
+      "published": "2026-09-02T14:42:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoC's Gov. Macklem: Inflation is too high.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9746985/BoCs-Gov-Macklem-Inflation-is-too-high.aspx?xy=rss",
+      "published": "2026-09-02T14:41:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Data risks and CTA selling – TD Securities",
+      "summary": "TD Securities’ Ryan McKay and Bart Melek highlight that upcoming US Non-farm Payrolls (NFP) and a renewed hawkish Fed tone are critical for Gold, with prices near CTA (Commodity Trading Advisors) selling thresholds around $4,300/oz.",
+      "link": "https://www.fxstreet.com/news/gold-data-risks-and-cta-selling-td-securities-202609021429",
+      "published": "2026-09-02T14:29:35+00:00",
       "score": 3
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "United States Dollar Index rises to near 99.85 ahead of US ADP Employment data",
-      "summary": "The US Dollar (USD) reflects strength against its currency peers on Wednesday as United States bond yields surge further due to rising oil prices and hawkish Federal Reserve (Fed) expectations.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-to-near-9985-ahead-of-us-adp-employment-data-202609021116",
-      "published": "2026-09-02T11:16:17+00:00",
+      "title": "Canadian Dollar gains after Bank of Canada keeps rates unchanged",
+      "summary": "USD/CAD falls to around 1.3875 on Wednesday, down 0.15% on the day, following the Bank of Canada’s (BoC) monetary policy decision. The Canadian Dollar (CAD) strengthens against the US Dollar (USD) after the central bank leaves its policy rate unchanged at 2.25%, in line with market expectations.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-after-bank-of-canada-keeps-rates-unchanged-202609021420",
+      "published": "2026-09-02T14:20:21+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar: RBNZ cautious tightening path – UOB",
+      "summary": "UOB’s Lee Sue Ann notes that the Reserve Bank of New Zealand (RBNZ) raised the Official Cash Rate (OCR) to 2.75% and kept a tightening bias, stressing the need to prevent fuel-driven inflation from becoming entrenched.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rbnz-cautious-tightening-path-uob-202609021407",
+      "published": "2026-09-02T14:07:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen hits one-week high against US Dollar on intervention speculation",
+      "summary": "The Japanese Yen (JPY) outperforms its major peers on Wednesday, with USD/JPY falling nearly 0.90% on the day as hawkish Bank of Japan (BoJ) expectations support the Japanese currency.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-hits-one-week-high-against-us-dollar-on-intervention-speculation-202609021351",
+      "published": "2026-09-02T13:51:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: BoJ hawks raise hike risk – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad observes USD/JPY testing 160.00 as hawkish Bank of Japan comments briefly supported the Japanese Yen (JPY).",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-hawks-raise-hike-risk-bbh-202609021345",
+      "published": "2026-09-02T13:45:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Fed hike risk and yields back in focus – MUFG",
+      "summary": "According to MUFG’s Lee Hardman, rising energy prices are pushing market expectations for further Federal Reserve tightening, with 17bps priced for the 16th September FOMC and the 2-year US Treasury yield at a year-to-date high.",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-hike-risk-and-yields-back-in-focus-mufg-202609021322",
+      "published": "2026-09-02T13:22:13+00:00",
       "score": 3
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold declines as US-Iran escalation drives Oil prices, global bond yields higher",
-      "summary": "Gold (XAU/USD) remains on the defensive on Wednesday after tumbling nearly 2.7% the previous day.",
+      "title": "Silver rebounds above $64 as weak US jobs data challenges hawkish Fed bets",
+      "summary": "Silver (XAG/USD) rebounds on Wednesday, trading around $64.30 at the time of writing, up 0.32% on the day after recovering from earlier losses.",
+      "link": "https://www.fxstreet.com/news/silver-rebounds-above-64-as-weak-us-jobs-data-challenges-hawkish-fed-bets-202609021313",
+      "published": "2026-09-02T13:13:45+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro stays under pressure against US Dollar despite softer ADP data",
+      "summary": "EUR/USD consolidates its daily losses during American trading hours on Wednesday as the US Dollar (USD) holds firm, supported by hawkish Federal Reserve (Fed) expectations and escalating tensions in the Middle East.",
+      "link": "https://www.fxstreet.com/news/euro-stays-under-pressure-against-us-dollar-despite-softer-adp-data-202609021313",
+      "published": "2026-09-02T13:13:22+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "European Central Bank: Dovish hike path as energy drives inflation – ING",
+      "summary": "ING’s Carsten Brzeski expects the European Central Bank (ECB) to raise rates by 25bp next week, characterizing it as an ‘insurance’ or dovish hike. He notes Eurozone resilience, but stresses that inflation is mainly driven by energy, limiting the case for further tightening.",
+      "link": "https://www.fxstreet.com/news/european-central-bank-dovish-hike-path-as-energy-drives-inflation-ing-202609021310",
+      "published": "2026-09-02T13:10:50+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Weak fundamentals cap gains against US Dollar - BNY",
+      "summary": "BNY’s Geoff Yu notes that Canadian Dollar (CAD) positioning remains weak ahead of the Bank of Canada (BoC) decision, with USD/CAD dominating flows and cross-currency activity surprisingly limited.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-weak-fundamentals-cap-gains-against-us-dollar-bny-202609021253",
+      "published": "2026-09-02T12:53:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Hawkish Fed expectations underpin strength – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong highlight that higher Oil prices and renewed US-Iran tensions have pushed global bond yields higher and strengthened the US Dollar, with markets fully pricing a 25bp Federal Reserve (Fed) rate hike by October.",
+      "link": "https://www.fxstreet.com/news/us-dollar-hawkish-fed-expectations-underpin-strength-ocbc-202609021233",
+      "published": "2026-09-02T12:33:59+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed's Williams: Recent data have been encouraging on inflation",
+      "summary": "In an interview with CNBC on Wednesday, New York Federal Reserve (Fed) Bank President John Williams said that tariffs and the Middle East war are big drivers of inflation over target, per Reuters.",
+      "link": "https://www.fxstreet.com/news/feds-williams-recent-data-have-been-encouraging-on-inflation-202609021231",
+      "published": "2026-09-02T12:31:44+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Fed hawkishness offsets BoJ talk – ING",
+      "summary": "ING’s Chris Turner notes that USD/JPY is slightly lower after BoJ hawk Hajime Takata signalled the possibility of a 50bp September hike or back-to-back moves.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-fed-hawkishness-offsets-boj-talk-ing-202609021224",
+      "published": "2026-09-02T12:24:21+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "New york opening with XAUUSD SETUP",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w581mn/new_york_opening_with_xauusd_setup/\"> <img alt=\"New york opening with XAUUSD SETUP\" src=\"https://preview.redd.it/6mpbfxsph3nh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=115fbb5e78b6dd05b63434ac018acd221a8c29f7\" title=\"New york opening with XAUUSD SETUP\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Seems like a",
+      "link": "https://www.reddit.com/r/Forex/comments/1w581mn/new_york_opening_with_xauusd_setup/",
+      "published": "2026-09-02T11:47:44+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold turns positive as turmoil in Yen pairs hits US Dollar",
+      "summary": "Gold (XAU/USD) stages a sharp rebound on Wednesday, reversing all its earlier losses as a sudden rise in the Japanese Yen (JPY) triggers broad selling pressure on the US Dollar (USD). A pullback in US Treasury yields provides additional support to the precious metal.",
       "link": "https://www.fxstreet.com/news/gold-declines-as-us-iran-escalation-drives-oil-prices-global-bond-yields-higher-202609021114",
       "published": "2026-09-02T11:14:59+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "1.3990: Why the Canadian Dollar is sliding toward the resistance zone that could decide the next move",
-      "summary": "USD/CAD has staged a rebound from recent lows near 1.3730 as markets digest a steady policy stance from the Bank of Canada (BoC) amid renewed United States (US)-Canada trade friction.",
-      "link": "https://www.fxstreet.com/news/13990-why-the-canadian-dollar-is-sliding-toward-the-resistance-zone-that-could-decide-the-next-move-202609021058",
-      "published": "2026-09-02T10:58:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "0.8150: Swiss Franc hits monthly lows as Fed hiking bets, risk aversion buoy US Dollar",
-      "summary": "The Swiss Franc (CHF) extends its decline against a stronger US Dollar (USD) on Wednesday, and is nearly 0.9% down in the last two days.",
-      "link": "https://www.fxstreet.com/news/08150-swiss-franc-hits-monthly-lows-as-fed-hiking-bets-risk-aversion-buoy-us-dollar-202609021048",
-      "published": "2026-09-02T10:48:47+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: EU Commission issues 3-month EU bill with average yield of 2.499% at auction",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9746531/EU-Commission-issues-3-month-EU-bill-with-average-yield-of-2499-at-auction.aspx?xy=rss",
-      "published": "2026-09-02T10:09:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: PBOC: Trade tensions and protectionism weigh on the global economy through supply chains, inflation, and market expectations - Statement",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9746526/PBOC-Trade-tensions-and-protectionism-weigh-on-the-global-economy-through-supply-chains-inflation-and-market-expectations---Statement.aspx?xy=rss",
-      "published": "2026-09-02T10:08:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "RBNZ raises rates: Why is the New Zealand Dollar plunging?",
-      "summary": "NZD/USD plunges 1.45% on Wednesday, trading around 0.5810 at the time of writing, as the New Zealand Dollar (NZD) comes under heavy selling pressure despite an interest-rate hike from the Reserve Bank of New Zealand (RBNZ).",
-      "link": "https://www.fxstreet.com/news/rbnz-raises-rates-why-is-the-new-zealand-dollar-plunging-202609021007",
-      "published": "2026-09-02T10:07:39+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Scope to strengthen against US Dollar - Societe Generale",
-      "summary": "Societe Generale strategists see 1.3990/1.4030 as a key short-term resistance zone for USD/CAD following its rebound from 1.3730. They argue that a failure to break above this area could keep the broader decline intact, with 1.3840 as initial support.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-scope-to-strengthen-against-us-dollar-societe-generale-202609021005",
-      "published": "2026-09-02T10:05:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD tests $4,300 amid Fed tightening hopes, geopolitical tensions",
-      "summary": "Gold (XAU/USD) maintains its bearish trend on Wednesday, as higher geopolitical tensions and growing bets of a Federal Reserve (Fed) rate hike in September boost speculative support to the US Dollar.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-tests-4-300-amid-fed-tightening-hopes-geopolitical-tensions-202609021005",
-      "published": "2026-09-02T10:05:32+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "BoC set to keep interest rates steady despite sticky inflation",
-      "summary": "The Bank of Canada (BoC) is widely expected to keep its policy rate unchanged at 2.25% on Wednesday. This would be the seventh consecutive gathering with the central bank sitting on the fence.",
-      "link": "https://www.fxstreet.com/news/boc-set-to-keep-interest-rates-steady-despite-sticky-inflation-202609020945",
-      "published": "2026-09-02T09:45:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) fell on Wednesday, according to FXStreet data. Silver trades at $63.87 per troy ounce, down 0.35% from the $64.09 it cost on Tuesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609020930",
-      "published": "2026-09-02T09:30:29+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Brent: Higher inflation risks support prices – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that renewed US-Iran tensions have lifted Oil prices and revived global inflation concerns, with markets now fully pricing a Federal Reserve rate hike by October.",
-      "link": "https://www.fxstreet.com/news/brent-higher-inflation-risks-support-prices-ocbc-202609020928",
-      "published": "2026-09-02T09:28:32+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro tests two-week lows as risk aversion, Fed tightening bets buoy the US Dollar",
-      "summary": "The Euro (EUR) is trading lower against the US Dollar (USD) for the second consecutive day on Wednesday, weighed by risk aversion amid growing tensions in the Middle East, while rising bets of Federal Reserve (Fed) interest rate hikes support speculative demand for the US Dollar.",
-      "link": "https://www.fxstreet.com/news/euro-tests-two-week-lows-as-risk-aversion-fed-tightening-bets-buoy-the-us-dollar-202609020921",
-      "published": "2026-09-02T09:21:27+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/USD Price Forecast: Likely fall further towards 1.3420",
-      "summary": "The British Pound (GBP) is down 0.1% to near 1.3500 against the US Dollar (USD) during the European trading session on Wednesday.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-likely-fall-further-towards-13420-202609020917",
-      "published": "2026-09-02T09:17:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CAD Price Forecast: Eyes 50-day EMA after breaking above confluence around 1.3900",
-      "summary": "USD/CAD extends its gains for the second consecutive day. trading around 1.3940 during the European hours on Wednesday. The technical analysis of the daily chart indicates the pair is positioned above the descending channel top, signalling a bullish reversal.",
-      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-eyes-50-day-ema-after-breaking-above-confluence-around-13900-202609020903",
-      "published": "2026-09-02T09:03:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: BoC hold leaves risk of further losses against US Dollar - ING",
-      "summary": "ING’s Francesco Pesole expects the Bank of Canada to keep rates on hold at 2.25%, seeing very low risk of a surprise hike despite firmer headline Consumer Price Index (CPI) and solid growth.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-hold-leaves-risk-of-further-losses-against-us-dollar-ing-202609020848",
-      "published": "2026-09-02T08:48:16+00:00",
-      "score": 2
+      "score": 5
     },
     {
       "source": "r/Forex",
@@ -163,24 +217,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w52nlr/is_gold_about_to_reject_from_43204330/",
       "published": "2026-09-02T06:46:39+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar extends losses ahead of BoC's monetary policy decision",
-      "summary": "The Canadian Dollar (CAD) depreciates against the US Dollar (USD) for the second consecutive day on Wednesday, as risk aversion and market expectations of an immediate Federal Reserve (Fed) rate hike keep underpinning USD's rally.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-hits-fresh-two-week-lows-amid-higher-yields-fed-hiking-bets-202609020558",
-      "published": "2026-09-02T05:58:08+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee trades firmly on Wednesday despite hawkish Fed bets",
-      "summary": "The Indian Rupee (INR) holds onto Tuesday's gains at around 94.80 against the US Dollar (USD) on Wednesday.  However, the Indian currency is expected to face selling pressure against the US Dollar, as the latter has strengthened due to increasing expectations that the Federal Reserve (Fed) will tigh",
-      "link": "https://www.fxstreet.com/news/indian-rupee-holds-onto-two-month-high-against-us-dollar-202609020548",
-      "published": "2026-09-02T05:48:34+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -253,24 +289,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w3t98n/one_more_with_gold_xauusd/",
       "published": "2026-08-31T22:27:29+00:00",
       "score": 6
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Monday! Let's see XAUUSD",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w37dav/monday_lets_see_xauusd/\"> <img alt=\"Monday! Let's see XAUUSD\" src=\"https://preview.redd.it/ivv01hbh5omh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d48f03b26c7cb841d2dc9bd5aee3ab4a5d6900d8\" title=\"Monday! Let's see XAUUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Gold is showing a strong bullish recovery af",
-      "link": "https://www.reddit.com/r/Forex/comments/1w37dav/monday_lets_see_xauusd/",
-      "published": "2026-08-31T08:12:27+00:00",
-      "score": 4
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Is Gold ready for Bounce From This Demand Zone?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w35h8z/is_gold_ready_for_bounce_from_this_demand_zone/\"> <img alt=\"Is Gold ready for Bounce From This Demand Zone?\" src=\"https://preview.redd.it/66ixomjlmnmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=48c89b23d400afc6e8f222d07a1191f05ee908c1\" title=\"Is Gold ready for Bounce From This Demand Zone?\" /> </a> </td><td> <!-- SC_",
-      "link": "https://www.reddit.com/r/Forex/comments/1w35h8z/is_gold_ready_for_bounce_from_this_demand_zone/",
-      "published": "2026-08-31T06:26:36+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
