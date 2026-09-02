@@ -1,86 +1,185 @@
 {
-  "updated_at": "2026-09-02T06:14:10.693802+00:00",
-  "count": 44,
+  "updated_at": "2026-09-02T11:27:12.204316+00:00",
+  "count": 47,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro: Pressured as ECB hike looms – Danske Bank",
-      "summary": "Danske Research Team notes that EUR/USD slipped below 1.1600 as the US Dollar strengthened on a hawkish Federal Reserve stance and geopolitical tensions. The team highlights that Euro area inflation has moved back above 3%, reinforcing expectations for a September ECB rate hike.",
-      "link": "https://www.fxstreet.com/news/euro-pressured-as-ecb-hike-looms-danske-bank-202609020612",
-      "published": "2026-09-02T06:12:13+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9746222/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-09-02T06:04:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9746218/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-09-02T06:02:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "WTI declines to near $89.00 despite US-Iran tensions",
-      "summary": "West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $89.10 during the early European trading hours on Wednesday. WTI declines as traders take some profits. However, the potential downside of black gold might be limited amid ongoing tensions in the Middle East.",
-      "link": "https://www.fxstreet.com/news/wti-declines-to-near-8900-despite-us-iran-tensions-202609020600",
-      "published": "2026-09-02T06:00:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar hits fresh two-week lows amid higher yields, Fed hiking bets",
-      "summary": "The Canadian Dollar (CAD) depreciates against the US Dollar (USD) for the second consecutive day on Wednesday, weighed by growing risk aversion as global yields rise to multi-year highs and with expectations of an immediate Federal Reserve (Fed) rate hike providing additional support to the Greenbac",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-hits-fresh-two-week-lows-amid-higher-yields-fed-hiking-bets-202609020558",
-      "published": "2026-09-02T05:58:08+00:00",
+      "title": "Gold: Oil-driven rate repricing weighs on bullion – ING",
+      "summary": "ING commodities strategists Warren Patterson and Ewa Manthey say Gold has slipped to a two‑week low below $4,300/oz as higher Oil prices revive concerns over US inflation and limit near‑term Federal Reserve easing.",
+      "link": "https://www.fxstreet.com/news/gold-oil-driven-rate-repricing-weighs-on-bullion-ing-202609021117",
+      "published": "2026-09-02T11:17:25+00:00",
       "score": 3
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee holds onto two-month high against US Dollar",
-      "summary": "The Indian Rupee (INR) opens flat at around 94.95 against the US Dollar (USD) on Wednesday, but is close to its two-month low of 94.80 posted the previous day.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-holds-onto-two-month-high-against-us-dollar-202609020548",
-      "published": "2026-09-02T05:48:34+00:00",
+      "title": "United States Dollar Index rises to near 99.85 ahead of US ADP Employment data",
+      "summary": "The US Dollar (USD) reflects strength against its currency peers on Wednesday as United States bond yields surge further due to rising oil prices and hawkish Federal Reserve (Fed) expectations.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-rises-to-near-9985-ahead-of-us-adp-employment-data-202609021116",
+      "published": "2026-09-02T11:16:17+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold declines as US-Iran escalation drives Oil prices, global bond yields higher",
+      "summary": "Gold (XAU/USD) remains on the defensive on Wednesday after tumbling nearly 2.7% the previous day.",
+      "link": "https://www.fxstreet.com/news/gold-declines-as-us-iran-escalation-drives-oil-prices-global-bond-yields-higher-202609021114",
+      "published": "2026-09-02T11:14:59+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "1.3990: Why the Canadian Dollar is sliding toward the resistance zone that could decide the next move",
+      "summary": "USD/CAD has staged a rebound from recent lows near 1.3730 as markets digest a steady policy stance from the Bank of Canada (BoC) amid renewed United States (US)-Canada trade friction.",
+      "link": "https://www.fxstreet.com/news/13990-why-the-canadian-dollar-is-sliding-toward-the-resistance-zone-that-could-decide-the-next-move-202609021058",
+      "published": "2026-09-02T10:58:07+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Swiss Franc weakens as Fed rate hike fears lift US Dollar",
-      "summary": "USD/CHF gains for the second successive day, trading around 0.8130 during the Asian hours on Wednesday.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-fed-rate-hike-fears-lift-us-dollar-202609020516",
-      "published": "2026-09-02T05:16:48+00:00",
+      "title": "0.8150: Swiss Franc hits monthly lows as Fed hiking bets, risk aversion buoy US Dollar",
+      "summary": "The Swiss Franc (CHF) extends its decline against a stronger US Dollar (USD) on Wednesday, and is nearly 0.9% down in the last two days.",
+      "link": "https://www.fxstreet.com/news/08150-swiss-franc-hits-monthly-lows-as-fed-hiking-bets-risk-aversion-buoy-us-dollar-202609021048",
+      "published": "2026-09-02T10:48:47+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: EU Commission issues 3-month EU bill with average yield of 2.499% at auction",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9746531/EU-Commission-issues-3-month-EU-bill-with-average-yield-of-2499-at-auction.aspx?xy=rss",
+      "published": "2026-09-02T10:09:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: PBOC: Trade tensions and protectionism weigh on the global economy through supply chains, inflation, and market expectations - Statement",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9746526/PBOC-Trade-tensions-and-protectionism-weigh-on-the-global-economy-through-supply-chains-inflation-and-market-expectations---Statement.aspx?xy=rss",
+      "published": "2026-09-02T10:08:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "RBNZ raises rates: Why is the New Zealand Dollar plunging?",
+      "summary": "NZD/USD plunges 1.45% on Wednesday, trading around 0.5810 at the time of writing, as the New Zealand Dollar (NZD) comes under heavy selling pressure despite an interest-rate hike from the Reserve Bank of New Zealand (RBNZ).",
+      "link": "https://www.fxstreet.com/news/rbnz-raises-rates-why-is-the-new-zealand-dollar-plunging-202609021007",
+      "published": "2026-09-02T10:07:39+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "AUD/USD Price Forecast: Slides to over one-week low; 0.7125 confluence holds the key",
-      "summary": "The AUD/USD pair drops to a one-and-a-half-week low during the Asian session on Wednesday and currently trades around the 0.7135 region, down for the second straight day.",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-slides-to-over-one-week-low-07125-confluence-holds-the-key-202609020451",
-      "published": "2026-09-02T04:51:37+00:00",
+      "title": "Canadian Dollar: Scope to strengthen against US Dollar - Societe Generale",
+      "summary": "Societe Generale strategists see 1.3990/1.4030 as a key short-term resistance zone for USD/CAD following its rebound from 1.3730. They argue that a failure to break above this area could keep the broader decline intact, with 1.3840 as initial support.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-scope-to-strengthen-against-us-dollar-societe-generale-202609021005",
+      "published": "2026-09-02T10:05:53+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "EUR/USD Price Forecast: Weakens below 1.1600, further consolidation cannot be ruled out",
-      "summary": "The EUR/USD pair loses traction to near 1.1575 during the early European session on Wednesday. The US Dollar (USD) strengthens against the Euro (EUR) amid hawkish Federal Reserve (Fed) stance and escalating Middle East geopolitical tensions.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-weakens-below-11600-further-consolidation-cannot-be-ruled-out-202609020449",
-      "published": "2026-09-02T04:49:03+00:00",
+      "title": "Gold Price Forecast: XAU/USD tests $4,300 amid Fed tightening hopes, geopolitical tensions",
+      "summary": "Gold (XAU/USD) maintains its bearish trend on Wednesday, as higher geopolitical tensions and growing bets of a Federal Reserve (Fed) rate hike in September boost speculative support to the US Dollar.",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-tests-4-300-amid-fed-tightening-hopes-geopolitical-tensions-202609021005",
+      "published": "2026-09-02T10:05:32+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "BoC set to keep interest rates steady despite sticky inflation",
+      "summary": "The Bank of Canada (BoC) is widely expected to keep its policy rate unchanged at 2.25% on Wednesday. This would be the seventh consecutive gathering with the central bank sitting on the fence.",
+      "link": "https://www.fxstreet.com/news/boc-set-to-keep-interest-rates-steady-despite-sticky-inflation-202609020945",
+      "published": "2026-09-02T09:45:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "summary": "Silver prices (XAG/USD) fell on Wednesday, according to FXStreet data. Silver trades at $63.87 per troy ounce, down 0.35% from the $64.09 it cost on Tuesday.",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609020930",
+      "published": "2026-09-02T09:30:29+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Brent: Higher inflation risks support prices – OCBC",
+      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that renewed US-Iran tensions have lifted Oil prices and revived global inflation concerns, with markets now fully pricing a Federal Reserve rate hike by October.",
+      "link": "https://www.fxstreet.com/news/brent-higher-inflation-risks-support-prices-ocbc-202609020928",
+      "published": "2026-09-02T09:28:32+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro tests two-week lows as risk aversion, Fed tightening bets buoy the US Dollar",
+      "summary": "The Euro (EUR) is trading lower against the US Dollar (USD) for the second consecutive day on Wednesday, weighed by risk aversion amid growing tensions in the Middle East, while rising bets of Federal Reserve (Fed) interest rate hikes support speculative demand for the US Dollar.",
+      "link": "https://www.fxstreet.com/news/euro-tests-two-week-lows-as-risk-aversion-fed-tightening-bets-buoy-the-us-dollar-202609020921",
+      "published": "2026-09-02T09:21:27+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "GBP/USD Price Forecast: Likely fall further towards 1.3420",
+      "summary": "The British Pound (GBP) is down 0.1% to near 1.3500 against the US Dollar (USD) during the European trading session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-likely-fall-further-towards-13420-202609020917",
+      "published": "2026-09-02T09:17:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CAD Price Forecast: Eyes 50-day EMA after breaking above confluence around 1.3900",
+      "summary": "USD/CAD extends its gains for the second consecutive day. trading around 1.3940 during the European hours on Wednesday. The technical analysis of the daily chart indicates the pair is positioned above the descending channel top, signalling a bullish reversal.",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-eyes-50-day-ema-after-breaking-above-confluence-around-13900-202609020903",
+      "published": "2026-09-02T09:03:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: BoC hold leaves risk of further losses against US Dollar - ING",
+      "summary": "ING’s Francesco Pesole expects the Bank of Canada to keep rates on hold at 2.25%, seeing very low risk of a surprise hike despite firmer headline Consumer Price Index (CPI) and solid growth.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-hold-leaves-risk-of-further-losses-against-us-dollar-ing-202609020848",
+      "published": "2026-09-02T08:48:16+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Is Gold About to Reject From 4320–4330?",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w52nlr/is_gold_about_to_reject_from_43204330/\"> <img alt=\"Is Gold About to Reject From 4320–4330?\" src=\"https://preview.redd.it/jbpmjtizz1nh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2781e7fddb0dce7efd5ced2fc6fa43111fd7b34a\" title=\"Is Gold About to Reject From 4320–4330?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p",
+      "link": "https://www.reddit.com/r/Forex/comments/1w52nlr/is_gold_about_to_reject_from_43204330/",
+      "published": "2026-09-02T06:46:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar extends losses ahead of BoC's monetary policy decision",
+      "summary": "The Canadian Dollar (CAD) depreciates against the US Dollar (USD) for the second consecutive day on Wednesday, as risk aversion and market expectations of an immediate Federal Reserve (Fed) rate hike keep underpinning USD's rally.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-hits-fresh-two-week-lows-amid-higher-yields-fed-hiking-bets-202609020558",
+      "published": "2026-09-02T05:58:08+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee trades firmly on Wednesday despite hawkish Fed bets",
+      "summary": "The Indian Rupee (INR) holds onto Tuesday's gains at around 94.80 against the US Dollar (USD) on Wednesday.  However, the Indian currency is expected to face selling pressure against the US Dollar, as the latter has strengthened due to increasing expectations that the Federal Reserve (Fed) will tigh",
+      "link": "https://www.fxstreet.com/news/indian-rupee-holds-onto-two-month-high-against-us-dollar-202609020548",
+      "published": "2026-09-02T05:48:34+00:00",
       "score": 2
     },
     {
@@ -91,78 +190,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w50cky/xauusd/",
       "published": "2026-09-02T04:43:41+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "NZD/USD Price Forecast: New Zealand Dollar moves little following RBNZ Breman’s remarks",
-      "summary": "NZD/USD gains ground for the second consecutive day, trading around 0.5840 during the Asian hours on Wednesday.",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-new-zealand-dollar-moves-little-following-rbnz-bremans-remarks-202609020432",
-      "published": "2026-09-02T04:32:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: Sits near late July high; bulls retain control above 160.00",
-      "summary": "The USD/JPY pair touches a fresh high since July 31 on Wednesday, though it lacks follow-through buying and remains below 160.50 through the Asian session.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-sits-near-late-july-high-bulls-retain-control-above-16000-202609020418",
-      "published": "2026-09-02T04:18:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold bounces off four-week low; remains vulnerable near $4,300 amid Fed hike bets",
-      "summary": "Gold (XAU/USD) recovers slightly from a nearly four-week low, which it touched during the Asian session on Wednesday, and currently trades just above the $4,300 mark, still down over 0.50% for the day.",
-      "link": "https://www.fxstreet.com/news/gold-drops-to-four-week-low-below-4-300-as-usd-firms-amid-fed-hike-bets-and-iran-risks-202609020400",
-      "published": "2026-09-02T04:00:19+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound declines to near 1.3500 as US-Iran tensions rise",
-      "summary": "The GBP/USD pair declines to near 1.3500 during the early European trading hours on Wednesday. Ongoing tensions in the Middle East provide some support to a safe-haven currency such as the US Dollar (USD) against the British Pound (GBP).",
-      "link": "https://www.fxstreet.com/news/british-pound-declines-to-near-13500-as-us-iran-tensions-rise-202609020347",
-      "published": "2026-09-02T03:47:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index hold gains above 99.50 as Treasury yields hit multi-year highs",
-      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is gaining ground for the second successive day and trading around 99.70 during the Asian hours on Wednesday.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-hold-gains-above-9950-as-treasury-yields-hit-multi-year-highs-202609020323",
-      "published": "2026-09-02T03:23:32+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD slips below $64.00 as inflation fears increase",
-      "summary": "Silver price (XAG/USD) extends its losses for the second successive day, trading around $63.40 per troy ounce during the Asian hours on Wednesday. The non-yielding Silver declines as a global bond selloff drove the US 10-year Treasury yield up to 4.80%, hitting its highest point since early 2025.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-6400-as-inflation-fears-increase-202609020236",
-      "published": "2026-09-02T02:36:53+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar plunges after RBNZ raises OCR by 25 bps to 2.75%",
-      "summary": "The NZD/USD pair tumbles to near 0.5855 during the Asian trading hours on Wednesday. The New Zealand Dollar (NZD) faces some selling pressure against the US Dollar (USD) after the Reserve Bank of New Zealand (RBNZ) interest rate decision.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-after-rbnz-raises-ocr-by-25-bps-to-275-202609020214",
-      "published": "2026-09-02T02:14:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar rises as quarterly GDP grows in Q2",
-      "summary": "AUD/USD inches higher after recovering its daily losses, trading around 0.7150 during the Asian hours on Wednesday.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rises-as-quarterly-gdp-grows-in-q2-202609020147",
-      "published": "2026-09-02T01:47:17+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
