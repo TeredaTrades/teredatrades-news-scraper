@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-09-02T23:33:34.495417+00:00",
-  "count": 45,
+  "updated_at": "2026-09-03T01:27:42.668642+00:00",
+  "count": 44,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7807 vs. 6.7829 previous",
+      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Thursday at 6.7807 compared to the previous day's fix of 6.7829 and 6.7167 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67807-vs-67829-previous-202609030115",
+      "published": "2026-09-03T01:15:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound consolidates near three-week low as Fed bets and Iran tensions support USD",
+      "summary": "The GBP/USD pair consolidates below the 1.3500 psychological mark during the Asian session on Thursday and remains close to a three-week low, touched the previous day.",
+      "link": "https://www.fxstreet.com/news/british-pound-consolidates-near-three-week-low-as-fed-bets-and-iran-tensions-support-usd-202609030112",
+      "published": "2026-09-03T01:12:49+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro steadies below 1.1600 as hawkish Fed rhetoric limits gains",
+      "summary": "The EUR/USD pair holds steady near 1.1590 during the early Asian session on Thursday. The potential upside for the major pair might be limited amid hawkish Federal Reserve (Fed) expectations and escalating conflict in the Middle East.",
+      "link": "https://www.fxstreet.com/news/euro-steadies-below-11600-as-hawkish-fed-rhetoric-limits-gains-202609030051",
+      "published": "2026-09-03T00:51:12+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japan S&P Global August services PMI at 52.5 (vs flash 52.3)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9747632/Japan-SP-Global-August-services-PMI-at-525-vs-flash-523.aspx?xy=rss",
+      "published": "2026-09-03T00:30:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Hong Kong S&P Global August PMI falls to 49.5 from 51.0 in July",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9747631/Hong-Kong-SP-Global-August-PMI-falls-to-495-from-510-in-July.aspx?xy=rss",
+      "published": "2026-09-03T00:30:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Ireland S&P Global August services PMI at 55.4 vs 55.2 in July",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9747605/Ireland-SP-Global-August-services-PMI-at-554-vs-552-in-July.aspx?xy=rss",
+      "published": "2026-09-03T00:01:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Donald Trump: Renewed campaign against Iran will not continue for too long",
+      "summary": "US President Donald Trump said that while the US is prepared to strike Iran again at any time, he doesn’t expect the renewed fighting to last “too long,” Reuters reported on Wednesday.",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-renewed-campaign-against-iran-will-not-continue-for-too-long-202609022355",
+      "published": "2026-09-02T23:55:54+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -39,48 +102,12 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US judge halts Trump administration from enforcing latest executive order restricting birthright citizenship",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9747496/US-judge-halts-Trump-administration-from-enforcing-latest-executive-order-restricting-birthright-citizenship.aspx?xy=rss",
-      "published": "2026-09-02T21:35:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBNZ governor Breman: There is a real risk that unless we respond in monetary policy, inflation expectations will get out of hand.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9747435/RBNZ-governor-Breman-There-is-a-real-risk-that-unless-we-respond-in-monetary-policy-inflation-expectations-will-get-out-of-hand.aspx?xy=rss",
-      "published": "2026-09-02T20:39:01+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "USD/CHF Price Forecast: Bulls eye 0.8200 as RSI turns higher",
       "summary": "The USD/CHF pair advances some 0.13% on Wednesday as the Greenback holds within familiar levels, after depreciating versus the Japanese Yen amid speculation of an intervention in the FX markets. This dragged the pair from around five-week highs to the 0.8120 area.",
       "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-eye-08200-as-rsi-turns-higher-202609022038",
       "published": "2026-09-02T20:38:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft sees Q1 devices & consumer rev $14.7b - $15.2b. $MSFT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9747434/Microsoft-sees-Q1-devices--consumer-rev-147b---152b-MSFT.aspx?xy=rss",
-      "published": "2026-09-02T20:36:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft sees Q1 agents & infrastructure revenue $75.15b - $75.75b $MSFT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9747433/Microsoft-sees-Q1-agents--infrastructure-revenue-7515b---7575b-MSFT.aspx?xy=rss",
-      "published": "2026-09-02T20:36:09+00:00",
       "score": 1
     },
     {
@@ -147,33 +174,6 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Break below 1.35 shifts focus lower against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret describe GBP/USD as soft but mid-pack within the G10, with domestic data and Bank of England (BoE) events limited ahead of Governor Bailey’s speech.",
-      "link": "https://www.fxstreet.com/news/british-pound-break-below-135-shifts-focus-lower-against-us-dollar-scotiabank-202609021724",
-      "published": "2026-09-02T17:24:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound hits three-week low as US yields, Iran risks weigh",
-      "summary": "The Pound Sterling (GBP) falls by some 0.11% and hits a three-week low against the US Dollar (USD) on Wednesday, even though the US Dollar Index (DXY) is in red territory, following US jobs data that were below estimates but signaled some cooling in the labor market.",
-      "link": "https://www.fxstreet.com/news/british-pound-hits-three-week-low-as-us-yields-iran-risks-weigh-202609021707",
-      "published": "2026-09-02T17:07:07+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "BoC recap: Risks are shifting as Oil prices and US trade actions complicate outlook",
-      "summary": "The Bank of Canada (BoC) left its overnight interest rate unchanged at 2.25% on Wednesday, as widely anticipated, but delivered a more cautious message as inflation risks increased and the recovery became harder to assess.",
-      "link": "https://www.fxstreet.com/news/boc-recap-risks-are-shifting-as-oil-prices-and-us-trade-actions-complicate-outlook-202609021702",
-      "published": "2026-09-02T17:02:00+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "New york opening with XAUUSD SETUP",
@@ -226,15 +226,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w4djyj/gold_taking_support_from_major_level/",
       "published": "2026-09-01T14:26:38+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "NASDAQ MONTHLY REVIEW",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w4d94n/nasdaq_monthly_review/\"> <img alt=\"NASDAQ MONTHLY REVIEW\" src=\"https://preview.redd.it/tn45kvt63xmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a30fbd75af54827ff1c834aa735fd6d568b6540a\" title=\"NASDAQ MONTHLY REVIEW\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Today, 1st September 2026, Nasdaq traded lower duri",
-      "link": "https://www.reddit.com/r/Forex/comments/1w4d94n/nasdaq_monthly_review/",
-      "published": "2026-09-01T14:15:38+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
