@@ -1,78 +1,168 @@
 {
-  "updated_at": "2026-09-03T01:27:42.668642+00:00",
+  "updated_at": "2026-09-03T06:24:05.311270+00:00",
   "count": 44,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7807 vs. 6.7829 previous",
-      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Thursday at 6.7807 compared to the previous day's fix of 6.7829 and 6.7167 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67807-vs-67829-previous-202609030115",
-      "published": "2026-09-03T01:15:29+00:00",
+      "title": "Euro: Downside risk persists toward 1.1550 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight that EUR/USD has shifted into short-term range trading between 1.1570 and 1.1610 after a dip to 1.1565 and rebound to 1.1608. They still see scope for a test of 1.1550 unless 1.1630 strong resistance breaks.",
+      "link": "https://www.fxstreet.com/news/euro-downside-risk-persists-toward-11550-against-us-dollar-uob-202609030620",
+      "published": "2026-09-03T06:20:16+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound consolidates near three-week low as Fed bets and Iran tensions support USD",
-      "summary": "The GBP/USD pair consolidates below the 1.3500 psychological mark during the Asian session on Thursday and remains close to a three-week low, touched the previous day.",
-      "link": "https://www.fxstreet.com/news/british-pound-consolidates-near-three-week-low-as-fed-bets-and-iran-tensions-support-usd-202609030112",
-      "published": "2026-09-03T01:12:49+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro steadies below 1.1600 as hawkish Fed rhetoric limits gains",
-      "summary": "The EUR/USD pair holds steady near 1.1590 during the early Asian session on Thursday. The potential upside for the major pair might be limited amid hawkish Federal Reserve (Fed) expectations and escalating conflict in the Middle East.",
-      "link": "https://www.fxstreet.com/news/euro-steadies-below-11600-as-hawkish-fed-rhetoric-limits-gains-202609030051",
-      "published": "2026-09-03T00:51:12+00:00",
+      "title": "GBP/USD Price Forecast: Holds a mildly bullish bias near 1.3500 despite subdued RSI momentum",
+      "summary": "The GBP/USD pair trades in positive territory around 1.3490 during the early European trading hours on Thursday, bolstered by a weaker US Dollar (USD). Traders await the Bank of England (BoE) Governor Andrew Bailey’s speech and US August jobs data later on Friday for fresh impetus.",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-holds-a-mildly-bullish-bias-near-13500-despite-subdued-rsi-momentum-202609030609",
+      "published": "2026-09-03T06:09:46+00:00",
       "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Japan S&P Global August services PMI at 52.5 (vs flash 52.3)",
+      "title": "FinancialJuice: UAE President and Trump discuss Middle East developments and bilateral cooperation in phone call - UAE State News Agency",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9747632/Japan-SP-Global-August-services-PMI-at-525-vs-flash-523.aspx?xy=rss",
-      "published": "2026-09-03T00:30:03+00:00",
+      "link": "https://www.financialjuice.com/News/9747994/UAE-President-and-Trump-discuss-Middle-East-developments-and-bilateral-cooperation-in-phone-call---UAE-State-News-Agency.aspx?xy=rss",
+      "published": "2026-09-03T06:00:31+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Hong Kong S&P Global August PMI falls to 49.5 from 51.0 in July",
+      "title": "FinancialJuice: UAE president and Trump discussed cooperation in a phone call - WAM",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9747631/Hong-Kong-SP-Global-August-PMI-falls-to-495-from-510-in-July.aspx?xy=rss",
-      "published": "2026-09-03T00:30:03+00:00",
+      "link": "https://www.financialjuice.com/News/9747993/UAE-president-and-Trump-discussed-cooperation-in-a-phone-call---WAM.aspx?xy=rss",
+      "published": "2026-09-03T05:53:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Turns sticky to 20-day EMA",
+      "summary": "The Euro (EUR) trades slightly higher against the US Dollar (USD) at around 1.1600 during the early European trading session on Thursday.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-turns-sticky-to-20-day-ema-202609030542",
+      "published": "2026-09-03T05:42:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee hits fresh two-month high against US Dollar",
+      "summary": "The Indian Rupee (INR) opens strongly against the US Dollar (USD) on Thursday, extending the rally to near 94.28.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609030522",
+      "published": "2026-09-03T05:22:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah strengthens as US Dollar declines on potential Yen intervention",
+      "summary": "USD/IDR loses ground for the second successive day, trading around 17,730 during the Asian hours on Thursday. The currency pair experiences downward pressure as a sharp rally in the Japanese Yen (JPY) weighed heavily on the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-strengthens-as-us-dollar-declines-on-potential-yen-intervention-202609030516",
+      "published": "2026-09-03T05:16:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index weakens below 99.50  as yields ease",
+      "summary": "The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 99.40 in the early European trading hours on Thursday. The DXY faces some selling pressure while US Treasury yields slipped from multi-year highs.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-below-9950-as-yields-ease-202609030510",
+      "published": "2026-09-03T05:10:26+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: India HSBC and S&P Global August final services PMI at 54.1 vs flash 54.5",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9747941/India-HSBC-and-SP-Global-August-final-services-PMI-at-541-vs-flash-545.aspx?xy=rss",
+      "published": "2026-09-03T05:00:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Thursday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609030435",
+      "published": "2026-09-03T04:35:06+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Ireland S&P Global August services PMI at 55.4 vs 55.2 in July",
+      "title": "FinancialJuice: United Arab Emirates S&P Global August composite PMI at 55.3 vs 52.7 in July",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9747605/Ireland-SP-Global-August-services-PMI-at-554-vs-552-in-July.aspx?xy=rss",
-      "published": "2026-09-03T00:01:03+00:00",
+      "link": "https://www.financialjuice.com/News/9747905/United-Arab-Emirates-SP-Global-August-composite-PMI-at-553-vs-527-in-July.aspx?xy=rss",
+      "published": "2026-09-03T04:15:03+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Saudi Arabia S&P Global August composite PMI at 53.8 vs 53.1 in July",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9747904/Saudi-Arabia-SP-Global-August-composite-PMI-at-538-vs-531-in-July.aspx?xy=rss",
+      "published": "2026-09-03T04:15:02+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US President Donald Trump: Renewed campaign against Iran will not continue for too long",
-      "summary": "US President Donald Trump said that while the US is prepared to strike Iran again at any time, he doesn’t expect the renewed fighting to last “too long,” Reuters reported on Wednesday.",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-renewed-campaign-against-iran-will-not-continue-for-too-long-202609022355",
-      "published": "2026-09-02T23:55:54+00:00",
+      "title": "Gold sticks to gains amid weaker USD, soft bond yields; remains below $4,450",
+      "summary": "Gold (XAU/USD) maintains its bid tone heading into the European session on Thursday, though it remains below $4,450 amid mixed fundamental cues.",
+      "link": "https://www.fxstreet.com/news/gold-extends-gains-above-4-400-as-sliding-bond-yields-and-soft-usd-counter-fed-hike-bets-202609030351",
+      "published": "2026-09-03T03:51:59+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar rises on weaker US Dollar, rising oil prices",
+      "summary": "USD/CAD extends its losses for the second consecutive day, trading around 1.3830 during the Asian hours on Thursday. The currency pair experiences downward pressure as a sharp rally in the Japanese Yen (JPY) weighed heavily on the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-rises-on-weaker-us-dollar-rising-oil-prices-202609030333",
+      "published": "2026-09-03T03:33:04+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold rebounds above $4,350 as US Dollar, Treasury yields slip",
-      "summary": "Gold price (XAU/USD) rebounds from a nearly one-month low to around $4,385 during the early Asian session on Thursday. The precious metal edges higher as the ‌US Dollar (USD) and Treasury yields retreat from recent highs.",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-350-as-us-dollar-treasury-yields-slip-202609022329",
-      "published": "2026-09-02T23:29:32+00:00",
+      "title": "Silver Price Forecast: XAG/USD extends gains as US Dollar falls further, NFP comes into focus",
+      "summary": "Silver price (XAG/USD) extends its Wednesday recovery move on Thursday, trading 0.67% higher at around $65.70 during the European trading session. The white metal strengthens as the US Dollar (USD) declines further due to moderate job demand in the United States (US) private sector.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-extends-gains-as-us-dollar-falls-further-nfp-comes-into-focus-202609030321",
+      "published": "2026-09-03T03:21:54+00:00",
       "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen strengthens on BoJ rate hike signals",
+      "summary": "The USD/JPY pair attracts some sellers to near 158.15 during the Asian trading hours on Thursday. The Japanese Yen (JPY) strengthens against the US Dollar (USD) following hints from Japanese policymakers that interest rates will rise later this month.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-on-boj-rate-hike-signals-202609030314",
+      "published": "2026-09-03T03:14:17+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar rebounds above 0.5850 on stronger Chinese services PMI",
+      "summary": "The NZD/USD pair recovers some lost ground to near 0.5860, snapping the four-day losing streak during the early Asian session on Thursday. The New Zealand Dollar (NZD) strengthens against the US Dollar (USD) following the upbeat Chinese economic data.",
+      "link": "https://www.fxstreet.com/news/new-zealand-rebounds-above-05850-on-stronger-chinese-services-pmi-202609030214",
+      "published": "2026-09-03T02:14:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar flat lines above 0.7150 vs USD after Aussie trade data, China PMI",
+      "summary": "The AUD/USD pair struggles to capitalize on the previous day's bounce from the 0.7120 region, or a nearly two-week low, and oscillates in a range during the Asian session on Thursday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-flat-lines-above-07150-vs-usd-after-aussie-trade-data-china-pmi-202609030159",
+      "published": "2026-09-03T01:59:52+00:00",
+      "score": 1
     },
     {
       "source": "r/Forex",
@@ -84,93 +174,12 @@
       "score": 4
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar rises as soft US jobs, GDP beat lift AUD, PMIs ahead",
-      "summary": "The Australian Dollar advanced on Wednesday versus the US Dollar after economic data in the US revealed the labour market weakened slightly, while the Greenback dipped on intervention speculation in the FX markets.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rises-as-soft-us-jobs-gdp-beat-lift-aud-pmis-ahead-202609022238",
-      "published": "2026-09-02T22:38:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Rising gilt yields are not saving the British Pound",
-      "summary": "Sterling has spent Wednesday handing back the last of its August rally, with GBP/USD trading just under 1.3500 after a session low a shade beneath 1.3475.",
-      "link": "https://www.fxstreet.com/news/rising-gilt-yields-are-not-saving-the-british-pound-202609022154",
-      "published": "2026-09-02T21:54:14+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CHF Price Forecast: Bulls eye 0.8200 as RSI turns higher",
-      "summary": "The USD/CHF pair advances some 0.13% on Wednesday as the Greenback holds within familiar levels, after depreciating versus the Japanese Yen amid speculation of an intervention in the FX markets. This dragged the pair from around five-week highs to the 0.8120 area.",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-eye-08200-as-rsi-turns-higher-202609022038",
-      "published": "2026-09-02T20:38:25+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Me VS XAUUSD",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w5l3ds/me_vs_xauusd/\"> <img alt=\"Me VS XAUUSD\" src=\"https://preview.redd.it/41xbhoh0w5nh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5bcf1e23aa29906c07f365899b808e0df880a702\" title=\"Me VS XAUUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>I opened a 1 lot position.. and im not going to cut the profit til it ",
       "link": "https://www.reddit.com/r/Forex/comments/1w5l3ds/me_vs_xauusd/",
       "published": "2026-09-02T19:51:27+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold rises as speculation of Yen intervention weighs on the US Dollar",
-      "summary": "Gold (XAU/USD) price rises over 1% on Wednesday as the Greenback softens amid speculation of an intervention to bolster the Japanese Yen (JPY), while US Treasury yields hold firm after weak US jobs data. At the time of writing, the XAU/USD pair trades at $4,373.",
-      "link": "https://www.fxstreet.com/news/gold-rises-as-speculation-of-yen-intervention-weighs-on-the-us-dollar-202609021946",
-      "published": "2026-09-02T19:46:55+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US President Trump says Iran campaign “won’t last”, warns of more strikes",
-      "summary": "US President Donald Trump said on Wednesday that the renewed campaign against Iran “won’t continue for too long,\" adding that he is prepared to launch another attack on Iran.",
-      "link": "https://www.fxstreet.com/news/us-president-trump-says-iran-campaign-wont-last-warns-of-more-strikes-202609021831",
-      "published": "2026-09-02T18:31:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed’s Beige Book shows modest economic growth as prices rise",
-      "summary": "The Federal Reserve (Fed) released its Beige Book on Wednesday, in which the US central bank stated that economic activity increased modestly since early July, while overall employment rose slightly. Regarding inflation, prices rose in eight districts.",
-      "link": "https://www.fxstreet.com/news/feds-beige-book-shows-modest-growth-as-prices-rise-202609021821",
-      "published": "2026-09-02T18:21:48+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah: Higher oil prices add to IDR pressure - MUFG",
-      "summary": "MUFG’s Lloyd Chan remains cautious on the Indonesian Rupiah as domestic inflation accelerates and Gross Domestic Product (GDP) growth stays above 5%. The trade balance has improved slightly but remains weaker than 2025 averages due to higher Oil and gas imports.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-higher-oil-prices-add-to-idr-pressure-mufg-202609021807",
-      "published": "2026-09-02T18:07:46+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: Weekly claims and ISM Services keep the focus on the real economy",
-      "summary": "The US Dollar (USD) has traded in quite a volatile fashion on Wednesday, always amid the unabated tensions from the US-Iran crisis, speculation over another bout of FX intervention by Japanese authorities and bets for whatever the Fed might do or not do in the next few months.",
-      "link": "https://www.fxstreet.com/news/forex-today-weekly-claims-and-ism-services-keep-the-focus-on-the-real-economy-202609021800",
-      "published": "2026-09-02T18:00:02+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Downside risks remain against US Dollar – OCBC",
-      "summary": "OCBC’s Sim Moh Siong and Christopher Wong note that USD/SGD is rebounding alongside a stronger US Dollar (USD), supported by higher US Treasury yields and firmer Fed hike expectations.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-downside-risks-remain-against-us-dollar-ocbc-202609021743",
-      "published": "2026-09-02T17:43:43+00:00",
       "score": 3
     },
     {
@@ -208,15 +217,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w4l8ex/waiting_for_the_profit_will_it_break_volume/",
       "published": "2026-09-01T18:53:20+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "XAUUSD Trade",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w4eos0/xauusd_trade/\"> <img alt=\"XAUUSD Trade\" src=\"https://preview.redd.it/zq6ya0z9bxmh1.png?width=140&amp;height=51&amp;auto=webp&amp;s=4b082b30449876aea5dda8786362962d75449141\" title=\"XAUUSD Trade\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Daily Bearish Channel Broken -&gt; 12HR Bullish Channel Broken -&gt; Expected Do",
-      "link": "https://www.reddit.com/r/Forex/comments/1w4eos0/xauusd_trade/",
-      "published": "2026-09-01T15:07:54+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
