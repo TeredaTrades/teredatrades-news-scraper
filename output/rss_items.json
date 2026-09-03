@@ -1,7 +1,196 @@
 {
-  "updated_at": "2026-09-03T11:33:14.106776+00:00",
-  "count": 43,
+  "updated_at": "2026-09-03T15:12:17.557220+00:00",
+  "count": 44,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoE's Pill: Wait-and-see approach risks status quo setting of rates.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9748875/BoEs-Pill-Wait-and-see-approach-risks-status-quo-setting-of-rates.aspx?xy=rss",
+      "published": "2026-09-03T15:10:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoE’s Pill: reasons to expect second-round effects now stronger than estimated in halcyon days of inflation targeting",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9748871/BoEs-Pill-reasons-to-expect-second-round-effects-now-stronger-than-estimated-in-halcyon-days-of-inflation-targeting.aspx?xy=rss",
+      "published": "2026-09-03T15:04:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Bank of England Chief Economist Pill: fine-tuning rates amid energy price uncertainty is problematic",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9748870/Bank-of-England-Chief-Economist-Pill-fine-tuning-rates-amid-energy-price-uncertainty-is-problematic.aspx?xy=rss",
+      "published": "2026-09-03T15:03:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Range-bound against US Dollar with muted BoE pricing – Scotiabank",
+      "summary": "Scotiabank’s Global FX Strategy team reports the British Pound (GBP) is flat versus the US Dollar (USD) but softer on crosses, with UK PMI data offering little new insight. Markets price minimal tightening for the September Bank of England (BoE) meeting and modest moves for November.",
+      "link": "https://www.fxstreet.com/news/british-pound-range-bound-against-us-dollar-with-muted-boe-pricing-scotiabank-202609031501",
+      "published": "2026-09-03T15:01:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: US keeping new munitions for itself, not selling - Truth Social",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9748848/Trump-US-keeping-new-munitions-for-itself-not-selling---Truth-Social.aspx?xy=rss",
+      "published": "2026-09-03T14:59:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on munitions: Sales to allies will begin again soon.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9748847/Trump-on-munitions-Sales-to-allies-will-begin-again-soon.aspx?xy=rss",
+      "published": "2026-09-03T14:57:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on munitions: We are stockpiling.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9748846/Trump-on-munitions-We-are-stockpiling.aspx?xy=rss",
+      "published": "2026-09-03T14:57:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: US producing munitions at levels never seen before - Truth Social",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9748845/Trump-US-producing-munitions-at-levels-never-seen-before---Truth-Social.aspx?xy=rss",
+      "published": "2026-09-03T14:57:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: The fact that we have no ammunition (and they are 100% wrong!) - Truth Social",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9748844/Trump-The-fact-that-we-have-no-ammunition-and-they-are-100-wrong---Truth-Social.aspx?xy=rss",
+      "published": "2026-09-03T14:56:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Yen turning corner case builds – Societe Generale",
+      "summary": "Societe Generale strategists highlight heavy USD/JPY turnover as the pair slid below its 200-day moving average, with leveraged accounts forced to cover shorts.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-yen-turning-corner-case-builds-societe-generale-202609031428",
+      "published": "2026-09-03T14:28:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen jumps as BoJ opens door to faster rate hikes",
+      "summary": "USD/JPY extends its decline for a second consecutive day and trades around 155.40 on Thursday at the time of writing, down 2.07% on the day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-jumps-as-boj-opens-door-to-faster-rate-hikes-202609031427",
+      "published": "2026-09-03T14:27:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Support firms with hawkish ECB pricing – Scotiabank",
+      "summary": "Scotiabank’s Shaun Osborne and Eric Theoret highlight that the Euro (EUR) is higher against the US Dollar (USD), supported by strong euro area Producer Price Index (PPI) and firmer European Central Bank (ECB) rate expectations. Markets now price more than one 25bp hike by year-end.",
+      "link": "https://www.fxstreet.com/news/euro-support-firms-with-hawkish-ecb-pricing-scotiabank-202609031414",
+      "published": "2026-09-03T14:14:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro gains against US Dollar as Waller tempers Fed rate-hike bets",
+      "summary": "EUR/USD attracts buyers on Thursday as a sharp rally in the Japanese Yen (JPY), softer United States labour-market data and a pullback in US Treasury yields weigh on the US Dollar (USD). At the time of writing, EUR/USD trades around 1.1622, up roughly 0.30% on the day.",
+      "link": "https://www.fxstreet.com/news/euro-gains-against-us-dollar-as-waller-tempers-fed-rate-hike-bets-202609031410",
+      "published": "2026-09-03T14:10:07+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc: Hot inflation and SNB path – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports the Swiss Franc (CHF) is the second-best performer today after the Japanese Yen as Swiss inflation surprised to the upside in August, reinforcing Swiss National Bank (SNB) hike expectations.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-hot-inflation-and-snb-path-bbh-202609031407",
+      "published": "2026-09-03T14:07:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Longer-term landscape improves – TD Securities",
+      "summary": "TD Securities’ Ryan McKay and Bart Melek note that speculation of currency intervention and less hawkish Federal Reserve commentary have supported precious metals, with Gold moving away from nearby CTA selling triggers.",
+      "link": "https://www.fxstreet.com/news/gold-longer-term-landscape-improves-td-securities-202609031358",
+      "published": "2026-09-03T13:58:45+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Bullish momentum builds after BoC – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the Canadian Dollar (CAD) is modestly outperforming after a slightly hawkish Bank of Canada (BoC). Policy was left unchanged, but inflation risks were highlighted and December tightening is fully priced.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-bullish-momentum-builds-after-boc-scotiabank-202609031337",
+      "published": "2026-09-03T13:37:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Programming backtestig using python vs human backtesting which one is the best?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Programming backtestig using python vs human backtesting which one is the best?</p> <p>Well my friend gemini always suggests to me to make a backtest using python to any strategy i use before start using it to chart because numbers don't lie unlike the backtest you will make by yourself which you may just look at the best results how many profits you have made but",
+      "link": "https://www.reddit.com/r/Forex/comments/1w67961/programming_backtestig_using_python_vs_human/",
+      "published": "2026-09-03T13:21:14+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc strengthens on inflation surprise and broad US Dollar weakness",
+      "summary": "USD/CHF comes under selling pressure on Thursday as a sharp rally in the Japanese Yen (JPY) weighs broadly on the US Dollar (USD), while the Swiss Franc (CHF) draws support from stronger-than-expected inflation and growth data.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-on-inflation-surprise-and-broad-us-dollar-weakness-202609031257",
+      "published": "2026-09-03T12:57:24+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed's Waller: Inclined to support policy hold if August inflation data shows progress",
+      "summary": "While speaking at the Reuters NEXT Newsmaker event in Washington, Federal Reserve Governor Christopher Waller said on Thursday that if August Consumer Price Index data confirms inflation pressures are cooling off, he is inclined to support holding the policy rate steady at the September policy meeti",
+      "link": "https://www.fxstreet.com/news/feds-waller-inclined-to-support-policy-hold-if-august-inflation-data-shows-progress-202609031253",
+      "published": "2026-09-03T12:53:54+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar climbs as softer US labor data weighs on US Dollar",
+      "summary": "AUD/USD advances on Thursday, trading around 0.7215 at the time of writing, up 0.45% on the day.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-as-softer-us-labor-data-weighs-on-us-dollar-202609031250",
+      "published": "2026-09-03T12:50:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Testing support after BoC hold – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad observes USD/CAD is testing key support at 1.3800, where a break could open further downside. The Bank of Canada (BoC) delivered a hawkish hold, keeping rates at 2.25% but warning about increased upside inflation risks.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-testing-support-after-boc-hold-bbh-202609031249",
+      "published": "2026-09-03T12:49:44+00:00",
+      "score": 3
+    },
     {
       "source": "r/Forex",
       "category": "reddit",
@@ -14,74 +203,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Federal Reserve: September hike bias shifts – ING",
-      "summary": "ING’s James Knightley argues Kevin Warsh’s Jackson Hole speech has shifted the Federal Reserve’s reaction function toward a September rate hike, even though ING’s macro projections suggest the Fed could wait.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-september-hike-bias-shifts-ing-202609031129",
-      "published": "2026-09-03T11:29:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Economists agree: ECB to hike rates on September 10 – Reuters poll",
-      "summary": "According to the latest Reuters poll, the 65 economists surveyed have favored that the European Central Bank (ECB) will raise the deposit rate by 25 basis points (bps) to 2.50%.",
-      "link": "https://www.fxstreet.com/news/economists-agree-ecb-to-hike-rates-on-september-10-reuters-poll-202609031128",
-      "published": "2026-09-03T11:28:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Near-term stabilization view – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is softer mainly against the Japanese Yen and Swiss Franc, with Brent Oil nearing $100.",
-      "link": "https://www.fxstreet.com/news/us-dollar-near-term-stabilization-view-bbh-202609031118",
-      "published": "2026-09-03T11:18:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold climbs as Yen-led US Dollar decline outweighs hawkish Fed expectations",
-      "summary": "Gold (XAU/USD) extends its rebound on Thursday after slipping below $4,300 to a nearly four-week low on the previous day. A sharp rally in the Japanese Yen (JPY) weighs on the US Dollar (USD), helping the precious metal regain ground.",
+      "title": "Gold rallies 2% as US Dollar and yields retreat, Fed hike bets ease after Waller remarks",
+      "summary": "Gold (XAU/USD) extends its rebound on Thursday after slipping below $4,300 to a nearly four-week low on the previous day. A sharp rally in the Japanese Yen (JPY) weighs on the US Dollar (USD), while a pullback in US Treasury yields provides additional support to the precious metal.",
       "link": "https://www.fxstreet.com/news/gold-climbs-as-yen-led-us-dollar-decline-outweighs-hawkish-fed-expectations-202609031112",
       "published": "2026-09-03T11:12:31+00:00",
-      "score": 5
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING FX Daily - FJElite",
-      "summary": "<div>A sharp jump in the yen yesterday, potentially due to another intervention (more in the JPY section below), had a knock-on negative impact on the dollar across the board. But towards the end of the session, only currencies backed by positive domestic stories (AUD, CAD) had hung onto gains, with the move fading elsewhere.</div><div><br /></div><div>On the data side, ADP payrolls came in at 38k",
-      "link": "https://www.financialjuice.com/News/9748392/ING-FX-Daily---FJElite.aspx?xy=rss",
-      "published": "2026-09-03T11:01:44+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar gains against US Dollar due to unfavorable US NFP backdrop",
-      "summary": "The New Zealand Dollar (NZD) is up 0.16% at around 0.5860 against the US Dollar (USD) during the European trading session on Thursday.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-against-us-dollar-due-to-unfavorable-us-nfp-backdrop-202609031057",
-      "published": "2026-09-03T10:57:42+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9748377/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-09-03T10:49:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: \t\nTop S&P 500 Stock Names Implied Volatility",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9748373/%09Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-09-03T10:48:34+00:00",
-      "score": 1
+      "score": 6
     },
     {
       "source": "r/Forex",
@@ -91,105 +217,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w63voi/why_a_weak_jobs_number_might_not_actually_be_weak/",
       "published": "2026-09-03T10:46:43+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD recovery, likely to be challenged around $4,470",
-      "summary": "Gold (XAU/USD) is trading higher on Thursday, returning to levels above $4.400 after bouncing from three-week lows near $4,280 on Wednesday.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-likely-to-be-challenged-around-4-470-202609031020",
-      "published": "2026-09-03T10:20:07+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc: Swiss data supports dip-buying case – Societe Generale",
-      "summary": "Societe Generale strategists note Swiss August Consumer Price Index (CPI) and second-quarter Gross Domestic Product (GDP) surprised to the upside, triggering profit-taking in EUR/CHF and USD/CHF but leaving Swiss National Bank (SNB) policy expectations unchanged.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-swiss-data-supports-dip-buying-case-societe-generale-202609031005",
-      "published": "2026-09-03T10:05:37+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: BoC inflation focus and valuation divergence – MUFG",
-      "summary": "Derek Halpenny at MUFG notes the Canadian Dollar’s (CAD) immediate advance after the Bank of Canada left rates unchanged at 2.25% but signalled greater concern over inflation.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-boc-inflation-focus-and-valuation-divergence-mufg-202609030934",
-      "published": "2026-09-03T09:34:15+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver rises, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) rose on Thursday, according to FXStreet data. Silver trades at $65.88 per troy ounce, up 0.87% from the $65.31 it cost on Wednesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202609030933",
-      "published": "2026-09-03T09:33:00+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japan’s Mimura keeps threat of FX intervention alive",
-      "summary": "Japan’s top currency diplomat Atsushi Mimura reiterates on Thursday that authorities remain ready to act in the foreign exchange market, as Tokyo continues to closely monitor currency moves.",
-      "link": "https://www.fxstreet.com/news/japans-mimura-keeps-threat-of-fx-intervention-alive-202609030926",
-      "published": "2026-09-03T09:26:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Polish Zloty: NBP language turns cautious after FX pressure – Commerzbank",
-      "summary": "Commerzbank’s Tatha Ghose notes that NBP Governor Adam Glapinski used G20 remarks to shift towards a more neutral, flexible stance, avoiding earlier dovish hints of imminent rate cuts. With August CPI surprising hawkishly and the Zloty underperforming CE3 peers, the bank is seen on the back foot.",
-      "link": "https://www.fxstreet.com/news/polish-zloty-nbp-language-turns-cautious-after-fx-pressure-commerzbank-202609030918",
-      "published": "2026-09-03T09:18:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen strengthens following hawkish BoJ comments",
-      "summary": "USD/JPY extends its losses for the second consecutive day, trading around 156.80 during the European hours on Thursday.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-following-hawkish-boj-comments-202609030906",
-      "published": "2026-09-03T09:06:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Pullback eases with upside focus on 0.7200 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report AUD/USD dipped to 0.7122 before a strong rebound to 0.7176, leaving intraday price action in a 0.7140–0.7180 range. Downward momentum is fading and a break above 0.7190 would confirm 0.7120 is out of reach.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-pullback-eases-with-upside-focus-on-07200-against-us-dollar-uob-202609030906",
-      "published": "2026-09-03T09:06:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Intervention jitters linger – ING",
-      "summary": "Chris Turner at ING notes that a near 1% drop in USD/JPY within minutes, followed by another slide, sparked talk of renewed Japanese intervention after the Bank of Japan’s earlier $96 billion sales.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-jitters-linger-ing-202609030851",
-      "published": "2026-09-03T08:51:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD struggles to extend upside above $66.25, NFP data awaited",
-      "summary": "Silver price (XAG/USD) struggles to extend Wednesday’s strong recovery move above $66.25 during the European trading session on Thursday. The white metal could remain sideways as investors await the United States (US) Nonfarm Payrolls (NFP) data for August, which will be released on Friday.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-struggles-to-extend-upside-above-6625-nfp-data-awaited-202609030846",
-      "published": "2026-09-03T08:46:50+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee rallies on strong foreign inflows through FCNR deposits",
-      "summary": "The Indian Rupee (INR) trades strongly against the US Dollar (USD) on Thursday, extending the rally to near 94.28.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-hits-fresh-two-month-high-against-us-dollar-202609030522",
-      "published": "2026-09-03T05:22:14+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -217,24 +244,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w581mn/new_york_opening_with_xauusd_setup/",
       "published": "2026-09-02T11:47:44+00:00",
       "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Waiting for the profit. Will it break volume support or not?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w4l8ex/waiting_for_the_profit_will_it_break_volume/\"> <img alt=\"Waiting for the profit. Will it break volume support or not?\" src=\"https://preview.redd.it/w2l1ljblfymh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3cbe113cd336494941e37376b6b46c6d27fbd79\" title=\"Waiting for the profit. Will it break volume support or not?\" /> ",
-      "link": "https://www.reddit.com/r/Forex/comments/1w4l8ex/waiting_for_the_profit_will_it_break_volume/",
-      "published": "2026-09-01T18:53:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gold taking support from major level",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w4djyj/gold_taking_support_from_major_level/\"> <img alt=\"Gold taking support from major level\" src=\"https://preview.redd.it/nis5xkhm4xmh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=452ee3a77f18c5c107f56f3ed60a2b068d8103dc\" title=\"Gold taking support from major level\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Gold is",
-      "link": "https://www.reddit.com/r/Forex/comments/1w4djyj/gold_taking_support_from_major_level/",
-      "published": "2026-09-01T14:26:38+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
