@@ -1,60 +1,195 @@
 {
-  "updated_at": "2026-09-04T05:59:43.567055+00:00",
-  "count": 43,
+  "updated_at": "2026-09-04T11:07:57.822698+00:00",
+  "count": 44,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indonesian Rupiah declines as US Dollar gains despite easing Fed rate hike odds",
-      "summary": "USD/IDR gains ground after two days of losses, trading around 17,670 during the Asian hours on Friday. The currency pair is pushing higher as the US Dollar (USD) holds onto its recent gains after rebounding from intraday losses.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-as-us-dollar-gains-despite-easing-fed-rate-hike-odds-202609040554",
-      "published": "2026-09-04T05:54:02+00:00",
+      "title": "AUD/USD Price Forecast: On track to revisit four-year high near 0.7280",
+      "summary": "The Australian Dollar (AUD) trades marginally higher at around 0.7203 against the US Dollar (USD) during the European trading session on Friday. The Aussie pair is broadly firm as the US Dollar remains under pressure, with traders reassessing Federal Reserve (Fed) interest rate expectations.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-on-track-to-revisit-four-year-high-near-07280-202609041105",
+      "published": "2026-09-04T11:05:38+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound strengthens above 1.3500 as BoE stays hawkish, traders brace for US NFP data",
-      "summary": "The GBP/USD pair edges higher to around 1.3530 during the early European trading hours on Friday. Hawkish rhetoric from a Bank of England (BoE) policymaker provides some support to the British Pound (GBP) against the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/british-pound-strengthens-above-13500-as-boe-stays-hawkish-traders-brace-for-us-nfp-data-202609040550",
-      "published": "2026-09-04T05:50:52+00:00",
+      "title": "Gold pauses after two-day recovery as US NFP looms",
+      "summary": "Gold (XAU/USD) moves quietly on Friday after two straight days of gains, as traders appear reluctant to take fresh positions ahead of the US Nonfarm Payrolls (NFP) report at 12:30 GMT.",
+      "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103",
+      "published": "2026-09-04T11:03:54+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MUFG FX Daily - FJElite",
+      "summary": "<div>The yen has strengthened sharply over the couple of trading days resulting in USD/JPY falling back towards the 155.00-level. It has proven to be an important support level so far this year after it held following intervention driven yen gains in late April/early May and in late July/early August. On this occasion the sharp strengthening of the yen appears to have been driven by fundamental dr",
+      "link": "https://www.financialjuice.com/News/9750148/MUFG-FX-Daily---FJElite.aspx?xy=rss",
+      "published": "2026-09-04T10:58:52+00:00",
+      "score": 5
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: \t\nFed Interest Rate Probabilities",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9750139/%09Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+      "published": "2026-09-04T10:52:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: \t\nTop S&P 500 Stock Names Implied Volatility",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9750135/%09Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+      "published": "2026-09-04T10:51:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound pulls back from session highs as BoE Bailey tames rate hike hopes",
+      "summary": "The British Pound (GBP) has retreated from session highs just below 1.3550 against the US Dollar (USD) during the London trading session, returning to levels near 1.3520 and turning negative on the daily chart.",
+      "link": "https://www.fxstreet.com/news/british-pound-pulls-back-from-session-highs-as-boe-bailey-tames-rate-hike-hopes-202609041045",
+      "published": "2026-09-04T10:45:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "I built an open-source MT5 visual replacer for backtesting — looking for honest feedback before I take it further",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w70j9u/i_built_an_opensource_mt5_visual_replacer_for/\"> <img alt=\"I built an open-source MT5 visual replacer for backtesting — looking for honest feedback before I take it further\" src=\"https://preview.redd.it/qamx89k3dhnh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e23dbe1327a8085605a270b852d527fabada2398\" title=\"I built an ",
+      "link": "https://www.reddit.com/r/Forex/comments/1w70j9u/i_built_an_opensource_mt5_visual_replacer_for/",
+      "published": "2026-09-04T10:27:16+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "BoE's Bailey defends central bank flexibility, warns of bond market pressures",
+      "summary": "Bank of England (BoE) Governor Andrew Bailey said on Friday that monetary policymakers have some discretion over how quickly they bring inflation back to target, while stressing that returning inflation to the target remains imperative.",
+      "link": "https://www.fxstreet.com/news/boes-bailey-defends-central-bank-flexibility-warns-of-bond-market-pressures-202609040959",
+      "published": "2026-09-04T09:59:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Data volatility guides Bank of Canada – Commerzbank",
+      "summary": "Commerzbank analysts Norman Liebke and Michael Pfister report that the Bank of Canada kept its policy rate at 2.25% but adopted a more hawkish tone as inflation risks rise from higher energy prices and trade tensions with the US.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-data-volatility-guides-bank-of-canada-commerzbank-202609040957",
+      "published": "2026-09-04T09:57:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold Price Forecast: XAU/USD recovery stalls below $4.500 awaiting US Nonfarm Payrolls",
+      "summary": "Gold (XAU/USD) trades flat at the $4,470 area on Friday, as the previous two days’ rebound from $4,280 failed to find acceptance above the $4,500 psychological area.",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-stalls-below-4500-awaiting-us-nonfarm-payrolls-202609040949",
+      "published": "2026-09-04T09:49:51+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index: Two-way risks within bearish channel – OCBC",
+      "summary": "OCBC’s Christopher Wong notes that the Dollar Index (DXY) has eased alongside lower UST yields after Fed Governor Waller signalled a preference to keep rates unchanged in September if disinflation persists.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-two-way-risks-within-bearish-channel-ocbc-202609040947",
+      "published": "2026-09-04T09:47:14+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price today: Silver falls, according to FXStreet data",
+      "summary": "Silver prices (XAG/USD) fell on Friday, according to FXStreet data. Silver trades at $66.67 per troy ounce, down 0.46% from the $66.98 it cost on Thursday.",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609040930",
+      "published": "2026-09-04T09:30:04+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee: Rate hike path supports currency – Societe Generale",
+      "summary": "Societe Generale strategists note that the Indian Rupee (INR) rallied to its strongest level against the US Dollar (USD) since late June, helped by active RBI intervention and sizeable FX mobilisation flows.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rate-hike-path-supports-currency-societe-generale-202609040927",
+      "published": "2026-09-04T09:27:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Stronger yen driven by fundamentals – MUFG",
+      "summary": "MUFG’s Lee Hardman notes that the Japanese Yen (JPY) has strengthened sharply, pushing USD/JPY back towards the 155.00 support level that has held several times this year.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-stronger-yen-driven-by-fundamentals-mufg-202609040915",
+      "published": "2026-09-04T09:15:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Gradual recovery from Warsh sell-off against US Dollar – ING",
+      "summary": "ING’s Chris Turner writes that EUR/USD is grinding higher as markets reverse the earlier sell-off triggered by Kevin Warsh’s speech, with the pair moving back toward 1.1650. A softer Dollar backdrop versus EMFX and pro-growth G10 currencies supports the Euro.",
+      "link": "https://www.fxstreet.com/news/euro-gradual-recovery-from-warsh-sell-off-against-us-dollar-ing-202609040852",
+      "published": "2026-09-04T08:52:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "GBP/USD Price Forecast: Bulls turn cautious as 1.3550 cap gains ahead of US NFP",
+      "summary": "The GBP/USD pair attracts some buyers for the second straight day, though it lacks follow-through and remains capped near mid-1.3500s through the early European session on Friday.",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-turn-cautious-as-13550-cap-gains-ahead-of-us-nfp-202609040834",
+      "published": "2026-09-04T08:34:20+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee trades close to two-month low ahead of US NFP data",
-      "summary": "The Indian Rupee (INR) opens on a flat note against the US Dollar (USD) on Friday, but is close to its two-month high of 94.29 posted the previous day.",
+      "title": "US August Nonfarm Payrolls set to rebound as markets assess September Fed hike",
+      "summary": "The United States (US) Bureau of Labor Statistics (BLS) is set to release the Nonfarm Payrolls (NFP) data for August on Friday at 12:30 GMT.",
+      "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830",
+      "published": "2026-09-04T08:30:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Hungarian Forint: Forint supported by possible MNB pause – Commerzbank",
+      "summary": "Commerzbank’s Tatha Ghose highlights a sharp Forint rally after a Bloomberg report suggested the National Bank of Hungary may pause rate cuts on 22 September and consider lowering its inflation target. While unconfirmed, this aligns with the bank’s less dovish August message.",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-forint-supported-by-possible-mnb-pause-commerzbank-202609040828",
+      "published": "2026-09-04T08:28:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "USD/JPY is stuck in a tight range ahead of the US NFP report",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>USD/JPY is stuck in a tight range ahead of the US NFP report. </p> <p>My model is flagging 156.70 as a critical resistance level to watch. We've seen some Yen weakness lately, which is helping USD/JPY hold above 155.50 support, but the big move will likely come after the jobs numbers. </p> <p>What are your expectations for NFP and how do you see it impacting this ",
+      "link": "https://www.reddit.com/r/Forex/comments/1w6y390/usdjpy_is_stuck_in_a_tight_range_ahead_of_the_us/",
+      "published": "2026-09-04T08:06:32+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro remains steady above 1.1600, unfazed by downbeat Eurozone Retail Sales",
+      "summary": "The Euro (EUR) remains hovering between 1.1600 and 1.1630 against the US Dollar (USD) on Friday, hardly affected by the release of a disappointing Eurozone Retail Sales report earlier in the day.",
+      "link": "https://www.fxstreet.com/news/euro-stalls-above-11600-with-eurozone-retail-sales-us-nonfarm-payrolls-on-tap-202609040621",
+      "published": "2026-09-04T06:21:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee outperforms ahead of US NFP data",
+      "summary": "The Indian Rupee (INR) reflects strength against the US Dollar (USD) on Friday, trading close to its two-month high of 94.29 posted the previous day.",
       "link": "https://www.fxstreet.com/news/indian-rupee-trades-close-to-two-month-low-ahead-of-us-nfp-data-202609040546",
       "published": "2026-09-04T05:46:52+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen retreats from August highs as USD bears turn cautious ahead of US NFP",
-      "summary": "The USD/JPY pair stages a modest intraday recovery from the vicinity of the August monthly low and climbs back to the 156.50 area during the Asian session on Friday. Spot prices, for now, seem to have snapped a two-day losing streak, though the upside potential seems limited.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-retreats-from-august-highs-as-usd-bears-turn-cautious-ahead-of-us-nfp-202609040529",
-      "published": "2026-09-04T05:29:07+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc weakens ahead of Unemployment Rate data",
-      "summary": "USD/CHF gains ground after registering losses in the previous day, trading around 0.8080 during Asian hours on Friday.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-ahead-of-unemployment-rate-data-202609040450",
-      "published": "2026-09-04T04:50:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "summary": "Gold prices fell in India on Friday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609040435",
-      "published": "2026-09-04T04:35:47+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -63,114 +198,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Dear Day Traders,<br /> I’m not really “day trading” myself these days. I mostly watch posts — formerly known as tweets — and laugh.</p> <p>In case anyone forgot, today is September NFP day.<br /> NFP is usually important. It can create sudden volatility, unexpected moves, and sometimes even change the direction of the market altogether. Normally, before NFP — esp",
       "link": "https://www.reddit.com/r/Forex/comments/1w6u0vh/today_is_nfp_day_by_the_way/",
       "published": "2026-09-04T04:22:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold bulls seem hesitant below $4,500 amid modest USD bounce ahead of US NFP",
-      "summary": "Gold (XAU/USD) remains on the defensive below the $4,500 mark through the Asian session on Friday, snapping a two-day winning streak amid a modest US Dollar (USD) uptick.",
-      "link": "https://www.fxstreet.com/news/gold-consolidates-below-4-500-as-bulls-look-to-us-nfp-for-fed-rate-cues-202609040418",
-      "published": "2026-09-04T04:18:00+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: UK-EU alignment is ‘problem’ for US trade pact: top Trump official - FT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9749701/UK-EU-alignment-is-problem-for-US-trade-pact-top-Trump-official---FT.aspx?xy=rss",
-      "published": "2026-09-04T04:02:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China finance ministry auctions one-year bonds at 1.1922% yield: traders",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9749676/China-finance-ministry-auctions-one-year-bonds-at-11922-yield-traders.aspx?xy=rss",
-      "published": "2026-09-04T03:39:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China finance ministry offers 20-year ultra-long special treasury bonds at 2.127% yield, traders say",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9749675/China-finance-ministry-offers-20-year-ultra-long-special-treasury-bonds-at-2127-yield-traders-say.aspx?xy=rss",
-      "published": "2026-09-04T03:39:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Strong recovery from 100-day MA ahead of US NFP data",
-      "summary": "The Euro (EUR) holds onto previous day’s gains at around 1.1630 against the US Dollar (USD) during the Asian trading session on Friday.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-strong-recovery-from-100-day-ma-ahead-of-us-nfp-data-202609040320",
-      "published": "2026-09-04T03:20:10+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar gains momentum to near 0.5900, US NFP data looms",
-      "summary": "The NZD/USD pair gathers strength to near 0.5895 during the Asian trading hours on Friday. The US Dollar (USD) softens against the New Zealand Dollar (NZD) following Federal Reserve (Fed) Governor Christopher Waller’s remarks. Traders brace for the US August employment report later on Friday.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-momentum-to-near-05900-us-nfp-data-looms-202609040245",
-      "published": "2026-09-04T02:45:10+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index weakens as Fed’s Waller signals rate pause",
-      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is losing ground for the third consecutive day and trading around 99.00 during Asian hours on Friday.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-as-feds-waller-signals-rate-pause-202609040225",
-      "published": "2026-09-04T02:25:55+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD trades below $67.00 amid mixed setup as US NFP looms",
-      "summary": "Silver (XAG/USD) edges lower during the Asian session on Friday, snapping a two-day winning streak to the weekly high set the previous day.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-trades-below-6700-amid-mixed-setup-as-us-nfp-looms-202609040223",
-      "published": "2026-09-04T02:23:59+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar strengthens on RBA hike odds",
-      "summary": "AUD/USD extends its gains for the third successive day, trading around 0.7210 during the Asian hours on Friday.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-on-rba-hike-odds-202609040207",
-      "published": "2026-09-04T02:07:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar remains on the front foot vs USD as US and Canada jobs data loom",
-      "summary": "The USD/CAD pair consolidates below the 1.3800 mark during the Asian session on Friday and remains close to a nearly two-week low, touched the previous day.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-on-the-front-foot-vs-usd-as-us-and-canada-jobs-data-loom-202609040148",
-      "published": "2026-09-04T01:48:23+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound edges higher above 1.3500 ahead of US jobs report",
-      "summary": "The GBP/USD pair gathers strength to near 1.3530 during the early Asian trading hours on Friday. The British Pound (GBP) edges higher against the US Dollar (USD) following hawkish remarks from a Bank of England (BoE) policymaker.",
-      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-above-13500-ahead-of-us-jobs-report-202609040146",
-      "published": "2026-09-04T01:46:10+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7787 vs. 6.7807 previous",
-      "summary": "On Friday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7787 compared to the previous day's fix of 6.7807 and 6.7098 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67787-vs-67807-previous-202609040115",
-      "published": "2026-09-04T01:15:35+00:00",
       "score": 1
     },
     {
@@ -203,15 +230,6 @@
     {
       "source": "r/Forex",
       "category": "reddit",
-      "title": "Programming backtestig using python vs human backtesting which one is the best?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Programming backtestig using python vs human backtesting which one is the best?</p> <p>Well my friend gemini always suggests to me to make a backtest using python to any strategy i use before start using it to chart because numbers don't lie unlike the backtest you will make by yourself which you may just look at the best results how many profits you have made but",
-      "link": "https://www.reddit.com/r/Forex/comments/1w67961/programming_backtestig_using_python_vs_human/",
-      "published": "2026-09-03T13:21:14+00:00",
-      "score": 4
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
       "title": "Last hope lost hope! XAUUSD",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w64qvl/last_hope_lost_hope_xauusd/\"> <img alt=\"Last hope lost hope! XAUUSD\" src=\"https://preview.redd.it/2mpfvgyjjanh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb8915b0c3252b730ddc42ee42c1071da5f6c400\" title=\"Last hope lost hope! XAUUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Apparently having fundamentals on ",
       "link": "https://www.reddit.com/r/Forex/comments/1w64qvl/last_hope_lost_hope_xauusd/",
@@ -226,15 +244,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w63voi/why_a_weak_jobs_number_might_not_actually_be_weak/",
       "published": "2026-09-03T10:46:43+00:00",
       "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Me VS XAUUSD",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w5l3ds/me_vs_xauusd/\"> <img alt=\"Me VS XAUUSD\" src=\"https://preview.redd.it/41xbhoh0w5nh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5bcf1e23aa29906c07f365899b808e0df880a702\" title=\"Me VS XAUUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>I opened a 1 lot position.. and im not going to cut the profit til it ",
-      "link": "https://www.reddit.com/r/Forex/comments/1w5l3ds/me_vs_xauusd/",
-      "published": "2026-09-02T19:51:27+00:00",
-      "score": 3
     },
     {
       "source": "Federal Reserve",
