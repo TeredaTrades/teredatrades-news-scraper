@@ -1,60 +1,231 @@
 {
-  "updated_at": "2026-09-04T11:07:57.822698+00:00",
-  "count": 44,
+  "updated_at": "2026-09-04T14:58:04.276552+00:00",
+  "count": 50,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "AUD/USD Price Forecast: On track to revisit four-year high near 0.7280",
-      "summary": "The Australian Dollar (AUD) trades marginally higher at around 0.7203 against the US Dollar (USD) during the European trading session on Friday. The Aussie pair is broadly firm as the US Dollar remains under pressure, with traders reassessing Federal Reserve (Fed) interest rate expectations.",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-on-track-to-revisit-four-year-high-near-07280-202609041105",
-      "published": "2026-09-04T11:05:38+00:00",
+      "title": "Swiss Franc loses ground upbeat US Nonfarm Payrolls",
+      "summary": "USD/CHF trades higher on Friday as stronger-than-expected United States (US) Nonfarm Payrolls (NFP) data trigger fresh volatility. The pair jumped to 0.8126 following the release before giving back part of its advance. At the time of writing, USD/CHF trades around 0.8102, up nearly 0.34% on the day.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-loses-ground-upbeat-us-nonfarm-payrolls-202609041453",
+      "published": "2026-09-04T14:53:06+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold pauses after two-day recovery as US NFP looms",
-      "summary": "Gold (XAU/USD) moves quietly on Friday after two straight days of gains, as traders appear reluctant to take fresh positions ahead of the US Nonfarm Payrolls (NFP) report at 12:30 GMT.",
-      "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103",
-      "published": "2026-09-04T11:03:54+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MUFG FX Daily - FJElite",
-      "summary": "<div>The yen has strengthened sharply over the couple of trading days resulting in USD/JPY falling back towards the 155.00-level. It has proven to be an important support level so far this year after it held following intervention driven yen gains in late April/early May and in late July/early August. On this occasion the sharp strengthening of the yen appears to have been driven by fundamental dr",
-      "link": "https://www.financialjuice.com/News/9750148/MUFG-FX-Daily---FJElite.aspx?xy=rss",
-      "published": "2026-09-04T10:58:52+00:00",
-      "score": 5
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: \t\nFed Interest Rate Probabilities",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9750139/%09Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-09-04T10:52:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: \t\nTop S&P 500 Stock Names Implied Volatility",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9750135/%09Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-09-04T10:51:00+00:00",
+      "title": "Canada: Gradual improvement outlook on labour market – RBC",
+      "summary": "Royal Bank of Canada (RBC) economist Claire Fan notes Canada’s labour market lost 42,000 jobs in August, partly reversing earlier gains and leaving modest year-to-date job growth. She emphasizes structural factors like demographics and weaker immigration as key drags.",
+      "link": "https://www.fxstreet.com/news/canada-gradual-improvement-outlook-on-labour-market-rbc-202609041452",
+      "published": "2026-09-04T14:52:00+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound pulls back from session highs as BoE Bailey tames rate hike hopes",
-      "summary": "The British Pound (GBP) has retreated from session highs just below 1.3550 against the US Dollar (USD) during the London trading session, returning to levels near 1.3520 and turning negative on the daily chart.",
-      "link": "https://www.fxstreet.com/news/british-pound-pulls-back-from-session-highs-as-boe-bailey-tames-rate-hike-hopes-202609041045",
-      "published": "2026-09-04T10:45:29+00:00",
+      "title": "United States: Solid jobs data support steady Fed – Commerzbank",
+      "summary": "Commerzbank’s Dr. Christoph Balz notes that the U.S. labor market surprised to the upside in August, with Nonfarm Payrolls and private sector jobs both rising strongly while the unemployment rate held at 4.1%. Wage growth continued to slow.",
+      "link": "https://www.fxstreet.com/news/united-states-solid-jobs-data-support-steady-fed-commerzbank-202609041436",
+      "published": "2026-09-04T14:36:43+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Citi expects Fed to deliver 25 BPS rate cuts in June, September and December 2027 vs prior forecast of cuts in October, December 2026 and January 2027.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9750500/Citi-expects-Fed-to-deliver-25-BPS-rate-cuts-in-June-September-and-December-2027-vs-prior-forecast-of-cuts-in-October-December-2026-and-January-2027.aspx?xy=rss",
+      "published": "2026-09-04T14:20:47+00:00",
       "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "\"Lower the rate or I’ll stop trading\": Trump pressures Fed after strong US jobs report",
+      "summary": "In a post on Truth Social, United States (US) President Donald Trump welcomed the creation of 162K jobs in August, a figure he described as significantly above expectations.",
+      "link": "https://www.fxstreet.com/news/lower-the-rate-or-ill-stop-trading-trump-pressures-fed-after-strong-us-jobs-report-202609041410",
+      "published": "2026-09-04T14:10:55+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Treasury Secretary Bessent: Canada lost more than 40,000 jobs and we had a blowout jobs number.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9750485/US-Treasury-Secretary-Bessent-Canada-lost-more-than-40000-jobs-and-we-had-a-blowout-jobs-number.aspx?xy=rss",
+      "published": "2026-09-04T14:10:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Treasury Secretary Bessent: jobs data indicate economy not solely driven by AI building boom - Real America’s Voice News interview",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9750484/US-Treasury-Secretary-Bessent-jobs-data-indicate-economy-not-solely-driven-by-AI-building-boom---Real-Americas-Voice-News-interview.aspx?xy=rss",
+      "published": "2026-09-04T14:09:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: U.S. sanction targets include Golden Global Yatirim Bankasi Anonim Sirketi: U.S. Treasury website",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9750482/US-sanction-targets-include-Golden-Global-Yatirim-Bankasi-Anonim-Sirketi-US-Treasury-website.aspx?xy=rss",
+      "published": "2026-09-04T14:07:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Jobs weakness caps gains against US Dollar - TD Securities",
+      "summary": "TD Securities strategists note that Canada’s softer August labour report, including weaker employment momentum and slower wage growth, is unlikely to materially change the Bank of Canada’s (BoC) assessment of the labour market.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-jobs-weakness-caps-gains-against-us-dollar-td-securities-202609041406",
+      "published": "2026-09-04T14:06:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: WH Sr. Adviser Hassett: I spoke to Trump last night, he's not giving fed advice.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9750477/WH-Sr-Adviser-Hassett-I-spoke-to-Trump-last-night-hes-not-giving-fed-advice.aspx?xy=rss",
+      "published": "2026-09-04T14:03:07+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar slides as Canada sheds 41.7K jobs, US payrolls surge",
+      "summary": "USD/CAD accelerates sharply higher on Friday, trading around 1.3850 at the time of writing, up 0.39% on the day.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-as-canada-sheds-417k-jobs-us-payrolls-surge-202609041400",
+      "published": "2026-09-04T14:00:41+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Jobs strength lifts hike odds – ING",
+      "summary": "ING’s James Knightley notes that stronger-than-expected US August jobs data, with 162,000 new positions and upward revisions, has increased the perceived likelihood of a September Federal Reserve rate hike.",
+      "link": "https://www.fxstreet.com/news/us-dollar-jobs-strength-lifts-hike-odds-ing-202609041349",
+      "published": "2026-09-04T13:49:38+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound trims losses against US Dollar after NFP-driven volatility",
+      "summary": "GBP/USD recovers part of its initial drop on Friday after stronger-than-expected United States (US) employment data briefly lifts the US Dollar (USD). The pair fell to an intraday low of 1.3482 immediately after the release before rebounding. At the time of writing, GBP/USD trades around 1.3512.",
+      "link": "https://www.fxstreet.com/news/british-pound-trims-losses-against-us-dollar-after-nfp-driven-volatility-202609041346",
+      "published": "2026-09-04T13:46:26+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "XAUUSD right time!",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w74mlb/xauusd_right_time/\"> <img alt=\"XAUUSD right time!\" src=\"https://preview.redd.it/1dfm3fywainh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e68323cce82fe6ce33400f2040f70b7c51935bc6\" title=\"XAUUSD right time!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I think healthy pullback is done.</p> <p>Now let's take over.",
+      "link": "https://www.reddit.com/r/Forex/comments/1w74mlb/xauusd_right_time/",
+      "published": "2026-09-04T13:36:20+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Central bank buying underpins prices – ING",
+      "summary": "ING’s Warren Patterson and Ewa Manthey highlight that central banks, led by China and Poland, continued net Gold purchases in July, supporting structural demand despite a slower pace than last year.",
+      "link": "https://www.fxstreet.com/news/gold-central-bank-buying-underpins-prices-ing-202609041325",
+      "published": "2026-09-04T13:25:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro slips against US Dollar as Nonfarm Payrolls crush expectations",
+      "summary": "EUR/USD comes under selling pressure on Friday as the US Dollar (USD) strengthens following the release of the upbeat United States (US) employment report. At the time of writing, the pair trades around 1.1605, down roughly 0.18% on the day, after retreating from an intraday high of 1.1633.",
+      "link": "https://www.fxstreet.com/news/euro-slips-against-us-dollar-as-nonfarm-payrolls-crush-expectations-202609041319",
+      "published": "2026-09-04T13:19:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen steadies against US Dollar after strong NFP report",
+      "summary": "USD/JPY trades around 155.85 on Friday at the time of writing, virtually unchanged on the day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-steadies-against-us-dollar-after-strong-nfp-report-202609041309",
+      "published": "2026-09-04T13:09:07+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Icmarkets freezing during NFP (2nd time happened for me)",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>WTF that bullshit, i usually ride the NFP candle at the start...but with MT5 xauusd terminal freezing for the first 5 seconds..then its all gone.</p> <p>Seem like they are doing it on purpose? or just MT5 issue? </p> <p>its fucking nice to see 60-70$ candle all gone without riding it lol. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.redd",
+      "link": "https://www.reddit.com/r/Forex/comments/1w73qf0/icmarkets_freezing_during_nfp_2nd_time_happened/",
+      "published": "2026-09-04T13:00:01+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso: Trade talks support Peso against US Dollar - Societe Generale",
+      "summary": "Societe Generale reports that USD/MXN has moved back below 17.00 as Mexican officials engage with US counterparts on trade issues following a widening US-Canada rift. The bank highlights a sharp drop in Mexico’s car imports from China after tariff adjustments aimed at protecting local jobs.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-trade-talks-support-peso-against-us-dollar-societe-generale-202609041250",
+      "published": "2026-09-04T12:50:35+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Who else got sexually assaulted by the nfp print",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Need i say more </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Advanced_Breath_4400\"> /u/Advanced_Breath_4400 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1w73grn/who_else_got_sexually_assaulted_by_the_nfp_print/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1w73grn/wh",
+      "link": "https://www.reddit.com/r/Forex/comments/1w73grn/who_else_got_sexually_assaulted_by_the_nfp_print/",
+      "published": "2026-09-04T12:48:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "European Central Bank: Inflation-driven hike prospects – DBS",
+      "summary": "DBS Group Research expects the European Central Bank (ECB) to raise the deposit facility rate to 2.50%, citing a resilient inflation-growth mix in the Eurozone. The report notes headline inflation has moved further above target, while core pressures remain contained for now.",
+      "link": "https://www.fxstreet.com/news/european-central-bank-inflation-driven-hike-prospects-dbs-202609041229",
+      "published": "2026-09-04T12:29:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Federal Reserve: Close call on further tightening – Commerzbank",
+      "summary": "Commerzbank’s Dr. Christoph Balz expects the Federal Reserve to keep rates unchanged, but highlights a significant risk of another 25 bps hike.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-close-call-on-further-tightening-commerzbank-202609041204",
+      "published": "2026-09-04T12:04:53+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "XAUUSD NFP ANALYSIS",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w728j7/xauusd_nfp_analysis/\"> <img alt=\"XAUUSD NFP ANALYSIS\" src=\"https://preview.redd.it/jstra5rlshnh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9250d9dbeaebcc1f8680f0b3e48bdb4675a0b4ad\" title=\"XAUUSD NFP ANALYSIS\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>🔥 What I would watch at NFP</p> <p>🟢 Scen",
+      "link": "https://www.reddit.com/r/Forex/comments/1w728j7/xauusd_nfp_analysis/",
+      "published": "2026-09-04T11:53:44+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Sharp rebound and Fed repricing – MUFG",
+      "summary": "MUFG’s Michael Wan highlights a sharp strengthening in the Japanese Yen, with USD/JPY dropping from 160 to around 155.30 as the Dollar broadly weakened and Asian FX gained.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-sharp-rebound-and-fed-repricing-mufg-202609041152",
+      "published": "2026-09-04T11:52:55+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold tumbles as blockbuster US NFP lift US Dollar, Treasury yields",
+      "summary": "Gold (XAU/USD) falls sharply on Friday, snapping a two-day recovery after the US Nonfarm Payrolls (NFP) report surprised strongly to the upside. The metal briefly climbed above $4,500 on Thursday, gaining nearly 2%, but has since erased a large part of that advance.",
+      "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103",
+      "published": "2026-09-04T11:03:54+00:00",
+      "score": 6
     },
     {
       "source": "r/Forex",
@@ -68,100 +239,10 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "BoE's Bailey defends central bank flexibility, warns of bond market pressures",
-      "summary": "Bank of England (BoE) Governor Andrew Bailey said on Friday that monetary policymakers have some discretion over how quickly they bring inflation back to target, while stressing that returning inflation to the target remains imperative.",
-      "link": "https://www.fxstreet.com/news/boes-bailey-defends-central-bank-flexibility-warns-of-bond-market-pressures-202609040959",
-      "published": "2026-09-04T09:59:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Data volatility guides Bank of Canada – Commerzbank",
-      "summary": "Commerzbank analysts Norman Liebke and Michael Pfister report that the Bank of Canada kept its policy rate at 2.25% but adopted a more hawkish tone as inflation risks rise from higher energy prices and trade tensions with the US.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-data-volatility-guides-bank-of-canada-commerzbank-202609040957",
-      "published": "2026-09-04T09:57:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD recovery stalls below $4.500 awaiting US Nonfarm Payrolls",
-      "summary": "Gold (XAU/USD) trades flat at the $4,470 area on Friday, as the previous two days’ rebound from $4,280 failed to find acceptance above the $4,500 psychological area.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-recovery-stalls-below-4500-awaiting-us-nonfarm-payrolls-202609040949",
-      "published": "2026-09-04T09:49:51+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index: Two-way risks within bearish channel – OCBC",
-      "summary": "OCBC’s Christopher Wong notes that the Dollar Index (DXY) has eased alongside lower UST yields after Fed Governor Waller signalled a preference to keep rates unchanged in September if disinflation persists.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-two-way-risks-within-bearish-channel-ocbc-202609040947",
-      "published": "2026-09-04T09:47:14+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) fell on Friday, according to FXStreet data. Silver trades at $66.67 per troy ounce, down 0.46% from the $66.98 it cost on Thursday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609040930",
-      "published": "2026-09-04T09:30:04+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee: Rate hike path supports currency – Societe Generale",
-      "summary": "Societe Generale strategists note that the Indian Rupee (INR) rallied to its strongest level against the US Dollar (USD) since late June, helped by active RBI intervention and sizeable FX mobilisation flows.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rate-hike-path-supports-currency-societe-generale-202609040927",
-      "published": "2026-09-04T09:27:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Stronger yen driven by fundamentals – MUFG",
-      "summary": "MUFG’s Lee Hardman notes that the Japanese Yen (JPY) has strengthened sharply, pushing USD/JPY back towards the 155.00 support level that has held several times this year.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-stronger-yen-driven-by-fundamentals-mufg-202609040915",
-      "published": "2026-09-04T09:15:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Gradual recovery from Warsh sell-off against US Dollar – ING",
-      "summary": "ING’s Chris Turner writes that EUR/USD is grinding higher as markets reverse the earlier sell-off triggered by Kevin Warsh’s speech, with the pair moving back toward 1.1650. A softer Dollar backdrop versus EMFX and pro-growth G10 currencies supports the Euro.",
-      "link": "https://www.fxstreet.com/news/euro-gradual-recovery-from-warsh-sell-off-against-us-dollar-ing-202609040852",
-      "published": "2026-09-04T08:52:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/USD Price Forecast: Bulls turn cautious as 1.3550 cap gains ahead of US NFP",
-      "summary": "The GBP/USD pair attracts some buyers for the second straight day, though it lacks follow-through and remains capped near mid-1.3500s through the early European session on Friday.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-bulls-turn-cautious-as-13550-cap-gains-ahead-of-us-nfp-202609040834",
-      "published": "2026-09-04T08:34:20+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US August Nonfarm Payrolls set to rebound as markets assess September Fed hike",
-      "summary": "The United States (US) Bureau of Labor Statistics (BLS) is set to release the Nonfarm Payrolls (NFP) data for August on Friday at 12:30 GMT.",
+      "title": "Breaking: US Nonfarm Payrolls rise by 162K in August vs. 56K forecast",
+      "summary": "Nonfarm Payrolls (NFP) in the United States (US) rose by 162K in August, the US Bureau of Labor Statistics (BLS) reported on Friday. This print followed July's increase of 21K and surpassed the market expectation of 56K by a wide margin.",
       "link": "https://www.fxstreet.com/news/us-august-nonfarm-payrolls-expected-to-rebound-to-58k-after-july-slump-202609040830",
       "published": "2026-09-04T08:30:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Hungarian Forint: Forint supported by possible MNB pause – Commerzbank",
-      "summary": "Commerzbank’s Tatha Ghose highlights a sharp Forint rally after a Bloomberg report suggested the National Bank of Hungary may pause rate cuts on 22 September and consider lowering its inflation target. While unconfirmed, this aligns with the bank’s less dovish August message.",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-forint-supported-by-possible-mnb-pause-commerzbank-202609040828",
-      "published": "2026-09-04T08:28:23+00:00",
       "score": 1
     },
     {
@@ -172,24 +253,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w6y390/usdjpy_is_stuck_in_a_tight_range_ahead_of_the_us/",
       "published": "2026-09-04T08:06:32+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro remains steady above 1.1600, unfazed by downbeat Eurozone Retail Sales",
-      "summary": "The Euro (EUR) remains hovering between 1.1600 and 1.1630 against the US Dollar (USD) on Friday, hardly affected by the release of a disappointing Eurozone Retail Sales report earlier in the day.",
-      "link": "https://www.fxstreet.com/news/euro-stalls-above-11600-with-eurozone-retail-sales-us-nonfarm-payrolls-on-tap-202609040621",
-      "published": "2026-09-04T06:21:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee outperforms ahead of US NFP data",
-      "summary": "The Indian Rupee (INR) reflects strength against the US Dollar (USD) on Friday, trading close to its two-month high of 94.29 posted the previous day.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-trades-close-to-two-month-low-ahead-of-us-nfp-data-202609040546",
-      "published": "2026-09-04T05:46:52+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -235,15 +298,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w64qvl/last_hope_lost_hope_xauusd/",
       "published": "2026-09-03T11:30:31+00:00",
       "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Why a \"weak\" jobs number might not actually be weak anymore // what you won't hear in retail communities ;)",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Quick thing about NFP that changed how I read this number; there's a concept called &quot;breakeven&quot; which is basically the minimum jobs the US needs to add each month just to keep unemployment flat, because new people keep entering the job market. </p> <p>A few years ago that number was around 150k. Today it's estimated at like 20k, because population/labor ",
-      "link": "https://www.reddit.com/r/Forex/comments/1w63voi/why_a_weak_jobs_number_might_not_actually_be_weak/",
-      "published": "2026-09-03T10:46:43+00:00",
-      "score": 2
     },
     {
       "source": "Federal Reserve",
