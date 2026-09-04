@@ -1,7 +1,61 @@
 {
-  "updated_at": "2026-09-03T23:26:56.285486+00:00",
-  "count": 42,
+  "updated_at": "2026-09-04T01:14:37.148852+00:00",
+  "count": 44,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: U.S. auto safety regulator is in contact with Tesla about Cybercab rollout, evaluating situation: spokesperson",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9749487/US-auto-safety-regulator-is-in-contact-with-Tesla-about-Cybercab-rollout-evaluating-situation-spokesperson.aspx?xy=rss",
+      "published": "2026-09-04T01:06:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen sits near August highs as USD remains on the back foot ahead of US NFP",
+      "summary": "The USD/JPY pair enters a bearish consolidation phase during the Asian session on Friday and currently trades near the 155.75 region, nearly unchanged for the day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-sits-near-august-highs-as-usd-remains-on-the-back-foot-ahead-of-us-nfp-202609040104",
+      "published": "2026-09-04T01:04:36+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro steadies above 1.1600 as traders await US NFP data",
+      "summary": "The EUR/USD pair trades on a flat note around 1.1625 during the early Asian session on Friday. Traders prefer to wait on the sidelines ahead of the US key employment report for August, which will be published later on Friday.",
+      "link": "https://www.fxstreet.com/news/euro-steadies-above-11600-as-traders-await-us-nfp-data-202609040048",
+      "published": "2026-09-04T00:48:53+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: U.S. Federal Housing Director Pulte: seriously considering bi-merge and stronger solutions",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9749464/US-Federal-Housing-Director-Pulte-seriously-considering-bi-merge-and-stronger-solutions.aspx?xy=rss",
+      "published": "2026-09-04T00:37:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: U.S. Director of Federal Housing Pulte: Equifax, Experian and TransUnion Have Been Overcharging Americans for Too Long, This Will End Soon",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9749463/US-Director-of-Federal-Housing-Pulte-Equifax-Experian-and-TransUnion-Have-Been-Overcharging-Americans-for-Too-Long-This-Will-End-Soon.aspx?xy=rss",
+      "published": "2026-09-04T00:37:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold rebounds above $4,450 as Waller tempers Fed rate hike bets ahead US jobs data",
+      "summary": "Gold price (XAU/USD) gains momentum to around $4,470 during the early Asian session on Friday. The precious metal extended its recovery as Federal Reserve (Fed) rate hike bets ease. All eyes will be on the US August Nonfarm Payrolls (NFP) report, which is due later on Friday.",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-450-as-waller-tempers-fed-rate-hike-bets-ahead-us-jobs-data-202609032336",
+      "published": "2026-09-03T23:36:51+00:00",
+      "score": 7
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -19,15 +73,6 @@
       "link": "https://www.fxstreet.com/news/the-australian-dollar-thanks-wallers-comments-which-sink-the-usd-202609032243",
       "published": "2026-09-03T22:43:32+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: appoints Adam Telle, current assistant secretary of Army for civil works, as acting secretary of Army",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9749365/Trump-appoints-Adam-Telle-current-assistant-secretary-of-Army-for-civil-works-as-acting-secretary-of-Army.aspx?xy=rss",
-      "published": "2026-09-03T22:37:43+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -102,15 +147,6 @@
       "score": 5
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: +1188 mln<br />Nasdaq 100: -103 mln<br />Dow 30: +575 mln<br />Mag 7: -225 mln",
-      "link": "https://www.financialjuice.com/News/9749226/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-09-03T19:50:30+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Singapore Dollar: Stronger Singapore growth with contained inflation – Commerzbank",
@@ -145,24 +181,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w6g1dm/why_i_passed_on_usdjpy/",
       "published": "2026-09-03T18:39:36+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar extends decline as NFP takes centre stage",
-      "summary": "The US Dollar Index (DXY), which tracks the Greenback’s value against a basket of six major currencies, slides below 99.00 to its lowest level in over a week on Thursday. At the time of writing, DXY trades around 98.90, down 0.67% on the day, after reaching 99.86 on Wednesday.",
-      "link": "https://www.fxstreet.com/news/us-dollar-extends-decline-as-nfp-takes-centre-stage-202609031822",
-      "published": "2026-09-03T18:22:23+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold soars as Waller's dovish tone hurts Fed hike bets ahead of NFP",
-      "summary": "Gold (XAU/USD) rallies more than 2% on Thursday following dovish comments by Federal Reserve (Fed) Governor Christopher Waller, who advocated holding rates steady if inflation data shows the disinflation process continues.",
-      "link": "https://www.fxstreet.com/news/gold-soars-as-wallers-dovish-tone-hurts-fed-hike-bets-ahead-of-nfp-202609031820",
-      "published": "2026-09-03T18:20:30+00:00",
-      "score": 7
     },
     {
       "source": "r/Forex",
