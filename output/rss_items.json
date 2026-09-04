@@ -1,15 +1,87 @@
 {
-  "updated_at": "2026-09-04T18:16:51.347033+00:00",
-  "count": 52,
+  "updated_at": "2026-09-04T20:56:16.886314+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah: Two-way risks around support levels – OCBC",
+      "summary": "OCBC’s Christopher Wong notes that USD/IDR has pulled back as a softer Dollar and lower UST yields support the Indonesian Rupiah. He highlights Bank Indonesia Governor Destry Damayanti’s emphasis on a stability-first approach, prioritizing Rupiah and macro stability while still supporting growth.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-two-way-risks-around-support-levels-ocbc-202609042043",
+      "published": "2026-09-04T20:43:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Services PMI rebound keeps PBoC cautious – Commerzbank",
+      "summary": "Commerzbank says China’s August Services PMI rebound highlights some resilience in private-sector activity, but weak retail sales, soft inflation and higher unemployment still point to fragile domestic demand.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-services-pmi-rebound-keeps-pboc-cautious-commerzbank-202609042003",
+      "published": "2026-09-04T20:03:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Sterling’s rally stalls as US jobs data reopens Fed debate",
+      "summary": "The Pound Sterling retreats some 0.09% against the US Dollar as the latest US inflation report reaffirmed what Fed Chair Warsh said that the labour market is “consistent with full employment.” GBP/USD trades near Friday’s opening price of 1.3512.",
+      "link": "https://www.fxstreet.com/news/sterlings-rally-stalls-as-us-jobs-data-reopens-fed-debate-202609041952",
+      "published": "2026-09-04T19:52:26+00:00",
+      "score": 4
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: WATCH LIVE: Trump Speaks",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9750748/WATCH-LIVE-Trump-Speaks.aspx?xy=rss",
-      "published": "2026-09-04T18:15:41+00:00",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +253 mln<br />Nasdaq 100: +1058 mln<br />Dow 30: +167 mln<br />Mag 7: +647 mln",
+      "link": "https://www.financialjuice.com/News/9750887/MOC-Imbalance.aspx",
+      "published": "2026-09-04T19:50:31+00:00",
       "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Anthropic nears tapping Morgan Stanley and Goldman for IPO - FT. $MS $GS",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9750885/Anthropic-nears-tapping-Morgan-Stanley-and-Goldman-for-IPO---FT-MS-GS.aspx",
+      "published": "2026-09-04T19:48:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: USD CFTC Positions Week September 1st - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9750862/USD-CFTC-Positions-Week-September-1st---FJElite.aspx",
+      "published": "2026-09-04T19:38:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Malaysia: Hawkish pause keeps options open – DBS",
+      "summary": "DBS Group Research economist Chua Han Teng notes that Bank Negara Malaysia (BNM) held the Overnight Policy Rate at 2.75% while dropping language that the current level is appropriate. DBS expects rates to remain unchanged through 2026 but sees risks tilted towards a one-off policy normalisation.",
+      "link": "https://www.fxstreet.com/news/malaysia-hawkish-pause-keeps-options-open-dbs-202609041934",
+      "published": "2026-09-04T19:34:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Eurozone: Inflation above target into 2027 – Nordea",
+      "summary": "Nordea expects Eurozone inflation dynamics to stay persistent, with headline inflation projected above the ECB’s target at least until spring 2027.",
+      "link": "https://www.fxstreet.com/news/eurozone-inflation-above-target-into-2027-nordea-202609041850",
+      "published": "2026-09-04T18:50:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Hammack says policy is not restrictive enough",
+      "summary": "Cleveland Federal Reserve (Fed) President Beth Hammack said on Friday that the current monetary policy stance is not restrictive, emphasizing that inflation is too high.",
+      "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-is-not-restrictive-enough-202609041816",
+      "published": "2026-09-04T18:16:53+00:00",
+      "score": 2
     },
     {
       "source": "FXStreet",
@@ -30,15 +102,6 @@
       "score": 6
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump admin drafting post-war Middle East plan - Axios",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9750725/Trump-admin-drafting-post-war-Middle-East-plan---Axios.aspx?xy=rss",
-      "published": "2026-09-04T17:51:34+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Dow Jones Industrial Average falls on a jobs number the president loves",
@@ -48,66 +111,12 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Turkish Golden Global: Fulfilled all requirements regarding local and international banking rules, compliance standards after US imposes Iran-related sanctions",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9750706/Turkish-Golden-Global-Fulfilled-all-requirements-regarding-local-and-international-banking-rules-compliance-standards-after-US-imposes-Iran-related-sanctions.aspx?xy=rss",
-      "published": "2026-09-04T17:28:19+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "You Newbies…",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w7aw61/you_newbies/\"> <img alt=\"You Newbies…\" src=\"https://preview.redd.it/3fxx63w5gjnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f22708951f413fb2b6dc190729451476b4bc35f\" title=\"You Newbies…\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Who bought here?</p> <p>Are you long or short eurusd? No bull butter analysis -",
       "link": "https://www.reddit.com/r/Forex/comments/1w7aw61/you_newbies/",
       "published": "2026-09-04T17:27:32+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Hammack: Data and anecdotes indicate rates not restrictive",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9750655/Hammack-Data-and-anecdotes-indicate-rates-not-restrictive.aspx?xy=rss",
-      "published": "2026-09-04T16:32:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Hammack: Fed policy not restrictive and inflation is too high - LinkedIn",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9750654/Feds-Hammack-Fed-policy-not-restrictive-and-inflation-is-too-high---LinkedIn.aspx?xy=rss",
-      "published": "2026-09-04T16:31:44+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Hammack: local contacts indicate time to raise rates to curb inflation",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9750642/Feds-Hammack-local-contacts-indicate-time-to-raise-rates-to-curb-inflation.aspx?xy=rss",
-      "published": "2026-09-04T16:30:35+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China views AI talks as major deliverable for upcoming Trump-Xi summit, sources.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9750641/China-views-AI-talks-as-major-deliverable-for-upcoming-Trump-Xi-summit-sources.aspx?xy=rss",
-      "published": "2026-09-04T16:30:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump expected to sign a beef-related executive order on Friday - sources",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9750625/Trump-expected-to-sign-a-beef-related-executive-order-on-Friday---sources.aspx?xy=rss",
-      "published": "2026-09-04T16:10:48+00:00",
       "score": 1
     },
     {
@@ -172,60 +181,6 @@
       "link": "https://www.fxstreet.com/news/canada-gradual-improvement-outlook-on-labour-market-rbc-202609041452",
       "published": "2026-09-04T14:52:00+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States: Solid jobs data support steady Fed – Commerzbank",
-      "summary": "Commerzbank’s Dr. Christoph Balz notes that the U.S. labor market surprised to the upside in August, with Nonfarm Payrolls and private sector jobs both rising strongly while the unemployment rate held at 4.1%. Wage growth continued to slow.",
-      "link": "https://www.fxstreet.com/news/united-states-solid-jobs-data-support-steady-fed-commerzbank-202609041436",
-      "published": "2026-09-04T14:36:43+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "\"Lower the rate or I’ll stop trading\": Trump pressures Fed after strong US jobs report",
-      "summary": "In a post on Truth Social, United States (US) President Donald Trump welcomed the creation of 162K jobs in August, a figure he described as significantly above expectations.",
-      "link": "https://www.fxstreet.com/news/lower-the-rate-or-ill-stop-trading-trump-pressures-fed-after-strong-us-jobs-report-202609041410",
-      "published": "2026-09-04T14:10:55+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Jobs weakness caps gains against US Dollar - TD Securities",
-      "summary": "TD Securities strategists note that Canada’s softer August labour report, including weaker employment momentum and slower wage growth, is unlikely to materially change the Bank of Canada’s (BoC) assessment of the labour market.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-jobs-weakness-caps-gains-against-us-dollar-td-securities-202609041406",
-      "published": "2026-09-04T14:06:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar slides as Canada sheds 41.7K jobs, US payrolls surge",
-      "summary": "USD/CAD accelerates sharply higher on Friday, trading around 1.3850 at the time of writing, up 0.39% on the day.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-as-canada-sheds-417k-jobs-us-payrolls-surge-202609041400",
-      "published": "2026-09-04T14:00:41+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Jobs strength lifts hike odds – ING",
-      "summary": "ING’s James Knightley notes that stronger-than-expected US August jobs data, with 162,000 new positions and upward revisions, has increased the perceived likelihood of a September Federal Reserve rate hike.",
-      "link": "https://www.fxstreet.com/news/us-dollar-jobs-strength-lifts-hike-odds-ing-202609041349",
-      "published": "2026-09-04T13:49:38+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound trims losses against US Dollar after NFP-driven volatility",
-      "summary": "GBP/USD recovers part of its initial drop on Friday after stronger-than-expected United States (US) employment data briefly lifts the US Dollar (USD). The pair fell to an intraday low of 1.3482 immediately after the release before rebounding. At the time of writing, GBP/USD trades around 1.3512.",
-      "link": "https://www.fxstreet.com/news/british-pound-trims-losses-against-us-dollar-after-nfp-driven-volatility-202609041346",
-      "published": "2026-09-04T13:46:26+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
