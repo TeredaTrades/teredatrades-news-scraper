@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-04T20:56:16.886314+00:00",
+  "updated_at": "2026-09-04T22:55:31.716433+00:00",
   "count": 47,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/MXN Price Forecast: Peso rally targets April 2024 low",
+      "summary": "The Mexican Peso appreciates against the US Dollar, testing two-year highs near 16.85 as the USD/MXN sets aside a strong US Nonfarm Payrolls report, which was ignored by the Peso’s bears.",
+      "link": "https://www.fxstreet.com/news/usd-mxn-price-forecast-peso-rally-targets-april-2024-low-202609042159",
+      "published": "2026-09-04T21:59:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "I’m considering putting together and publicly sharing some of the tick-data archives I’ve collected for backtesting and optimization.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w7i402/im_considering_putting_together_and_publicly/\"> <img alt=\"I’m considering putting together and publicly sharing some of the tick-data archives I’ve collected for backtesting and optimization.\" src=\"https://preview.redd.it/do2hmiiiqknh1.png?width=140&amp;height=17&amp;auto=webp&amp;s=ae21e351d23666cf7817e1e9ec948be0e4367cbe\" ",
+      "link": "https://www.reddit.com/r/Forex/comments/1w7i402/im_considering_putting_together_and_publicly/",
+      "published": "2026-09-04T21:53:37+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: U.S. judge extends injunction blocking Trump administration from enforcing postal service rule limiting mail-in voting",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9750995/US-judge-extends-injunction-blocking-Trump-administration-from-enforcing-postal-service-rule-limiting-mail-in-voting.aspx?xy=rss",
+      "published": "2026-09-04T21:41:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CHF Price Forecast: NFP rally stalls at 0.8100, retraces",
+      "summary": "The USD/CHF registers modest gains of over 0.30% as the Greenback is boosted by a solid US Nonfarm Payrolls report, pushing the pair above the 50-day Simple Moving Average (SMA) to reach a daily high of 0.8126. At the time of writing, trades at 0.8098.",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-nfp-rally-stalls-at-08100-retraces-202609042127",
+      "published": "2026-09-04T21:27:24+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -24,7 +60,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "Sterling’s rally stalls as US jobs data reopens Fed debate",
-      "summary": "The Pound Sterling retreats some 0.09% against the US Dollar as the latest US inflation report reaffirmed what Fed Chair Warsh said that the labour market is “consistent with full employment.” GBP/USD trades near Friday’s opening price of 1.3512.",
+      "summary": "The Pound Sterling (GBP) retreats some 0.09% against the US Dollar (USD) on Friday as the latest US inflation report reaffirmed Federal Reserve (Fed) Chair Kevin Warsh's view that the labor market is “consistent with full employment.” GBP/USD trades near the open at 1.3512.",
       "link": "https://www.fxstreet.com/news/sterlings-rally-stalls-as-us-jobs-data-reopens-fed-debate-202609041952",
       "published": "2026-09-04T19:52:26+00:00",
       "score": 4
@@ -34,7 +70,7 @@
       "category": "news",
       "title": "FinancialJuice: MOC Imbalance",
       "summary": "S&amp;P 500: +253 mln<br />Nasdaq 100: +1058 mln<br />Dow 30: +167 mln<br />Mag 7: +647 mln",
-      "link": "https://www.financialjuice.com/News/9750887/MOC-Imbalance.aspx",
+      "link": "https://www.financialjuice.com/News/9750887/MOC-Imbalance.aspx?xy=rss",
       "published": "2026-09-04T19:50:31+00:00",
       "score": 1
     },
@@ -43,7 +79,7 @@
       "category": "news",
       "title": "FinancialJuice: Anthropic nears tapping Morgan Stanley and Goldman for IPO - FT. $MS $GS",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9750885/Anthropic-nears-tapping-Morgan-Stanley-and-Goldman-for-IPO---FT-MS-GS.aspx",
+      "link": "https://www.financialjuice.com/News/9750885/Anthropic-nears-tapping-Morgan-Stanley-and-Goldman-for-IPO---FT-MS-GS.aspx?xy=rss",
       "published": "2026-09-04T19:48:53+00:00",
       "score": 1
     },
@@ -52,7 +88,7 @@
       "category": "news",
       "title": "FinancialJuice: USD CFTC Positions Week September 1st - FJElite",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9750862/USD-CFTC-Positions-Week-September-1st---FJElite.aspx",
+      "link": "https://www.financialjuice.com/News/9750862/USD-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
       "published": "2026-09-04T19:38:16+00:00",
       "score": 1
     },
@@ -147,39 +183,12 @@
       "score": 4
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Hungary: Inflation uptick complicates rate-cut path – ING",
-      "summary": "ING’s Peter Virovacz expects Hungarian industrial production to rebound in July, helping avoid a third-quarter GDP decline despite August headwinds from heatwave-related energy issues.",
-      "link": "https://www.fxstreet.com/news/hungary-inflation-uptick-complicates-rate-cut-path-ing-202609041514",
-      "published": "2026-09-04T15:14:09+00:00",
-      "score": 1
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
       "published": "2026-09-04T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc loses ground upbeat US Nonfarm Payrolls",
-      "summary": "USD/CHF trades higher on Friday as stronger-than-expected United States (US) Nonfarm Payrolls (NFP) data trigger fresh volatility. The pair jumped to 0.8126 following the release before giving back part of its advance. At the time of writing, USD/CHF trades around 0.8102, up nearly 0.34% on the day.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-loses-ground-upbeat-us-nonfarm-payrolls-202609041453",
-      "published": "2026-09-04T14:53:06+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canada: Gradual improvement outlook on labour market – RBC",
-      "summary": "Royal Bank of Canada (RBC) economist Claire Fan notes Canada’s labour market lost 42,000 jobs in August, partly reversing earlier gains and leaving modest year-to-date job growth. She emphasizes structural factors like demographics and weaker immigration as key drags.",
-      "link": "https://www.fxstreet.com/news/canada-gradual-improvement-outlook-on-labour-market-rbc-202609041452",
-      "published": "2026-09-04T14:52:00+00:00",
       "score": 1
     },
     {
@@ -216,15 +225,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w728j7/xauusd_nfp_analysis/\"> <img alt=\"XAUUSD NFP ANALYSIS\" src=\"https://preview.redd.it/jstra5rlshnh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9250d9dbeaebcc1f8680f0b3e48bdb4675a0b4ad\" title=\"XAUUSD NFP ANALYSIS\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>🔥 What I would watch at NFP</p> <p>🟢 Scen",
       "link": "https://www.reddit.com/r/Forex/comments/1w728j7/xauusd_nfp_analysis/",
       "published": "2026-09-04T11:53:44+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold recovers from post-NFP low as US Dollar trims gains",
-      "summary": "Gold (XAU/USD) remains under pressure on Friday after stronger-than-expected United States (US) Nonfarm Payrolls (NFP) data revive expectations of a Federal Reserve (Fed) rate hike.",
-      "link": "https://www.fxstreet.com/news/gold-pauses-after-two-day-recovery-as-us-nfp-looms-202609041103",
-      "published": "2026-09-04T11:03:54+00:00",
       "score": 5
     },
     {
