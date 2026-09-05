@@ -1,13 +1,22 @@
 {
-  "updated_at": "2026-09-05T15:34:31.426800+00:00",
-  "count": 42,
+  "updated_at": "2026-09-05T17:40:40.299321+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Witkoff tells Putin: Trump sends his best wishes",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9751428/Witkoff-tells-Putin-Trump-sends-his-best-wishes.aspx?xy=rss",
+      "published": "2026-09-05T17:38:18+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
       "title": "FinancialJuice: Kremlin: Media to be briefed after Putin's talks with Witkoff, Kushner - RIA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9751323/Kremlin-Media-to-be-briefed-after-Putins-talks-with-Witkoff-Kushner---RIA.aspx?xy=1",
+      "link": "https://www.financialjuice.com/News/9751323/Kremlin-Media-to-be-briefed-after-Putins-talks-with-Witkoff-Kushner---RIA.aspx?xy=rss",
       "published": "2026-09-05T12:03:04+00:00",
       "score": 1
     },
