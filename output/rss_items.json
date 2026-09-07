@@ -1,60 +1,168 @@
 {
-  "updated_at": "2026-09-07T12:34:47.959258+00:00",
-  "count": 41,
+  "updated_at": "2026-09-07T17:55:22.356458+00:00",
+  "count": 44,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US Dollar: Range-bound support as Fed priced – ING",
-      "summary": "ING’s Chris Turner notes that resilient global equities and an above-consensus US jobs report mean the Dollar should be stronger, but risk appetite is capping gains. He highlights upcoming US CPI and Treasury auctions as key catalysts.",
-      "link": "https://www.fxstreet.com/news/us-dollar-range-bound-support-as-fed-priced-ing-202609071229",
-      "published": "2026-09-07T12:29:52+00:00",
+      "title": "Forex Today: Japanese GDP figures and China’s trade results in the limelight",
+      "summary": "The US Dollar (USD) has started the week on the back foot, rapidly leaving behind Friday’s uptick and refocusing on the downside.",
+      "link": "https://www.fxstreet.com/news/forex-today-japanese-gdp-figures-and-chinas-trade-results-in-the-limelight-202609071750",
+      "published": "2026-09-07T17:50:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Euro waits for the sentence after the rate hike",
+      "summary": "EUR/USD holds above 1.1600 after a Monday that covered 28 pips. The Eurozone revised second-quarter growth up to 0.6% against a 0.4% consensus, the Sentix investor survey jumped to 5.1 from 0.9, and the pair added a tenth of a percent.",
+      "link": "https://www.fxstreet.com/news/the-euro-waits-for-the-sentence-after-the-rate-hike-202609071741",
+      "published": "2026-09-07T17:41:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Canada: If they want our market, they must build here.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9752838/Trump-on-Canada-If-they-want-our-market-they-must-build-here.aspx?xy=rss",
+      "published": "2026-09-07T17:41:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: No more selling Bombardier in the United States.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9752837/Trump-No-more-selling-Bombardier-in-the-United-States.aspx?xy=rss",
+      "published": "2026-09-07T17:40:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Nobody has unwound the Japanese Yen carry trade yet",
+      "summary": "The Ministry of Finance was not in the market on Monday, and on the most recent positioning data the carry trade did not close either. USD/JPY trades just above 154.00 after giving up close to two Yen, its weakest in six months. What has repriced is the cost of the funding leg.",
+      "link": "https://www.fxstreet.com/news/nobody-has-unwound-the-japanese-yen-carry-trade-yet-202609071701",
+      "published": "2026-09-07T17:01:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound climbs as USD fades, Hormuz risk keeps Fed in play",
+      "summary": "The Pound Sterling (GBP) rises over 0.23% amid thin trading, as US markets remain closed for the Labor Day weekend, while the US-Iran conflict escalated, with both countries exchanging strikes around the Strait of Hormuz. The GBP/USD trades at 1.3541.",
+      "link": "https://www.fxstreet.com/news/british-pound-climbs-as-usd-fades-hormuz-risk-keeps-fed-in-play-202609071651",
+      "published": "2026-09-07T16:51:57+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: The White House: Trump will never stop fighting for Made in America.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9752811/The-White-House-Trump-will-never-stop-fighting-for-Made-in-America.aspx?xy=rss",
+      "published": "2026-09-07T16:31:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar struggles to gain traction as cautious RBNZ outlook weighs",
+      "summary": "NZD/USD trades around 0.5880 on Monday at the time of writing, posting a modest 0.06% decline on the day after two consecutive days of gains.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-to-gain-traction-as-cautious-rbnz-outlook-weighs-202609071609",
+      "published": "2026-09-07T16:09:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CHF Price Forecast: Pair consolidates around the 50-day SMA",
+      "summary": "USD/CHF trades with a downside bias on Monday as the US Dollar (USD) stays on the defensive, largely due to broad Japanese Yen (JPY) strength. At the time of writing, the pair trades around 0.8091 after retreating from an intraday high of 0.8110.",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-pair-consolidates-around-the-50-day-sma-202609071602",
+      "published": "2026-09-07T16:02:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar hits three-month high as RBA rate hike bets intensify",
+      "summary": "AUD/USD advances on Monday, gaining 0.22% on the day to trade around 0.7220 at the time of writing, after reaching its highest level in more than three months.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-hits-three-month-high-as-rba-rate-hike-bets-intensify-202609071515",
+      "published": "2026-09-07T15:15:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Bank of Canada: Rates outlook and inflation risks – TD Securities",
+      "summary": "TD Securities economists Robert Both and Emma Lawrence highlight that the Bank of Canada adopted a more hawkish tone, emphasizing upside inflation risks even as core inflation stays subdued.",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-rates-outlook-and-inflation-risks-td-securities-202609071441",
+      "published": "2026-09-07T14:41:09+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Eurozone: Resilient growth, worrying inflation – ABN AMRO",
+      "summary": "ABN AMRO economists Bill Diviney and Jan-Paul van de Kerke expect Eurozone growth to remain resilient despite a renewed energy shock, supported by German fiscal spending and solid underlying activity.",
+      "link": "https://www.fxstreet.com/news/eurozone-resilient-growth-worrying-inflation-abn-amro-202609071424",
+      "published": "2026-09-07T14:24:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: CPI outcome to steer Fed path – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) weakened on broad Japanese Yen strength before partially recovering as strong US August payrolls revived expectations for a September Fed hike.",
+      "link": "https://www.fxstreet.com/news/us-dollar-cpi-outcome-to-steer-fed-path-bbh-202609071357",
+      "published": "2026-09-07T13:57:14+00:00",
       "score": 3
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Canadian Dollar: Trade tensions and US CPI in focus – TD Securities",
-      "summary": "TD Securities notes that a data-light week in Canada will keep attention on CAN-US trade tensions as Canadian countertariffs take effect. The US has already signalled higher tariffs on Canadian vehicles from January 1.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trade-tensions-and-us-cpi-in-focus-td-securities-202609071215",
-      "published": "2026-09-07T12:15:39+00:00",
+      "title": "Gold: Bull market conviction broadens – Societe Generale",
+      "summary": "Societe Generale analysts Michael Haigh and Jeremy Sellem describe a broad-based Gold bull market in 2026, driven by ETFs, futures and options positioning. They highlight strong physical ETF inflows, near-record futures exposure by money managers and a structurally bullish options skew.",
+      "link": "https://www.fxstreet.com/news/gold-bull-market-conviction-broadens-societe-generale-202609071344",
+      "published": "2026-09-07T13:44:37+00:00",
       "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen hits six-and-a-half-month high on hawkish BoJ bets",
+      "summary": "USD/JPY extends its steep decline on Monday as the Japanese Yen (JPY) rallies against the US Dollar (USD), supported by hawkish Bank of Japan (BoJ) expectations, capital repatriation and the unwinding of Yen-funded carry trades.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-hits-six-and-a-half-month-high-on-hawkish-boj-bets-202609071337",
+      "published": "2026-09-07T13:37:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States: Inflation risks but still contained - TD Securities",
+      "summary": "TD Securities projects August Core CPI at 0.19% m/m and 2.3% y/y, with services driving gains and core goods slightly negative. Headline CPI is seen at 0.37% m/m and 3.4% y/y on higher energy and food.",
+      "link": "https://www.fxstreet.com/news/united-states-inflation-risks-but-still-contained-td-securities-202609071327",
+      "published": "2026-09-07T13:27:56+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar finds support from Oil surge despite Fed rate hike bets",
+      "summary": "USD/CAD trades around 1.3810 on Monday at the time of writing, down 0.15% on the day. The pair comes under some pressure as the sharp rise in Oil prices supports the Canadian Dollar (CAD), although underlying strength in the US Dollar (USD) limits the downside.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-finds-support-from-oil-surge-despite-fed-rate-hike-bets-202609071322",
+      "published": "2026-09-07T13:22:43+00:00",
+      "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
       "title": "Gold bears retain control as Fed hike bets and Oil-driven inflation weigh",
-      "summary": "Gold (XAU/USD) kicks off the week on a bearish note as Federal Reserve (Fed) interest rate hike concerns dominate market sentiment following the blockbuster US employment report, with energy-driven inflation also in focus as tensions between the United States and Iran continue to simmer.",
+      "summary": "Gold (XAU/USD) trades with a modest downside bias during American trading hours on Monday. A softer US Dollar (USD) limits the decline and helps the metal recover part of its earlier losses.",
       "link": "https://www.fxstreet.com/news/gold-bears-retain-control-as-fed-hike-bets-and-oil-driven-inflation-weigh-202609071113",
       "published": "2026-09-07T11:13:47+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: CPI holds key after jobs-driven support – OCBC",
-      "summary": "OCBC’s Christopher Wong notes that stronger US payrolls initially lifted the US Dollar (USD) and US Dollar Index (DXY), but softer wage growth and only modest Fed repricing capped gains.",
-      "link": "https://www.fxstreet.com/news/us-dollar-cpi-holds-key-after-jobs-driven-support-ocbc-202609071112",
-      "published": "2026-09-07T11:12:29+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Remains sticky to 20-day EMA",
-      "summary": "The Euro (EUR) is marginally higher to near 1.1625 against the US Dollar (USD) during the European trading session on Monday. The major currency pair trades broadly sideways amid an extended weekend in the United States (US) due to Labor Day.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-remains-sticky-to-20-day-ema-202609071109",
-      "published": "2026-09-07T11:09:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver slips below $66 as strong NFP report revives Fed rate hike bets",
-      "summary": "Silver (XAG/USD) trades under pressure on Monday, falling 0.79% on the day to around $65.70 at the time of writing.",
-      "link": "https://www.fxstreet.com/news/silver-slips-below-66-as-strong-nfp-report-revives-fed-rate-hike-bets-202609071056",
-      "published": "2026-09-07T10:56:38+00:00",
-      "score": 5
+      "score": 6
     },
     {
       "source": "r/Forex",
@@ -64,87 +172,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w9orxn/free_scalping_algo/",
       "published": "2026-09-07T10:46:37+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: UBS: Week Ahead - FJElite",
-      "summary": "<div>US CPI is the key event risk: Friday's US core CPI release (11 September) will be key for market pricing of a potential September Fed hike. With the Fed entering its communication blackout period next week, this is the final major data point before its next policy decision.</div><div><br /></div><div>ECB communication matters more than the hike itself: While a September rate increase is fully",
-      "link": "https://www.financialjuice.com/News/9752471/UBS-Week-Ahead---FJElite.aspx?xy=rss",
-      "published": "2026-09-07T10:24:03+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING: The EUR - FJElite",
-      "summary": "<div>While not a major negative for the euro, Sunday's election results in Saxony-Anhalt will serve as a reminder of the declining popularity of Chancellor Merz's CDU party, and, if backed up by similar results in two further regional elections, raise tensions within the governing coalition. So far, the German government's infrastructure and defence spending plans seem to be paying dividends for G",
-      "link": "https://www.financialjuice.com/News/9752470/ING-The-EUR---FJElite.aspx?xy=rss",
-      "published": "2026-09-07T10:22:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "154.06: Japanese Yen hits fresh six-month highs amid hopes of steeper BoJ hikes",
-      "summary": "The Japanese Yen (JPY)  resumes its uptrend against the US Dollar (USD) on Monday, as the dust from a bright US Nonfarm Payrolls (NFP) report settles, and Japanese officials hint at some steepening of the Bank of Japan’s (BoJ) tightening cycle ahead.",
-      "link": "https://www.fxstreet.com/news/15406-japanese-yen-hits-fresh-six-month-highs-amid-hopes-of-steeper-boj-hikes-202609071005",
-      "published": "2026-09-07T10:05:50+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EM FX: Policy holds shape CLP, PLN, PEN, TRY – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad expects Chile, Poland, Peru and Türkiye to keep policy rates unchanged at upcoming meetings.",
-      "link": "https://www.fxstreet.com/news/em-fx-policy-holds-shape-clp-pln-pen-try-bbh-202609070954",
-      "published": "2026-09-07T09:54:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Czech Koruna: CPI keeps CNB on hold but risks build – Commerzbank",
-      "summary": "Commerzbank’s Tatha Ghose notes that Czech August CPI matched expectations and CNB forecasts, keeping inflation within target and allowing rates to stay unchanged on 17 September.",
-      "link": "https://www.fxstreet.com/news/czech-koruna-cpi-keeps-cnb-on-hold-but-risks-build-commerzbank-202609070942",
-      "published": "2026-09-07T09:42:11+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver falls, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) fell on Monday, according to FXStreet data. Silver trades at $65.90 per troy ounce, down 0.47% from the $66.21 it cost on Friday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-falls-according-to-fxstreet-data-202609070932",
-      "published": "2026-09-07T09:32:06+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: Inflation data steer policy path – TD Securities",
-      "summary": "TD Securities economists Oscar Munoz and Eli Nir expect August Consumer Price Index (CPI) to prove subdued enough to keep the Federal Reserve (Fed) on hold in September, with the CPI-to-PCE translation also pointing to contained underlying inflation.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-inflation-data-steer-policy-path-td-securities-202609070918",
-      "published": "2026-09-07T09:18:55+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Brent: Supply risks support prices – Danske Bank",
-      "summary": "Danske Bank’s Danske Research Team notes Brent crude trading near USD 97 as renewed US-Iran strikes around the Strait of Hormuz raise concerns over prolonged disruptions to Middle East energy flows.",
-      "link": "https://www.fxstreet.com/news/brent-supply-risks-support-prices-danske-bank-202609070910",
-      "published": "2026-09-07T09:10:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee remains higher despite oil strain, hawkish Fed bets",
-      "summary": "The Indian Rupee (INR) gains against the US Dollar (USD) at the start of the week.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-opens-positively-at-the-start-of-the-week-202609070533",
-      "published": "2026-09-07T05:33:57+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
