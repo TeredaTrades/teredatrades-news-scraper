@@ -1,93 +1,5 @@
 [
   {
-    "title": "BusinessNZ Services Index",
-    "country": "NZD",
-    "date": "2026-08-16T18:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "50.6"
-  },
-  {
-    "title": "FPI m/m",
-    "country": "NZD",
-    "date": "2026-08-16T18:45:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.6%"
-  },
-  {
-    "title": "Rightmove HPI m/m",
-    "country": "GBP",
-    "date": "2026-08-16T19:01:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-1.0%"
-  },
-  {
-    "title": "Prelim GDP Price Index y/y",
-    "country": "JPY",
-    "date": "2026-08-16T19:50:00-04:00",
-    "impact": "Low",
-    "forecast": "2.3%",
-    "previous": "3.4%"
-  },
-  {
-    "title": "Prelim GDP q/q",
-    "country": "JPY",
-    "date": "2026-08-16T19:50:00-04:00",
-    "impact": "Low",
-    "forecast": "0.5%",
-    "previous": "0.5%"
-  },
-  {
-    "title": "New Home Prices m/m",
-    "country": "CNY",
-    "date": "2026-08-16T21:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-0.15%"
-  },
-  {
-    "title": "Fixed Asset Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-08-16T22:00:00-04:00",
-    "impact": "Low",
-    "forecast": "-6.2%",
-    "previous": "-5.7%"
-  },
-  {
-    "title": "Industrial Production y/y",
-    "country": "CNY",
-    "date": "2026-08-16T22:00:00-04:00",
-    "impact": "Low",
-    "forecast": "5.0%",
-    "previous": "5.3%"
-  },
-  {
-    "title": "NBS Press Conference",
-    "country": "CNY",
-    "date": "2026-08-16T22:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Retail Sales y/y",
-    "country": "CNY",
-    "date": "2026-08-16T22:00:00-04:00",
-    "impact": "Low",
-    "forecast": "1.5%",
-    "previous": "1.0%"
-  },
-  {
-    "title": "Unemployment Rate",
-    "country": "CNY",
-    "date": "2026-08-16T22:00:00-04:00",
-    "impact": "Low",
-    "forecast": "5.1%",
-    "previous": "5.0%"
-  },
-  {
     "title": "Revised Industrial Production m/m",
     "country": "JPY",
     "date": "2026-08-17T00:30:00-04:00",
@@ -2704,6 +2616,14 @@
     "previous": "99.8"
   },
   {
+    "title": "Monetary Policy Report Hearings",
+    "country": "GBP",
+    "date": "2026-09-08T09:15:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "Consumer Credit m/m",
     "country": "USD",
     "date": "2026-09-08T15:00:00-04:00",
@@ -2724,7 +2644,7 @@
     "country": "CNY",
     "date": "2026-09-08T21:30:00-04:00",
     "impact": "Low",
-    "forecast": "0.9%",
+    "forecast": "0.8%",
     "previous": "0.5%"
   },
   {
@@ -2780,6 +2700,14 @@
     "country": "EUR",
     "date": "2026-09-09T13:00:00-04:00",
     "impact": "Low",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "date": "2026-09-09T13:00:00-04:00",
+    "impact": "Medium",
     "forecast": "",
     "previous": ""
   },
@@ -3070,6 +2998,14 @@
     "impact": "Medium",
     "forecast": "",
     "previous": "4.3%"
+  },
+  {
+    "title": "ECB President Lagarde Speaks",
+    "country": "EUR",
+    "date": "2026-09-11T10:00:00-04:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "Fed Monetary Policy Report",
