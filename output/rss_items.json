@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-09-07T17:55:22.356458+00:00",
-  "count": 44,
+  "updated_at": "2026-09-07T21:16:45.476818+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah: Oil and US inflation pose risks – MUFG",
+      "summary": "MUFG’s Lloyd Chan warns that upcoming US inflation data could test the recent Rupiah recovery, as firmer US inflation may reinforce elevated US yields and challenge USD/IDR’s break below 17,700.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-oil-and-us-inflation-pose-risks-mufg-202609072101",
+      "published": "2026-09-07T21:01:00+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Pound Sterling's rate advantage buys it no say this week",
+      "summary": "GBP/USD holds just under 1.3550 after a Monday that covered 42 pips with American desks shut for Labor Day. The week that follows is not that.",
+      "link": "https://www.fxstreet.com/news/pound-sterlings-rate-advantage-buys-it-no-say-this-week-202609072058",
+      "published": "2026-09-07T20:58:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Vietnam: Inflation and trade trends shape VND – Commerzbank",
+      "summary": "Commerzbank’s Vietnam update highlights rising inflation and a narrowing trade deficit, with strong manufacturing-led imports and resilient exports. The bank notes elevated CPI and external deficits limit scope for aggressive easing, but robust activity persists.",
+      "link": "https://www.fxstreet.com/news/vietnam-inflation-and-trade-trends-shape-vnd-commerzbank-202609072018",
+      "published": "2026-09-07T20:18:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso stumbles as traders brace for US inflation week",
+      "summary": "The Mexican Peso loses some ground versus its North American counterpart, the US Dollar, as the USD/MXN rises over 0.25% at 16.93, even though the Greenback edges lower against a basket of six currencies, the so-called US Dollar Index.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-stumbles-as-traders-brace-for-us-inflation-week-202609072012",
+      "published": "2026-09-07T20:12:29+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia's CEO Huang is on the UK King Charles' AI meeting guest list - Politico $NVDA",
+      "summary": "The meeting is scheduled to take palce this month.",
+      "link": "https://www.financialjuice.com/News/9752885/Nvidias-CEO-Huang-is-on-the-UK-King-Charles-AI-meeting-guest-list---Politico-NVDA.aspx?xy=rss",
+      "published": "2026-09-07T19:43:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Asia FX: Stronger Dollar and Oil weigh on CNY and peers – BNY",
+      "summary": "BNY’s Geoff Yu highlights that a stronger US Dollar (USD), higher Oil prices and rising global yields are pressuring Asian currencies and assets.",
+      "link": "https://www.fxstreet.com/news/asia-fx-stronger-dollar-and-oil-weigh-on-cny-and-peers-bny-202609071941",
+      "published": "2026-09-07T19:41:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Tuesday FX Option Expiries",
+      "summary": "<div><ul><li><strong>EUR/USD:</strong> 1.1700 (EU1.28b), 1.1650 (EU1.2b), 1.1400 (EU862.8m)</li><li><strong>USD/JPY:</strong> 158.00 ($3.19b), 160.85 ($940m), 157.00 ($900.3m)</li><li><strong>AUD/USD</strong>: 0.7065 (AUD1.91b), 0.7135 (AUD1.07b), 0.7150 (AUD542.3m)</li><li><strong>USD/BRL:</strong> 5.2330 ($490m), 5.0900 ($480m), 4.8000 ($340m)</li><li><strong>USD/CAD:</strong> 1.4250 ($551.7m), ",
+      "link": "https://www.financialjuice.com/News/9752882/Tuesday-FX-Option-Expiries.aspx?xy=rss",
+      "published": "2026-09-07T19:22:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold bulls flinch as NFP puts Fed hawks back in the driver’s seat",
+      "summary": "Gold (XAU/USD) price dives over 0.40% on Monday following last Friday’s US jobs report, which ignited speculation that the Federal Reserve (Fed) might resume its tightening cycle if inflation reaccelerates late this week, while the labor market remains solid.",
+      "link": "https://www.fxstreet.com/news/gold-bulls-flinch-as-nfp-puts-fed-hawks-back-in-the-drivers-seat-202609071918",
+      "published": "2026-09-07T19:18:29+00:00",
+      "score": 8
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index trades under pressure as Yen buying accelerates",
+      "summary": "The US Dollar Index (DXY), which tracks the Greenback’s value against a basket of six major currencies, extends its decline on Monday as a sharp rally in the Japanese Yen (JPY) outweighs support from elevated geopolitical tensions and Federal Reserve (Fed) interest rate hike expectations.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-under-pressure-as-yen-buying-accelerates-202609071803",
+      "published": "2026-09-07T18:03:16+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -14,11 +95,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "The Euro waits for the sentence after the rate hike",
-      "summary": "EUR/USD holds above 1.1600 after a Monday that covered 28 pips. The Eurozone revised second-quarter growth up to 0.6% against a 0.4% consensus, the Sentix investor survey jumped to 5.1 from 0.9, and the pair added a tenth of a percent.",
+      "title": "A German landslide moved the Euro by nothing at all",
+      "summary": "EUR/USD holds above 1.1600, seven pips above where Monday opened. The pair has had three chances to move over four sessions and has taken none of them. Both central banks are priced to raise rates this month for the same energy shock, and a rate gap that is not moving does not move a currency.",
       "link": "https://www.fxstreet.com/news/the-euro-waits-for-the-sentence-after-the-rate-hike-202609071741",
       "published": "2026-09-07T17:41:38+00:00",
-      "score": 1
+      "score": 2
     },
     {
       "source": "FinancialJuice",
@@ -41,11 +122,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Nobody has unwound the Japanese Yen carry trade yet",
-      "summary": "The Ministry of Finance was not in the market on Monday, and on the most recent positioning data the carry trade did not close either. USD/JPY trades just above 154.00 after giving up close to two Yen, its weakest in six months. What has repriced is the cost of the funding leg.",
+      "title": "The Japanese Yen has stopped trading the Federal Reserve",
+      "summary": "USD/JPY trades just above 154.00 after giving up close to two Yen on Monday, its weakest in six months. Nothing confirms an intervention, and Tokyo has no level left to defend at six-month Yen highs.",
       "link": "https://www.fxstreet.com/news/nobody-has-unwound-the-japanese-yen-carry-trade-yet-202609071701",
       "published": "2026-09-07T17:01:44+00:00",
-      "score": 1
+      "score": 2
     },
     {
       "source": "FXStreet",
@@ -91,69 +172,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-hits-three-month-high-as-rba-rate-hike-bets-intensify-202609071515",
       "published": "2026-09-07T15:15:37+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Bank of Canada: Rates outlook and inflation risks – TD Securities",
-      "summary": "TD Securities economists Robert Both and Emma Lawrence highlight that the Bank of Canada adopted a more hawkish tone, emphasizing upside inflation risks even as core inflation stays subdued.",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-rates-outlook-and-inflation-risks-td-securities-202609071441",
-      "published": "2026-09-07T14:41:09+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Eurozone: Resilient growth, worrying inflation – ABN AMRO",
-      "summary": "ABN AMRO economists Bill Diviney and Jan-Paul van de Kerke expect Eurozone growth to remain resilient despite a renewed energy shock, supported by German fiscal spending and solid underlying activity.",
-      "link": "https://www.fxstreet.com/news/eurozone-resilient-growth-worrying-inflation-abn-amro-202609071424",
-      "published": "2026-09-07T14:24:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: CPI outcome to steer Fed path – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) weakened on broad Japanese Yen strength before partially recovering as strong US August payrolls revived expectations for a September Fed hike.",
-      "link": "https://www.fxstreet.com/news/us-dollar-cpi-outcome-to-steer-fed-path-bbh-202609071357",
-      "published": "2026-09-07T13:57:14+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Bull market conviction broadens – Societe Generale",
-      "summary": "Societe Generale analysts Michael Haigh and Jeremy Sellem describe a broad-based Gold bull market in 2026, driven by ETFs, futures and options positioning. They highlight strong physical ETF inflows, near-record futures exposure by money managers and a structurally bullish options skew.",
-      "link": "https://www.fxstreet.com/news/gold-bull-market-conviction-broadens-societe-generale-202609071344",
-      "published": "2026-09-07T13:44:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen hits six-and-a-half-month high on hawkish BoJ bets",
-      "summary": "USD/JPY extends its steep decline on Monday as the Japanese Yen (JPY) rallies against the US Dollar (USD), supported by hawkish Bank of Japan (BoJ) expectations, capital repatriation and the unwinding of Yen-funded carry trades.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-hits-six-and-a-half-month-high-on-hawkish-boj-bets-202609071337",
-      "published": "2026-09-07T13:37:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States: Inflation risks but still contained - TD Securities",
-      "summary": "TD Securities projects August Core CPI at 0.19% m/m and 2.3% y/y, with services driving gains and core goods slightly negative. Headline CPI is seen at 0.37% m/m and 3.4% y/y on higher energy and food.",
-      "link": "https://www.fxstreet.com/news/united-states-inflation-risks-but-still-contained-td-securities-202609071327",
-      "published": "2026-09-07T13:27:56+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar finds support from Oil surge despite Fed rate hike bets",
-      "summary": "USD/CAD trades around 1.3810 on Monday at the time of writing, down 0.15% on the day. The pair comes under some pressure as the sharp rise in Oil prices supports the Canadian Dollar (CAD), although underlying strength in the US Dollar (USD) limits the downside.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-finds-support-from-oil-surge-despite-fed-rate-hike-bets-202609071322",
-      "published": "2026-09-07T13:22:43+00:00",
-      "score": 2
     },
     {
       "source": "FXStreet",
@@ -226,15 +244,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w70j9u/i_built_an_opensource_mt5_visual_replacer_for/",
       "published": "2026-09-04T10:27:16+00:00",
       "score": 4
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "USD/JPY is stuck in a tight range ahead of the US NFP report",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>USD/JPY is stuck in a tight range ahead of the US NFP report. </p> <p>My model is flagging 156.70 as a critical resistance level to watch. We've seen some Yen weakness lately, which is helping USD/JPY hold above 155.50 support, but the big move will likely come after the jobs numbers. </p> <p>What are your expectations for NFP and how do you see it impacting this ",
-      "link": "https://www.reddit.com/r/Forex/comments/1w6y390/usdjpy_is_stuck_in_a_tight_range_ahead_of_the_us/",
-      "published": "2026-09-04T08:06:32+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
