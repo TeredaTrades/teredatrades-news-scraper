@@ -1,7 +1,151 @@
 {
-  "updated_at": "2026-09-08T01:24:43.189775+00:00",
-  "count": 39,
+  "updated_at": "2026-09-08T06:21:20.833470+00:00",
+  "count": 40,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed Interest Rate Probabilities",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9753444/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+      "published": "2026-09-08T06:15:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9753436/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+      "published": "2026-09-08T06:14:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee corrects from two-month high as oil prices extend rally",
+      "summary": "The Indian Rupee (INR) retreats from its two-month high against the US Dollar (USD) on Tuesday.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-corrects-from-two-month-high-as-oil-prices-extend-rally-202609080608",
+      "published": "2026-09-08T06:08:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Poised to test multi-year top near 0.7270-0.7275 amid bullish setup",
+      "summary": "The AUD/USD pair holds steady above the 0.7200 mark through the Asian session on Tuesday, consolidating its recent strong move up to its highest level since May 14 touched the previous day.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-poised-to-test-multi-year-top-near-07270-07275-amid-bullish-setup-202609080540",
+      "published": "2026-09-08T05:40:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen rises to seven-month high on BoJ rate hike bets",
+      "summary": "The USD/JPY pair falls to around 153.50 during the early European trading hours on Tuesday. The Japanese Yen (JPY) strengthens to a seven-month high against the US Dollar (USD) amid growing expectations of a Bank of Japan (BoJ) interest-rate hike.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-rises-to-seven-month-high-on-boj-rate-hike-bets-202609080534",
+      "published": "2026-09-08T05:34:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "GBP/USD Price Forecast: Consolidates below mid-1.3500s; bullish potential seems intact",
+      "summary": "The GBP/USD pair struggles to capitalize on the previous day's modest gains and oscillates in a range below mid-1.3500s during the Asian session on Tuesday. The downside, however, remains cushioned as the US Dollar (USD) selling remains unabated on the back of a broadly firmer Japanese Yen (JPY).",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-consolidates-below-mid-13500s-bullish-potential-seems-intact-202609080457",
+      "published": "2026-09-08T04:57:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar struggles after China’s Trade Balance data",
+      "summary": "NZD/USD extends its losses for the third successive day, trading around 0.5850 during the Asian hours on Tuesday. The pair is depreciating as the New Zealand Dollar (NZD) remains under pressure following the release of trade data from China, New Zealand’s major trading partner.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-struggles-after-chinas-trade-balance-data-202609080455",
+      "published": "2026-09-08T04:55:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro holds steady above 1.1600 as markets brace for US inflation data and ECB rate decision",
+      "summary": "The EUR/USD pair trades on a flat note around 1.1625 during the early European trading hours on Tuesday. Traders prefer to wait on the sidelines ahead of the key US inflation data and the European Central Bank (ECB) interest rate decision later this week.",
+      "link": "https://www.fxstreet.com/news/euro-holds-steady-above-11600-as-markets-brace-for-us-inflation-data-and-ecb-rate-decision-202609080449",
+      "published": "2026-09-08T04:49:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Tuesday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609080435",
+      "published": "2026-09-08T04:35:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD jumps to near $67 amid drop in US Dollar, bond yields",
+      "summary": "Silver price (XAG/USD) is up 1.25% to near $67.00 during the Asian trading session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-jumps-to-near-37-amid-drop-in-us-dollar-bond-yields-202609080430",
+      "published": "2026-09-08T04:30:41+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold remains below $4,450 as traders await US inflation data for Fed rate cues",
+      "summary": "Gold (XAU/USD) sticks to modest intraday gains through the Asian session on Tuesday, snapping a two-day losing streak as the recent US Dollar (USD) pullback from a three-week high gains momentum amid the rallying Japanese Yen (JPY).",
+      "link": "https://www.fxstreet.com/news/gold-benefits-from-weak-usd-eyes-4-450-as-focus-remains-on-us-cpi-data-202609080430",
+      "published": "2026-09-08T04:30:14+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar remains steady following China’s Trade Balance data",
+      "summary": "AUD/USD halts its four-day winning streak, trading around 0.7210 during Asian hours on Tuesday. The pair holds ground following the release Trade Balance data from China, Australia’s close trading partner.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-steady-following-chinas-trade-balance-data-202609080252",
+      "published": "2026-09-08T02:52:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "China’s August Trade Balance: Surplus widens to $119.09 billion as expected",
+      "summary": "China's Trade Balance for August, in US Dollar (USD) terms, arrives at $119.09 billion, almost in line with $119.1 billion estimates, but higher than the July reading of $112.5 billion.",
+      "link": "https://www.fxstreet.com/news/chinas-august-trade-balance-surplus-widens-to-11909-billion-as-expected-202609080242",
+      "published": "2026-09-08T02:42:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index (DXY) struggles below 99.00, two-week low as traders eye US inflation data",
+      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, remains under some selling pressure for the second straight day and drops to an over two-week low during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-dxy-struggles-below-9900-two-week-low-as-traders-eye-us-inflation-data-202609080157",
+      "published": "2026-09-08T01:57:49+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar gains as US Dollar struggles despite rising Fed rate hike bets",
+      "summary": "USD/CAD extends its losses for the second successive day, trading around 1.3800 during the Asian hours on Tuesday. Analysts at HSBC caution that, despite the recent improvement in sentiment around the Fed’s anti-inflation stance, broader structural issues have not disappeared.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-as-us-dollar-struggles-despite-rising-fed-rate-hike-bets-202609080157",
+      "published": "2026-09-08T01:57:37+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound drifts higher to near 1.3550 on UK fiscal discipline pledges",
+      "summary": "The GBP/USD pair gains ground to near 1.3545 during the Asian trading hours on Tuesday. The British Pound (GBP) edges higher against the US Dollar (USD) after UK Chancellor John Healey unveiled a series of measures designed to encourage economic growth and draw more private investment into the UK.",
+      "link": "https://www.fxstreet.com/news/british-pound-drifts-higher-to-near-13550-on-uk-fiscal-discipline-pledges-202609080138",
+      "published": "2026-09-08T01:38:51+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -12,24 +156,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7804 vs. 6.7795 previous",
-      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7804 compared to the previous day's fix of 6.7795 and 6.7104 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67804-vs-67795-previous-202609080115",
-      "published": "2026-09-08T01:15:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro holds gains above 1.1600 on ECB tightening prospects",
-      "summary": "The EUR/USD pair trades with mild gains around 1.1625 during the early Asian session on Tuesday. The Euro (EUR) strengthens against the US Dollar (USD) amid expectations of a rate hike from the European Central Bank (ECB).",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11600-on-ecb-tightening-prospects-202609080039",
-      "published": "2026-09-08T00:39:21+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "What is going on USD/JPY!?",
@@ -37,123 +163,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wa9d25/what_is_going_on_usdjpy/",
       "published": "2026-09-08T00:32:14+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold declines to near $4,400 as robust US jobs data lifts Fed hike odds",
-      "summary": "Gold price (XAU/USD) drifts lower to near $4,410 during the early Asian session on Tuesday. The precious metal extends the decline as a stronger-than-expected US Nonfarm Payrolls (NFP) report for August bolsters expectations for a Federal Reserve (Fed) interest rate hike this month.",
-      "link": "https://www.fxstreet.com/news/gold-declines-to-near-4-400-as-robust-us-jobs-data-lifts-fed-hike-odds-202609072326",
-      "published": "2026-09-07T23:26:33+00:00",
-      "score": 7
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Citi Survey sees Banxico frozen as Peso holds below 18.00",
-      "summary": "Citi Mexico released its September “Expectations Survey,” in which most private economists expect the Bank of Mexico (Banxico) to hold rates unchanged, while the exchange rate is forecast to end below the 18.00 threshold by the end of 2026.",
-      "link": "https://www.fxstreet.com/news/citi-survey-sees-banxico-frozen-as-peso-holds-below-1800-202609072304",
-      "published": "2026-09-07T23:04:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar rides thin-trading lift as Fed test looms",
-      "summary": "The Aussie Dollar climbed for the fourth straight day, up 0.22% against the US Dollar, amid thin volumes as US financial markets were closed in observance of the Labour Day Holiday. The AUD/USD trades at 0.7218, after bouncing off daily lows of 0.7194.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rides-thin-trading-lift-as-fed-test-looms-202609072253",
-      "published": "2026-09-07T22:53:16+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Canadian Dollar gains as Oil rally offsets jobs gloom",
-      "summary": "The Loonie gains some traction versus the Greenback, while the latter posts modest losses, as US and Canadian financial markets remain closed in observance of Labour Day. Nevertheless, the USD/CAD edges lower by some 0.15%, trading at 1.3813 at the time of writing.",
-      "link": "https://www.fxstreet.com/news/the-canadian-dollar-gains-as-oil-rally-offsets-jobs-gloom-202609072208",
-      "published": "2026-09-07T22:08:39+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South Korean Won: Authorities signal pause in KRW strength – ING",
-      "summary": "ING’s Chris Turner reports that USD/KRW rebounded from 1335 after news that Korea’s National Pension Service may halt or reverse its forward-market Dollar selling. Authorities appear comfortable with recent Won gains after a 15% USD/KRW drop since June.",
-      "link": "https://www.fxstreet.com/news/south-korean-won-authorities-signal-pause-in-krw-strength-ing-202609072139",
-      "published": "2026-09-07T21:39:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Tuesday tells the Japanese Yen more than next week will",
-      "summary": "USD/JPY trades just above 154.00 after giving up 1.22% on a Monday with American desks shut. Everything the pair has left to argue about arrives inside ten days, and the first of it lands tonight.",
-      "link": "https://www.fxstreet.com/news/tonight-tells-the-japanese-yen-more-than-next-week-will-202609072138",
-      "published": "2026-09-07T21:38:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah: Oil and US inflation pose risks – MUFG",
-      "summary": "MUFG’s Lloyd Chan warns that upcoming US inflation data could test the recent Rupiah recovery, as firmer US inflation may reinforce elevated US yields and challenge USD/IDR’s break below 17,700.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-oil-and-us-inflation-pose-risks-mufg-202609072101",
-      "published": "2026-09-07T21:01:00+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Pound Sterling's rate advantage buys it no say this week",
-      "summary": "GBP/USD holds just under 1.3550 after a Monday that covered 42 pips with American desks shut for Labor Day. The week that follows is not that.",
-      "link": "https://www.fxstreet.com/news/pound-sterlings-rate-advantage-buys-it-no-say-this-week-202609072058",
-      "published": "2026-09-07T20:58:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Vietnam: Inflation and trade trends shape VND – Commerzbank",
-      "summary": "Commerzbank’s Vietnam update highlights rising inflation and a narrowing trade deficit, with strong manufacturing-led imports and resilient exports. The bank notes elevated CPI and external deficits limit scope for aggressive easing, but robust activity persists.",
-      "link": "https://www.fxstreet.com/news/vietnam-inflation-and-trade-trends-shape-vnd-commerzbank-202609072018",
-      "published": "2026-09-07T20:18:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso stumbles as traders brace for US inflation week",
-      "summary": "The Mexican Peso (MXN) loses some ground versus its North American counterpart, the US Dollar (USD), as the USD/MXN pair rises over 0.25% to 16.93, even though the Greenback edges lower against a basket of six currencies, the so-called US Dollar Index (DXY).",
-      "link": "https://www.fxstreet.com/news/mexican-peso-stumbles-as-traders-brace-for-us-inflation-week-202609072012",
-      "published": "2026-09-07T20:12:29+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Asia FX: Stronger Dollar and Oil weigh on CNY and peers – BNY",
-      "summary": "BNY’s Geoff Yu highlights that a stronger US Dollar (USD), higher Oil prices and rising global yields are pressuring Asian currencies and assets.",
-      "link": "https://www.fxstreet.com/news/asia-fx-stronger-dollar-and-oil-weigh-on-cny-and-peers-bny-202609071941",
-      "published": "2026-09-07T19:41:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold bulls flinch as NFP puts Fed hawks back in the driver’s seat",
-      "summary": "Gold (XAU/USD) price dives over 0.40% on Monday following last Friday’s US jobs report, which ignited speculation that the Federal Reserve (Fed) might resume its tightening cycle if inflation reaccelerates late this week, while the labor market remains solid.",
-      "link": "https://www.fxstreet.com/news/gold-bulls-flinch-as-nfp-puts-fed-hawks-back-in-the-drivers-seat-202609071918",
-      "published": "2026-09-07T19:18:29+00:00",
-      "score": 8
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "A German landslide moved the Euro by nothing at all",
-      "summary": "EUR/USD holds above 1.1600, seven pips above where Monday opened. The pair has had three chances to move over four sessions and has taken none of them. Both central banks are priced to raise rates this month for the same energy shock, and a rate gap that is not moving does not move a currency.",
-      "link": "https://www.fxstreet.com/news/the-euro-waits-for-the-sentence-after-the-rate-hike-202609071741",
-      "published": "2026-09-07T17:41:38+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
