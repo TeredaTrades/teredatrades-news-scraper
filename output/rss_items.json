@@ -1,7 +1,133 @@
 {
-  "updated_at": "2026-09-08T18:53:14.218343+00:00",
-  "count": 43,
+  "updated_at": "2026-09-08T21:39:54.149601+00:00",
+  "count": 50,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Mark Stevens reports sale of 1.02 million Nvidia shares between Sept. 3 and Sept. 4, price range $227.25 to $234.04 per share",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9754700/Mark-Stevens-reports-sale-of-102-million-Nvidia-shares-between-Sept-3-and-Sept-4-price-range-22725-to-23404-per-share.aspx?xy=rss",
+      "published": "2026-09-08T21:18:43+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Gundlach: US two-year yield and Fed funds rate misaligned",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9754692/Gundlach-US-two-year-yield-and-Fed-funds-rate-misaligned.aspx?xy=rss",
+      "published": "2026-09-08T21:06:35+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Gundlach: US yields set to keep rising",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9754690/Gundlach-US-yields-set-to-keep-rising.aspx?xy=rss",
+      "published": "2026-09-08T21:06:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Gundlach: Fed funds need to rise 50 basis points",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9754689/Gundlach-Fed-funds-need-to-rise-50-basis-points.aspx?xy=rss",
+      "published": "2026-09-08T21:06:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Chile's central bank: will take necessary steps to ensure projected inflation hits 3% over two-year period",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9754685/Chiles-central-bank-will-take-necessary-steps-to-ensure-projected-inflation-hits-3-over-two-year-period.aspx?xy=rss",
+      "published": "2026-09-08T21:02:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Directing GSA, working with USTR, to take all necessary steps to remove Canadian-origin products from GSA's multiple award schedules.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9754645/Trump-Directing-GSA-working-with-USTR-to-take-all-necessary-steps-to-remove-Canadian-origin-products-from-GSAs-multiple-award-schedules.aspx?xy=rss",
+      "published": "2026-09-08T20:30:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google and Blackstone venture faces delays at data-center sites. $GOOGL $BX",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9754639/Google-and-Blackstone-venture-faces-delays-at-data-center-sites-GOOGL-BX.aspx?xy=rss",
+      "published": "2026-09-08T20:29:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: China’s inflation looms as Lagarde tees up ECB decision",
+      "summary": "Forex markets have remained subdued since the beginning of the week, with the US Dollar (USD) holding near 99.00 on Tuesday, as depicted by the US Dollar Index (DXY).",
+      "link": "https://www.fxstreet.com/news/forex-today-chinas-inflation-looms-as-lagarde-tees-up-ecb-decision-202609082014",
+      "published": "2026-09-08T20:14:01+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: PBoC fix slows downside pace – OCBC",
+      "summary": "OCBC’s Christopher Wong reports USD/CNH briefly fell to its lowest level since February 2023 before rebounding after the PBoC set a higher-than-expected daily fix.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-pboc-fix-slows-downside-pace-ocbc-202609081945",
+      "published": "2026-09-08T19:45:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Short term bias tilts higher against US Dollar – UOB",
+      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann note GBP/USD edged higher to around 1.3545, with no significant build-up in momentum but a modest upside tilt toward 1.3565 in the near term.",
+      "link": "https://www.fxstreet.com/news/british-pound-short-term-bias-tilts-higher-against-us-dollar-uob-202609081930",
+      "published": "2026-09-08T19:30:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States: Core inflation stays contained as goods soften – TD Securities",
+      "summary": "TD Securities economists Oscar Munoz, Eli Nir, Gennadiy Goldberg and Molly Brooks expect August Core CPI to rise 0.19% m/m, with services driving gains and core goods offsetting. They project Core CPI at 2.3% y/y and Headline CPI steady at 3.4% y/y.",
+      "link": "https://www.fxstreet.com/news/united-states-core-inflation-stays-contained-as-goods-soften-td-securities-202609081917",
+      "published": "2026-09-08T19:17:12+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso flatlines as traders brace for Mexico’s fiscal package",
+      "summary": "The Mexican Peso (MXN) remains unchanged against the US Dollar (USD) on Tuesday as market participants await the release of Mexico’s Fiscal package, which will be delivered to the Mexican Congress for approval.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-flatlines-as-traders-brace-for-mexicos-fiscal-package-202609081907",
+      "published": "2026-09-08T19:07:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Intervention risk and key levels in focus against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note that the Japanese Yen (JPY) is modestly firmer, with USD/JPY extending losses through prior intervention lows near 155, a move seen as technically significant and potentially pointing to further Yen gains.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-and-key-levels-in-focus-against-us-dollar-scotiabank-202609081907",
+      "published": "2026-09-08T19:07:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc: Sideways consolidation inside tight band against US Dollar – UOB",
+      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann describe USD/CHF price action as largely directionless, with the pair closing near 0.8090 after trading in a narrow intraday range.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-sideways-consolidation-inside-tight-band-against-us-dollar-uob-202609081857",
+      "published": "2026-09-08T18:57:18+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -45,24 +171,6 @@
       "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret describe GBP/USD as slightly softer but supported by expectations of further Bank of England (BoE) tightening into year-end.",
       "link": "https://www.fxstreet.com/news/british-pound-supportive-boe-outlook-with-range-trade-against-us-dollar-scotiabank-202609081721",
       "published": "2026-09-08T17:21:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 3-Year Note Auction",
-      "summary": "<ul><li>High Yield 4.474% [Stop-through 0.1 bps]</li><li>Bid-to-cover 2.72</li><li>Sells 58 bln</li><li>Awards 29.35% of bids at high</li><li>Primary Dealers take 10.9%</li><li>Direct 26.9%</li><li>Indirect 62.1%</li></ul>",
-      "link": "https://www.financialjuice.com/News/9754426/US-3-Year-Note-Auction.aspx",
-      "published": "2026-09-08T17:03:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Russian Lavrov: Putin may meet Trump, Xi at APEC in November - IFX",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9754423/Russian-Lavrov-Putin-may-meet-Trump-Xi-at-APEC-in-November---IFX.aspx",
-      "published": "2026-09-08T17:02:11+00:00",
       "score": 1
     },
     {
@@ -118,60 +226,6 @@
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-is-paying-for-a-sixth-day-of-crude-oil-202609081554",
       "published": "2026-09-08T15:54:39+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar holds firm on hawkish RBA stance, softer US Dollar",
-      "summary": "AUD/USD holds firm on Tuesday as the US Dollar (USD) struggles to gain traction, while the Reserve Bank of Australia’s (RBA) hawkish stance further supports the Australian Dollar (AUD).",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-on-hawkish-rba-stance-softer-us-dollar-202609081543",
-      "published": "2026-09-08T15:43:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Fed hold tempers dollar rebound – NBC",
-      "summary": "National Bank of Canada's (NBC) Stéfane Marion and Kyle Dahms note that the US Dollar (USD) has weakened broadly in Q3 even as the United States (US) economy remains at full employment.",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-hold-tempers-dollar-rebound-nbc-202609081511",
-      "published": "2026-09-08T15:11:05+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Uptrend resumes with fair value focus against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note that the Canadian Dollar (CAD) is trading close to its fundamental equilibrium, with USD/CAD hovering near fair value around 1.38.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-uptrend-resumes-with-fair-value-focus-against-us-dollar-scotiabank-202609081502",
-      "published": "2026-09-08T15:02:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Bullish momentum extends against US Dollar – Societe Generale",
-      "summary": "Societe Generale’s Kenneth Broux highlights a sharp USD/JPY pullback, with the pair breaking key graphical support at 155 and trading below its 200-day moving average. The bank flags resistance near 156.25 and downside objectives at 152.00/151.60 and 149.50.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-bullish-momentum-extends-against-us-dollar-societe-generale-202609081454",
-      "published": "2026-09-08T14:54:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "\"Risks to inflation are to upside\": BoE's Bailey sounds a cautious note",
-      "summary": "Bank of England (BoE) Governor Andrew Bailey said on Tuesday that he does not think the United Kingdom (UK) economy is on the verge of a recession, with the latest data showing slightly stronger activity, according to Reuters.",
-      "link": "https://www.fxstreet.com/news/risks-to-inflation-are-to-upside-boes-bailey-sounds-a-cautious-note-202609081449",
-      "published": "2026-09-08T14:49:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South African Rand: Gold prices support ZAR against US Dollar – TD Securities",
-      "summary": "TD Securities remains constructive on South African Rand (ZAR), noting that domestic headwinds have failed to generate sustained weakness and that USD/ZAR’s downtrend remains intact.",
-      "link": "https://www.fxstreet.com/news/south-african-rand-gold-prices-support-zar-against-us-dollar-td-securities-202609081447",
-      "published": "2026-09-08T14:47:17+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -235,6 +289,15 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w9d2es/trade/",
       "published": "2026-09-07T00:30:42+00:00",
       "score": 3
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "You Newbies…",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w7aw61/you_newbies/\"> <img alt=\"You Newbies…\" src=\"https://preview.redd.it/3fxx63w5gjnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f22708951f413fb2b6dc190729451476b4bc35f\" title=\"You Newbies…\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Who bought here?</p> <p>Are you long or short eurusd? No bull butter analysis -",
+      "link": "https://www.reddit.com/r/Forex/comments/1w7aw61/you_newbies/",
+      "published": "2026-09-04T17:27:32+00:00",
+      "score": 1
     },
     {
       "source": "Federal Reserve",
