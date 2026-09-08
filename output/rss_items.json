@@ -1,14 +1,41 @@
 {
-  "updated_at": "2026-09-07T23:39:46.271570+00:00",
-  "count": 42,
+  "updated_at": "2026-09-08T01:24:43.189775+00:00",
+  "count": 39,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Japan July inflation-adjusted real wages rise 2.4% yr/yr: govt",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9753007/Japan-July-inflation-adjusted-real-wages-rise-24-yryr-govt.aspx?xy=rss",
-      "published": "2026-09-07T23:30:04+00:00",
+      "title": "Japanese Yen rallies to February 18 high as upbeat wage data and GDP lift BoJ hike bets",
+      "summary": "The USD/JPY pair declines for the second straight day – also marking the fourth day of a fall in the previous five – and sinks to its lowest level since February 18, around mid-153.00s during the Asian session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-rallies-to-february-18-high-as-upbeat-wage-data-and-gdp-lift-boj-hike-bets-202609080116",
+      "published": "2026-09-08T01:16:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7804 vs. 6.7795 previous",
+      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Tuesday at 6.7804 compared to the previous day's fix of 6.7795 and 6.7104 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67804-vs-67795-previous-202609080115",
+      "published": "2026-09-08T01:15:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro holds gains above 1.1600 on ECB tightening prospects",
+      "summary": "The EUR/USD pair trades with mild gains around 1.1625 during the early Asian session on Tuesday. The Euro (EUR) strengthens against the US Dollar (USD) amid expectations of a rate hike from the European Central Bank (ECB).",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11600-on-ecb-tightening-prospects-202609080039",
+      "published": "2026-09-08T00:39:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "What is going on USD/JPY!?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I saw news that Japanese government might have sold US bond to fund itself to intervene yen last month🤮</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ShibaInuNetEng\"> /u/ShibaInuNetEng </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1wa9d25/what_is_going_on_usdjpy/\">[link]</a></span> &#32; <span><a href=\"",
+      "link": "https://www.reddit.com/r/Forex/comments/1wa9d25/what_is_going_on_usdjpy/",
+      "published": "2026-09-08T00:32:14+00:00",
       "score": 1
     },
     {
@@ -27,24 +54,6 @@
       "summary": "Citi Mexico released its September “Expectations Survey,” in which most private economists expect the Bank of Mexico (Banxico) to hold rates unchanged, while the exchange rate is forecast to end below the 18.00 threshold by the end of 2026.",
       "link": "https://www.fxstreet.com/news/citi-survey-sees-banxico-frozen-as-peso-holds-below-1800-202609072304",
       "published": "2026-09-07T23:04:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Colombia's annual inflation reached 6.24% through last month: government statistics agency",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9752980/Colombias-annual-inflation-reached-624-through-last-month-government-statistics-agency.aspx?xy=rss",
-      "published": "2026-09-07T23:00:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Colombia inflation rose 0.39% last month: government statistics agency",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9752978/Colombia-inflation-rose-039-last-month-government-statistics-agency.aspx?xy=rss",
-      "published": "2026-09-07T23:00:21+00:00",
       "score": 1
     },
     {
@@ -140,28 +149,10 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "United States Dollar Index trades under pressure as Yen buying accelerates",
-      "summary": "The US Dollar Index (DXY), which tracks the Greenback’s value against a basket of six major currencies, extends its decline on Monday as a sharp rally in the Japanese Yen (JPY) outweighs support from elevated geopolitical tensions and Federal Reserve (Fed) interest rate hike expectations.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-trades-under-pressure-as-yen-buying-accelerates-202609071803",
-      "published": "2026-09-07T18:03:16+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "A German landslide moved the Euro by nothing at all",
       "summary": "EUR/USD holds above 1.1600, seven pips above where Monday opened. The pair has had three chances to move over four sessions and has taken none of them. Both central banks are priced to raise rates this month for the same energy shock, and a rate gap that is not moving does not move a currency.",
       "link": "https://www.fxstreet.com/news/the-euro-waits-for-the-sentence-after-the-rate-hike-202609071741",
       "published": "2026-09-07T17:41:38+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Japanese Yen has stopped trading the Federal Reserve",
-      "summary": "USD/JPY trades just above 154.00 after giving up close to two Yen on Monday, its weakest in six months. Nothing confirms an intervention, and Tokyo has no level left to defend at six-month Yen highs.",
-      "link": "https://www.fxstreet.com/news/nobody-has-unwound-the-japanese-yen-carry-trade-yet-202609071701",
-      "published": "2026-09-07T17:01:44+00:00",
       "score": 2
     },
     {
@@ -217,24 +208,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w728j7/xauusd_nfp_analysis/",
       "published": "2026-09-04T11:53:44+00:00",
       "score": 5
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "I built an open-source MT5 visual replacer for backtesting — looking for honest feedback before I take it further",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w70j9u/i_built_an_opensource_mt5_visual_replacer_for/\"> <img alt=\"I built an open-source MT5 visual replacer for backtesting — looking for honest feedback before I take it further\" src=\"https://preview.redd.it/qamx89k3dhnh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e23dbe1327a8085605a270b852d527fabada2398\" title=\"I built an ",
-      "link": "https://www.reddit.com/r/Forex/comments/1w70j9u/i_built_an_opensource_mt5_visual_replacer_for/",
-      "published": "2026-09-04T10:27:16+00:00",
-      "score": 4
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Last hope lost hope! XAUUSD",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w64qvl/last_hope_lost_hope_xauusd/\"> <img alt=\"Last hope lost hope! XAUUSD\" src=\"https://preview.redd.it/2mpfvgyjjanh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb8915b0c3252b730ddc42ee42c1071da5f6c400\" title=\"Last hope lost hope! XAUUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Apparently having fundamentals on ",
-      "link": "https://www.reddit.com/r/Forex/comments/1w64qvl/last_hope_lost_hope_xauusd/",
-      "published": "2026-09-03T11:30:31+00:00",
-      "score": 3
     },
     {
       "source": "Federal Reserve",
