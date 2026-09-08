@@ -1,32 +1,131 @@
 {
-  "updated_at": "2026-09-08T15:19:44.517596+00:00",
-  "count": 51,
+  "updated_at": "2026-09-08T18:53:14.218343+00:00",
+  "count": 43,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Trump ends remarks at the event in DC.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9754279/Trump-ends-remarks-at-the-event-in-DC.aspx?xy=rss",
-      "published": "2026-09-08T15:18:35+00:00",
+      "title": "US Dollar: Mixed performance with Fed and trade risks – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight a mixed US Dollar (USD) as markets weigh rising Oil prices, Japanese Yen (JPY) strength, and escalating US trade tensions.",
+      "link": "https://www.fxstreet.com/news/us-dollar-mixed-performance-with-fed-and-trade-risks-scotiabank-202609081833",
+      "published": "2026-09-08T18:33:59+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold price wilts as Oil shock puts CPI in Fed crosshairs",
+      "summary": "Gold (XAU/USD) registers losses of over 0.44% on Tuesday amid a light economic docket in the US, due to a narrative dominated by the US-Iran conflict, higher Oil prices and traders bracing for the release of US inflation reports, with the PPI expected on Thursday, followed by the next day’s CPI.",
+      "link": "https://www.fxstreet.com/news/gold-price-wilts-as-oil-shock-puts-cpi-in-fed-crosshairs-202609081801",
+      "published": "2026-09-08T18:01:43+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Upside bias within defined range against US Dollar – UOB",
+      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann analysts report that EUR/USD was little changed around 1.1620 on Monday, but note a slight pickup in upward momentum.",
+      "link": "https://www.fxstreet.com/news/euro-upside-bias-within-defined-range-against-us-dollar-uob-202609081751",
+      "published": "2026-09-08T17:51:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Policy scenarios favor stronger JPY against US Dollar – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad highlights that USD/JPY briefly hit a seven‑month low near 152.89 before rebounding above 154.00, with support around 152.00 and resistance at 155.00.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-policy-scenarios-favor-stronger-jpy-against-us-dollar-bbh-202609081740",
+      "published": "2026-09-08T17:40:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Supportive BoE outlook with range trade against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret describe GBP/USD as slightly softer but supported by expectations of further Bank of England (BoE) tightening into year-end.",
+      "link": "https://www.fxstreet.com/news/british-pound-supportive-boe-outlook-with-range-trade-against-us-dollar-scotiabank-202609081721",
+      "published": "2026-09-08T17:21:40+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed bids for 3-month bills total $7.1 bln.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9754257/Fed-bids-for-3-month-bills-total-71-bln.aspx?xy=rss",
-      "published": "2026-09-08T15:15:51+00:00",
+      "title": "FinancialJuice: US 3-Year Note Auction",
+      "summary": "<ul><li>High Yield 4.474% [Stop-through 0.1 bps]</li><li>Bid-to-cover 2.72</li><li>Sells 58 bln</li><li>Awards 29.35% of bids at high</li><li>Primary Dealers take 10.9%</li><li>Direct 26.9%</li><li>Indirect 62.1%</li></ul>",
+      "link": "https://www.financialjuice.com/News/9754426/US-3-Year-Note-Auction.aspx",
+      "published": "2026-09-08T17:03:22+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed bids for 6-month bills total $6.1 bln.",
+      "title": "FinancialJuice: Russian Lavrov: Putin may meet Trump, Xi at APEC in November - IFX",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9754256/Fed-bids-for-6-month-bills-total-61-bln.aspx?xy=rss",
-      "published": "2026-09-08T15:15:35+00:00",
+      "link": "https://www.financialjuice.com/News/9754423/Russian-Lavrov-Putin-may-meet-Trump-Xi-at-APEC-in-November---IFX.aspx",
+      "published": "2026-09-08T17:02:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Japanese Yen spikes and unwinds on the best pay data in decades",
+      "summary": "USD/JPY holds just below 154.50 on Tuesday, unchanged on the day after a 153-pip round trip. The pair traded well over a Yen lower on the strongest Japanese pay data since 1997 and has bought back all of it.",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-spikes-and-unwinds-on-the-best-pay-data-in-decades-202609081639",
+      "published": "2026-09-08T16:39:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar trims gains as risk aversion supports US Dollar despite higher Oil prices",
+      "summary": "USD/CAD rebounds on Tuesday after hitting an intraday low of 1.3760 and trades around 1.3790 at the time of writing, down 0.18% on the day.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trims-gains-as-risk-aversion-supports-us-dollar-despite-higher-oil-prices-202609081632",
+      "published": "2026-09-08T16:32:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Euro's rate hike does not come with a gas cargo",
+      "summary": "EUR/USD holds above 1.1600 on Tuesday after a session that has covered 28 pips and left the pair half a pip from where it opened. European gas hit a three-year high on the same clock, and the European Central Bank (ECB) is expected to raise the deposit rate on Thursday.",
+      "link": "https://www.fxstreet.com/news/the-euros-rate-hike-does-not-come-with-a-gas-cargo-202609081627",
+      "published": "2026-09-08T16:27:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "NY Fed Survey of Consumers shows inflation relief, jobs-market unease",
+      "summary": "The New York Federal Reserve (Fed) released on Tuesday the August Survey of Consumer Expectations, in which households' inflation expectations dipped in the medium term, while expectations about the labor market remained mixed, as unemployment and job-finding deteriorated, while job losses and quit",
+      "link": "https://www.fxstreet.com/news/ny-fed-survey-of-consumers-shows-inflation-relief-jobs-market-unease-202609081558",
+      "published": "2026-09-08T15:58:07+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Colombian Peso: Downside risk bias against US Dollar – TD Securities",
+      "summary": "TD Securities notes that the Colombian Peso (COP) has been a top high-yield performer but sees its supportive mix of tight monetary and loose fiscal policy fading.",
+      "link": "https://www.fxstreet.com/news/colombian-peso-downside-risk-bias-against-us-dollar-td-securities-202609081558",
+      "published": "2026-09-08T15:58:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones Industrial Average is paying for a sixth day of Crude Oil",
+      "summary": "The Dow Jones Industrial Average trades near 52,900, roughly 190 points lower, in the first session since Friday. Crude Oil has risen for six days running and the two-year Treasury yield sits at its highest since January 2025. Neither is an equity story by itself.",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-is-paying-for-a-sixth-day-of-crude-oil-202609081554",
+      "published": "2026-09-08T15:54:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar holds firm on hawkish RBA stance, softer US Dollar",
+      "summary": "AUD/USD holds firm on Tuesday as the US Dollar (USD) struggles to gain traction, while the Reserve Bank of Australia’s (RBA) hawkish stance further supports the Australian Dollar (AUD).",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-on-hawkish-rba-stance-softer-us-dollar-202609081543",
+      "published": "2026-09-08T15:43:49+00:00",
       "score": 1
     },
     {
@@ -39,66 +138,12 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Treasury Secretary Bessent: We're now seeing China's manufacturing jobs go down.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9754248/US-Treasury-Secretary-Bessent-Were-now-seeing-Chinas-manufacturing-jobs-go-down.aspx?xy=rss",
-      "published": "2026-09-08T15:09:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump touts the stock market and economic data.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9754243/Trump-touts-the-stock-market-and-economic-data.aspx?xy=rss",
-      "published": "2026-09-08T15:03:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: NY Fed: Views about current and future personal financial situations deteriorated in August.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9754241/NY-Fed-Views-about-current-and-future-personal-financial-situations-deteriorated-in-August.aspx?xy=rss",
-      "published": "2026-09-08T15:02:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: NY Fed: Consumers in August projected higher future gasoline prices.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9754240/NY-Fed-Consumers-in-August-projected-higher-future-gasoline-prices.aspx?xy=rss",
-      "published": "2026-09-08T15:02:02+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Canadian Dollar: Uptrend resumes with fair value focus against US Dollar – Scotiabank",
       "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note that the Canadian Dollar (CAD) is trading close to its fundamental equilibrium, with USD/CAD hovering near fair value around 1.38.",
       "link": "https://www.fxstreet.com/news/canadian-dollar-uptrend-resumes-with-fair-value-focus-against-us-dollar-scotiabank-202609081502",
       "published": "2026-09-08T15:02:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: NY Fed: Labor market expectations were mixed in August.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9754239/NY-Fed-Labor-market-expectations-were-mixed-in-August.aspx?xy=rss",
-      "published": "2026-09-08T15:01:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: NY Fed: Expectations in August of higher unemployment rate were highest since April 2020.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9754238/NY-Fed-Expectations-in-August-of-higher-unemployment-rate-were-highest-since-April-2020.aspx?xy=rss",
-      "published": "2026-09-08T15:01:34+00:00",
       "score": 1
     },
     {
@@ -147,114 +192,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: Bulls struggle below the 100-day SMA",
-      "summary": "Silver (XAG/USD) pulls back on Tuesday after failing to hold its earlier advance. At the time of writing, the metal trades around $66 after reaching an intraday high near $67.19.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-bulls-struggle-below-the-100-day-sma-202609081423",
-      "published": "2026-09-08T14:23:47+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar retreats as Chinese imports fall short of expectations",
-      "summary": "NZD/USD declines 0.37% on Tuesday, trading around 0.5855 at the time of writing. The New Zealand Dollar (NZD) remains under pressure following the release of mixed trade data from China, New Zealand’s largest trading partner.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-retreats-as-chinese-imports-fall-short-of-expectations-202609081419",
-      "published": "2026-09-08T14:19:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Carry unwind boosts gains against US Dollar - DBS",
-      "summary": "DBS Group Research economist Philip Wee notes that the Japanese Yen (JPY) has become the best-performing US Dollar Index (DXY) currency in 2026, with USD/JPY falling below its end-2025 level of 156.70.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-carry-unwind-boosts-gains-against-us-dollar-dbs-202609081417",
-      "published": "2026-09-08T14:17:44+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Loonie rally pauses before fresh gains - NBC",
-      "summary": "National Bank of Canada's (NBC) Marion and Dahms highlight a strong Canadian Dollar (CAD) rally in Q3, driven by positive data and higher Oil and Gold prices, which pushed USD/CAD briefly below 1.38. They warn that new U.S. tariffs and trade uncertainty raise downside risks to Canadian growth.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-loonie-rally-pauses-before-fresh-gains-nbc-202609081406",
-      "published": "2026-09-08T14:06:29+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Copper: Record prices and Chile supply issues – Commerzbank",
-      "summary": "Commerzbank’s Norman Liebke highlights that LME 3‑month Copper has set a new all‑time high above USD 14,530 per ton, supported by strong US demand and anticipated import tariffs.",
-      "link": "https://www.fxstreet.com/news/copper-record-prices-and-chile-supply-issues-commerzbank-202609081357",
-      "published": "2026-09-08T13:57:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Brazilian Real: Election risks keep pressure on BRL against US Dollar – TD Securities",
-      "summary": "TD Securities highlights that BRL faces elevated election-related risks, with USD/BRL having tested its 200-day SMA resistance over the past month. Drawing parallels with 2014, the bank sees risks skewed toward higher USD/BRL as markets remain concerned about Brazil’s fiscal outlook.",
-      "link": "https://www.fxstreet.com/news/brazilian-real-election-risks-keep-pressure-on-brl-against-us-dollar-td-securities-202609081349",
-      "published": "2026-09-08T13:49:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: Strong jobs and CPI risks – BNY",
-      "summary": "BNY Markets strategist John Velis says a strong United States (US) jobs report has pushed expectations for a September Federal Reserve (Fed) rate hike back above 60%, despite Governor Christopher Waller’s more cautious comments.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-strong-jobs-and-cpi-risks-bny-202609081333",
-      "published": "2026-09-08T13:33:38+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro holds steady as US Dollar struggles for traction",
-      "summary": "EUR/USD trades virtually flat near 1.1623 during American trading hours on Tuesday. The US Dollar (USD) struggles to hold its earlier gains, helping the Euro (EUR) recover from its intraday low.",
-      "link": "https://www.fxstreet.com/news/euro-holds-steady-as-us-dollar-struggles-for-traction-202609081330",
-      "published": "2026-09-08T13:30:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Crude rally and CPI risks shape path – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes that Brent Oil’s surge toward $100 is pressuring stocks and bonds while giving the Dollar a modest lift. However, he stresses that Friday’s US August Consumer Price Index (CPI) will be decisive for the Federal Reserve’s September 16 meeting.",
-      "link": "https://www.fxstreet.com/news/us-dollar-crude-rally-and-cpi-risks-shape-path-bbh-202609081308",
-      "published": "2026-09-08T13:08:03+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Fed inflation focus and volatility risk – Commerzbank",
-      "summary": "Commerzbank’s Thu Lan Nguyen notes Gold has stabilised around USD 4,400 per ounce, with markets now focused on upcoming US inflation data as the key driver for the Federal Reserve’s September decision.",
-      "link": "https://www.fxstreet.com/news/gold-fed-inflation-focus-and-volatility-risk-commerzbank-202609081235",
-      "published": "2026-09-08T12:35:55+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "155.00: Why the Japanese Yen just broke through the level that could define a new range",
-      "summary": "USD/JPY has suffered a sharp technical breakdown below the key 155.00 psychological threshold, extending losses toward 153.00 amid thin holiday liquidity, unwinding carry trade positions, and renewed political focus on Japan's monetary framework.",
-      "link": "https://www.fxstreet.com/news/15500-why-the-japanese-yen-just-broke-through-the-level-that-could-define-a-new-range-202609081234",
-      "published": "2026-09-08T12:34:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold trades lower despite weaker US Dollar as Fed hike bets weigh",
-      "summary": "Gold (XAU/USD) remains on the back foot during American trading hours on Tuesday, even as the US Dollar (USD) remains on the defensive. Rising Oil prices and expectations of a Federal Reserve (Fed) rate hike weigh on the precious metal.",
-      "link": "https://www.fxstreet.com/news/gold-reverses-early-gains-as-us-dollar-rebounds-oil-prices-rise-202609081126",
-      "published": "2026-09-08T11:26:33+00:00",
-      "score": 5
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "6 NFP mornings on gold 5m: first 15 minute ranges from $5.73 to $48.48",
@@ -298,15 +235,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1w9d2es/trade/",
       "published": "2026-09-07T00:30:42+00:00",
       "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "You Newbies…",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1w7aw61/you_newbies/\"> <img alt=\"You Newbies…\" src=\"https://preview.redd.it/3fxx63w5gjnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f22708951f413fb2b6dc190729451476b4bc35f\" title=\"You Newbies…\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Who bought here?</p> <p>Are you long or short eurusd? No bull butter analysis -",
-      "link": "https://www.reddit.com/r/Forex/comments/1w7aw61/you_newbies/",
-      "published": "2026-09-04T17:27:32+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
