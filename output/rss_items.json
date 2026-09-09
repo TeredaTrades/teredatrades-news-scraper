@@ -1,11 +1,191 @@
 {
-  "updated_at": "2026-09-09T16:19:58.303270+00:00",
-  "count": 28,
+  "updated_at": "2026-09-09T19:22:13.962760+00:00",
+  "count": 56,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Australian Dollar stabilizes as rebound in US yields supports the USD",
+      "title": "Taiwan Dollar: Range trade expected after CPI surprise against US Dollar – Commerzbank",
+      "summary": "Commerzbank highlights that Taiwan’s August CPI undershot expectations due to favourable food base effects, but core inflation remains above the CBC’s forecast. The bank sees scope for a modest rate hike as growth stays robust and inflation risks persist.",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-range-trade-expected-after-cpi-surprise-against-us-dollar-commerzbank-202609091912",
+      "published": "2026-09-09T19:12:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "BTCUSD",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wbu4qu/btcusd/\"> <img alt=\"BTCUSD\" src=\"https://preview.redd.it/l4xgwgz8hjoh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b746947ebc1a99a44df2754123f846736cd6a3d3\" title=\"BTCUSD\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Beneficial_Rub_621\"> /u/Beneficial_Rub_621 </a> <br /> <span><a href",
+      "link": "https://www.reddit.com/r/Forex/comments/1wbu4qu/btcusd/",
+      "published": "2026-09-09T18:37:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Iran: We're not looking for a deal, but negotiation could happen",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756226/Trump-on-Iran-Were-not-looking-for-a-deal-but-negotiation-could-happen.aspx",
+      "published": "2026-09-09T18:34:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Iran: I'm doing much more than a nuclear deal, many things on table.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756225/Trump-on-Iran-Im-doing-much-more-than-a-nuclear-deal-many-things-on-table.aspx",
+      "published": "2026-09-09T18:33:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chile: Policy pause reflects fragile growth – Societe Generale",
+      "summary": "Societe Generale’s Dev Ashish reports that the Central Bank of Chile kept the monetary policy rate at 4.50% in September, as weak domestic growth offsets rising external inflation risks. The bank highlights disappointing activity, deteriorating labour markets and anchored inflation expectations.",
+      "link": "https://www.fxstreet.com/news/chile-policy-pause-reflects-fragile-growth-societe-generale-202609091833",
+      "published": "2026-09-09T18:33:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Will be speaking to Israel about sanctions imposed on West Bank settlements.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756223/Trump-Will-be-speaking-to-Israel-about-sanctions-imposed-on-West-Bank-settlements.aspx",
+      "published": "2026-09-09T18:32:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Had a great conversation with Putin. He wants to make a deal.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756217/Trump-Had-a-great-conversation-with-Putin-He-wants-to-make-a-deal.aspx",
+      "published": "2026-09-09T18:31:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Will get gasoline down below $2.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756216/Trump-Will-get-gasoline-down-below-2.aspx",
+      "published": "2026-09-09T18:29:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Gasoline Price: It will take a little bit longer.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756215/Trump-on-Gasoline-Price-It-will-take-a-little-bit-longer.aspx",
+      "published": "2026-09-09T18:29:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: After the election, oil prices will tumble.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756214/Trump-After-the-election-oil-prices-will-tumble.aspx",
+      "published": "2026-09-09T18:29:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Gasoline Price: Can't let Iran have nuclear weapons.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756213/Trump-on-Gasoline-Price-Cant-let-Iran-have-nuclear-weapons.aspx",
+      "published": "2026-09-09T18:28:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: The economy is very strong; we're going to explain that.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756212/Trump-The-economy-is-very-strong-were-going-to-explain-that.aspx",
+      "published": "2026-09-09T18:28:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: LIVE: President Donald Trump Heads to Dallas for Historic Republican Midterm Convention | AC15",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756211/LIVE-President-Donald-Trump-Heads-to-Dallas-for-Historic-Republican-Midterm-Convention--AC15.aspx",
+      "published": "2026-09-09T18:27:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Apple prices the 2-terabyte version of the iPhone Duo at $3,199. $AAPL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756210/Apple-prices-the-2-terabyte-version-of-the-iPhone-Duo-at-3199-AAPL.aspx",
+      "published": "2026-09-09T18:21:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: Rally puts head-and-shoulders pattern on ice",
+      "summary": "Silver (XAG/USD) price makes a U-turn on Wednesday and rises over 3.40% as the Greenback weakens, putting the confirmation of a ‘head-and-shoulders’ chart pattern on hold, which has formed since mid-August. The XAG/USD pair trades at $68.00 after rebounding off $65.31.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-rally-puts-head-and-shoulders-pattern-on-ice-202609091756",
+      "published": "2026-09-09T17:56:44+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "EUR/USD Price Forecast: Buyers seek a decisive break above the 200-day SMA",
+      "summary": "EUR/USD struggles to extend its earlier gains on Wednesday as the US Treasury’s bond-buyback announcement sparks a brief bout of volatility, pushing Treasury yields higher and helping the US Dollar (USD) trim its losses.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-buyers-seek-a-decisive-break-above-the-200-day-sma-202609091746",
+      "published": "2026-09-09T17:46:17+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Bad day",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Beginning this month I said to myself I'm gonna be very patient this time....and I was at first then things got slow. Felt like trading opportunities (based on my strat) were very few and with an increasing pressure to outperform myself I got a little a greedy. Beginning with Asian session XAUUSD my intuition told me the market would go bullish. My strategy said w",
+      "link": "https://www.reddit.com/r/Forex/comments/1wbrzaj/bad_day/",
+      "published": "2026-09-09T17:22:25+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: Attention shifts to the ECB and US PPI",
+      "summary": "The US Dollar (USD) navigated a bearish range on Wednesday, gathering some pace soon after the US Treasury announced a buyback of up to $6 billion in 10- to 20-year T-bonds.",
+      "link": "https://www.fxstreet.com/news/forex-today-attention-shifts-to-the-ecb-and-us-ppi-202609091712",
+      "published": "2026-09-09T17:12:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold bulls defy US yield spike as Treasury buyback nears",
+      "summary": "Gold (XAU/USD) rises over 1% on Wednesday, even as the US Dollar (USD) trims some of its earlier losses, after the US Treasury Department announced a bond buyback for the September 10 auction of 10- and 20-year instruments.",
+      "link": "https://www.fxstreet.com/news/gold-bulls-defy-us-yield-spike-as-treasury-buyback-nears-202609091702",
+      "published": "2026-09-09T17:02:09+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Germany: Profit squeeze tempers price risks – ING",
+      "summary": "ING economists Carsten Brzeski and Franziska Biehl argue that while German inflation is set to rise above 3% and stay elevated into year-end, a repeat of 2022’s double-digit surge is unlikely.",
+      "link": "https://www.fxstreet.com/news/germany-profit-squeeze-tempers-price-risks-ing-202609091622",
+      "published": "2026-09-09T16:22:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar stabilizes as rebound in US yields supports USD",
       "summary": "AUD/USD stabilizes around 0.7220 at the time of writing on Wednesday, after hitting a fresh four-month high at 0.7237 earlier in the day. The Australian Dollar (AUD) loses some momentum as the US Dollar (USD) rebounds, supported by rising US Treasury yields.",
       "link": "https://www.fxstreet.com/news/australian-dollar-stabilizes-as-rebound-in-us-yields-supports-the-usd-202609091606",
       "published": "2026-09-09T16:06:55+00:00",
@@ -27,15 +207,6 @@
       "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight ongoing Japanese Yen (JPY) outperformance, with USD/JPY drifting toward key support near 153 and the 2026 low around 152. Markets fully price a 25 bp Bank of Japan (BoJ) hike on September 18.",
       "link": "https://www.fxstreet.com/news/japanese-yen-strength-builds-against-us-dollar-ahead-of-boj-decision-scotiabank-202609091549",
       "published": "2026-09-09T15:49:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fox Business cites Trump Admin Official on buyback announcement.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9756001/Fox-Business-cites-Trump-Admin-Official-on-buyback-announcement.aspx?xy=rss",
-      "published": "2026-09-09T15:35:45+00:00",
       "score": 1
     },
     {
@@ -81,78 +252,6 @@
       "summary": "USD/CHF edges lower on Wednesday as broad weakness in the US Dollar (USD) allows the Swiss Franc (CHF) to regain some ground. At the time of writing, the pair trades around 0.8078, down roughly 0.20% on the day.",
       "link": "https://www.fxstreet.com/news/swiss-franc-gains-ground-as-japanese-yen-led-weakness-grips-us-dollar-202609091443",
       "published": "2026-09-09T14:43:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Turkish Lira: Disinflation supports gradual TRY repricing – ING",
-      "summary": "ING analysts Muhammet Mercan, Frantisek Taborsky and James Wilson say normalising liquidity and a lower effective funding rate have pushed market pricing closer to their Central Bank of Turkey rate view for 2026.",
-      "link": "https://www.fxstreet.com/news/turkish-lira-disinflation-supports-gradual-try-repricing-ing-202609091443",
-      "published": "2026-09-09T14:43:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Inflation data key catalyst – TD Securities",
-      "summary": "TD Securities’ Ryan McKay and Bart Melek say Gold and broader precious metals have held firm despite higher near-term Fed hike probabilities.",
-      "link": "https://www.fxstreet.com/news/gold-inflation-data-key-catalyst-td-securities-202609091430",
-      "published": "2026-09-09T14:30:22+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Hawkish ECB hike expected to support EUR against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret report EUR/USD is flat in North American trade after touching a one-week high, with fundamentals supported by firmer European Central Bank (ECB) rate expectations on higher Oil prices.",
-      "link": "https://www.fxstreet.com/news/euro-hawkish-ecb-hike-expected-to-support-eur-against-us-dollar-scotiabank-202609091414",
-      "published": "2026-09-09T14:14:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Bank of Japan: Outsized hike risks carry shock – DBS",
-      "summary": "DBS Group Research economist Ma Tieying expects the Bank of Japan (BoJ) to raise rates by 25bps at its September 17–18 meeting, describing a hike as almost certain given solid Gross Domestic Product (GDP), wage and inflation data.",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-outsized-hike-risks-carry-shock-dbs-202609091402",
-      "published": "2026-09-09T14:02:29+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Brazilian Real: Narrowing polls support BRL against US Dollar– ING",
-      "summary": "ING’s Chris Turner notes USD/BRL is drifting towards 5.05/5.07 as election polls show challenger Flavio Bolsonaro overtaking President Lula in a run-off, with prediction markets still favoring Lula but by a shrinking margin.",
-      "link": "https://www.fxstreet.com/news/brazilian-real-narrowing-polls-support-brl-against-us-dollar-ing-202609091351",
-      "published": "2026-09-09T13:51:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Further gains seen against US Dollar - Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret describe the Canadian Dollar (CAD) as steady despite renewed US–Canada trade tensions and targeted import bans. They highlight improving CAD fundamentals and a lower fair value estimate for USD/CAD near 1.3736.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-further-gains-seen-against-us-dollar-scotiabank-202609091341",
-      "published": "2026-09-09T13:41:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price rebounds as US Dollar weakness clashes with rising rate expectations",
-      "summary": "Silver (XAG/USD) rebounds on Wednesday and trades around $67.50 at the time of writing, up 2.64% on the day.",
-      "link": "https://www.fxstreet.com/news/silver-price-rebounds-as-us-dollar-weakness-clashes-with-rising-rate-expectations-202609091333",
-      "published": "2026-09-09T13:33:06+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro benefits from broad US Dollar weakness ahead of ECB rate decision",
-      "summary": "EUR/USD trades on the front foot on Wednesday as broad US Dollar (USD) weakness, led by a sharp rally in the Japanese Yen (JPY), supports the pair. At the time of writing, EUR/USD trades around 1.1647, up 0.20% on the day.",
-      "link": "https://www.fxstreet.com/news/euro-benefits-from-broad-us-dollar-weakness-ahead-of-ecb-rate-decision-202609091325",
-      "published": "2026-09-09T13:25:31+00:00",
       "score": 1
     },
     {
@@ -253,13 +352,160 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wa9d25/what_is_going_on_usdjpy/",
       "published": "2026-09-08T00:32:14+00:00",
       "score": 1
-    }
-  ],
-  "errors": [
+    },
     {
       "source": "Federal Reserve",
-      "type": "rss",
-      "error": "failed to parse feed (<unknown>:2:0: syntax error)"
+      "category": "macro",
+      "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+      "published": "2026-09-04T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+      "published": "2026-08-27T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+      "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+      "published": "2026-08-20T20:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+      "published": "2026-08-20T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+      "published": "2026-08-20T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+      "published": "2026-08-19T18:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
+      "published": "2026-08-13T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "summary": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
+      "published": "2026-08-04T20:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "summary": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
+      "published": "2026-08-04T20:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+      "summary": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
+      "published": "2026-08-04T20:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+      "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
+      "published": "2026-07-31T14:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank &quot;insiders&quot;—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
+      "published": "2026-07-31T14:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+      "published": "2026-07-30T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+      "published": "2026-07-30T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve issues FOMC statement",
+      "summary": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "published": "2026-07-29T18:00:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
+      "summary": "Federal Reserve Board issues enforcement action with former chief lending officer of Heritage State Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
+      "published": "2026-07-16T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+      "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
+      "published": "2026-07-09T19:00:00+00:00",
+      "score": 1
     }
-  ]
+  ],
+  "errors": []
 }
