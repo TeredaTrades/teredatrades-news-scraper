@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-09-09T19:22:13.962760+00:00",
-  "count": 56,
+  "updated_at": "2026-09-09T21:50:44.857051+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar flatlines as US yield ripples meet RBA hawks",
+      "summary": "The Australian Dollar is virtually unchanged against the US Dollar on Wednesday amid a light economic calendar, with the US Treasury's announcement of a buyback for the September 10 auction boosting the Greenback. The AUD/USD trades at 0.7219, flat.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-flatlines-as-us-yield-ripples-meet-rba-hawks-202609092136",
+      "published": "2026-09-09T21:36:18+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: AI researcher Andrew Tulloch departing Meta - Semafor",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756400/AI-researcher-Andrew-Tulloch-departing-Meta---Semafor.aspx?xy=rss",
+      "published": "2026-09-09T21:30:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Pound Sterling awaits the Fed's two-strike inflation test",
+      "summary": "The real tension weighing on GBP/USD is a rate parity that masks a divergence. Both central banks sit at 3.75%.",
+      "link": "https://www.fxstreet.com/news/pound-sterling-awaits-the-feds-two-strike-inflation-test-202609092119",
+      "published": "2026-09-09T21:19:26+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Trump pins Iran endgame on midterms, open to talks",
+      "summary": "US President Donald Trump crossed the wires on Wednesday, saying that the Iran war will end “immediately” right after the US midterm elections. He said that Iranians are “desperate to try and affect the election,” told to reporters before leaving for the Republican National Convention in Dallas.",
+      "link": "https://www.fxstreet.com/news/us-president-trump-pins-iran-endgame-on-midterms-open-to-talks-202609092100",
+      "published": "2026-09-09T21:00:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Gains seen moderating after sharp repricing – DBS",
+      "summary": "DBS Group Research’s Chang Wei Liang notes that USD/KRW has fallen toward 1340 in a steady decline since late June, reflecting earlier optimism on the Korean Won from a booming memory sector and strong investment plans.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-gains-seen-moderating-after-sharp-repricing-dbs-202609092041",
+      "published": "2026-09-09T20:41:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "NZD/USD Price Forecast: SMA cluster wobbles as US yields bite",
+      "summary": "The New Zealand Dollar extends its losses against the US Dollar, down 0.30% as the Greenback gets underpinned by rising US Treasury yields, with the 10-year reaching its highest level since 2023. The NZD/USD trades at 0.5835.",
+      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-sma-cluster-wobbles-as-us-yields-bite-202609092034",
+      "published": "2026-09-09T20:34:03+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "I pulled realised vol, forwards and carry for USDMXN, USDJPY and four EM pairs and turned them into stop sizes. Numbers inside",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wbwro6/i_pulled_realised_vol_forwards_and_carry_for/\"> <img alt=\"I pulled realised vol, forwards and carry for USDMXN, USDJPY and four EM pairs and turned them into stop sizes. Numbers inside\" src=\"https://preview.redd.it/8ybpnbtjwjoh1.png?width=140&amp;height=59&amp;auto=webp&amp;s=16e3d91b42b357a6bbc80998cc5425998b714f8f\" title=\"",
+      "link": "https://www.reddit.com/r/Forex/comments/1wbwro6/i_pulled_realised_vol_forwards_and_carry_for/",
+      "published": "2026-09-09T20:09:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Uptrend intact with muted inflation against US Dollar – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports that USD/CNH continues to drift lower to its weakest level since January 2023 as China’s August Consumer Price Index (CPI) rose modestly while overall inflation remains subdued.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-uptrend-intact-with-muted-inflation-against-us-dollar-bbh-202609091954",
+      "published": "2026-09-09T19:54:00+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso holds firm as inflation cools, fiscal plan lands",
+      "summary": "The Mexican Peso (MXN) clings to gains against the US Dollar (USD) on Wednesday following the presentation of Mexico’s government fiscal package in Congress, while traders await the release of US inflation data. The USD/MXN pair trades at 16.89, down 0.09% near yearly lows.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-holds-firm-as-inflation-cools-fiscal-plan-lands-202609091949",
+      "published": "2026-09-09T19:49:41+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -21,111 +102,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Iran: We're not looking for a deal, but negotiation could happen",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9756226/Trump-on-Iran-Were-not-looking-for-a-deal-but-negotiation-could-happen.aspx",
-      "published": "2026-09-09T18:34:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Iran: I'm doing much more than a nuclear deal, many things on table.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9756225/Trump-on-Iran-Im-doing-much-more-than-a-nuclear-deal-many-things-on-table.aspx",
-      "published": "2026-09-09T18:33:45+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Chile: Policy pause reflects fragile growth – Societe Generale",
       "summary": "Societe Generale’s Dev Ashish reports that the Central Bank of Chile kept the monetary policy rate at 4.50% in September, as weak domestic growth offsets rising external inflation risks. The bank highlights disappointing activity, deteriorating labour markets and anchored inflation expectations.",
       "link": "https://www.fxstreet.com/news/chile-policy-pause-reflects-fragile-growth-societe-generale-202609091833",
       "published": "2026-09-09T18:33:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Will be speaking to Israel about sanctions imposed on West Bank settlements.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9756223/Trump-Will-be-speaking-to-Israel-about-sanctions-imposed-on-West-Bank-settlements.aspx",
-      "published": "2026-09-09T18:32:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Had a great conversation with Putin. He wants to make a deal.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9756217/Trump-Had-a-great-conversation-with-Putin-He-wants-to-make-a-deal.aspx",
-      "published": "2026-09-09T18:31:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Will get gasoline down below $2.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9756216/Trump-Will-get-gasoline-down-below-2.aspx",
-      "published": "2026-09-09T18:29:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Gasoline Price: It will take a little bit longer.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9756215/Trump-on-Gasoline-Price-It-will-take-a-little-bit-longer.aspx",
-      "published": "2026-09-09T18:29:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: After the election, oil prices will tumble.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9756214/Trump-After-the-election-oil-prices-will-tumble.aspx",
-      "published": "2026-09-09T18:29:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Gasoline Price: Can't let Iran have nuclear weapons.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9756213/Trump-on-Gasoline-Price-Cant-let-Iran-have-nuclear-weapons.aspx",
-      "published": "2026-09-09T18:28:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: The economy is very strong; we're going to explain that.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9756212/Trump-The-economy-is-very-strong-were-going-to-explain-that.aspx",
-      "published": "2026-09-09T18:28:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: LIVE: President Donald Trump Heads to Dallas for Historic Republican Midterm Convention | AC15",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9756211/LIVE-President-Donald-Trump-Heads-to-Dallas-for-Historic-Republican-Midterm-Convention--AC15.aspx",
-      "published": "2026-09-09T18:27:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Apple prices the 2-terabyte version of the iPhone Duo at $3,199. $AAPL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9756210/Apple-prices-the-2-terabyte-version-of-the-iPhone-Duo-at-3199-AAPL.aspx",
-      "published": "2026-09-09T18:21:17+00:00",
       "score": 1
     },
     {
@@ -210,51 +192,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Treasury yields rise after buyback announcement, 30-year yield reaches 5.30%",
-      "summary": "US Treasury yields rise on Wednesday after the United States (US) Treasury Department announces plans to buy back $6 billion of longer-term government debt, three times the size of its usual operation.",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-after-buyback-announcement-30-year-yield-reaches-530-202609091531",
-      "published": "2026-09-09T15:31:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound catches bid as Oil-USD link breaks ahead US CPI",
-      "summary": "The Pound Sterling (GBP) advances on Wednesday during the North American session, up 0.15% against the US Dollar (USD) to 1.3560, with no clear catalyst, as the conflict in the Middle East prolongs and traders brace for US inflation data.",
-      "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-oil-usd-link-breaks-ahead-us-cpi-202609091515",
-      "published": "2026-09-09T15:15:58+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Brazilian Real: Rate gap points to weakness against US Dollar – Rabobank",
-      "summary": "Rabobank’s Mauricio Une and Renan Alves note the Brazilian Real (BRL) appreciated 1.26% against the Dollar over the past week, with USD/BRL around 5.13.",
-      "link": "https://www.fxstreet.com/news/brazilian-real-rate-gap-points-to-weakness-against-us-dollar-rabobank-202609091512",
-      "published": "2026-09-09T15:12:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: BoE tightening expectations lend support against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note GBP/USD is steady after reaching a one-week high, with the British Pound (GBP) supported by rising Bank of England (BoE) tightening expectations and sensitivity to higher Oil prices.",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-tightening-expectations-lend-support-against-us-dollar-scotiabank-202609091453",
-      "published": "2026-09-09T14:53:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc gains ground as Japanese Yen-led weakness grips US Dollar",
-      "summary": "USD/CHF edges lower on Wednesday as broad weakness in the US Dollar (USD) allows the Swiss Franc (CHF) to regain some ground. At the time of writing, the pair trades around 0.8078, down roughly 0.20% on the day.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-ground-as-japanese-yen-led-weakness-grips-us-dollar-202609091443",
-      "published": "2026-09-09T14:43:37+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "forex community",
@@ -271,15 +208,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wbk43p/why_euro_so_strong/",
       "published": "2026-09-09T12:24:42+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold loses momentum as US Dollar, yields rise after Treasury buyback announcement",
-      "summary": "Gold (XAU/USD) struggles to hold onto Wednesday’s gains after rebounding from a one-week low of $4,341 earlier in the day. A recovery in the US Dollar (USD) and a fresh rise in US Treasury yields weigh on the precious metal.",
-      "link": "https://www.fxstreet.com/news/gold-buyers-struggle-near-4-400-amid-fed-rate-hike-bets-rising-oil-prices-202609091136",
-      "published": "2026-09-09T11:36:38+00:00",
-      "score": 5
     },
     {
       "source": "r/Forex",
@@ -325,15 +253,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1waq9p2/account_management/",
       "published": "2026-09-08T14:40:12+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "6 NFP mornings on gold 5m: first 15 minute ranges from $5.73 to $48.48",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I wanted a clean answer to a boring question: when NFP hits at 8:30 ET, how wild is the first 15 minutes on gold, and is &quot;always huge&quot; even true?</p> <p>Method: I loaded six recent NFP session days on XAUUSD 5m and stepped from the 8:25 candle through 8:40. I measured the high minus low across those three print candles (8:30, 8:35, 8:40), plus the net mo",
-      "link": "https://www.reddit.com/r/Forex/comments/1wak1bc/6_nfp_mornings_on_gold_5m_first_15_minute_ranges/",
-      "published": "2026-09-08T09:58:09+00:00",
-      "score": 5
     },
     {
       "source": "r/Forex",
