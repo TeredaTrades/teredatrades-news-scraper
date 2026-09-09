@@ -1,15 +1,87 @@
 {
-  "updated_at": "2026-09-08T23:40:45.380618+00:00",
-  "count": 49,
+  "updated_at": "2026-09-09T01:34:31.103106+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "0.8%: China’s CPI inflation rises in August",
+      "summary": "China’s Consumer Price Index (CPI) climbed 0.8% in August from a year ago after arriving at a rise of 0.5% in Juuly, the National Bureau of Statistics of China reported on Wednesday. The market consensus was for 0.8% in the reported period.",
+      "link": "https://www.fxstreet.com/news/08-chinas-cpi-inflation-rises-in-august-202609090131",
+      "published": "2026-09-09T01:31:26+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump: Populist party in Germany scores major victory",
+      "title": "FinancialJuice: China August CPI rises 0.4% month-on-month, above poll of 0.3%",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9754824/Trump-Populist-party-in-Germany-scores-major-victory.aspx?xy=rss",
-      "published": "2026-09-08T23:38:06+00:00",
+      "link": "https://www.financialjuice.com/News/9754912/China-August-CPI-rises-04-month-on-month-above-poll-of-03.aspx",
+      "published": "2026-09-09T01:30:19+00:00",
       "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: China: August food CPI down 1.4% year-on-year; non-food CPI up 1.2%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9754911/China-August-food-CPI-down-14-year-on-year-non-food-CPI-up-12.aspx",
+      "published": "2026-09-09T01:30:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: China August CPI rises 0.8% from year earlier, poll predicted 0.8%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9754909/China-August-CPI-rises-08-from-year-earlier-poll-predicted-08.aspx",
+      "published": "2026-09-09T01:30:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Donald Trump bans Canadian autos, dairy and alcohol",
+      "summary": "US President Donald Trump is banning Canadian products, including alcohol, dairy and motor vehicles, as Canadian retaliatory tariffs on American goods come into force, BBC reported on Tuesday.",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-bans-canadian-autos-dairy-and-alcohol-202609090120",
+      "published": "2026-09-09T01:20:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Top U.S. diplomat in Taiwan: Trump administration made preserving peace in Indo-Pacific a key priority",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9754892/Top-US-diplomat-in-Taiwan-Trump-administration-made-preserving-peace-in-Indo-Pacific-a-key-priority.aspx",
+      "published": "2026-09-09T01:15:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7769 vs. 6.7804 previous",
+      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7769 compared to the previous day's fix of 6.7804 and 6.7042 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67769-vs-67804-previous-202609090115",
+      "published": "2026-09-09T01:15:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound holds steady near mid-1.3500s vs USD as traders eye UK GDP and US inflation",
+      "summary": "The GBP/USD pair trades with a positive bias near mid-1.3500s during the Asian session on Wednesday, though it lacks bullish conviction and remains confined within the previous day's broader range.",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-steady-near-mid-13500s-vs-usd-as-traders-eye-uk-gdp-and-us-inflation-202609090110",
+      "published": "2026-09-09T01:10:42+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro grinds higher above 1.1600, traders await ECB rate decision, US inflation data",
+      "summary": "The EUR/USD pair gains traction to near 1.1630 during the early Asian trading hours on Wednesday. Expectations of a rate hike from the European Central Bank (ECB) provide some support to the Euro (EUR) against the US Dollar (USD). ECB President Christine Lagarde is set to speak later in the day.",
+      "link": "https://www.fxstreet.com/news/euro-grinds-higher-above-11600-traders-await-ecb-rate-decision-us-inflation-data-202609090058",
+      "published": "2026-09-09T00:58:02+00:00",
+      "score": 2
     },
     {
       "source": "FXStreet",
@@ -36,51 +108,6 @@
       "summary": "USD/JPY trades just under 154.00, roughly 40 pips lower on Tuesday after a 147-pip round trip.",
       "link": "https://www.fxstreet.com/news/the-japanese-yen-spikes-on-a-generational-wage-print-and-balks-by-the-closing-bell-202609082315",
       "published": "2026-09-08T23:15:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Senior Trump administration official: U.S. held talks with Canada's Minister LeBlanc over past few days",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9754808/Senior-Trump-administration-official-US-held-talks-with-Canadas-Minister-LeBlanc-over-past-few-days.aspx?xy=rss",
-      "published": "2026-09-08T23:11:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Senior Trump administration official: Trump’s stance on Jan. 1, 2027, auto tariff hike remains in effect",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9754807/Senior-Trump-administration-official-Trumps-stance-on-Jan-1-2027-auto-tariff-hike-remains-in-effect.aspx?xy=rss",
-      "published": "2026-09-08T23:10:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Senior Trump administration official: import restrictions on Canadian goods effective in about three weeks",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9754806/Senior-Trump-administration-official-import-restrictions-on-Canadian-goods-effective-in-about-three-weeks.aspx?xy=rss",
-      "published": "2026-09-08T23:08:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Senior Trump administration official: ban on dairy, most alcohol, motorcycles imports from Canada under section 338",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9754805/Senior-Trump-administration-official-ban-on-dairy-most-alcohol-motorcycles-imports-from-Canada-under-section-338.aspx?xy=rss",
-      "published": "2026-09-08T23:07:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Senior Trump administration official: Trump approved series of proclamations on Canada trade measures",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9754804/Senior-Trump-administration-official-Trump-approved-series-of-proclamations-on-Canada-trade-measures.aspx?xy=rss",
-      "published": "2026-09-08T23:06:05+00:00",
       "score": 1
     },
     {
@@ -180,51 +207,6 @@
       "summary": "UOB’s Quek Ser Leang and Lee Sue Ann describe USD/CHF price action as largely directionless, with the pair closing near 0.8090 after trading in a narrow intraday range.",
       "link": "https://www.fxstreet.com/news/swiss-franc-sideways-consolidation-inside-tight-band-against-us-dollar-uob-202609081857",
       "published": "2026-09-08T18:57:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Mixed performance with Fed and trade risks – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight a mixed US Dollar (USD) as markets weigh rising Oil prices, Japanese Yen (JPY) strength, and escalating US trade tensions.",
-      "link": "https://www.fxstreet.com/news/us-dollar-mixed-performance-with-fed-and-trade-risks-scotiabank-202609081833",
-      "published": "2026-09-08T18:33:59+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold price wilts as Oil shock puts CPI in Fed crosshairs",
-      "summary": "Gold (XAU/USD) registers losses of over 0.44% on Tuesday amid a light economic docket in the US, due to a narrative dominated by the US-Iran conflict, higher Oil prices and traders bracing for the release of US inflation reports, with the PPI expected on Thursday, followed by the next day’s CPI.",
-      "link": "https://www.fxstreet.com/news/gold-price-wilts-as-oil-shock-puts-cpi-in-fed-crosshairs-202609081801",
-      "published": "2026-09-08T18:01:43+00:00",
-      "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Upside bias within defined range against US Dollar – UOB",
-      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann analysts report that EUR/USD was little changed around 1.1620 on Monday, but note a slight pickup in upward momentum.",
-      "link": "https://www.fxstreet.com/news/euro-upside-bias-within-defined-range-against-us-dollar-uob-202609081751",
-      "published": "2026-09-08T17:51:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Policy scenarios favor stronger JPY against US Dollar – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad highlights that USD/JPY briefly hit a seven‑month low near 152.89 before rebounding above 154.00, with support around 152.00 and resistance at 155.00.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-policy-scenarios-favor-stronger-jpy-against-us-dollar-bbh-202609081740",
-      "published": "2026-09-08T17:40:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Supportive BoE outlook with range trade against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret describe GBP/USD as slightly softer but supported by expectations of further Bank of England (BoE) tightening into year-end.",
-      "link": "https://www.fxstreet.com/news/british-pound-supportive-boe-outlook-with-range-trade-against-us-dollar-scotiabank-202609081721",
-      "published": "2026-09-08T17:21:40+00:00",
       "score": 1
     },
     {
