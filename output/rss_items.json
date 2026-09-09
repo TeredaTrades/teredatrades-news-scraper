@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-09-09T21:50:44.857051+00:00",
-  "count": 47,
+  "updated_at": "2026-09-09T23:53:36.261878+00:00",
+  "count": 50,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold rebounds above $4,400 on weaker Dollar, US PPI inflation data looms",
+      "summary": "Gold price (XAU/USD) recovers to near $4,400, snapping the three-day losing streak during the early Asian session on Thursday. The precious metal gains ground amid a weaker US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-above-4-400-on-weaker-dollar-us-ppi-inflation-data-looms-202609092322",
+      "published": "2026-09-09T23:22:42+00:00",
+      "score": 5
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: One pilot of crashed Amazon cargo plane tells other about excessive speed in final 1 minute 42 seconds of cockpit voice recording, NTSB says",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756466/One-pilot-of-crashed-Amazon-cargo-plane-tells-other-about-excessive-speed-in-final-1-minute-42-seconds-of-cockpit-voice-recording-NTSB-says.aspx?xy=1",
+      "published": "2026-09-09T23:13:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump’s top advisers face possibility iran war continues through end of term - wsj",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756463/Trumps-top-advisers-face-possibility-iran-war-continues-through-end-of-term---wsj.aspx?xy=1",
+      "published": "2026-09-09T23:05:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Poll: Bank of Japan to raise rates to minimum 1.75% in Q2 2027, 62% of economists say (vs. 1.50% in prior poll)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9756431/Poll-Bank-of-Japan-to-raise-rates-to-minimum-175-in-Q2-2027-62-of-economists-say-vs-150-in-prior-poll.aspx?xy=1",
+      "published": "2026-09-09T22:00:03+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -16,7 +52,7 @@
       "category": "news",
       "title": "FinancialJuice: AI researcher Andrew Tulloch departing Meta - Semafor",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9756400/AI-researcher-Andrew-Tulloch-departing-Meta---Semafor.aspx?xy=rss",
+      "link": "https://www.financialjuice.com/News/9756400/AI-researcher-Andrew-Tulloch-departing-Meta---Semafor.aspx?xy=1",
       "published": "2026-09-09T21:30:21+00:00",
       "score": 1
     },
@@ -51,7 +87,7 @@
       "source": "FXStreet",
       "category": "news",
       "title": "NZD/USD Price Forecast: SMA cluster wobbles as US yields bite",
-      "summary": "The New Zealand Dollar extends its losses against the US Dollar, down 0.30% as the Greenback gets underpinned by rising US Treasury yields, with the 10-year reaching its highest level since 2023. The NZD/USD trades at 0.5835.",
+      "summary": "The New Zealand Dollar (NZD) extends its losses against the US Dollar (USD), down 0.30% on Wednesday as the Greenback gets underpinned by rising US Treasury yields, with the 10-year reaching its highest level since 2023. The NZD/USD pair trades at 0.5835.",
       "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-sma-cluster-wobbles-as-us-yields-bite-202609092034",
       "published": "2026-09-09T20:34:03+00:00",
       "score": 2
@@ -180,15 +216,6 @@
       "summary": "USD/JPY remains on the back foot on Wednesday but lacks follow-through selling as the US Dollar (USD) recovers following the Treasury’s announcement of a larger bond buyback. The pair trades around 153.50 after briefly falling below 153.00, its lowest level since February.",
       "link": "https://www.fxstreet.com/news/japanese-yen-pauses-advance-as-treasury-announcement-supports-us-dollar-202609091550",
       "published": "2026-09-09T15:50:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Strength builds against US Dollar ahead of BoJ decision – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight ongoing Japanese Yen (JPY) outperformance, with USD/JPY drifting toward key support near 153 and the 2026 low around 152. Markets fully price a 25 bp Bank of Japan (BoJ) hike on September 18.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strength-builds-against-us-dollar-ahead-of-boj-decision-scotiabank-202609091549",
-      "published": "2026-09-09T15:49:00+00:00",
       "score": 1
     },
     {
