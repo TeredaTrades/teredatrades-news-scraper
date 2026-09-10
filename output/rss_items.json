@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-09-10T21:56:24.944502+00:00",
-  "count": 46,
+  "updated_at": "2026-09-10T23:54:41.083025+00:00",
+  "count": 42,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar slides as US yields jump before pivotal CPI",
+      "summary": "The Australian Dollar ended Thursday’s session with a 0.80% loss against the US Dollar after US producer inflation exceeded estimates, triggering pricing for a more hawkish Federal Reserve. The AUD/USD trades at 0.7159 after reaching a peak of 0.7223.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slides-as-us-yields-jump-before-pivotal-cpi-202609102348",
+      "published": "2026-09-10T23:48:04+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold falls below $4,350 as rising oil prices, US PPI reinforces Fed hike bets",
+      "summary": "Gold price (XAU/USD) tumbles to near $4,320 during the early Asian session on Friday. The precious metal faces some selling pressure after the US Producer Price Index (PPI) inflation data and rising oil prices increased bets for a Federal Reserve (Fed) rate hike.",
+      "link": "https://www.fxstreet.com/news/gold-falls-below-4-350-as-rising-oil-prices-us-ppi-reinforces-fed-hike-bets-202609102336",
+      "published": "2026-09-10T23:36:31+00:00",
+      "score": 6
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta declares quarterly cash dividend of $0.53 per share payable Sept. 28, 2026",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9758462/Meta-declares-quarterly-cash-dividend-of-053-per-share-payable-Sept-28-2026.aspx?xy=rss",
+      "published": "2026-09-10T23:01:24+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -48,24 +75,6 @@
       "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump and JD Vance speak at the Republican midterm convention - WATCH LIVE",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9758297/Trump-and-JD-Vance-speak-at-the-Republican-midterm-convention---WATCH-LIVE.aspx?xy=rss",
-      "published": "2026-09-10T19:52:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: +466 mln<br />Nasdaq 100: +464 mln<br />Dow 30: -128 mln<br />Mag 7: +337 mln",
-      "link": "https://www.financialjuice.com/News/9758296/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-09-10T19:50:31+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Silver Price Forecast: Head-and-shoulders break puts $60 back in play",
@@ -73,33 +82,6 @@
       "link": "https://www.fxstreet.com/news/silver-price-forecast-head-and-shoulders-break-puts-60-back-in-play-202609101943",
       "published": "2026-09-10T19:43:18+00:00",
       "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US CPI Prep: All Eyes on Prices ahead of the Rate Decision - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9758286/US-CPI-Prep-All-Eyes-on-Prices-ahead-of-the-Rate-Decision---FJElite.aspx?xy=rss",
-      "published": "2026-09-10T19:33:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US CPI Crib Sheet - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9758285/US-CPI-Crib-Sheet---FJElite.aspx?xy=rss",
-      "published": "2026-09-10T19:33:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Friday FX Options Expiries",
-      "summary": "<ul><li><strong>USD/JPY:</strong> 154.00 ($2.86b), 153.00 ($2.74b), 152.00 ($1.66b)</li><li><strong>EUR/USD:</strong> 1.1575 (EU1.44b), 1.1600 (EU996.2m), 1.1500 (EU947m)</li><li><strong>AUD/USD:</strong> 0.7150 (AUD657.4m), 0.7250 (AUD622.1m), 0.7110 (AUD543.5m)</li><li><strong>USD/CAD:</strong> 1.3900 ($693.8m), 1.3800 ($535m), 1.3950 ($319.7m)</li><li><strong>GBP/USD:</strong> 1.3630 (GBP565.4m",
-      "link": "https://www.financialjuice.com/News/9758270/Friday-FX-Options-Expiries.aspx?xy=rss",
-      "published": "2026-09-10T19:22:42+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -219,30 +201,12 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: Consolidation against US Dollar before UK data and BoE – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note GBP/USD is little changed as it extends its recovery from last week’s lows, with risk set to rise on upcoming United Kingdom (UK) trade and industrial data.",
-      "link": "https://www.fxstreet.com/news/british-pound-consolidation-against-us-dollar-before-uk-data-and-boe-scotiabank-202609101508",
-      "published": "2026-09-10T15:08:52+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Took a short trade on gold!",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wclpfa/took_a_short_trade_on_gold/\"> <img alt=\"Took a short trade on gold!\" src=\"https://preview.redd.it/1jqhh5tnjpoh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4490d1ef6439e7375fbffeb43b368f528436f1b0\" title=\"Took a short trade on gold!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/im_mys",
       "link": "https://www.reddit.com/r/Forex/comments/1wclpfa/took_a_short_trade_on_gold/",
       "published": "2026-09-10T15:02:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar eases from four-month high",
-      "summary": "The Australian Dollar eased against the US Dollar on Thursday, slipping back below the 0.7200 mark after touching its highest level since mid-May earlier in the week. AUD/USD trades in the 0.7160 area, lower on the day, as a firmer US Dollar pulls the pair away from a recent peak around 0.7220.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-eases-from-four-month-high-202609101447",
-      "published": "2026-09-10T14:47:46+00:00",
       "score": 1
     },
     {
