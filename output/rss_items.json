@@ -1,7 +1,106 @@
 {
-  "updated_at": "2026-09-10T19:41:50.234821+00:00",
-  "count": 41,
+  "updated_at": "2026-09-10T21:56:24.944502+00:00",
+  "count": 46,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar steadies after two-month low slide",
+      "summary": "NZD/USD is clinging to the 0.5800 mark at the start of the Asian session on Friday after dipping to a near two-month low around 0.5797 earlier in the American session.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-after-two-month-low-slide-202609102145",
+      "published": "2026-09-10T21:45:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft's data center network will exceed 38 gigawatts capacity in 2032, up from around 12 gigawatts now",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9758389/Microsofts-data-center-network-will-exceed-38-gigawatts-capacity-in-2032-up-from-around-12-gigawatts-now.aspx?xy=rss",
+      "published": "2026-09-10T21:08:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft plans 38 gigawatts of data center capacity to meet demand",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9758388/Microsoft-plans-38-gigawatts-of-data-center-capacity-to-meet-demand.aspx?xy=rss",
+      "published": "2026-09-10T21:07:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft plans data center expansion to triple computing capacity",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9758387/Microsoft-plans-data-center-expansion-to-triple-computing-capacity.aspx?xy=rss",
+      "published": "2026-09-10T21:06:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar rebounds on hot PPI ahead of US CPI",
+      "summary": "The US Dollar Index (DXY) reclaimed the 99.00 barrier and then some, rebounding firmly as the hot Producer Price Index (PPI) rose 5.4% over the year to August, hardening expectations for a Fed rate hike at next week's meeting.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-rebounds-on-hot-ppi-ahead-of-us-cpi-202609101955",
+      "published": "2026-09-10T19:55:09+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump and JD Vance speak at the Republican midterm convention - WATCH LIVE",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9758297/Trump-and-JD-Vance-speak-at-the-Republican-midterm-convention---WATCH-LIVE.aspx?xy=rss",
+      "published": "2026-09-10T19:52:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +466 mln<br />Nasdaq 100: +464 mln<br />Dow 30: -128 mln<br />Mag 7: +337 mln",
+      "link": "https://www.financialjuice.com/News/9758296/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-09-10T19:50:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: Head-and-shoulders break puts $60 back in play",
+      "summary": "Silver (XAG/USD) price erases Wednesday's gains and forms a bearish head-and-shoulders chart pattern on Thursday after the white metal tanks and breaks a support trendline around $64.00-$64.15, exacerbating the decline below $63.50. At the time of writing, XAG/USD trades at $63.72, down over 5.30%.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-head-and-shoulders-break-puts-60-back-in-play-202609101943",
+      "published": "2026-09-10T19:43:18+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US CPI Prep: All Eyes on Prices ahead of the Rate Decision - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9758286/US-CPI-Prep-All-Eyes-on-Prices-ahead-of-the-Rate-Decision---FJElite.aspx?xy=rss",
+      "published": "2026-09-10T19:33:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US CPI Crib Sheet - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9758285/US-CPI-Crib-Sheet---FJElite.aspx?xy=rss",
+      "published": "2026-09-10T19:33:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Friday FX Options Expiries",
+      "summary": "<ul><li><strong>USD/JPY:</strong> 154.00 ($2.86b), 153.00 ($2.74b), 152.00 ($1.66b)</li><li><strong>EUR/USD:</strong> 1.1575 (EU1.44b), 1.1600 (EU996.2m), 1.1500 (EU947m)</li><li><strong>AUD/USD:</strong> 0.7150 (AUD657.4m), 0.7250 (AUD622.1m), 0.7110 (AUD543.5m)</li><li><strong>USD/CAD:</strong> 1.3900 ($693.8m), 1.3800 ($535m), 1.3950 ($319.7m)</li><li><strong>GBP/USD:</strong> 1.3630 (GBP565.4m",
+      "link": "https://www.financialjuice.com/News/9758270/Friday-FX-Options-Expiries.aspx?xy=rss",
+      "published": "2026-09-10T19:22:42+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -14,8 +113,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "NZD/USD Price Forecast: Kiwi breaks 0.5800 as bears take control",
-      "summary": "The Kiwi Dollar fails to clear a confluence of key Simple Moving Averages (SMAs) and dives below 0.5800, printing a near two-month low of 0.5797. At the time of writing, NZD/USD is down 0.65% and poised to test lower levels if it closes below 0.58.",
+      "title": "NZD/USD Price Forecast: Kiwi breaks below 0.5800 as bears take control",
+      "summary": "The New Zealand Dollar (NZD) fails to clear a confluence of key Simple Moving Averages (SMAs) and dives below 0.5800 on Thursday, printing a near two-month low of 0.5797. At the time of writing, NZD/USD is down 0.65% and poised to test lower levels if it closes below 0.5800.",
       "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-breaks-05800-as-bears-take-control-202609101844",
       "published": "2026-09-10T18:44:11+00:00",
       "score": 1
@@ -147,33 +246,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "European Central Bank: Two more hikes remain the baseline – Nordea",
-      "summary": "Nordea analysts Jan von Gerich and Tuuli Koivu note that the European Central Bank (ECB) delivered a 25bp rate hike and signalled a bias toward further tightening as its projections show Eurozone inflation above target through 2028.",
-      "link": "https://www.fxstreet.com/news/european-central-bank-two-more-hikes-remain-the-baseline-nordea-202609101440",
-      "published": "2026-09-10T14:40:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Range trade with upside bias against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note USD/CAD is holding a tight sideways range near 1.38 with no domestic data, leaving the Canadian Dollar (CAD) driven by external factors and technicals.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-range-trade-with-upside-bias-against-us-dollar-scotiabank-202609101421",
-      "published": "2026-09-10T14:21:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gold buying 8:30🚀",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Gold gonna buy hard when news hit at 8:30</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DryDifficulty6886\"> /u/DryDifficulty6886 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1wch4r1/gold_buying_830/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1wch4r1/gold_buying_830/",
-      "link": "https://www.reddit.com/r/Forex/comments/1wch4r1/gold_buying_830/",
-      "published": "2026-09-10T11:59:42+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Predicting a USD rally",
@@ -181,15 +253,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wcgwmn/predicting_a_usd_rally/",
       "published": "2026-09-10T11:49:00+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold slides as US PPI reinforces Fed hike expectations, US Dollar and yields rise",
-      "summary": "Gold (XAU/USD) trades with a downside bias on Thursday as a steady US Dollar (USD), rising US Treasury yields and Federal Reserve (Fed) rate-hike expectations weigh on the precious metal, while traders also assess the latest US Producer Price Index (PPI) data.",
-      "link": "https://www.fxstreet.com/news/gold-comes-under-pressure-ahead-of-us-ppi-as-fed-rate-hike-risks-linger-202609101107",
-      "published": "2026-09-10T11:07:50+00:00",
-      "score": 6
     },
     {
       "source": "r/Forex",
@@ -208,15 +271,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wcau0r/day_6_100k_ftmo_challenge_step_1/",
       "published": "2026-09-10T06:17:19+00:00",
       "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "I pulled realised vol, forwards and carry for USDMXN, USDJPY and four EM pairs and turned them into stop sizes. Numbers inside",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wbwro6/i_pulled_realised_vol_forwards_and_carry_for/\"> <img alt=\"I pulled realised vol, forwards and carry for USDMXN, USDJPY and four EM pairs and turned them into stop sizes. Numbers inside\" src=\"https://preview.redd.it/8ybpnbtjwjoh1.png?width=140&amp;height=59&amp;auto=webp&amp;s=16e3d91b42b357a6bbc80998cc5425998b714f8f\" title=\"",
-      "link": "https://www.reddit.com/r/Forex/comments/1wbwro6/i_pulled_realised_vol_forwards_and_carry_for/",
-      "published": "2026-09-09T20:09:11+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
@@ -248,18 +302,18 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-      "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
       "published": "2026-08-20T15:00:00+00:00",
       "score": 1
     },
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
       "published": "2026-08-20T15:00:00+00:00",
       "score": 1
     },
@@ -329,18 +383,18 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
+      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
       "published": "2026-07-30T15:00:00+00:00",
       "score": 1
     },
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-      "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
       "published": "2026-07-30T15:00:00+00:00",
       "score": 1
     },
@@ -361,22 +415,7 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260716a.htm",
       "published": "2026-07-16T15:00:00+00:00",
       "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-      "summary": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-      "published": "2026-07-09T19:00:00+00:00",
-      "score": 1
     }
   ],
-  "errors": [
-    {
-      "source": "FinancialJuice",
-      "type": "rss",
-      "error": "failed to parse feed (<unknown>:2:0: syntax error)"
-    }
-  ]
+  "errors": []
 }
