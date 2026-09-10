@@ -1,78 +1,204 @@
 {
-  "updated_at": "2026-09-10T13:03:11.364231+00:00",
+  "updated_at": "2026-09-10T17:00:20.124449+00:00",
   "count": 47,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Effective Fed Funds Rate 3.63% Sept. 9th vs 3.63% Sept. 8th",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9757632/Effective-Fed-Funds-Rate-363-Sept-9th-vs-363-Sept-8th.aspx?xy=rss",
-      "published": "2026-09-10T12:59:54+00:00",
+      "title": "Japanese Yen: Defensive Yen as BoJ turns hawkish – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight that USD/JPY is edging higher as the Japanese Yen trades defensively after its sharp late-August rally. The Bank of Japan’s messaging is described as unequivocally hawkish ahead of a widely anticipated 25 bps hike on September 18.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-defensive-yen-as-boj-turns-hawkish-scotiabank-202609101637",
+      "published": "2026-09-10T16:37:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Risked a short on gold before the news earlier",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wco1ch/risked_a_short_on_gold_before_the_news_earlier/\"> <img alt=\"Risked a short on gold before the news earlier\" src=\"https://preview.redd.it/9g42yo1uypoh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d1632c21a3a64d81c0ffd1afb6595694dc6cd18a\" title=\"Risked a short on gold before the news earlier\" /> </a> </td><td> <!-- SC_OF",
+      "link": "https://www.reddit.com/r/Forex/comments/1wco1ch/risked_a_short_on_gold_before_the_news_earlier/",
+      "published": "2026-09-10T16:27:01+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: ECB's Lagarde: Headline inflation to return to target towards the end of 2027.",
+      "title": "FinancialJuice: Nvidia's CEO Huang: Investments are not circular. $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9757630/ECBs-Lagarde-Headline-inflation-to-return-to-target-towards-the-end-of-2027.aspx?xy=rss",
-      "published": "2026-09-10T12:59:30+00:00",
+      "link": "https://www.financialjuice.com/News/9758048/Nvidias-CEO-Huang-Investments-are-not-circular-NVDA.aspx?xy=rss",
+      "published": "2026-09-10T16:24:44+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: ECB's Lagarde: Most measures of longer-term inflation expectations stand at around 2%.",
+      "title": "FinancialJuice: Nvidia's CEO Huang: Our share at Anthropic is growing very quickly. $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9757625/ECBs-Lagarde-Most-measures-of-longer-term-inflation-expectations-stand-at-around-2.aspx?xy=rss",
-      "published": "2026-09-10T12:58:14+00:00",
+      "link": "https://www.financialjuice.com/News/9758018/Nvidias-CEO-Huang-Our-share-at-Anthropic-is-growing-very-quickly-NVDA.aspx?xy=rss",
+      "published": "2026-09-10T16:09:16+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: ECB's Lagarde: Inflation expectations over shorter horizons remain at elevated levels.",
+      "title": "FinancialJuice: Google launches a Gemini app for Windows 10 and 11. $GOOGL",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9757623/ECBs-Lagarde-Inflation-expectations-over-shorter-horizons-remain-at-elevated-levels.aspx?xy=rss",
-      "published": "2026-09-10T12:57:37+00:00",
+      "link": "https://www.financialjuice.com/News/9758016/Google-launches-a-Gemini-app-for-Windows-10-and-11-GOOGL.aspx?xy=rss",
+      "published": "2026-09-10T16:08:25+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: ECB's Lagarde: Most measures of underlying inflation are broadly stable.",
+      "title": "FinancialJuice: Nvidia's CEO Huang: Shipments of Grace Blackwell up 27% month to month. $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9757619/ECBs-Lagarde-Most-measures-of-underlying-inflation-are-broadly-stable.aspx?xy=rss",
-      "published": "2026-09-10T12:56:49+00:00",
+      "link": "https://www.financialjuice.com/News/9758015/Nvidias-CEO-Huang-Shipments-of-Grace-Blackwell-up-27-month-to-month-NVDA.aspx?xy=rss",
+      "published": "2026-09-10T16:08:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia CEO: Cybersecurity is the next major use case of AI. $NVDA",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9758011/Nvidia-CEO-Cybersecurity-is-the-next-major-use-case-of-AI-NVDA.aspx?xy=rss",
+      "published": "2026-09-10T16:03:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft shares safe participation framework for AI. $MSFT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9758008/Microsoft-shares-safe-participation-framework-for-AI-MSFT.aspx?xy=rss",
+      "published": "2026-09-10T16:01:48+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro weakens despite ECB rate hike as US PPI comes in hot",
-      "summary": "EUR/USD extends its intraday decline on Thursday as a recovery in the US Dollar (USD) weighs on the Euro (EUR), while the European Central Bank’s (ECB) widely expected rate hike fails to offer support.",
-      "link": "https://www.fxstreet.com/news/euro-weakens-despite-ecb-rate-hike-as-us-ppi-comes-in-hot-202609101256",
-      "published": "2026-09-10T12:56:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB's Lagarde: Refining margins made a strong contribution to inflation.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9757618/ECBs-Lagarde-Refining-margins-made-a-strong-contribution-to-inflation.aspx?xy=rss",
-      "published": "2026-09-10T12:56:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Norwegian Krone: Softer inflation trims hike odds – BBH",
-      "summary": "Brown Brothers Harriman's (BBH) Elias Haddad notes Norwegian Krone (NOK) underperformance after Norway’s mixed August Consumer Price Index (CPI) data reduced the perceived likelihood of a near-term Norges Bank hike, with September odds falling from 65% to 38%.",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-softer-inflation-trims-hike-odds-bbh-202609101214",
-      "published": "2026-09-10T12:14:03+00:00",
+      "title": "Canadian Dollar firms as US Dollar loses momentum, Oil prices extend rally",
+      "summary": "USD/CAD pares earlier gains on Thursday as the US Dollar (USD) loses momentum after staging a modest recovery, despite US Producer Price Index (PPI) data showing that producer inflation picked up again in August. At the same time, higher Oil prices offer support to the Canadian Dollar (CAD).",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-trades-under-pressure-as-us-ppi-data-supports-fed-hike-bets-202609101551",
+      "published": "2026-09-10T15:51:03+00:00",
       "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver slides below $65 as US PPI reinforces Fed rate-hike bets",
+      "summary": "Silver (XAG/USD) extends its sharp decline on Thursday, trading around $64.35 per ounce at the time of writing, down 4.39% on the day.",
+      "link": "https://www.fxstreet.com/news/silver-slides-below-65-as-us-ppi-revives-fed-rate-hike-bets-202609101543",
+      "published": "2026-09-10T15:43:46+00:00",
+      "score": 4
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Same extreme volume spike, two completely opposite outcomes. How do you actually tell which one you're looking at?",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wcml5l/same_extreme_volume_spike_two_completely_opposite/\"> <img alt=\"Same extreme volume spike, two completely opposite outcomes. How do you actually tell which one you're looking at?\" src=\"https://preview.redd.it/u2tzrj3nopoh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c65e2bde6b0b18619b13ad0f811e9e757f603c65\" title=\"Same e",
+      "link": "https://www.reddit.com/r/Forex/comments/1wcml5l/same_extreme_volume_spike_two_completely_opposite/",
+      "published": "2026-09-10T15:34:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound under pressure as hot PPI puts Fed hike in play",
+      "summary": "The Pound Sterling (GBP) loses traction against the US Dollar (USD) on Thursday after the latest US producer inflation report, which exceeded estimates, prompting investors to price in a more hawkish Federal Reserve (Fed). At the time of writing, GBP/USD trades at 1.3525, down 0.17%.",
+      "link": "https://www.fxstreet.com/news/british-pound-feels-the-heat-as-hot-ppi-puts-fed-hike-in-play-202609101527",
+      "published": "2026-09-10T15:27:46+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Consolidation against US Dollar before UK data and BoE – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note GBP/USD is little changed as it extends its recovery from last week’s lows, with risk set to rise on upcoming United Kingdom (UK) trade and industrial data.",
+      "link": "https://www.fxstreet.com/news/british-pound-consolidation-against-us-dollar-before-uk-data-and-boe-scotiabank-202609101508",
+      "published": "2026-09-10T15:08:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Took a short trade on gold!",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wclpfa/took_a_short_trade_on_gold/\"> <img alt=\"Took a short trade on gold!\" src=\"https://preview.redd.it/1jqhh5tnjpoh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4490d1ef6439e7375fbffeb43b368f528436f1b0\" title=\"Took a short trade on gold!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/im_mys",
+      "link": "https://www.reddit.com/r/Forex/comments/1wclpfa/took_a_short_trade_on_gold/",
+      "published": "2026-09-10T15:02:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar eases from four-month high",
+      "summary": "The Australian Dollar eased against the US Dollar on Thursday, slipping back below the 0.7200 mark after touching its highest level since mid-May earlier in the week. AUD/USD trades in the 0.7160 area, lower on the day, as a firmer US Dollar pulls the pair away from a recent peak around 0.7220.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-eases-from-four-month-high-202609101447",
+      "published": "2026-09-10T14:47:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "European Central Bank: Two more hikes remain the baseline – Nordea",
+      "summary": "Nordea analysts Jan von Gerich and Tuuli Koivu note that the European Central Bank (ECB) delivered a 25bp rate hike and signalled a bias toward further tightening as its projections show Eurozone inflation above target through 2028.",
+      "link": "https://www.fxstreet.com/news/european-central-bank-two-more-hikes-remain-the-baseline-nordea-202609101440",
+      "published": "2026-09-10T14:40:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Range trade with upside bias against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note USD/CAD is holding a tight sideways range near 1.38 with no domestic data, leaving the Canadian Dollar (CAD) driven by external factors and technicals.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-range-trade-with-upside-bias-against-us-dollar-scotiabank-202609101421",
+      "published": "2026-09-10T14:21:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: BoJ risks skewed to stronger Yen – BBH",
+      "summary": "Brown Brothers Harriman's (BBH) Elias Haddad reports that the recent USD/JPY decline has stalled despite hawkish comments from Bank of Japan (BoJ) member Kazuyuki Masu, with markets already pricing a 25 bps hike to 1.25% on September 18.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-boj-risks-skewed-to-stronger-yen-bbh-202609101405",
+      "published": "2026-09-10T14:05:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen comes under pressure as US PPI data boost US Dollar",
+      "summary": "USD/JPY advances to around 154.15 on Thursday at the time of writing, up 0.40% on the day. The pair benefits from a rebound in the US Dollar (USD), supported by US data showing accelerating producer price pressures and a still-resilient labor market.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-comes-under-pressure-as-us-ppi-data-boost-us-dollar-202609101358",
+      "published": "2026-09-10T13:58:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Lagarde speech: Surprised by economic resilience",
+      "summary": "Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to raise key rates by 25 basis points (bps) at the September policy meeting and responds to questions from the press.",
+      "link": "https://www.fxstreet.com/news/lagarde-speech-surprised-by-economic-resilience-202609101324",
+      "published": "2026-09-10T13:24:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Near-term selling may only delay next leg higher - TD Securities",
+      "summary": "TD Securities’ Ryan McKay and Bart Melek note that Gold is outperforming other precious metals even as higher energy prices and rising Fed hike expectations weigh on the complex.",
+      "link": "https://www.fxstreet.com/news/gold-near-term-selling-may-only-delay-next-leg-higher-td-securities-202609101317",
+      "published": "2026-09-10T13:17:08+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Lagarde speech: Can't anticipate what will be the next move",
+      "summary": "Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to raise key rates by 25 basis points (bps) at the September policy meeting and responds to questions from the press.",
+      "link": "https://www.fxstreet.com/news/lagarde-speech-cant-anticipate-what-will-be-the-next-move-202609101314",
+      "published": "2026-09-10T13:14:22+00:00",
+      "score": 1
     },
     {
       "source": "r/Forex",
@@ -81,24 +207,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>Gold gonna buy hard when news hit at 8:30</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DryDifficulty6886\"> /u/DryDifficulty6886 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1wch4r1/gold_buying_830/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1wch4r1/gold_buying_830/",
       "link": "https://www.reddit.com/r/Forex/comments/1wch4r1/gold_buying_830/",
       "published": "2026-09-10T11:59:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Upside bias within defined band against US Dollar – UOB",
-      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann describe EUR/USD as range-bound near 1.1630, with recent trading contained between 1.1619 and 1.1653. They maintain an upside bias but expect the Euro to stay within 1.1585–1.1670 in the coming weeks.",
-      "link": "https://www.fxstreet.com/news/euro-upside-bias-within-defined-band-against-us-dollar-uob-202609101154",
-      "published": "2026-09-10T11:54:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Polish Zloty: Scope for weakness against Euro as NBP underwhelms – ING",
-      "summary": "ING’s Frantisek Taborsky reports that the National Bank of Poland left rates at 3.75% and provided limited new guidance, shifting focus to Governor Glapinski’s press conference. With markets already pricing around 85bp of tightening, ING sees a high bar for a hawkish surprise.",
-      "link": "https://www.fxstreet.com/news/polish-zloty-scope-for-weakness-against-euro-as-nbp-underwhelms-ing-202609101151",
-      "published": "2026-09-10T11:51:09+00:00",
       "score": 1
     },
     {
@@ -113,79 +221,16 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "United States Dollar Index turns positive ahead of US PPI data",
-      "summary": "The US Dollar (USD) claws back its early losses and turns positive ahead of the United States (US) Producer Price Index (PPI) data for August, which will be published at 12:30 GMT.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-turns-positive-ahead-of-us-ppi-data-202609101144",
-      "published": "2026-09-10T11:44:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: CPI and Fed path guide Greenback – BBH",
-      "summary": "Brown Brothers Harriman (BBH) Elias Haddad highlights that the US Dollar Index (DXY) is trading just above recent lows and below its 200-day moving average, with the upcoming United States (US) August Consumer Price Index (CPI) seen as the key driver for the Federal Reserve’s (Fed) September 16 deci",
-      "link": "https://www.fxstreet.com/news/us-dollar-cpi-and-fed-path-guide-greenback-bbh-202609101138",
-      "published": "2026-09-10T11:38:04+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Strength stabilising against US Dollar – UOB",
-      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann note USD/JPY weakness is stabilising around 153.45 after a drop to 152.92 and recovery to 153.54. They now expect consolidation between 153.00 and 154.30 intraday.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strength-stabilising-against-us-dollar-uob-202609101124",
-      "published": "2026-09-10T11:24:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Treasury yields hit fresh long-term highs amid surging Oil prices, bond buybacks",
-      "summary": "The yield for the 30-year US Treasury note trades above 5.3%, nearing the 2007 high, when Lehman Brothers collapsed. The benchmark US 10-year hit a 4.865% high earlier on Thursday, accumulating a 25 basis point rally in less than two weeks and a whole half point since late June.",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-hit-fresh-long-term-highs-amid-surging-oil-prices-us-treasurys-buybacks-202609101124",
-      "published": "2026-09-10T11:24:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar weakens against US Dollar ahead of key US inflation data",
-      "summary": "USD/CAD trades around 1.3820 on Thursday at the time of writing, up 0.11% on the day. The pair edges higher as investors await the release of the United States (US) Producer Price Index (PPI) data for August, scheduled for 12:30 GMT.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-weakens-against-us-dollar-ahead-of-key-us-inflation-data-202609101119",
-      "published": "2026-09-10T11:19:31+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Yield support into ECB decision – MUFG",
-      "summary": "MUFG’s Lee Hardman highlights that EUR/USD has been gradually moving higher, supported by more energy-sensitive European yields and expectations of a hawkish ECB.",
-      "link": "https://www.fxstreet.com/news/euro-yield-support-into-ecb-decision-mufg-202609101109",
-      "published": "2026-09-10T11:09:27+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold comes under pressure ahead of US PPI as Fed rate hike risks linger",
-      "summary": "Gold (XAU/USD) trades with a downside bias on Thursday, reversing earlier gains as the US Dollar (USD) stabilizes ahead of the United States Producer Price Index (PPI) data due at 12:30 GMT. At the time of writing, XAU/USD trades around $4,383 after reaching an intraday high of $4,434.",
+      "title": "Gold slides as US PPI reinforces Fed hike expectations, US Dollar and yields rise",
+      "summary": "Gold (XAU/USD) trades with a downside bias on Thursday as a steady US Dollar (USD), rising US Treasury yields and Federal Reserve (Fed) rate-hike expectations weigh on the precious metal, while traders also assess the latest US Producer Price Index (PPI) data.",
       "link": "https://www.fxstreet.com/news/gold-comes-under-pressure-ahead-of-us-ppi-as-fed-rate-hike-risks-linger-202609101107",
       "published": "2026-09-10T11:07:50+00:00",
-      "score": 4
+      "score": 6
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Silver Price Forecast: XAG/USD tumbles below $66 as US Dollar recovers ahead of US PPI data",
-      "summary": "Silver price (XAG/USD) slides 2.3% to near $65.80 during the European trading session on Thursday. The white metal comes under pressure as the US Dollar (USD) turns slightly positive, with investors awaiting the United States (US) Producer Price Index (PPI) data for August releasing at 12:30 GMT.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-tumbles-below-66-as-us-dollar-recovers-ahead-of-us-ppi-data-202609101059",
-      "published": "2026-09-10T10:59:43+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "ECB Press Conference: Lagarde speaks on policy outlook after raising key rates by 25 bps",
+      "title": "ECB Press Conference: Lagarde comments on policy outlook after raising key rates by 25 bps",
       "summary": "Christine Lagarde, President of the European Central Bank (ECB), explains the ECB's decision to raise key rates by 25 basis points (bps) at the September policy meeting and responds to questions from the press.",
       "link": "https://www.fxstreet.com/news/european-central-bank-to-resume-interest-rate-hikes-in-september-as-inflation-energy-risks-rise-202609100800",
       "published": "2026-09-10T08:00:00+00:00",
@@ -201,15 +246,6 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro ticks down from session highs ahead of the ECB monetary policy decision",
-      "summary": "The Euro (EUR) has given away previous gains against the US Dollar (USD) on Thursday, pulling back to the 1.1620 area, from session highs above 1.1640.",
-      "link": "https://www.fxstreet.com/news/euro-holds-recent-gains-despite-high-oil-prices-with-ecb-decision-on-focus-202609100627",
-      "published": "2026-09-10T06:27:27+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Day 6 | $100K FTMO Challenge (Step 1)",
@@ -217,15 +253,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wcau0r/day_6_100k_ftmo_challenge_step_1/",
       "published": "2026-09-10T06:17:19+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee hits fresh 10-day low amid boiling oil prices",
-      "summary": "The Indian Rupee (INR) extends its losing run against the US Dollar (USD) for the third trading day on Thursday. The USD/INR pair posts a fresh 10-day high at 95.47 as the ongoing rally in oil prices continues to batter the Indian currency.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-extends-its-downward-streak-as-oil-prices-keep-rising-202609100524",
-      "published": "2026-09-10T05:24:41+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -239,37 +266,10 @@
     {
       "source": "r/Forex",
       "category": "reddit",
-      "title": "Bad day",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Beginning this month I said to myself I'm gonna be very patient this time....and I was at first then things got slow. Felt like trading opportunities (based on my strat) were very few and with an increasing pressure to outperform myself I got a little a greedy. Beginning with Asian session XAUUSD my intuition told me the market would go bullish. My strategy said w",
-      "link": "https://www.reddit.com/r/Forex/comments/1wbrzaj/bad_day/",
-      "published": "2026-09-09T17:22:25+00:00",
-      "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "forex community",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>do y'all know any good discord server that does a daily analysis for xauusd and post fresh news, if there is a community here i don't mind </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bbbb69__\"> /u/bbbb69__ </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1wbl0k4/forex_community/\">[link]</a></span> &#32;",
-      "link": "https://www.reddit.com/r/Forex/comments/1wbl0k4/forex_community/",
-      "published": "2026-09-09T13:04:08+00:00",
-      "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
       "title": "XAUUSD SETUP 9 SEPT 2026",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wbi8op/xauusd_setup_9_sept_2026/\"> <img alt=\"XAUUSD SETUP 9 SEPT 2026\" src=\"https://preview.redd.it/blihq4qk6hoh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2fe12b6d4e3af83fb26a1c66cf5acf5dea8241aa\" title=\"XAUUSD SETUP 9 SEPT 2026\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>📈 Technicals Supporting This BUY Setup</p>",
       "link": "https://www.reddit.com/r/Forex/comments/1wbi8op/xauusd_setup_9_sept_2026/",
       "published": "2026-09-09T10:54:23+00:00",
-      "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "100k FTMO 2 step Challenge.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wbde6g/100k_ftmo_2_step_challenge/\"> <img alt=\"100k FTMO 2 step Challenge.\" src=\"https://preview.redd.it/ij6qw5pxrfoh1.png?width=140&amp;height=89&amp;auto=webp&amp;s=7135670b1773b3b7cb562b698e29a23248f1f959\" title=\"100k FTMO 2 step Challenge.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Started A $100K 2 step Challenge wit",
-      "link": "https://www.reddit.com/r/Forex/comments/1wbde6g/100k_ftmo_2_step_challenge/",
-      "published": "2026-09-09T06:15:48+00:00",
       "score": 3
     },
     {
