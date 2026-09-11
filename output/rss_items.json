@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-09-11T16:59:20.437461+00:00",
-  "count": 39,
+  "updated_at": "2026-09-11T19:34:18.004693+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Monday FX Options Expiries",
+      "summary": "<ul><li><strong>EUR/USD:</strong> 1.1620 (EU1.18b), 1.1800 (EU1.16b), 1.1600 (EU1.15b)</li><li><strong>USD/JPY:</strong> 161.00 ($1.33b), 157.50 ($1.08b), 160.00 ($754.8m)</li><li><strong>AUD/USD:</strong> 0.6850 (AUD744.1m), 0.6700 (AUD612.3m), 0.7200 (AUD476.7m)</li><li><strong>USD/CAD:</strong> 1.3690 ($479m), 1.4030 ($350m), 1.4385 ($342m)</li><li><strong>USD/KRW:</strong> 1400.00 ($1.05b), 13",
+      "link": "https://www.financialjuice.com/News/9759909/Monday-FX-Options-Expiries.aspx?xy=rss",
+      "published": "2026-09-11T19:22:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: The dividend will happen despite criticism from Democrats.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759894/Trump-The-dividend-will-happen-despite-criticism-from-Democrats.aspx?xy=rss",
+      "published": "2026-09-11T19:10:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump citing trillions of dollars in economic development and investment: $5,000 dividend will be given to all US adults - Truth Social",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759893/Trump-citing-trillions-of-dollars-in-economic-development-and-investment-5000-dividend-will-be-given-to-all-US-adults---Truth-Social.aspx?xy=rss",
+      "published": "2026-09-11T19:09:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Citi expects Fed rate hike in September and cuts by mid-2027",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759892/Citi-expects-Fed-rate-hike-in-September-and-cuts-by-mid-2027.aspx?xy=rss",
+      "published": "2026-09-11T19:07:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Apple’s always-on AI features test eavesdropping laws - Lawyers. $AAPL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759891/Apples-always-on-AI-features-test-eavesdropping-laws---Lawyers-AAPL.aspx?xy=rss",
+      "published": "2026-09-11T19:05:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Treasury yields ease after CPI, but Fed hike risks linger",
+      "summary": "US Treasury yields fall during the North American session following the release of US inflation data, but are poised to finish the week higher. The US 10-year Treasury yield is down 1 basis point to 4.951% but has gained over 16 basis points, or 3.49%, in the week.",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-ease-after-cpi-but-fed-hike-risks-linger-202609111852",
+      "published": "2026-09-11T18:52:24+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Asia FX: Resilience at risk as US yields climb – MUFG",
+      "summary": "MUFG’s Michael Wan notes that Asia FX and rates have stayed relatively stable despite sharply higher US Treasury yields, but he warns this resilience may not last in the near term.",
+      "link": "https://www.fxstreet.com/news/asia-fx-resilience-at-risk-as-us-yields-climb-mufg-202609111840",
+      "published": "2026-09-11T18:40:53+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen rises as the Greenback's inflation bounce fades",
+      "summary": "USD/JPY is trading around 153.70 on Friday, down for the day after briefly spiking above 154.50 following the US inflation release.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-rises-as-the-greenbacks-inflation-bounce-fades-202609111837",
+      "published": "2026-09-11T18:37:47+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index retreats from post-CPI high, all eyes on Fed",
+      "summary": "The US Dollar Index (DXY) reverses earlier gains on Friday as a pullback in longer-dated US Treasury yields outweighs support from the latest US Consumer Price Index (CPI) report, which strengthened expectations that the Federal Reserve (Fed) will raise interest rates next week.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-retreats-from-post-cpi-high-all-eyes-on-fed-202609111808",
+      "published": "2026-09-11T18:08:27+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold price dodges CPI shock as US yields hand bulls lifeline",
+      "summary": "Gold (XAU/USD) price bounces off daily lows beneath $4,300 on Friday and reclaims the 100-day Simple Moving Average (SMA) of $4,335 following the release of US inflation data, which fueled speculation that a Federal Reserve (Fed) rate hike next week is almost certain.",
+      "link": "https://www.fxstreet.com/news/gold-price-dodges-cpi-shock-as-us-yields-hand-bulls-lifeline-202609111731",
+      "published": "2026-09-11T17:31:20+00:00",
+      "score": 7
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -21,24 +111,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Apple: Starting September 12th at 5 AM PT, customers can pre-order iPhone 18 Pro & iPhone 18 Pro Max on Apple .com and in the Apple Store App. $AAPL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9759717/Apple-Starting-September-12th-at-5-AM-PT-customers-can-pre-order-iPhone-18-Pro--iPhone-18-Pro-Max-on-Apple-com-and-in-the-Apple-Store-App-AAPL.aspx?xy=rss",
-      "published": "2026-09-11T16:08:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed: US 2Q household net worth rises $12.803 trln",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9759706/Fed-US-2Q-household-net-worth-rises-12803-trln.aspx?xy=rss",
-      "published": "2026-09-11T16:01:14+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "British Pound shakes off US CPI jolt as UK growth steals spotlight",
@@ -46,15 +118,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-shakes-off-us-cpi-jolt-as-uk-growth-steals-spotlight-202609111531",
       "published": "2026-09-11T15:31:12+00:00",
       "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Tesla: Semi truck is coming to Europe - X Post. $TSLA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9759664/Tesla-Semi-truck-is-coming-to-Europe---X-Post-TSLA.aspx?xy=rss",
-      "published": "2026-09-11T15:26:25+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -100,51 +163,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-slides-with-oil-prices-us-cpi-fails-to-keep-us-dollar-higher-202609111409",
       "published": "2026-09-11T14:09:51+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Polish Zloty: Dovish stance leaves PLN vulnerable against Euro – ING",
-      "summary": "ING’s Frantisek Taborsky notes that the National Bank of Poland maintained a dovish stance, signalling no need to adjust rates potentially until mid-next year despite rising inflation.",
-      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-stance-leaves-pln-vulnerable-against-euro-ing-202609111343",
-      "published": "2026-09-11T13:43:02+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "European Central Bank: Hawkish rate path supports Euro – UOB",
-      "summary": "UOB economist Lee Sue Ann notes that the European Central Bank (ECB) delivered a widely expected 25 bps hike but signalled a more hawkish stance as inflation risks from the Middle East-driven energy shock remain elevated.",
-      "link": "https://www.fxstreet.com/news/european-central-bank-hawkish-rate-path-supports-euro-uob-202609111326",
-      "published": "2026-09-11T13:26:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Bank of Japan: Hawkish hike prospects grow – DBS",
-      "summary": "DBS Group Research analysts Taimur Baig and Chang Wei Liang expect the Bank of Japan (BoJ) to hike rates by 25 bps at its September 17–18 meeting, citing solid Gross Domestic Product (GDP) growth, stronger wages and inflation near the 2% target.",
-      "link": "https://www.fxstreet.com/news/bank-of-japan-hawkish-hike-prospects-grow-dbs-202609111316",
-      "published": "2026-09-11T13:16:17+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen strengthens as US inflation fails to sustain Dollar rebound",
-      "summary": "USD/JPY falls 0.54% on Friday and trades around 153.60 at the time of writing.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-strengthens-as-us-inflation-fails-to-sustain-dollar-rebound-202609111304",
-      "published": "2026-09-11T13:04:46+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro steadies against US Dollar after volatile reaction to US CPI",
-      "summary": "EUR/USD reverses earlier losses on Friday after the latest United States (US) Consumer Price Index (CPI) report came broadly in line with expectations and failed to trigger a strong market reaction.",
-      "link": "https://www.fxstreet.com/news/euro-steadies-against-us-dollar-after-volatile-reaction-to-us-cpi-202609111302",
-      "published": "2026-09-11T13:02:26+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
