@@ -1,159 +1,267 @@
 {
-  "updated_at": "2026-09-11T08:19:17.202098+00:00",
-  "count": 39,
+  "updated_at": "2026-09-11T12:57:34.919625+00:00",
+  "count": 51,
   "items": [
     {
-      "source": "FXStreet",
+      "source": "FinancialJuice",
       "category": "news",
-      "title": "United States Dollar Index Price Forecast: DXY consolidates around 99.00 ahead of US CPI",
-      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, sticks to a mildly positive bias through the early European session, though it remains confined within the previous day's broader range.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-price-forecast-dxy-consolidates-around-9900-ahead-of-us-cpi-202609110814",
-      "published": "2026-09-11T08:14:09+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Polish Zloty: NBP turns cautious as inflation rises – Commerzbank",
-      "summary": "Commerzbank’s Antje Praefcke reports that the Polish central bank kept its key rate at 3.75%, while Governor Glapiński signalled no cuts until year-end after previously sounding dovish.",
-      "link": "https://www.fxstreet.com/news/polish-zloty-nbp-turns-cautious-as-inflation-rises-commerzbank-202609110811",
-      "published": "2026-09-11T08:11:57+00:00",
+      "title": "FinancialJuice: Trump and the First Lady Participate in the 9/11 Observance Ceremony",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759439/Trump-and-the-First-Lady-Participate-in-the-911-Observance-Ceremony.aspx?xy=rss",
+      "published": "2026-09-11T12:55:33+00:00",
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Likely find direction after US CPI data",
-      "summary": "The Euro (EUR) trades subduedly at around 1.1608 against the US Dollar (USD) during the European trading session on Friday.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-likely-find-direction-after-us-cpi-data-202609110800",
-      "published": "2026-09-11T08:00:13+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: US Dollar consolidates gains as focus shifts to cricital inflation report",
-      "summary": "Here is what you need to know on Friday, September 11:",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-consolidates-gains-as-focus-shifts-to-cricital-inflation-report-202609110736",
-      "published": "2026-09-11T07:36:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones futures rise ahead of US CPI inflation data",
-      "summary": "Dow Jones futures advance by 0.46% to trade near 52,350 during European hours on Friday. Meanwhile, S&amp;P 500 futures gain by 0.44% to trade around 7,630, while Nasdaq 100 futures inch lower by 0.45% to trade near 29,260.",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-ahead-of-us-cpi-inflation-data-202609110730",
-      "published": "2026-09-11T07:30:10+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD bounces off 38.2% Fibo. near $63.00; bearish bias remains",
-      "summary": "Silver (XAG/USD) finds some support near the $63.00 mark and stages a modest intraday recovery from an over three-week low, touched earlier this Friday.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-bounces-off-382-fibo-near-6300-bearish-bias-remains-202609110727",
-      "published": "2026-09-11T07:27:32+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "UK Chancellor Healey: Economy demonstrates welcome resilience despite global uncertainty",
-      "summary": "United Kingdom (UK) Chancellor of the Exchequer John Healey said during the European trading session on Friday, “Britain’s economy is demonstrating a welcome resilience, despite serious global uncertainty.”",
-      "link": "https://www.fxstreet.com/news/uk-chancellor-healey-economy-demonstrates-welcome-resilience-despite-global-uncertainty-202609110725",
-      "published": "2026-09-11T07:25:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Norwegian Krone: Softer inflation clouds September hike odds – Danske Bank",
-      "summary": "Danske Research Team reports that Norwegian core inflation rose to 3.0% year-on-year in August, below Norges Bank’s June projection of 3.3%.",
-      "link": "https://www.fxstreet.com/news/norwegian-krone-softer-inflation-clouds-september-hike-odds-danske-bank-202609110724",
-      "published": "2026-09-11T07:24:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: US Dollar recovery, likely to be tested at 155.20",
-      "summary": "The Japanese Yen (JPY) ticks up against the US Dollar (USD) on Friday, trimming some losses after a moderate reversal on Thursday.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-us-dollar-recovery-likely-to-be-tested-at-15520-202609110724",
-      "published": "2026-09-11T07:24:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc: Downtrend eyes 0.8155–0.8175 zone against US Dollar – UOB",
-      "summary": "United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann note that USD/CHF has broken higher toward 0.8147, with overbought but still constructive momentum suggesting scope to test 0.8155 intraday.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-downtrend-eyes-08155-08175-zone-against-us-dollar-uob-202609110714",
-      "published": "2026-09-11T07:14:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Russian Ruble: CBR pause expected as inflation risks build – Commerzbank",
-      "summary": "Commerzbank’s Tatha Ghose expects the Russian central bank to keep its key rate at 14.0%, arguing inflation fundamentals do not justify further easing despite weak growth.",
-      "link": "https://www.fxstreet.com/news/russian-ruble-cbr-pause-expected-as-inflation-risks-build-commerzbank-202609110703",
-      "published": "2026-09-11T07:03:52+00:00",
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Made money in Core CPI news hehe",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wdf1qg/made_money_in_core_cpi_news_hehe/\"> <img alt=\"Made money in Core CPI news hehe\" src=\"https://preview.redd.it/2r7m0tzcyvoh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=60c648910fa60fbdd8bf6a965da5e4c288825f69\" title=\"Made money in Core CPI news hehe\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>That too in master ",
+      "link": "https://www.reddit.com/r/Forex/comments/1wdf1qg/made_money_in_core_cpi_news_hehe/",
+      "published": "2026-09-11T12:35:23+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Currency Strength Chart: Strongest: NZD, AUD, JPY, GBP, USD, EUR, CHF, CAD - Weakest",
+      "title": "FinancialJuice: US Supercore CPI YoY: 3.02%, previous 2.84%",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9758951/Currency-Strength-Chart-Strongest-NZD-AUD-JPY-GBP-USD-EUR-CHF-CAD---Weakest.aspx?xy=rss",
-      "published": "2026-09-11T07:01:22+00:00",
+      "link": "https://www.financialjuice.com/News/9759411/US-Supercore-CPI-YoY-302-previous-284.aspx?xy=rss",
+      "published": "2026-09-11T12:35:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Supercore CPI MoM: 0.51%, previous 0.19%",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759410/US-Supercore-CPI-MoM-051-previous-019.aspx?xy=rss",
+      "published": "2026-09-11T12:35:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Traders fully price in two Fed rate hikes by year-end",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759408/Traders-fully-price-in-two-Fed-rate-hikes-by-year-end.aspx?xy=rss",
+      "published": "2026-09-11T12:33:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Traders now see about a 90% chance of a Fed rate hike next week, vs about 70% before the inflation report.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759400/Traders-now-see-about-a-90-chance-of-a-Fed-rate-hike-next-week-vs-about-70-before-the-inflation-report.aspx?xy=rss",
+      "published": "2026-09-11T12:32:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Short-term interest-rate futures drop after inflation data as traders add to bets on September Fed rate hike.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759387/US-Short-term-interest-rate-futures-drop-after-inflation-data-as-traders-add-to-bets-on-September-Fed-rate-hike.aspx?xy=rss",
+      "published": "2026-09-11T12:31:12+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Core CPI YoY Actual 2.4% (Forecast 2.4%, Previous 2.5%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759377/US-Core-CPI-YoY-Actual-24-Forecast-24-Previous-25.aspx?xy=rss",
+      "published": "2026-09-11T12:30:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US CPI YoY Actual 3.4% (Forecast 3.4%, Previous 3.4%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759376/US-CPI-YoY-Actual-34-Forecast-34-Previous-34.aspx?xy=rss",
+      "published": "2026-09-11T12:30:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Core CPI MoM Actual 0.3% (Forecast 0.2%, Previous 0.2%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759375/US-Core-CPI-MoM-Actual-03-Forecast-02-Previous-02.aspx?xy=rss",
+      "published": "2026-09-11T12:30:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US CPI MoM Actual 0.4% (Forecast 0.4%, Previous 0.1%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759374/US-CPI-MoM-Actual-04-Forecast-04-Previous-01.aspx?xy=rss",
+      "published": "2026-09-11T12:30:02+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "New Zealand Dollar gathers strength above 0.5800, all eyes on US CPI inflation data",
-      "summary": "The NZD/USD pair rises to around 0.5835, snapping the four-day losing streak during the early European trading hours on Friday. However, the potential upside for the pair might be limited as markets turn cautious ahead of the key US Consumer Price Index (CPI) inflation data later on Friday.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gathers-strength-above-05800-all-eyes-on-us-cpi-inflation-data-202609110654",
-      "published": "2026-09-11T06:54:11+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "AUD/USD Price Forecast: Positive Divergence with RSI backs further recovery",
-      "summary": "The Australian Dollar (AUD) is up 0.22% at around 0.7175 against the US Dollar (USD) during the European trading session on Friday.",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-positive-divergence-with-rsi-backs-further-recovery-202609110653",
-      "published": "2026-09-11T06:53:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Equities: Oil shock and ECB hawkishness keep selloff contained – Danske Bank",
-      "summary": "Danske Research Team notes that global equities fell around 0.5% despite a hawkish European Central Bank message and sharp yield curve moves.",
-      "link": "https://www.fxstreet.com/news/equities-oil-shock-and-ecb-hawkishness-keep-selloff-contained-danske-bank-202609110643",
-      "published": "2026-09-11T06:43:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee continues downtrend due to US hot PPI-driven hawkish Fed bets",
-      "summary": "The Indian Rupee (INR) extends its downward spiral against the US Dollar (USD) for the fourth trading day on Friday, with the USD/INR pair rising to near 95.80 in the opening session.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-extends-decline-on-fresh-escalation-in-hawkish-fed-bets-202609110534",
-      "published": "2026-09-11T05:34:21+00:00",
+      "title": "Euro: ECB hawkish path supports pair – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports EUR/USD is trading heavy around 1.1600 after a hawkish 25 bps European Central Bank (ECB) hike to 2.50%. President Lagarde called the move a “no brainer” and signaled more hikes as inflation is seen above target for an extended period.",
+      "link": "https://www.fxstreet.com/news/euro-ecb-hawkish-path-supports-pair-bbh-202609111224",
+      "published": "2026-09-11T12:24:27+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold sticks to recovery gains near $4,450 as traders await US CPI for Fed rate cues",
-      "summary": "Gold (XAU/USD) clings to modest recovery gains around $4,450 through the first half of the European session, albeit it lacks bullish conviction as traders await the release of US consumer inflation figures.",
-      "link": "https://www.fxstreet.com/news/gold-eyes-4-300-break-as-usd-sticks-to-gains-amid-fed-hike-bets-ahead-of-us-cpi-202609110345",
-      "published": "2026-09-11T03:45:50+00:00",
+      "title": "US Dollar: Strength builds on yields – ING",
+      "summary": "ING’s Francesco Pesole notes that the Dollar is benefiting as global bond yields and Oil prices rise, with the USD re-establishing a positive correlation with long-end US yields.",
+      "link": "https://www.fxstreet.com/news/us-dollar-strength-builds-on-yields-ing-202609111205",
+      "published": "2026-09-11T12:05:42+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Deutsche Bank: ECB Reaction Not Done Yet - FJElite",
+      "summary": "<div>The ECB raised rates by 25bp to 2.50% in September, with Lagarde calling the decision a “no-brainer.” The overall message was hawkish enough to remain consistent with another hike to a 2.75% terminal rate in December. Core inflation is still projected to be 30bp above target at the end of the forecast horizon, while the reference to inflation staying “well above target for an extended period”",
+      "link": "https://www.financialjuice.com/News/9759353/Deutsche-Bank-ECB-Reaction-Not-Done-Yet---FJElite.aspx?xy=rss",
+      "published": "2026-09-11T12:05:39+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Credit Agricole: Dollar Decouples From Higher US Yields - FJElite",
+      "summary": "<div>The global bond selloff continues as inflation concerns bring forward expectations for central-bank tightening. Although higher US rates have improved the dollar’s yield advantage, the currency has failed to benefit. That decoupling may reflect concern about weaker foreign demand for Treasuries, particularly after US Treasury efforts to contain long-end yields and reports that Japan’s GPIF an",
+      "link": "https://www.financialjuice.com/News/9759348/Credit-Agricole-Dollar-Decouples-From-Higher-US-Yields---FJElite.aspx?xy=rss",
+      "published": "2026-09-11T12:03:52+00:00",
       "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Yield pressure risks fresh losses against US Dollar – OCBC",
+      "summary": "OCBC’s Christopher Wong highlights a rebound in USD/JPY as higher US Treasury yields, stronger US Dollar (USD) and elevated Oil prices support the pair, even as expectations for further BOJ normalisation cap upside.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-yield-pressure-risks-fresh-losses-against-us-dollar-ocbc-202609111159",
+      "published": "2026-09-11T11:59:09+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US CPI Prep: All Eyes on Prices ahead of the Rate Decision - FJElite",
+      "summary": "[Repost]",
+      "link": "https://www.financialjuice.com/News/9759323/US-CPI-Prep-All-Eyes-on-Prices-ahead-of-the-Rate-Decision---FJElite.aspx?xy=rss",
+      "published": "2026-09-11T11:58:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US CPI Crib Sheet",
+      "summary": "[Updated]",
+      "link": "https://www.financialjuice.com/News/9759322/US-CPI-Crib-Sheet.aspx?xy=rss",
+      "published": "2026-09-11T11:58:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro retreats below 1.1600, Dollar appreciates heading into the US CPI release",
+      "summary": "The Euro (EUR) accelerates its reversal against the US Dollar (USD) on Friday, as the impulse from a hawkish hike by the European Central Bank (ECB) fades.",
+      "link": "https://www.fxstreet.com/news/euro-retreats-below-11600-dollar-appreciates-heading-into-the-us-cpi-release-202609111142",
+      "published": "2026-09-11T11:42:55+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Oil: Supply risks and central bank inflation worries – BNY",
+      "summary": "BNY’s Geoff Yu highlights that Brent has approached $110 as Houthi advances near the Bab el-Mandeb Strait raise concerns over Red Sea shipping and broader supply chains.",
+      "link": "https://www.fxstreet.com/news/oil-supply-risks-and-central-bank-inflation-worries-bny-202609111142",
+      "published": "2026-09-11T11:42:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen outperforms this week as market bets on BoJ's extended tightening cycle",
+      "summary": "The Japanese Yen (JPY) bounces back against the US Dollar (USD) on Friday after a sharp corrective move the previous day. In the European trade, the USD/JPY is down 0.3% to near 154.00 at the time of writing.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-outperforms-this-week-as-market-bets-on-bojs-extended-tightening-cycle-202609111133",
+      "published": "2026-09-11T11:33:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: CPI volatility risk and limited upside – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is supported by recent risk aversion and a modestly hawkish Federal Reserve (Fed) repricing after US August Producer Price Index (PPI), but stresses that August Consumer Price Index (CPI) will be decisive for next week’s Fed meet",
+      "link": "https://www.fxstreet.com/news/us-dollar-cpi-volatility-risk-and-limited-upside-bbh-202609111111",
+      "published": "2026-09-11T11:11:45+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar climbs on RBA rate hike expectations as traders await US CPI",
+      "summary": "AUD/USD advances 0.17% on Friday and trades around 0.7170 at the time of writing. The Australian Dollar (AUD) benefits mainly from growing expectations of further interest rate hikes by the Reserve Bank of Australia (RBA), following a series of hawkish comments from central bank officials.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-climbs-on-rba-rate-hike-expectations-as-traders-await-us-cpi-202609111100",
+      "published": "2026-09-11T11:00:37+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold holds ground as markets brace for US CPI data",
+      "summary": "Gold (XAU/USD) holds firm on Friday as a pullback in US Treasury yields and Oil prices offers some support, although buying interest remains limited ahead of the US Consumer Price Index (CPI) report due at 12:30 GMT.",
+      "link": "https://www.fxstreet.com/news/gold-holds-ground-as-markets-brace-for-us-cpi-data-202609111059",
+      "published": "2026-09-11T10:59:22+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "SNB’s Schlegel: Inflation accelerates in recent months but remains within stability range",
+      "summary": "Swiss National Bank Chairman Martin Schlegel said during the European trading session on Friday that the Swiss Franc exchange rate has been a challenge for the Swiss economy. However, headed that the real Franc has been stable since 2020.",
+      "link": "https://www.fxstreet.com/news/snbs-schlegel-inflation-accelerates-in-recent-months-but-remains-within-stability-range-202609111033",
+      "published": "2026-09-11T10:33:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc nears monthly lows as investors brace for US CPI data",
+      "summary": "The Swiss Franc extends losses for the sixth consecutive day against the US Dollar on Friday, nearing one-and-a-half-month lows at the mid-0.8100s.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-nears-monthly-lows-as-investors-brace-for-us-cpi-data-202609111032",
+      "published": "2026-09-11T10:32:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Support at 1.3495 under pressure against US Dollar – UOB",
+      "summary": "United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann report that GBP/USD’s sharp drop to 1.3493 looks stretched short term, favouring consolidation between 1.3495 and 1.3535 intraday.",
+      "link": "https://www.fxstreet.com/news/british-pound-support-at-13495-under-pressure-against-us-dollar-uob-202609110958",
+      "published": "2026-09-11T09:58:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Breaking: US CPI inflation stays unchanged at 3.4% in August as anticipated",
+      "summary": "Annual inflation in the United States (US), as measured by the change in the Consumer Price Index (CPI), held steady at 3.4% in August, the US Bureau of Labor Statistics (BLS) reported on Friday. This print came in line with the market expectation.",
+      "link": "https://www.fxstreet.com/news/us-core-cpi-data-set-to-ease-in-august-as-markets-reprice-fed-september-rate-decision-202609110830",
+      "published": "2026-09-11T08:30:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee cracks this week amid higher oil prices, US bond yields",
+      "summary": "The Indian Rupee (INR) extends its downward spiral against the US Dollar (USD) for the fourth trading day on Friday, with the USD/INR pair rising to near 95.80.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-extends-decline-on-fresh-escalation-in-hawkish-fed-bets-202609110534",
+      "published": "2026-09-11T05:34:21+00:00",
+      "score": 2
     },
     {
       "source": "r/Forex",
