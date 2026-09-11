@@ -1,7 +1,124 @@
 {
-  "updated_at": "2026-09-10T23:54:41.083025+00:00",
+  "updated_at": "2026-09-11T03:39:30.756619+00:00",
   "count": 42,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States Dollar Index holds onto gains above 99 ahead of US CPI data",
+      "summary": "The US Dollar (USD) clings to its Thursday gains in early session on Friday, driven by faster-than-expected growth in the United States (US) Producer Price Index (PPI) data for August.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-holds-onto-gains-above-99-ahead-of-us-cpi-data-202609110324",
+      "published": "2026-09-11T03:24:40+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Barclays anticipates ECB to raise interest rates by 25 bp in December 2026",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9758700/Barclays-anticipates-ECB-to-raise-interest-rates-by-25-bp-in-December-2026.aspx?xy=rss",
+      "published": "2026-09-11T03:08:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD slips below $63.50 amid rising Fed rate hike odds",
+      "summary": "Silver price (XAG/USD) extends its losses for the second successive day, trading around $63.30 per troy ounce during Asian hours on Friday. Silver prices are declining as expectations grow for a Federal Reserve (Fed) rate hike in September.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slips-below-6350-amid-rising-fed-rate-hike-odds-202609110303",
+      "published": "2026-09-11T03:03:04+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "BoJ set to raise interest rates by 25 bps next week - Reuters",
+      "summary": "According to a Reuters report, sources say that the Bank of Japan (BoJ) is set to raise interest rates, most likely by 25 basis points, at the policy meeting on September 18. This move will push interest rates higher to 1.25%, a level not seen in the last 31 years.",
+      "link": "https://www.fxstreet.com/news/boj-sets-to-raise-interest-rates-by-25-bps-next-week-reuters-202609110259",
+      "published": "2026-09-11T02:59:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BOJ set to increase interest rates most likely by 25 basis points at next week's policy meeting, sources say",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9758694/BOJ-set-to-increase-interest-rates-most-likely-by-25-basis-points-at-next-weeks-policy-meeting-sources-say.aspx?xy=rss",
+      "published": "2026-09-11T02:55:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar softens to near 0.7150, US CPI inflation data looms",
+      "summary": "The AUD/USD pair edges lower to around 0.7155 during the early Asian session on Friday. The US Dollar strengthens against the Australian Dollar (AUD) following signs of hotter inflation in the United States (US).",
+      "link": "https://www.fxstreet.com/news/australian-dollar-softens-to-near-07150-us-cpi-inflation-data-looms-202609110251",
+      "published": "2026-09-11T02:51:02+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar struggles as oil prices decline",
+      "summary": "USD/CAD extended its gains for the third consecutive day, trading around 1.3840 during the Asian hours on Friday. The pair appreciates as the commodity-linked Canadian Dollar (CAD) struggles due to lower oil prices.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-struggles-as-oil-prices-decline-202609110217",
+      "published": "2026-09-11T02:17:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar recovers from six-week low vs USD; upside seems capped ahead of US CPI",
+      "summary": "The NZD/USD pair gains some positive traction during the Asian session on Friday, reversing a part of the previous day's heavy losses to sub-0.5800 levels, or the lowest since late July.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-recovers-from-six-week-low-vs-usd-upside-seems-capped-ahead-of-us-cpi-202609110214",
+      "published": "2026-09-11T02:14:05+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound holds steady above 1.3500 ahead of US CPI inflation release",
+      "summary": "The GBP/USD pair trades on a flat note near 1.3510 during the early Asian session on Friday. Traders prefer to wait on the sidelines ahead of the key US August Consumer Price Index (CPI) inflation report later on Friday.",
+      "link": "https://www.fxstreet.com/news/british-pound-holds-steady-above-13500-ahead-of-us-cpi-inflation-release-202609110146",
+      "published": "2026-09-11T01:46:39+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen edges higher as PPI reaffirms BoJ rate hike bets and USD bulls await US CPI",
+      "summary": "The USD/JPY pair struggles to capitalize on the previous day's recovery momentum and edges lower during the Asian session on Friday.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-edges-higher-as-ppi-reaffirms-boj-rate-hike-bets-and-usd-bulls-await-us-cpi-202609110131",
+      "published": "2026-09-11T01:31:03+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7743 vs. 6.7766 previous",
+      "summary": "On Friday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7743 compared to the previous day's fix of 6.7766 and 6.7174 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67743-vs-67766-previous-202609110115",
+      "published": "2026-09-11T01:15:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: to single stocks including Tesla, Apple and Nvidia: WSJ",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9758519/to-single-stocks-including-Tesla-Apple-and-Nvidia-WSJ.aspx?xy=rss",
+      "published": "2026-09-11T00:46:33+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro flatlines above 1.1600 despite ECB hawkish hike, traders brace for US CPI data",
+      "summary": "The EUR/USD pair holds steady around 1.1610 during the early Asian session on Friday. Traders continue to assess a hawkish hike from the European Central Bank (ECB).",
+      "link": "https://www.fxstreet.com/news/euro-flatlines-above-11600-despite-ecb-hawkish-hike-traders-brace-for-us-cpi-data-202609110042",
+      "published": "2026-09-11T00:42:21+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -21,48 +138,12 @@
       "score": 6
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Meta declares quarterly cash dividend of $0.53 per share payable Sept. 28, 2026",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9758462/Meta-declares-quarterly-cash-dividend-of-053-per-share-payable-Sept-28-2026.aspx?xy=rss",
-      "published": "2026-09-10T23:01:24+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "New Zealand Dollar steadies after two-month low slide",
       "summary": "NZD/USD is clinging to the 0.5800 mark at the start of the Asian session on Friday after dipping to a near two-month low around 0.5797 earlier in the American session.",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-after-two-month-low-slide-202609102145",
       "published": "2026-09-10T21:45:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft's data center network will exceed 38 gigawatts capacity in 2032, up from around 12 gigawatts now",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9758389/Microsofts-data-center-network-will-exceed-38-gigawatts-capacity-in-2032-up-from-around-12-gigawatts-now.aspx?xy=rss",
-      "published": "2026-09-10T21:08:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft plans 38 gigawatts of data center capacity to meet demand",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9758388/Microsoft-plans-38-gigawatts-of-data-center-capacity-to-meet-demand.aspx?xy=rss",
-      "published": "2026-09-10T21:07:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft plans data center expansion to triple computing capacity",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9758387/Microsoft-plans-data-center-expansion-to-triple-computing-capacity.aspx?xy=rss",
-      "published": "2026-09-10T21:06:28+00:00",
       "score": 1
     },
     {
@@ -93,15 +174,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "NZD/USD Price Forecast: Kiwi breaks below 0.5800 as bears take control",
-      "summary": "The New Zealand Dollar (NZD) fails to clear a confluence of key Simple Moving Averages (SMAs) and dives below 0.5800 on Thursday, printing a near two-month low of 0.5797. At the time of writing, NZD/USD is down 0.65% and poised to test lower levels if it closes below 0.5800.",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-kiwi-breaks-05800-as-bears-take-control-202609101844",
-      "published": "2026-09-10T18:44:11+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "If you’re into Xauusd (gold), what’s your main tragedy, timeframes and why?",
@@ -109,51 +181,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wcrvqs/if_youre_into_xauusd_gold_whats_your_main_tragedy/",
       "published": "2026-09-10T18:42:24+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Malaysia Ringgit: BNM hawkish tilt limits downside – Commerzbank",
-      "summary": "Commerzbank notes USD/MYR has risen to 4.07, marking a fourth consecutive session of Ringgit weakness, weighed by foreign portfolio outflows from Malaysian equities.",
-      "link": "https://www.fxstreet.com/news/malaysia-ringgit-bnm-hawkish-tilt-limits-downside-commerzbank-202609101842",
-      "published": "2026-09-10T18:42:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "ECB sources say further tightening remains likely – Reuters",
-      "summary": "According to Reuters sources, the European Central Bank (ECB) is expected to further tighten monetary policy in the months ahead and could raise rates in October.",
-      "link": "https://www.fxstreet.com/news/ecb-sources-say-further-tightening-remains-likely-reuters-202609101738",
-      "published": "2026-09-10T17:38:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold bulls blink as hot US PPI, $100 Oil send yields flying",
-      "summary": "Gold price retraces by about 0.90% on Thursday as traders price in a hawkish Federal Reserve (Fed) following the release of the US Producer Price Index (PPI) for August.",
-      "link": "https://www.fxstreet.com/news/gold-bulls-blink-as-hot-us-ppi-100-oil-send-yields-flying-202609101729",
-      "published": "2026-09-10T17:29:00+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro steadies against the Yen after ECB lifts rates",
-      "summary": "EUR/JPY rises above the 179.00 mark on Thursday in the aftermath of the European Central Bank (ECB) raising its deposit rate by a quarter point to 2.50%, its second hike since the US-Iran war broke out.",
-      "link": "https://www.fxstreet.com/news/euro-steadies-against-the-yen-after-ecb-lifts-rates-202609101727",
-      "published": "2026-09-10T17:27:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Defensive Yen as BoJ turns hawkish – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight that USD/JPY is edging higher as the Japanese Yen trades defensively after its sharp late-August rally. The Bank of Japan’s messaging is described as unequivocally hawkish ahead of a widely anticipated 25 bps hike on September 18.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-defensive-yen-as-boj-turns-hawkish-scotiabank-202609101637",
-      "published": "2026-09-10T16:37:00+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -165,24 +192,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar firms as US Dollar loses momentum, Oil prices extend rally",
-      "summary": "USD/CAD pares earlier gains on Thursday as the US Dollar (USD) loses momentum after staging a modest recovery, despite US Producer Price Index (PPI) data showing that producer inflation picked up again in August. At the same time, higher Oil prices offer support to the Canadian Dollar (CAD).",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-trades-under-pressure-as-us-ppi-data-supports-fed-hike-bets-202609101551",
-      "published": "2026-09-10T15:51:03+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver slides below $65 as US PPI reinforces Fed rate-hike bets",
-      "summary": "Silver (XAG/USD) extends its sharp decline on Thursday, trading around $64.35 per ounce at the time of writing, down 4.39% on the day.",
-      "link": "https://www.fxstreet.com/news/silver-slides-below-65-as-us-ppi-revives-fed-rate-hike-bets-202609101543",
-      "published": "2026-09-10T15:43:46+00:00",
-      "score": 4
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Same extreme volume spike, two completely opposite outcomes. How do you actually tell which one you're looking at?",
@@ -190,15 +199,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wcml5l/same_extreme_volume_spike_two_completely_opposite/",
       "published": "2026-09-10T15:34:34+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound under pressure as hot PPI puts Fed hike in play",
-      "summary": "The Pound Sterling (GBP) loses traction against the US Dollar (USD) on Thursday after the latest US producer inflation report, which exceeded estimates, prompting investors to price in a more hawkish Federal Reserve (Fed). At the time of writing, GBP/USD trades at 1.3525, down 0.17%.",
-      "link": "https://www.fxstreet.com/news/british-pound-feels-the-heat-as-hot-ppi-puts-fed-hike-in-play-202609101527",
-      "published": "2026-09-10T15:27:46+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
