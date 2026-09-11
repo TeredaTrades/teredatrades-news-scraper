@@ -1,57 +1,75 @@
 {
-  "updated_at": "2026-09-11T19:34:18.004693+00:00",
-  "count": 41,
+  "updated_at": "2026-09-11T21:58:02.935046+00:00",
+  "count": 39,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Monday FX Options Expiries",
-      "summary": "<ul><li><strong>EUR/USD:</strong> 1.1620 (EU1.18b), 1.1800 (EU1.16b), 1.1600 (EU1.15b)</li><li><strong>USD/JPY:</strong> 161.00 ($1.33b), 157.50 ($1.08b), 160.00 ($754.8m)</li><li><strong>AUD/USD:</strong> 0.6850 (AUD744.1m), 0.6700 (AUD612.3m), 0.7200 (AUD476.7m)</li><li><strong>USD/CAD:</strong> 1.3690 ($479m), 1.4030 ($350m), 1.4385 ($342m)</li><li><strong>USD/KRW:</strong> 1400.00 ($1.05b), 13",
-      "link": "https://www.financialjuice.com/News/9759909/Monday-FX-Options-Expiries.aspx?xy=rss",
-      "published": "2026-09-11T19:22:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: The dividend will happen despite criticism from Democrats.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9759894/Trump-The-dividend-will-happen-despite-criticism-from-Democrats.aspx?xy=rss",
-      "published": "2026-09-11T19:10:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump citing trillions of dollars in economic development and investment: $5,000 dividend will be given to all US adults - Truth Social",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9759893/Trump-citing-trillions-of-dollars-in-economic-development-and-investment-5000-dividend-will-be-given-to-all-US-adults---Truth-Social.aspx?xy=rss",
-      "published": "2026-09-11T19:09:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Citi expects Fed rate hike in September and cuts by mid-2027",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9759892/Citi-expects-Fed-rate-hike-in-September-and-cuts-by-mid-2027.aspx?xy=rss",
-      "published": "2026-09-11T19:07:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Apple’s always-on AI features test eavesdropping laws - Lawyers. $AAPL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9759891/Apples-always-on-AI-features-test-eavesdropping-laws---Lawyers-AAPL.aspx?xy=rss",
-      "published": "2026-09-11T19:05:37+00:00",
+      "title": "Singapore Dollar: Downside bias capped with 1.2705 against US Dollar – UOB",
+      "summary": "United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann note that USD/SGD has rebounded strongly, with short-term momentum pointing higher but key resistance at 1.2705 expected to limit gains.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-downside-bias-capped-with-12705-against-us-dollar-uob-202609112121",
+      "published": "2026-09-11T21:21:00+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US Treasury yields ease after CPI, but Fed hike risks linger",
-      "summary": "US Treasury yields fall during the North American session following the release of US inflation data, but are poised to finish the week higher. The US 10-year Treasury yield is down 1 basis point to 4.951% but has gained over 16 basis points, or 3.49%, in the week.",
+      "title": "USD/CHF Price Forecast: Bulls break 0.8150 as CPI fuels Fed bets",
+      "summary": "The USDCHF climbs over 0.40% on Friday after US consumer inflation data, coupled with Thursday's PPI, pushed investors to price in a Fed interest rate hike at next week's meeting. The pair trades at 0.8165 after rebounding from daily lows of 0.8124.",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-break-08150-as-cpi-fuels-fed-bets-202609112101",
+      "published": "2026-09-11T21:01:46+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Anthropic looks to provide a list of wealth advisers to staff. Goldman, BofA vie to manage anthropic staffers’ IPO millions",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759990/Anthropic-looks-to-provide-a-list-of-wealth-advisers-to-staff-Goldman-BofA-vie-to-manage-anthropic-staffers-IPO-millions.aspx?xy=rss",
+      "published": "2026-09-11T20:16:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: S&P: Forecast 2027 Saudi oil production to rise, but, production will remain well below its reported highest-feasible production capacity of 12.3 MBPD.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9759986/SP-Forecast-2027-Saudi-oil-production-to-rise-but-production-will-remain-well-below-its-reported-highest-feasible-production-capacity-of-123-MBPD.aspx?xy=rss",
+      "published": "2026-09-11T20:09:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Bullish bias fades against dollar – UOB",
+      "summary": "United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann reports that USD/CNH has bounced sharply to 6.7153, with intraday gains likely capped near 6.7200.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-bullish-bias-fades-against-dollar-uob-202609111956",
+      "published": "2026-09-11T19:56:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: Neckline failure keeps bears in control",
+      "summary": "Silver price registers gains of over 1%, yet it is trading below the ‘head and shoulders’ neckline, an indication that the overall trend in the short-term may be tilted to the downside. The XAG/USD trades at $64.24, after bouncing off daily lows of $62.94.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-neckline-failure-keeps-bears-in-control-202609111953",
+      "published": "2026-09-11T19:53:25+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forecasting the upcoming week: Fed, BoE and BoJ headline a central bank triple-header",
+      "summary": "The US Dollar Index (DXY) closes the week near the 99.00 zone, little changed on the day and holding the ground it clawed back after a brief wobble on Thursday's US inflation release.",
+      "link": "https://www.fxstreet.com/news/forecasting-the-upcoming-week-fed-boe-and-boj-headline-a-central-bank-triple-header-202609111952",
+      "published": "2026-09-11T19:52:21+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Treasury yields ease after CPI as Fed hike risks linger",
+      "summary": "US Treasury yields fall during the North American session on Friday following the release of US inflation data, but are poised to finish the week higher. The US 10-year Treasury yield is down one basis point to 4.951% but has gained over 16 basis points, or 3.49%, this week.",
       "link": "https://www.fxstreet.com/news/us-treasury-yields-ease-after-cpi-but-fed-hike-risks-linger-202609111852",
       "published": "2026-09-11T18:52:24+00:00",
       "score": 4
@@ -127,42 +145,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-holds-firm-as-hotter-us-inflation-fails-to-cement-greenbacks-advantage-202609111519",
       "published": "2026-09-11T15:19:40+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Taiwan: AI boom sustains trade surplus – Commerzbank",
-      "summary": "Commerzbank economists, led by Dr. Henry Hao and colleagues, note Taiwan’s August trade surplus hit a record USD22.3bn, driven by strong AI-related exports. Electronics and semiconductor shipments surged, lifting overall exports and imports.",
-      "link": "https://www.fxstreet.com/news/taiwan-ai-boom-sustains-trade-surplus-commerzbank-202609111449",
-      "published": "2026-09-11T14:49:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc struggles even as US Dollar gives back CPI-led gains",
-      "summary": "USD/CHF holds onto gains on Friday even as the US Dollar (USD) turns lower following the release of the latest United States (US) Consumer Price Index (CPI) report, which strengthened expectations that the Federal Reserve (Fed) could raise interest rates next week.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-struggles-even-as-us-dollar-gives-back-cpi-led-gains-202609111435",
-      "published": "2026-09-11T14:35:32+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "India: Inflation pressures point to tighter bias – DBS",
-      "summary": "DBS Group Research expects India’s inflation to accelerate to 4.9% year-on-year, with food and energy costs driving a gradual broadening of price pressures.",
-      "link": "https://www.fxstreet.com/news/india-inflation-pressures-point-to-tighter-bias-dbs-202609111421",
-      "published": "2026-09-11T14:21:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar slides with Oil prices, US CPI fails to keep US Dollar higher",
-      "summary": "USD/CAD rises 0.27% on Friday and trades around 1.3870 at the time of writing, after reaching a daily high of 1.3882 in the immediate reaction to the release of United States (US) inflation data.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-slides-with-oil-prices-us-cpi-fails-to-keep-us-dollar-higher-202609111409",
-      "published": "2026-09-11T14:09:51+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
