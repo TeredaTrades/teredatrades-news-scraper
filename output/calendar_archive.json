@@ -1,21 +1,5 @@
 [
   {
-    "title": "Core Retail Sales q/q",
-    "country": "NZD",
-    "date": "2026-08-23T18:45:00-04:00",
-    "impact": "Low",
-    "forecast": "0.3%",
-    "previous": "1.0%"
-  },
-  {
-    "title": "Retail Sales q/q",
-    "country": "NZD",
-    "date": "2026-08-23T18:45:00-04:00",
-    "impact": "Low",
-    "forecast": "0.1%",
-    "previous": "0.9%"
-  },
-  {
     "title": "Corporate Profits q/q",
     "country": "CAD",
     "date": "2026-08-24T08:30:00-04:00",
@@ -2347,6 +2331,22 @@
     "title": "New Loans",
     "country": "CNY",
     "date": "2026-09-14T04:03:00-04:00",
+    "impact": "Low",
+    "forecast": "480B",
+    "previous": "-340B"
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2026-09-14T05:01:00-04:00",
+    "impact": "Low",
+    "forecast": "7.6%",
+    "previous": "7.7%"
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2026-09-14T05:01:00-04:00",
     "impact": "Low",
     "forecast": "480B",
     "previous": "-340B"
