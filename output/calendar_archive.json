@@ -1,37 +1,5 @@
 [
   {
-    "title": "Corporate Profits q/q",
-    "country": "CAD",
-    "date": "2026-08-24T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-2.0%"
-  },
-  {
-    "title": "Treasury Sec Bessent Speaks",
-    "country": "USD",
-    "date": "2026-08-24T13:00:00-04:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Treasury Sec Bessent Speaks",
-    "country": "USD",
-    "date": "2026-08-24T14:00:00-04:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Monetary Policy Meeting Minutes",
-    "country": "AUD",
-    "date": "2026-08-24T21:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "BOJ Core CPI y/y",
     "country": "JPY",
     "date": "2026-08-25T01:00:00-04:00",
@@ -2822,6 +2790,14 @@
     "impact": "High",
     "forecast": "0.1%",
     "previous": "0.8%"
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-09-17T02:02:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-6.2%"
   },
   {
     "title": "SECO Economic Forecasts",
