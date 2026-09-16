@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-09-15T23:06:51.972598+00:00",
-  "count": 49,
+  "updated_at": "2026-09-16T01:26:34.996277+00:00",
+  "count": 45,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound softens below 1.3500 as traders await UK CPI data, Fed rate decision",
+      "summary": "The GBP/USD pair loses ground to near 1.3470 during the early Asian trading hours on Wednesday. The US Dollar (USD) strengthens against the British Pound (GBP) on expectations of a US interest rate hike.",
+      "link": "https://www.fxstreet.com/news/british-pound-softens-below-13500-as-traders-await-uk-cpi-data-fed-rate-decision-202609160121",
+      "published": "2026-09-16T01:21:05+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7628 vs. 6.7670 previous",
+      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7628 compared to the previous day's fix of 6.7670 and 6.7148euters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67628-vs-67670-previous-202609160115",
+      "published": "2026-09-16T01:15:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta: Threads rolls out parental controls for teens in APAC - blog",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9764701/Meta-Threads-rolls-out-parental-controls-for-teens-in-APAC---blog.aspx?xy=rss",
+      "published": "2026-09-16T01:11:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar languishes near two-week low as bullish USD offsets oil gains ahead of Fed",
+      "summary": "The USD/CAD pair retains its positive bias for the sixth straight day, trading near the 1.3930 area, a two-week high during the Asian session on Wednesday amid a bullish US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-languishes-near-two-week-low-as-bullish-usd-offsets-oil-gains-ahead-of-fed-202609160108",
+      "published": "2026-09-16T01:08:18+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Big day today. What are your thoughts? Gold bearish or bullish",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Happy trading. all the best </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Riz07\"> /u/Riz07 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1whib9t/big_day_today_what_are_your_thoughts_gold_bearish/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1whib9t/big_day_today_what_",
+      "link": "https://www.reddit.com/r/Forex/comments/1whib9t/big_day_today_what_are_your_thoughts_gold_bearish/",
+      "published": "2026-09-16T00:48:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen flatlines ahead of Fed rate decicion",
+      "summary": "The USD/JPY pair holds steady near 155.25 during the early Asian session on Wednesday. Traders prefer to wait on the sidelines ahead of the US Federal Reserve (Fed) interest rate decision later on Wednesday. On Friday, attention will shift to the Bank of Japan (BoJ) interest rate decision.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-flatlines-ahead-of-fed-rate-decicion-202609160022",
+      "published": "2026-09-16T00:22:36+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "XAUUSD SETUP CHANGED 4H TIMEFRAME",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1whgrnb/xauusd_setup_changed_4h_timeframe/\"> <img alt=\"XAUUSD SETUP CHANGED 4H TIMEFRAME\" src=\"https://preview.redd.it/b7dsxpoysrph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=67c94a6ed6798015c4207a997d35b83860cd5da1\" title=\"XAUUSD SETUP CHANGED 4H TIMEFRAME\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Fundamentals ar",
+      "link": "https://www.reddit.com/r/Forex/comments/1whgrnb/xauusd_setup_changed_4h_timeframe/",
+      "published": "2026-09-15T23:41:49+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold declines below $4,300 as US yields climb, Fed rate decision looms",
+      "summary": "Gold price (XAU/USD) declines to near $4,285 during the early Asian session on Wednesday.",
+      "link": "https://www.fxstreet.com/news/gold-declines-below-4-300-as-us-yields-climb-fed-rate-decision-looms-202609152313",
+      "published": "2026-09-15T23:13:14+00:00",
+      "score": 5
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -21,24 +93,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Meta plans to unveil camera-free Luna smart glasses this fall: The Information",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9764526/Meta-plans-to-unveil-camera-free-Luna-smart-glasses-this-fall-The-Information.aspx?xy=rss",
-      "published": "2026-09-15T22:24:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Meta to roll out smart glasses without cameras amid rising privacy concerns: The Information",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9764525/Meta-to-roll-out-smart-glasses-without-cameras-amid-rising-privacy-concerns-The-Information.aspx?xy=rss",
-      "published": "2026-09-15T22:23:53+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "GBP/JPY Price Forecast: Rebounds above 207.00 as oversold risk eases",
@@ -48,15 +102,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump advisers Lutnick, Michael confer with leading Anthropic executive on AI safety",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9764524/Trump-advisers-Lutnick-Michael-confer-with-leading-Anthropic-executive-on-AI-safety.aspx?xy=rss",
-      "published": "2026-09-15T22:21:42+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "The Pound drifts lower as the Fed lines up a rate above the Bank of England's",
@@ -64,24 +109,6 @@
       "link": "https://www.fxstreet.com/news/the-pound-drifts-lower-as-the-fed-lines-up-a-rate-above-the-bank-of-englands-202609152209",
       "published": "2026-09-15T22:09:57+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft declares quarterly dividend of $0.98 per share, up 8% from prior quarter",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9764514/Microsoft-declares-quarterly-dividend-of-098-per-share-up-8-from-prior-quarter.aspx?xy=rss",
-      "published": "2026-09-15T22:05:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia CEO Huang to attend U.S. state dinner for China's Xi, source familiar",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9764471/Nvidia-CEO-Huang-to-attend-US-state-dinner-for-Chinas-Xi-source-familiar.aspx?xy=rss",
-      "published": "2026-09-15T21:35:40+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -147,15 +174,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen slips as Oil lifts yields ahead of the Fed",
-      "summary": "USD/JPY trades near 155.20 on Tuesday, rising for a second straight day and pulling away from the roughly seven-month low it set last week. A firmer US Dollar (USD) is doing the work, helped by a sharp jump in Oil that has pushed US Treasury yields higher.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-slips-as-oil-lifts-yields-ahead-of-the-fed-202609151849",
-      "published": "2026-09-15T18:49:55+00:00",
-      "score": 3
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "XAUUSD ANALYSIS & SETUP",
@@ -163,42 +181,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wh8nxt/xauusd_analysis_setup/",
       "published": "2026-09-15T18:31:49+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "NZD/USD Price Forecast: Bears break 0.5800 as Kiwi slide deepens",
-      "summary": "The New Zealand Dollar (NZD) tumbles against the US Dollar (USD) on Tuesday for the second straight day this week, down 0.37% as risk appetite sours, with AI company CEOs expressing concerns about the rapid pace of evolution and as high energy prices push markets to expect further tightening by the",
-      "link": "https://www.fxstreet.com/news/nzd-usd-price-forecast-bears-break-05800-as-kiwi-slide-deepens-202609151825",
-      "published": "2026-09-15T18:25:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "100 threshold: United States Dollar Index faces make-or-break Fed decision",
-      "summary": "The US Dollar Index (DXY) holds firm near a two-week high on Tuesday as traders prepare for the Federal Reserve’s (Fed) monetary policy decision on Wednesday. At the time of writing, the index trades around 99.66, up 0.17% on the day.",
-      "link": "https://www.fxstreet.com/news/100-threshold-united-states-dollar-index-faces-make-or-break-fed-decision-202609151814",
-      "published": "2026-09-15T18:14:08+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold bulls hit 100-day SMA wall as US yields bite",
-      "summary": "Gold (XAU/USD) price holds firm on Tuesday, capped on the upside by solid resistance at the 100-day Simple Moving Average (SMA) at $4,328, while broad US Dollar strength and elevated US bond yields weighed on the non-yielding metal.",
-      "link": "https://www.fxstreet.com/news/gold-bulls-hit-100-day-sma-wall-as-us-yields-bite-202609151812",
-      "published": "2026-09-15T18:12:13+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar remains vulnerable aas Fed takes centre stage",
-      "summary": "USD/CAD extends its advance for a fifth consecutive day on Tuesday, hovering near a two-week high as the US Dollar (USD) stays firmly supported ahead of the Federal Reserve’s (Fed) monetary policy announcement on Wednesday.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-vulnerable-aas-fed-takes-centre-stage-202609151714",
-      "published": "2026-09-15T17:14:16+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -235,15 +217,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wgy7av/xauusd_setup_tuesday_before_new_york_session/",
       "published": "2026-09-15T11:52:04+00:00",
       "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Genuine xauusd trading group",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Is there any genuine chat group out there that actually share their idea or strategy of gold trading</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/UnknownLegendSSO\"> /u/UnknownLegendSSO </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1wghnok/genuine_xauusd_trading_group/\">[link]</a></span> &#32; <span><a ",
-      "link": "https://www.reddit.com/r/Forex/comments/1wghnok/genuine_xauusd_trading_group/",
-      "published": "2026-09-14T22:04:38+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
@@ -289,15 +262,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wfmwyl/xauusd_setup_monday/",
       "published": "2026-09-13T23:20:09+00:00",
       "score": 4
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Which prop firms are you guys using for XAUUSD in the US?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m looking into prop firms and would really appreciate some honest opinions from people who have actually used them. I primarily trade XAUUSD using supply and demand and market structure, I’m trying to figure out which prop firms would make the most sense for me. I’ve been looking at FTMO and a few others, but I’d rather hear from people who have actually traded ",
-      "link": "https://www.reddit.com/r/Forex/comments/1wew5cu/which_prop_firms_are_you_guys_using_for_xauusd_in/",
-      "published": "2026-09-13T03:04:55+00:00",
-      "score": 3
     },
     {
       "source": "Federal Reserve",
