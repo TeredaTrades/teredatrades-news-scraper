@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-09-16T19:58:01.916461+00:00",
-  "count": 66,
+  "updated_at": "2026-09-16T22:50:56.355351+00:00",
+  "count": 55,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Pound drops below its long-run average as the Fed's rate passes Britain's",
+      "summary": "The Fed raised rates by a quarter point to 3.75-4.00% on Wednesday, the first hike since 2023, and the vote was 12-0. The middle of the new range is 3.875%, which puts US rates above the UK's 3.75% for the first time this year.",
+      "link": "https://www.fxstreet.com/news/the-pound-drops-below-its-long-run-average-as-the-feds-rate-passes-britains-202609162219",
+      "published": "2026-09-16T22:19:29+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Euro's losing streak runs on as the Fed matches the ECB's rate hike",
+      "summary": "The European Central Bank (ECB) raised its deposit rate to 2.50% on September 10, and the Euro has fallen every session since. The Fed raised its own rate to 3.75-4.00% on Wednesday, by the same quarter point, and the day's drop was the biggest of the run.",
+      "link": "https://www.fxstreet.com/news/the-euros-losing-streak-runs-on-as-the-fed-matches-the-ecbs-rate-hike-202609162201",
+      "published": "2026-09-16T22:01:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Japanese Yen gives back more of its rally as the Fed raises rates",
+      "summary": "The Bank of Japan meets on Friday, and the market has a quarter-point hike to 1.25% priced at 100%. The Yen has been falling anyway. USD/JPY is up three sessions in a row, Wednesday's gain was the biggest of the three, and the pair is trading just under 156.50 after the Fed's hike to 3.75-4.00%.",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-gives-back-more-of-its-rally-as-the-fed-raises-rates-202609162118",
+      "published": "2026-09-16T21:18:26+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Trump demands 1% rates hours after the Fed raised them",
+      "summary": "Trump posted on Wednesday that US rates should be 1% or less and that the country has the strongest credit anywhere. He also wrote that cutting off trade with every nation the US runs a deficit with would earn at least $1.5 trillion a year.",
+      "link": "https://www.fxstreet.com/news/trump-demands-1-rates-hours-after-the-fed-raised-them-202609162104",
+      "published": "2026-09-16T21:04:26+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar sinks toward its July low after the Fed hikes",
+      "summary": "NZD/USD has dropped in six straight sessions. The run started near 0.5900 on September 8, went through both long-run averages near 0.5850 early in the run, and the last three sessions have been the biggest of the lot.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-sinks-toward-its-july-low-after-the-fed-hikes-202609162101",
+      "published": "2026-09-16T21:01:18+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Australian Dollar continues to slide as the Fed enters hike country",
+      "summary": "Australia's central bank pays more than the Federal Reserve (Fed) does. The cash rate is 4.35%, the Fed's new range is 3.75-4.00% after Wednesday's quarter-point hike, and most of the big Australian banks expect the RBA to raise again before the end of the year, and none of that has helped.",
+      "link": "https://www.fxstreet.com/news/the-australian-dollar-continues-to-slide-as-the-fed-enters-hike-country-202609162056",
+      "published": "2026-09-16T20:56:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Interest rates in the US should be 1%, or less. Lower the interest rates, and fast - Truth Social",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9766335/Trump-Interest-rates-in-the-US-should-be-1-or-less-Lower-the-interest-rates-and-fast---Truth-Social.aspx?xy=rss",
+      "published": "2026-09-16T20:39:48+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: FOMC Past Market Reactions & Deviations - FJElite",
+      "summary": "<strong>Rate Statement &amp; SEP:</strong> Fed Projections show 12 of 18 officials see one more 25-basis-point rate hike this year; four see two hikes; two see no more hikes. Vote in favor of policy was unanimous.  Inflation remains elevated, drops earlier description of that owing in part to supply shocks. 16 officials project at least one more rate hike in 2026. Fed Officials' median view of the",
+      "link": "https://www.financialjuice.com/News/9766333/FOMC-Past-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
+      "published": "2026-09-16T20:33:23+00:00",
+      "score": 3
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -75,24 +147,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House's Desai: The Fed rate hike is rather unfortunate - Fox News.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9766230/White-Houses-Desai-The-Fed-rate-hike-is-rather-unfortunate---Fox-News.aspx?xy=rss",
-      "published": "2026-09-16T19:07:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Traders price in about a 50% chance of a Fed rate hike in October.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9766229/Traders-price-in-about-a-50-chance-of-a-Fed-rate-hike-in-October.aspx?xy=rss",
-      "published": "2026-09-16T19:01:56+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Federal Reserve Chair Warsh: Inflation trends were not passing the test",
@@ -102,24 +156,6 @@
       "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Chair Warsh ends press conference.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9766209/Feds-Chair-Warsh-ends-press-conference.aspx?xy=rss",
-      "published": "2026-09-16T18:59:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Chair Warsh: I don't believe we need to do harm to the job market to achieve our objective.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9766207/Feds-Chair-Warsh-I-dont-believe-we-need-to-do-harm-to-the-job-market-to-achieve-our-objective.aspx?xy=rss",
-      "published": "2026-09-16T18:59:06+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Fed raises 2026 interest rate forecast to 4.1%, lifts PCE inflation projections",
@@ -127,78 +163,6 @@
       "link": "https://www.fxstreet.com/news/fed-raises-2026-interest-rate-forecast-to-41-lifts-pce-inflation-projections-202609161858",
       "published": "2026-09-16T18:58:33+00:00",
       "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Chair Warsh: The taskforce should report to us about AI by the year-end.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9766206/Feds-Chair-Warsh-The-taskforce-should-report-to-us-about-AI-by-the-year-end.aspx?xy=rss",
-      "published": "2026-09-16T18:58:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Chair Warsh: We care very much about what's happening in AI.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9766205/Feds-Chair-Warsh-We-care-very-much-about-whats-happening-in-AI.aspx?xy=rss",
-      "published": "2026-09-16T18:57:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Chair Warsh: I see 3 reasons bond yields have risen: the first is economic strength, the second is competition for capital, the surge in CAPEX is real, and the third is geopolitics.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9766204/Feds-Chair-Warsh-I-see-3-reasons-bond-yields-have-risen-the-first-is-economic-strength-the-second-is-competition-for-capital-the-surge-in-CAPEX-is-real-and-the-third-is-geopolitics.aspx?xy=rss",
-      "published": "2026-09-16T18:54:27+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Chair Warsh declines to comment on ECB and other central banks' policy.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9766203/Feds-Chair-Warsh-declines-to-comment-on-ECB-and-other-central-banks-policy.aspx?xy=rss",
-      "published": "2026-09-16T18:51:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Chair Warsh: Other advanced economies are suffering from price pressures, too.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9766202/Feds-Chair-Warsh-Other-advanced-economies-are-suffering-from-price-pressures-too.aspx?xy=rss",
-      "published": "2026-09-16T18:51:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Chair Warsh: In aggregate, we're more or less at full employment.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9766201/Feds-Chair-Warsh-In-aggregate-were-more-or-less-at-full-employment.aspx?xy=rss",
-      "published": "2026-09-16T18:49:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Chair Warsh: Trends matter, data points are noisy.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9766199/Feds-Chair-Warsh-Trends-matter-data-points-are-noisy.aspx?xy=rss",
-      "published": "2026-09-16T18:47:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Chair Warsh: I was not waiting breathlessly on any one data point, including CPI.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9766198/Feds-Chair-Warsh-I-was-not-waiting-breathlessly-on-any-one-data-point-including-CPI.aspx?xy=rss",
-      "published": "2026-09-16T18:47:29+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -219,15 +183,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "WTI holds near daily low as Fed decision draws muted reaction",
-      "summary": "Texas Intermediate (WTI) Oil holds near its daily low on Wednesday, showing little immediate reaction to the Federal Reserve’s (Fed) monetary policy announcement. At the time of writing, WTI trades around $97.50 per barrel, down roughly 3.3% on the day.",
-      "link": "https://www.fxstreet.com/news/wti-holds-near-daily-low-as-fed-decision-draws-muted-reaction-202609161837",
-      "published": "2026-09-16T18:37:24+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Clean XAUUSD setup executed before the news!",
@@ -235,15 +190,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wi5q4y/clean_xauusd_setup_executed_before_the_news/",
       "published": "2026-09-16T18:36:32+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen falls as US Federal Reserve delivers",
-      "summary": "The USD/JPY pair trades at fresh weekly highs in the 155.50 price zone after the United States (US) Federal Reserve (Fed) delivered the expected 25 basis point (bps) interest rate hike. The US Dollar (USD) resumed its weekly advance with the headlines, following a pause ahead of the announcement.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-falls-as-us-federal-reserve-delivers-202609161832",
-      "published": "2026-09-16T18:32:44+00:00",
-      "score": 2
     },
     {
       "source": "FXStreet",
@@ -271,24 +217,6 @@
       "link": "https://www.fxstreet.com/news/the-federal-reserve-raises-rates-on-the-dow-jones-30-corporate-borrowers-202609161815",
       "published": "2026-09-16T18:15:09+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve hawkish hike sent Gold price lower",
-      "summary": "The United States (US) Federal Open Market Committee (FOMC)  announced a 25 basis-point (bps) interest rate hike following its two-day meeting, pushing the US Dollar (USD) firmly up against most major rivals. With this decision, the Funds Target Range (FFTR) stands floating in the 3.75%–4.00% range.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-hawkish-hike-sent-gold-price-lower-202609161814",
-      "published": "2026-09-16T18:14:26+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "The Fed hikes to 4% as the 10-year yield toys with 5%",
-      "summary": "The Fed has raised its rate to 3.75-4.00%, its first increase since 2023 and its first move since the cut in December 2025. The rate it controls is the overnight one. Everything further out is set by people buying and selling bonds, and they have been selling.",
-      "link": "https://www.fxstreet.com/news/the-federal-reserve-hikes-to-4-with-the-10-year-yield-at-5-202609161814",
-      "published": "2026-09-16T18:14:16+00:00",
-      "score": 2
     },
     {
       "source": "FXStreet",
@@ -327,15 +255,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar steadies as markets await Fed decision",
-      "summary": "NZD/USD trades around 0.5755 at the time of writing on Wednesday, virtually unchanged on the day after rebounding from an over two-month low at 0.5737.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-against-us-dollar-as-markets-await-fed-decision-202609161617",
-      "published": "2026-09-16T16:17:19+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "What's one rule you added after a painful loss that actually stuck?",
@@ -347,29 +266,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "The Pound sells its own inflation spike ahead of a Fed hike",
-      "summary": "The British Pound (GBP) trades just above 1.3450 on Wednesday, down 23 pips, after a morning that ran in two directions. It climbed into the August inflation release at 06:00 GMT, spiked on it, then spent six hours handing the move back and another 30 pips with it.",
-      "link": "https://www.fxstreet.com/news/the-pound-sells-its-own-inflation-spike-ahead-of-a-fed-hike-202609161532",
-      "published": "2026-09-16T15:32:50+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Fed’s Warsh: Decision today was the right decision",
       "summary": "This section below was published at 18:00 GMT to cover the Federal Reserve's policy decisions and the immediate market reaction.",
       "link": "https://www.fxstreet.com/news/federal-reserve-set-to-raise-interest-rate-after-five-meetings-on-hold-202609161400",
       "published": "2026-09-16T14:00:00+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold consolidates gains as traders brace for Fed interest rate decision",
-      "summary": "Gold (XAU/USD) consolidates gains on Wednesday after rebounding during Asian trading hours, supported by a modest pullback in Oil prices and US Treasury yields.",
-      "link": "https://www.fxstreet.com/news/gold-rebounds-as-traders-position-for-fed-interest-rate-decision-202609161128",
-      "published": "2026-09-16T11:28:16+00:00",
-      "score": 5
     },
     {
       "source": "r/Forex",
