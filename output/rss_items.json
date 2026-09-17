@@ -1,12 +1,102 @@
 {
-  "updated_at": "2026-09-17T19:18:04.883757+00:00",
-  "count": 54,
+  "updated_at": "2026-09-17T22:21:19.966543+00:00",
+  "count": 49,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
+      "title": "Bank of Japan is expected to deliver a hawkish hike, pressured by rising inflation",
+      "summary": "The Bank of Japan’s (BoJ) monetary policy meeting will close a week packed with central bank decisions on Friday, with markets particularly interested in confirming expectations of a hawkish shift that has boosted a strong Japanese Yen (JPY) recovery in September.",
+      "link": "https://www.fxstreet.com/news/bank-of-japan-is-expected-to-deliver-a-hawkish-hike-pressured-by-rising-inflation-202609172200",
+      "published": "2026-09-17T22:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: President Trump outlines plans for first meeting with Venezuela's interim chief Delcy Rodriguez as early as next week - Axios",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9768169/President-Trump-outlines-plans-for-first-meeting-with-Venezuelas-interim-chief-Delcy-Rodriguez-as-early-as-next-week---Axios.aspx?xy=rss",
+      "published": "2026-09-17T21:44:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar slips against the Japanese Yen before the Bank of Japan raises rates",
+      "summary": "USD/JPY trades near 156.00 after a session high at 156.32 and a low at 155.34, which leaves it three Yen above the September 8 low and four below the September 2 high. The Bank of Japan announces at 02:45 GMT on Friday and a quarter-point increase to 1.25% is priced at 100%.",
+      "link": "https://www.fxstreet.com/news/us-dollar-slips-against-the-japanese-yen-before-the-bank-of-japan-raises-rates-202609172057",
+      "published": "2026-09-17T20:57:07+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound slides after the Bank of England stays put",
+      "summary": "GBP/USD trades near 1.3350 on Thursday after a session low at 1.3336, its weakest since the end of July, and it has been under its 200-day average since Wednesday.",
+      "link": "https://www.fxstreet.com/news/british-pound-sterling-slides-after-the-bank-of-england-stays-put-202609172056",
+      "published": "2026-09-17T20:56:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Qualcomm's CEO will attend Trump's state dinner with China’s President Xi. $QCOM",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9768114/Qualcomms-CEO-will-attend-Trumps-state-dinner-with-Chinas-President-Xi-QCOM.aspx?xy=rss",
+      "published": "2026-09-17T20:54:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Strong Dollar keeps pair supported – OCBC",
+      "summary": "OCBC strategist Christopher Wong highlights that Singapore Dollar (SGD) remains largely driven by the broader Dollar story after the FOMC, given its high sensitivity to USD moves.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-strong-dollar-keeps-pair-supported-ocbc-202609172012",
+      "published": "2026-09-17T20:12:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +3057 mln<br />Nasdaq 100: +1454 mln<br />Dow 30: +1387 mln<br />Mag 7: +929 mln",
+      "link": "https://www.financialjuice.com/News/9768062/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-09-17T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Thai Baht: Electronics boom offers limited FX support – MUFG",
+      "summary": "MUFG’s Lloyd Chan remains cautious on the Thai Baht, keeping the USD/THB forecast at 34.00 by year-end.",
+      "link": "https://www.fxstreet.com/news/thai-baht-electronics-boom-offers-limited-fx-support-mufg-202609171937",
+      "published": "2026-09-17T19:37:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US Dollar eases ahead of Bank of Japan decision",
+      "summary": "The US Dollar (USD) is ending Thursday softer. The US Dollar Index (DXY) hovers just above the 100.00 mark after climbing to a seven-week high earlier in the week. The sideways action follows Wednesday's decision by the Federal Reserve (Fed) to raise interest rates for the first time since 2023.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-eases-ahead-of-bank-of-japan-decision-202609171933",
+      "published": "2026-09-17T19:33:58+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Friday FX Option Expiries",
+      "summary": "<div><ul><li><strong>EUR/USD: </strong>1.1400 (EU4.15b), 1.1500 (EU2.18b), 1.1200 (EU2.11b)</li><li><strong>USD/JPY: </strong>155.00 ($4.21b), 150.00 ($3.27b), 120.00 ($1.73b)</li><li><strong>AUD/USD</strong><strong>:</strong> 0.7200 (AUD1.96b), 0.6975 (AUD915.8m), 0.7055 (AUD423m)</li><li><strong>USD/BRL: </strong>5.2500 ($529.5m), 5.1000 ($480m), 5.3940 ($443.1m)</li><li><strong>USD/CAD: </stron",
+      "link": "https://www.financialjuice.com/News/9768039/Friday-FX-Option-Expiries.aspx?xy=rss",
+      "published": "2026-09-17T19:23:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
       "title": "Silver Price Forecast: Bulls threaten bearish setup after Fed hike",
-      "summary": "Silver surges to five-day highs above $66.00 on Thursday as traders digest the Fed rate hike on Wednesday, while a drop in US Treasury yields is undermining the Greenback, which clings to early gains but has barely changed. The XAG/USD trades at $65.41, gains over 3.90%.",
+      "summary": "Silver (XAG/USD) surges to five-day highs above $66.00 on Thursday as traders digest the Federal Reserve (Fed) rate hike on Wednesday. Meanwhile, a drop in US Treasury yields is undermining the Greenback, which clings to early gains but has barely changed.",
       "link": "https://www.fxstreet.com/news/silver-price-forecast-bulls-threaten-bearish-setup-after-fed-hike-202609171915",
       "published": "2026-09-17T19:15:23+00:00",
       "score": 5
@@ -19,15 +109,6 @@
       "link": "https://www.fxstreet.com/news/gold-shrugs-off-fed-hike-as-falling-yields-reopen-path-to-4-400-202609171858",
       "published": "2026-09-17T18:58:44+00:00",
       "score": 5
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump and Mexico's President Sheinbaum are close to a trade agreement - Politico.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9767959/Trump-and-Mexicos-President-Sheinbaum-are-close-to-a-trade-agreement---Politico.aspx?xy=rss",
-      "published": "2026-09-17T18:13:07+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -48,15 +129,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: OpenAI and Microsoft knew of AI threats to news industry. $MSFT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9767958/OpenAI-and-Microsoft-knew-of-AI-threats-to-news-industry-MSFT.aspx?xy=rss",
-      "published": "2026-09-17T18:03:46+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Brazilian Real: 200-DMA capping losses against US Dollar – Societe Generale",
@@ -64,15 +136,6 @@
       "link": "https://www.fxstreet.com/news/brazilian-real-200-dma-capping-losses-against-us-dollar-societe-generale-202609171800",
       "published": "2026-09-17T18:00:04+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs on FOMC - FJElite",
-      "summary": "<div>Fed hiked by 0.25pp to 3.75-4.00%, the first hike since July 2023. There were no dissents from the Committee’s decision. We now expect lx hike in October. Much more hawkish set of dots, with the plot showing one additional rate hike for 2026 and no cut next year. The statement noted that inflation “remains elevated” and that “today’s policy action will support a timelier return to the Committ",
-      "link": "https://www.financialjuice.com/News/9767935/Goldman-Sachs-on-FOMC---FJElite.aspx?xy=rss",
-      "published": "2026-09-17T17:56:15+00:00",
-      "score": 4
     },
     {
       "source": "FXStreet",
@@ -84,15 +147,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: OpenAI and Nvidia CEOs to attend Trump-Xi state dinner - ABC. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9767919/OpenAI-and-Nvidia-CEOs-to-attend-Trump-Xi-state-dinner---ABC-NVDA.aspx?xy=rss",
-      "published": "2026-09-17T17:34:31+00:00",
-      "score": 2
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Federal Reserve: Higher-for-longer path reshapes cuts – Rabobank",
@@ -100,42 +154,6 @@
       "link": "https://www.fxstreet.com/news/federal-reserve-higher-for-longer-path-reshapes-cuts-rabobank-202609171725",
       "published": "2026-09-17T17:25:46+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Progress made toward US army base in Poland. Location will be announced very soon - Truth Social Post",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9767905/Trump-Progress-made-toward-US-army-base-in-Poland-Location-will-be-announced-very-soon---Truth-Social-Post.aspx?xy=rss",
-      "published": "2026-09-17T17:25:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Iraqi Prime Minister and Trump to discuss bilateral relations and regional developments - Mehr News",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9767904/Iraqi-Prime-Minister-and-Trump-to-discuss-bilateral-relations-and-regional-developments---Mehr-News.aspx?xy=rss",
-      "published": "2026-09-17T17:20:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Iraqi Prime Minister to visit US and meet with Trump next week - Mehr News",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9767903/Iraqi-Prime-Minister-to-visit-US-and-meet-with-Trump-next-week---Mehr-News.aspx?xy=rss",
-      "published": "2026-09-17T17:19:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 10 Yr TIPS Auction",
-      "summary": "<ul><li>High yield 2.653% (Tail of 1.9 BPS)</li><li>Bid-to-Cover 2.24</li><li>Sells $19 bln</li><li>Awards 93.14% of bids at high</li><li>Primary dealers take 12.18%</li><li>Direct 28.7%</li><li>Indirect 59.12%<br /></li></ul>",
-      "link": "https://www.financialjuice.com/News/9767891/US-10-Yr-TIPS-Auction.aspx?xy=rss",
-      "published": "2026-09-17T17:03:40+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -154,69 +172,6 @@
       "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-rebounds-as-crude-oil-and-bond-yields-fall-202609171616",
       "published": "2026-09-17T16:16:31+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar gains ground as GDP growth beats expectations",
-      "summary": "NZD/USD rebounds on Thursday, trading around 0.5730 at the time of writing, up 0.35% on the day. The New Zealand Dollar (NZD) benefits from stronger-than-expected domestic growth data, allowing the pair to recover from the two-month low reached on Wednesday.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-gains-ground-as-gdp-growth-beats-expectations-202609171555",
-      "published": "2026-09-17T15:55:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound loses its footing as BoE hold meets Fed hike",
-      "summary": "The Pound Sterling (GBP) extends its losses on Thursday after the Bank of England's (BoE) decision to hold rates unchanged in a 6-3 vote, while leaving the door open for a potential hike.",
-      "link": "https://www.fxstreet.com/news/british-pound-loses-its-footing-as-boe-holds-meet-fed-tightening-202609171543",
-      "published": "2026-09-17T15:43:17+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Further weakness could target 157.30 against US Dollar - UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/JPY surged above 156.30 to a high of 156.41, with momentum still modest but supportive of further gains. Intraday, the pair could test 156.50 while holding above support at 155.40.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-further-weakness-could-target-15730-against-us-dollar-uob-202609171506",
-      "published": "2026-09-17T15:06:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Stabilizing with policy support – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret say EUR/USD is stabilizing after Wednesday’s Fed decision, as improving Germany-US 2-year yield spreads and a hawkish ECB stance support the euro.",
-      "link": "https://www.fxstreet.com/news/euro-stabilizing-with-policy-support-scotiabank-202609171454",
-      "published": "2026-09-17T14:54:44+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar rebound offsets the hawkish Fed hike",
-      "summary": "AUD/USD rebounds near the 0.7110s area on Thursday after the pair spent recent sessions nursing losses on bets for a hawkish Federal Reserve (Fed). At the time of writing, the pair rises by over 0.40%, but the rebound has little to do with anything out of Australia.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rebound-offsets-the-hawkish-fed-hike-202609171451",
-      "published": "2026-09-17T14:51:15+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Bank of England: Cautious hold with upside risks – TD Securities",
-      "summary": "TD Securities’ macro team, led by Pooja Kumra, notes the Bank of England kept Bank Rate at 3.75% in a 6-3 vote, with a more hawkish tone versus July as inflation risks stay skewed higher.",
-      "link": "https://www.fxstreet.com/news/bank-of-england-cautious-hold-with-upside-risks-td-securities-202609171446",
-      "published": "2026-09-17T14:46:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold climbs over 2% as US Dollar trims post-Fed gains",
-      "summary": "Gold (XAU/USD) holds near its daily high on Thursday after rebounding sharply earlier in the day as the US Dollar trims some of its post-Fed gains. A cooldown in the Oil rally also pulls US Treasury yields away from their recent highs, lending additional support to the precious metal.",
-      "link": "https://www.fxstreet.com/news/gold-recovers-after-fed-led-sell-off-but-hawkish-outlook-caps-gains-202609171155",
-      "published": "2026-09-17T11:55:23+00:00",
-      "score": 6
     },
     {
       "source": "r/Forex",
