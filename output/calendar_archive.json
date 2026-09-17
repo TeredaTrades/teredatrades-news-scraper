@@ -1,125 +1,5 @@
 [
   {
-    "title": "UBS Economic Expectations",
-    "country": "CHF",
-    "date": "2026-08-26T04:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "10.0"
-  },
-  {
-    "title": "CBI Realized Sales",
-    "country": "GBP",
-    "date": "2026-08-26T06:00:00-04:00",
-    "impact": "Low",
-    "forecast": "-35",
-    "previous": "-26"
-  },
-  {
-    "title": "Core PCE Price Index m/m",
-    "country": "USD",
-    "date": "2026-08-26T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "0.2%",
-    "previous": "0.1%"
-  },
-  {
-    "title": "Prelim GDP q/q",
-    "country": "USD",
-    "date": "2026-08-26T08:30:00-04:00",
-    "impact": "High",
-    "forecast": "1.5%",
-    "previous": "1.5%"
-  },
-  {
-    "title": "Prelim GDP Price Index q/q",
-    "country": "USD",
-    "date": "2026-08-26T08:30:00-04:00",
-    "impact": "Medium",
-    "forecast": "6.2%",
-    "previous": "6.2%"
-  },
-  {
-    "title": "Core Durable Goods Orders m/m",
-    "country": "USD",
-    "date": "2026-08-26T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "0.6%",
-    "previous": "0.6%"
-  },
-  {
-    "title": "Durable Goods Orders m/m",
-    "country": "USD",
-    "date": "2026-08-26T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "0.4%",
-    "previous": "0.3%"
-  },
-  {
-    "title": "Personal Income m/m",
-    "country": "USD",
-    "date": "2026-08-26T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "0.2%",
-    "previous": "0.2%"
-  },
-  {
-    "title": "Personal Spending m/m",
-    "country": "USD",
-    "date": "2026-08-26T08:30:00-04:00",
-    "impact": "Low",
-    "forecast": "0.1%",
-    "previous": "0.3%"
-  },
-  {
-    "title": "Crude Oil Inventories",
-    "country": "USD",
-    "date": "2026-08-26T10:30:00-04:00",
-    "impact": "Low",
-    "forecast": "1.6M",
-    "previous": "4.4M"
-  },
-  {
-    "title": "FOMC Member Barkin Speaks",
-    "country": "USD",
-    "date": "2026-08-26T11:45:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Gov Board Member Martin Speaks",
-    "country": "CHF",
-    "date": "2026-08-26T12:15:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Household Spending m/m",
-    "country": "AUD",
-    "date": "2026-08-26T21:30:00-04:00",
-    "impact": "Low",
-    "forecast": "0.3%",
-    "previous": "0.8%"
-  },
-  {
-    "title": "Private Capital Expenditure q/q",
-    "country": "AUD",
-    "date": "2026-08-26T21:30:00-04:00",
-    "impact": "Low",
-    "forecast": "0.8%",
-    "previous": "6.5%"
-  },
-  {
-    "title": "RBA Bulletin",
-    "country": "AUD",
-    "date": "2026-08-26T21:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "German GfK Consumer Climate",
     "country": "EUR",
     "date": "2026-08-27T02:00:00-04:00",
@@ -2686,6 +2566,14 @@
     "impact": "Low",
     "forecast": "",
     "previous": ""
+  },
+  {
+    "title": "Spanish 10-y Bond Auction",
+    "country": "EUR",
+    "date": "2026-09-17T04:37:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.74|2.3"
   },
   {
     "title": "Final Core CPI y/y",
