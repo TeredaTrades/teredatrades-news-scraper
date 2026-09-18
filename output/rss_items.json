@@ -1,7 +1,223 @@
 {
-  "updated_at": "2026-09-18T14:12:03.239009+00:00",
-  "count": 53,
+  "updated_at": "2026-09-18T17:42:29.631137+00:00",
+  "count": 56,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc gains against US Dollar, but Fed-SNB divergence weighs",
+      "summary": "USD/CHF turns lower on Friday as the US Dollar (USD) loses momentum heading into the weekend, with traders booking profits after a strong weekly advance driven by the Federal Reserve’s (Fed) hawkish interest-rate hike.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-gains-against-us-dollar-but-fed-snb-divergence-weighs-202609181736",
+      "published": "2026-09-18T17:36:58+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dollar Index nudges to a fresh high and slips back as Japan raises rates",
+      "summary": "The Bank of Japan (BoJ) raised its rate to 1.25% on Friday and the Yen weakened anyway. The Dollar Index ran to its highest level since late July on that and has given the move back, trading just above 100.30.",
+      "link": "https://www.fxstreet.com/news/dollar-index-nudges-to-a-fresh-high-and-slips-back-as-japan-raises-rates-202609181725",
+      "published": "2026-09-18T17:25:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Schmid: We are in a fairly normalized place.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9769628/Feds-Schmid-We-are-in-a-fairly-normalized-place.aspx?xy=rss",
+      "published": "2026-09-18T16:38:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: We’ll see’ on whether to annihilate Iran - NewsNation",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9769626/Trump-Well-see-on-whether-to-annihilate-Iran---NewsNation.aspx?xy=rss",
+      "published": "2026-09-18T16:32:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump to NewsNation: Houthis would also like to make a deal.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9769605/Trump-to-NewsNation-Houthis-would-also-like-to-make-a-deal.aspx?xy=rss",
+      "published": "2026-09-18T16:28:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump to NewsNation: US is talking to the Houthis.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9769604/Trump-to-NewsNation-US-is-talking-to-the-Houthis.aspx?xy=rss",
+      "published": "2026-09-18T16:28:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Schmid: US Treasury's buybacks don't make Fed's job harder or easier.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9769603/Feds-Schmid-US-Treasurys-buybacks-dont-make-Feds-job-harder-or-easier.aspx?xy=rss",
+      "published": "2026-09-18T16:25:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Moolenaar to Trump: PRC not a long-term market for American AI. urges tighter AI chip export controls on China",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9769602/Moolenaar-to-Trump-PRC-not-a-long-term-market-for-American-AI-urges-tighter-AI-chip-export-controls-on-China.aspx?xy=rss",
+      "published": "2026-09-18T16:19:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen weakens despite BoJ hike as US Dollar remains firm",
+      "summary": "USD/JPY advances sharply on Friday, trading around 156.95 at the time of writing, up 0.63% on the day. The pair has pulled back after reaching a daily high of 158.06 earlier in the day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-despite-boj-hike-as-us-dollar-remains-firm-202609181554",
+      "published": "2026-09-18T15:54:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Schmid: I agree with Chairman Warsh's framework on why bond yields have gone up. Economic growth, demand for capital from al investment, geopolitical challenges.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9769565/Feds-Schmid-I-agree-with-Chairman-Warshs-framework-on-why-bond-yields-have-gone-up-Economic-growth-demand-for-capital-from-al-investment-geopolitical-challenges.aspx?xy=rss",
+      "published": "2026-09-18T15:51:32+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Schmid supports rate hike as inflation broadens beyond 3%",
+      "summary": "On Friday, Kansas City Federal Reserve (Fed) President Jeffrey Schmid said he supported the rate hike, as “recent data suggest inflation trending above 3%.” Schmid added that tightening policy is a step toward achieving the Fed’s 2% goal, that inflation has broadened across a set of goods and servic",
+      "link": "https://www.fxstreet.com/news/feds-schmid-supports-rate-hike-as-inflation-broadens-beyond-3-202609181541",
+      "published": "2026-09-18T15:41:15+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Schmid: Labor market appears in balance and economic growth solid.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9769552/Feds-Schmid-Labor-market-appears-in-balance-and-economic-growth-solid.aspx?xy=rss",
+      "published": "2026-09-18T15:33:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Schmid: Outside of inflation, the economy is performing well.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9769551/Feds-Schmid-Outside-of-inflation-the-economy-is-performing-well.aspx?xy=rss",
+      "published": "2026-09-18T15:33:23+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Schmid: High inflation a sign supply and demand are out of balance.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9769550/Feds-Schmid-High-inflation-a-sign-supply-and-demand-are-out-of-balance.aspx?xy=rss",
+      "published": "2026-09-18T15:33:09+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Schmid: Current inflation problem not just about energy. Price growth has been 'hot' across a broad set of goods and services.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9769549/Feds-Schmid-Current-inflation-problem-not-just-about-energy-Price-growth-has-been-hot-across-a-broad-set-of-goods-and-services.aspx?xy=rss",
+      "published": "2026-09-18T15:32:58+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Schmid: Rate hike was a step towards returning to the 2% target.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9769543/Feds-Schmid-Rate-hike-was-a-step-towards-returning-to-the-2-target.aspx?xy=rss",
+      "published": "2026-09-18T15:32:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound gives back UK sales pop as Oil shock returns",
+      "summary": "The Pound Sterling (GBP) retraces on Friday after reaching a daily high of 1.3375 on upbeat UK data, as headlines suggest that an Oil supply shock has sent crude prices higher and reignited investors' fears of high inflation. At the time of writing, the GBP/USD pair trades at 1.3356, down 0.03%.",
+      "link": "https://www.fxstreet.com/news/british-pound-gives-back-uk-sales-pop-as-oil-shock-returns-202609181527",
+      "published": "2026-09-18T15:27:35+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index Price Forecast: Technical setup favours further gains above 100",
+      "summary": "The US Dollar Index (DXY) climbs to a fresh seven-week high on Friday, supported by the Federal Reserve’s (Fed) hawkish interest rate hike on Wednesday. At the time of writing, the index trades around 100.40 and is on track to register a weekly gain of more than 1%.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-technical-setup-favours-further-gains-above-100-202609181516",
+      "published": "2026-09-18T15:16:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc: Policy rate seen on hold – ING",
+      "summary": "ING economist Charlotte de Montpellier expects the Swiss National Bank to keep its policy rate at 0% next Thursday and over the coming quarters, as Swiss growth has surprised on the upside but inflation remains subdued.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-policy-rate-seen-on-hold-ing-202609181504",
+      "published": "2026-09-18T15:04:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+      "published": "2026-09-18T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+      "published": "2026-09-18T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Retail rebound but BoE risks – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes GBP/USD is holding just above recent lows as UK August retail sales beat expectations, reversing July’s decline and firming market pricing for a November Bank of England (BoE) rate hike.",
+      "link": "https://www.fxstreet.com/news/british-pound-retail-rebound-but-boe-risks-bbh-202609181443",
+      "published": "2026-09-18T14:43:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar dips as Fed, US yields support the US Dollar",
+      "summary": "USD/CAD edges higher on Friday, trading around 1.4000 at the time of writing, up 0.10% on the day. The US Dollar (USD) remains supported by expectations of further interest rate hikes from the Federal Reserve (Fed), while the rebound in US Treasury yields adds to the Greenback’s appeal.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-fed-us-yields-support-the-us-dollar-202609181443",
+      "published": "2026-09-18T14:43:17+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Pressure builds near 1.40 against US Dollar - Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the Canadian Dollar (CAD) remains under pressure near 1.40 against the Dollar, reflecting a firm USD tone and wider US–Canada front-end spreads.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-pressure-builds-near-140-against-us-dollar-scotiabank-202609181426",
+      "published": "2026-09-18T14:26:12+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -30,60 +246,6 @@
       "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Bowman: The Fed, going forward, will average the bank's last two stress tests when assigning the lender's 'stress capital buffer’.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9769383/Feds-Bowman-The-Fed-going-forward-will-average-the-banks-last-two-stress-tests-when-assigning-the-lenders-stress-capital-buffer.aspx?xy=rss",
-      "published": "2026-09-18T13:32:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Bowman: The Fed will finalize reforms to make bank stress tests more transparent and accountable in the coming weeks.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9769382/Feds-Bowman-The-Fed-will-finalize-reforms-to-make-bank-stress-tests-more-transparent-and-accountable-in-the-coming-weeks.aspx?xy=rss",
-      "published": "2026-09-18T13:32:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Bowman: Changes will make tests more reliable and reduce volatility in bank capital requirements.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9769381/Feds-Bowman-Changes-will-make-tests-more-reliable-and-reduce-volatility-in-bank-capital-requirements.aspx?xy=rss",
-      "published": "2026-09-18T13:31:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Bowman: Supervisory delays were not due to deregulatory efforts pursued earlier by the Fed.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9769380/Feds-Bowman-Supervisory-delays-were-not-due-to-deregulatory-efforts-pursued-earlier-by-the-Fed.aspx?xy=rss",
-      "published": "2026-09-18T13:31:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Vice Chair for Supervision Bowman does not comment on economic or monetary policy outlook in prepared remarks to event in London.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9769378/Fed-Vice-Chair-for-Supervision-Bowman-does-not-comment-on-economic-or-monetary-policy-outlook-in-prepared-remarks-to-event-in-London.aspx?xy=rss",
-      "published": "2026-09-18T13:31:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: +935 mln<br />Nasdaq 100: +1127 mln<br />Dow 30: +311 mln<br />Mag 7: +655 mln",
-      "link": "https://www.financialjuice.com/News/9769362/MOO-Imbalance.aspx?xy=rss",
-      "published": "2026-09-18T13:30:36+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "British Pound: QT overhaul supports Gilt curve and Pound – MUFG",
@@ -91,24 +253,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-qt-overhaul-supports-gilt-curve-and-pound-mufg-202609181303",
       "published": "2026-09-18T13:03:52+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Effective Fed funds rate 3.88% September 17th vs 3.63% September 16th.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9769318/Effective-Fed-funds-rate-388-September-17th-vs-363-September-16th.aspx?xy=rss",
-      "published": "2026-09-18T13:00:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Sentiment: Tech Leads as Oil Eases and BoJ Delivers a Split Hike - FJElite",
-      "summary": "<div>Markets are ending the week in a fairly mixed position. US equity futures are struggling for direction, with S&amp;P futures basically flat and Nasdaq futures only slightly higher, while Treasury yields are moving up again despite a third straight day of falling oil prices. That leaves the market caught between some relief on the energy side and renewed pressure from the rates market.</div><d",
-      "link": "https://www.financialjuice.com/News/9769316/US-Sentiment-Tech-Leads-as-Oil-Eases-and-BoJ-Delivers-a-Split-Hike---FJElite.aspx?xy=rss",
-      "published": "2026-09-18T12:46:36+00:00",
-      "score": 6
     },
     {
       "source": "FXStreet",
@@ -138,94 +282,13 @@
       "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs: Gasoline Now Offers More Upside Than Diesel - FJElite",
-      "summary": "<div>Diesel prices remain close to record highs in the US and Europe as the halt of the East-West pipeline adds further pressure to refinery crude supplies. With diesel already pricing in a large geopolitical premium, the long European diesel timespread recommendation is being closed after a potential gain of around $11/bbl, or 45%. Refined products are still seen as an effective hedge against fur",
-      "link": "https://www.financialjuice.com/News/9769279/Goldman-Sachs-Gasoline-Now-Offers-More-Upside-Than-Diesel---FJElite.aspx?xy=rss",
-      "published": "2026-09-18T12:24:59+00:00",
-      "score": 2
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "Japanese Yen: Cautious BoJ tilt weighs on JPY against US Dollar – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad highlights pronounced Japanese Yen (JPY) underperformance, with USD/JPY near 158.00 after a Bank of Japan rate hike to 1.25%. The Bank of Japan (BoJ) signaled cautious tightening, expecting only moderate growth and delayed achievement of 2% inflation.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-cautious-boj-tilt-weighs-on-jpy-against-us-dollar-bbh-202609181210",
-      "published": "2026-09-18T12:10:35+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD extends recovery above $67.00 as yields fall",
-      "summary": "Silver (XAG/USD) trades higher for the second consecutive day on Friday, reaching session highs above $67.00 after bouncing from lows near $62.00 earlier this week.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-extends-recovery-above-6700-as-yields-fall-202609181201",
-      "published": "2026-09-18T12:01:21+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecast: Fresh downside likely if sustain below 1.1455",
-      "summary": "The Euro (EUR) is down 0.12% to near 1.1460 against the US Dollar (USD) during the European trading session on Friday.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-fresh-downside-likely-if-sustain-below-11455-202609181152",
-      "published": "2026-09-18T11:52:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Oil drives Dollar upside risks – ING",
-      "summary": "ING strategist Francesco Pesole notes that moderating Oil prices have slightly cooled the Dollar’s post-FOMC momentum, but still sees upside risks for the Dollar after the Federal Reserve’s hawkish message.",
-      "link": "https://www.fxstreet.com/news/us-dollar-oil-drives-dollar-upside-risks-ing-202609181142",
-      "published": "2026-09-18T11:42:22+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold eyes weekly gain, but hawkish Fed outlook limits upside",
-      "summary": "Gold (XAU/USD) struggles to move above the $4,400 level on Friday as the Federal Reserve’s (Fed) hawkish policy outlook keeps the US Dollar (USD) firmly bid.",
+      "title": "Gold outlook hinges on Oil prices and shifting Fed expectations",
+      "summary": "Gold (XAU/USD) loses momentum after nearing the $4,400 level on Friday as the Federal Reserve’s hawkish policy outlook keeps the US Dollar firmly supported, while a rebound in Oil prices and US Treasury yields adds pressure on the metal.",
       "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
       "published": "2026-09-18T11:32:13+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: BoE holds but inflation risks linger – OCBC",
-      "summary": "OCBC strategist Christopher Wong notes that the Bank of England (BoE) kept Bank Rate at 3.75% in a 6–3 vote while highlighting a more challenging inflation backdrop, with Consumer Price Index (CPI) seen near 3.75% in Q4 and above 4% in early 2027.",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-holds-but-inflation-risks-linger-ocbc-202609181125",
-      "published": "2026-09-18T11:25:43+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar strengthens as RBA maintains hawkish stance",
-      "summary": "AUD/USD rises 0.20% on Friday to trade around 0.7125 at the time of writing. The Australian Dollar (AUD) benefits from hawkish comments by Reserve Bank of Australia (RBA) officials, who keep the door open to further monetary tightening to bring inflation sustainably back toward the target.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-strengthens-as-rba-maintains-hawkish-stance-202609181107",
-      "published": "2026-09-18T11:07:32+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: Yen plummets after BoJ’s policy outcome",
-      "summary": "The Japanese Yen (JPY) underperforms its major currency peers on Friday after the Bank of Japan’s (BoJ) monetary policy announcement. In the European trade, the USD/JPY pair trades 1.3% higher to near 158.00.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-yen-plummets-after-bojs-policy-outcome-202609181100",
-      "published": "2026-09-18T11:00:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc consolidates losses weighed by adverse monetary policy divergence",
-      "summary": "The Swiss Franc (CHF) holds losses against the US Dollar (USD) on Friday, after dropping nearly 1% this week and about 2% over the last two weeks.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-consolidates-losses-weighed-by-adverse-monetary-policy-divergence-202609181023",
-      "published": "2026-09-18T10:23:16+00:00",
-      "score": 1
+      "score": 6
     },
     {
       "source": "r/Forex",
@@ -235,15 +298,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wjikqt/xauusd_day_before_weekend/",
       "published": "2026-09-18T06:36:21+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee gets slight relief as rally in US yields and oil price hits pause",
-      "summary": "The Indian Rupee (INR) opens sharply higher against the US Dollar (USD) on Friday, with the USD/INR pair correcting to near 95.75 from an over seven-week high of 96.10 posted the previous day.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rebounds-as-rally-in-us-yields-and-oil-prices-hits-a-pause-202609180535",
-      "published": "2026-09-18T05:35:20+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
@@ -329,15 +383,6 @@
     {
       "source": "r/Forex",
       "category": "reddit",
-      "title": "XAUUSD SETUP CHANGED 4H TIMEFRAME",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1whgrnb/xauusd_setup_changed_4h_timeframe/\"> <img alt=\"XAUUSD SETUP CHANGED 4H TIMEFRAME\" src=\"https://preview.redd.it/b7dsxpoysrph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=67c94a6ed6798015c4207a997d35b83860cd5da1\" title=\"XAUUSD SETUP CHANGED 4H TIMEFRAME\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Fundamentals ar",
-      "link": "https://www.reddit.com/r/Forex/comments/1whgrnb/xauusd_setup_changed_4h_timeframe/",
-      "published": "2026-09-15T23:41:49+00:00",
-      "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
       "title": "XAUUSD SETUP Tuesday before NEW YORK SESSION",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wgy7av/xauusd_setup_tuesday_before_new_york_session/\"> <img alt=\"XAUUSD SETUP Tuesday before NEW YORK SESSION\" src=\"https://preview.redd.it/qankgm5caoph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=723416fdeb911f58acb770118e9e4cc3b5d27ad2\" title=\"XAUUSD SETUP Tuesday before NEW YORK SESSION\" /> </a> </td><td> <!-- SC_OFF --><",
       "link": "https://www.reddit.com/r/Forex/comments/1wgy7av/xauusd_setup_tuesday_before_new_york_session/",
@@ -374,18 +419,18 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-      "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
       "published": "2026-08-20T15:00:00+00:00",
       "score": 1
     },
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
       "published": "2026-08-20T15:00:00+00:00",
       "score": 1
     },
@@ -455,29 +500,11 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-      "summary": "Federal Reserve Board issues enforcement action with Iuka Bancshares, Inc. and The Iuka State Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm",
-      "published": "2026-07-30T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
       "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
       "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
       "published": "2026-07-30T15:00:00+00:00",
       "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve issues FOMC statement",
-      "summary": "Federal Reserve issues FOMC statement",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-      "published": "2026-07-29T18:00:00+00:00",
-      "score": 2
     }
   ],
   "errors": [
