@@ -2680,6 +2680,14 @@
     "previous": "1.24M"
   },
   {
+    "title": "NHPI m/m",
+    "country": "CAD",
+    "date": "2026-09-17T08:30:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-0.1%"
+  },
+  {
     "title": "Pending Home Sales m/m",
     "country": "USD",
     "date": "2026-09-17T10:00:00-04:00",
@@ -2755,6 +2763,22 @@
     "title": "Monetary Policy Statement",
     "country": "JPY",
     "date": "2026-09-17T22:30:00-04:00",
+    "impact": "High",
+    "forecast": "",
+    "previous": ""
+  },
+  {
+    "title": "BOJ Policy Rate",
+    "country": "JPY",
+    "date": "2026-09-17T23:00:00-04:00",
+    "impact": "High",
+    "forecast": "<1.25%",
+    "previous": "<1.00%"
+  },
+  {
+    "title": "Monetary Policy Statement",
+    "country": "JPY",
+    "date": "2026-09-17T23:00:00-04:00",
     "impact": "High",
     "forecast": "",
     "previous": ""
