@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-09-18T22:29:31.965536+00:00",
-  "count": 57,
+  "updated_at": "2026-09-19T00:33:53.089788+00:00",
+  "count": 33,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Taiwan Dollar: Mildly hawkish CBC but flows drive – OCBC",
+      "summary": "OCBC strategist Christopher Wong highlights that Taiwan’s CBC kept its policy rate at 2% for a tenth straight quarter with a mildly hawkish tone, sharply raising 2026 growth and inflation forecasts while flagging sticky services inflation.",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-mildly-hawkish-cbc-but-flows-drive-ocbc-202609182355",
+      "published": "2026-09-18T23:55:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Nvidia CEO Jensen Huang: agrees with Trump on AI, doesn’t think it will end world by 2030 - CBS News",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9770096/Nvidia-CEO-Jensen-Huang-agrees-with-Trump-on-AI-doesnt-think-it-will-end-world-by-2030---CBS-News.aspx?xy=rss",
+      "published": "2026-09-18T23:43:24+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Taiwan Dollar: CBC holds rates but flags inflation risks – Commerzbank",
+      "summary": "Commerzbank’s Charlie Lay and Henry Hao report that Taiwan’s CBC kept its policy rate at 2.0% for a tenth straight meeting, signalling a patient stance.",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-cbc-holds-rates-but-flags-inflation-risks-commerzbank-202609182332",
+      "published": "2026-09-18T23:32:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Foreign equity flows keep KRW heavy against US Dollar – OCBC",
+      "summary": "OCBC strategist Christopher Wong notes that the Korean Won remains under pressure as foreign selling of Korean equities persists and elevated US yields after the FOMC continue to weigh. Large-cap technology stocks are at the centre of outflows, though the broader KOSPI has held up.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-foreign-equity-flows-keep-krw-heavy-against-us-dollar-ocbc-202609182327",
+      "published": "2026-09-18T23:27:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Dovish BoJ hike weighs on yen – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note the Japanese Yen (JPY) is down sharply versus the US Dollar (USD) after a dovishly delivered 25 bps Bank of Japan (BoJ) hike and Governor Ueda’s cautious guidance.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-dovish-boj-hike-weighs-on-yen-scotiabank-202609182307",
+      "published": "2026-09-18T23:07:00+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
@@ -27,78 +72,6 @@
       "summary": "",
       "link": "https://www.financialjuice.com/News/9770049/White-House-spokeswoman-Kelly-on-Xi-visit-Trump-and-Xi-to-give-remarks-at-state-dinner-corrects-source-to-White-House-spokeswoman-not-US-deputy-national-security-adviser.aspx?xy=rss",
       "published": "2026-09-18T22:23:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Senior US administration official: Busan ceasefire also on agenda for Trump-Xi meeting",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9770045/Senior-US-administration-official-Busan-ceasefire-also-on-agenda-for-Trump-Xi-meeting.aspx?xy=rss",
-      "published": "2026-09-18T22:21:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump administration to host UN event on AI next week: CNN",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9770043/Trump-administration-to-host-UN-event-on-AI-next-week-CNN.aspx?xy=rss",
-      "published": "2026-09-18T22:20:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House spokeswoman Kelly: Trump to welcome Xi at Joint Base Andrews on arrival",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9770041/White-House-spokeswoman-Kelly-Trump-to-welcome-Xi-at-Joint-Base-Andrews-on-arrival.aspx?xy=rss",
-      "published": "2026-09-18T22:16:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US deputy national security adviser on Xi visit: Trump and Xi to give remarks at state dinner",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9770037/US-deputy-national-security-adviser-on-Xi-visit-Trump-and-Xi-to-give-remarks-at-state-dinner.aspx?xy=rss",
-      "published": "2026-09-18T22:15:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US ambassador to UN: Trump will meet Venezuela's Rodriguez",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9770035/US-ambassador-to-UN-Trump-will-meet-Venezuelas-Rodriguez.aspx?xy=rss",
-      "published": "2026-09-18T22:13:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US ambassador to UN: Trump to meet Japanese premier",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9770034/US-ambassador-to-UN-Trump-to-meet-Japanese-premier.aspx?xy=rss",
-      "published": "2026-09-18T22:13:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US ambassador to UN: Trump will meet Burnham from UK",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9770033/US-ambassador-to-UN-Trump-will-meet-Burnham-from-UK.aspx?xy=rss",
-      "published": "2026-09-18T22:12:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Ukraine's Zelenskiy thanks Trump for signing Russia sanctions bill and Congress members for backing it",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9770030/Ukraines-Zelenskiy-thanks-Trump-for-signing-Russia-sanctions-bill-and-Congress-members-for-backing-it.aspx?xy=rss",
-      "published": "2026-09-18T22:07:53+00:00",
       "score": 1
     },
     {
@@ -246,51 +219,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed’s Schmid supports rate hike as inflation broadens beyond 3%",
-      "summary": "On Friday, Kansas City Federal Reserve (Fed) President Jeffrey Schmid said he supported the rate hike, as “recent data suggest inflation trending above 3%.” Schmid added that tightening policy is a step toward achieving the Fed’s 2% goal, that inflation has broadened across a set of goods and servic",
-      "link": "https://www.fxstreet.com/news/feds-schmid-supports-rate-hike-as-inflation-broadens-beyond-3-202609181541",
-      "published": "2026-09-18T15:41:15+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound gives back UK sales pop as Oil shock returns",
-      "summary": "The Pound Sterling (GBP) retraces on Friday after reaching a daily high of 1.3375 on upbeat UK data, as headlines suggest that an Oil supply shock has sent crude prices higher and reignited investors' fears of high inflation. At the time of writing, the GBP/USD pair trades at 1.3356, down 0.03%.",
-      "link": "https://www.fxstreet.com/news/british-pound-gives-back-uk-sales-pop-as-oil-shock-returns-202609181527",
-      "published": "2026-09-18T15:27:35+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index Price Forecast: Technical setup favours further gains above 100",
-      "summary": "The US Dollar Index (DXY) climbs to a fresh seven-week high on Friday, supported by the Federal Reserve’s (Fed) hawkish interest rate hike on Wednesday. At the time of writing, the index trades around 100.40 and is on track to register a weekly gain of more than 1%.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-technical-setup-favours-further-gains-above-100-202609181516",
-      "published": "2026-09-18T15:16:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-      "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
-      "published": "2026-09-18T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-      "published": "2026-09-18T15:00:00+00:00",
-      "score": 1
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "What happened here?",
@@ -307,15 +235,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wjouz1/xauusd_indicators/",
       "published": "2026-09-18T12:29:31+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold outlook hinges on Oil prices and shifting Fed expectations",
-      "summary": "Gold (XAU/USD) loses momentum after nearing the $4,400 level on Friday as the Federal Reserve’s hawkish policy outlook keeps the US Dollar firmly supported, while a rebound in Oil prices and US Treasury yields adds pressure on the metal.",
-      "link": "https://www.fxstreet.com/news/gold-eyes-weekly-gain-but-hawkish-fed-outlook-limits-upside-202609181132",
-      "published": "2026-09-18T11:32:13+00:00",
-      "score": 6
     },
     {
       "source": "r/Forex",
@@ -363,24 +282,6 @@
       "score": 3
     },
     {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve issues FOMC statement",
-      "summary": "Federal Reserve issues FOMC statement",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-      "published": "2026-09-16T18:00:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-      "published": "2026-09-16T18:00:00+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "What's one rule you added after a painful loss that actually stuck?",
@@ -397,126 +298,14 @@
       "link": "https://www.reddit.com/r/Forex/comments/1whshi4/feedback_on_elite_forex_trades/",
       "published": "2026-09-16T09:37:15+00:00",
       "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
-      "published": "2026-09-04T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
-      "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
-      "published": "2026-08-27T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-      "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
-      "published": "2026-08-20T20:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
-      "published": "2026-08-20T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-      "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
-      "published": "2026-08-20T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
-      "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
-      "published": "2026-08-19T18:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "summary": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
-      "published": "2026-08-13T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
-      "summary": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
-      "published": "2026-08-04T20:30:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
-      "summary": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
-      "published": "2026-08-04T20:30:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
-      "summary": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
-      "published": "2026-08-04T20:30:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-      "summary": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm",
-      "published": "2026-07-31T14:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-      "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank &quot;insiders&quot;—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
-      "published": "2026-07-31T14:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
-      "published": "2026-07-30T15:00:00+00:00",
-      "score": 1
     }
   ],
   "errors": [
+    {
+      "source": "Federal Reserve",
+      "type": "rss",
+      "error": "failed to parse feed (<unknown>:2:0: syntax error)"
+    },
     {
       "source": "Kobeissi Letter",
       "type": "twitter",
