@@ -1,7 +1,232 @@
 {
-  "updated_at": "2026-09-21T13:43:24.632146+00:00",
-  "count": 61,
+  "updated_at": "2026-09-21T18:55:09.877285+00:00",
+  "count": 52,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Inflation keeps MAS tightening risk alive - Commerzbank",
+      "summary": "Commerzbank’s Henry Hao and Moses Lim highlight that Singapore’s August NODX growth was the strongest since 1998, driven by surging electronics and robust AI-related demand. They expect NODX to stay firm but moderate as base effects fade.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-inflation-keeps-mas-tightening-risk-alive-commerzbank-202609211851",
+      "published": "2026-09-21T18:51:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed's Musalem calls for more rate hikes",
+      "summary": "St. Louis Federal Reserve (Fed) President Alberto Musalem said interest rates likely need to rise further to tame inflation that is both demand- and supply-driven.",
+      "link": "https://www.fxstreet.com/news/feds-musalem-calls-for-more-rate-hikes-202609211846",
+      "published": "2026-09-21T18:46:03+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem: Core inflation may be running 1 percentage point above Fed's target.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9772383/Feds-Musalem-Core-inflation-may-be-running-1-percentage-point-above-Feds-target.aspx?xy=rss",
+      "published": "2026-09-21T18:39:58+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: AWS: xAI's Grok 4.6 now available in Amazon Bedrock - Blog. $AMZN $SPCX",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9772381/AWS-xAIs-Grok-46-now-available-in-Amazon-Bedrock---Blog-AMZN-SPCX.aspx?xy=rss",
+      "published": "2026-09-21T18:36:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem: Business contacts say they are planning on price increases closer to 3%.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9772357/Feds-Musalem-Business-contacts-say-they-are-planning-on-price-increases-closer-to-3.aspx?xy=rss",
+      "published": "2026-09-21T18:20:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem: Even when stripping out supply-related factors, inflation is still 'too high' at up to 3%.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9772356/Feds-Musalem-Even-when-stripping-out-supply-related-factors-inflation-is-still-too-high-at-up-to-3.aspx?xy=rss",
+      "published": "2026-09-21T18:20:40+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem: Better for rate hikes to be 'earlier and incremental rather than later and larger.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9772355/Feds-Musalem-Better-for-rate-hikes-to-be-earlier-and-incremental-rather-than-later-and-larger.aspx?xy=rss",
+      "published": "2026-09-21T18:20:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem: Commodity shock is more than just oil, includes base metals like copper.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9772354/Feds-Musalem-Commodity-shock-is-more-than-just-oil-includes-base-metals-like-copper.aspx?xy=rss",
+      "published": "2026-09-21T18:20:01+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem: Labor market stable around full employment and not a source of inflation pressure.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9772353/Feds-Musalem-Labor-market-stable-around-full-employment-and-not-a-source-of-inflation-pressure.aspx?xy=rss",
+      "published": "2026-09-21T18:19:50+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem: Interest rates likely need to rise further to tame inflation that is both demand and supply-driven.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9772352/Feds-Musalem-Interest-rates-likely-need-to-rise-further-to-tame-inflation-that-is-both-demand-and-supply-driven.aspx?xy=rss",
+      "published": "2026-09-21T18:19:41+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem: Without further policy restraint it is more likely inflation will remain substantially above 2% target 18 months from now.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9772351/Feds-Musalem-Without-further-policy-restraint-it-is-more-likely-inflation-will-remain-substantially-above-2-target-18-months-from-now.aspx?xy=rss",
+      "published": "2026-09-21T18:19:28+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "AUD/USD Price Forecast: Upside bias intact despite mixed momentum",
+      "summary": "AUD/USD reverses its earlier gains on Monday as a broadly firmer US Dollar (USD) and hawkish Federal Reserve (Fed) expectations cap the upside.",
+      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-upside-bias-intact-despite-mixed-momentum-202609211810",
+      "published": "2026-09-21T18:10:26+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: High-beta KRW needs foreign inflows – OCBC",
+      "summary": "OCBC’s Christopher Wong comments that USD/KRW eased as Korean equities rebounded and foreign investors briefly turned net buyers, but warns this may not mark a lasting shift.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-high-beta-krw-needs-foreign-inflows-ocbc-202609211809",
+      "published": "2026-09-21T18:09:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump praises Lockheed Martin - Truth Social. $LMT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9772341/Trump-praises-Lockheed-Martin---Truth-Social-LMT.aspx?xy=rss",
+      "published": "2026-09-21T18:09:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: Fedspeak takes centre stage alongside weekly ADP figures",
+      "summary": "The US Dollar (USD) has started the week on a positive footing, rapidly leaving behind two daily drops in a row and refocusing on the upper end of its recent range amid steady bets for extra rate hikes by the Fed and reignited geopolitical tensions.",
+      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-takes-centre-stage-alongside-weekly-adp-figures-202609211744",
+      "published": "2026-09-21T17:44:30+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump Participates in a Ribbon Cutting Ceremony - WATCH LIVE",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9772307/Trump-Participates-in-a-Ribbon-Cutting-Ceremony---WATCH-LIVE.aspx?xy=rss",
+      "published": "2026-09-21T17:35:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "BoC’s Macklem sees inflation drifting higher as uncertainty lingers",
+      "summary": "The Bank of Canada Governor, Tiff Macklem, said that he expects inflation to “drift up a little higher in the coming months,” and commented that “a new era of uncertainty is not going away any time soon,” as he spoke in Halifax.",
+      "link": "https://www.fxstreet.com/news/bocs-macklem-sees-inflation-drifting-higher-as-uncertainty-lingers-202609211702",
+      "published": "2026-09-21T17:02:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones Industrial Average edges up as Trump floats a meeting with Iran",
+      "summary": "The Dow Jones Industrial Average (DJIA) trades near 51,900 on Monday after its worst week since March. Crude Oil fell back under $100 after President Donald Trump told Fox News he'd probably be open to meeting Iran's President Masoud Pezeshkian at the United Nations General Assembly this week.",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-edges-up-as-trump-floats-a-meeting-with-iran-202609211644",
+      "published": "2026-09-21T16:44:24+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound loses grip as Fed hawks stay in charge",
+      "summary": "The Pound Sterling (GBP) retreats by some 0.17% on Monday as the US Dollar (USD) trades in the green following last week’s Federal Reserve (Fed) rate hike, which widened the interest rate differential between the US and the UK, while still-high energy prices put pressure on major central banks to ra",
+      "link": "https://www.fxstreet.com/news/british-pound-loses-grip-on-134-as-fed-hawks-stay-in-charge-202609211631",
+      "published": "2026-09-21T16:31:14+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "BoC’s Macklem: Rate decisions must look beyond initial Oil shock",
+      "summary": "Bank of Canada (BoC) Governor Tiff Macklem, speaking in Halifax, Nova Scotia, on Monday, offered a cautious assessment of the economy as higher energy prices and US tariffs create competing risks for inflation and growth.",
+      "link": "https://www.fxstreet.com/news/bocs-macklem-rate-decisions-must-look-beyond-initial-oil-shock-202609211609",
+      "published": "2026-09-21T16:09:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc advances after recent sell-off, SNB in focus",
+      "summary": "USD/CHF extends its pullback on Monday after climbing to 0.8263 last week, its highest level since May 2025.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-advances-against-us-dollar-after-recent-sell-off-snb-in-focus-202609211537",
+      "published": "2026-09-21T15:37:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Intervention risk high as 160 seen possible against US Dollar – ING",
+      "summary": "ING’s Francesco Pesole notes that a reported Bank of Japan rate check briefly pushed USD/JPY below 157.0 and suggests authorities may focus on the pace of moves rather than a specific level.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-intervention-risk-high-as-160-seen-possible-against-us-dollar-ing-202609211504",
+      "published": "2026-09-21T15:04:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen slides as Fed hawkishness, intervention fears grow",
+      "summary": "USD/JPY extends its advance on Monday and trades around 157.45 at the time of writing, up 0.36% on the day.",
+      "link": "https://www.fxstreet.com/news/apanese-yen-slides-as-fed-hawkishness-intervention-fears-grow-202609211459",
+      "published": "2026-09-21T14:59:21+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro struggles against US Dollar as hawkish Fed outlook weighs",
+      "summary": "EUR/USD trades with a downside bias on Monday as the US Dollar holds near recent highs, supported by expectations of additional Federal Reserve (Fed) interest rate hikes. Developments in the Middle East also remain in focus.",
+      "link": "https://www.fxstreet.com/news/euro-struggles-against-us-dollar-as-hawkish-fed-outlook-weighs-202609211444",
+      "published": "2026-09-21T14:44:35+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States: Midterm outcomes and policy paths – NBC",
+      "summary": "National Bank of Canada (NBC) strategist Angelo Katsoras analyzes how the 2026 United States (US) midterm elections could reshape policy under President Trump. He notes Democrats are favoured by high inflation, weak approval ratings and a strong generic ballot lead.",
+      "link": "https://www.fxstreet.com/news/united-states-midterm-outcomes-and-policy-paths-nbc-202609211417",
+      "published": "2026-09-21T14:17:02+00:00",
+      "score": 2
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -9,33 +234,6 @@
       "summary": "Standard Chartered economists Anubhuti Sahay and Saurav Anand highlight that India’s AI-enabling goods trade deficit has become the second-largest contributor to the country’s trade gap after Oil, overtaking Gold.",
       "link": "https://www.fxstreet.com/news/indian-rupee-ai-imports-add-pressure-against-us-dollar-standard-chartered-202609211339",
       "published": "2026-09-21T13:39:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: -57 mln<br />Nasdaq 100: -22 mln<br />Dow 30: -12 mln<br />Mag 7: -7 mln",
-      "link": "https://www.financialjuice.com/News/9771939/MOO-Imbalance.aspx?xy=rss",
-      "published": "2026-09-21T13:30:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Yemen's President requested US support for the government against the Houthis, but Trump made no pledge of military support - Two Sources",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771938/Yemens-President-requested-US-support-for-the-government-against-the-Houthis-but-Trump-made-no-pledge-of-military-support---Two-Sources.aspx?xy=rss",
-      "published": "2026-09-21T13:27:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump spoke via phone with Yemeni President Rashad Al-alimi on Sunday - Four Sources.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771937/Trump-spoke-via-phone-with-Yemeni-President-Rashad-Al-alimi-on-Sunday---Four-Sources.aspx?xy=rss",
-      "published": "2026-09-21T13:26:30+00:00",
       "score": 1
     },
     {
@@ -48,292 +246,13 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Googlebook ships October 4th in the US via Google Store and Best Buy $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771923/Googlebook-ships-October-4th-in-the-US-via-Google-Store-and-Best-Buy-GOOGL.aspx?xy=rss",
-      "published": "2026-09-21T13:03:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Google unveils $899-plus Googlebook AI laptops. $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771922/Google-unveils-899-plus-Googlebook-AI-laptops-GOOGL.aspx?xy=rss",
-      "published": "2026-09-21T13:02:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: Historically, US long rates are not particularly high; I don't think it reflects a loss of confidence in us.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771921/Feds-Goolsbee-Historically-US-long-rates-are-not-particularly-high-I-dont-think-it-reflects-a-loss-of-confidence-in-us.aspx?xy=rss",
-      "published": "2026-09-21T13:02:17+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: Without a summary of economic projections, the world will still be looking to understand officials' reaction functions.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771920/Feds-Goolsbee-Without-a-summary-of-economic-projections-the-world-will-still-be-looking-to-understand-officials-reaction-functions.aspx?xy=rss",
-      "published": "2026-09-21T13:02:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: The job of a central banker is not to respond to markets or the president, but to economic conditions.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771919/Feds-Goolsbee-The-job-of-a-central-banker-is-not-to-respond-to-markets-or-the-president-but-to-economic-conditions.aspx?xy=rss",
-      "published": "2026-09-21T13:01:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: We should be open to making the SEP more informative.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771916/Feds-Goolsbee-We-should-be-open-to-making-the-SEP-more-informative.aspx?xy=rss",
-      "published": "2026-09-21T13:01:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: Components of inflation will matter to the Fed's analysis, with services inflation not seen as tied to oil price shock but as a product of strong demand.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771912/Feds-Goolsbee-Components-of-inflation-will-matter-to-the-Feds-analysis-with-services-inflation-not-seen-as-tied-to-oil-price-shock-but-as-a-product-of-strong-demand.aspx?xy=rss",
-      "published": "2026-09-21T13:01:40+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: The Fed remains very credible, everyone takes the job extremely seriously.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771900/Feds-Goolsbee-The-Fed-remains-very-credible-everyone-takes-the-job-extremely-seriously.aspx?xy=rss",
-      "published": "2026-09-21T13:01:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: Business contacts say labor market is getting tighter, alternate measures tell the same story.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771898/Feds-Goolsbee-Business-contacts-say-labor-market-is-getting-tighter-alternate-measures-tell-the-same-story.aspx?xy=rss",
-      "published": "2026-09-21T13:01:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: Month-to-month job growth is not a good measure of health for the labor market when there is doubt about population growth due to immigration policies.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771897/Feds-Goolsbee-Month-to-month-job-growth-is-not-a-good-measure-of-health-for-the-labor-market-when-there-is-doubt-about-population-growth-due-to-immigration-policies.aspx?xy=rss",
-      "published": "2026-09-21T13:01:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: Current unemployment rate is pretty close to full employment.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771896/Feds-Goolsbee-Current-unemployment-rate-is-pretty-close-to-full-employment.aspx?xy=rss",
-      "published": "2026-09-21T13:01:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: The only choice the Fed has if supply shock inflation proves persistent is to reduce aggregate demand.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771895/Feds-Goolsbee-The-only-choice-the-Fed-has-if-supply-shock-inflation-proves-persistent-is-to-reduce-aggregate-demand.aspx?xy=rss",
-      "published": "2026-09-21T13:00:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: I am not thinking about any coming hikes as reversing last year's cuts.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771894/Feds-Goolsbee-I-am-not-thinking-about-any-coming-hikes-as-reversing-last-years-cuts.aspx?xy=rss",
-      "published": "2026-09-21T13:00:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: The Fed is now more in the action scenario given the mix of inflation pressures.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771893/Feds-Goolsbee-The-Fed-is-now-more-in-the-action-scenario-given-the-mix-of-inflation-pressures.aspx?xy=rss",
-      "published": "2026-09-21T13:00:39+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: District contacts are relaying concerns that sound like traditional demand overheating.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771892/Feds-Goolsbee-District-contacts-are-relaying-concerns-that-sound-like-traditional-demand-overheating.aspx?xy=rss",
-      "published": "2026-09-21T13:00:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: Inflation data earlier this year seemed to show supply shocks waning; now some of it is coming from demand.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9771888/Feds-Goolsbee-Inflation-data-earlier-this-year-seemed-to-show-supply-shocks-waning-now-some-of-it-is-coming-from-demand.aspx?xy=rss",
-      "published": "2026-09-21T13:00:23+00:00",
-      "score": 2
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "Canadian Dollar remains under pressure as hawkish Fed contrasts with steady BoC",
-      "summary": "USD/CAD holds firm near the 1.4000 psychological mark on Monday as the Federal Reserve’s (Fed) hawkish outlook and widening US-Canada interest-rate differentials keep the Canadian Dollar (CAD) on the back foot.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-as-hawkish-fed-contrasts-with-steady-boc-202609211253",
-      "published": "2026-09-21T12:53:51+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Oil-driven support as Fed seen hiking – ING",
-      "summary": "ING strategist Francesco Pesole notes the Dollar remains supported as ING now expects the Fed to deliver one final rate hike in December. Despite near-term upside risks for the Dollar, ING keeps a gradually negative longer-term view and anticipates lower energy prices in Q4.",
-      "link": "https://www.fxstreet.com/news/us-dollar-oil-driven-support-as-fed-seen-hiking-ing-202609211248",
-      "published": "2026-09-21T12:48:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: BoJ hike underwhelms as yields drive JPY against US Dollar – OCBC",
-      "summary": "OCBC’s Christopher Wong notes that the Japanese Yen (JPY) weakened after the BoJ’s 25 bp hike to 1.25% as limited guidance on further normalisation disappointed hawkish expectations.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-boj-hike-underwhelms-as-yields-drive-jpy-against-us-dollar-ocbc-202609211222",
-      "published": "2026-09-21T12:22:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Experts agree: Further US Dollar’s upside hinges on upcoming data and not hawkish Fed prospects",
-      "summary": "The US Dollar (USD) trades slightly higher on Monday as traders remain confident that the Federal Reserve (Fed) will hike interest rates again this year. At press time, the US Dollar Index (DXY), which tracks the Greenback’s value against six major currencies, trades 0.1% higher to near 100.30.",
-      "link": "https://www.fxstreet.com/news/experts-agree-further-us-dollars-upside-hinges-on-upcoming-data-and-not-hawkish-fed-prospects-202609211209",
-      "published": "2026-09-21T12:09:28+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price edges up as lower Oil, guarded Fed stance temper upside",
-      "summary": "Silver (XAG/USD) starts the week on a positive note, gaining 0.37% on Monday to trade around $66.50 at the time of writing. The precious metal manages to advance despite a stable US Dollar (USD), with the US Dollar Index (DXY) trading virtually unchanged around 100.25.",
-      "link": "https://www.fxstreet.com/news/silver-price-edges-up-as-lower-oil-guarded-fed-stance-temper-upside-202609211158",
-      "published": "2026-09-21T11:58:34+00:00",
-      "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "EUR/USD Price Forecasts: Bears remain in control with 1.1450 support eyed",
-      "summary": "The Euro (EUR) is consolidating last week’s decline against the US Dollar (USD) on Monday, with price action capped below 1.1500 and the seven-week low in the mid 1.1400s still on the bears’ radar.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecasts-bears-remain-in-control-with-11450-support-eyed-202609211158",
-      "published": "2026-09-21T11:58:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso: Sideways range against US Dollar intact – Rabobank",
-      "summary": "Rabobank's Christian Lawrence and Molly Schwartz expect USD/MXN to trade broadly between 17 and 18 over the next 12 months. They see room for both Fed and Banxico rate expectations to be repriced, with the timing of those adjustments likely to drive near-term volatility.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-sideways-range-against-us-dollar-intact-rabobank-202609211151",
-      "published": "2026-09-21T11:51:31+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/JPY Price Forecast: Momentum stabilizes, but lacks bullish conviction",
-      "summary": "GBP/JPY edges higher on Monday as the Japanese Yen (JPY) remains under pressure across the board in thin trading conditions. Japanese markets are closed until Wednesday for the country’s Silver Week holidays.",
-      "link": "https://www.fxstreet.com/news/gbp-jpy-price-forecast-momentum-stabilizes-but-lacks-bullish-conviction-202609211150",
-      "published": "2026-09-21T11:50:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar wavers near two-month lows despite a brighter market mood",
-      "summary": "The New Zealand Dollar (NZD) languishes just above two-and-a-half-month lows against the US Dollar (USD), despite a somewhat brighter market mood, as a sustained reversal in Oil prices has eased risk aversion on Monday.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-wavers-near-two-month-lows-despite-a-brighter-market-mood-202609211118",
-      "published": "2026-09-21T11:18:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Range-bound outlook with Fed headwinds – ING",
-      "summary": "ING’s commodities team reports Gold eased as markets digest the Federal Reserve’s first rate hike since 2023 and guidance for prolonged restrictive policy. They stress that higher rates remain a headwind, but ETF holdings at six‑month highs and ongoing central bank buying should cushion downside.",
-      "link": "https://www.fxstreet.com/news/gold-range-bound-outlook-with-fed-headwinds-ing-202609211116",
-      "published": "2026-09-21T11:16:01+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed’s Goolsbee: Demand, tariffs, energy, supply shocks all are fuelling inflation",
-      "summary": "Chicago Federal Reserve (Fed) Bank President Austan Goolsbee said at an Official Monetary and Financial Institutions Forum event on Monday that various factors including strong demand, tariffs, energy and supply shocks are fuelling United States (US) inflationary pressures.",
-      "link": "https://www.fxstreet.com/news/feds-goolsbee-demand-tariffs-energy-supply-shocks-all-are-fuelling-inflation-202609211113",
-      "published": "2026-09-21T11:13:18+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold struggles for direction as traders weigh Fed outlook and falling Oil prices",
+      "title": "Gold struggles near $4,350 as hawksih Fed outlook supports the Greenback",
       "summary": "Gold (XAU/USD) remains on the defensive on Monday, pausing a two-day winning streak as expectations of additional Federal Reserve (Fed) rate hikes and a firmer US Dollar (USD) limit the upside.",
       "link": "https://www.fxstreet.com/news/gold-starts-week-on-the-back-foot-as-us-dollar-holds-firm-oil-decline-limits-losses-202609211110",
       "published": "2026-09-21T11:10:59+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar edges higher on renewed RBA hike bets ahead of Bullock, jobs data",
-      "summary": "AUD/USD edges higher on Monday, trading around 0.7130 at the time of writing, up 0.06% on the day. The Australian Dollar (AUD) benefits mainly from strengthening expectations that the Reserve Bank of Australia (RBA) could raise interest rates again at its monetary policy meeting next week.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-on-renewed-rba-hike-bets-ahead-of-bullock-jobs-data-202609211044",
-      "published": "2026-09-21T10:44:44+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: Struggles to hold above 20-day EMA",
-      "summary": "Gold price (XAU/USD) is down 0.61% to near $4,350 during the European trading session on Monday. The yellow metal is under pressure as the US Dollar (USD) remains broadly firm amid solid expectations that the Federal Reserve (Fed) will hike interest rates again this year.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-struggles-to-hold-above-20-day-ema-202609211042",
-      "published": "2026-09-21T10:42:44+00:00",
-      "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc recovery halts with SNB monetary policy coming into focus",
-      "summary": "The Swiss Franc (CHF) nurses minor losses against the US Dollar (USD) to pare some of the previous two trading days’ recovery.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-recovery-halts-with-snb-monetary-policy-coming-into-focus-202609211026",
-      "published": "2026-09-21T10:26:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupeee gains due to further correction in oil prices",
-      "summary": "The Indian Rupee (INR) starts the week on a positive note against the US Dollar (USD). The USD/INR pair drops to near 95.75 as the Indian currency gains due to continuous support from correcting oil prices.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-starts-positive-as-oil-prices-fall-further-202609210526",
-      "published": "2026-09-21T05:26:10+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
