@@ -1,203 +1,194 @@
 {
-  "updated_at": "2026-09-22T06:15:42.019255+00:00",
-  "count": 46,
+  "updated_at": "2026-09-22T11:57:37.803966+00:00",
+  "count": 44,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US Dollar: Fed support seen fading – Commerzbank",
-      "summary": "Commerzbank’s Antje Praefcke notes that while the Federal Reserve’s (Fed) unanimous rate hike and hawkish tone have supported the Dollar, markets already discount further tightening of about 75 basis points by mid-2027.",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-support-seen-fading-commerzbank-202609220614",
-      "published": "2026-09-22T06:14:45+00:00",
+      "title": "EUR/GBP Price Forecast: 100-day SMA blocks recovery as momentum remains subdued",
+      "summary": "EUR/GBP edges higher on Tuesday as the British Pound (GBP) remains under pressure across the board, weighed by concerns over the UK’s deteriorating fiscal outlook and the Bank of England’s (BoE) reluctance to raise interest rates while several major central banks have moved toward tighter policy.",
+      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-100-day-sma-blocks-recovery-as-momentum-remains-subdued-202609221148",
+      "published": "2026-09-22T11:48:58+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro: Downtrend eyes 1.1400 support against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann keep a bearish bias on EUR/USD after the pair closed lower near 1.1465.",
-      "link": "https://www.fxstreet.com/news/euro-downtrend-eyes-11400-support-against-us-dollar-uob-202609220604",
-      "published": "2026-09-22T06:04:20+00:00",
+      "title": "Swiss Franc rallies on risk appetite while SNB threatens with FX intervention",
+      "summary": "The Swiss Franc (CHF) extended its recovery against the US Dollar (USD) on Tuesday, favoured by lower Oil prices amid hopes of a new round of US-Iran negotiations, which has prompted the Swiss National Bank (SNB) to launch an intervention warning.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-rallies-on-risk-appetite-while-snb-threatens-with-fx-intervention-202609221147",
+      "published": "2026-09-22T11:47:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Six-member Gulf bloc expected to meet Trump in New York Tuesday",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9773538/Six-member-Gulf-bloc-expected-to-meet-Trump-in-New-York-Tuesday.aspx?xy=rss",
+      "published": "2026-09-22T11:46:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Gulf states set to urge Trump to avoid any escalation with Iran",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9773535/Gulf-states-set-to-urge-Trump-to-avoid-any-escalation-with-Iran.aspx?xy=rss",
+      "published": "2026-09-22T11:46:04+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Canadian Dollar strengthens on rising oil prices ahead of potential US-Iran talks",
-      "summary": "The USD/CAD pair declines to around 1.4025 during the early European session on Tuesday. Nonetheless, the potential downside for the pair might be limited amid a hawkish stance of the US Federal Reserve (Fed).",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-on-rising-oil-prices-ahead-of-potential-us-iran-talks-202609220552",
-      "published": "2026-09-22T05:52:50+00:00",
-      "score": 2
+      "title": "US Dollar: Modestly stronger into year-end – OCBC",
+      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong highlight that the US Dollar (USD) stayed resilient despite improved risk appetite, supported by hawkish Federal Reserve (Fed) commentary that limited the drop in US front-end yields.",
+      "link": "https://www.fxstreet.com/news/us-dollar-modestly-stronger-into-year-end-ocbc-202609221145",
+      "published": "2026-09-22T11:45:37+00:00",
+      "score": 3
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "GBP/USD Price Forecast: Turns flat after breakdown below 1.3400",
-      "summary": "The British Pound (GBP) is 0.15% higher at around 1.3385 against the US Dollar (USD) during the European trading session on Tuesday. The GBP/USD pair gains as the US Dollar is slightly under pressure ahead of meeting between leaders from the United States (US) and Gulf nations.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-turns-flat-after-breakdown-below-13400-202609220550",
-      "published": "2026-09-22T05:50:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee gains as oil prices remain broadly in corrective phase",
-      "summary": "The Indian Rupee (INR) opens higher again versus the US Dollar (USD) on Tuesday. The USD/INR pair drops to near 95.65 as the Indian currency gains due to the consistent decline in oil prices.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-as-oil-prices-remain-broadly-in-corrective-phase-202609220544",
-      "published": "2026-09-22T05:44:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD holds losses near $66.00 amid Fed rate hike bets",
-      "summary": "Silver price (XAG/USD) inches lower after opening at a bullish gap, trading around $66.00 per troy ounce during Asian hours on Tuesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-holds-losses-near-6600-amid-fed-rate-hike-bets-202609220525",
-      "published": "2026-09-22T05:25:10+00:00",
+      "title": "Gold steadies on Iran diplomacy hopes, Fed outlook caps upside",
+      "summary": "Gold (XAU/USD) halts its intraday decline on Tuesday as traders weigh fresh Middle East headlines while the broader geopolitical backdrop remains tense. At the time of writing, XAU/USD trades around $4,315, after bouncing from a low of $4,291 during European trading hours.",
+      "link": "https://www.fxstreet.com/news/gold-steadies-on-iran-diplomacy-hopes-fed-outlook-caps-upside-202609221120",
+      "published": "2026-09-22T11:20:21+00:00",
       "score": 4
     },
     {
-      "source": "FXStreet",
+      "source": "FinancialJuice",
       "category": "news",
-      "title": "EUR/USD Price Forecast: Holds gains above 1.1450, but remains technically bearish below 100-day SMA",
-      "summary": "The EUR/USD pair trades in positive territory around 1.1475 during the early European session on Tuesday. The Euro (EUR) edges higher against the US Dollar (USD) amid improved risk sentiment as traders pinned their hopes on US-Iran talks.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-gains-above-11450-but-remains-technically-bearish-below-100-day-sma-202609220505",
-      "published": "2026-09-22T05:05:36+00:00",
+      "title": "FinancialJuice: Trump: US munitions stocks are not low, the US is building munitions at record levels",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9773480/Trump-US-munitions-stocks-are-not-low-the-US-is-building-munitions-at-record-levels.aspx?xy=rss",
+      "published": "2026-09-22T11:15:43+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "India Gold price today: Gold falls, according to FXStreet data",
-      "summary": "Gold prices fell in India on Tuesday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-falls-according-to-fxstreet-data-202609220435",
-      "published": "2026-09-22T04:35:24+00:00",
+      "title": "Japanese Yen: Overbought rally faces 158.40 cap – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/JPY remains supported after testing the 157.30 area, with short-term price action expected to stay within a 156.90–157.80 range.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-overbought-rally-faces-15840-cap-uob-202609221115",
+      "published": "2026-09-22T11:15:41+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Swiss Franc gains as US Dollar declines on increased risk appetite",
-      "summary": "USD/CHF loses ground for the fourth consecutive day, trading around 0.8200 during Asian hours on Tuesday.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-gains-as-us-dollar-declines-on-increased-risk-appetite-202609220430",
-      "published": "2026-09-22T04:30:21+00:00",
+      "title": "Japanese Yen recovers against US Dollar as oil prices correct sharply",
+      "summary": "The Japanese Yen (JPY) claws back its early losses and turns slightly positive against the US Dollar (USD) during the European trading session on Thursday, with the USD/JPY pair dropping 0.2% to near 157.00.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-against-us-dollar-on-hopes-of-us-iran-diplomacy-202609221052",
+      "published": "2026-09-22T10:52:16+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold struggles below $4,350 as hawkish Fed offsets sliding bond yields, softer USD",
-      "summary": "Gold (XAU/USD) attracts some sellers following a modest Asian session uptick on Tuesday and slides below $4,350 in the last hour, though the downside seems limited. The US Federal Reserve's (Fed) hawkish outlook is seen as a key factor undermining the non-yielding yellow metal.",
-      "link": "https://www.fxstreet.com/news/gold-struggles-to-lure-buyers-amid-hawkish-fed-counters-sliding-us-bond-yields-202609220419",
-      "published": "2026-09-22T04:19:16+00:00",
+      "title": "Canadian Dollar hesitates as Oil falls amid Hormuz reopening talks",
+      "summary": "The Canadian Dollar (CAD) trades practically flat against the US Dollar (USD) on Tuesday as the risk appetite triggered by Tehran’s proposal to reopen the Strait of Hormuz has offset the decline in Crude prices.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-hesitates-as-oil-falls-amid-hormuz-reopening-talks-202609221044",
+      "published": "2026-09-22T10:44:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South African Rand: SARB hike and hawkish tone – Commerzbank",
+      "summary": "Commerzbank’s Volkmar Baur expects the South African Reserve Bank (SARB) to deliver a 25 basis point rate hike after surprising markets by holding rates in July.",
+      "link": "https://www.fxstreet.com/news/south-african-rand-sarb-hike-and-hawkish-tone-commerzbank-202609221007",
+      "published": "2026-09-22T10:07:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold Price Forecast: XAU/USD approaches $4,300 after rejection at the $4,400 area",
+      "summary": "Gold (XAU/USD) trades lower for the second consecutive day on Tuesday, extending its decline to levels below $4,320 during the European session, as the recovery attempt from last week’s low was capped at $4,400.",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-approaches-4-300-after-rejection-at-the-4-400-area-202609220950",
+      "published": "2026-09-22T09:50:09+00:00",
+      "score": 3
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "6 US inflation mornings on gold 5m: first 15 minute ranges from $11.61 to $67.77",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I wanted a clean answer to a boring question: when the US inflation print hits at 8:30 ET, how wild is the first 15 minutes on gold, and is &quot;CPI always expands&quot; even true?</p> <p>Method: I loaded six recent US inflation mornings on XAUUSD 5m and stepped from the 8:30 candle through 8:40. I measured the high minus low across those three print candles, plu",
+      "link": "https://www.reddit.com/r/Forex/comments/1wn5164/6_us_inflation_mornings_on_gold_5m_first_15/",
+      "published": "2026-09-22T09:48:43+00:00",
       "score": 6
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: RBA Governor Bullock: inflation risks emerging from Middle East, strong domestic demand",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9772939/RBA-Governor-Bullock-inflation-risks-emerging-from-Middle-East-strong-domestic-demand.aspx?xy=rss",
-      "published": "2026-09-22T03:56:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBA governor Bullock: Neutral rates rising globally, driving up real bond yields",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9772936/RBA-governor-Bullock-Neutral-rates-rising-globally-driving-up-real-bond-yields.aspx?xy=rss",
-      "published": "2026-09-22T03:48:12+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBA Governor Bullock: unemployment at 4.5% to 5.0% likely to reduce inflation pressure",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9772922/RBA-Governor-Bullock-unemployment-at-45-to-50-likely-to-reduce-inflation-pressure.aspx?xy=rss",
-      "published": "2026-09-22T03:33:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: South Korea Industry Ministry: Trump to make final call on US investment plan, funds to be transferred within 45 days if requested by US - Yonhap",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9772913/South-Korea-Industry-Ministry-Trump-to-make-final-call-on-US-investment-plan-funds-to-be-transferred-within-45-days-if-requested-by-US---Yonhap.aspx?xy=rss",
-      "published": "2026-09-22T03:23:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: RBA Governor Bullock: policy must address second-round inflation effects",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9772911/RBA-Governor-Bullock-policy-must-address-second-round-inflation-effects.aspx?xy=rss",
-      "published": "2026-09-22T03:23:03+00:00",
+      "title": "Hungarian Forint: NBH stance supports carry appeal – ING",
+      "summary": "ING’s Frantisek Taborsky expects the National Bank of Hungary to pause its mini easing cycle at 5.50% and possibly outline a two-step cut in its inflation target from 3.0% to 2.0%.",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-nbh-stance-supports-carry-appeal-ing-202609220947",
+      "published": "2026-09-22T09:47:43+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "RBA’s Bullock: Supply shocks are difficult for monetary policy to deal with",
-      "summary": "Reserve Bank of Australia (RBA) Governor Michele Bullock said in a statement released during the Asian trading session on Tuesday that supply shocks are difficult for monetary policy to deal with. Bullock added, “Policy needs to deal with second-round effects on inflation.”",
-      "link": "https://www.fxstreet.com/news/rbas-bullock-supply-shocks-are-difficult-for-monetary-policy-to-deal-with-202609220321",
-      "published": "2026-09-22T03:21:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index Price Forecast: Needs a decisive move above 100.56 for fresh upside leg",
-      "summary": "The US Dollar (USD) holds onto previous day’s gains on Tuesday, with the US Dollar Index (DXY) trading firmly around 100.40.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-needs-a-decisive-move-above-10056-for-fresh-upside-leg-202609220317",
-      "published": "2026-09-22T03:17:10+00:00",
+      "title": "US Dollar: Fed tightening keeps upside risks – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is extending gains after the latest hawkish Federal Reserve (Fed) hike, even as reopening prospects for the Strait of Hormuz temper the move and weigh on Oil.",
+      "link": "https://www.fxstreet.com/news/us-dollar-fed-tightening-keeps-upside-risks-bbh-202609220929",
+      "published": "2026-09-22T09:29:32+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Australian Dollar drifts higher above 0.7100 after RBA's Bullock speech",
-      "summary": "The AUD/USD pair gains ground to near 0.7120 during the early European trading hours on Tuesday. The Australian Dollar (AUD) strengthens against the US Dollar (USD) following Reserve Bank of Australia (RBA) Governor Michele Bullock’s speech.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-softens-on-hawkish-fed-outlook-202609220255",
-      "published": "2026-09-22T02:55:23+00:00",
+      "title": "New Zealand Dollar: Hawkish RBNZ pricing supports kiwi – MUFG",
+      "summary": "MUFG's Lee Hardman highlights the New Zealand Dollar (NZD) as the main overnight mover, boosted by hawkish guidance from Reserve Bank of New Zealand (RBNZ) Governor Breman. Her comments on higher Oil-driven inflation have reinforced expectations for a third consecutive 25 bps hike next month.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-hawkish-rbnz-pricing-supports-kiwi-mufg-202609220915",
+      "published": "2026-09-22T09:15:06+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "RBNZ’s Breman: Higher oil prices point to firmer near-term inflation",
-      "summary": "Reserve Bank of New Zealand (RBNZ) Governor Anna Breman said on Tuesday that if higher oil prices persist, they are expected to result in somewhat higher near-term inflation than assumed in the September statement.",
-      "link": "https://www.fxstreet.com/news/rbnzs-breman-higher-oil-prices-point-to-firmer-near-term-inflation-202609220249",
-      "published": "2026-09-22T02:49:25+00:00",
+      "title": "United States Dollar Index (DXY) eases from July 30 high as Iran offers to reopen Hormuz",
+      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, retreats slightly after hitting a fresh high since July 30 during the early European session on Tuesday. The index, however, lacks follow-through and currently trades just below mid-100.00s, unchanged for the day.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-eases-from-july-30-high-as-iran-offers-to-reopen-hormuz-202609220905",
+      "published": "2026-09-22T09:05:18+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound consolidates vs USD; bearish bias remains amid divergent Fed-BoE outlook",
-      "summary": "The GBP/USD pair consolidates above mid-1.3300s during the Asian session on Tuesday and remains within striking distance of its lowest level since July 30, touched last week.",
-      "link": "https://www.fxstreet.com/news/british-pound-consolidates-vs-usd-bearish-bias-remains-amid-divergent-fed-boe-outlook-202609220220",
-      "published": "2026-09-22T02:20:38+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar slips amid gradual RBNZ rate hike outlook, geopolitical tensions",
-      "summary": "NZD/USD extends its losing streak for the third consecutive day, trading around 0.5700 during the Asian hours on Tuesday.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slips-amid-gradual-rbnz-rate-hike-outlook-geopolitical-tensions-202609220218",
-      "published": "2026-09-22T02:18:06+00:00",
+      "title": "Australian Dollar: Consolidation continues below resistance against US Dollar - UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann see AUD/USD consolidating around 0.7120 after a brief spike to 0.7140. Intraday price action is viewed as part of a 0.7105–0.7135 range.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-consolidation-continues-below-resistance-against-us-dollar-uob-202609220859",
+      "published": "2026-09-22T08:59:12+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Japanese Yen weakens on BoJ's lack of hawkish guidance, eyes on potential intervention",
-      "summary": "The USD/JPY pair gathers strength to around 157.55 during the early trading hours on Tuesday. A lack of explicitly hawkish guidance from the Bank of Japan (BoJ) after the rate hike last week undermines the Japanese Yen (JPY) against the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/japanese-yen-weakens-on-bojs-lack-of-hawkish-guidance-eyes-on-potential-intervention-202609220205",
-      "published": "2026-09-22T02:05:20+00:00",
+      "title": "Euro hits fresh seven-week lows as German political uncertainty offsets risk-on mood",
+      "summary": "The Euro (EUR) is failing to draw any support from the moderate risk appetite triggered by the recent pullback in Oil prices and extends losses against the US Dollar (USD) on Tuesday, hitting fresh seven-week lows below 1.1450.",
+      "link": "https://www.fxstreet.com/news/euro-hits-fresh-seven-week-lows-as-german-political-uncertainty-offsets-risk-on-mood-202609220849",
+      "published": "2026-09-22T08:49:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD plummets below $65 on higher-for-longer Fed interest rates narrative",
+      "summary": "Silver price (XAG/USD) is down 1.75% to near $64.85 during the European trading session on Tuesday. The white metal is under severe selling pressure as Federal Reserve (Fed) officials warn that strong demand is also fuelling upside inflation risks alongwith higher oil prices.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plummets-below-65-on-higher-for-longer-fed-interest-rates-narrative-202609220844",
+      "published": "2026-09-22T08:44:34+00:00",
+      "score": 7
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee gains sharply as US-Iran diplomacy hopes pressure oil prices",
+      "summary": "The Indian Rupee (INR) rises significantly against the US Dollar (USD) on Tuesday.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gains-as-oil-prices-remain-broadly-in-corrective-phase-202609220544",
+      "published": "2026-09-22T05:44:10+00:00",
       "score": 1
     },
     {
@@ -253,15 +244,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wl21d1/need_to_be_told_the_truth/",
       "published": "2026-09-20T00:18:42+00:00",
       "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Day 12 | $100K FTMO Challenge",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wk0w9b/day_12_100k_ftmo_challenge/\"> <img alt=\"Day 12 | $100K FTMO Challenge\" src=\"https://preview.redd.it/sy5sirc35cqh1.png?width=140&amp;height=90&amp;auto=webp&amp;s=b7613998f7bf0b89fe67c03903ff4f9e52758eef\" title=\"Day 12 | $100K FTMO Challenge\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>It was a rough week with some bi",
-      "link": "https://www.reddit.com/r/Forex/comments/1wk0w9b/day_12_100k_ftmo_challenge/",
-      "published": "2026-09-18T20:06:21+00:00",
-      "score": 3
     },
     {
       "source": "Federal Reserve",
