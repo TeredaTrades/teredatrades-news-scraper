@@ -1,114 +1,249 @@
 {
-  "updated_at": "2026-09-22T11:57:37.803966+00:00",
-  "count": 44,
+  "updated_at": "2026-09-22T16:47:08.355367+00:00",
+  "count": 50,
   "items": [
     {
-      "source": "FXStreet",
+      "source": "FinancialJuice",
       "category": "news",
-      "title": "EUR/GBP Price Forecast: 100-day SMA blocks recovery as momentum remains subdued",
-      "summary": "EUR/GBP edges higher on Tuesday as the British Pound (GBP) remains under pressure across the board, weighed by concerns over the UK’s deteriorating fiscal outlook and the Bank of England’s (BoE) reluctance to raise interest rates while several major central banks have moved toward tighter policy.",
-      "link": "https://www.fxstreet.com/news/eur-gbp-price-forecast-100-day-sma-blocks-recovery-as-momentum-remains-subdued-202609221148",
-      "published": "2026-09-22T11:48:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc rallies on risk appetite while SNB threatens with FX intervention",
-      "summary": "The Swiss Franc (CHF) extended its recovery against the US Dollar (USD) on Tuesday, favoured by lower Oil prices amid hopes of a new round of US-Iran negotiations, which has prompted the Swiss National Bank (SNB) to launch an intervention warning.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-rallies-on-risk-appetite-while-snb-threatens-with-fx-intervention-202609221147",
-      "published": "2026-09-22T11:47:54+00:00",
+      "title": "FinancialJuice: Trump: I think Burnham is a natural businessperson, he gets it.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9774027/Trump-I-think-Burnham-is-a-natural-businessperson-he-gets-it.aspx?xy=rss",
+      "published": "2026-09-22T16:46:26+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Six-member Gulf bloc expected to meet Trump in New York Tuesday",
+      "title": "FinancialJuice: UK's PM Burnham Tells Trump: We are ready to play our part in the Middle East.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9773538/Six-member-Gulf-bloc-expected-to-meet-Trump-in-New-York-Tuesday.aspx?xy=rss",
-      "published": "2026-09-22T11:46:54+00:00",
+      "link": "https://www.financialjuice.com/News/9774026/UKs-PM-Burnham-Tells-Trump-We-are-ready-to-play-our-part-in-the-Middle-East.aspx?xy=rss",
+      "published": "2026-09-22T16:46:15+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Gulf states set to urge Trump to avoid any escalation with Iran",
+      "title": "FinancialJuice: Fed bids for 2-year notes total $10.4 bln.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9773535/Gulf-states-set-to-urge-Trump-to-avoid-any-escalation-with-Iran.aspx?xy=rss",
-      "published": "2026-09-22T11:46:04+00:00",
+      "link": "https://www.financialjuice.com/News/9774024/Fed-bids-for-2-year-notes-total-104-bln.aspx?xy=rss",
+      "published": "2026-09-22T16:45:44+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US Dollar: Modestly stronger into year-end – OCBC",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong highlight that the US Dollar (USD) stayed resilient despite improved risk appetite, supported by hawkish Federal Reserve (Fed) commentary that limited the drop in US front-end yields.",
-      "link": "https://www.fxstreet.com/news/us-dollar-modestly-stronger-into-year-end-ocbc-202609221145",
-      "published": "2026-09-22T11:45:37+00:00",
+      "title": "British Pound sinks as USD shrugs off Hormuz reopening hopes",
+      "summary": "The Pound Sterling dives over 0.17% even though newswires reported Tehran’s intention to reopen the Strait of Hormuz, if the United States meets certain conditions. The GBP/USD trades at 1.3343 after peaking at 1.3387.",
+      "link": "https://www.fxstreet.com/news/british-pound-sinks-as-usd-shrugs-off-hormuz-reopening-hopes-202609221639",
+      "published": "2026-09-22T16:39:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Anthropic Launches Claude Opus 5.5, Sonnet and Haiku 5.5 to Follow",
+      "summary": "<div><ul><li>Anthropic introduces Claude Opus 5.5, available across all platforms including AWS, Google Cloud and Microsoft Azure</li><li>Opus 5.5 priced at $4 per million input tokens and $20 per million output tokens</li><li>Anthropic: Opus 5.5 performs at the level of Claude Fable 5.1 on most workloads while costing around 40% less to run than Opus 5</li><li>Anthropic increases five-hour usage ",
+      "link": "https://www.financialjuice.com/News/9774009/Anthropic-Launches-Claude-Opus-55-Sonnet-and-Haiku-55-to-Follow.aspx?xy=rss",
+      "published": "2026-09-22T16:31:31+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Apple Developing Screenless Fitness Tracker to Compete With Whoop, Oura and Garmin $AAPL",
+      "summary": "<div><ul><li>Apple has been working on a screenless wearable device for several months</li><li>Device would compete with fitness and health trackers from Whoop, Oura and Garmin</li><li>Apple has not yet decided whether to release the device</li></ul></div>",
+      "link": "https://www.financialjuice.com/News/9773995/Apple-Developing-Screenless-Fitness-Tracker-to-Compete-With-Whoop-Oura-and-Garmin-AAPL.aspx?xy=rss",
+      "published": "2026-09-22T16:21:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones Industrial Average drops from a weekly high as bank shares slide",
+      "summary": "The Dow Jones Industrial Average rose to its highest level since September 14 before the opening bell, then turned lower once trading started in New York. It trades near 51,800, below Monday's close. The NASDAQ Composite tested record highs and the S&amp;P 500 is barely changed.",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-drops-from-a-weekly-high-as-bank-shares-slide-202609221609",
+      "published": "2026-09-22T16:09:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta is testing a 'human concierge' for its new personal agent Muse - Internal company posts",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9773958/Meta-is-testing-a-human-concierge-for-its-new-personal-agent-Muse---Internal-company-posts.aspx?xy=rss",
+      "published": "2026-09-22T15:59:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: President Trump Participates in a Bilateral Meeting with the Prime Minister of the United Kingdom",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9773957/President-Trump-Participates-in-a-Bilateral-Meeting-with-the-Prime-Minister-of-the-United-Kingdom.aspx?xy=rss",
+      "published": "2026-09-22T15:57:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD strength",
+      "summary": "USD/CAD gains 0.27% on Tuesday and trades around 1.4070 at the time of writing, supported by weakness in the Canadian Dollar (CAD).",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-oil-slump-dovish-boc-outlook-underpin-usd-strength-202609221557",
+      "published": "2026-09-22T15:57:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fitch Ratings: World growth holds up, but real interest rates rise.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9773955/Fitch-Ratings-World-growth-holds-up-but-real-interest-rates-rise.aspx?xy=rss",
+      "published": "2026-09-22T15:55:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump concludes the Trilateral Signing Event.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9773924/Trump-concludes-the-Trilateral-Signing-Event.aspx?xy=rss",
+      "published": "2026-09-22T15:42:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump signs the security agreement with Denmark and Greenland.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9773923/Trump-signs-the-security-agreement-with-Denmark-and-Greenland.aspx?xy=rss",
+      "published": "2026-09-22T15:39:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: Recovery stalls below key moving averages",
+      "summary": "USD/JPY trades flat on Tuesday as the Japanese Yen (JPY) holds firm in thin holiday trading during Japan’s Silver Week. However, a broadly stronger US Dollar (USD) keeps the Yen’s gains in check. At the time of writing, USD/JPY trades around 157.46.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-recovery-stalls-below-key-moving-averages-202609221538",
+      "published": "2026-09-22T15:38:53+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Danish Prime minister on Trump's Greenland deal: Today we are signing a deal that can last forever.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9773921/Danish-Prime-minister-on-Trumps-Greenland-deal-Today-we-are-signing-a-deal-that-can-last-forever.aspx?xy=rss",
+      "published": "2026-09-22T15:33:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Bank of Canada: Slack delays hikes despite crude shock – NBC",
+      "summary": "National Bank of Canada's Ethan Currie notes that while oil-driven inflation risks have increased, the Bank of Canada is likely to remain on hold in October as domestic slack and trade uncertainty continue to weigh on the economic outlook.",
+      "link": "https://www.fxstreet.com/news/bank-of-canada-slack-delays-hikes-despite-crude-shock-nbc-202609221506",
+      "published": "2026-09-22T15:06:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Trump sees post-election Iran deal, calls for pressure to stay",
+      "summary": "US President Donald Trump said at the UN General Assembly that “we must be united in maintaining pressure on Iran,” adding that he believes that the US and Iran will strike a deal following the US elections.",
+      "link": "https://www.fxstreet.com/news/trump-sees-post-election-iran-deal-calls-for-pressure-to-stay-202609221502",
+      "published": "2026-09-22T15:02:52+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "United States: September inflation profile – TD Securities",
+      "summary": "TD Securities economists Oscar Munoz and Eli Nir provide an early projection for United States (US) September Consumer Price Index (CPI , expecting Headline CPI to rise 0.54% m/m, driven mainly by an almost 8% jump in gasoline and firmer food prices.",
+      "link": "https://www.fxstreet.com/news/united-states-september-inflation-profile-td-securities-202609221456",
+      "published": "2026-09-22T14:56:06+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: USD strength keeps CAD weakness in focus - Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note that the Canadian Dollar (CAD) is largely unchanged, with Governor Macklem’s comments leaving the Bank of Canada (BoC) outlook broadly consistent with the latest policy statement.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-usd-strength-keeps-cad-weakness-in-focus-scotiabank-202609221427",
+      "published": "2026-09-22T14:27:11+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Collins: More restrictive policy should help inflation return to 2%",
+      "summary": "Boston Federal Reserve (Fed) President Susan Collins said in a LinkedIn post on Tuesday that she supported last week’s interest-rate hike and sees a somewhat more restrictive policy stance as appropriate to bring inflation sustainably back to the Fed's 2% target.",
+      "link": "https://www.fxstreet.com/news/feds-collins-more-restrictive-policy-should-help-inflation-return-to-2-202609221422",
+      "published": "2026-09-22T14:22:30+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Risk sentiment improved and Oil prices fell: Why the US Dollar is still holding firm",
+      "summary": "The US Dollar (USD) remains on a solid footing following a hawkish Federal Reserve (Fed) interest rate decision and persistent hawkish rhetoric from Fed officials.",
+      "link": "https://www.fxstreet.com/news/risk-sentiment-improved-and-oil-prices-fell-why-the-us-dollar-is-still-holding-firm-202609221420",
+      "published": "2026-09-22T14:20:07+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro remains cautious as Middle East headlines, Fed outlook drive sentiment",
+      "summary": "EUR/USD is little changed on Tuesday as the US Dollar (USD) gives back earlier gains following fresh diplomatic signals surrounding the war between the United States (US) and Iran.",
+      "link": "https://www.fxstreet.com/news/euro-remains-cautious-as-middle-east-headlines-fed-outlook-drive-sentiment-202609221411",
+      "published": "2026-09-22T14:11:27+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver edges lower as demand-led inflation keeps Fed tightening risks in focus",
+      "summary": "Silver (XAG/USD) declines 0.38% on Tuesday and trades around $65.85 at the time of writing.",
+      "link": "https://www.fxstreet.com/news/silver-edges-lower-as-demand-led-inflation-keeps-fed-tightening-risks-in-focus-202609221407",
+      "published": "2026-09-22T14:07:03+00:00",
+      "score": 5
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "XAUUSD SETUP",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wn9sl6/xauusd_setup/\"> <img alt=\"XAUUSD SETUP\" src=\"https://preview.redd.it/nj1magztr2rh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=30cf6de834f71adbee6e68eb4c8a7e2e0f5f5ba2\" title=\"XAUUSD SETUP\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>XAUUSD rebounded from key support at 4318 but is now approaching a strong resi",
+      "link": "https://www.reddit.com/r/Forex/comments/1wn9sl6/xauusd_setup/",
+      "published": "2026-09-22T13:39:12+00:00",
       "score": 3
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold steadies on Iran diplomacy hopes, Fed outlook caps upside",
-      "summary": "Gold (XAU/USD) halts its intraday decline on Tuesday as traders weigh fresh Middle East headlines while the broader geopolitical backdrop remains tense. At the time of writing, XAU/USD trades around $4,315, after bouncing from a low of $4,291 during European trading hours.",
+      "title": "Bank of England: Modest insurance tightening path – Deutsche Bank",
+      "summary": "Deutsche Bank Research’s UK economists Sanjay Raja and Maui Brennan have shifted their BoE base case from no hikes to two 25bp moves, in November and February. They argue Bank Rate is already restrictive, inflation is largely energy-driven, and second‑round effects remain limited.",
+      "link": "https://www.fxstreet.com/news/bank-of-england-modest-insurance-tightening-path-deutsche-bank-202609221320",
+      "published": "2026-09-22T13:20:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar steadies as Middle East diplomacy takes focus",
+      "summary": "AUD/USD trims part of its earlier losses on Tuesday as traders assess fresh diplomatic signals surrounding the war between the United States (US) and Iran, weighing on the US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/australian-dollar-steadies-as-middle-east-diplomacy-takes-focus-202609221255",
+      "published": "2026-09-22T12:55:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold consolidates as Iran diplomacy hopes clash with hawkish Fed expectations",
+      "summary": "Gold (XAU/USD) consolidates on Tuesday as traders weigh fresh Middle East headlines while the broader geopolitical backdrop remains tense. At the time of writing, XAU/USD trades around $4,328 after rebounding from an intraday low of $4,291 during European trading hours.",
       "link": "https://www.fxstreet.com/news/gold-steadies-on-iran-diplomacy-hopes-fed-outlook-caps-upside-202609221120",
       "published": "2026-09-22T11:20:21+00:00",
       "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: US munitions stocks are not low, the US is building munitions at record levels",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9773480/Trump-US-munitions-stocks-are-not-low-the-US-is-building-munitions-at-record-levels.aspx?xy=rss",
-      "published": "2026-09-22T11:15:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Overbought rally faces 158.40 cap – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/JPY remains supported after testing the 157.30 area, with short-term price action expected to stay within a 156.90–157.80 range.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-overbought-rally-faces-15840-cap-uob-202609221115",
-      "published": "2026-09-22T11:15:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen recovers against US Dollar as oil prices correct sharply",
-      "summary": "The Japanese Yen (JPY) claws back its early losses and turns slightly positive against the US Dollar (USD) during the European trading session on Thursday, with the USD/JPY pair dropping 0.2% to near 157.00.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-against-us-dollar-on-hopes-of-us-iran-diplomacy-202609221052",
-      "published": "2026-09-22T10:52:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar hesitates as Oil falls amid Hormuz reopening talks",
-      "summary": "The Canadian Dollar (CAD) trades practically flat against the US Dollar (USD) on Tuesday as the risk appetite triggered by Tehran’s proposal to reopen the Strait of Hormuz has offset the decline in Crude prices.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-hesitates-as-oil-falls-amid-hormuz-reopening-talks-202609221044",
-      "published": "2026-09-22T10:44:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "South African Rand: SARB hike and hawkish tone – Commerzbank",
-      "summary": "Commerzbank’s Volkmar Baur expects the South African Reserve Bank (SARB) to deliver a 25 basis point rate hike after surprising markets by holding rates in July.",
-      "link": "https://www.fxstreet.com/news/south-african-rand-sarb-hike-and-hawkish-tone-commerzbank-202609221007",
-      "published": "2026-09-22T10:07:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold Price Forecast: XAU/USD approaches $4,300 after rejection at the $4,400 area",
-      "summary": "Gold (XAU/USD) trades lower for the second consecutive day on Tuesday, extending its decline to levels below $4,320 during the European session, as the recovery attempt from last week’s low was capped at $4,400.",
-      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-approaches-4-300-after-rejection-at-the-4-400-area-202609220950",
-      "published": "2026-09-22T09:50:09+00:00",
-      "score": 3
     },
     {
       "source": "r/Forex",
@@ -118,78 +253,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wn5164/6_us_inflation_mornings_on_gold_5m_first_15/",
       "published": "2026-09-22T09:48:43+00:00",
       "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Hungarian Forint: NBH stance supports carry appeal – ING",
-      "summary": "ING’s Frantisek Taborsky expects the National Bank of Hungary to pause its mini easing cycle at 5.50% and possibly outline a two-step cut in its inflation target from 3.0% to 2.0%.",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-nbh-stance-supports-carry-appeal-ing-202609220947",
-      "published": "2026-09-22T09:47:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Fed tightening keeps upside risks – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is extending gains after the latest hawkish Federal Reserve (Fed) hike, even as reopening prospects for the Strait of Hormuz temper the move and weigh on Oil.",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-tightening-keeps-upside-risks-bbh-202609220929",
-      "published": "2026-09-22T09:29:32+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar: Hawkish RBNZ pricing supports kiwi – MUFG",
-      "summary": "MUFG's Lee Hardman highlights the New Zealand Dollar (NZD) as the main overnight mover, boosted by hawkish guidance from Reserve Bank of New Zealand (RBNZ) Governor Breman. Her comments on higher Oil-driven inflation have reinforced expectations for a third consecutive 25 bps hike next month.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-hawkish-rbnz-pricing-supports-kiwi-mufg-202609220915",
-      "published": "2026-09-22T09:15:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index (DXY) eases from July 30 high as Iran offers to reopen Hormuz",
-      "summary": "The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, retreats slightly after hitting a fresh high since July 30 during the early European session on Tuesday. The index, however, lacks follow-through and currently trades just below mid-100.00s, unchanged for the day.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-dxy-eases-from-july-30-high-as-iran-offers-to-reopen-hormuz-202609220905",
-      "published": "2026-09-22T09:05:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Consolidation continues below resistance against US Dollar - UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann see AUD/USD consolidating around 0.7120 after a brief spike to 0.7140. Intraday price action is viewed as part of a 0.7105–0.7135 range.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-consolidation-continues-below-resistance-against-us-dollar-uob-202609220859",
-      "published": "2026-09-22T08:59:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro hits fresh seven-week lows as German political uncertainty offsets risk-on mood",
-      "summary": "The Euro (EUR) is failing to draw any support from the moderate risk appetite triggered by the recent pullback in Oil prices and extends losses against the US Dollar (USD) on Tuesday, hitting fresh seven-week lows below 1.1450.",
-      "link": "https://www.fxstreet.com/news/euro-hits-fresh-seven-week-lows-as-german-political-uncertainty-offsets-risk-on-mood-202609220849",
-      "published": "2026-09-22T08:49:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD plummets below $65 on higher-for-longer Fed interest rates narrative",
-      "summary": "Silver price (XAG/USD) is down 1.75% to near $64.85 during the European trading session on Tuesday. The white metal is under severe selling pressure as Federal Reserve (Fed) officials warn that strong demand is also fuelling upside inflation risks alongwith higher oil prices.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plummets-below-65-on-higher-for-longer-fed-interest-rates-narrative-202609220844",
-      "published": "2026-09-22T08:44:34+00:00",
-      "score": 7
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee gains sharply as US-Iran diplomacy hopes pressure oil prices",
-      "summary": "The Indian Rupee (INR) rises significantly against the US Dollar (USD) on Tuesday.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gains-as-oil-prices-remain-broadly-in-corrective-phase-202609220544",
-      "published": "2026-09-22T05:44:10+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -234,15 +297,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wlo9xi/eurusd_short_macro_swing_setup/\"> <img alt=\"EUR/USD SHORT — Macro Swing Setup\" src=\"https://external-preview.redd.it/Dz8xWfrsUSaAmhuy4FmoN5Z9asvywZ5jXtRa2uf-K_U.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=13a867b583642e14520a61d56947d7184c4dde5e\" title=\"EUR/USD SHORT — Macro Swing Setup\" /> </a> </td><td> <!-- SC_OFF --",
       "link": "https://www.reddit.com/r/Forex/comments/1wlo9xi/eurusd_short_macro_swing_setup/",
       "published": "2026-09-20T18:10:50+00:00",
-      "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Need to be told the truth",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wl21d1/need_to_be_told_the_truth/\"> <img alt=\"Need to be told the truth\" src=\"https://preview.redd.it/x3f3owx6jkqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8fd69b2dc1ae5d6f68e642662be74c69e5134185\" title=\"Need to be told the truth\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I’m 18M and have been really into tradi",
-      "link": "https://www.reddit.com/r/Forex/comments/1wl21d1/need_to_be_told_the_truth/",
-      "published": "2026-09-20T00:18:42+00:00",
       "score": 2
     },
     {
