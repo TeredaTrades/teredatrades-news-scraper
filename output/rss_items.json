@@ -1,15 +1,123 @@
 {
-  "updated_at": "2026-09-22T20:01:56.772757+00:00",
-  "count": 57,
+  "updated_at": "2026-09-22T22:57:15.098298+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The New Zealand Dollar dips to a new low and bounces as Crude Oil gets cheaper",
+      "summary": "Four weeks of selling have taken NZD/USD from just under 0.6000 to its lowest since early July. On Tuesday the pair dipped under 0.5700, then climbed back into the 0.5700 to 0.5800 range it has traded in since September 16, and it's trading in the lower half of that range.",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-dips-to-a-new-low-and-bounces-as-crude-oil-gets-cheaper-202609222254",
+      "published": "2026-09-22T22:54:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar remains subdued as Fed and RBA hawks collide",
+      "summary": "The Aussie Dollar is poised to end Tuesday’s session unchanged versus the Greenback amid renewed hopes for an end of the Middle East conflict, while Federal Reserve officials struck a hawkish tone in their speeches. The AUD/USD trades at 0.7114, near Tuesday’s opening price.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-subdued-as-fed-and-rba-hawks-collide-202609222249",
+      "published": "2026-09-22T22:49:21+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Japanese Yen spikes and unwinds as Iran offers to reopen Hormuz",
+      "summary": "Cheaper Crude Oil should help the Yen, since Japan buys almost all of its Crude Oil abroad, and on Tuesday it helped only briefly. USD/JPY dropped close to 157.00 after reports that Iran has offered to reopen the Strait of Hormuz, then climbed back to trade near 157.50.",
+      "link": "https://www.fxstreet.com/news/the-japanese-yen-spikes-and-unwinds-as-iran-offers-to-reopen-hormuz-202609222245",
+      "published": "2026-09-22T22:45:42+00:00",
+      "score": 1
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Iran's armed forces: Trump's statements on Iran at the UNGA are tools for domestic propaganda - Statement",
+      "title": "FinancialJuice: AWS: Amazon CloudWatch Omni now widely available; IDE extension at no cost - blog",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9774300/Irans-armed-forces-Trumps-statements-on-Iran-at-the-UNGA-are-tools-for-domestic-propaganda---Statement.aspx?xy=rss",
-      "published": "2026-09-22T19:54:11+00:00",
+      "link": "https://www.financialjuice.com/News/9774471/AWS-Amazon-CloudWatch-Omni-now-widely-available-IDE-extension-at-no-cost---blog.aspx?xy=rss",
+      "published": "2026-09-22T22:28:05+00:00",
       "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Euro drops to its lowest since July as the Dollar keeps climbing",
+      "summary": "About 80% of the Euro's August rally is gone. EUR/USD climbed from near 1.1350 at the end of July to just above 1.1700 in the second half of August, and on Tuesday it dipped under 1.1450 to its lowest since late July before recovering to trade near that level.",
+      "link": "https://www.fxstreet.com/news/the-euro-drops-to-its-lowest-since-july-as-the-dollar-keeps-climbing-202609222219",
+      "published": "2026-09-22T22:19:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The British Pound sets a new September low as Fed officials argue for more",
+      "summary": "1.3400 has capped GBP/USD in every session since the Fed raised rates on September 16. The pair went through that level on the day of the decision and has failed to get back above it four times since.",
+      "link": "https://www.fxstreet.com/news/the-british-pound-sets-a-new-september-low-as-fed-officials-argue-for-more-202609222204",
+      "published": "2026-09-22T22:04:34+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: RMB gains hinge on PBoC fix – OCBC",
+      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong note that the Renminbi (RMB) has extended gains, with USD/CNY breaking below 6.70 as the People's Bank of China (PBoC) strengthened the fix for nine straight sessions ahead of the Trump–Xi meeting.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-rmb-gains-hinge-on-pboc-fix-ocbc-202609222154",
+      "published": "2026-09-22T21:54:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Sideways bias holds above support against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann maintain a constructive short-term view on USD/SGD, noting recent sideways trade around 1.2760.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-sideways-bias-holds-above-support-against-us-dollar-uob-202609222112",
+      "published": "2026-09-22T21:12:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Banxico expected to stay put as inflation risks block easing – Reuters",
+      "summary": "A Reuters poll shows that all economists expect that the Mexican Central Bank (Banxico) will hold rates unchanged at 6.50% for the third straight meeting on Thursday.",
+      "link": "https://www.fxstreet.com/news/banxico-expected-to-stay-put-as-inflation-risks-block-easing-reuters-202609222051",
+      "published": "2026-09-22T20:51:36+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "ECB’s Nagel says restrictive policy cannot be ruled out",
+      "summary": "The Bundesbank President and European Central Bank (ECB) member Joachim Nagel crossed the wires at a financial event in London on Tuesday, acknowledging that high energy prices had driven inflation off its 2026 target.",
+      "link": "https://www.fxstreet.com/news/ecbs-nagel-says-restrictive-policy-cannot-be-ruled-out-202609222037",
+      "published": "2026-09-22T20:37:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ECB's Nagel: I am not relaxed, core inflation is still too high",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9774367/ECBs-Nagel-I-am-not-relaxed-core-inflation-is-still-too-high.aspx?xy=rss",
+      "published": "2026-09-22T20:33:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+      "summary": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+      "published": "2026-09-22T20:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso carry cushion thins as USD/MXN breaks 100-day SMA",
+      "summary": "The Mexican Peso (MXN) extended its losses for the third straight trading session on Tuesday, down over 0.4% as investors reduce their exposure to the Mexican currency following last week’s Federal Reserve (Fed) decision to raise interest rates.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-carry-cushion-thins-as-usd-mxn-breaks-100-day-sma-202609222024",
+      "published": "2026-09-22T20:24:47+00:00",
+      "score": 3
     },
     {
       "source": "FXStreet",
@@ -18,78 +126,6 @@
       "summary": "OCBC strategists Sim Moh Siong and Christopher Wong highlight that the Taiwan Dollar (TWD) has extended gains, briefly strengthening near 31.71 versus the US Dollar (USD), supported by strong foreign portfolio inflows and domestic equity outperformance tied to tech and AI themes.",
       "link": "https://www.fxstreet.com/news/taiwan-dollar-equity-inflows-support-twd-againt-us-dollar-ocbc-202609221951",
       "published": "2026-09-22T19:51:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: +921 mln<br />Nasdaq 100: +798 mln<br />Dow 30: +362 mln<br />Mag 7: +423 mln",
-      "link": "https://www.financialjuice.com/News/9774299/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-09-22T19:50:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: UK's PM Burnham: I pushed Trump on tariffs",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9774285/UKs-PM-Burnham-I-pushed-Trump-on-tariffs.aspx?xy=rss",
-      "published": "2026-09-22T19:45:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We think Iran war could end after midterms, maybe before.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9774268/Trump-We-think-Iran-war-could-end-after-midterms-maybe-before.aspx?xy=rss",
-      "published": "2026-09-22T19:41:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Not seeing Pickaxe activity, but will attack it, if we do.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9774267/Trump-Not-seeing-Pickaxe-activity-but-will-attack-it-if-we-do.aspx?xy=rss",
-      "published": "2026-09-22T19:40:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: May have to blow up Pickaxe Mountain.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9774265/Trump-May-have-to-blow-up-Pickaxe-Mountain.aspx?xy=rss",
-      "published": "2026-09-22T19:40:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: UK's PM Burnham: Discussed Falkland islands with Trump, set out UK position.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9774264/UKs-PM-Burnham-Discussed-Falkland-islands-with-Trump-set-out-UK-position.aspx?xy=rss",
-      "published": "2026-09-22T19:40:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Facilitating the renewed flow of oil in Strait of Hormuz.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9774263/Trump-Facilitating-the-renewed-flow-of-oil-in-Strait-of-Hormuz.aspx?xy=rss",
-      "published": "2026-09-22T19:39:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Hopefully Iran will do the right thing fast. There will be a time when it's too late.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9774262/Trump-Hopefully-Iran-will-do-the-right-thing-fast-There-will-be-a-time-when-its-too-late.aspx?xy=rss",
-      "published": "2026-09-22T19:38:38+00:00",
       "score": 1
     },
     {
@@ -102,51 +138,6 @@
       "score": 5
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: I think Witkoff and Kushner will get this thing ended.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9774261/Trump-I-think-Witkoff-and-Kushner-will-get-this-thing-ended.aspx?xy=rss",
-      "published": "2026-09-22T19:35:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: I think Iran will do something good.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9774260/Trump-I-think-Iran-will-do-something-good.aspx?xy=rss",
-      "published": "2026-09-22T19:33:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: A lot of momentum for Iran to make a deal.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9774259/Trump-A-lot-of-momentum-for-Iran-to-make-a-deal.aspx?xy=rss",
-      "published": "2026-09-22T19:32:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US official and a regional source said Trump's envoys Witkoff and Kushner attended meeting from US side and foreign minister Araghchi from the Iranian side - Axios",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9774238/US-official-and-a-regional-source-said-Trumps-envoys-Witkoff-and-Kushner-attended-meeting-from-US-side-and-foreign-minister-Araghchi-from-the-Iranian-side---Axios.aspx?xy=rss",
-      "published": "2026-09-22T19:27:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Wednesday FX Options Expiries",
-      "summary": "<ul><li><strong>EUR/USD:</strong> 1.1400 (EU1.84b), 1.1500 (EU1.6b), 1.1600 (EU1.28b)</li><li><strong>USD/JPY:</strong> 157.00 ($1.23b), 156.00 ($1.21b), 152.00 ($733m)</li><li><strong>AUD/USD:</strong> 0.7050 (AUD715.9m), 0.7125 (AUD628.6m), 0.7180 (AUD578.4m)</li><li><strong>USD/CAD:</strong> 1.3655 ($664m), 1.4150 ($380m), 1.4130 ($300m)</li><li><strong>USD/CNY:</strong> 6.7030 ($1.02b), 6.7102",
-      "link": "https://www.financialjuice.com/News/9774234/Wednesday-FX-Options-Expiries.aspx?xy=rss",
-      "published": "2026-09-22T19:21:41+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Asia FX: AI-driven support for regional currencies – MUFG",
@@ -154,24 +145,6 @@
       "link": "https://www.fxstreet.com/news/asia-fx-ai-driven-support-for-regional-currencies-mufg-202609221917",
       "published": "2026-09-22T19:17:00+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Shield of The Americas: Must secure control of our own energy pipelines.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9774231/Trump-on-Shield-of-The-Americas-Must-secure-control-of-our-own-energy-pipelines.aspx?xy=rss",
-      "published": "2026-09-22T19:16:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Jordan's King joins Trump-hosted meeting with Arab and Islamic leaders on the sidelines of UNGA - Royal Court",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9774230/Jordans-King-joins-Trump-hosted-meeting-with-Arab-and-Islamic-leaders-on-the-sidelines-of-UNGA---Royal-Court.aspx?xy=rss",
-      "published": "2026-09-22T19:16:34+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -219,78 +192,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed’s Barkin backs rate hike, stays unsure on more increases",
-      "summary": "Richmond Federal Reserve (Fed) President Thomas Barkin said on Tuesday that the Federal Open Market Committee (FOMC) decided to raise interest rates last Wednesday because inflation risks outweighed those to maximum employment.",
-      "link": "https://www.fxstreet.com/news/feds-barkin-backs-rate-hike-stays-unsure-on-more-increases-202609221715",
-      "published": "2026-09-22T17:15:42+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound sinks as USD shrugs off Hormuz reopening hopes",
-      "summary": "The Pound Sterling (GBP) dives over 0.17% against the US Dollar (USD) on Tuesday amid newswire reports that Tehran intends to reopen the Strait of Hormuz if the United States meets certain conditions. At the time of writing, GBP/USD trades at 1.3343 after peaking at 1.3387.",
-      "link": "https://www.fxstreet.com/news/british-pound-sinks-as-usd-shrugs-off-hormuz-reopening-hopes-202609221639",
-      "published": "2026-09-22T16:39:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones Industrial Average drops from a weekly high as bank shares slide",
-      "summary": "The Dow Jones Industrial Average (DJIA) rose on Tuesday to its highest level since September 14 before the opening bell, then turned lower once trading started in New York. It trades near 51,800, below Monday's close. The NASDAQ Composite tested record highs and the S&amp;P 500 is barely changed.",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-drops-from-a-weekly-high-as-bank-shares-slide-202609221609",
-      "published": "2026-09-22T16:09:13+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar dips as Oil slump, dovish BoC outlook underpin USD",
-      "summary": "USD/CAD gains 0.27% on Tuesday and trades around 1.4070 at the time of writing, supported by weakness in the Canadian Dollar (CAD).",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-dips-as-oil-slump-dovish-boc-outlook-underpin-usd-strength-202609221557",
-      "published": "2026-09-22T15:57:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: Recovery stalls below key moving averages",
-      "summary": "USD/JPY trades flat on Tuesday as the Japanese Yen (JPY) holds firm in thin holiday trading during Japan’s Silver Week. However, a broadly stronger US Dollar (USD) keeps the Yen’s gains in check. At the time of writing, USD/JPY trades around 157.46.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-recovery-stalls-below-key-moving-averages-202609221538",
-      "published": "2026-09-22T15:38:53+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Bank of Canada: Slack delays hikes despite crude shock – NBC",
-      "summary": "National Bank of Canada's Ethan Currie notes that while oil-driven inflation risks have increased, the Bank of Canada is likely to remain on hold in October as domestic slack and trade uncertainty continue to weigh on the economic outlook.",
-      "link": "https://www.fxstreet.com/news/bank-of-canada-slack-delays-hikes-despite-crude-shock-nbc-202609221506",
-      "published": "2026-09-22T15:06:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Trump sees post-election Iran deal, calls for pressure to stay",
-      "summary": "US President Donald Trump said at the UN General Assembly that “we must be united in maintaining pressure on Iran,” adding that he believes that the US and Iran will strike a deal following the US midterm elections in November.",
-      "link": "https://www.fxstreet.com/news/trump-sees-post-election-iran-deal-calls-for-pressure-to-stay-202609221502",
-      "published": "2026-09-22T15:02:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States: September inflation profile – TD Securities",
-      "summary": "TD Securities economists Oscar Munoz and Eli Nir provide an early projection for United States (US) September Consumer Price Index (CPI , expecting Headline CPI to rise 0.54% m/m, driven mainly by an almost 8% jump in gasoline and firmer food prices.",
-      "link": "https://www.fxstreet.com/news/united-states-september-inflation-profile-td-securities-202609221456",
-      "published": "2026-09-22T14:56:06+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "XAUUSD SETUP",
@@ -298,15 +199,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wn9sl6/xauusd_setup/",
       "published": "2026-09-22T13:39:12+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold consolidates as Iran diplomacy hopes clash with hawkish Fed expectations",
-      "summary": "Gold (XAU/USD) consolidates on Tuesday as traders weigh fresh Middle East headlines while the broader geopolitical backdrop remains tense. At the time of writing, XAU/USD trades around $4,328 after rebounding from an intraday low of $4,291 during European trading hours.",
-      "link": "https://www.fxstreet.com/news/gold-steadies-on-iran-diplomacy-hopes-fed-outlook-caps-upside-202609221120",
-      "published": "2026-09-22T11:20:21+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
@@ -354,13 +246,13 @@
       "score": 6
     },
     {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "EUR/USD SHORT — Macro Swing Setup",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wlo9xi/eurusd_short_macro_swing_setup/\"> <img alt=\"EUR/USD SHORT — Macro Swing Setup\" src=\"https://external-preview.redd.it/Dz8xWfrsUSaAmhuy4FmoN5Z9asvywZ5jXtRa2uf-K_U.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=13a867b583642e14520a61d56947d7184c4dde5e\" title=\"EUR/USD SHORT — Macro Swing Setup\" /> </a> </td><td> <!-- SC_OFF --",
-      "link": "https://www.reddit.com/r/Forex/comments/1wlo9xi/eurusd_short_macro_swing_setup/",
-      "published": "2026-09-20T18:10:50+00:00",
-      "score": 2
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+      "published": "2026-09-18T15:00:00+00:00",
+      "score": 1
     },
     {
       "source": "Federal Reserve",
@@ -368,15 +260,6 @@
       "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
       "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
-      "published": "2026-09-18T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
       "published": "2026-09-18T15:00:00+00:00",
       "score": 1
     },
@@ -504,15 +387,6 @@
       "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank &quot;insiders&quot;—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
       "published": "2026-07-31T14:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of First Interstate Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm",
-      "published": "2026-07-30T15:00:00+00:00",
       "score": 1
     }
   ],
