@@ -1,30 +1,111 @@
 {
-  "updated_at": "2026-09-23T16:46:49.193139+00:00",
-  "count": 40,
+  "updated_at": "2026-09-23T19:59:24.460309+00:00",
+  "count": 44,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed bids for 5-year notes total $10.5 bln.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9775823/Fed-bids-for-5-year-notes-total-105-bln.aspx?xy=rss",
-      "published": "2026-09-23T16:45:18+00:00",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: -3038 mln<br />Nasdaq 100: -1140 mln<br />Dow 30: -736 mln<br />Mag 7: -655 mln",
+      "link": "https://www.financialjuice.com/News/9776043/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-09-23T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CHF Price Forecast: Bulls retake control, eye 0.8300 break",
+      "summary": "The USD/CHF pair climbs some 0.52% on Wednesday as the uptrend resumes following a retracement after hitting a yearly high on September 16 at 0.8263, which dragged the exchange rate below 0.8200, before recovering some ground. At the time of writing, the pair trades at 0.8244.",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-bulls-retake-control-eye-08300-break-202609231936",
+      "published": "2026-09-23T19:36:09+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Microsoft is expanding investments in the Middle East, investing more than $10b by 2030. $MSFT",
-      "summary": "<ul><li>Microsoft: deepen cybersecurity pacts In Kuwait, Qatar, the UAE, and the KSA.<br /></li></ul>",
-      "link": "https://www.financialjuice.com/News/9775821/Microsoft-is-expanding-investments-in-the-Middle-East-investing-more-than-10b-by-2030-MSFT.aspx?xy=rss",
-      "published": "2026-09-23T16:32:31+00:00",
+      "title": "FinancialJuice: US Energy Secretary Wright reiterates diesel ban is not being discussed - NYT",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9776016/US-Energy-Secretary-Wright-reiterates-diesel-ban-is-not-being-discussed---NYT.aspx?xy=rss",
+      "published": "2026-09-23T19:29:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Thursday FX Option Expiries",
+      "summary": "<div><ul><li><strong>EUR/USD:</strong> 1.1500 (EU1.47b), 1.1575 (EU1.27b), 1.1400 (EU1.21b)</li><li><strong>USD/JPY:</strong> 156.00 ($1.94b), 157.50 ($1.6b), 156.50 ($1.5b)</li><li><strong>USD/CAD:</strong> 1.4100 ($1.56b), 1.3375 ($980m), 1.3945 ($700.8m)</li><li><strong>AUD/USD:</strong> 0.7160 (AUD703.1m), 0.7000 (AUD438.3m), 0.7300 (AUD424.7m)</li><li><strong>USD/CNY: </strong>6.7075 ($1.2b)<",
+      "link": "https://www.financialjuice.com/News/9776013/Thursday-FX-Option-Expiries.aspx?xy=rss",
+      "published": "2026-09-23T19:21:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Russian Presidential Envoy Dmitriev heads to US for new talks with members of Trump's administration - sources.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9775996/Russian-Presidential-Envoy-Dmitriev-heads-to-US-for-new-talks-with-members-of-Trumps-administration---sources.aspx?xy=rss",
+      "published": "2026-09-23T19:05:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Iraqi Prime Minister, Turkish President agree to have Turkish forces hand over camps in northern Iraq to Iraqi federal government gradually - Iraqi PM office statement.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9775972/Iraqi-Prime-Minister-Turkish-President-agree-to-have-Turkish-forces-hand-over-camps-in-northern-Iraq-to-Iraqi-federal-government-gradually---Iraqi-PM-office-statement.aspx?xy=rss",
+      "published": "2026-09-23T18:48:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold buckles as 5% yields and Fed hawks take control",
+      "summary": "Gold sank by over 1.5% during the North American session on Wednesday as investors grew confident that the Federal Reserve (Fed) would raise rates at the October meeting. That confidence stems from hawkish remarks made by several officials.",
+      "link": "https://www.fxstreet.com/news/gold-buckles-as-5-yields-and-fed-hawks-take-control-202609231837",
+      "published": "2026-09-23T18:37:39+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: Fed hawks knock XAG/USD toward $64 support",
+      "summary": "Silver (XAG/USD) price tumbles over 3.67% on Wednesday as investors increase Federal Reserve (Fed)-hawkish bets, following remarks by several officials supporting last week’s rate hike and penciling in further tightening. XAG/USD trades at $64.59, after reaching a high of $67.52.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-fed-hawks-knock-xag-usd-toward-64-support-202609231823",
+      "published": "2026-09-23T18:23:41+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: Australia’s jobs report comes to the fore",
+      "summary": "There was no respite for the US Dollar’s (USD) march north on Wednesday. In fact, the Greenback has clinched its third consecutive day of gains, hitting at the same time fresh two-month highs.",
+      "link": "https://www.fxstreet.com/news/forex-today-australias-jobs-report-comes-to-the-fore-202609231809",
+      "published": "2026-09-23T18:09:32+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen declines as upbeat US PMI lifts the US Dollar and yields",
+      "summary": "The Japanese Yen (JPY) extends its decline against the US Dollar (USD) on Wednesday, with USD/JPY climbing to a three-week high as the hawkish Federal Reserve (Fed) outlook keeps the Greenback in demand. At the time of writing, the pair trades around 158.18, up 0.50% on the day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-declines-as-upbeat-us-pmi-lifts-the-us-dollar-yields-202609231808",
+      "published": "2026-09-23T18:08:37+00:00",
+      "score": 3
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US lawmakers to unveil legislation to revise national security tool used by federal communications commission to bar Chinese tech gear -Lawmakers' Statement",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9775911/US-lawmakers-to-unveil-legislation-to-revise-national-security-tool-used-by-federal-communications-commission-to-bar-Chinese-tech-gear--Lawmakers-Statement.aspx?xy=rss",
+      "published": "2026-09-23T18:05:26+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
       "title": "US 10-year yield hits a 19-year high as Fed Governor Barr backs hikes",
-      "summary": "Fed Governor Barr made the case for more rate increases, saying the risks to getting inflation back to 2% have grown while the risks to jobs have eased.",
+      "summary": "Federal Reserve (Fed) Governor Michael Barr made on Wednesday the case for more rate increases, saying the risks to getting inflation back to 2% have grown while the risks to jobs have eased.",
       "link": "https://www.fxstreet.com/news/us-10-year-yield-hits-a-19-year-high-as-fed-governor-barr-backs-hikes-202609231619",
       "published": "2026-09-23T16:19:52+00:00",
       "score": 4
@@ -99,51 +180,6 @@
       "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight that the Canadian Dollar (CAD) is marginally weaker versus the US Dollar (USD), with USD/CAD at its highest since late July. They stress wide yield spreads and typical negative Q4 seasonality as key headwinds for CAD.",
       "link": "https://www.fxstreet.com/news/canadian-dollar-bearish-trend-targets-14125-scotiabank-202609231346",
       "published": "2026-09-23T13:46:57+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc weakens ahead of SNB rate decision",
-      "summary": "USD/CHF edges higher on Wednesday, snapping a four-day losing streak as the US Dollar (USD) continues to attract buying following the Federal Reserve’s (Fed) hawkish rate hike at its September 15-16 policy meeting.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-ahead-of-snb-rate-decision-202609231335",
-      "published": "2026-09-23T13:35:19+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound: BoE repricing risk keeps Pound vulnerable – BBH",
-      "summary": "According to Elias Haddad at Brown Brothers Harriman, GBP/USD is lower on broad Dollar strength and EUR/GBP is slightly firmer after weaker United Kingdom (UK) September Purchasing Managers' Index (PMI).",
-      "link": "https://www.fxstreet.com/news/british-pound-boe-repricing-risk-keeps-pound-vulnerable-bbh-202609231324",
-      "published": "2026-09-23T13:24:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Oil rebounds above $90: Why is the Canadian Dollar still falling?",
-      "summary": "USD/CAD extends its advance on Wednesday and trades around 1.4090 at the time of writing, up 0.21% on the day. The pair remains close to its recent highs, supported by a firm US Dollar (USD), while the Canadian Dollar (CAD) struggles to recover losses from the recent decline in Oil prices.",
-      "link": "https://www.fxstreet.com/news/oil-rebounds-above-90-why-is-the-canadian-dollar-still-falling-202609231317",
-      "published": "2026-09-23T13:17:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Downside bias toward 1.1400 against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann keep a negative stance on EUR/USD after the pair closed at 1.1447. They see scope for further Euro (EUR) weakness, with intraday support at 1.1415 and a key level at 1.1400, though they doubt a sustained break lower.",
-      "link": "https://www.fxstreet.com/news/euro-downside-bias-toward-11400-against-us-dollar-uob-202609231309",
-      "published": "2026-09-23T13:09:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Next leg higher toward $5,000 – TD Securities",
-      "summary": "TD Securities’ Ryan McKay argues Gold is entering a new bullish phase, with speculative, ETF and central bank flows reinforcing resilience despite further Fed hikes.",
-      "link": "https://www.fxstreet.com/news/gold-next-leg-higher-toward-5-000-td-securities-202609231253",
-      "published": "2026-09-23T12:53:12+00:00",
       "score": 2
     },
     {
