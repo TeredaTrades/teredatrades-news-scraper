@@ -1,7 +1,115 @@
 {
-  "updated_at": "2026-09-22T22:57:15.098298+00:00",
-  "count": 43,
+  "updated_at": "2026-09-23T01:23:29.555971+00:00",
+  "count": 47,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro weakens below 1.1450 on hawkish Fed signals, German political risks",
+      "summary": "The EUR/USD pair loses ground to near 1.1445 during the early Asian trading hours on Wednesday. The US Dollar (USD) strengthens against the Euro (EUR) on the hawkish stance of the US Federal Reserve (Fed) and the prospect of further interest rate hikes.",
+      "link": "https://www.fxstreet.com/news/euro-weakens-below-11450-on-hawkish-fed-signals-german-political-risks-202609230121",
+      "published": "2026-09-23T01:21:29+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7468 vs. 6.7459 previous",
+      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7468 compared to the previous day's fix of 6.7459 and 6.6971 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67468-vs-67459-previous-202609230115",
+      "published": "2026-09-23T01:15:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: South Korean president Lee holds 30-minute meeting with Trump: S. Korea presidential office",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9774580/South-Korean-president-Lee-holds-30-minute-meeting-with-Trump-S-Korea-presidential-office.aspx?xy=rss",
+      "published": "2026-09-23T01:14:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: South Korean President Lee to meet US President Trump on sidelines of UN General Assembly - media",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9774579/South-Korean-President-Lee-to-meet-US-President-Trump-on-sidelines-of-UN-General-Assembly---media.aspx?xy=rss",
+      "published": "2026-09-23T01:13:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound hangs near late July lows vs USD; looks to UK/US PMIs for fresh impetus",
+      "summary": "The GBP/USD pair struggles to build on the previous day's modest bounce from the 1.3320 area, or its lowest since July 29, and sticks to a negative bias for the third straight day on Wednesday.",
+      "link": "https://www.fxstreet.com/news/british-pound-hangs-near-late-july-lows-vs-usd-looks-to-uk-us-pmis-for-fresh-impetus-202609230107",
+      "published": "2026-09-23T01:07:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta takes action on 3.7 million accounts, pages, and content with Singapore police force",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9774578/Meta-takes-action-on-37-million-accounts-pages-and-content-with-Singapore-police-force.aspx?xy=rss",
+      "published": "2026-09-23T01:02:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Wife of US seismologist detained in China says she has been assured Trump will ask Xi to free him",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9774538/Wife-of-US-seismologist-detained-in-China-says-she-has-been-assured-Trump-will-ask-Xi-to-free-him.aspx?xy=rss",
+      "published": "2026-09-23T00:14:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "WTI slumps to near $89.00 as markets weigh Trump’s UN speech",
+      "summary": "West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $89.00 during the early Asian trading hours on Wednesday. WTI falls after US President Donald Trump said the United States (US) held hours-long talks with Iran.",
+      "link": "https://www.fxstreet.com/news/wti-slumps-to-near-8900-as-markets-weigh-trumps-un-speech-202609230012",
+      "published": "2026-09-23T00:12:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Microsoft to increase Copilot discounts as it introduces AI ‘super app’ - The Information",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9774524/Microsoft-to-increase-Copilot-discounts-as-it-introduces-AI-super-app---The-Information.aspx?xy=rss",
+      "published": "2026-09-22T23:40:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold recovers above $4,350 on US–Iran diplomacy hopes",
+      "summary": "Gold price (XAU/USD) rebounds to near $4,360 during the early Asian session on Wednesday. The precious metal edges higher amid hopes for diplomatic progress between the US and Iran.",
+      "link": "https://www.fxstreet.com/news/gold-recovers-above-4-350-on-us-iran-diplomacy-hopes-202609222322",
+      "published": "2026-09-22T23:22:59+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australia S&P Global September Flash Services PMI at 51.4 vs 53.2 in August",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9774506/Australia-SP-Global-September-Flash-Services-PMI-at-514-vs-532-in-August.aspx?xy=rss",
+      "published": "2026-09-22T23:09:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "49.3: Australia’s S&P Global Manufacturing PMI declines in September",
+      "summary": "The preliminary reading of Australia's S&amp;P Global Manufacturing Purchasing Managers Index (PMI) eased to 49.3 in September versus 52.0 prior, the latest data published by S&amp;P Global showed on Wednesday.",
+      "link": "https://www.fxstreet.com/news/493-australias-sp-global-manufacturing-pmi-declines-in-september-202609222301",
+      "published": "2026-09-22T23:01:34+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -93,15 +201,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB's Nagel: I am not relaxed, core inflation is still too high",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9774367/ECBs-Nagel-I-am-not-relaxed-core-inflation-is-still-too-high.aspx?xy=rss",
-      "published": "2026-09-22T20:33:35+00:00",
-      "score": 1
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
@@ -126,69 +225,6 @@
       "summary": "OCBC strategists Sim Moh Siong and Christopher Wong highlight that the Taiwan Dollar (TWD) has extended gains, briefly strengthening near 31.71 versus the US Dollar (USD), supported by strong foreign portfolio inflows and domestic equity outperformance tied to tech and AI themes.",
       "link": "https://www.fxstreet.com/news/taiwan-dollar-equity-inflows-support-twd-againt-us-dollar-ocbc-202609221951",
       "published": "2026-09-22T19:51:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold losses altitude as peace hopes meet hawkish Fed bets",
-      "summary": "Gold (XAU/USD) price retreats from daily highs of $4,376 on Tuesday as US Treasury yields rise and the US Dollar continues to strengthen, with investors pricing in further Federal Reserve (Fed) tightening towards year-end. At the time of writing, XAU/USD trades at $4,337, down 0.14%.",
-      "link": "https://www.fxstreet.com/news/gold-losses-altitude-as-peace-hopes-meet-hawkish-fed-bets-202609221936",
-      "published": "2026-09-22T19:36:49+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Asia FX: AI-driven support for regional currencies – MUFG",
-      "summary": "MUFG’s Michael Wan notes that improved risk sentiment and AI optimism around Meta’s Muse supported a slightly stronger Dollar and stable DM yields.",
-      "link": "https://www.fxstreet.com/news/asia-fx-ai-driven-support-for-regional-currencies-mufg-202609221917",
-      "published": "2026-09-22T19:17:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: Advanced PMIs in the limelight, but what about the UN General Assembly?",
-      "summary": "The US Dollar (USD) has extended its recovery on Tuesday, climbing to new multi-week highs on the back of steady bets for extra Fed tightening, while increasing hopes of a potential deal to unlock the US-Iran-Hormuz conflict seem to have been ignored by market participants.",
-      "link": "https://www.fxstreet.com/news/forex-today-advanced-pmis-in-the-limelight-but-what-about-the-un-general-assembly-202609221854",
-      "published": "2026-09-22T18:54:38+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Chinese Yuan: Gradual decline within tight bands – UOB",
-      "summary": "United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann expect USD/CNH to edge lower intraday but stay confined to a narrow 6.6890–6.6960 range, with a clear break below 6.6890 seen as unlikely. Over one to three weeks, they see downside extending toward 6.6820 as momentum builds.",
-      "link": "https://www.fxstreet.com/news/chinese-yuan-gradual-decline-within-tight-bands-uob-202609221839",
-      "published": "2026-09-22T18:39:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "WTI extends decline as Trump signals progress in talks with Iran",
-      "summary": "West Texas Intermediate (WTI) Oil extends its decline on Tuesday as traders assess fresh Middle East developments, keeping energy prices under pressure for a fifth straight day. At the time of writing, WTI trades around $89.50, near a two-week low.",
-      "link": "https://www.fxstreet.com/news/wti-extends-decline-as-trump-signals-progress-in-talks-with-iran-202609221825",
-      "published": "2026-09-22T18:25:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Trump signals diplomatic push on Ukraine and Iran as diesel ban looms",
-      "summary": "US President Donald Trump is figuring out a solution to end the war between Russia and Ukraine, after meeting with Ukrainian President Volodymyr Zelenskyy. Furthermore, he added that Russian President Vladimir Putin is willing to meet to end the war.",
-      "link": "https://www.fxstreet.com/news/trump-signals-diplomatic-push-on-ukraine-and-iran-as-diesel-ban-looms-202609221809",
-      "published": "2026-09-22T18:09:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index pushes higher on the case for another Fed increase",
-      "summary": "The Dollar Index trades near 100.70, its highest level since late July. It has climbed through five straight sessions of falling Crude Oil, the opposite of how the war has moved it for most of this year. The Fed is the reason.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-pushes-higher-on-the-case-for-another-fed-increase-202609221759",
-      "published": "2026-09-22T17:59:02+00:00",
       "score": 1
     },
     {
