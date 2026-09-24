@@ -1,12 +1,111 @@
 {
-  "updated_at": "2026-09-24T16:44:03.353028+00:00",
-  "count": 45,
+  "updated_at": "2026-09-24T20:10:28.900592+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +2025 mln<br />Nasdaq 100: +1562 mln<br />Dow 30: +798 mln<br />Mag 7: +810 mln",
+      "link": "https://www.financialjuice.com/News/9778041/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-09-24T19:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Friday FX Options Expiries",
+      "summary": "<ul><li><strong>EUR/USD:</strong> 1.1400 (EU1.77b), 1.1500 (EU1.12b), 1.1625 (EU983.6m)</li><li><strong>USD/JPY: </strong>155.00 ($2.01b), 149.00 ($1b), 162.00 ($866.2m)</li><li><strong>USD/BRL: </strong>5.1000 ($880m), 5.2000 ($674.2m)</li><li><strong>AUD/USD:</strong> 0.7150 (AUD792.1m), 0.7050 (AUD563.4m), 0.7140 (AUD463.3m)</li><li><strong>USD/CNY:</strong> 6.6900 ($325m), 6.6600 ($300m), 6.58",
+      "link": "https://www.financialjuice.com/News/9778000/Friday-FX-Options-Expiries-.aspx?xy=rss",
+      "published": "2026-09-24T19:22:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index extends its winning streak as Fed speakers line up behind hikes",
+      "summary": "The Dollar Index has won back about 90% of what it lost between the late-July top and the August low. It reached 101.40 on Thursday, its highest since late July, and is heading for a fourth straight gain.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-extends-its-winning-streak-as-fed-speakers-line-up-behind-hikes-202609241904",
+      "published": "2026-09-24T19:04:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Banxico unanimously holds benchmark rate at 6.50%",
+      "summary": "On Thursday, the Bank of Mexico (Banxico) held interest rates unchanged at 6.50% for the third time, as expected, in a unanimous decision.",
+      "link": "https://www.fxstreet.com/news/banxico-holds-rates-unchanged-at-650-unanimously-202609241901",
+      "published": "2026-09-24T19:01:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Inflation keeps MAS cautious – Commerzbank",
+      "summary": "Commerzbank’s Dr. Henry Hao and Moses Lim note that Singapore’s August headline and core inflation both climbed to the upper half of the Monetary Authority of Singapore’s 2026 forecast range, with services, retail goods, food and utilities all contributing.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-inflation-keeps-mas-cautious-commerzbank-202609241838",
+      "published": "2026-09-24T18:38:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Senate rejects resolution curbing Trump's Iran war powers.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9777939/US-Senate-rejects-resolution-curbing-Trumps-Iran-war-powers.aspx?xy=rss",
+      "published": "2026-09-24T18:38:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: Fedspeak takes centre stage",
+      "summary": "The US Dollar (USD) has traded with gains for the fourth consecutive day on Thursday, managing to revisit levels last seen in late July.",
+      "link": "https://www.fxstreet.com/news/forex-today-fedspeak-takes-centre-stage-202609241832",
+      "published": "2026-09-24T18:32:36+00:00",
+      "score": 2
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+      "published": "2026-09-24T18:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta introduces Horizon Create & Horizon Studio $META",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9777916/Meta-introduces-Horizon-Create--Horizon-Studio-META.aspx?xy=rss",
+      "published": "2026-09-24T18:26:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen struggles as Fed rate hike bets drive US yields higher",
+      "summary": "USD/JPY extends its advance for a fifth consecutive day on Thursday as broad US Dollar (USD) strength and persistent pressure on the Japanese Yen (JPY) keep the pair firmly supported.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-as-fed-rate-hike-bets-drive-us-yields-higher-202609241803",
+      "published": "2026-09-24T18:03:14+00:00",
+      "score": 3
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Xauusd",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wp8mt5/xauusd/\"> <img alt=\"Xauusd\" src=\"https://preview.redd.it/m2mb1aq5birh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=64592ec550448e2b2b1065305c86937d126a5bf5\" title=\"Xauusd\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Sweep London High + Pd poc/Daily poc + Vwap Sd-1 </p> </div><!-- SC_ON --> &#3",
+      "link": "https://www.reddit.com/r/Forex/comments/1wp8mt5/xauusd/",
+      "published": "2026-09-24T17:54:19+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
       "title": "British Pound four-day slide deepens as US yields fuel US Dollar rally",
-      "summary": "The Pound Sterling drops for the fourth straight trading day versus the US Dollar, down 0.21% as Federal Reserve officials remain hawkish, while US jobs data shows the strength of the labor market. The GBP/USD trades at 1.3213 after hitting a daily high of 1.3256.",
+      "summary": "The Pound Sterling (GBP) drops for the fourth straight trading day versus the US Dollar (USD) on Thursday, down 0.21%, as Federal Reserve (Fed) officials remain hawkish and US jobs data shows labor market strength.",
       "link": "https://www.fxstreet.com/news/british-pound-four-day-slide-deepens-as-us-yields-fuel-us-dollar-rally-202609241639",
       "published": "2026-09-24T16:39:19+00:00",
       "score": 4
@@ -30,51 +129,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BNP Paribas and Google Cloud sign five-year AI pact. $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9777742/BNP-Paribas-and-Google-Cloud-sign-five-year-AI-pact-GOOGL.aspx?xy=rss",
-      "published": "2026-09-24T16:01:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Google introduces Gemini 3.8 Live, with live avatar. $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9777738/Google-introduces-Gemini-38-Live-with-live-avatar-GOOGL.aspx?xy=rss",
-      "published": "2026-09-24T15:55:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China’s President Xi holds small-group exchanges with Trump - Xinhua.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9777737/Chinas-President-Xi-holds-small-group-exchanges-with-Trump---Xinhua.aspx?xy=rss",
-      "published": "2026-09-24T15:48:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 4-Week Bill Auction",
-      "summary": "<div><ul><li>High Yield 3.850%</li><li>Bid-to-cover 2.61</li><li>US sells $90 bln</li><li>Awards 54.97% of bids at high</li></ul></div>",
-      "link": "https://www.financialjuice.com/News/9777713/US-4-Week-Bill-Auction.aspx?xy=rss",
-      "published": "2026-09-24T15:32:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.85% (Forecast -, Previous 3.820%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9777709/US-4-Week-Bill-High-Yield-Actual-385-Forecast---Previous-3820.aspx?xy=rss",
-      "published": "2026-09-24T15:32:05+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Canadian Dollar falls to two-month low as higher US yields outweigh Oil support",
@@ -82,33 +136,6 @@
       "link": "https://www.fxstreet.com/news/canadian-dollar-falls-to-two-month-low-as-higher-us-yields-outweigh-oil-support-202609241528",
       "published": "2026-09-24T15:28:16+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed bids for 4-week bills total $7.4 bln.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9777676/Fed-bids-for-4-week-bills-total-74-bln.aspx?xy=rss",
-      "published": "2026-09-24T15:15:18+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump & Xi Attend a US Military Review - WATCH LIVE",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9777672/Trump--Xi-Attend-a-US-Military-Review---WATCH-LIVE.aspx?xy=rss",
-      "published": "2026-09-24T15:06:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Kansas City Fed Manufacturing Actual 20 (Forecast -, Previous 17)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9777662/Kansas-City-Fed-Manufacturing-Actual-20-Forecast---Previous-17.aspx?xy=rss",
-      "published": "2026-09-24T15:01:35+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
@@ -147,57 +174,12 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar remains under pressure despite stronger-than-expected jobs data",
-      "summary": "AUD/USD trims its losses on Thursday and trades around 0.7030 at the time of writing, down 0.15% on the day.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-remains-under-pressure-despite-stronger-than-expected-jobs-data-202609241422",
-      "published": "2026-09-24T14:22:24+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Weak as Fed credibility supports Dollar near term – Commerzbank",
-      "summary": "Commerzbank’s Thu Lan Nguyen argues that the unanimous Federal Reserve rate hike has temporarily restored its credibility and supported the Dollar, prompting a cut in the EUR/USD year-end forecast to 1.15 from 1.17.",
-      "link": "https://www.fxstreet.com/news/euro-weak-as-fed-credibility-supports-dollar-near-term-commerzbank-202609241415",
-      "published": "2026-09-24T14:15:02+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed’s Hammack warns persistent inflation could make return to target harder",
-      "summary": "Cleveland Federal Reserve (Fed) President Beth Hammack warned on Thursday that inflation remains elevated in the United States (US), stressing that persistent price pressures could make the Fed’s task increasingly difficult.",
-      "link": "https://www.fxstreet.com/news/feds-hammack-warns-persistent-inflation-could-make-return-to-target-harder-202609241323",
-      "published": "2026-09-24T13:23:44+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "at 40% win rate a run of five losses inside 100 trades is 98% certain. i sized my account like it was 20%",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wp17aq/at_40_win_rate_a_run_of_five_losses_inside_100/\"> <img alt=\"at 40% win rate a run of five losses inside 100 trades is 98% certain. i sized my account like it was 20%\" src=\"https://preview.redd.it/x20y0mu7wgrh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1937719b5ac848adda7fc9596124f98335aa1ecf\" title=\"at 40% win rate a ",
       "link": "https://www.reddit.com/r/Forex/comments/1wp17aq/at_40_win_rate_a_run_of_five_losses_inside_100/",
       "published": "2026-09-24T13:09:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CHF Price Forecast: RSI nears overbought territory as bulls remain in control",
-      "summary": "USD/CHF climbs to its highest level since May 2025 on Thursday as the Swiss Franc (CHF) weakens across the board following the Swiss National Bank’s (SNB) decision to leave its policy rate unchanged at 0%.",
-      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-rsi-nears-overbought-territory-as-bulls-remain-in-control-202609241302",
-      "published": "2026-09-24T13:02:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Downside risks for EUR against US Dollar – Rabobank",
-      "summary": "Rabobank's Senior FX Strategist Jane Foley discusses EUR/USD trading near its yearly lows despite consensus forecasts that had expected the pair around 1.18–1.20 in late 2026.",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-for-eur-against-us-dollar-rabobank-202609241255",
-      "published": "2026-09-24T12:55:58+00:00",
       "score": 1
     },
     {
@@ -262,15 +244,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wn5164/6_us_inflation_mornings_on_gold_5m_first_15/",
       "published": "2026-09-22T09:48:43+00:00",
       "score": 6
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Predicting a USD Rally - 61:1 Conclusion",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wmmk3d/predicting_a_usd_rally_611_conclusion/\"> <img alt=\"Predicting a USD Rally - 61:1 Conclusion\" src=\"https://preview.redd.it/054altyvbxqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a54bc4ddd4b8097bc1e1e03b104dcb7c17f135a5\" title=\"Predicting a USD Rally - 61:1 Conclusion\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\">",
-      "link": "https://www.reddit.com/r/Forex/comments/1wmmk3d/predicting_a_usd_rally_611_conclusion/",
-      "published": "2026-09-21T19:20:55+00:00",
-      "score": 1
     },
     {
       "source": "Federal Reserve",
@@ -396,15 +369,6 @@
       "summary": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
       "published": "2026-08-04T20:30:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-      "summary": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank &quot;insiders&quot;—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm",
-      "published": "2026-07-31T14:00:00+00:00",
       "score": 1
     }
   ],
