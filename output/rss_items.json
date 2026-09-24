@@ -1,24 +1,114 @@
 {
-  "updated_at": "2026-09-24T20:10:28.900592+00:00",
-  "count": 41,
+  "updated_at": "2026-09-24T23:13:28.542326+00:00",
+  "count": 43,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen keeps sliding as Tokyo repeats its warning and holds fire",
+      "summary": "Finance Minister Katayama said on Thursday that the principles behind the joint US-Japan intervention of July 31 are still alive, and USD/JPY went on to touch 159.00, its highest since early September. The pair is trading just under 159.00, on track for a fifth straight gain.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-keeps-sliding-as-tokyo-repeats-its-warning-and-holds-fire-202609242300",
+      "published": "2026-09-24T23:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar tests 200-day SMA amid soaring US yields",
+      "summary": "The Aussie Dollar fell for the third straight day, down 0.37% against the US Dollar, which remained boosted by elevated US yields, which jumped as Oil prices rose and as inflation pressures built. The AUD/USD trades at 0.7012, near the 200-day Simple Moving Average (SMA) of 0.7021.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-tests-200-day-sma-amid-soaring-us-yields-202609242255",
+      "published": "2026-09-24T22:55:44+00:00",
+      "score": 3
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: +2025 mln<br />Nasdaq 100: +1562 mln<br />Dow 30: +798 mln<br />Mag 7: +810 mln",
-      "link": "https://www.financialjuice.com/News/9778041/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-09-24T19:50:30+00:00",
+      "title": "FinancialJuice: Trump, Johnson and tech CEOs to convene on Sept. 29: Axios",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9778219/Trump-Johnson-and-tech-CEOs-to-convene-on-Sept-29-Axios.aspx?xy=rss",
+      "published": "2026-09-24T22:44:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso : Range view with downside risks against US Dollar – Rabobank",
+      "summary": "Rabobank’s USD/MXN analysis highlights recent moves driven by Oil-related Dollar strength and heavy speculative long-MXN positioning.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-range-view-with-downside-risks-against-us-dollar-rabobank-202609242239",
+      "published": "2026-09-24T22:39:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar grinds lower as US bond yields climb to new highs",
+      "summary": "The Reserve Bank of New Zealand (RBNZ) has its Official Cash Rate (OCR) at 2.75%, and markets now price at least a 75% chance that it goes to 3% on October 28, against about 30% right after the September 2 hike. NZD/USD is trading just above 0.5650, its lowest since late June.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-grinds-lower-as-us-bond-yields-climb-to-new-highs-202609242230",
+      "published": "2026-09-24T22:30:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dow Jones Industrial Average falls a third day as bond yields climb",
+      "summary": "The 30-year Treasury yield touched 5.50% on Thursday, and two Fed officials gave bond buyers no reason to expect relief. New York Fed President Williams said another rate increase this year looks reasonable, and Philadelphia Fed President Paulson said rates may need to rise a little more.",
+      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-falls-a-third-day-as-bond-yields-climb-202609242211",
+      "published": "2026-09-24T22:11:04+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Pound Sterling slides again as Fed speakers go full hawkish",
+      "summary": "Bank of England (BoE) Deputy Governors Lombardelli and Breeden said on Thursday that they are moving closer to voting for a rate hike, and the Pound fell for a fourth straight session regardless. GBP/USD is trading just above 1.3200, its lowest in nearly three months.",
+      "link": "https://www.fxstreet.com/news/pound-sterling-slides-again-as-fed-speakers-line-up-behind-another-hike-202609242209",
+      "published": "2026-09-24T22:09:42+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah: BI prioritizes IDR stability – Commerzbank",
+      "summary": "Commerzbank’s Henry Hao and Moses Lim report that Bank Indonesia kept the BI Rate at 5.75% while expanding FX hedging incentives to support the Indonesian Rupiah. Governor Destry Damayanti signaled a preference for non-rate tools and incentive-based measures over SRBI yield hikes.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-bi-prioritizes-idr-stability-commerzbank-202609242151",
+      "published": "2026-09-24T21:51:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Banxico: Flexible stance with upside risks – Rabobank",
+      "summary": "Rabobank’s Molly Schwartz and Christian Lawrence note Banxico kept its overnight rate at 6.50% but significantly softened forward guidance, decoupling Mexican policy from expected Federal Reserve moves.",
+      "link": "https://www.fxstreet.com/news/banxico-flexible-stance-with-upside-risks-rabobank-202609242108",
+      "published": "2026-09-24T21:08:11+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Friday FX Options Expiries",
-      "summary": "<ul><li><strong>EUR/USD:</strong> 1.1400 (EU1.77b), 1.1500 (EU1.12b), 1.1625 (EU983.6m)</li><li><strong>USD/JPY: </strong>155.00 ($2.01b), 149.00 ($1b), 162.00 ($866.2m)</li><li><strong>USD/BRL: </strong>5.1000 ($880m), 5.2000 ($674.2m)</li><li><strong>AUD/USD:</strong> 0.7150 (AUD792.1m), 0.7050 (AUD563.4m), 0.7140 (AUD463.3m)</li><li><strong>USD/CNY:</strong> 6.6900 ($325m), 6.6600 ($300m), 6.58",
-      "link": "https://www.financialjuice.com/News/9778000/Friday-FX-Options-Expiries-.aspx?xy=rss",
-      "published": "2026-09-24T19:22:04+00:00",
+      "title": "FinancialJuice: Xi and Trump exchange views on the Middle East situation, the Ukraine crisis and the Korean Peninsula - Xinhua",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9778070/Xi-and-Trump-exchange-views-on-the-Middle-East-situation-the-Ukraine-crisis-and-the-Korean-Peninsula---Xinhua.aspx?xy=rss",
+      "published": "2026-09-24T20:20:48+00:00",
       "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump and Xi confirmed that they would support each other in hosting the APEC Economic Leaders meeting and the G20 Summit in 2026 - Xinhua",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9778069/Trump-and-Xi-confirmed-that-they-would-support-each-other-in-hosting-the-APEC-Economic-Leaders-meeting-and-the-G20-Summit-in-2026---Xinhua.aspx?xy=rss",
+      "published": "2026-09-24T20:19:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso slides to April lows as Banxico shrugs off Fed gap",
+      "summary": "The Mexican Peso (MXN) extends its losses against the US Dollar (USD) on Thursday after the Bank of Mexico (Banxico) held the benchmark interest rate unchanged at 6.50%, disregarding the interest rate differential as a primary factor in setting monetary policy.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-slides-to-april-lows-as-banxico-shrugs-off-fed-gap-202609242012",
+      "published": "2026-09-24T20:12:29+00:00",
+      "score": 2
     },
     {
       "source": "FXStreet",
@@ -48,15 +138,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Senate rejects resolution curbing Trump's Iran war powers.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9777939/US-Senate-rejects-resolution-curbing-Trumps-Iran-war-powers.aspx?xy=rss",
-      "published": "2026-09-24T18:38:05+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Forex Today: Fedspeak takes centre stage",
@@ -72,15 +153,6 @@
       "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
       "published": "2026-09-24T18:30:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Meta introduces Horizon Create & Horizon Studio $META",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9777916/Meta-introduces-Horizon-Create--Horizon-Studio-META.aspx?xy=rss",
-      "published": "2026-09-24T18:26:01+00:00",
       "score": 1
     },
     {
@@ -120,24 +192,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar remains under pressure, RBNZ rate hike bets cushion losses",
-      "summary": "NZD/USD trades around 0.5655 at the time of writing on Thursday, down 0.30% on the day. However, the pair limits its losses as the New Zealand Dollar (NZD) benefits from a sharp increase in expectations of further monetary tightening by the Reserve Bank of New Zealand (RBNZ).",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-remains-under-pressure-rbnz-rate-hike-bets-cushion-losses-202609241608",
-      "published": "2026-09-24T16:08:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar falls to two-month low as higher US yields outweigh Oil support",
-      "summary": "USD/CAD extends its advance on Thursday, climbing to its highest level since mid-July. The pair has posted only one daily decline over the past 12 trading days, reflecting the diverging monetary policy outlooks of the Federal Reserve (Fed) and the Bank of Canada (BoC).",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-to-two-month-low-as-higher-us-yields-outweigh-oil-support-202609241528",
-      "published": "2026-09-24T15:28:16+00:00",
-      "score": 3
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
@@ -147,33 +201,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Fed resilience supports gains – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad highlights that the Dollar is advancing broadly as a hawkish Federal Reserve stance combines with strong US economic outperformance.",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-resilience-supports-gains-bbh-202609241448",
-      "published": "2026-09-24T14:48:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed's Paulson warns more hikes possible as inflation fight hardens",
-      "summary": "Philadelphia Federal Reserve (Fed) President Anna Paulson crossed the wires on Thursday, signaling that further rate hikes may be needed to lower inflation. She acknowledged that the rate hike in September helped to “move policy to a better inflation-fighting posture.”",
-      "link": "https://www.fxstreet.com/news/feds-paulson-warns-more-hikes-possible-as-inflation-fight-hardens-202609241447",
-      "published": "2026-09-24T14:47:10+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro hovers near two-month low as hawkish Fed outlook weighs",
-      "summary": "EUR/USD hovers near a two-month low on Thursday as expectations of another Federal Reserve (Fed) interest-rate hike keep the US Dollar (USD) firmly supported. At the time of writing, the pair trades around 1.1372, remaining on the back foot for a fourth consecutive day.",
-      "link": "https://www.fxstreet.com/news/euro-hovers-near-two-month-low-as-hawkish-fed-outlook-weighs-202609241424",
-      "published": "2026-09-24T14:24:36+00:00",
-      "score": 2
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "at 40% win rate a run of five losses inside 100 trades is 98% certain. i sized my account like it was 20%",
@@ -181,15 +208,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wp17aq/at_40_win_rate_a_run_of_five_losses_inside_100/",
       "published": "2026-09-24T13:09:05+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold hits one-week low as hawkish Fed outlook drives yields to multi-year highs",
-      "summary": "Gold (XAU/USD) slides to a one-week low on Thursday as rising US Treasury yields and a stronger US Dollar (USD) reflect an increasingly hawkish Federal Reserve (Fed) outlook. At the time of writing, XAU/USD trades around $4,250, down nearly 0.85% on the day.",
-      "link": "https://www.fxstreet.com/news/gold-bears-tighten-their-grip-as-fed-rate-hike-bets-rise-202609241054",
-      "published": "2026-09-24T10:54:28+00:00",
-      "score": 5
     },
     {
       "source": "r/Forex",
@@ -311,18 +329,18 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
       "published": "2026-08-20T15:00:00+00:00",
       "score": 1
     },
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-      "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
       "published": "2026-08-20T15:00:00+00:00",
       "score": 1
     },
