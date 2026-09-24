@@ -1,7 +1,124 @@
 {
-  "updated_at": "2026-09-23T22:53:46.807979+00:00",
-  "count": 42,
+  "updated_at": "2026-09-24T01:12:55.026432+00:00",
+  "count": 44,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro weakens below 1.1400 as Fed rate hike expectations reinforce US Dollar strength",
+      "summary": "The EUR/USD pair loses ground to near 1.1380 during the early Asian trading hours on Thursday. The major pair extends its downside as hawkish signals from the US Federal Reserve (Fed) boost the US Dollar (USD) against the Euro (EUR).",
+      "link": "https://www.fxstreet.com/news/euro-weakens-below-11400-as-fed-rate-hike-expectations-reinforce-us-dollar-strength-202609240057",
+      "published": "2026-09-24T00:57:23+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Japan S&P Global September flash manufacturing PMI at 54.1 vs 54.9 in August",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9776385/Japan-SP-Global-September-flash-manufacturing-PMI-at-541-vs-549-in-August.aspx?xy=1",
+      "published": "2026-09-24T00:35:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: China’s President Xi: anticipates in-depth talks with Trump - Xinhua",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9776339/Chinas-President-Xi-anticipates-in-depth-talks-with-Trump---Xinhua.aspx?xy=1",
+      "published": "2026-09-24T00:00:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta: handheld AI gadget muse charm to be ready for holiday shipping in December",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9776332/Meta-handheld-AI-gadget-muse-charm-to-be-ready-for-holiday-shipping-in-December.aspx?xy=1",
+      "published": "2026-09-23T23:57:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta reveals portable AI gadget equipped with Muse",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9776331/Meta-reveals-portable-AI-gadget-equipped-with-Muse.aspx?xy=1",
+      "published": "2026-09-23T23:55:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta VR glasses to debut spring 2027 at $1,299.99",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9776324/Meta-VR-glasses-to-debut-spring-2027-at-129999.aspx?xy=1",
+      "published": "2026-09-23T23:43:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta: Meta VR glasses to start at $1,299",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9776323/Meta-Meta-VR-glasses-to-start-at-1299.aspx?xy=1",
+      "published": "2026-09-23T23:42:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta: Ray-Ban Meta Gen 3 launches today with prices starting at $449",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9776322/Meta-Ray-Ban-Meta-Gen-3-launches-today-with-prices-starting-at-449.aspx?xy=1",
+      "published": "2026-09-23T23:39:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta: Ray-Ban Meta Audio launches October 13, available for pre-order at $349",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9776321/Meta-Ray-Ban-Meta-Audio-launches-October-13-available-for-pre-order-at-349.aspx?xy=1",
+      "published": "2026-09-23T23:39:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar cools off against the New Zealand Dollar before jobs data",
+      "summary": "Tuesday's peak just under 1.2500 was the highest for AUD/NZD since early 2013. The cross is trading just above 1.2400, on track for a second straight down day.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-cools-off-against-the-new-zealand-dollar-before-jobs-data-202609232330",
+      "published": "2026-09-23T23:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold falls below $4,300 on Fed hawkish signals",
+      "summary": "Gold price (XAU/USD) tumbles to near $4,290 during the early Asian session on Thursday. The precious metal loses momentum as hawkish signals from Federal Reserve (Fed) policymakers bolstered rate hike expectations, weighing on non-yielding bullion.",
+      "link": "https://www.fxstreet.com/news/gold-falls-below-4-300-on-fed-hawkish-signals-202609232321",
+      "published": "2026-09-23T23:21:32+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar tumbles amid soaring US yields, ahead of jobs data",
+      "summary": "The Aussie Dollar stumbles over 1% against the US Dollar on Wednesday as US Treasury yields soar, with the US 5- and 10-year T-note yields surpassing the 5% threshold amid investor confidence in further Federal Reserve tightening. The AUD/USD trades at 0.7039 after peaking at 0.7118.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-tumbles-amid-soaring-us-yields-ahead-of-jobs-data-202609232306",
+      "published": "2026-09-23T23:06:51+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar slides toward its range floor as US yields climb",
+      "summary": "The bottom of NZD/USD's range since April is about 0.5600, and the pair is back in the lower part of it. It is trading just under 0.5700, its lowest since early July, which is about where it was before the Reserve Bank of New Zealand (RBNZ) began raising rates on July 8.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-slides-toward-its-range-floor-as-us-yields-climb-202609232300",
+      "published": "2026-09-23T23:00:00+00:00",
+      "score": 3
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -12,48 +129,12 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: South Korea’s presidential office: President Lee discussed warship building with U.S. President Donald Trump",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9776232/South-Koreas-presidential-office-President-Lee-discussed-warship-building-with-US-President-Donald-Trump.aspx?xy=rss",
-      "published": "2026-09-23T22:41:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Treasury Secretary Bessent: reports that he will likely be Trump's al czar are probably fake news",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9776199/US-Treasury-Secretary-Bessent-reports-that-he-will-likely-be-Trumps-al-czar-are-probably-fake-news.aspx?xy=rss",
-      "published": "2026-09-23T22:13:08+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "Australia unemployment rate expected to remain unchanged at 4.5% in August",
+      "title": "Australia unemployment rate forecast to remain steady at 4.5% in August",
       "summary": "Australia will release the August monthly employment report on Thursday at 01:30 GMT. Ahead of the announcement, analysts expect the country to have added 20K new jobs in the month, while the Unemployment Rate is expected to remain steady at 4.5%.",
       "link": "https://www.fxstreet.com/news/australia-unemployment-rate-expected-to-remain-unchanged-at-45-in-august-202609232130",
       "published": "2026-09-23T21:30:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Dozens of US oil refining and business groups urge Trump to reject diesel export ban: letter",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9776128/Dozens-of-US-oil-refining-and-business-groups-urge-Trump-to-reject-diesel-export-ban-letter.aspx?xy=rss",
-      "published": "2026-09-23T21:06:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WATCH LIVE: Trump Welcomes Xi 6 PM ET",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9776117/WATCH-LIVE-Trump-Welcomes-Xi-6-PM-ET.aspx?xy=rss",
-      "published": "2026-09-23T20:58:01+00:00",
       "score": 1
     },
     {
@@ -64,15 +145,6 @@
       "link": "https://www.fxstreet.com/news/mexican-peso-selloff-deepens-as-fed-hawks-drive-usd-mxn-toward-1750-202609232057",
       "published": "2026-09-23T20:57:32+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Reporters are gathering for Trump’s departure to Joint Base Andrews - White House Press Pool",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9776116/Reporters-are-gathering-for-Trumps-departure-to-Joint-Base-Andrews---White-House-Press-Pool.aspx?xy=rss",
-      "published": "2026-09-23T20:57:12+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -127,60 +199,6 @@
       "link": "https://www.fxstreet.com/news/us-10-year-yield-hits-a-19-year-high-as-fed-governor-barr-backs-hikes-202609231619",
       "published": "2026-09-23T16:19:52+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones Industrial Average keeps sliding as yields climb on a strong PMI",
-      "summary": "The strongest S&amp;P Global flash Purchasing Managers Index (PMI) readings since 2021 have done nothing for the Dow Jones Industrial Average. Manufacturing came in at 57 against a 53.5 forecast and services at 58.7 against 56.",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-keeps-sliding-as-yields-climb-on-a-strong-pmi-202609231606",
-      "published": "2026-09-23T16:06:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar tumbles as strong US PMI data lifts USD",
-      "summary": "NZD/USD tumbles on Wednesday, losing 1% to trade around 0.5670 at the time of writing. The pair faces strong selling pressure as the US Dollar (USD) benefits from stronger-than-expected United States (US) activity data, reinforcing expectations of further interest-rate hikes.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-tumbles-as-strong-us-pmi-data-lifts-usd-202609231604",
-      "published": "2026-09-23T16:04:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound cracks as US growth burst boosts USD",
-      "summary": "The Pound Sterling (GBP) tanks over 0.70% against the Greenback on Wednesday as US economic data showed business activity is picking up, while fears of a US diesel export ban pushed crude prices higher. The GBP/USD pair trades at 1.3253, its lowest level since July 1.",
-      "link": "https://www.fxstreet.com/news/british-pound-cracks-as-us-growth-burst-sends-us-dollar-higher-202609231600",
-      "published": "2026-09-23T16:00:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro slides as strong US PMI data lifts Fed rate hike bets",
-      "summary": "EUR/USD extends its intraday decline on Wednesday as stronger-than-expected US business activity data reinforces expectations of another Federal Reserve (Fed) rate hike and lifts the US Dollar (USD). At the time of writing, the pair trades around 1.1401, near levels last seen in late July.",
-      "link": "https://www.fxstreet.com/news/euro-slides-as-strong-us-pmi-data-lifts-fed-rate-hike-bets-202609231500",
-      "published": "2026-09-23T15:00:57+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Brazil: Growth outlook and inflation risks – Societe Generale",
-      "summary": "Societe Generale’s Dev Ashish reviews Brazil’s updated macro-fiscal projections from the Finance Ministry, highlighting lower GDP forecasts for 2026-27, persistent household debt-service burdens and a less supportive external backdrop.",
-      "link": "https://www.fxstreet.com/news/brazil-growth-outlook-and-inflation-risks-societe-generale-202609231454",
-      "published": "2026-09-23T14:54:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold slides as strong US PMI data gives Fed room to raise rates again",
-      "summary": "Gold (XAU/USD) trades on the back foot on Wednesday as expectations of further Federal Reserve (Fed) interest rate hikes lift the US Dollar (USD) and weigh on the non-yielding metal. At the time of writing, XAU/USD trades around $4,281 during American trading hours, down 1.75% on the day.",
-      "link": "https://www.fxstreet.com/news/gold-falls-as-fed-rate-hike-bets-lift-us-dollar-to-two-month-high-202609231100",
-      "published": "2026-09-23T11:00:35+00:00",
-      "score": 7
     },
     {
       "source": "r/Forex",
