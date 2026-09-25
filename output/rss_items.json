@@ -1,23 +1,176 @@
 {
-  "updated_at": "2026-09-25T17:27:17.100014+00:00",
+  "updated_at": "2026-09-25T20:41:35.545289+00:00",
   "count": 51,
   "items": [
     {
-      "source": "FinancialJuice",
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "summary": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+      "published": "2026-09-25T20:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Trump: Xi's meeting was one of friendship, strength, and success - Truth Social",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9779545/Trump-Xis-meeting-was-one-of-friendship-strength-and-success---Truth-Social-.aspx?xy=rss",
-      "published": "2026-09-25T17:18:19+00:00",
+      "title": "US Treasury yields rise as 30-Year yield hits 22-year high",
+      "summary": "US Treasury yields turned mixed on Friday as the long-end of the curve, the 20s and 30s, posted gains while the short-end and the belly of the yield curve retreated to multi-year high levels. The US 10-year Treasury yield holds firm at 5.20% after peaking at a 19-year high of 5.228%.",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-30-year-yield-hits-22-year-high-202609252022",
+      "published": "2026-09-25T20:22:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Trade surplus seen widening – ING",
+      "summary": "ING’s Asia-Pacific research notes that South Korea’s upcoming data should show stronger industrial production and a widening trade surplus, even as export and import growth moderates. Technology and semiconductor exports are expected to underpin the surplus.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-trade-surplus-seen-widening-ing-202609252012",
+      "published": "2026-09-25T20:12:00+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump: Will be meeting again in november, in China - Truth Social",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +1926 mln<br />Nasdaq 100: +1155 mln<br />Dow 30: +591 mln<br />Mag 7: +794 mln",
+      "link": "https://www.financialjuice.com/News/9779730/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-09-25T19:50:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Monday FX Option Expiries",
+      "summary": "<div><ul><li><strong>EUR/USD:</strong> 1.1400 (EU4.04b), 1.1500 (EU2.8b), 1.1350 (EU1.73b)</li><li><strong>USD/JPY:</strong> 160.50 ($1.23b), 156.75 ($1.2b), 158.25 ($824.6m)</li><li><strong>USD/BRL:</strong> 5.2200 ($503.3m), 5.2000 ($363.7m)</li><li><strong>AUD/USD:</strong> 0.7100 (AUD1.08b), 0.7300 (AUD564.5m), 0.6700 (AUD396m)</li><li><strong>GBP/USD:</strong> 1.3300 (GBP840m)</li><li><strong",
+      "link": "https://www.financialjuice.com/News/9779683/Monday-FX-Option-Expiries.aspx?xy=rss",
+      "published": "2026-09-25T19:23:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Hammack says policy still isn’t restrictive despite high inflation",
+      "summary": "Cleveland Federal Reserve (Fed) President Beth Hammack said on Friday the two sides of the Fed's dual mandate are not in conflict. She said that “high inflation complicates economic planning,” and that she doesn’t see current policy as restraining the economy.",
+      "link": "https://www.fxstreet.com/news/feds-hammack-says-policy-still-isnt-restrictive-despite-high-inflation-202609251900",
+      "published": "2026-09-25T19:00:32+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: The Fed needs flexibility in this environment which limits guidance.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9779544/Trump-Will-be-meeting-again-in-november-in-China---Truth-Social-.aspx?xy=rss",
-      "published": "2026-09-25T17:18:02+00:00",
+      "link": "https://www.financialjuice.com/News/9779653/Feds-Hammack-The-Fed-needs-flexibility-in-this-environment-which-limits-guidance.aspx?xy=rss",
+      "published": "2026-09-25T18:58:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ECB's Vujcic: I think less about core inflation as my preferred measure than was the case before these shocks",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9779650/ECBs-Vujcic-I-think-less-about-core-inflation-as-my-preferred-measure-than-was-the-case-before-these-shocks.aspx?xy=rss",
+      "published": "2026-09-25T18:54:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Consolidation near lows against US Dollar – UOB",
+      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann note USD/SGD held steady around 1.2800 after Wednesday’s surge, with the Singapore Dollar (SGD) supported by expectations of further MAS tightening.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-lows-against-us-dollar-uob-202609251854",
+      "published": "2026-09-25T18:54:44+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: fed's Hammack: I am mindful of financial conditions, but the Fed is the decision maker on monetary policy.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9779649/feds-Hammack-I-am-mindful-of-financial-conditions-but-the-Fed-is-the-decision-maker-on-monetary-policy.aspx?xy=rss",
+      "published": "2026-09-25T18:49:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Hammack: The US is on an unsustainable fiscal path.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9779648/Feds-Hammack-The-US-is-on-an-unsustainable-fiscal-path.aspx?xy=rss",
+      "published": "2026-09-25T18:49:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's hammock: Inflation expectations are reasonably well anchored.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9779647/Feds-hammock-Inflation-expectations-are-reasonably-well-anchored.aspx?xy=rss",
+      "published": "2026-09-25T18:49:13+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "ECB’s Vujcic warns energy shock could keep inflation hot",
+      "summary": "European Central Bank (ECB) Vice President Boris Vujcic said on Friday that the ECB started a tightening cycle and sees a “risk of higher for longer energy prices.\" He added that diesel prices will stay high for a long time, feeding into inflation.",
+      "link": "https://www.fxstreet.com/news/ecbs-vujcic-warns-energy-shock-could-keep-inflation-hot-202609251834",
+      "published": "2026-09-25T18:34:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Asian FX: Higher yields and Oil weigh – OCBC",
+      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong report that Asian FX traded broadly softer as higher Oil prices and rising US Treasury yields hurt risk sentiment, with Indonesian Rupiah (IDR) underperforming and Philippine Peso (PHP), Indian Rupee (INR) and Thai Baht (THB) also weaker.",
+      "link": "https://www.fxstreet.com/news/asian-fx-higher-yields-and-oil-weigh-ocbc-202609251822",
+      "published": "2026-09-25T18:22:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Hammack warns inflation mindset is the biggest risk",
+      "summary": "The Cleveland Federal Reserve (Fed) President Beth Hammack said on Friday that “the biggest risk with inflation is the formation of an inflationary mindset”, in a panel discussion hosted by the Cleveland Fed, with Vujcic, the Vice President of the European Central Bank (ECB), and Bank of Mexico's (B",
+      "link": "https://www.fxstreet.com/news/feds-hammack-warns-inflation-mindset-is-the-biggest-risk-202609251815",
+      "published": "2026-09-25T18:15:03+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD lacks direction as RSI, ADX signal weak momentum",
+      "summary": "Silver (XAG/USD) holds firm on Friday, supported by a modest pullback in the US Dollar (USD) after its strong weekly rally. At the time of writing, Silver trades around $64.30 but remains on track for a weekly loss.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-lacks-direction-as-rsi-adx-signal-weak-momentum-202609251805",
+      "published": "2026-09-25T18:05:40+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold finds a pulse as WTI slump takes the edge off US Dollar",
+      "summary": "Gold (XAU/USD) price holds firm on Friday after two days of losses, as US bond yields remain high and inflationary concerns mount, increasing the likelihood of further tightening by the Federal Reserve (Fed) and other major central banks.",
+      "link": "https://www.fxstreet.com/news/gold-finds-a-pulse-as-wti-slump-takes-the-edge-off-us-dollar-202609251758",
+      "published": "2026-09-25T17:58:33+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc remains under pressure as Fed-SNB interest rate gap widens",
+      "summary": "USD/CHF holds firm on Friday even as the US Dollar (USD) pulls back slightly after a strong weekly rally. The move has done little to lift the Swiss franc (CHF), with the pair hovering around 0.8285, near levels last seen in May 2025. USD/CHF is on track for a fourth consecutive weekly gain.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-remains-under-pressure-as-fed-snb-interest-rate-gap-widens-202609251743",
+      "published": "2026-09-25T17:43:15+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc: Further losses seem capped against US Dollar – UOB",
+      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann note that USD/CHF has surged over the past two days, with strong momentum pointing to further Dollar strength. However, they stress that deeply overbought conditions are likely to cap upside to the 0.8305–0.8330 area.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-further-losses-seem-capped-against-us-dollar-uob-202609251738",
+      "published": "2026-09-25T17:38:39+00:00",
       "score": 1
     },
     {
@@ -27,51 +180,6 @@
       "summary": "NZD/USD trades around 0.5665 on Friday at the time of writing, virtually unchanged on the day, as the New Zealand Dollar (NZD) struggles to capitalize on a moderate decline in the US Dollar (USD).",
       "link": "https://www.fxstreet.com/news/new-zealand-dollar-holds-steady-as-us-dollar-retreats-202609251658",
       "published": "2026-09-25T16:58:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to unveil New Government website on Tuesday, Elon Musk and NVIDIA's Huang will attend the event - Fox News.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9779508/Trump-to-unveil-New-Government-website-on-Tuesday-Elon-Musk-and-NVIDIAs-Huang-will-attend-the-event---Fox-News.aspx?xy=rss",
-      "published": "2026-09-25T16:54:56+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: US Treasury Secretary Bessent won't be the AI Czar. He doesn't want to be the AI czar and is doing such a great job at the Treasury.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9779506/Trump-US-Treasury-Secretary-Bessent-wont-be-the-AI-Czar-He-doesnt-want-to-be-the-AI-czar-and-is-doing-such-a-great-job-at-the-Treasury.aspx?xy=rss",
-      "published": "2026-09-25T16:51:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: I think we're going to do great.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9779463/Trump-I-think-were-going-to-do-great.aspx?xy=rss",
-      "published": "2026-09-25T16:03:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Discussed Iran with Xi",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9779462/Trump-Discussed-Iran-with-Xi.aspx?xy=rss",
-      "published": "2026-09-25T16:03:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump and China’s President Xi Site Visit - WATCH LIVE",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9779439/Trump-and-Chinas-President-Xi-Site-Visit---WATCH-LIVE.aspx?xy=rss",
-      "published": "2026-09-25T15:52:58+00:00",
       "score": 1
     },
     {
@@ -118,105 +226,6 @@
       "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-expectations-shape-outlook-ing-202609251433",
       "published": "2026-09-25T14:33:52+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Yields support Greenback strength – OCBC",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong highlight that resilient US data, sticky inflation and elevated energy prices are pushing US Treasury yields higher and supporting the US Dollar.",
-      "link": "https://www.fxstreet.com/news/us-dollar-yields-support-greenback-strength-ocbc-202609251417",
-      "published": "2026-09-25T14:17:35+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar rebounds from 0.7000 as US Dollar eases after strong week",
-      "summary": "AUD/USD edges higher on Friday, trading around 0.7025 at the time of writing, up 0.20% on the day.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rebounds-from-07000-as-us-dollar-eases-after-strong-week-202609251417",
-      "published": "2026-09-25T14:17:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso: Banxico stance keeps bar high for hikes – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad reports that Banxico left its policy rate at 6.50% for a third consecutive meeting and removed prior guidance to keep it fixed, while stressing it does not need to match expected Federal Reserve hikes.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-banxico-stance-keeps-bar-high-for-hikes-bbh-202609251356",
-      "published": "2026-09-25T13:56:16+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Pressure persists toward 159.60 against US Dollar - UOB",
-      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann note USD/JPY has risen for five straight sessions to 158.83, with momentum still positive but indicators deeply overbought.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-pressure-persists-toward-15960-against-us-dollar-uob-202609251347",
-      "published": "2026-09-25T13:47:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Credibility restored supports Dollar – Commerzbank",
-      "summary": "Commerzbank’s Thu Lan Nguyen notes that the Fed’s unanimous September rate hike has temporarily restored its credibility and supported the Dollar, prompting a lower EUR/USD year-end forecast to 1.15 from 1.17.",
-      "link": "https://www.fxstreet.com/news/euro-credibility-restored-supports-dollar-commerzbank-202609251336",
-      "published": "2026-09-25T13:36:35+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar set for third weekly decline despite pullback in US Dollar",
-      "summary": "USD/CAD trades little changed on Friday as the US Dollar (USD) pulls back slightly after a strong rally this week. The pause in the Greenback and Treasury yields has offered little relief to the Canadian Dollar (CAD), leaving it on track for a third consecutive weekly decline.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-set-for-second-weekly-decline-despite-pullback-in-us-dollar-202609251331",
-      "published": "2026-09-25T13:31:17+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee: RBI interventions cap losses against US Dollar – Societe Generale",
-      "summary": "Societe Generale reports USD/INR has repeatedly tested 96.00 but failed to break higher as the Reserve Bank of India (RBI) maintained a visible presence in the FX market through interventions.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-interventions-cap-losses-against-us-dollar-societe-generale-202609251316",
-      "published": "2026-09-25T13:16:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Back-end yields support USD consolidation – ING",
-      "summary": "ING strategists Francesco Pesole and Frantisek Taborsky note that rising back-end yields and risk-off sentiment are helping consolidate recent Dollar gains, even if they look stretched versus short-term fundamentals.",
-      "link": "https://www.fxstreet.com/news/us-dollar-back-end-yields-support-usd-consolidation-ing-202609251305",
-      "published": "2026-09-25T13:05:35+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Range-bound against US Dollar as intervention risk looms – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad highlights that political comments from US and Japanese leaders helped push USD/JPY back below its 200-day moving average.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-range-bound-against-us-dollar-as-intervention-risk-looms-bbh-202609251252",
-      "published": "2026-09-25T12:52:46+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Weakness may extend toward 0.6970 against US Dollar - UOB",
-      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann observe that AUD/USD extended its recent slide to 0.7006, with positive divergence hinting at slowing momentum but not yet a clear base.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-weakness-may-extend-toward-06970-against-us-dollar-uob-202609251234",
-      "published": "2026-09-25T12:34:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swedish Krona: Riksbank facing delayed inflation rebound – Commerzbank",
-      "summary": "Commerzbank’s Michael Pfister and Norman Liebke describe how Swedish government tax and fuel measures have temporarily suppressed inflation, keeping the Riksbank on hold at 1.75% with hikes only expected late in the year.",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-facing-delayed-inflation-rebound-commerzbank-202609251223",
-      "published": "2026-09-25T12:23:50+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -449,15 +458,6 @@
       "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
       "summary": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
-      "published": "2026-08-04T20:30:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
-      "summary": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
       "published": "2026-08-04T20:30:00+00:00",
       "score": 1
     }
