@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-09-25T20:41:35.545289+00:00",
-  "count": 51,
+  "updated_at": "2026-09-25T23:36:09.618620+00:00",
+  "count": 46,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google in threat intelligence report: ShinyHunters launches revived widespread attack campaign targeting Oracle PeopleSoft",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9779898/Google-in-threat-intelligence-report-ShinyHunters-launches-revived-widespread-attack-campaign-targeting-Oracle-PeopleSoft.aspx?xy=rss",
+      "published": "2026-09-25T23:28:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Export strength supports KRW – Societe Generale",
+      "summary": "Societe Generale notes the Korean Won has been one of Asia’s standout performers, with USD/KRW slipping from around 1,390 to 1,360 as local exporters sold Dollars ahead of the Chuseok holiday.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-export-strength-supports-krw-societe-generale-202609252141",
+      "published": "2026-09-25T21:41:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Consolidation with downside risk toward 6.7330 – UOB",
+      "summary": "UOB’s Quek Ser Leang and Lee Sue Ann describe USD/CNH as consolidating after a move to 6.7200, with momentum slowing in the very near term.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-consolidation-with-downside-risk-toward-67330-uob-202609252056",
+      "published": "2026-09-25T20:56:00+00:00",
+      "score": 1
+    },
     {
       "source": "Federal Reserve",
       "category": "macro",
@@ -14,8 +41,8 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US Treasury yields rise as 30-Year yield hits 22-year high",
-      "summary": "US Treasury yields turned mixed on Friday as the long-end of the curve, the 20s and 30s, posted gains while the short-end and the belly of the yield curve retreated to multi-year high levels. The US 10-year Treasury yield holds firm at 5.20% after peaking at a 19-year high of 5.228%.",
+      "title": "US Treasury yields rise as 30-year bond hits 22-year high",
+      "summary": "US Treasury yields turned mixed on Friday as the long-end of the curve, the 20s and 30s, posted gains while the short-end and the belly of the yield curve retreated from multi-year high levels. The US 10-year Treasury yield holds firm at 5.20% after peaking at a 19-year high of 5.228%.",
       "link": "https://www.fxstreet.com/news/us-treasury-yields-rise-as-30-year-yield-hits-22-year-high-202609252022",
       "published": "2026-09-25T20:22:47+00:00",
       "score": 1
@@ -39,15 +66,6 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Monday FX Option Expiries",
-      "summary": "<div><ul><li><strong>EUR/USD:</strong> 1.1400 (EU4.04b), 1.1500 (EU2.8b), 1.1350 (EU1.73b)</li><li><strong>USD/JPY:</strong> 160.50 ($1.23b), 156.75 ($1.2b), 158.25 ($824.6m)</li><li><strong>USD/BRL:</strong> 5.2200 ($503.3m), 5.2000 ($363.7m)</li><li><strong>AUD/USD:</strong> 0.7100 (AUD1.08b), 0.7300 (AUD564.5m), 0.6700 (AUD396m)</li><li><strong>GBP/USD:</strong> 1.3300 (GBP840m)</li><li><strong",
-      "link": "https://www.financialjuice.com/News/9779683/Monday-FX-Option-Expiries.aspx?xy=rss",
-      "published": "2026-09-25T19:23:21+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Fed’s Hammack says policy still isn’t restrictive despite high inflation",
@@ -57,24 +75,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Hammack: The Fed needs flexibility in this environment which limits guidance.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9779653/Feds-Hammack-The-Fed-needs-flexibility-in-this-environment-which-limits-guidance.aspx?xy=rss",
-      "published": "2026-09-25T18:58:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB's Vujcic: I think less about core inflation as my preferred measure than was the case before these shocks",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9779650/ECBs-Vujcic-I-think-less-about-core-inflation-as-my-preferred-measure-than-was-the-case-before-these-shocks.aspx?xy=rss",
-      "published": "2026-09-25T18:54:55+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Singapore Dollar: Consolidation near lows against US Dollar – UOB",
@@ -82,33 +82,6 @@
       "link": "https://www.fxstreet.com/news/singapore-dollar-consolidation-near-lows-against-us-dollar-uob-202609251854",
       "published": "2026-09-25T18:54:44+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: fed's Hammack: I am mindful of financial conditions, but the Fed is the decision maker on monetary policy.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9779649/feds-Hammack-I-am-mindful-of-financial-conditions-but-the-Fed-is-the-decision-maker-on-monetary-policy.aspx?xy=rss",
-      "published": "2026-09-25T18:49:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Hammack: The US is on an unsustainable fiscal path.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9779648/Feds-Hammack-The-US-is-on-an-unsustainable-fiscal-path.aspx?xy=rss",
-      "published": "2026-09-25T18:49:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's hammock: Inflation expectations are reasonably well anchored.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9779647/Feds-hammock-Inflation-expectations-are-reasonably-well-anchored.aspx?xy=rss",
-      "published": "2026-09-25T18:49:13+00:00",
-      "score": 2
     },
     {
       "source": "FXStreet",
@@ -208,24 +181,6 @@
       "link": "https://www.fxstreet.com/news/euro-correction-seen-near-key-averages-against-us-dollar-societe-generale-202609251501",
       "published": "2026-09-25T15:01:59+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro set for third weekly decline as hawkish Federal Reserve outlook weighs",
-      "summary": "EUR/USD edges higher on Friday as the US Dollar (USD) pauses after a strong weekly rally, allowing the Euro (EUR) to recover some ground. However, the pair remains on track for a third consecutive weekly decline.",
-      "link": "https://www.fxstreet.com/news/euro-set-for-third-weekly-decline-as-hawkish-federal-reserve-outlook-weighs-202609251451",
-      "published": "2026-09-25T14:51:53+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: RBA hike expectations shape outlook – ING",
-      "summary": "ING economists Deepali Bhargava and Lynn Song expect the Reserve Bank of Australia (RBA) to raise rates by 25bp, citing a still-hot economy, tight labour market conditions and upside surprises in Gross Domestic Product (GDP) and inflation.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-expectations-shape-outlook-ing-202609251433",
-      "published": "2026-09-25T14:33:52+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
