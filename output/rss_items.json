@@ -1,158 +1,167 @@
 {
-  "updated_at": "2026-09-29T01:10:27.094046+00:00",
-  "count": 41,
+  "updated_at": "2026-09-29T06:56:18.923938+00:00",
+  "count": 42,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "RBA set to hike interest rate to 4.60% in September as inflation remains elevated",
-      "summary": "The Reserve Bank of Australia (RBA) is widely expected to raise the Official Cash Rate (OCR) by 25 basis points (bps) to 4.60% from 4.35% on Tuesday, after keeping rates unchanged at its previous two meetings",
-      "link": "https://www.fxstreet.com/news/rba-set-to-hike-interest-rate-to-460-in-september-as-inflation-remains-elevated-202609290030",
-      "published": "2026-09-29T00:30:00+00:00",
+      "title": "New Zealand Dollar declines to near 0.5650 despite RBNZ hike bets",
+      "summary": "The NZD/USD pair loses momentum to near 0.5655 during the early European trading hour on Tuesday. The New Zealand Dollar (NZD) extends its downside to a three-month low against the US Dollar (USD) amid ongoingUS-Iran tensions. Traders will keep an eye on the Fedspeak later on Tuesday.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-declines-to-near-05650-despite-rbnz-hike-bets-202609290652",
+      "published": "2026-09-29T06:52:45+00:00",
       "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index Price Forecast: Likely revisit yearly high at around 101.80",
+      "summary": "The US Dollar (USD) outperforms its peers amid firm expectations that the Federal Reserve (Fed) will deliver more interest rate hikes this year. At press time, the US Dollar Index (DXY), which gauges the Greenback’s value against six major currencies, trades 0.1% higher to near 101.25.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-likely-revisit-yearly-high-at-around-10180-202609290642",
+      "published": "2026-09-29T06:42:46+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar: RBA hike reinforces hawkish stance – Deutsche Bank",
+      "summary": "Deutsche Bank’s macro strategy team notes that the Reserve Bank of Australia raised its cash rate by 25 basis points to 4.60%, in line with expectations. The RBA signalled that inflation remains too high and left the door open to further tightening if needed.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-reinforces-hawkish-stance-deutsche-bank-202609290631",
+      "published": "2026-09-29T06:31:59+00:00",
+      "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: CSL Ltd collaborates with Amazon Web Services",
+      "title": "FinancialJuice: Fed Interest Rate Probabilities",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9782509/CSL-Ltd-collaborates-with-Amazon-Web-Services.aspx?xy=rss",
-      "published": "2026-09-28T23:45:22+00:00",
-      "score": 2
+      "link": "https://www.financialjuice.com/News/9782966/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+      "published": "2026-09-29T06:24:31+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "New Zealand Dollar steadies near its lows as RBNZ hike bets keep building",
-      "summary": "Five straight weekly declines have left NZD/USD at its lowest since late June. Monday's low near 0.5650 matched Thursday's and Friday's, and the pair closed just above it with a small gain.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-near-its-lows-as-rbnz-hike-bets-keep-building-202609282345",
-      "published": "2026-09-28T23:45:00+00:00",
+      "title": "Australian Dollar dips to fresh lows sub-0.7000 despite hawkish RBA Bullock",
+      "summary": "The Australian Dollar (AUD) extends losses against the US Dollar (USD) on Tuesday, despite the Reserve Bank of Australia’s (RBA) interest rate hike and Governor Bullock's comments hinting at further monetary tightening ahead.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-dips-to-fresh-lows-sub-07000-despite-hawkish-rba-bullock-202609290622",
+      "published": "2026-09-29T06:22:42+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: 15 states take federal aviation administration to court over environmental assessment of commercial drone delivery rules - filing",
+      "title": "FinancialJuice: RBA's Gov. Bullock: We need to see quarterly core inflation numbers sitting around 0.6%.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9782508/15-states-take-federal-aviation-administration-to-court-over-environmental-assessment-of-commercial-drone-delivery-rules---filing.aspx?xy=rss",
-      "published": "2026-09-28T23:40:10+00:00",
+      "link": "https://www.financialjuice.com/News/9782962/RBAs-Gov-Bullock-We-need-to-see-quarterly-core-inflation-numbers-sitting-around-06.aspx?xy=rss",
+      "published": "2026-09-29T06:22:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9782961/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+      "published": "2026-09-29T06:22:02+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Japanese Yen flatlines as Friday's rebound on Trump's concern holds",
-      "summary": "Japan's Ministry of Finance (MoF) reports on Wednesday how much Yen it bought between August 27 and September 28, which will show whether the rate check reported on September 18 turned into real money.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-flatlines-as-fridays-rebound-on-trumps-concern-holds-202609282330",
-      "published": "2026-09-28T23:30:00+00:00",
+      "title": "USD/JPY Price Forecast: Tests nine-day EMA support after falling below 157.50",
+      "summary": "USD/JPY loses ground after posting minor gains the previous day, trading around 157.30 during the Asian hours on Tuesday. The currency pair is remaining within a symmetrical triangle, which indicates a period of market consolidation, where neither buyers nor sellers are in control.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-tests-nine-day-ema-support-after-falling-below-15750-202609290615",
+      "published": "2026-09-29T06:15:21+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold tumbles below $4.150 as US bond yields, oil prices rise",
-      "summary": "Gold price (XAU/USD) falls to near $4,125 during the early Asian session on Tuesday. The precious metal faces some selling pressure as rising US Treasury yields and expectations of further Federal Reserve interest rate hikes sap demand for the non-yielding metal.",
-      "link": "https://www.fxstreet.com/news/gold-tumbles-below-4150-as-us-bond-yields-oil-prices-rise-202609282322",
-      "published": "2026-09-28T23:22:44+00:00",
-      "score": 6
+      "title": "GBP/USD Price Forecast: Fresh downside leg likely below 1.3200",
+      "summary": "The British Pound (GBP) is down 0.15% at around 1.3234 against the US Dollar (USD) during the early European trading session on Tuesday.",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-fresh-downside-leg-likely-below-13200-202609290604",
+      "published": "2026-09-29T06:04:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: RBA's Gov. Bullock: We're looking to schedule board meetings around ABS inflation data",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9782944/RBAs-Gov-Bullock-Were-looking-to-schedule-board-meetings-around-ABS-inflation-data.aspx?xy=rss",
+      "published": "2026-09-29T06:02:52+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Australian Dollar holds above 0.70 as RBA hike becomes a done deal",
-      "summary": "The Aussie Dollar dives 0.10% versus the US Dollar as market sentiment deteriorates amid fading US-Iran peace hopes, pushing US bond yields higher while US equity markets fall. Also, price action remained subdued, ahead of the Reserve Bank of Australia (RBA) monetary policy decision.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-holds-above-070-as-rba-hike-becomes-a-done-deal-202609282311",
-      "published": "2026-09-28T23:11:09+00:00",
+      "title": "Indian Rupee declines to two-month low as US-Iran diplomacy hopes recede",
+      "summary": "The Indian Rupee (INR) slides to a fresh two-month low against the US Dollar (USD) on Tuesday, with the USD/INR pair jumping to near 96.13. The pair strengthens as the Indian currency underperforms due to fears of persistent energy supply disruption.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-declines-to-two-month-low-as-us-iran-diplomacy-hopes-recede-202609290545",
+      "published": "2026-09-29T05:45:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indonesian Rupiah holds ground despite inflation, oil risks",
+      "summary": "USD/IDR inches lower after opening at a bullish gap, trading around 18,050 during the Asian hours on Tuesday. However, the pair could rebound as the Indonesian Rupiah (IDR) faces headwinds stemming from broader economic pressures.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-holds-ground-despite-inflation-oil-risks-202609290531",
+      "published": "2026-09-29T05:31:48+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro slips back to its summer low as ECB President Lagarde urges measured hikes",
-      "summary": "Traders betting on a faster European Central Bank (ECB) got pushback from ECB President Lagarde on Monday, and EUR/USD fell back to its late-July low near 1.1350. The pair closed just above 1.1350, three sessions after it broke below 1.1400.",
-      "link": "https://www.fxstreet.com/news/euro-slips-back-to-its-summer-low-as-ecb-president-lagarde-urges-measured-hikes-202609282309",
-      "published": "2026-09-28T23:09:11+00:00",
+      "title": "EUR/USD Price Forecast: Softens to near 1.1350 as bearish bias holds below key averages",
+      "summary": "The EUR/USD pair trades in negative territory around 1.1360 during the early European session on Tuesday. The Euro (EUR) weakens to its lowest since July 28 against the US Dollar (USD), pressured by surging US Treasury bond yields and hawkish signals from the Federal Reserve (Fed) officials.",
+      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-softens-to-near-11350-as-bearish-bias-holds-below-key-averages-202609290511",
+      "published": "2026-09-29T05:11:15+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar gains support as RBA delivers 25-basis-point rate hike",
+      "summary": "AUD/USD gains ground after recovering daily losses, trading around 0.7020 during the Asian hours on Tuesday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gains-support-as-rba-delivers-25-basis-point-rate-hike-202609290437",
+      "published": "2026-09-29T04:37:39+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Dow Jones Industrial Average gives back Friday's rally on a Boeing delay",
-      "summary": "A software bug at Boeing (BA) cost the Dow Jones Industrial Average (DJIA) more points than a record $150 billion buyback at Nvidia (NVDA) put back. The index closed just under 51,500 on Monday, handing back about two-thirds of Friday's rally.",
-      "link": "https://www.fxstreet.com/news/dow-jones-industrial-average-gives-back-fridays-rally-on-a-boeing-delay-202609282039",
-      "published": "2026-09-28T20:39:46+00:00",
+      "title": "Australian Dollar gains as RBA hikes interest rates by 25 bps to 4.6%",
+      "summary": "The Australian Dollar (AUD) attracts significant bids against its major currency peers after the Reserve Bank of Australia’s (RBA) monetary policy announcement. Against the Japanese Yen (JPY), the antipodean has jumped 0.25% to near 110.70.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-gains-as-rba-hikes-interest-rates-by-25-bps-to-46-202609290436",
+      "published": "2026-09-29T04:36:24+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold price crashes as 2007-era yields trigger brutal sell-off",
-      "summary": "Gold (XAU/USD) begins the week on the back foot, tanking over 3.4% on Monday as US Treasury yields soar and Oil prices remain elevated despite falling from daily highs amid mixed news headlines about a potential US-Iran deal. The XAU/USD trades at $4,139 after peaking at $4,280.",
-      "link": "https://www.fxstreet.com/news/gold-price-crashes-as-2007-era-yields-trigger-brutal-sell-off-202609282019",
-      "published": "2026-09-28T20:19:49+00:00",
+      "title": "India Gold price today: Gold rises, according to FXStreet data",
+      "summary": "Gold prices rose in India on Tuesday, according to data compiled by FXStreet.",
+      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202609290435",
+      "published": "2026-09-29T04:35:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold seems vulnerable near eight-week low; break below $4,100 awaited amid Fed hike bets",
+      "summary": "Gold (XAU/USD) struggles to capitalize on a modest Asian session uptick on Tuesday, trading near its lowest level since August 4, around the $4,100 neighborhood, touched the previous day.",
+      "link": "https://www.fxstreet.com/news/gold-bounces-off-eight-week-low-not-out-of-the-woods-amid-rising-fed-hike-bets-202609290422",
+      "published": "2026-09-29T04:22:11+00:00",
       "score": 4
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Japanese Yen trades cautiously as intervention risk clashes with Fed rate hike bets",
-      "summary": "USD/JPY trades little changed around 157.25 on Monday as the US Dollar (USD) also holds steady near recent highs, with traders weighing Middle East developments and the risk of Japanese intervention.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-trades-cautiously-as-intervention-risk-clashes-with-fed-rate-hike-bets-202609281816",
-      "published": "2026-09-28T18:16:59+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: The RBA and Fedspeak grab all the attention",
-      "summary": "The US Dollar (USD) has stated the week with slight gains, resuming its recent uptrend and leaving behind Friday’s hiccup.",
-      "link": "https://www.fxstreet.com/news/forex-today-the-rba-and-fedspeak-grab-all-the-attention-202609281808",
-      "published": "2026-09-28T18:08:40+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US 10-year yield revisits 2007 heights as curve flirts with inversion",
-      "summary": "US Treasury yields climb on Monday as energy prices remain high, amid US President Donald Trump's rejection of a peace agreement with Tehran.",
-      "link": "https://www.fxstreet.com/news/us-10-year-yield-revisits-2007-heights-as-curve-flirts-with-inversion-202609281803",
-      "published": "2026-09-28T18:03:33+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Crude Oil round-trips between a rejected Iran plan and a sanctions offer",
-      "summary": "President Donald Trump's rejection of Iran's seven-day plan for the Strait of Hormuz lifted Crude Oil to its best level since Thursday, and the whole rise was gone after a Saudi pipeline restart and a US offer of sanctions relief.",
-      "link": "https://www.fxstreet.com/news/crude-oil-round-trips-between-a-rejected-iran-plan-and-a-sanctions-offer-202609281737",
-      "published": "2026-09-28T17:37:50+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed’s Cook: AI, Iran risks could keep inflation pressures high",
-      "summary": "Federal Reserve (Fed) Governor Lisa Cook said in a speech in Oakland, California, that the number and magnitude of future adjustments to the Fed funds rate will depend on inflation and labor market data.",
-      "link": "https://www.fxstreet.com/news/feds-cook-says-ai-iran-risks-could-keep-inflation-pressures-high-202609281733",
-      "published": "2026-09-28T17:33:59+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US President Trump to ease sanctions on Iran over nuclear progress",
-      "summary": "Al Jazeera reported on Monday that US President Donald Trump is prepared to ease sanctions on Iran and to unfreeze its assets in exchange for progress on nuclear talks.",
-      "link": "https://www.fxstreet.com/news/us-president-trump-to-ease-sanctions-on-iran-over-nuclear-progress-202609281640",
-      "published": "2026-09-28T16:40:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD: Speculative longs steady as Fed hikes – Rabobank",
-      "summary": "Rabobank’s RaboResearch Global Economics & Markets FX Strategy team notes that USD net long speculative positions were broadly unchanged, with both longs and shorts rising modestly. The Federal Reserve raised its overnight policy rate by 25bp on September 16, matching expectations.",
-      "link": "https://www.fxstreet.com/news/usd-speculative-longs-steady-as-fed-hikes-rabobank-202609281627",
-      "published": "2026-09-28T16:27:11+00:00",
+      "title": "Swiss Franc declines as US Dollar rises on Fed rate hike bets",
+      "summary": "USD/CHF continues its winning streak for the fifth successive trading day, reaching its fresh 16-month high of 0.8327 during Asian hours on Tuesday. The pair gains support as the US Dollar (USD) rises amid ongoing uncertainty surrounding US-Iran negotiations, keeping oil prices elevated.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-declines-as-us-dollar-rises-on-fed-rate-hike-bets-202609290404",
+      "published": "2026-09-29T04:04:30+00:00",
       "score": 2
     },
     {
