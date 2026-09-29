@@ -136,20 +136,20 @@
     "previous": "6.3B"
   },
   {
-    "title": "Italian 10-y Bond Auction",
-    "country": "EUR",
-    "date": "2026-09-29T05:33:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "4.10|1.6"
-  },
-  {
     "title": "10-y Bond Auction",
     "country": "GBP",
-    "date": "2026-09-29T05:33:00-04:00",
+    "date": "2026-09-29T05:02:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": "5.16|3.6"
+  },
+  {
+    "title": "Italian 10-y Bond Auction",
+    "country": "EUR",
+    "date": "2026-09-29T05:04:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "4.10|1.6"
   },
   {
     "title": "German Buba President Nagel Speaks",
