@@ -1,177 +1,303 @@
 {
-  "updated_at": "2026-09-29T13:54:30.639385+00:00",
-  "count": 44,
+  "updated_at": "2026-09-29T19:11:26.281123+00:00",
+  "count": 57,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Micron, Microsoft and AMD CEOs to attend White House lunch - Axios. $MSFT $MU $AMD",
+      "title": "FinancialJuice: Fed's Waller does not comment on monetary policy, economic outlook in remarks on 'Payments in the Age of AI Agents'",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9783599/Micron-Microsoft-and-AMD-CEOs-to-attend-White-House-lunch---Axios-MSFT-MU-AMD.aspx?xy=rss",
-      "published": "2026-09-29T13:45:07+00:00",
+      "link": "https://www.financialjuice.com/News/9784155/Feds-Waller-does-not-comment-on-monetary-policy-economic-outlook-in-remarks-on-Payments-in-the-Age-of-AI-Agents.aspx?xy=rss",
+      "published": "2026-09-29T19:00:21+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Morgan Stanley on Earnings - FJElite",
-      "summary": "<div>While the S&amp;P 500 has made little headway since early June, the adjustment beneath the surface has been significant. As we have emphasized all year, earnings strength is doing the heavy lifting as higher energy prices and rates pressure valuations. That also makes higher crude—and especially refined product prices—more of an inflation risk than a growth risk given the strength of the busi",
-      "link": "https://www.financialjuice.com/News/9783594/Morgan-Stanley-on-Earnings---FJElite.aspx?xy=rss",
-      "published": "2026-09-29T13:34:15+00:00",
+      "title": "FinancialJuice: Traders now see about a 50-50 chance of a Fed rate hike in October, down from about 70% previously.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9784152/Traders-now-see-about-a-50-50-chance-of-a-Fed-rate-hike-in-October-down-from-about-70-previously.aspx?xy=rss",
+      "published": "2026-09-29T18:51:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Traders trim bets on October Fed rate hike, see just one Fed rate hike by year-end after Fed's Williams says 'no urgency' on Fed action",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9784151/Traders-trim-bets-on-October-Fed-rate-hike-see-just-one-Fed-rate-hike-by-year-end-after-Feds-Williams-says-no-urgency-on-Fed-action.aspx?xy=rss",
+      "published": "2026-09-29T18:49:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: starting to see some data that shows AI bolstering productivity gains.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9784150/Feds-Williams-starting-to-see-some-data-that-shows-AI-bolstering-productivity-gains.aspx?xy=rss",
+      "published": "2026-09-29T18:48:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: AI is driving up asset market valuations, bolstering the wealth effect.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9784149/Feds-Williams-AI-is-driving-up-asset-market-valuations-bolstering-the-wealth-effect.aspx?xy=rss",
+      "published": "2026-09-29T18:47:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump ends remarks to reporters.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9784132/Trump-ends-remarks-to-reporters.aspx?xy=rss",
+      "published": "2026-09-29T18:39:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: AI leaders want to do the right thing",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9784131/Trump-AI-leaders-want-to-do-the-right-thing.aspx?xy=rss",
+      "published": "2026-09-29T18:39:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: AI leaders to work with local communities on data centers.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9784130/Trump-AI-leaders-to-work-with-local-communities-on-data-centers.aspx?xy=rss",
+      "published": "2026-09-29T18:38:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on AI: Self-regulation is very important.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9784129/Trump-on-AI-Self-regulation-is-very-important.aspx?xy=rss",
+      "published": "2026-09-29T18:37:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on AI: Should be tremendous self-regulation.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9784128/Trump-on-AI-Should-be-tremendous-self-regulation.aspx?xy=rss",
+      "published": "2026-09-29T18:37:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on AI Lunch: There was a lot of 'commonality' in the room.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9784127/Trump-on-AI-Lunch-There-was-a-lot-of-commonality-in-the-room.aspx?xy=rss",
+      "published": "2026-09-29T18:37:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: US has a big lead in AI, we'll keep our lead",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9784126/Trump-US-has-a-big-lead-in-AI-well-keep-our-lead.aspx?xy=rss",
+      "published": "2026-09-29T18:36:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: What we spoke about will make the world safer",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9784125/Trump-What-we-spoke-about-will-make-the-world-safer.aspx?xy=rss",
+      "published": "2026-09-29T18:35:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on AI meeting: Very good, very productive",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9784124/Trump-on-AI-meeting-Very-good-very-productive.aspx?xy=rss",
+      "published": "2026-09-29T18:35:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: Determining how restrictive monetary policy is is hard.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9784123/Feds-Williams-Determining-how-restrictive-monetary-policy-is-is-hard.aspx?xy=rss",
+      "published": "2026-09-29T18:32:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Mediators push to break US-Iran deadlock - FT",
+      "summary": "<ul><li>Mediators are renewing efforts to negotiate a settlement between the United States and Iran, days after President Donald Trump rejected an Iranian request to reopen the Strait of Hormuz and restart talks to end the war.</li><li>Negotiators were due to give over the latest updated copy of a potential interim agreement to Iran on Tuesday, following a day of back-and-forth between US and Iran",
+      "link": "https://www.financialjuice.com/News/9784104/Mediators-push-to-break-US-Iran-deadlock---FT.aspx?xy=rss",
+      "published": "2026-09-29T18:31:08+00:00",
       "score": 2
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: JPMorgan on US Midterms & VIX - FJElite",
-      "summary": "<div><strong>US MIDTERMS: </strong>Vol screens cheap into the event: options price only a modest election premium and the VIX curve is well below prior midterm setups despite macro overhangs (rates, Iran/oil, AI). We recommend buying VIX Oct call spreads for a pre-election vol lift and/or macro flare-up. Regardless of the final result, shifting policy expectations could catalyze single stock volat",
-      "link": "https://www.financialjuice.com/News/9783578/JPMorgan-on-US-Midterms--VIX---FJElite.aspx?xy=rss",
-      "published": "2026-09-29T13:30:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: -91 mln<br />Nasdaq 100: -4 mln<br />Dow 30: -2 mln<br />Mag 7: +3 mln",
-      "link": "https://www.financialjuice.com/News/9783577/MOO-Imbalance.aspx?xy=rss",
-      "published": "2026-09-29T13:30:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs: Over the last 3 months, markets have priced more risk from oil, rates and AI themes - FJElite",
-      "summary": "<div><strong>Rates, energy and AI:</strong> same risks, better priced. Core rates have pushed to new highs in recent sessions, although so far they have served only to limit the gains in rather than to break risky assets. Similar stories have played out across the three main risk factors we have been flagging over the summer—rates, energy prices and AI. Our baseline views are still mostly benign i",
-      "link": "https://www.financialjuice.com/News/9783572/Goldman-Sachs-Over-the-last-3-months-markets-have-priced-more-risk-from-oil-rates-and-AI-themes---FJElite.aspx?xy=rss",
-      "published": "2026-09-29T13:25:56+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs on RBA Rate - FJElite",
-      "summary": "<div><strong>BOTTOM LINE:</strong> The RBA raised the cash rate 25bp to 4.60% at today's meeting, in line with our and consensus expectations (GSe 4.60%). The Monetary Policy Board’s (MPB) decision was unanimous, with financial markets priced for 24.2bp of tightening prior to the meeting. The brief statement attending the decision retained a tightening bias and was in line with our expectations. T",
-      "link": "https://www.financialjuice.com/News/9783571/Goldman-Sachs-on-RBA-Rate---FJElite.aspx?xy=rss",
-      "published": "2026-09-29T13:23:06+00:00",
+      "title": "United States Dollar Index approaches yearly peak on hawkish Fed outlook",
+      "summary": "The US Dollar Index (DXY) extends gains on Tuesday, approaching its year-to-date high as expectations of further Federal Reserve (Fed) interest-rate hikes drive strong demand for the Greenback.",
+      "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-peak-on-hawkish-fed-outlook-202609291831",
+      "published": "2026-09-29T18:31:01+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Bund yields: Short-covering seen shallow – Societe Generale",
-      "summary": "Societe Generale’s Kenneth Broux observes Bunds and Bonos retracing from recent yield highs despite a strong upside surprise in Spain’s CPI. The bank warns that if this inflation pattern is replicated across the Euro area, risks are skewed to an upside surprise in core HICP. Bund short-covering and yield dips are seen as potentially shallow, with topside levels at 3.70%/3.74% and support at 3.54%.",
-      "link": "https://www.fxstreet.com/news/bund-yields-short-covering-seen-shallow-societe-generale-202609291300",
-      "published": "2026-09-29T13:00:19+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecasts: XAG/USD holds below $ 61.00 amid US Dollar strength",
-      "summary": "Silver (XAG/USD) remains practically flat on Tuesday, trading at its lowest levels in nearly two months on Tuesday, around $60.80, failing to find follow-through above $61.00 and on track for a 8.5% monthly selloff in September.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-holds-below-6100-amid-us-dollar-strength-202609291159",
-      "published": "2026-09-29T11:59:52+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: MAS tightening expectations support resilience – OCBC",
-      "summary": "OCBC’s Christopher Wong observes that Singapore Dollar (SGD) has held relatively steady despite softer Asian FX, with USD/SGD around 1.2780.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-tightening-expectations-support-resilience-ocbc-202609291143",
-      "published": "2026-09-29T11:43:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: RBA hike to support AUD/USD – BBH",
-      "summary": "Brown Brothers Harriman highlights that the Reserve Bank of Australia delivered a widely expected 25 bps hike to 4.60%, a 15-year high, and kept the door open to further tightening. AUD/USD initially rallied on the hawkish statement but reversed as Governor Michele Bullock signaled less urgency.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-rba-hike-to-support-aud-usd-bbh-202609291138",
-      "published": "2026-09-29T11:38:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: EUR/USD bearish bias converging on support – Societe Generale",
-      "summary": "Societe Generale’s FX strategy team reports EUR/USD remains under pressure, trading at a three-month low and moving toward the June low at 1.1325. The bank flags support at 1.1325 and 1.1270, with resistance at 1.1410. Widening 2-year UST/EGB spreads and upcoming US PCE and NFP data are seen pulling EUR/USD closer to these vital support levels.",
-      "link": "https://www.fxstreet.com/news/euro-eur-usd-bearish-bias-converging-on-support-societe-generale-202609291136",
-      "published": "2026-09-29T11:36:49+00:00",
+      "title": "Fed’s Williams says no rush after September hike",
+      "summary": "The New York Fed Governor John Williams said that he “sees no need for urgency after September rate hike,” a dovish statement that pushed the US Dollar Index (DXY) modestly lower, though it remains positive in the day.",
+      "link": "https://www.fxstreet.com/news/feds-williams-says-no-rush-after-september-hike-202609291822",
+      "published": "2026-09-29T18:22:33+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US yields: Real rates climb on Fed credibility – BNY Markets",
-      "summary": "BNY Markets’ John Velis observes that US real yields across the curve have risen sharply, driven more by expectations of further policy tightening than by inflation fears. Markets see the Fed and other central banks reacting to inflation, pushing long-term yields higher while breakevens stay rangebound. Robust growth, AI-related capex and contained term premia also support higher real rates.",
-      "link": "https://www.fxstreet.com/news/us-yields-real-rates-climb-on-fed-credibility-bny-markets-202609291125",
-      "published": "2026-09-29T11:25:26+00:00",
+      "title": "Fed’s Goolsbee: Persistent inflation is like “playing with fire”",
+      "summary": "Chicago Federal Reserve (Fed) President Austan Goolsbee, a voter in the Federal Open Market Committee (FOMC) in 2027, said Tuesday that “the fact that we have been 5 ½ years above inflation target is playing with fire,” adding that “massive deficits” can overheat the economy.",
+      "link": "https://www.fxstreet.com/news/feds-goolsbee-says-persistent-inflation-is-like-playing-with-fire-202609291812",
+      "published": "2026-09-29T18:12:37+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: Focus shifts to US PCE, ADP, inflation in OZ and Chinese PMIs",
+      "summary": "The US Dollar (USD) has accelerated its recovery, adding to the positive start to the week and clinching new multi-week tops, always helped by the persistent advance in US Treasury yields and unabated geopolitical concerns.",
+      "link": "https://www.fxstreet.com/news/forex-today-focus-shifts-to-us-pce-adp-inflation-in-oz-and-chinese-pmis-202609291806",
+      "published": "2026-09-29T18:06:59+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Musalem says policy still accommodative as demand fuels inflation",
+      "summary": "St. Louis Federal Reserve (Fed) President Alberto Musalem crossed the wires on Tuesday, saying that central bankers needn’t make promises but should tell the public how and why the central bank makes policy decisions.",
+      "link": "https://www.fxstreet.com/news/musalem-says-fed-must-explain-decisions-without-policy-pledges-202609291748",
+      "published": "2026-09-29T17:48:05+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Barr calls economy “strikingly” resilient, defends last hike",
+      "summary": "Federal Reserve (Fed) Governor Michael Barr said Tuesday that he sees “elevated wage rates in the skilled trades,” and added that the resilience of the US economy is “striking.”",
+      "link": "https://www.fxstreet.com/news/feds-barr-calls-economy-strikingly-resilient-defends-last-hike-202609291735",
+      "published": "2026-09-29T17:35:35+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price retreats as rising US yields, Hormuz tensions bolster US Dollar",
+      "summary": "Silver (XAG/USD) retreats on Tuesday and trades around $60.75 at the time of writing, down 0.38% on the day.",
+      "link": "https://www.fxstreet.com/news/silver-price-retreats-as-rising-us-yields-hormuz-tensions-bolster-us-dollar-202609291719",
+      "published": "2026-09-29T17:19:03+00:00",
       "score": 4
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound recovers slight losses against US Dollar, JOLTS data eyed",
-      "summary": "The British Pound (GBP) claws back some of its early losses, but is still 0.14% down at around 1.3235 against the US Dollar (USD) during the European trading session on Tuesday.",
-      "link": "https://www.fxstreet.com/news/british-pound-recovers-slight-losses-against-us-dollar-jolts-data-eyed-202609291120",
-      "published": "2026-09-29T11:20:02+00:00",
+      "title": "Fed’s Barr says policy needs recalibration, more adjustments likely",
+      "summary": "Federal Reserve (Fed) Governor Michael Barr said on Tuesday that “there is a need to recalibrate policy” and that the base case is that “further policy adjustments” are likely needed.",
+      "link": "https://www.fxstreet.com/news/feds-barr-says-policy-needs-recalibration-more-adjustments-likely-202609291652",
+      "published": "2026-09-29T16:52:59+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "New Zealand Dollar falls toward 0.5650 despite rising RBNZ rate hike bets",
-      "summary": "NZD/USD declines to around 0.5650 at the time of writing on Tuesday, down 0.25% on the day, and remains close to its lowest level since late June.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-falls-toward-05650-despite-rising-rbnz-rate-hike-bets-202609291101",
-      "published": "2026-09-29T11:01:03+00:00",
+      "title": "ECB’s DeMarco backs October hike as core inflation stays firm",
+      "summary": "Alexander DeMarco, the Governor of the Central Bank of Malta and member of the Governing Council of the European Central Bank (ECB), crossed the wires on Tuesday, saying that “stronger core inflation” could be a reason for the central bank to act, and that he supports a rate hike in October.",
+      "link": "https://www.fxstreet.com/news/ecbs-demarco-backs-october-hike-as-core-inflation-stays-firm-202609291622",
+      "published": "2026-09-29T16:22:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound slips as 2004-era US yields lift the US Dollar",
+      "summary": "The Pound Sterling (GBP) drops some 0.38% against the US Dollar (USD) on Tuesday as the latter continues to appreciate, even though US Consumer Confidence deteriorated and jobs data confirmed the strength of the US labor market.",
+      "link": "https://www.fxstreet.com/news/british-pound-slips-to-132-as-2004-era-us-yields-lift-the-us-dollar-202609291611",
+      "published": "2026-09-29T16:11:53+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro falls to three-month low as hawkish Fed outlook weighs",
+      "summary": "EUR/USD extends its decline on Tuesday, falling to its lowest level since late June as broad-based US Dollar (USD) strength keeps the Euro (EUR) under pressure. At the time of writing, EUR/USD trades around 1.1331, down 0.35% on the day.",
+      "link": "https://www.fxstreet.com/news/euro-falls-to-three-month-low-as-hawkish-fed-outlook-weighs-202609291543",
+      "published": "2026-09-29T15:43:53+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canada: GDP growth moderates in July but stays on track for solid quarter – NBC",
+      "summary": "National Bank of Canada's Alexandra Ducharme notes that Canadian Gross Domestic Product (GDP) growth moderated in July after three strong months, with both goods and services output flat.",
+      "link": "https://www.fxstreet.com/news/canada-gdp-growth-moderates-in-july-but-stays-on-track-for-solid-quarter-nbc-202609291513",
+      "published": "2026-09-29T15:13:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Rates reaction follows GDP – TD Securities",
+      "summary": "TD Securities Macro Research Insight notes that markets began to sell off again following the flat July Canadian GDP print, despite its underwhelming nature. The move is concentrated in the front to mid-curve, with Bank of Canada (BoC) pricing unchanged and US yields near key technical levels.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-rates-reaction-follows-gdp-td-securities-202609291506",
+      "published": "2026-09-29T15:06:18+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "India rates: Gradual hiking path – Standard Chartered",
+      "summary": "Standard Chartered Global Research argues India’s Monetary Policy Committee will raise the repo rate by 25bps to 5.50% in October and deliver another 25bps hike in December. The authors highlight rising domestic inflation, robust GDP growth and hawkish MPC minutes as justification.",
+      "link": "https://www.fxstreet.com/news/india-rates-gradual-hiking-path-standard-chartered-202609291502",
+      "published": "2026-09-29T15:02:20+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar falls below 0.7000 as RBA hike fails to convince bulls",
+      "summary": "AUD/USD trades around 0.6990 at the time of writing on Tuesday, down 0.39% on the day, after failing to sustain an initial rally following the Reserve Bank of Australia’s (RBA) monetary policy decision.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-falls-below-07000-as-rba-hike-fails-to-convince-bulls-202609291449",
+      "published": "2026-09-29T14:49:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar remains under pressure after flat GDP reading",
+      "summary": "USD/CAD remains on the front foot on Tuesday, supported by broad-based strength in the US Dollar (USD), while traders also digest the latest Canadian growth data. At the time of writing, the pair trades around 1.4187, hovering near levels last seen in early July.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-remains-under-pressure-after-flat-gdp-reading-202609291434",
+      "published": "2026-09-29T14:34:24+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
       "title": "Gold steadies after sharp drop as traders assess Fed outlook, Middle East risks",
-      "summary": "Gold (XAU/USD) stages a rebound on Tuesday after suffering a sharp sell-off at the start of the week. The move appears to be a corrective bounce, as the broader narrative remains tied to expectations of further Federal Reserve (Fed) interest rate hikes.",
+      "summary": "Gold (XAU/USD) holds firm on Tuesday after suffering a sharp sell-off at the start of the week. The move appears to be a corrective bounce, as the broader narrative remains tied to expectations of further Federal Reserve (Fed) interest rate hikes.",
       "link": "https://www.fxstreet.com/news/gold-steadies-after-sharp-drop-as-traders-assess-fed-outlook-middle-east-risks-202609291058",
       "published": "2026-09-29T10:58:18+00:00",
       "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro approaches yearly lows at 1.1324 against an unstoppable US Dollar",
-      "summary": "The Euro (EUR) keeps heading lower on Tuesday as a mix of high US Treasury yields, strong US macroeconomic data, and hopes of further Federal Reserve (Fed) rate hikes underpins speculative support for the US Dollar.",
-      "link": "https://www.fxstreet.com/news/euro-approaches-yearly-lows-at-11324-against-an-unstoppable-us-dollar-202609291050",
-      "published": "2026-09-29T10:50:24+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: DXY approaches June high – BBH",
-      "summary": "Brown Brothers Harriman’s Elias Haddad notes the Dollar is edging higher against major currencies, with the DXY index approaching its June 24 high near 101.80.",
-      "link": "https://www.fxstreet.com/news/us-dollar-dxy-approaches-june-high-bbh-202609291038",
-      "published": "2026-09-29T10:38:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso: USD/MXN rally nears forecast zone – Societe Generale",
-      "summary": "Societe Generale’s Latam strategy notes the Mexican Peso (MXN) is heading for its worst month since August 2024, with losses nearing 5% versus the Dollar as higher US yields weigh on risk sentiment.",
-      "link": "https://www.fxstreet.com/news/usd-mxn-rally-nears-forecast-zone-societe-generale-202609291035",
-      "published": "2026-09-29T10:35:35+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "AUD/USD Price Forecast: Breaks below 61.8% Fibo retracement at 0.7010",
-      "summary": "The Australian Dollar (AUD) underperforms its major currency peers during the European trading session on Tuesday. The antipodean is down almost 0.4% below 0.7000 against the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-breaks-below-618-fibo-retracement-at-07010-202609291018",
-      "published": "2026-09-29T10:18:15+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -180,15 +306,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wt4ftt/missing_out/\"> <img alt=\"Missing out\" src=\"https://preview.redd.it/peu9ku1z4fsh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=449b3a874d9729fa58d0b2911947d3225ea1fa78\" title=\"Missing out\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I hope everyone is taking advantage of the USDCAD bull run</p> </div><!-- SC_ON --",
       "link": "https://www.reddit.com/r/Forex/comments/1wt4ftt/missing_out/",
       "published": "2026-09-29T08:18:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee claws back early losses and closes flat on Tuesday",
-      "summary": "The Indian Rupee (INR) recovers its early losess after sliding to a fresh two-month low against the US Dollar (USD) and closed flat on Tuesday. The USD/INR pair closes flat at around 95.98 after rectreating from the day's high of 96.13.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-declines-to-two-month-low-as-us-iran-diplomacy-hopes-recede-202609290545",
-      "published": "2026-09-29T05:45:09+00:00",
       "score": 1
     },
     {
