@@ -1,15 +1,78 @@
 {
-  "updated_at": "2026-09-28T21:20:58.475290+00:00",
-  "count": 29,
+  "updated_at": "2026-09-29T01:10:27.094046+00:00",
+  "count": 41,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "RBA set to hike interest rate to 4.60% in September as inflation remains elevated",
+      "summary": "The Reserve Bank of Australia (RBA) is widely expected to raise the Official Cash Rate (OCR) by 25 basis points (bps) to 4.60% from 4.35% on Tuesday, after keeping rates unchanged at its previous two meetings",
+      "link": "https://www.fxstreet.com/news/rba-set-to-hike-interest-rate-to-460-in-september-as-inflation-remains-elevated-202609290030",
+      "published": "2026-09-29T00:30:00+00:00",
+      "score": 2
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Anthropic collaborates with Nvidia on agent security\n$NVDA",
+      "title": "FinancialJuice: CSL Ltd collaborates with Amazon Web Services",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9782335/Anthropic-collaborates-with-Nvidia-on-agent-securityNVDA.aspx?xy=rss",
-      "published": "2026-09-28T20:55:25+00:00",
+      "link": "https://www.financialjuice.com/News/9782509/CSL-Ltd-collaborates-with-Amazon-Web-Services.aspx?xy=rss",
+      "published": "2026-09-28T23:45:22+00:00",
       "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "New Zealand Dollar steadies near its lows as RBNZ hike bets keep building",
+      "summary": "Five straight weekly declines have left NZD/USD at its lowest since late June. Monday's low near 0.5650 matched Thursday's and Friday's, and the pair closed just above it with a small gain.",
+      "link": "https://www.fxstreet.com/news/new-zealand-dollar-steadies-near-its-lows-as-rbnz-hike-bets-keep-building-202609282345",
+      "published": "2026-09-28T23:45:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: 15 states take federal aviation administration to court over environmental assessment of commercial drone delivery rules - filing",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9782508/15-states-take-federal-aviation-administration-to-court-over-environmental-assessment-of-commercial-drone-delivery-rules---filing.aspx?xy=rss",
+      "published": "2026-09-28T23:40:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen flatlines as Friday's rebound on Trump's concern holds",
+      "summary": "Japan's Ministry of Finance (MoF) reports on Wednesday how much Yen it bought between August 27 and September 28, which will show whether the rate check reported on September 18 turned into real money.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-flatlines-as-fridays-rebound-on-trumps-concern-holds-202609282330",
+      "published": "2026-09-28T23:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold tumbles below $4.150 as US bond yields, oil prices rise",
+      "summary": "Gold price (XAU/USD) falls to near $4,125 during the early Asian session on Tuesday. The precious metal faces some selling pressure as rising US Treasury yields and expectations of further Federal Reserve interest rate hikes sap demand for the non-yielding metal.",
+      "link": "https://www.fxstreet.com/news/gold-tumbles-below-4150-as-us-bond-yields-oil-prices-rise-202609282322",
+      "published": "2026-09-28T23:22:44+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar holds above 0.70 as RBA hike becomes a done deal",
+      "summary": "The Aussie Dollar dives 0.10% versus the US Dollar as market sentiment deteriorates amid fading US-Iran peace hopes, pushing US bond yields higher while US equity markets fall. Also, price action remained subdued, ahead of the Reserve Bank of Australia (RBA) monetary policy decision.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-holds-above-070-as-rba-hike-becomes-a-done-deal-202609282311",
+      "published": "2026-09-28T23:11:09+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro slips back to its summer low as ECB President Lagarde urges measured hikes",
+      "summary": "Traders betting on a faster European Central Bank (ECB) got pushback from ECB President Lagarde on Monday, and EUR/USD fell back to its late-July low near 1.1350. The pair closed just above 1.1350, three sessions after it broke below 1.1400.",
+      "link": "https://www.fxstreet.com/news/euro-slips-back-to-its-summer-low-as-ecb-president-lagarde-urges-measured-hikes-202609282309",
+      "published": "2026-09-28T23:09:11+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
@@ -28,33 +91,6 @@
       "link": "https://www.fxstreet.com/news/gold-price-crashes-as-2007-era-yields-trigger-brutal-sell-off-202609282019",
       "published": "2026-09-28T20:19:49+00:00",
       "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Will visit Iowa",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9782270/Trump-Will-visit-Iowa.aspx?xy=rss",
-      "published": "2026-09-28T19:53:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: -332 mln<br />Nasdaq 100: +613 mln<br />Dow 30: -251 mln<br />Mag 7: +16 mln",
-      "link": "https://www.financialjuice.com/News/9782266/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-09-28T19:50:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia's CEO Huang is among executives expected at Tuesday's meeting at the White House - Person Familiar with the Matter. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9782230/Nvidias-CEO-Huang-is-among-executives-expected-at-Tuesdays-meeting-at-the-White-House---Person-Familiar-with-the-Matter-NVDA.aspx?xy=rss",
-      "published": "2026-09-28T19:25:21+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -120,87 +156,6 @@
       "score": 2
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound defies US yields surge as BoE hike bets build",
-      "summary": "The Pound Sterling (GBP) registers modest gains of 0.18% on Monday even as US Treasury yields soar, with the US 10-year T-note rising over 10 basis points, underpinning the Greenback. At the time of writing, the GBP/USD pair trades at 1.3252.",
-      "link": "https://www.fxstreet.com/news/british-pound-defies-us-yields-surge-as-boe-hike-bets-build-202609281551",
-      "published": "2026-09-28T15:51:19+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD plunges 5% as momentum indicators turn bearish",
-      "summary": "Silver (XAG/USD) falls around 5% on Monday, slipping to its lowest level since early August.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-plunges-5-as-momentum-indicators-turn-bearish-202609281539",
-      "published": "2026-09-28T15:39:09+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP: Shorts at highs as Pound tracks Oil-led USD rally – Rabobank",
-      "summary": "Rabobank highlights that GBP net short positions have risen over 40%, reaching their highest level since August. The Bank of England kept the Bank Rate unchanged at 3.75% on September 18, in line with expectations.",
-      "link": "https://www.fxstreet.com/news/gbp-shorts-at-highs-as-pound-tracks-oil-led-usd-rally-rabobank-202609281530",
-      "published": "2026-09-28T15:30:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro struggles as Fed rate-hike bets overshadow ECB tightening expectations",
-      "summary": "EUR/USD trades on the back foot on Monday, pressured by a stronger US Dollar (USD) as the US-Iran stalemate keeps Oil prices elevated, pushing US Treasury yields higher and strengthening expectations of further Federal Reserve (Fed) rate hikes.",
-      "link": "https://www.fxstreet.com/news/euro-struggles-as-fed-rate-hike-bets-overshadow-ecb-tightening-expectations-202609281522",
-      "published": "2026-09-28T15:22:31+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/CAD: Overbought but seen sideways into year end – Rabobank",
-      "summary": "Rabobank’s FX Strategy team observes that CAD net shorts have risen again after a recent collapse. USD/CAD has continued to grind higher, gaining 2.77% from recent lows to 1.414, with the 14‑day RSI indicating overbought conditions.",
-      "link": "https://www.fxstreet.com/news/usd-cad-overbought-but-seen-sideways-into-year-end-rabobank-202609281427",
-      "published": "2026-09-28T14:27:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Lagarde: ECB sticks to “middle path” as inflation outlook worsens",
-      "summary": "European Central Bank (ECB) President Christine Lagarde said on Monday the bloc's economy continued to expand broadly across countries and sectors, with manufacturing and the labour market holding up well.",
-      "link": "https://www.fxstreet.com/news/lagarde-ecb-sticks-to-middle-path-as-inflation-outlook-worsens-202609281339",
-      "published": "2026-09-28T13:39:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Bonds: Yields challenge equity valuations – BBH",
-      "summary": "Brown Brothers Harriman’s Elias Haddad notes that rising global bond yields, driven by a rebound in Oil prices and uncertainty around US-Iran talks, are making Treasuries more attractive than equities.",
-      "link": "https://www.fxstreet.com/news/bonds-yields-challenge-equity-valuations-bbh-202609281324",
-      "published": "2026-09-28T13:24:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Fed hiking path and data risks – TD Securities",
-      "summary": "TD Securities economists Oscar Munoz and Eli Nir see an October Federal Reserve hike as increasingly likely, with Fedspeak remaining hawkish and officials “expecting more hikes.” They highlight strong PCE inflation, modest ISM Manufacturing gains, and a softer September NFP with higher unemployment.",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-hiking-path-and-data-risks-td-securities-202609281320",
-      "published": "2026-09-28T13:20:54+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold tumbles over 3.5% as Fed rate-hike bets, surging US Treasury yields weigh",
-      "summary": "Gold (XAU/USD) remains under strong selling pressure on Monday, down over 3.5% as elevated Oil prices reinforce expectations of further Federal Reserve (Fed) interest rate hikes. At the time of writing, XAU/USD trades around $4,121, its lowest level since August 5.",
-      "link": "https://www.fxstreet.com/news/gold-slides-nearly-3-as-fed-hike-bets-rising-treasury-yields-weigh-202609281103",
-      "published": "2026-09-28T11:03:54+00:00",
-      "score": 5
-    },
-    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "XAUUSD SETUP NEW",
@@ -237,6 +192,15 @@
       "score": 5
     },
     {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "summary": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+      "published": "2026-09-25T20:30:00+00:00",
+      "score": 1
+    },
+    {
       "source": "r/Forex",
       "category": "reddit",
       "title": "Does anyone know what are main selling lvls in xauusd ?",
@@ -262,14 +226,153 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wpmyeo/chfjpy_short/",
       "published": "2026-09-25T04:29:09+00:00",
       "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+      "published": "2026-09-24T18:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+      "published": "2026-09-24T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+      "summary": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+      "published": "2026-09-22T20:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+      "published": "2026-09-18T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+      "published": "2026-09-18T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve issues FOMC statement",
+      "summary": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "published": "2026-09-16T18:00:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+      "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+      "published": "2026-09-16T18:00:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+      "published": "2026-09-04T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+      "published": "2026-08-27T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+      "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+      "published": "2026-08-20T20:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+      "published": "2026-08-20T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+      "published": "2026-08-20T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "summary": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+      "published": "2026-08-19T18:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
+      "published": "2026-08-13T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "summary": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
+      "published": "2026-08-04T20:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "summary": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
+      "published": "2026-08-04T20:30:00+00:00",
+      "score": 1
     }
   ],
   "errors": [
-    {
-      "source": "Federal Reserve",
-      "type": "rss",
-      "error": "failed to parse feed (<unknown>:2:0: syntax error)"
-    },
     {
       "source": "Kobeissi Letter",
       "type": "twitter",
