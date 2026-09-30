@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-09-29T22:59:04.977490+00:00",
-  "count": 52,
+  "updated_at": "2026-09-30T02:00:18.684201+00:00",
+  "count": 37,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar dives to six-month low vs Yen after Aussie CPI report, China PMIs",
+      "summary": "The AUD/JPY cross remains under heavy selling pressure for the second consecutive day, falling to a six-month low during the Asian session on Wednesday following the release of Australian consumer inflation figures.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-dives-to-six-month-low-vs-yen-after-aussie-cpi-report-china-pmis-202609300149",
+      "published": "2026-09-30T01:49:50+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Breaking: Australia’s CPI inflation rises to 4.0% YoY in August, as expected",
+      "summary": "Australia’s Consumer Price Index (CPI) rose by 4.0% year-over-year (YoY) in August, compared to a 3.5% growth reported in July, the latest data published by the Australian Bureau of Statistics (ABS) showed on Wednesday.",
+      "link": "https://www.fxstreet.com/news/breaking-australias-cpi-inflation-rises-to-40-yoy-in-august-as-expected-202609300136",
+      "published": "2026-09-30T01:36:35+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound seems vulnerable near two-month low as USD bulls eye US PCE and GDP",
+      "summary": "The GBP/USD pair enters a bearish consolidation phase during the Asian session on Wednesday, trading just above a two-month low, around the 1.3200 mark, touched the previous day.",
+      "link": "https://www.fxstreet.com/news/british-pound-seems-vulnerable-near-two-month-low-as-usd-bulls-eye-us-pce-and-gdp-202609300118",
+      "published": "2026-09-30T01:18:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "PBOC sets USD/CNY reference rate at 6.7351 vs. 6.7411 previous",
+      "summary": "On Wednesday, the People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7351 compared to the previous day's fix of 6.7411 and 6.7025 Reuters estimate.",
+      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67351-vs-67411-previous-202609300115",
+      "published": "2026-09-30T01:15:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro softens below 1.1350 on Lagarde's dovish tilt, German Retail Sales data in focus",
+      "summary": "The EUR/USD pair declines to around 1.3335 during the early Asian trading hours on Wednesday. The Euro (EUR) softens against the US Dollar (USD) after European Central Bank (ECB) President Christine Lagarde's dovish tilt. Germany’s August Retail Sales data is due later on Wednesday.",
+      "link": "https://www.fxstreet.com/news/euro-softens-below-11350-on-lagardes-dovish-tilt-german-retail-sales-data-in-focus-202609300034",
+      "published": "2026-09-30T00:34:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mediators push peace deal between US and Iran — FT",
+      "summary": "Mediators are making a renewed push to advance an agreement between the United States (US) and Iran, the Financial Times reported on Tuesday. This move came after US President Donald Trump said he had rejected an Iranian proposal to reopen the Strait of Hormuz and restart talks on ending the war.",
+      "link": "https://www.fxstreet.com/news/mediators-push-peace-deal-between-us-and-iran-ft-202609300010",
+      "published": "2026-09-30T00:10:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold rebounds from eight-week low as traders weigh Fed rate path",
+      "summary": "Gold price (XAU/USD) rebounds from an eight-week low to near $4,180 during the early Asian session on Wednesday. However, the potential upside for the precious metal might be limited as oil-driven inflation reinforced expectations of tighter monetary policy by the US Federal Reserve (Fed).",
+      "link": "https://www.fxstreet.com/news/gold-rebounds-from-eight-week-low-as-traders-weigh-fed-rate-path-202609292331",
+      "published": "2026-09-29T23:31:10+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar cracks 0.70 as Bullock dulls RBA hike, CPI looms",
+      "summary": "The Aussie Dollar tumbled over 0.40% against the US Dollar on Tuesday, even though the Reserve Bank of Australia (RBA) raised rates to 4.60%, but a mild-dovish tilt by RBA Governor Bullock cleared the path to push the pair below the 0.7000 threshold.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-cracks-070-as-bullock-dulls-rba-hike-cpi-looms-202609292326",
+      "published": "2026-09-29T23:26:25+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The New Zealand Dollar breaks lower after Australia's rate hike",
+      "summary": "Australia's fourth rate hike of 2026 sent the Australian Dollar lower on Tuesday, and NZD/USD closed below 0.5650 for the first time in its slide. The Reserve Bank of Australia (RBA) raised its cash rate to 4.60%, the highest since 2011, in a unanimous vote.",
+      "link": "https://www.fxstreet.com/news/the-new-zealand-dollar-breaks-lower-after-australias-rate-hike-202609292302",
+      "published": "2026-09-29T23:02:29+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -10,114 +91,6 @@
       "link": "https://www.fxstreet.com/news/mexican-peso-breaks-1800-as-carry-trade-loses-its-edge-202609292224",
       "published": "2026-09-29T22:24:57+00:00",
       "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Document shared by Trump: Nvidia, OpenAI, Anthropic, xAI, Google to convene regularly on AI safety standards",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9784386/Document-shared-by-Trump-Nvidia-OpenAI-Anthropic-xAI-Google-to-convene-regularly-on-AI-safety-standards.aspx?xy=rss",
-      "published": "2026-09-29T21:32:17+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Document circulated by Trump endorsed by Google, Anthropic, Meta, OpenAI, Musk, Nvidia",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9784369/Document-circulated-by-Trump-endorsed-by-Google-Anthropic-Meta-OpenAI-Musk-Nvidia.aspx?xy=rss",
-      "published": "2026-09-29T21:29:17+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Document shared by Trump: appoint independent board committee to monitor and receive updates from control teams and auditors",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9784368/Document-shared-by-Trump-appoint-independent-board-committee-to-monitor-and-receive-updates-from-control-teams-and-auditors.aspx?xy=rss",
-      "published": "2026-09-29T21:28:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Document shared by Trump: empower internal team to ensure all controls, monitoring and detection operate as intended",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9784367/Document-shared-by-Trump-empower-internal-team-to-ensure-all-controls-monitoring-and-detection-operate-as-intended.aspx?xy=rss",
-      "published": "2026-09-29T21:27:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Document shared by Trump: implement strong internal controls to oversee model capabilities and alignment",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9784366/Document-shared-by-Trump-implement-strong-internal-controls-to-oversee-model-capabilities-and-alignment.aspx?xy=rss",
-      "published": "2026-09-29T21:27:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Document shared by Trump: Each company should apply four layers of controls and audits",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9784365/Document-shared-by-Trump-Each-company-should-apply-four-layers-of-controls-and-audits.aspx?xy=rss",
-      "published": "2026-09-29T21:26:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump releases document approved by all executives at White House on Tuesday: Truth Social",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9784364/Trump-releases-document-approved-by-all-executives-at-White-House-on-Tuesday-Truth-Social.aspx?xy=rss",
-      "published": "2026-09-29T21:25:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump tells Axios: Jay Clayton would make a good AI chief",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9784363/Trump-tells-Axios-Jay-Clayton-would-make-a-good-AI-chief.aspx?xy=rss",
-      "published": "2026-09-29T21:18:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia's Jensen Huang: White House declaration carries significant impact",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9784356/Nvidias-Jensen-Huang-White-House-declaration-carries-significant-impact.aspx?xy=rss",
-      "published": "2026-09-29T21:13:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Elon Musk: SpaceX and Tesla target 200 gigawatts of annual solar output",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9784346/Elon-Musk-SpaceX-and-Tesla-target-200-gigawatts-of-annual-solar-output.aspx?xy=rss",
-      "published": "2026-09-29T21:01:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump likely to unveil $54 billion from South Korean investment fund for Alaska LNG project as soon as Wednesday - sources",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9784330/Trump-likely-to-unveil-54-billion-from-South-Korean-investment-fund-for-Alaska-LNG-project-as-soon-as-Wednesday---sources.aspx?xy=rss",
-      "published": "2026-09-29T21:00:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Anthropic IPO Filing Shows Amazon and Google Drove 47% of 2025 Sales",
-      "summary": "<div><ul><li>Anthropic generated 47% of 2025 sales through distributors Amazon and Google</li><li>Around one-third of 2025 revenue came from outside the US</li><li>Less than 20% of Anthropic's revenue comes from subscriptions</li></ul></div>",
-      "link": "https://www.financialjuice.com/News/9784323/Anthropic-IPO-Filing-Shows-Amazon-and-Google-Drove-47-of-2025-Sales-.aspx?xy=rss",
-      "published": "2026-09-29T20:50:49+00:00",
-      "score": 2
     },
     {
       "source": "FXStreet",
@@ -149,119 +122,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "United States Dollar Index approaches yearly peak on hawkish Fed outlook",
-      "summary": "The US Dollar Index (DXY) extends gains on Tuesday, approaching its year-to-date high as expectations of further Federal Reserve (Fed) interest-rate hikes drive strong demand for the Greenback.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-approaches-yearly-peak-on-hawkish-fed-outlook-202609291831",
-      "published": "2026-09-29T18:31:01+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed’s Williams says no rush after September hike",
-      "summary": "The New York Fed Governor John Williams said that he “sees no need for urgency after September rate hike,” a dovish statement that pushed the US Dollar Index (DXY) modestly lower, though it remains positive in the day.",
-      "link": "https://www.fxstreet.com/news/feds-williams-says-no-rush-after-september-hike-202609291822",
-      "published": "2026-09-29T18:22:33+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed’s Goolsbee: Persistent inflation is like “playing with fire”",
-      "summary": "Chicago Federal Reserve (Fed) President Austan Goolsbee, a voter in the Federal Open Market Committee (FOMC) in 2027, said Tuesday that “the fact that we have been 5 ½ years above inflation target is playing with fire,” adding that “massive deficits” can overheat the economy.",
-      "link": "https://www.fxstreet.com/news/feds-goolsbee-says-persistent-inflation-is-like-playing-with-fire-202609291812",
-      "published": "2026-09-29T18:12:37+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Forex Today: Focus shifts to US PCE, ADP, inflation in OZ and Chinese PMIs",
-      "summary": "The US Dollar (USD) has accelerated its recovery, adding to the positive start to the week and clinching new multi-week tops, always helped by the persistent advance in US Treasury yields and unabated geopolitical concerns.",
-      "link": "https://www.fxstreet.com/news/forex-today-focus-shifts-to-us-pce-adp-inflation-in-oz-and-chinese-pmis-202609291806",
-      "published": "2026-09-29T18:06:59+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Fed’s Musalem says policy still accommodative as demand fuels inflation",
       "summary": "St. Louis Federal Reserve (Fed) President Alberto Musalem crossed the wires on Tuesday, saying that central bankers needn’t make promises but should tell the public how and why the central bank makes policy decisions.",
       "link": "https://www.fxstreet.com/news/musalem-says-fed-must-explain-decisions-without-policy-pledges-202609291748",
       "published": "2026-09-29T17:48:05+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed’s Barr calls economy “strikingly” resilient, defends last hike",
-      "summary": "Federal Reserve (Fed) Governor Michael Barr said Tuesday that he sees “elevated wage rates in the skilled trades,” and added that the resilience of the US economy is “striking.”",
-      "link": "https://www.fxstreet.com/news/feds-barr-calls-economy-strikingly-resilient-defends-last-hike-202609291735",
-      "published": "2026-09-29T17:35:35+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price retreats as rising US yields, Hormuz tensions bolster US Dollar",
-      "summary": "Silver (XAG/USD) retreats on Tuesday and trades around $60.75 at the time of writing, down 0.38% on the day.",
-      "link": "https://www.fxstreet.com/news/silver-price-retreats-as-rising-us-yields-hormuz-tensions-bolster-us-dollar-202609291719",
-      "published": "2026-09-29T17:19:03+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Fed’s Barr says policy needs recalibration, more adjustments likely",
-      "summary": "Federal Reserve (Fed) Governor Michael Barr said on Tuesday that “there is a need to recalibrate policy” and that the base case is that “further policy adjustments” are likely needed.",
-      "link": "https://www.fxstreet.com/news/feds-barr-says-policy-needs-recalibration-more-adjustments-likely-202609291652",
-      "published": "2026-09-29T16:52:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "ECB’s DeMarco backs October hike as core inflation stays firm",
-      "summary": "Alexander DeMarco, the Governor of the Central Bank of Malta and member of the Governing Council of the European Central Bank (ECB), crossed the wires on Tuesday, saying that “stronger core inflation” could be a reason for the central bank to act, and that he supports a rate hike in October.",
-      "link": "https://www.fxstreet.com/news/ecbs-demarco-backs-october-hike-as-core-inflation-stays-firm-202609291622",
-      "published": "2026-09-29T16:22:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound slips as 2004-era US yields lift the US Dollar",
-      "summary": "The Pound Sterling (GBP) drops some 0.38% against the US Dollar (USD) on Tuesday as the latter continues to appreciate, even though US Consumer Confidence deteriorated and jobs data confirmed the strength of the US labor market.",
-      "link": "https://www.fxstreet.com/news/british-pound-slips-to-132-as-2004-era-us-yields-lift-the-us-dollar-202609291611",
-      "published": "2026-09-29T16:11:53+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro falls to three-month low as hawkish Fed outlook weighs",
-      "summary": "EUR/USD extends its decline on Tuesday, falling to its lowest level since late June as broad-based US Dollar (USD) strength keeps the Euro (EUR) under pressure. At the time of writing, EUR/USD trades around 1.1331, down 0.35% on the day.",
-      "link": "https://www.fxstreet.com/news/euro-falls-to-three-month-low-as-hawkish-fed-outlook-weighs-202609291543",
-      "published": "2026-09-29T15:43:53+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canada: GDP growth moderates in July but stays on track for solid quarter – NBC",
-      "summary": "National Bank of Canada's Alexandra Ducharme notes that Canadian Gross Domestic Product (GDP) growth moderated in July after three strong months, with both goods and services output flat.",
-      "link": "https://www.fxstreet.com/news/canada-gdp-growth-moderates-in-july-but-stays-on-track-for-solid-quarter-nbc-202609291513",
-      "published": "2026-09-29T15:13:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold steadies after sharp drop as traders assess Fed outlook, Middle East risks",
-      "summary": "Gold (XAU/USD) holds firm on Tuesday after suffering a sharp sell-off at the start of the week. The move appears to be a corrective bounce, as the broader narrative remains tied to expectations of further Federal Reserve (Fed) interest rate hikes.",
-      "link": "https://www.fxstreet.com/news/gold-steadies-after-sharp-drop-as-traders-assess-fed-outlook-middle-east-risks-202609291058",
-      "published": "2026-09-29T10:58:18+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
