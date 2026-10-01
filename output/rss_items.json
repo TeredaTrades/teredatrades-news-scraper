@@ -1,21 +1,165 @@
 {
-  "updated_at": "2026-10-01T17:29:44.521939+00:00",
-  "count": 44,
+  "updated_at": "2026-10-01T21:58:18.423688+00:00",
+  "count": 49,
   "items": [
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold defies US Dollar surge as US yield slide revives Bullion demand",
+      "summary": "Gold price drifted higher, posting modest gains of over 0.40% on Thursday as US Treasury yields dove after Wednesday's inflation data, triggering a trimming of hawkish Fed bets for the October meeting. The XAU/USD trades at $4,175, up 0.4%.",
+      "link": "https://www.fxstreet.com/news/gold-defies-us-dollar-surge-as-us-yield-slide-revives-bullion-demand-202610012103",
+      "published": "2026-10-01T21:03:21+00:00",
+      "score": 6
+    },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump, asked if the pilot had any connection to Iran: We are looking into that, according to what I'm hearing, yes - Israel's N12 News",
+      "title": "FinancialJuice: Trump ends remarks to reporters.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9787961/Trump-asked-if-the-pilot-had-any-connection-to-Iran-We-are-looking-into-that-according-to-what-Im-hearing-yes---Israels-N12-News.aspx?xy=rss",
-      "published": "2026-10-01T17:08:37+00:00",
+      "link": "https://www.financialjuice.com/News/9788293/Trump-ends-remarks-to-reporters.aspx?xy=rss",
+      "published": "2026-10-01T20:24:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump, asked about Iran's involvement in the UK base: Looks like it.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9788292/Trump-asked-about-Irans-involvement-in-the-UK-base-Looks-like-it.aspx?xy=rss",
+      "published": "2026-10-01T20:19:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Iran will be ending soon, one way or the other.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9788291/Trump-Iran-will-be-ending-soon-one-way-or-the-other.aspx?xy=rss",
+      "published": "2026-10-01T20:18:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: I may ask Europe to release diesel supplies.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9788290/Trump-I-may-ask-Europe-to-release-diesel-supplies.aspx?xy=rss",
+      "published": "2026-10-01T20:17:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: AI is affecting supply in ways we don't fully understand.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9788275/Feds-Williams-AI-is-affecting-supply-in-ways-we-dont-fully-understand.aspx?xy=rss",
+      "published": "2026-10-01T20:12:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Cook: AI could potentially help the Fed make better use of data.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9788274/Feds-Cook-AI-could-potentially-help-the-Fed-make-better-use-of-data.aspx?xy=rss",
+      "published": "2026-10-01T20:11:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Cook: I worry about when productivity gains, producing inflation, will come.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9788270/Feds-Cook-I-worry-about-when-productivity-gains-producing-inflation-will-come.aspx?xy=rss",
+      "published": "2026-10-01T20:02:38+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Cook: The top risk for 2027 is AI. It's already causing inflationary pressure, not slowing down.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9788264/Feds-Cook-The-top-risk-for-2027-is-AI-Its-already-causing-inflationary-pressure-not-slowing-down.aspx?xy=rss",
+      "published": "2026-10-01T20:02:05+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Cook: Don't think private credit is having a big effect on financial stability",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9788249/Feds-Cook-Dont-think-private-credit-is-having-a-big-effect-on-financial-stability.aspx?xy=rss",
+      "published": "2026-10-01T19:56:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US NFP Prep: Focus on Wages for Inflation Signals - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9788248/US-NFP-Prep-Focus-on-Wages-for-Inflation-Signals---FJElite.aspx?xy=rss",
+      "published": "2026-10-01T19:53:49+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Jefferson says US economy is near maximum employment",
+      "summary": "Federal Reserve (Fed) Vice Chairman Philip Jefferson said Thursday that “inflation has resulted from a cascade of shocks” at the Darden School of Business at the University of Virginia in Charlottesville, Virginia.",
+      "link": "https://www.fxstreet.com/news/feds-jefferson-says-economy-near-maximum-employment-202610011859",
+      "published": "2026-10-01T18:59:33+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dollar Index breaks its June peak as the Euro sinks on dearer Crude Oil",
+      "summary": "The odds of an October Fed rate hike have roughly halved since Monday, and the Dollar Index has risen on every one of those days. It trades near 102.10, its highest since April 2025. The index is moving with Crude Oil and the Euro rather than with the odds for the Fed's next meeting.",
+      "link": "https://www.fxstreet.com/news/dollar-index-breaks-its-june-peak-as-the-euro-sinks-on-dearer-crude-oil-202610011859",
+      "published": "2026-10-01T18:59:14+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Mexican Peso rout deepens as USD/MXN blasts through 18.30",
-      "summary": "The Mexican Peso collapses, extending its depreciation by over 1.50% in the day as the Greenback strengthens sharply amid growing fears that the Middle East conflict will be prolonged, keeping energy prices under pressure. The USD/MXN trades at 18.35, after bouncing off daily lows of 18.06.",
+      "title": "US Dollar Index Price Forecast: DXY reaches fresh yearly high, but RSI turns overbought",
+      "summary": "The US Dollar Index (DXY) rally gathers pace on Thursday, climbing to a fresh year-to-date high as resilient US economic growth, a firm labour market and stubborn inflation support expectations of further monetary policy tightening by the Federal Reserve (Fed).",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-dxy-reaches-fresh-yearly-high-but-rsi-turns-overbought-202610011817",
+      "published": "2026-10-01T18:17:58+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Kashkari keeps October meeting open, still sees more hikes ahead",
+      "summary": "Minneapolis Federal Reserve (Fed) President Neel Kashkari said on Thursday he is unsure about an October rate hike but added that he is “open-minded about how fast the Fed should raise interest rates.”",
+      "link": "https://www.fxstreet.com/news/feds-kashkari-keeps-october-open-still-sees-more-hikes-ahead-202610011802",
+      "published": "2026-10-01T18:02:04+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed’s Jefferson signals patience as next rate move stays data-driven",
+      "summary": "Vice Chairman of the Federal Reserve (Fed) Philip Jefferson said on Thursday that the Fed \"is fully committed to returning inflation to 2% target” and that future interest rate decisions “should be driven by data.”",
+      "link": "https://www.fxstreet.com/news/feds-jefferson-signals-patience-as-next-rate-move-stays-data-driven-202610011754",
+      "published": "2026-10-01T17:54:12+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Banxico survey sees lower inflation, stronger growth and 6.50% hold",
+      "summary": "A Bank of Mexico (Banxico) survey of private economists revised down headline and core inflation forecasts, updated projections for the USD/MXN exchange rate, and revised projections for future interest rates set by the Mexican institution.",
+      "link": "https://www.fxstreet.com/news/banxico-survey-sees-lower-inflation-stronger-growth-and-650-hold-202610011734",
+      "published": "2026-10-01T17:34:21+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso rout deepens as USD/MXN blasts 18.30",
+      "summary": "The Mexican Peso (MXN) collapses on Monday, extending its depreciation by over 1.50% as the Greenback strengthens sharply amid growing fears that the Middle East conflict will be prolonged, keeping energy prices under pressure.",
       "link": "https://www.fxstreet.com/news/mexican-peso-rout-deepens-as-usd-mxn-blasts-through-1830-202610011707",
       "published": "2026-10-01T17:07:53+00:00",
       "score": 1
@@ -28,60 +172,6 @@
       "link": "https://www.fxstreet.com/news/forex-today-us-nfp-takes-centre-stage-202610011704",
       "published": "2026-10-01T17:04:39+00:00",
       "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Putin: we support trilateral meeting with Xi, Trump, but agenda for talks should be worked out.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787944/Putin-we-support-trilateral-meeting-with-Xi-Trump-but-agenda-for-talks-should-be-worked-out.aspx?xy=rss",
-      "published": "2026-10-01T16:51:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump ends remarks to reporters",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787943/Trump-ends-remarks-to-reporters.aspx?xy=rss",
-      "published": "2026-10-01T16:51:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Iran: now I have to make a decision. Either Iran signs deal, or it won't exist any longer.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787942/Trump-on-Iran-now-I-have-to-make-a-decision-Either-Iran-signs-deal-or-it-wont-exist-any-longer.aspx?xy=rss",
-      "published": "2026-10-01T16:51:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Citi on FOMC - FJElite",
-      "summary": "<div><ul><li>The Federal Reserve's move could be to cut rates, despite markets widely expecting another hike, according to Scott Chronert, head of U.S. equity strategy at Citi Research.</li><li>Chronert anticipates the Fed could be in a holding pattern until mid 2027 when it can then lower borrowing costs. But fed funds futures suggest a roughly 85% likelihood that the Fed will increase rates agai",
-      "link": "https://www.financialjuice.com/News/9787941/Citi-on-FOMC---FJElite.aspx?xy=rss",
-      "published": "2026-10-01T16:48:45+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Interest rates will hurt our growth.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787922/Trump-Interest-rates-will-hurt-our-growth.aspx?xy=rss",
-      "published": "2026-10-01T16:39:50+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Google launches Guided Vision in Gemini Live for Android. $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787917/Google-launches-Guided-Vision-in-Gemini-Live-for-Android-GOOGL.aspx?xy=rss",
-      "published": "2026-10-01T16:32:20+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -158,56 +248,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US Dollar: DXY extends monthly gains – UOB",
-      "summary": "UOB Global Economics & Markets Research notes the DXY closed at 101.45 on Wednesday, delivering its best monthly gain since June with a 2.0% rise in September. Intraday Dollar strength was briefly tempered by softer US PCE data before recovering into the close.",
-      "link": "https://www.fxstreet.com/news/us-dollar-dxy-extends-monthly-gains-uob-202610011247",
-      "published": "2026-10-01T12:47:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "BoE's Mann: Can't rely on risk premia to do work of policy, need to raise rates",
-      "summary": "Bank of England (BoE) policymaker Catherine Mann argued on Thursday that they can't rely on risk premia to do the work of monetary policy and added that they need to raise the bank rate, per Reuters.",
-      "link": "https://www.fxstreet.com/news/boes-mann-cant-rely-on-risk-premia-to-do-work-of-policy-need-to-raise-rates-202610011231",
-      "published": "2026-10-01T12:31:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Why is the US Dollar climbing when its preferred inflation gauge is cooling?",
-      "summary": "The US Dollar (USD) continues to display underlying strength, with the US Dollar Index (DXY) touching its June year-to-date high near 101.80 despite recent data showing a deceleration in core Personal Consumption Expenditures (PCE) inflation.",
-      "link": "https://www.fxstreet.com/news/why-is-the-us-dollar-climbing-when-its-preferred-inflation-gauge-is-cooling-202610011212",
-      "published": "2026-10-01T12:12:23+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Vulnerable as US diesel policy bites – Societe Generale",
-      "summary": "Kit Juckes at Societe Generale highlights that a proposed US diesel export ban would likely push up European diesel prices and weigh on the Euro and other European currencies. He points to rising bond yields and Oil prices as additional headwinds and questions whether consensus Eurozone growth forecasts will be revised lower if these pressures persist.",
-      "link": "https://www.fxstreet.com/news/euro-vulnerable-as-us-diesel-policy-bites-societe-generale-202610011204",
-      "published": "2026-10-01T12:04:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Gold struggles as elevated US Treasury yields outweigh dovish Fed repricing",
       "summary": "Gold (XAU/USD) treads water on Thursday as a stronger US Dollar (USD) and elevated US Treasury yields limit the upside.",
       "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-us-treasury-yields-outweigh-dovish-fed-repricing-202610011125",
       "published": "2026-10-01T11:25:03+00:00",
       "score": 5
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Third Short XAUUSD",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wuwjh0/third_short_xauusd/\"> <img alt=\"Third Short XAUUSD\" src=\"https://preview.redd.it/qhhhbyro8ush1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1cf68e000011f8037d81fc75ca7b924135f1800d\" title=\"Third Short XAUUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Short XAUUSD</p> <p>Entry: 4,176</p> <p>Stop Loss: 4,183</p>",
-      "link": "https://www.reddit.com/r/Forex/comments/1wuwjh0/third_short_xauusd/",
-      "published": "2026-10-01T11:05:55+00:00",
-      "score": 6
     },
     {
       "source": "r/Forex",
