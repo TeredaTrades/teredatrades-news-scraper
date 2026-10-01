@@ -1,117 +1,5 @@
 [
   {
-    "title": "Prelim Machine Tool Orders y/y",
-    "country": "JPY",
-    "date": "2026-09-09T02:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "50.4%"
-  },
-  {
-    "title": "French Industrial Production m/m",
-    "country": "EUR",
-    "date": "2026-09-09T02:45:00-04:00",
-    "impact": "Low",
-    "forecast": "0.2%",
-    "previous": "0.1%"
-  },
-  {
-    "title": "German 10-y Bond Auction",
-    "country": "EUR",
-    "date": "2026-09-09T05:33:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.26|1.1"
-  },
-  {
-    "title": "German 10-y Bond Auction",
-    "country": "EUR",
-    "date": "2026-09-09T05:42:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.26|1.1"
-  },
-  {
-    "title": "ADP Weekly Employment Change",
-    "country": "USD",
-    "date": "2026-09-09T08:14:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "11.8K"
-  },
-  {
-    "title": "ADP Weekly Employment Change",
-    "country": "USD",
-    "date": "2026-09-09T08:15:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "10.0K"
-  },
-  {
-    "title": "ADP Weekly Employment Change",
-    "country": "USD",
-    "date": "2026-09-09T08:16:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "11.8K"
-  },
-  {
-    "title": "German Buba President Nagel Speaks",
-    "country": "EUR",
-    "date": "2026-09-09T13:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "ECB President Lagarde Speaks",
-    "country": "EUR",
-    "date": "2026-09-09T13:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "10-y Bond Auction",
-    "country": "USD",
-    "date": "2026-09-09T13:01:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "4.68|2.5"
-  },
-  {
-    "title": "API Weekly Statistical Bulletin",
-    "country": "USD",
-    "date": "2026-09-09T16:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "RICS House Price Balance",
-    "country": "GBP",
-    "date": "2026-09-09T19:01:00-04:00",
-    "impact": "Low",
-    "forecast": "-30%",
-    "previous": "-30%"
-  },
-  {
-    "title": "MI Inflation Expectations",
-    "country": "AUD",
-    "date": "2026-09-09T21:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "4.9%"
-  },
-  {
-    "title": "President Trump Speaks",
-    "country": "USD",
-    "date": "2026-09-09T21:15:00-04:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "German Final CPI m/m",
     "country": "EUR",
     "date": "2026-09-10T02:00:00-04:00",
@@ -2944,6 +2832,22 @@
     "previous": "52.0"
   },
   {
+    "title": "Spanish 10-y Bond Auction",
+    "country": "EUR",
+    "date": "2026-10-01T04:42:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.96|1.7"
+  },
+  {
+    "title": "French 10-y Bond Auction",
+    "country": "EUR",
+    "date": "2026-10-01T04:57:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "4.23|2.3"
+  },
+  {
     "title": "Unemployment Rate",
     "country": "EUR",
     "date": "2026-10-01T05:00:00-04:00",
@@ -3220,7 +3124,7 @@
     "country": "USD",
     "date": "2026-10-02T08:30:00-04:00",
     "impact": "High",
-    "forecast": "90K",
+    "forecast": "89K",
     "previous": "162K"
   },
   {
