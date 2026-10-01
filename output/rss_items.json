@@ -1,150 +1,204 @@
 {
-  "updated_at": "2026-10-01T11:37:54.976967+00:00",
-  "count": 51,
+  "updated_at": "2026-10-01T17:29:44.521939+00:00",
+  "count": 44,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed's Kashkari: When markets have a view, they're not shy about expressing them.",
+      "title": "FinancialJuice: Trump, asked if the pilot had any connection to Iran: We are looking into that, according to what I'm hearing, yes - Israel's N12 News",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9787445/Feds-Kashkari-When-markets-have-a-view-theyre-not-shy-about-expressing-them-.aspx",
-      "published": "2026-10-01T11:37:32+00:00",
+      "link": "https://www.financialjuice.com/News/9787961/Trump-asked-if-the-pilot-had-any-connection-to-Iran-We-are-looking-into-that-according-to-what-Im-hearing-yes---Israels-N12-News.aspx?xy=rss",
+      "published": "2026-10-01T17:08:37+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US Dollar: Resilient growth supports upside risks – BBH",
-      "summary": "Brown Brothers Harriman’s Elias Haddad highlights a resilient US economy underpinning Dollar strength, with the DXY at new cyclical highs. Upward revisions to US Q2 GDP and strong Q3 estimates from the Atlanta Fed GDPNow model support the constructive outlook.",
-      "link": "https://www.fxstreet.com/news/us-dollar-resilient-growth-supports-upside-risks-bbh-202610011136",
-      "published": "2026-10-01T11:36:53+00:00",
+      "title": "Mexican Peso rout deepens as USD/MXN blasts through 18.30",
+      "summary": "The Mexican Peso collapses, extending its depreciation by over 1.50% in the day as the Greenback strengthens sharply amid growing fears that the Middle East conflict will be prolonged, keeping energy prices under pressure. The USD/MXN trades at 18.35, after bouncing off daily lows of 18.06.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-rout-deepens-as-usd-mxn-blasts-through-1830-202610011707",
+      "published": "2026-10-01T17:07:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US NFP takes centre stage",
+      "summary": "The US Dollar (USD) has advanced further on Thursday, trading in levels last seen in early April 2025 on the back of the marked improvement in the sentiment surrounding the US Dollar, geopolitical uncertainty and renewed concerns over the French economy.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-nfp-takes-centre-stage-202610011704",
+      "published": "2026-10-01T17:04:39+00:00",
       "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed's Kashkari: There's a big gap between 2-year yield and short-rates",
+      "title": "FinancialJuice: Putin: we support trilateral meeting with Xi, Trump, but agenda for talks should be worked out.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9787444/Feds-Kashkari-Theres-a-big-gap-between-2-year-yield-and-short-rates.aspx",
-      "published": "2026-10-01T11:36:36+00:00",
+      "link": "https://www.financialjuice.com/News/9787944/Putin-we-support-trilateral-meeting-with-Xi-Trump-but-agenda-for-talks-should-be-worked-out.aspx?xy=rss",
+      "published": "2026-10-01T16:51:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump ends remarks to reporters",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9787943/Trump-ends-remarks-to-reporters.aspx?xy=rss",
+      "published": "2026-10-01T16:51:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Iran: now I have to make a decision. Either Iran signs deal, or it won't exist any longer.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9787942/Trump-on-Iran-now-I-have-to-make-a-decision-Either-Iran-signs-deal-or-it-wont-exist-any-longer.aspx?xy=rss",
+      "published": "2026-10-01T16:51:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Citi on FOMC - FJElite",
+      "summary": "<div><ul><li>The Federal Reserve's move could be to cut rates, despite markets widely expecting another hike, according to Scott Chronert, head of U.S. equity strategy at Citi Research.</li><li>Chronert anticipates the Fed could be in a holding pattern until mid 2027 when it can then lower borrowing costs. But fed funds futures suggest a roughly 85% likelihood that the Fed will increase rates agai",
+      "link": "https://www.financialjuice.com/News/9787941/Citi-on-FOMC---FJElite.aspx?xy=rss",
+      "published": "2026-10-01T16:48:45+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Interest rates will hurt our growth.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9787922/Trump-Interest-rates-will-hurt-our-growth.aspx?xy=rss",
+      "published": "2026-10-01T16:39:50+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google launches Guided Vision in Gemini Live for Android. $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9787917/Google-launches-Guided-Vision-in-Gemini-Live-for-Android-GOOGL.aspx?xy=rss",
+      "published": "2026-10-01T16:32:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen recovers as intervention risk offsets US Dollar strength",
+      "summary": "USD/JPY reverses its earlier gains on Thursday as traders hesitate to push the pair higher amid the risk of intervention by Japanese authorities. This allows the Japanese Yen (JPY) to regain some ground even as the US Dollar (USD) climbs to a fresh year-to-date high.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-recovers-as-intervention-risk-offsets-us-dollar-strength-202610011609",
+      "published": "2026-10-01T16:09:22+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar weakens as robust US data, rising US yields overshadow RBA rate hike",
+      "summary": "AUD/USD falls to around 0.6910 on Thursday at the time of writing, down 0.48% on the day. The Australian Dollar (AUD) loses ground against the US Dollar (USD) despite the Reserve Bank of Australia’s (RBA) decision to raise interest rates this week, as rising US Treasury yields support the Greenback.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-weakens-as-robust-us-data-rising-us-yields-overshadow-rba-rate-hike-202610011609",
+      "published": "2026-10-01T16:09:06+00:00",
       "score": 3
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Fed's Kashkari: If AI proves to be as productive as expected, the investment cycle could persist for a long time",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787443/Feds-Kashkari-If-AI-proves-to-be-as-productive-as-expected-the-investment-cycle-could-persist-for-a-long-time.aspx",
-      "published": "2026-10-01T11:35:57+00:00",
-      "score": 1
+      "title": "British Pound buckles as DXY nears 102 on US jobs, factory strength",
+      "summary": "The Pound Sterling (GBP) dives by over 0.44% on Thursday, as business activity in the manufacturing sector remains solid in the US, while US jobs data confirmed the strength of the labor market. Consequently, this pushed US yields and the US Dollar higher.",
+      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-dxy-nears-102-on-us-jobs-factory-strength-202610011545",
+      "published": "2026-10-01T15:45:32+00:00",
+      "score": 3
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Fed's Kashkari: We will do what we need to get inflation to the goal",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787442/Feds-Kashkari-We-will-do-what-we-need-to-get-inflation-to-the-goal.aspx",
-      "published": "2026-10-01T11:34:55+00:00",
+      "title": "Euro hits fresh yearly low as strong US data keeps Fed tightening in play",
+      "summary": "EUR/USD extends its decline on Thursday, falling to its lowest level since May 2025 and setting a fresh year-to-date low as the US Dollar (USD) remains firmly supported by elevated US Treasury yields and resilient US economic data.",
+      "link": "https://www.fxstreet.com/news/euro-hits-fresh-yearly-low-as-strong-us-data-keeps-fed-tightening-in-play-202610011508",
+      "published": "2026-10-01T15:08:42+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar steadies as Fed pause bets clash with resilient US economy",
+      "summary": "USD/CAD trades around 1.4240 at the time of writing on Thursday, little changed on the day with a modest 0.07% gain.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-steadies-as-fed-pause-bets-clash-with-resilient-us-economy-202610011417",
+      "published": "2026-10-01T14:17:29+00:00",
       "score": 2
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Fed's Kashkari: Don't know how high rates need to go.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787441/Feds-Kashkari-Dont-know-how-high-rates-need-to-go.aspx",
-      "published": "2026-10-01T11:34:33+00:00",
+      "title": "Swiss Franc steadies as stronger inflation offsets broad US Dollar demand",
+      "summary": "USD/CHF trades flat on Thursday as stronger Swiss inflation offers some support to the Swiss Franc (CHF), while a firm US Dollar (USD) keeps the pair near levels last seen in May 2025. At the time of writing, USD/CHF trades around 0.8354 after reaching an intraday high of 0.8382.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-steadies-as-stronger-inflation-offsets-broad-us-dollar-demand-202610011354",
+      "published": "2026-10-01T13:54:54+00:00",
       "score": 2
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Fed's Kashkari: The economy's resilience keeps surprising me",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787440/Feds-Kashkari-The-economys-resilience-keeps-surprising-me.aspx",
-      "published": "2026-10-01T11:34:20+00:00",
+      "title": "Federal Reserve: Policy to remain on hold through 2027 – Rabobank",
+      "summary": "Rabobank's RaboResearch Global Economics & Markets updates its United States (US) Federal Reserve (Fed) outlook, adding a December 2026 rate hike after recent FOMC speeches.",
+      "link": "https://www.fxstreet.com/news/federal-reserve-policy-to-remain-on-hold-through-2027-rabobank-202610011342",
+      "published": "2026-10-01T13:42:19+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Outlook weakens as risks build – Rabobank",
+      "summary": "Rabobank's RaboResearch Global Economics & Markets discusses EUR/USD dynamics since the Iran war, highlighting how shifting expectations for Federal Reserve policy and the Euro’s underperformance have driven the pair.",
+      "link": "https://www.fxstreet.com/news/euro-outlook-weakens-as-risks-build-rabobank-202610011321",
+      "published": "2026-10-01T13:21:21+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: DXY extends monthly gains – UOB",
+      "summary": "UOB Global Economics & Markets Research notes the DXY closed at 101.45 on Wednesday, delivering its best monthly gain since June with a 2.0% rise in September. Intraday Dollar strength was briefly tempered by softer US PCE data before recovering into the close.",
+      "link": "https://www.fxstreet.com/news/us-dollar-dxy-extends-monthly-gains-uob-202610011247",
+      "published": "2026-10-01T12:47:37+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold struggles as rising US Treasury yields outweigh dovish Fed repricing",
-      "summary": "Gold (XAU/USD) treads water on Thursday as a stronger US Dollar (USD) and soaring US Treasury yields limit the upside. At the time of writing, XAU/USD trades around $4,167, up 0.26% on the day, as the precious metal struggles to build on its early recovery.",
+      "title": "BoE's Mann: Can't rely on risk premia to do work of policy, need to raise rates",
+      "summary": "Bank of England (BoE) policymaker Catherine Mann argued on Thursday that they can't rely on risk premia to do the work of monetary policy and added that they need to raise the bank rate, per Reuters.",
+      "link": "https://www.fxstreet.com/news/boes-mann-cant-rely-on-risk-premia-to-do-work-of-policy-need-to-raise-rates-202610011231",
+      "published": "2026-10-01T12:31:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Why is the US Dollar climbing when its preferred inflation gauge is cooling?",
+      "summary": "The US Dollar (USD) continues to display underlying strength, with the US Dollar Index (DXY) touching its June year-to-date high near 101.80 despite recent data showing a deceleration in core Personal Consumption Expenditures (PCE) inflation.",
+      "link": "https://www.fxstreet.com/news/why-is-the-us-dollar-climbing-when-its-preferred-inflation-gauge-is-cooling-202610011212",
+      "published": "2026-10-01T12:12:23+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Vulnerable as US diesel policy bites – Societe Generale",
+      "summary": "Kit Juckes at Societe Generale highlights that a proposed US diesel export ban would likely push up European diesel prices and weigh on the Euro and other European currencies. He points to rising bond yields and Oil prices as additional headwinds and questions whether consensus Eurozone growth forecasts will be revised lower if these pressures persist.",
+      "link": "https://www.fxstreet.com/news/euro-vulnerable-as-us-diesel-policy-bites-societe-generale-202610011204",
+      "published": "2026-10-01T12:04:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold struggles as elevated US Treasury yields outweigh dovish Fed repricing",
+      "summary": "Gold (XAU/USD) treads water on Thursday as a stronger US Dollar (USD) and elevated US Treasury yields limit the upside.",
       "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-us-treasury-yields-outweigh-dovish-fed-repricing-202610011125",
       "published": "2026-10-01T11:25:03+00:00",
-      "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Trump sees ramping up bombing Iran after midterms possible – Time Magazine",
-      "summary": "Here are comments delivered by United States (US) Donald Trump in an interview with Time Magazine.",
-      "link": "https://www.fxstreet.com/news/trump-sees-ramping-up-bombing-iran-after-midterms-possible-time-magazine-202610011122",
-      "published": "2026-10-01T11:22:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Dinner with Anthropic CEO Amodei lasted more than two hours - Time",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787411/Trump-Dinner-with-Anthropic-CEO-Amodei-lasted-more-than-two-hours---Time.aspx",
-      "published": "2026-10-01T11:18:59+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB's Nagel, on rise in bond yields - All ECB instruments are for delivering price stability, not for certain yield levels",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787401/ECBs-Nagel-on-rise-in-bond-yields---All-ECB-instruments-are-for-delivering-price-stability-not-for-certain-yield-levels.aspx",
-      "published": "2026-10-01T11:14:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Certain levels of inflation help pay off debt - Time",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787400/Trump-Certain-levels-of-inflation-help-pay-off-debt---Time.aspx",
-      "published": "2026-10-01T11:10:45+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: High rates hurting economy more than inflation - Time",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787399/Trump-High-rates-hurting-economy-more-than-inflation---Time.aspx",
-      "published": "2026-10-01T11:10:29+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to Time: We'll soon be filling up strategic oil reserves",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787398/Trump-to-Time-Well-soon-be-filling-up-strategic-oil-reserves.aspx",
-      "published": "2026-10-01T11:10:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to Time: Some forms of ammunition are a little bit lower",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787397/Trump-to-Time-Some-forms-of-ammunition-are-a-little-bit-lower.aspx",
-      "published": "2026-10-01T11:07:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump sees ramping up bombing Iran after midterms possible - Time",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787396/Trump-sees-ramping-up-bombing-Iran-after-midterms-possible---Time.aspx",
-      "published": "2026-10-01T11:06:09+00:00",
-      "score": 1
+      "score": 5
     },
     {
       "source": "r/Forex",
@@ -154,123 +208,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wuwjh0/third_short_xauusd/",
       "published": "2026-10-01T11:05:55+00:00",
       "score": 6
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to Time: I liked Anthropic CEO Amodei a lot",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9787395/Trump-to-Time-I-liked-Anthropic-CEO-Amodei-a-lot.aspx",
-      "published": "2026-10-01T11:03:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound tests 1.3200 as higher US yields and risk-off markets boost US Dollar",
-      "summary": "The British Pound (GBP) heads lower against the US Dollar (USD) on Wednesday, with the GBP/USD pair hitting three-month lows just below 1.3200 ahead of the US session opening.",
-      "link": "https://www.fxstreet.com/news/british-pound-tests-13200-as-higher-us-yields-and-risk-off-markets-boost-us-dollar-202610011055",
-      "published": "2026-10-01T10:55:43+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Stronger profile as policy supports flows – Societe Generale",
-      "summary": "Societe Generale’s Kit Juckes argues that recent US policy proposals around diesel exports and higher yields are reinforcing a stronger Dollar outlook. He notes that talking down the Dollar has failed since the Federal Reserve raised rates, and that capital inflows driven by higher US yields should keep supporting the Dollar, especially as Europe faces growth risks in a global energy crisis.",
-      "link": "https://www.fxstreet.com/news/us-dollar-stronger-profile-as-policy-supports-flows-societe-generale-202610011026",
-      "published": "2026-10-01T10:26:43+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY: Yen soft as intervention absent – UOB",
-      "summary": "UOB Global Economics & Markets Research highlights USD/JPY reversed intraday losses to close flat at 157.41. The Japanese Yen weakened after Ministry of Finance data confirmed no FX intervention between 27 August and 28 September, following July’s record coordinated US-Japan operation.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-yen-soft-as-intervention-absent-uob-202610011021",
-      "published": "2026-10-01T10:21:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "1.1265: Euro hits yearly lows amid high Oil prices, rising US yields and debt woes",
-      "summary": "The Euro (EUR) extends losses for the fourth consecutive day against the US Dollar (USD), reaching levels below 1.1300 for the first time since May 2025.",
-      "link": "https://www.fxstreet.com/news/11265-euro-hits-yearly-lows-amid-high-oil-prices-rising-us-yields-and-debt-woes-202610011019",
-      "published": "2026-10-01T10:19:49+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Treasuries: Long-end selloff extends to multi-decade highs – Deutsche Bank",
-      "summary": "Deutsche Bank’s Jim Reid describes severe stress in US Treasuries, with 10-year and 30-year yields pushing to post-2000s highs despite dovish PCE revisions.",
-      "link": "https://www.fxstreet.com/news/us-treasuries-long-end-selloff-extends-to-multi-decade-highs-deutsche-bank-202610011019",
-      "published": "2026-10-01T10:19:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Upside capped by real yields – UOB",
-      "summary": "According to UOB Global Economics & Markets Research, Gold spot eased to close at $4,157 per ounce after earlier trading as high as $4,219. Elevated real yields continue to limit bullion’s upside, leaving Gold softer despite broader macro uncertainty and strong moves in other commodities. The report underscores how higher US yields are constraining precious metals.",
-      "link": "https://www.fxstreet.com/news/gold-upside-capped-by-real-yields-uob-202610011015",
-      "published": "2026-10-01T10:15:15+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Fed repricing and inflation data steer path – Deutsche Bank",
-      "summary": "Deutsche Bank’s Early Morning Reid notes that softer US PCE revisions reduced expectations for an October Fed hike, even as the Dollar Index edged higher.",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-repricing-and-inflation-data-steer-path-deutsche-bank-202610010955",
-      "published": "2026-10-01T09:55:09+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones futures decline as markets weigh on rising US yields",
-      "summary": "Dow Jones futures decline by 0.42% to trade near 51,060 during European hours on Thursday. Meanwhile, S&amp;P 500 futures gain by 0.09% to trade around 7,720, while Nasdaq 100 futures rise 0.51% to trade near 30,850.",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-decline-as-markets-weigh-on-rising-us-yields-202610010935",
-      "published": "2026-10-01T09:35:03+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver price today: Silver broadly unchanged, according to FXStreet data",
-      "summary": "Silver prices (XAG/USD) broadly unchanged on Thursday, according to FXStreet data. Silver trades at $60.48 per troy ounce, broadly unchanged 0.10% from the $60.42 it cost on Wednesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-today-silver-broadly-unchanged-according-to-fxstreet-data-202610010931",
-      "published": "2026-10-01T09:31:57+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Fed-backed strength holds near yearly highs – ING",
-      "summary": "ING’s Chris Turner notes the Dollar remains strongly supported, with the DXY index near its highs for the year as solid US activity data reinforces the Federal Reserve’s hawkish stance. He highlights resilient consumer spending, signs of accelerating payrolls and expectations for firm ISM readings.",
-      "link": "https://www.fxstreet.com/news/us-dollar-fed-backed-strength-holds-near-yearly-highs-ing-202610010928",
-      "published": "2026-10-01T09:28:50+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: USD/JPY rises as October BoJ hike bets fade – MUFG",
-      "summary": "MUFG’s Lee Hardman reports the Japanese Yen has weakened about 0.5% against the US Dollar, lifting USD/JPY to 158.44, after the Bank of Japan’s (BoJ) Summary of Opinions disappointed expectations for an October rate hike.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-usd-jpy-rises-as-october-boj-hike-bets-fade-mufg-202610010926",
-      "published": "2026-10-01T09:26:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold hangs near daily low as USD buying remains unabated amid surging US yields",
-      "summary": "Gold (XAU/USD) slides to the lower end of its daily range during the first half of the European session after being rejected near $4,200 earlier this Thursday.",
-      "link": "https://www.fxstreet.com/news/gold-bulls-seem-hesitant-as-resilient-us-dollar-and-yields-cap-upside-202610010454",
-      "published": "2026-10-01T04:54:51+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
