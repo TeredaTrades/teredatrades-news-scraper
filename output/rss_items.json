@@ -1,15 +1,42 @@
 {
-  "updated_at": "2026-10-04T21:48:14.266671+00:00",
-  "count": 40,
+  "updated_at": "2026-10-05T00:31:53.703532+00:00",
+  "count": 38,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump: John Coale named as new special presidential envoy for hostage affairs",
+      "title": "FinancialJuice: Japan s&p global september services pmi at 51.3 vs flash 51.6",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9790831/Trump-John-Coale-named-as-new-special-presidential-envoy-for-hostage-affairs.aspx?xy=1",
-      "published": "2026-10-04T12:23:58+00:00",
+      "link": "https://www.financialjuice.com/News/9791034/Japan-sp-global-september-services-pmi-at-513-vs-flash-516.aspx?xy=rss",
+      "published": "2026-10-05T00:30:04+00:00",
       "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BOJ deputy governor Uchida: AI has driven up stock prices, easing financial conditions, while significant bond sales by AI-related firms have pushed long-term rates higher",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9791029/BOJ-deputy-governor-Uchida-AI-has-driven-up-stock-prices-easing-financial-conditions-while-significant-bond-sales-by-AI-related-firms-have-pushed-long-term-rates-higher.aspx?xy=rss",
+      "published": "2026-10-05T00:28:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Ireland S&P Global September services PMI at 54.1 versus 55.4 in August",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9791013/Ireland-SP-Global-September-services-PMI-at-541-versus-554-in-August.aspx?xy=rss",
+      "published": "2026-10-05T00:01:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar drifts higher above 0.6950 on soft US jobs data",
+      "summary": "The AUD/USD pair edges higher to around 0.6955 during the earlyAsian session on Monday. Weaker-than-expected US jobs data weighs on the US Dollar (USD) against the Australian Dollar (AUD). Traders await the release of the US ISM Services Purchasing Managers Index (PMI) report later on Monday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-drifts-higher-above-06950-on-soft-us-jobs-data-202610042321",
+      "published": "2026-10-04T23:21:46+00:00",
+      "score": 2
     },
     {
       "source": "r/Forex",
@@ -194,56 +221,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro hits fresh two-month lows against British Pound after hot Eurozone inflation data",
-      "summary": "The Euro (EUR) reverses previous daily gains against the British Pound (GBP) on Friday, diving to fresh two-and-a-half-month lows just above 0.8500, and is set to show a more than 1% weekly decline.",
-      "link": "https://www.fxstreet.com/news/euro-hits-fresh-two-month-lows-against-british-pound-after-hot-eurozone-inflation-data-202610021153",
-      "published": "2026-10-02T11:53:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar trades higher against US Dollar ahead of US NFP data",
-      "summary": "The Australian Dollar (AUD) is 0.17% higher at around 0.6640 against the US Dollar (USD) during the European trading session on Friday. The Aussie pair gains as the Australian Dollar rises despite experts doubting about more Reserve Bank of Australia (RBA) interest rate hikes.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-trades-higher-against-us-dollar-ahead-of-us-nfp-data-202610021139",
-      "published": "2026-10-02T11:39:03+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc emerges as a safe-haven as global bonds sell off",
-      "summary": "The Swiss Franc (CHF) is emerging as a safe haven amid the global government bonds sell-off, showing a surprising comeback against an otherwise firm US Dollar (USD) this week, as Switzerland's sound fiscal position stands out with government debt escalating amid the world's leading economies.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-emerges-as-a-safe-haven-as-global-bonds-sell-off-202610021124",
-      "published": "2026-10-02T11:24:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Downside risks despite ECB scope – BBH",
-      "summary": "Brown Brothers Harriman’s Elias Haddad reports EUR/USD has slightly recovered after hitting fresh cyclical lows, with support at 1.1200 and 1.1111.",
-      "link": "https://www.fxstreet.com/news/euro-downside-risks-despite-ecb-scope-bbh-202610021107",
-      "published": "2026-10-02T11:07:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Breaking: US Nonfarm Payrolls rise by 29K in September vs. 90K expected",
       "summary": "Nonfarm Payrolls (NFP) in the United States (US) rose by 29K in September, the US Bureau of Labor Statistics (BLS) reported on Friday. This print followed the 133K increase recorded in August (revised from 162K) and missed the market expectation of 90K by a wide margin.",
       "link": "https://www.fxstreet.com/news/us-nonfarm-payrolls-expected-to-soften-in-september-202610020830",
       "published": "2026-10-02T08:30:00+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Retired XAUUSD scalper here",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Im a retired XAUUSD scalper of <strong>6 years</strong> who used to sit on the charts all day stressed and uncomfortable watching gold do its thing. I was successful for years and showed publicly my trades called before and after the fact. It was all going great! </p> <p>until, boom. Burnout. It hit me so hard i did'nt see it coming. The constant stress and anxiet",
-      "link": "https://www.reddit.com/r/Forex/comments/1wu4xs5/retired_xauusd_scalper_here/",
-      "published": "2026-09-30T13:27:05+00:00",
-      "score": 5
     },
     {
       "source": "Federal Reserve",
