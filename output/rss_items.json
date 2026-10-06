@@ -1,204 +1,213 @@
 {
-  "updated_at": "2026-10-06T09:15:36.797266+00:00",
+  "updated_at": "2026-10-06T16:09:30.962795+00:00",
   "count": 47,
   "items": [
     {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google launches EmbeddingGemma 2 multimodal model. $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9793973/Google-launches-EmbeddingGemma-2-multimodal-model-GOOGL.aspx?xy=rss",
+      "published": "2026-10-06T16:05:48+00:00",
+      "score": 1
+    },
+    {
       "source": "FXStreet",
       "category": "news",
-      "title": "Canadian Dollar falls to near 18-month lows as oil prices decline",
-      "summary": "USD/CAD extends its gains for the third consecutive day, trading around 1.4270 during European hours on Tuesday. The pair remains close to freshly reached 18-month highs as the commodity-linked Canadian Dollar (CAD) struggles amid lower oil prices.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-falls-to-near-18-month-lows-as-oil-prices-decline-202610060914",
-      "published": "2026-10-06T09:14:53+00:00",
+      "title": "British Pound catches bid as BoE hawk warns inflation is embedded",
+      "summary": "The Pound Sterling advances some 0.40% on Tuesday as the Greenback retreats from multi-month highs, boosted by hawkish comments by a Bank of England (BoE) member of the Monetary Policy Committee (MPC), while a widening of the US trade deficit weighed on the Greenback.",
+      "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-boe-hawk-warns-inflation-is-embedded-202610061602",
+      "published": "2026-10-06T16:02:46+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BoE's Mann: Upward bias to inflation, I have to deal with that",
+      "title": "FinancialJuice: Daly: Fed may observe shocks diminishing within 1-3 years: Axios",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9793294/BoEs-Mann-Upward-bias-to-inflation-I-have-to-deal-with-that.aspx?xy=rss",
-      "published": "2026-10-06T09:11:10+00:00",
+      "link": "https://www.financialjuice.com/News/9793952/Daly-Fed-may-observe-shocks-diminishing-within-1-3-years-Axios.aspx?xy=rss",
+      "published": "2026-10-06T16:00:54+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BoE's Mann: On balance, I see more risk of embedding inflation",
+      "title": "FinancialJuice: Kremlin: trilateral meeting of Putin, Trump and Xi at APEC summit in China in November is an intriguing idea",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9793293/BoEs-Mann-On-balance-I-see-more-risk-of-embedding-inflation.aspx?xy=rss",
-      "published": "2026-10-06T09:11:01+00:00",
+      "link": "https://www.financialjuice.com/News/9793950/Kremlin-trilateral-meeting-of-Putin-Trump-and-Xi-at-APEC-summit-in-China-in-November-is-an-intriguing-idea.aspx?xy=rss",
+      "published": "2026-10-06T16:00:52+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BoE's Mann: Concerned that UK 2027 wage negotiatons will take place when inflation above 4%.",
+      "title": "FinancialJuice: Fed's Daly: May result in more tightening required.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9793275/BoEs-Mann-Concerned-that-UK-2027-wage-negotiatons-will-take-place-when-inflation-above-4.aspx?xy=rss",
-      "published": "2026-10-06T08:58:24+00:00",
+      "link": "https://www.financialjuice.com/News/9793944/Feds-Daly-May-result-in-more-tightening-required.aspx?xy=rss",
+      "published": "2026-10-06T16:00:07+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BoE's Mann: Inflation has become embedded.",
+      "title": "FinancialJuice: Fed's Daly: These factors could keep inflation elevated.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9793274/BoEs-Mann-Inflation-has-become-embedded.aspx?xy=rss",
-      "published": "2026-10-06T08:57:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar: Oversold conditions limit losses against US Dollar – UOB",
-      "summary": "United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann note that AUD/USD outperformed on Monday, closing near 0.6970 after a modest rebound. Intraday, they see scope for slight gains but expect the pair to stay capped below 0.6985.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-oversold-conditions-limit-losses-against-us-dollar-uob-202610060856",
-      "published": "2026-10-06T08:56:27+00:00",
-      "score": 1
+      "link": "https://www.financialjuice.com/News/9793943/Feds-Daly-These-factors-could-keep-inflation-elevated.aspx?xy=rss",
+      "published": "2026-10-06T15:59:56+00:00",
+      "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BoE's Mann: Supply shocks are embedding inflation.",
+      "title": "FinancialJuice: Fed's Daly concerned AI, tariffs, energy costs may last longer - Axios",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9793271/BoEs-Mann-Supply-shocks-are-embedding-inflation.aspx?xy=rss",
-      "published": "2026-10-06T08:52:04+00:00",
+      "link": "https://www.financialjuice.com/News/9793941/Feds-Daly-concerned-AI-tariffs-energy-costs-may-last-longer---Axios.aspx?xy=rss",
+      "published": "2026-10-06T15:59:10+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "British Pound bounces off 1.3200 amid modest USD pullback; lacks bullish conviction",
-      "summary": "The GBP/USD pair attracts some dip-buyers near the 1.3200 mark on Tuesday and hits a fresh daily high during the first half of the European session.",
-      "link": "https://www.fxstreet.com/news/british-pound-bounces-off-13200-amid-modest-usd-pullback-lacks-bullish-conviction-202610060840",
-      "published": "2026-10-06T08:40:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dow Jones futures rise due to easing Fed rate hike expectations",
-      "summary": "Dow Jones futures gain by 0.47% to trade near 51,800 during European hours on Tuesday. S&amp;P 500 futures advance by 0.24% to trade around 7,840, while Nasdaq 100 futures rise by 0.27% to trade near 31,400.",
-      "link": "https://www.fxstreet.com/news/dow-jones-futures-rise-due-to-easing-fed-rate-hike-expectations-202610060838",
-      "published": "2026-10-06T08:38:04+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Brazilian Real: Bolsonaro boost faces parliamentary constraints – Commerzbank",
-      "summary": "Commerzbank’s Norman Liebke notes the Brazilian Real (BRL) strengthened about 4% as USD/BRL fell from 5.2 to 5 on F. Bolsonaro’s election lead. He cautions that despite gains by Partido Liberal and other conservatives, Bolsonaro would still lack outright majorities and remain reliant on alliances.",
-      "link": "https://www.fxstreet.com/news/brazilian-real-bolsonaro-boost-faces-parliamentary-constraints-commerzbank-202610060832",
-      "published": "2026-10-06T08:32:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Vulnerable as yields stay elevated – OCBC",
-      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong describe Gold as sluggish despite a sharp pullback in October Fed hike expectations, with long-end US Treasury yields resuming their rise and the US Dollar (USD) firm.",
-      "link": "https://www.fxstreet.com/news/gold-vulnerable-as-yields-stay-elevated-ocbc-202610060819",
-      "published": "2026-10-06T08:19:18+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index Price Forecast: Hovers around 102.00 within overbought region",
-      "summary": "The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is holding its position after posting modest gains the previous day and hovering around 102.10 after pulling back from nearly 18-month highs during the European hours on Tuesday.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-hovers-around-10200-within-overbought-region-202610060812",
-      "published": "2026-10-06T08:12:57+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "ECB’s Rehn: High long-term rates contributing to a slowdown in growth",
-      "summary": "The comments from European Central Bank (ECB) official and Finnish Central Bank Governor Olli Rehn released during the European trading session on Tuesday signal economic warnings due to higher long-term interest rates.",
-      "link": "https://www.fxstreet.com/news/ecbs-rehn-high-long-term-rates-contributing-to-a-slowdown-in-growth-202610060806",
-      "published": "2026-10-06T08:06:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Pares gains against US Dollar but BoJ outlook supportive - MUFG",
-      "summary": "MUFG’s Lee Hardman notes that the Japanese Yen has softened after a Bloomberg report on the GPIF’s September meeting, lifting USD/JPY back above 158.00.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-pares-gains-against-us-dollar-but-boj-outlook-supportive-mufg-202610060801",
-      "published": "2026-10-06T08:01:44+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indonesian Rupiah moves little as US Dollar (USD) remains steady amid safe-haven demand",
-      "summary": "USD/IDR remains steady after registering minor gains in the previous day, trading around 17,930 during the European hours on Tuesday.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-moves-little-as-us-dollar-usd-remains-steady-amid-safe-haven-demand-202610060742",
-      "published": "2026-10-06T07:42:53+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc weakens as US Dollar (USD) gains on escalating geopolitical conflicts",
-      "summary": "USD/CHF extends its gains for the second successive day, trading around 0.8320 during European hours on Tuesday. The pair is moving higher as the US Dollar (USD) gains momentum, largely driven by a surge in safe-haven demand amidst escalating geopolitical conflicts.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-weakens-as-us-dollar-usd-gains-on-escalating-geopolitical-conflicts-202610060731",
-      "published": "2026-10-06T07:31:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc: Range-bound within 0.8245–0.8365 band against US Dollar – UOB",
-      "summary": "United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann describe USD/CHF as consolidating after failing to extend lower, with Monday’s session confined to a narrow range around 0.8310. Intraday, they expect further sideways trading between nearby support and resistance.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-range-bound-within-08245-08365-band-against-us-dollar-uob-202610060727",
-      "published": "2026-10-06T07:27:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen drifts lower as sustained USD buying offsets intervention fears",
-      "summary": "The USD/JPY pair attracts some buyers following the previous day's two-day price moves, trading above the 158.00 mark during the early part of the European session on Tuesday.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-drifts-lower-as-sustained-usd-buying-offsets-intervention-fears-202610060726",
-      "published": "2026-10-06T07:26:22+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Turkish Lira: CPI surprise seen enabling rate cut – Commerzbank",
-      "summary": "Tatha Ghose at Commerzbank reports Turkey’s September Consumer Price Index (CPI) fell below 30% year-on-year, with softer month-on-month gains, creating scope for the central bank to cut rates by 100 bps.",
-      "link": "https://www.fxstreet.com/news/turkish-lira-cpi-surprise-seen-enabling-rate-cut-commerzbank-202610060717",
-      "published": "2026-10-06T07:17:10+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "ECB’s Lane: High inflation due to energy shock is driving hawkish ECB sentiment",
-      "summary": "European Central Bank (ECB) Chief Economist Philip Lane said in an interview with ANSA, released during the European trading session on Tuesday, that energy shock-led inflationary pressures are key driver to the high interest rates narrative.",
-      "link": "https://www.fxstreet.com/news/ecbs-lane-high-inflation-due-to-energy-shock-is-driving-hawkish-ecb-sentiment-202610060715",
-      "published": "2026-10-06T07:15:25+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee extends decline due to continuously surging US bond yields",
-      "summary": "The Indian Rupee (INR) trades lower against the US Dollar (USD) on Tuesday due to the continuous surge in global bond yields. The USD/INR pair rises to near 96.43, the highest level seen in over two months.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-faces-pressure-from-higher-bond-yields-fiis-outflow-202610060620",
-      "published": "2026-10-06T06:20:54+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold recovers further from two-month low amid some USD profit-taking",
-      "summary": "Gold (XAU/USD) builds on its modest intraday bounce from the $4,100 neighborhood, or a two-month low, and climbs above $4,150 during the first half of the European session on Tuesday.",
-      "link": "https://www.fxstreet.com/news/gold-hits-two-month-low-as-bears-await-break-below-4-100-amid-sustained-usd-strength-202610060506",
-      "published": "2026-10-06T05:06:43+00:00",
+      "title": "Australian Dollar advances on weaker US Dollar as markets price in Fed October hold",
+      "summary": "AUD/USD gains 0.13% on Tuesday and trades around 0.6980 at the time of writing. The Australian Dollar (AUD) benefits from a modest pullback in the US Dollar (USD), as easing US Treasury yields provide support to the pair.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-advances-on-weaker-us-dollar-as-markets-price-in-fed-october-hold-202610061549",
+      "published": "2026-10-06T15:49:23+00:00",
       "score": 3
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "GBPUSD flipped today from daily bears to Above the Top-Central Pivot Bulls There",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>But has been since yesterday already ATR 14/ATR 50 at 117.3% already it’s getting closer big tidal waves are coming… </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Horror-Line1102\"> /u/Horror-Line1102 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1wz5su6/gbpusd_flipped_today_from_daily_bears_to_above/\">",
+      "link": "https://www.reddit.com/r/Forex/comments/1wz5su6/gbpusd_flipped_today_from_daily_bears_to_above/",
+      "published": "2026-10-06T15:38:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro finds relief from softer US Dollar ahead of Fed minutes",
+      "summary": "EUR/USD trades on the front foot on Tuesday, drawing support from a modest pullback in the US Dollar (USD). However, concerns over France’s fiscal position keep the Euro’s (EUR) gains in check. At the time of writing, the pair trades around 1.1255, up 0.29% on the day.",
+      "link": "https://www.fxstreet.com/news/euro-finds-relief-from-softer-us-dollar-ahead-of-fed-minutes-202610061505",
+      "published": "2026-10-06T15:05:22+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Positioning-driven recovery prospects – TD Securities",
+      "summary": "TD Securities’ Macro Research team, led by Jayati Bharadwaj with contributions from Howard Du and Linda Cheng, argues that recent EUR/USD weakness has been driven by high Oil and diesel prices and French OAT concerns.",
+      "link": "https://www.fxstreet.com/news/euro-positioning-driven-recovery-prospects-td-securities-202610061450",
+      "published": "2026-10-06T14:50:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar gains against US Dollar despite weaker Oil prices",
+      "summary": "USD/CAD falls 0.15% on Tuesday and trades around 1.4240 at the time of writing, pulling away slightly from recent highs near 1.4300. The Canadian Dollar (CAD) nevertheless remains vulnerable, weighed down by falling Oil prices as signs of improving global crude supply continue to emerge.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-gains-against-us-dollar-despite-weaker-oil-prices-202610061425",
+      "published": "2026-10-06T14:25:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Softer jobs data shapes Fed path – UOB",
+      "summary": "UOB’s Alvin Liew highlights that weaker US September Payrolls and softer wage growth have reduced expectations for an October Federal Reserve rate hike, with markets now focused on September CPI.",
+      "link": "https://www.fxstreet.com/news/us-dollar-softer-jobs-data-shapes-fed-path-uob-202610061419",
+      "published": "2026-10-06T14:19:46+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Brazilian Real: Political backdrop favors gains against US Dollar - TD Securities",
+      "summary": "TD Securities highlights a constructive Brazilian Real (BRL) backdrop, with diversified commodity exposure and strong carry. Their short-term fair value model places USD/BRL near 5.00 excluding political risk, but they favor the cross below 5.00 toward 4.60 longer-term.",
+      "link": "https://www.fxstreet.com/news/brazilian-real-political-backdrop-favors-gains-against-us-dollar-td-securities-202610061406",
+      "published": "2026-10-06T14:06:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Polish Zloty: Policy on hold as inflation stays near band – ING",
+      "summary": "ING economists Rafal Benecki and Adam Antoniak expect the National Bank of Poland (NBP) to keep its policy rate at 3.75% at the 7 October Monetary Policy Committee (MPC) meeting. They see November as the earliest point for any change, with fresh projections available, and currently anticipate two 25bp rate hikes in the first quarter of 2027 as inflation risks persist.",
+      "link": "https://www.fxstreet.com/news/polish-zloty-policy-on-hold-as-inflation-stays-near-band-ing-202610061354",
+      "published": "2026-10-06T13:54:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Range trade holds against US Dollar as Fed path questioned – Rabobank",
+      "summary": "Rabobank's Senior FX Strategist Jane Foley says markets see limited scope for another Bank of Japan (BoJ) policy move at the October meeting, with expectations instead centred on December.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-range-trade-holds-against-us-dollar-as-fed-path-questioned-rabobank-202610061341",
+      "published": "2026-10-06T13:41:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen underperforms despite signals of further BoJ tightening",
+      "summary": "USD/JPY holds firm on Tuesday as the Japanese Yen (JPY) trades on the defensive across the board. However, a softer US Dollar (USD), weighed down by a pullback in US Treasury yields, and intervention concerns around the 160 level limit the upside, keeping the pair range-bound.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-underperforms-despite-signals-of-further-boj-tightening-202610061338",
+      "published": "2026-10-06T13:38:53+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold: Downtrend eyes $4,000 support zone – Societe Generale",
+      "summary": "Societe Generale strategists note that Gold has extended its pullback after failing to hold above the 200-day moving average near $4,510–$4,540. Prices are drifting toward an interim projection around $4,095, with a break of this level seen opening downside toward $4,000 and the June/July troughs at $3,960–$3,940, which mark the lower boundary of a critical multi-month support range.",
+      "link": "https://www.fxstreet.com/news/gold-downtrend-eyes-4-000-support-zone-societe-generale-202610061325",
+      "published": "2026-10-06T13:25:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee: Bearish bias with RBI support – DBS",
+      "summary": "DBS Bank’s Radhika Rao notes that onshore financial markets are under pressure from global developments, with foreign portfolio investors pulling out around $6.3bn and USD/INR trading back above 96.00.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-bearish-bias-with-rbi-support-dbs-202610061312",
+      "published": "2026-10-06T13:12:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Resilient but upside seen limited – TD Securities",
+      "summary": "TD Securities notes the US economy and labor market are resilient but not overheating, leading them to push Fed rate hike calls to December 2026 and March 2027. They believe market pricing for Fed hawkishness has peaked and see it as hard to derive persistently bullish Dollar signals from Fed and data alone, even as their scorecard still ranks the USD highest.",
+      "link": "https://www.fxstreet.com/news/us-dollar-resilient-but-upside-seen-limited-td-securities-202610061258",
+      "published": "2026-10-06T12:58:11+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Range-bound trade persists against US Dollar – UOB",
+      "summary": "United Overseas Bank strategists Quek Ser Leang and Lee Sue Ann note that USD/JPY lacks clear directional cues in the short term, with intraday price action expected to remain confined between 157.55 and 158.45. Over the next one to three weeks, they see the pair trading in a broader 156.35–158.70 range. On a one to three month horizon, they highlight building downward momentum and potential furth",
+      "link": "https://www.fxstreet.com/news/japanese-yen-range-bound-trade-persists-against-us-dollar-uob-202610061235",
+      "published": "2026-10-06T12:35:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US ADP Employment Change 4-week average increases to 23.750K",
+      "summary": "Private-sector hiring in the US has gained some pace in early September. According to the NER Pulse, the weekly companion to the ADP National Employment Report, companies added an average of 23.750K jobs per week in the four weeks ending September 19.",
+      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-increases-to-23750k-202610061233",
+      "published": "2026-10-06T12:33:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold rebounds from two-month lows as US Dollar, Treasury yields retreat",
+      "summary": "Gold (XAU/USD) rebounds on Tuesday as a pullback in US Treasury yields weighs on the US Dollar (USD), helping the metal recover after falling to a two-month low of $4,104 during Asian trading hours.",
+      "link": "https://www.fxstreet.com/news/gold-recovers-from-two-month-lows-as-bond-selloff-takes-a-breather-202610061109",
+      "published": "2026-10-06T11:09:22+00:00",
+      "score": 5
     },
     {
       "source": "Federal Reserve",
@@ -243,15 +252,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wy2qtj/gold_xauusd_levels_for_today/\"> <img alt=\"Gold (XAUUSD) Levels for today\" src=\"https://preview.redd.it/svm0074fulth1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=51e51493229caedfa0df9612afa03206d34b8a8f\" title=\"Gold (XAUUSD) Levels for today\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Here are the important lev",
       "link": "https://www.reddit.com/r/Forex/comments/1wy2qtj/gold_xauusd_levels_for_today/",
       "published": "2026-10-05T07:55:52+00:00",
-      "score": 4
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "XAUUSD analysis",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wy2df3/xauusd_analysis/\"> <img alt=\"XAUUSD analysis\" src=\"https://preview.redd.it/p3iyi9mvplth1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=738dea11209646250e594d9f1e9d021eb155975e\" title=\"XAUUSD analysis\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>🟡 XAU/USD — 4H Technical Outlook</p> <p>Gold is currently trading aro",
-      "link": "https://www.reddit.com/r/Forex/comments/1wy2df3/xauusd_analysis/",
-      "published": "2026-10-05T07:30:21+00:00",
       "score": 4
     },
     {
