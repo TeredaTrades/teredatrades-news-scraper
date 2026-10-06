@@ -2922,10 +2922,18 @@
   {
     "title": "ADP Weekly Employment Change",
     "country": "USD",
+    "date": "2026-10-06T08:14:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "20.0K"
+  },
+  {
+    "title": "ADP Weekly Employment Change",
+    "country": "USD",
     "date": "2026-10-06T08:15:00-04:00",
     "impact": "Low",
     "forecast": "",
-    "previous": ""
+    "previous": "22.5K"
   },
   {
     "title": "ADP Weekly Employment Change",
@@ -2962,6 +2970,14 @@
   {
     "title": "RCM/TIPP Economic Optimism",
     "country": "USD",
+    "date": "2026-10-06T10:01:00-04:00",
+    "impact": "Low",
+    "forecast": "44.5",
+    "previous": "45.6"
+  },
+  {
+    "title": "RCM/TIPP Economic Optimism",
+    "country": "USD",
     "date": "2026-10-06T10:10:00-04:00",
     "impact": "Low",
     "forecast": "44.5",
@@ -2979,6 +2995,14 @@
     "title": "GDT Price Index",
     "country": "NZD",
     "date": "2026-10-06T10:50:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-1.1%"
+  },
+  {
+    "title": "GDT Price Index",
+    "country": "NZD",
+    "date": "2026-10-06T11:46:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": "-1.1%"
@@ -3020,7 +3044,7 @@
     "country": "JPY",
     "date": "2026-10-07T01:00:00-04:00",
     "impact": "Low",
-    "forecast": "118.3%",
+    "forecast": "118.1%",
     "previous": "117.9%"
   },
   {
@@ -3036,7 +3060,7 @@
     "country": "GBP",
     "date": "2026-10-07T02:00:00-04:00",
     "impact": "Low",
-    "forecast": "0.2%",
+    "forecast": "0.0%",
     "previous": "-0.2%"
   },
   {
@@ -3060,7 +3084,7 @@
     "country": "USD",
     "date": "2026-10-07T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "1.9M",
     "previous": "0.9M"
   },
   {
@@ -3084,7 +3108,7 @@
     "country": "USD",
     "date": "2026-10-07T15:00:00-04:00",
     "impact": "Low",
-    "forecast": "14.4B",
+    "forecast": "14.5B",
     "previous": "18.1B"
   },
   {
@@ -3100,7 +3124,7 @@
     "country": "JPY",
     "date": "2026-10-07T19:50:00-04:00",
     "impact": "Low",
-    "forecast": "2.13T",
+    "forecast": "2.14T",
     "previous": "2.52T"
   },
   {
@@ -3132,7 +3156,7 @@
     "country": "EUR",
     "date": "2026-10-08T02:00:00-04:00",
     "impact": "Low",
-    "forecast": "18.9B",
+    "forecast": "19.0B",
     "previous": "21.3B"
   },
   {
@@ -3228,7 +3252,7 @@
     "country": "USD",
     "date": "2026-10-08T10:30:00-04:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "79B",
     "previous": "64B"
   },
   {
@@ -3292,7 +3316,7 @@
     "country": "CAD",
     "date": "2026-10-09T08:30:00-04:00",
     "impact": "High",
-    "forecast": "6.2K",
+    "forecast": "6.3K",
     "previous": "-41.7K"
   },
   {
@@ -3308,7 +3332,7 @@
     "country": "USD",
     "date": "2026-10-09T10:00:00-04:00",
     "impact": "Medium",
-    "forecast": "47.6",
+    "forecast": "47.5",
     "previous": "47.8"
   },
   {
