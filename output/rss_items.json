@@ -1,204 +1,222 @@
 {
-  "updated_at": "2026-10-07T13:57:47.801185+00:00",
+  "updated_at": "2026-10-07T19:51:46.470945+00:00",
   "count": 45,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: White House official: Trump will announce automatic enrollment for Trump Accounts today at 1 PM ET.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9795445/White-House-official-Trump-will-announce-automatic-enrollment-for-Trump-Accounts-today-at-1-PM-ET.aspx?xy=rss",
-      "published": "2026-10-07T13:39:27+00:00",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +1732 mln<br />Nasdaq 100: +1455 mln<br />Dow 30: +425 mln<br />Mag 7: +534 mln",
+      "link": "https://www.financialjuice.com/News/9795999/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-10-07T19:50:30+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: -47 mln<br />Nasdaq 100: -32 mln<br />Dow 30: +4 mln<br />Mag 7: -11 mln",
-      "link": "https://www.financialjuice.com/News/9795431/MOO-Imbalance.aspx?xy=rss",
-      "published": "2026-10-07T13:30:36+00:00",
+      "title": "FinancialJuice: Thursday FX Options Expires",
+      "summary": "<ul><li><strong>EUR/USD: </strong>1.1300 (EU5.04b), 1.1500 (EU4.28b), 1.1325 (EU1b)</li><li><strong>USD/JPY: </strong>150.00 ($2.12b), 159.00 ($2.06b), 160.00 ($1.93b)</li><li><strong>AUD/USD:</strong> 0.6975 (AUD563.5m), 0.7100 (AUD370.2m)</li><li><strong>USD/CAD:</strong> 1.4100 ($771.6m), 1.3815 ($402.7m), 1.3730 ($345m)</li><li><strong>USD/BRL:</strong> 5.0000 ($455m), 4.7500 ($350m)</li><li><",
+      "link": "https://www.financialjuice.com/News/9795962/Thursday-FX-Options-Expires-.aspx?xy=rss",
+      "published": "2026-10-07T19:21:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: White House seeks Iran strike options before midterms - Atlantic",
+      "summary": "<ul><li>After months of intermittent fighting, the United States has refrained from launching strikes against Iran for several weeks. This period of relative calm comes as the midterm election campaign enters its final stage, fueling speculation that President Trump may prefer to maintain the pause until November 3 to avoid drawing voters’ attention to an unpopular war that has been weighing on Re",
+      "link": "https://www.financialjuice.com/News/9795943/White-House-seeks-Iran-strike-options-before-midterms---Atlantic.aspx?xy=rss",
+      "published": "2026-10-07T19:06:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump to attend AI summit Thursday - Axios",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9795941/Trump-to-attend-AI-summit-Thursday---Axios.aspx?xy=rss",
+      "published": "2026-10-07T19:03:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: The US Federal Communications Commission voted on October 29th on a proposal to bar Chinese labs from testing electronic devices such as smartphones, cameras, and computers for use in the US.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9795919/The-US-Federal-Communications-Commission-voted-on-October-29th-on-a-proposal-to-bar-Chinese-labs-from-testing-electronic-devices-such-as-smartphones-cameras-and-computers-for-use-in-the-US.aspx?xy=rss",
+      "published": "2026-10-07T18:54:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump ends remarks at the White House",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9795905/Trump-ends-remarks-at-the-White-House.aspx?xy=rss",
+      "published": "2026-10-07T18:43:57+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Japanese Yen: Funding appeal eroded by BoJ hikes – Rabobank",
-      "summary": "Rabobank’s Senior FX Strategist Jane Foley reviews the sharp USD/JPY declines in July and September, initially driven by joint Ministry of Finance (MoF)–US Treasury intervention and later without official action. The report notes that the Bank of Japan’s gradual rate hikes are eroding the Japanese Yen’s appeal as a funding currency for carry trades, even though recent price action has reduced urge",
-      "link": "https://www.fxstreet.com/news/japanese-yen-funding-appeal-eroded-by-boj-hikes-rabobank-202610071318",
-      "published": "2026-10-07T13:18:51+00:00",
+      "title": "Forex Today: Weekly Claims and Fedspeak on top of the agenda",
+      "summary": "The US Dollar (USD) has resumed its uptrend, advancing to two-day highs while rapidly forgetting Tuesday’s hiccup. The extra gains in the Greenback have come in tandem with the equally decent advance in US Treasury yields on the belly and the long end of the curve.",
+      "link": "https://www.fxstreet.com/news/forex-today-weekly-claims-and-fedspeak-on-top-of-the-agenda-202610071842",
+      "published": "2026-10-07T18:42:46+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "WTI reverses earlier gains as recovering Middle East exports weigh",
+      "summary": "West Texas Intermediate (WTI) Oil trades lower on Wednesday, giving up earlier gains as a stronger US Dollar (USD) and recovering Middle East exports offset support from an unexpected decline in US crude inventories.",
+      "link": "https://www.fxstreet.com/news/wti-turns-lower-as-recovering-middle-east-exports-weigh-202610071822",
+      "published": "2026-10-07T18:22:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+      "published": "2026-10-07T18:00:00+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Hungarian Forint: HUF strength and euro adoption outlook – Societe Generale",
-      "summary": "Societe Generale notes EUR/HUF rebounded from its 50-day moving average after a downside surprise in Hungarian CPI. Inflation remains below the MNB target, with the stronger Forint helping to curb price pressures and keep underlying trends subdued.",
-      "link": "https://www.fxstreet.com/news/hungarian-forint-huf-strength-and-euro-adoption-outlook-societe-generale-202610071310",
-      "published": "2026-10-07T13:10:34+00:00",
+      "title": "Thailand: BoT policy risks balanced – Standard Chartered",
+      "summary": "Standard Chartered economist Tim Leelahaphan expects the Bank of Thailand (BoT) to keep its policy rate at 1.0% through 2026 and 2027, with the BoT prioritising economic growth over inflation. He highlights asymmetric risks around this on-hold call, noting that any hikes would likely be gradual while cuts could be faster if domestic growth slows sharply.",
+      "link": "https://www.fxstreet.com/news/thailand-bot-policy-risks-balanced-standard-chartered-202610071751",
+      "published": "2026-10-07T17:51:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound buckles as 30-year Gilts top 6%, US yields soar",
+      "summary": "The Pound Sterling (GBP) dives over 0.48% against the US Dollar (USD) on Wednesday as US Treasury yields hit a 24-year high, boosting the Greenback’s appeal, while traders await the release of the Federal Reserve’s (Fed) last meeting minutes.",
+      "link": "https://www.fxstreet.com/news/british-pound-buckles-as-30-year-gilts-tops-6-us-yields-soar-202610071736",
+      "published": "2026-10-07T17:36:47+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: Pair consolidates below key moving averages",
+      "summary": "USD/JPY trades in a narrow range on Wednesday, with the Japanese Yen (JPY) holding a slight advantage over the US Dollar (USD) as traders assess hawkish Bank of Japan (BoJ) signals. Intervention risks near the 160.00 level also keep traders cautious.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-pair-consolidates-below-key-moving-averages-202610071705",
+      "published": "2026-10-07T17:05:13+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar Index climbs back near its 18-month high as yields rise",
+      "summary": "The yield on the US 10-year Treasury note touched 5.35% on Wednesday, its highest since April 2002, and the 30-year bond hit a 24-year high. Brent is back above $100 a barrel after Iran stepped up attacks on tankers in the Strait of Hormuz.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-climbs-back-near-its-18-month-high-as-yields-rise-202610071542",
+      "published": "2026-10-07T15:42:47+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "NY Fed September survey shows households bracing for higher prices",
+      "summary": "The New York Fed's September Survey of Consumer Expectations showed that American households expect short-term inflation to rise, while in the long term, they expect prices to cool but remain above the Federal Reserve’s 2% goal.",
+      "link": "https://www.fxstreet.com/news/ny-fed-survey-of-consumers-shows-households-bracing-for-higher-prices-202610071539",
+      "published": "2026-10-07T15:39:03+00:00",
       "score": 2
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Meta: Adding measures to combat child sexual exploitation. Have deployed added measures, including new AI tools. $META",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9795403/Meta-Adding-measures-to-combat-child-sexual-exploitation-Have-deployed-added-measures-including-new-AI-tools-META.aspx?xy=rss",
-      "published": "2026-10-07T13:04:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia discussed investing another $1 bln in Figure - The Information. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9795402/Nvidia-discussed-investing-another-1-bln-in-Figure---The-Information-NVDA.aspx?xy=rss",
-      "published": "2026-10-07T13:03:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB gold and gold receivables rose €53.4 bln in week.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9795401/ECB-gold-and-gold-receivables-rose-534-bln-in-week.aspx?xy=rss",
-      "published": "2026-10-07T13:01:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Effective Fed Funds rate 3.88% Oct. 6 vs 3.88% Oct. 5",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9795381/Effective-Fed-Funds-rate-388-Oct-6-vs-388-Oct-5.aspx?xy=rss",
-      "published": "2026-10-07T13:00:01+00:00",
+      "title": "Vietnam: Strong GDP but rising inflation risks – Commerzbank",
+      "summary": "Commerzbank Research highlights Vietnam’s Q3 GDP growth at 10.0% year-on-year, the strongest since the pandemic, driven by investment and industry. Achieving the government’s 10% full-year target would require an unusually strong Q4.",
+      "link": "https://www.fxstreet.com/news/vietnam-strong-gdp-but-rising-inflation-risks-commerzbank-202610071518",
+      "published": "2026-10-07T15:18:39+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Swedish Krona: Riksbank tightening supports SEK against US Dollar - BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes USD/SEK is firmer on broad US Dollar (USD) strength, while Sweden’s September Consumer Price Index (CPI) data were mixed.",
-      "link": "https://www.fxstreet.com/news/swedish-krona-riksbank-tightening-supports-sek-against-us-dollar-bbh-202610071259",
-      "published": "2026-10-07T12:59:42+00:00",
+      "title": "Euro struggles as French fiscal risks, strong US Dollar weigh ahead of Fed Minutes",
+      "summary": "EUR/USD extends its decline on Wednesday as the Euro (EUR) remains under broad selling pressure, while the US Dollar (USD) strengthens alongside surging US Treasury yields. At the time of writing, the pair trades around 1.1195, down 0.57% on the day, hovering near its lowest level in 17 months.",
+      "link": "https://www.fxstreet.com/news/euro-struggles-as-french-fiscal-risks-strong-us-dollar-weigh-ahead-of-fed-minutes-202610071459",
+      "published": "2026-10-07T14:59:43+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Treasury yields hit 24-year highs as 10-year tests 5.35%",
+      "summary": "US Treasury yields soar on Wednesday, with the 10- and 30-year yields reaching 24-year highs of 5.35% and 5.724%, respectively, suggesting that investors are demanding a higher premium on US debt amid inflation and fiscal policy concerns.",
+      "link": "https://www.fxstreet.com/news/us-treasury-yields-hit-24-year-highs-as-10-year-tests-535-202610071450",
+      "published": "2026-10-07T14:50:38+00:00",
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Sentiment: Rise in Hormuz Attacks Leads to 'Risk-Off' Sentiment, Fed Minutes Expected - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9795378/US-Sentiment-Rise-in-Hormuz-Attacks-Leads-to-Risk-Off-Sentiment-Fed-Minutes-Expected---FJElite.aspx?xy=rss",
-      "published": "2026-10-07T12:52:02+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
-      "title": "Swiss Franc: Range trading persists against US Dollar – UOB",
-      "summary": "United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann note that USD/CHF remains in a tight range in the short term, with intraday levels clustered around 0.8300. Their 1–3 week view maintains a broader consolidation band, while the 1–3 month outlook suggests the pair could continue rebounding but lacks momentum to revisit its July peak.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-range-trading-persists-against-us-dollar-uob-202610071241",
-      "published": "2026-10-07T12:41:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Assessing NFP release reliability – Standard Chartered",
-      "summary": "Standard Chartered economist Dan Pan analyses which US Nonfarm Payrolls (NFP) months provide the most reliable initial signals of labour-market conditions.",
-      "link": "https://www.fxstreet.com/news/us-dollar-assessing-nfp-release-reliability-standard-chartered-202610071230",
-      "published": "2026-10-07T12:30:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Slightly weaker bias as fiscal risks grow – DBS",
-      "summary": "DBS Group Research economist Chang Wei Liang notes that the Japanese Yen (JPY) could trade slightly weaker as the government reportedly considers a second supplementary budget, with USD/JPY around mid-158.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-slightly-weaker-bias-as-fiscal-risks-grow-dbs-202610071215",
-      "published": "2026-10-07T12:15:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecasts: XAG/USD drifts toward $60 as precious metals struggle",
-      "summary": "Silver (XAG/USD) dives on Wednesday, nearing two-month lows around the $60.00 psychological area after rejection from levels near $62.00 on Tuesday.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecasts-xag-usd-drifts-toward-60-as-precious-metals-struggle-202610071213",
-      "published": "2026-10-07T12:13:17+00:00",
+      "title": "Gold: Dip buying case builds into 2027 – TD Securities",
+      "summary": "TD Securities’ Ryan McKay and Bart Melek note heavy CTA (Commodity Trading Advisors) selling across Precious Metals, with Gold under pressure from surging real rates and a stronger US Dollar (USD).",
+      "link": "https://www.fxstreet.com/news/gold-dip-buying-case-builds-into-2027-td-securities-202610071432",
+      "published": "2026-10-07T14:32:48+00:00",
       "score": 5
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro: Political risk weighs but downside seen limited – ABN AMRO",
-      "summary": "ABN AMRO strategist Georgette Boele notes that changes in interest rate spreads have encouraged speculative short Euro positions, while fiscal and political uncertainty in France and Spain has historically coincided with Euro (EUR) weakness versus the US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/euro-political-risk-weighs-but-downside-seen-limited-abn-amro-202610071206",
-      "published": "2026-10-07T12:06:34+00:00",
+      "title": "Australian Dollar declines as RBA hike bets fade, US yields climb ahead Fed Minutes",
+      "summary": "AUD/USD falls 0.44% on Wednesday and trades around 0.6950 at the time of writing, snapping a three-day winning streak.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-declines-as-rba-hike-bets-fade-us-yields-climb-ahead-fed-minutes-202610071425",
+      "published": "2026-10-07T14:25:09+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US Dollar: Energy risks support USD strength – BBH",
+      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is stronger against major currencies, with the Euro (EUR) lagging as French and Italian bonds lead a renewed global bond sell-off.",
+      "link": "https://www.fxstreet.com/news/us-dollar-energy-risks-support-usd-strength-bbh-202610071423",
+      "published": "2026-10-07T14:23:19+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Polish Zloty: Downtrend eyes 4.48 on firm support – Societe Generale",
-      "summary": "Societe Generale’s Central and Eastern European (CEE) strategy team expects the National Bank of Poland (NBP) to keep rates at 3.75% today, with Governor Glapiński likely to flag inflation risks and prepare markets for a November hike. They see a hawkish stance offering some Polish Zloty (PLN) support but still expect EUR/PLN to trade above 4.35 given geopolitical and external risks, after the pai",
-      "link": "https://www.fxstreet.com/news/polish-zloty-downtrend-eyes-448-on-firm-support-societe-generale-202610071111",
-      "published": "2026-10-07T11:11:35+00:00",
+      "title": "Canadian Dollar: Political risks weigh against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note USD/CAD around 1.4227 with the Canadian Dollar (CAD) flat versus the US Dollar (USD) but outperforming most G10 peers. CAD retains much of Tuesday’s 0.4% gain, helped by a stronger August trade balance.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-political-risks-weigh-against-us-dollar-scotiabank-202610071403",
+      "published": "2026-10-07T14:03:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed Minutes: Officials saw inflation risks worsening before September hike",
+      "summary": "All participants at the Federal Reserve's (Fed) September 15–16 meeting supported the 25-basis-point rate increase, while most judged that another hike would probably be appropriate by the end of the year.",
+      "link": "https://www.fxstreet.com/news/fed-minutes-set-to-provide-some-insight-into-the-timing-of-next-rate-hikes-202610071400",
+      "published": "2026-10-07T14:00:00+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold declines as stronger US Dollar and yields weigh ahead FOMC Minutes",
-      "summary": "Gold (XAU/USD) remains on the back foot on Wednesday, down nearly 1.10% heading into American trading hours as the US Dollar (USD) and US Treasury yields resume their advance following a modest pullback the previous day.",
+      "title": "Canadian Dollar loses ground ahead of Fed Minutes",
+      "summary": "USD/CAD rebounds sharply on Wednesday, rising nearly 0.45% as the US Dollar (USD) remains firmly bid across the board, supported by surging US Treasury yields. Attention now turns to the minutes of the Federal Reserve’s (Fed) September monetary policy meeting, due at 18:00 GMT.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-loses-ground-ahead-of-fed-minutes-202610071351",
+      "published": "2026-10-07T13:51:49+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold tests $4,100 as US Dollar and yields rise ahead of FOMC Minutes",
+      "summary": "Gold (XAU/USD) extends its decline on Wednesday, falling nearly 1.3% as the US Dollar (USD) and US Treasury yields resume their advance following a modest pullback the previous day.",
       "link": "https://www.fxstreet.com/news/gold-falls-as-us-dollar-treasury-yields-rebound-ahead-of-fed-minutes-202610071045",
       "published": "2026-10-07T10:45:01+00:00",
       "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc retreats further, US Dollar firms up with Fed minutes in focus",
-      "summary": "The Swiss Franc (CHF) loses ground for the third consecutive day against the US Dollar (USD) on Wednesday, retracing the rebound witnessed late last week.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-retreats-further-us-dollar-firms-up-with-fed-minutes-in-focus-202610071043",
-      "published": "2026-10-07T10:43:59+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "ECB’s Pereira: No second-round inflation effects at present",
-      "summary": "European Central Bank (ECB) official and Governor of the Bank of Portugal Santos Pereira said during the European trading session has ruled out fears of second-round inflation effects. Pereira advised that France should pursue fiscal prudence.",
-      "link": "https://www.fxstreet.com/news/ecbs-pereira-no-second-round-inflation-effects-at-present-202610071041",
-      "published": "2026-10-07T10:41:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Warning signal: Gold's failure at the 200-day moving average puts $3,940 in play",
-      "summary": "Gold (XAU/USD) finds itself pulled in two directions: official-sector demand continues to underpin prices even at elevated levels, while the technical picture has deteriorated after the metal failed to hold above its 200-day Simple Moving Average (SMA), leaving key supports exposed.",
-      "link": "https://www.fxstreet.com/news/warning-signal-golds-failure-at-the-200-day-moving-average-puts-3-940-in-play-202610071037",
-      "published": "2026-10-07T10:37:34+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen: Downside risks build against US Dollar near 158.50 – MUFG",
-      "summary": "MUFG’s Derek Halpenny highlights growing downside risks for the Japanese Yen versus the US Dollar as USD/JPY tests its 200-day moving average near 158.50.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-downside-risks-build-against-us-dollar-near-15850-mufg-202610071007",
-      "published": "2026-10-07T10:07:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee tumbles after RBI's policy, 20 bps away from all-time low",
-      "summary": "The Indian Rupee ((INR) weakens significantly against the US Dollar (USD), following the Reserve Bank of India’s (RBI) monetary policy meeting on Wednesday. The USD/INR pair jumps to near 96.80, the highest level seen in four months.",
-      "link": "https://www.fxstreet.com/news/usd-inr-remains-broadly-muted-after-rbis-25-bps-hike-in-repo-rates-to-55-202610070441",
-      "published": "2026-10-07T04:41:23+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -275,15 +293,6 @@
     {
       "source": "r/Forex",
       "category": "reddit",
-      "title": "NFP trade fundamental analysis + technical execution",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wvws1n/nfp_trade_fundamental_analysis_technical_execution/\"> <img alt=\"NFP trade fundamental analysis + technical execution\" src=\"https://preview.redd.it/c65aqnljo2th1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=4d980a345042e75ac61930d2abf3de00adb96c1d\" title=\"NFP trade fundamental analysis + technical execu",
-      "link": "https://www.reddit.com/r/Forex/comments/1wvws1n/nfp_trade_fundamental_analysis_technical_execution/",
-      "published": "2026-10-02T15:29:05+00:00",
-      "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
       "title": "XAUUSD NY Session Short",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wvwp05/xauusd_ny_session_short/\"> <img alt=\"XAUUSD NY Session Short\" src=\"https://preview.redd.it/5yxp96azn2th1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=2ac92823bdc6a59620ba194ea6f2e8bd67dcfe60\" title=\"XAUUSD NY Session Short\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Market was trading in a man",
       "link": "https://www.reddit.com/r/Forex/comments/1wvwp05/xauusd_ny_session_short/",
@@ -347,18 +356,18 @@
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
+      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
       "published": "2026-09-18T15:00:00+00:00",
       "score": 1
     },
     {
       "source": "Federal Reserve",
       "category": "macro",
-      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-      "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
       "published": "2026-09-18T15:00:00+00:00",
       "score": 1
     },
@@ -396,15 +405,6 @@
       "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
       "published": "2026-08-27T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-      "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
-      "published": "2026-08-20T20:00:00+00:00",
       "score": 1
     }
   ],
