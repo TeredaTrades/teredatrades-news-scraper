@@ -1,66 +1,129 @@
 {
-  "updated_at": "2026-10-07T19:51:46.470945+00:00",
-  "count": 45,
+  "updated_at": "2026-10-08T00:02:59.364747+00:00",
+  "count": 42,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: +1732 mln<br />Nasdaq 100: +1455 mln<br />Dow 30: +425 mln<br />Mag 7: +534 mln",
-      "link": "https://www.financialjuice.com/News/9795999/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-10-07T19:50:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Thursday FX Options Expires",
-      "summary": "<ul><li><strong>EUR/USD: </strong>1.1300 (EU5.04b), 1.1500 (EU4.28b), 1.1325 (EU1b)</li><li><strong>USD/JPY: </strong>150.00 ($2.12b), 159.00 ($2.06b), 160.00 ($1.93b)</li><li><strong>AUD/USD:</strong> 0.6975 (AUD563.5m), 0.7100 (AUD370.2m)</li><li><strong>USD/CAD:</strong> 1.4100 ($771.6m), 1.3815 ($402.7m), 1.3730 ($345m)</li><li><strong>USD/BRL:</strong> 5.0000 ($455m), 4.7500 ($350m)</li><li><",
-      "link": "https://www.financialjuice.com/News/9795962/Thursday-FX-Options-Expires-.aspx?xy=rss",
-      "published": "2026-10-07T19:21:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House seeks Iran strike options before midterms - Atlantic",
-      "summary": "<ul><li>After months of intermittent fighting, the United States has refrained from launching strikes against Iran for several weeks. This period of relative calm comes as the midterm election campaign enters its final stage, fueling speculation that President Trump may prefer to maintain the pause until November 3 to avoid drawing voters’ attention to an unpopular war that has been weighing on Re",
-      "link": "https://www.financialjuice.com/News/9795943/White-House-seeks-Iran-strike-options-before-midterms---Atlantic.aspx?xy=rss",
-      "published": "2026-10-07T19:06:57+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to attend AI summit Thursday - Axios",
+      "title": "FinancialJuice: Amazon cuts fewer than 1,000 jobs in latest layoffs - Business Insider",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9795941/Trump-to-attend-AI-summit-Thursday---Axios.aspx?xy=rss",
-      "published": "2026-10-07T19:03:48+00:00",
+      "link": "https://www.financialjuice.com/News/9796220/Amazon-cuts-fewer-than-1000-jobs-in-latest-layoffs---Business-Insider.aspx?xy=rss",
+      "published": "2026-10-07T23:59:02+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar slips as Fed hike bets meet Middle East Oil risk",
+      "summary": "The Australian Dollar makes a U-turn and loses over 0.29% on Wednesday after the Federal Reserve revealed members expect another rate hike towards the year-end. The AUD/USD trades at 0.6963.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-fed-hike-bets-meet-middle-east-oil-risk-202610072307",
+      "published": "2026-10-07T23:07:37+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Colombia annual inflation reached 6.29% through last month: government statistics agency",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9796158/Colombia-annual-inflation-reached-629-through-last-month-government-statistics-agency.aspx?xy=rss",
+      "published": "2026-10-07T22:59:10+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: The US Federal Communications Commission voted on October 29th on a proposal to bar Chinese labs from testing electronic devices such as smartphones, cameras, and computers for use in the US.",
+      "title": "FinancialJuice: Colombia inflation at 0.37% last month: government statistics agency",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9795919/The-US-Federal-Communications-Commission-voted-on-October-29th-on-a-proposal-to-bar-Chinese-labs-from-testing-electronic-devices-such-as-smartphones-cameras-and-computers-for-use-in-the-US.aspx?xy=rss",
-      "published": "2026-10-07T18:54:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump ends remarks at the White House",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9795905/Trump-ends-remarks-at-the-White-House.aspx?xy=rss",
-      "published": "2026-10-07T18:43:57+00:00",
+      "link": "https://www.financialjuice.com/News/9796157/Colombia-inflation-at-037-last-month-government-statistics-agency.aspx?xy=rss",
+      "published": "2026-10-07T22:59:10+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
+      "title": "The Euro gives back its bounce as French bonds sell off again",
+      "summary": "Banque de France Governor Moulin said on Wednesday that the strain in French bonds is serious but doesn't meet the conditions for help from the European Central Bank (ECB). French 10-year yields went back up after Tuesday's relief.",
+      "link": "https://www.fxstreet.com/news/the-euro-gives-back-its-bounce-as-french-bonds-sell-off-again-202610072228",
+      "published": "2026-10-07T22:28:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso holds firm as FOMC Minutes signal further rate hikes",
+      "summary": "The Mexican Peso finishes its winning streak yet holds firm at around Wednesday’s opening price against the US Dollar, after the minutes of the Federal Reserve’s last meeting revealed that officials expect another rate hike by the year’s end. The USD/MXN trades at 17.98, virtually unchanged.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-holds-firm-as-fomc-minutes-signal-further-rate-hikes-202610072203",
+      "published": "2026-10-07T22:03:37+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "The Pound slides back to the bottom of its range as the bond selloff resumes",
+      "summary": "The low of every session since September 24 has come within half a cent of 1.3200, and Wednesday made it ten in a row. GBP/USD trades just above 1.3200, below the level Tuesday's rally started from.",
+      "link": "https://www.fxstreet.com/news/the-pound-slides-back-to-the-bottom-of-its-range-as-the-bond-selloff-resumes-202610072155",
+      "published": "2026-10-07T21:55:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Chinese Yuan: Tight ranges persist against US Dollar – UOB",
+      "summary": "United Overseas Bank strategists Quek Ser Leang and Lee Sue Ann describe USD/CNH as confined to a narrow intraday band around 6.7000, with a slightly firmer tone in the very short term.",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-tight-ranges-persist-against-us-dollar-uob-202610072117",
+      "published": "2026-10-07T21:17:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Vietnamese Dong: Constructive but upside constrained – Commerzbank",
+      "summary": "Commerzbank’s Asia FX team highlights a constructive near-term outlook for the Vietnamese Dong (VND), supported by strong Foreign Direct Investment (FDI) inflows and robust growth. USD/VND stayed around 25,994, below its July peak, leaving VND about 1.2% stronger year-to-date.",
+      "link": "https://www.fxstreet.com/news/vietnamese-dong-constructive-but-upside-constrained-commerzbank-202610072033",
+      "published": "2026-10-07T20:33:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD cracks $60 as bears eye $56",
+      "summary": "Silver (XAG/USD) price extends its losses on Wednesday, following Gold’s path, as the latest Federal Reserve (Fed) Minutes showed that officials expect another rate increase towards the year-end. The XAG/USD pair trades at $59.69, down by over 1.67%.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-cracks-60-as-bears-eye-56-202610072011",
+      "published": "2026-10-07T20:11:09+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "South Korean Won: Upside risks with key levels in focus against US Dollar – OCBC",
+      "summary": "Christopher Wong at OCBC Bank notes that USD/KRW continues to trade heavy as exporter US Dollar (USD) selling and a softer external backdrop support the Korean Won (KRW), even as foreign equity outflows cap gains.",
+      "link": "https://www.fxstreet.com/news/south-korean-won-upside-risks-with-key-levels-in-focus-against-us-dollar-ocbc-202610071951",
+      "published": "2026-10-07T19:51:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold slides below $4,100 as FOMC Minutes signal further Fed hikes",
+      "summary": "Gold (XAU/USD) price pressures on the downside on Wednesday, yet it has reclaimed the $4,100 mark as US Treasury yields erased some of its earlier gains and turned negative.",
+      "link": "https://www.fxstreet.com/news/gold-slides-below-4-100-as-fomc-minutes-signal-further-fed-hikes-202610071929",
+      "published": "2026-10-07T19:29:05+00:00",
+      "score": 6
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Thai Baht: Inflation rise and THB downside risks – Commerzbank",
+      "summary": "Commerzbank economists note Thailand’s September CPI rose 2.8% year-on-year, below consensus but the highest since April, bringing headline inflation close to the upper end of the Bank of Thailand’s target range. They expect headline inflation to rise further on persistent supply-side pressures, yet see demand-side forces as benign. USD/THB fell to 33.62, though downside risks to the Baht remain e",
+      "link": "https://www.fxstreet.com/news/thai-baht-inflation-rise-and-thb-downside-risks-commerzbank-202610071912",
+      "published": "2026-10-07T19:12:00+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
       "title": "Forex Today: Weekly Claims and Fedspeak on top of the agenda",
-      "summary": "The US Dollar (USD) has resumed its uptrend, advancing to two-day highs while rapidly forgetting Tuesday’s hiccup. The extra gains in the Greenback have come in tandem with the equally decent advance in US Treasury yields on the belly and the long end of the curve.",
+      "summary": "The US Dollar (USD) has resumed its uptrend, advancing to two-day highs while rapidly forgetting Tuesday’s hiccup. The extra gains in the Greenback have come in tandem with the equally decent advance in US Treasury yields on the belly and long end of the curve.",
       "link": "https://www.fxstreet.com/news/forex-today-weekly-claims-and-fedspeak-on-top-of-the-agenda-202610071842",
       "published": "2026-10-07T18:42:46+00:00",
       "score": 3
@@ -131,83 +194,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Vietnam: Strong GDP but rising inflation risks – Commerzbank",
-      "summary": "Commerzbank Research highlights Vietnam’s Q3 GDP growth at 10.0% year-on-year, the strongest since the pandemic, driven by investment and industry. Achieving the government’s 10% full-year target would require an unusually strong Q4.",
-      "link": "https://www.fxstreet.com/news/vietnam-strong-gdp-but-rising-inflation-risks-commerzbank-202610071518",
-      "published": "2026-10-07T15:18:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro struggles as French fiscal risks, strong US Dollar weigh ahead of Fed Minutes",
-      "summary": "EUR/USD extends its decline on Wednesday as the Euro (EUR) remains under broad selling pressure, while the US Dollar (USD) strengthens alongside surging US Treasury yields. At the time of writing, the pair trades around 1.1195, down 0.57% on the day, hovering near its lowest level in 17 months.",
-      "link": "https://www.fxstreet.com/news/euro-struggles-as-french-fiscal-risks-strong-us-dollar-weigh-ahead-of-fed-minutes-202610071459",
-      "published": "2026-10-07T14:59:43+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Treasury yields hit 24-year highs as 10-year tests 5.35%",
-      "summary": "US Treasury yields soar on Wednesday, with the 10- and 30-year yields reaching 24-year highs of 5.35% and 5.724%, respectively, suggesting that investors are demanding a higher premium on US debt amid inflation and fiscal policy concerns.",
-      "link": "https://www.fxstreet.com/news/us-treasury-yields-hit-24-year-highs-as-10-year-tests-535-202610071450",
-      "published": "2026-10-07T14:50:38+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Dip buying case builds into 2027 – TD Securities",
-      "summary": "TD Securities’ Ryan McKay and Bart Melek note heavy CTA (Commodity Trading Advisors) selling across Precious Metals, with Gold under pressure from surging real rates and a stronger US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/gold-dip-buying-case-builds-into-2027-td-securities-202610071432",
-      "published": "2026-10-07T14:32:48+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Australian Dollar declines as RBA hike bets fade, US yields climb ahead Fed Minutes",
-      "summary": "AUD/USD falls 0.44% on Wednesday and trades around 0.6950 at the time of writing, snapping a three-day winning streak.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-declines-as-rba-hike-bets-fade-us-yields-climb-ahead-fed-minutes-202610071425",
-      "published": "2026-10-07T14:25:09+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar: Energy risks support USD strength – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad notes the US Dollar (USD) is stronger against major currencies, with the Euro (EUR) lagging as French and Italian bonds lead a renewed global bond sell-off.",
-      "link": "https://www.fxstreet.com/news/us-dollar-energy-risks-support-usd-strength-bbh-202610071423",
-      "published": "2026-10-07T14:23:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Political risks weigh against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret note USD/CAD around 1.4227 with the Canadian Dollar (CAD) flat versus the US Dollar (USD) but outperforming most G10 peers. CAD retains much of Tuesday’s 0.4% gain, helped by a stronger August trade balance.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-political-risks-weigh-against-us-dollar-scotiabank-202610071403",
-      "published": "2026-10-07T14:03:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
       "title": "Fed Minutes: Officials saw inflation risks worsening before September hike",
       "summary": "All participants at the Federal Reserve's (Fed) September 15–16 meeting supported the 25-basis-point rate increase, while most judged that another hike would probably be appropriate by the end of the year.",
       "link": "https://www.fxstreet.com/news/fed-minutes-set-to-provide-some-insight-into-the-timing-of-next-rate-hikes-202610071400",
       "published": "2026-10-07T14:00:00+00:00",
       "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar loses ground ahead of Fed Minutes",
-      "summary": "USD/CAD rebounds sharply on Wednesday, rising nearly 0.45% as the US Dollar (USD) remains firmly bid across the board, supported by surging US Treasury yields. Attention now turns to the minutes of the Federal Reserve’s (Fed) September monetary policy meeting, due at 18:00 GMT.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-loses-ground-ahead-of-fed-minutes-202610071351",
-      "published": "2026-10-07T13:51:49+00:00",
-      "score": 3
     },
     {
       "source": "FXStreet",
@@ -264,15 +255,6 @@
       "score": 1
     },
     {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "My Setup on Monday for GOLD!",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wwiqnz/my_setup_on_monday_for_gold/\"> <img alt=\"My Setup on Monday for GOLD!\" src=\"https://preview.redd.it/fru0abs3y7th1.png?width=140&amp;height=83&amp;auto=webp&amp;s=f89de7d9186acc621c1f979ef885a1cb5fab4206\" title=\"My Setup on Monday for GOLD!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/",
-      "link": "https://www.reddit.com/r/Forex/comments/1wwiqnz/my_setup_on_monday_for_gold/",
-      "published": "2026-10-03T09:12:21+00:00",
-      "score": 1
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
@@ -289,15 +271,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
       "published": "2026-10-02T20:00:00+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "XAUUSD NY Session Short",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wvwp05/xauusd_ny_session_short/\"> <img alt=\"XAUUSD NY Session Short\" src=\"https://preview.redd.it/5yxp96azn2th1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=2ac92823bdc6a59620ba194ea6f2e8bd67dcfe60\" title=\"XAUUSD NY Session Short\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Market was trading in a man",
-      "link": "https://www.reddit.com/r/Forex/comments/1wvwp05/xauusd_ny_session_short/",
-      "published": "2026-10-02T15:25:55+00:00",
-      "score": 3
     },
     {
       "source": "Federal Reserve",
