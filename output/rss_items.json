@@ -1,41 +1,140 @@
 {
-  "updated_at": "2026-10-08T19:27:47.673008+00:00",
-  "count": 41,
+  "updated_at": "2026-10-08T23:53:05.377197+00:00",
+  "count": 44,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Friday FX Options Expiries",
-      "summary": "<ul><li><strong>EUR/USD:</strong> 1.1500 (EU2.86b), 1.1800 (EU2.17b), 1.1250 (EU2.01b) </li><li><strong>USD/JPY:</strong> 155.00 ($2.06b), 158.00 ($1.1b), 153.00 ($1.05b) </li><li><strong>AUD/USD: </strong>0.7100 (AUD1.65b), 0.6900 (AUD1.2b), 0.7000 (AUD929.1m) </li><li><strong>USD/CAD: </strong>1.4045 ($469.9m), 1.3950 ($463m), 1.4050 ($436.4m) </li><li><strong>GBP/USD: </strong>1.3100 (GBP1.12b)",
-      "link": "https://www.financialjuice.com/News/9797790/Friday-FX-Options-Expiries.aspx?xy=rss",
-      "published": "2026-10-08T19:22:43+00:00",
+      "title": "FinancialJuice: Meta confirms it blocked ads from Bytedance: spokesperson",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9798031/Meta-confirms-it-blocked-ads-from-Bytedance-spokesperson.aspx?xy=rss",
+      "published": "2026-10-08T23:41:06+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Vice Chair Kupor: 4 senior leaders of Trump's AI task force to meet on Thursday.",
+      "title": "FinancialJuice: Nvidia to invest in chip competitor D-Matrix: The Information",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9797715/Vice-Chair-Kupor-4-senior-leaders-of-Trumps-AI-task-force-to-meet-on-Thursday.aspx?xy=rss",
-      "published": "2026-10-08T18:11:57+00:00",
+      "link": "https://www.financialjuice.com/News/9798018/Nvidia-to-invest-in-chip-competitor-D-Matrix-The-Information.aspx?xy=rss",
+      "published": "2026-10-08T23:26:15+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold gains ground to near $4,150 as traders weigh Fed rate path",
+      "summary": "Gold price (XAU/USD) edges higher to around $4,140 during the early Asian session on Friday. The precious metal rebounds from a two-month low as traders assess the outlook for energy prices and weighed the Federal Reserve's (Fed) uncertain interest-rate path.",
+      "link": "https://www.fxstreet.com/news/gold-gains-ground-to-near-4-150-as-traders-weigh-fed-rate-path-202610082321",
+      "published": "2026-10-08T23:21:26+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Yen gains as Trump rules out Iran strikes before the midterms",
+      "summary": "The 10-year Treasury yield ended near 5.22% after President Trump said on Truth Social that the US won't attack Iran before the midterm elections. It had touched its highest since 2002 on Wednesday.",
+      "link": "https://www.fxstreet.com/news/yen-gains-as-trump-rules-out-iran-strikes-before-the-midterms-202610082315",
+      "published": "2026-10-08T23:15:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Meta platforms bar advertisements from ByteDance, former TikTok owner, in the US",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9798010/Meta-platforms-bar-advertisements-from-ByteDance-former-TikTok-owner-in-the-US.aspx?xy=rss",
+      "published": "2026-10-08T23:12:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar slides as AI sell-off rattles Wall Street",
+      "summary": "The Aussie Dollar dives 0.11% on Thursday as the US Dollar retreats from monthly highs, with safe-haven flows shifting from the Greenback to the Japanese Yen and the Swiss Franc amid losses on Wall Street and US yields. The AUD/USD trades at 0.6960 at the time of writing.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slides-as-ai-sell-off-rattles-wall-street-202610082242",
+      "published": "2026-10-08T22:42:24+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "IMO, fundamentals are just as important as technicals.",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1x13txa/imo_fundamentals_are_just_as_important_as/\"> <img alt=\"IMO, fundamentals are just as important as technicals.\" src=\"https://preview.redd.it/d73lvu9scbuh1.png?width=140&amp;height=89&amp;auto=webp&amp;s=20b26390c56d6fc50df84e2ef58e4d9d3eef3eb9\" title=\"IMO, fundamentals are just as important as technicals.\" /> </a> </td><td> <",
+      "link": "https://www.reddit.com/r/Forex/comments/1x13txa/imo_fundamentals_are_just_as_important_as/",
+      "published": "2026-10-08T21:47:47+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold gains on geopolitics as Fed hike bets shift to December",
+      "summary": "Gold (XAU/USD) price edges higher on Thursday, underpinned by lower US Treasury yields and a weaker US Dollar, even as Federal Reserve (Fed) officials support further tightening by the US central bank. At the time of writing, XAU/USD trades at $4,130, up 0.48%, after bottoming near $4,103.",
+      "link": "https://www.fxstreet.com/news/gold-gains-on-geopolitics-as-fed-hike-bets-shift-to-december-202610082105",
+      "published": "2026-10-08T21:05:52+00:00",
+      "score": 5
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "XAUUSD Longs today",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1x12ld6/xauusd_longs_today/\"> <img alt=\"XAUUSD Longs today\" src=\"https://preview.redd.it/yo4i1ebo4buh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=32da46037918e55cc33cdcffcf9533c7525012ac\" title=\"XAUUSD Longs today\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Nice catch on Gold today, got stopped out ",
+      "link": "https://www.reddit.com/r/Forex/comments/1x12ld6/xauusd_longs_today/",
+      "published": "2026-10-08T20:57:51+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Pentagon draws up new Iran strike plans as Trump hesitates - NYT.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9797886/Pentagon-draws-up-new-Iran-strike-plans-as-Trump-hesitates---NYT.aspx?xy=rss",
+      "published": "2026-10-08T20:42:41+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump ends remarks at medal ceremony",
+      "title": "FinancialJuice: Fed issues enforcement action against American Express on money laundering. $AXP",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9797714/Trump-ends-remarks-at-medal-ceremony.aspx?xy=rss",
-      "published": "2026-10-08T18:08:25+00:00",
+      "link": "https://www.financialjuice.com/News/9797882/Fed-issues-enforcement-action-against-American-Express-on-money-laundering-AXP.aspx?xy=rss",
+      "published": "2026-10-08T20:38:35+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+      "published": "2026-10-08T20:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Fed's Musalem event ends",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9797713/Feds-Musalem-event-ends.aspx?xy=rss",
-      "published": "2026-10-08T18:04:50+00:00",
+      "title": "Chinese Yuan: Upside bias within defined band against US Dollar – UOB",
+      "summary": "UOB strategists Quek Ser Leang and Lee Sue Ann describe USD/CNH as holding largely unchanged, but with a slight increase in downward momentum. Intraday, they see the bias tilted lower toward 6.6950, with resistance at 6.7055 and 6.7100 and a clear break below 6.6950 deemed unlikely. Over 1–3 weeks, they expect USD/CNH to trade between 6.6950 and 6.7270, while over 1–3 months they anticipate gradua",
+      "link": "https://www.fxstreet.com/news/chinese-yuan-upside-bias-within-defined-band-against-us-dollar-uob-202610081921",
+      "published": "2026-10-08T19:21:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso dives on solid US data despite rising inflation",
+      "summary": "The Mexican Peso (MXN) depreciates about 0.91% against the US Dollar (USD) on Thursday amid positive US data, while Bank of Mexico (Banxico) minutes from last meeting indicated inflation edging higher, a trend confirmed by the September print.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-dives-on-solid-us-data-despite-high-inflation-202610081845",
+      "published": "2026-10-08T18:45:32+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Taiwan Dollar: Trade boom contrasts FX stability – ING",
+      "summary": "ING’s Lynn Song highlights Taiwan’s record trade performance, with the September surplus hitting US$23.6bn on a 60.9% year-on-year export surge, largely driven by tech-related machinery and electrical equipment. Despite strong exports, equities and foreign inflows, the Taiwan Dollar has remained relatively subdued, reflecting outward corporate investment, capital outflows due to yield differential",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-trade-boom-contrasts-fx-stability-ing-202610081841",
+      "published": "2026-10-08T18:41:00+00:00",
       "score": 1
     },
     {
@@ -118,78 +217,6 @@
       "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-feds-waller-eyes-a-pause-in-october-202610081550",
       "published": "2026-10-08T15:50:41+00:00",
       "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD slides below $60 as sellers retain control",
-      "summary": "Silver (XAG/USD) remains under pressure on Thursday even as the US Dollar (USD) and US Treasury yields ease. Sellers remain in control after a break below the $60 psychological mark, with the Relative Strength Index (RSI) drifting toward oversold territory.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slides-below-60-as-sellers-retain-control-202610081518",
-      "published": "2026-10-08T15:18:58+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Mexican Peso: Watching support for reversal signal against US Dollar – Societe Generale",
-      "summary": "Societe Generale analysts report USD/MXN has extended its rebound after reclaiming the 200-day moving average near 17.40 and posting an interim high around 18.43. A brief pullback is underway, with attention on whether a base forms for a more durable reversal. First support at 17.68 and the 200-DMA at 17.40 are key downside levels to monitor.",
-      "link": "https://www.fxstreet.com/news/mexican-peso-watching-support-for-reversal-signal-against-us-dollar-societe-generale-202610081442",
-      "published": "2026-10-08T14:42:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro steadies as US yields retreat, traders assess Fed and ECB signals",
-      "summary": "EUR/USD rebounds during American trading hours on Thursday as a pullback in US Treasury yields tempers the US Dollar’s (USD) momentum. However, France’s fiscal concerns and broader US Dollar strength keep the Euro (EUR) pinned near the 17-month low touched earlier this week.",
-      "link": "https://www.fxstreet.com/news/euro-steadies-as-us-yields-retreat-traders-assess-fed-and-ecb-signals-202610081419",
-      "published": "2026-10-08T14:19:40+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar: Consolidation near 1.42s against US Dollar – Scotiabank",
-      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight that USD/CAD around 1.4269 shows signs of consolidation after a sharp Canadian Dollar (CAD) weakening since early September. Price action is closely tracking the 2-year US–Canada spread, with Oil offering some support to CAD.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidation-near-142s-against-us-dollar-scotiabank-202610081346",
-      "published": "2026-10-08T13:46:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "European Central Bank: Neutral communication with upside inflation risks – Nordea",
-      "summary": "Nordea’s Chief Analyst Jan von Gerich interprets the ECB’s September monetary policy account as supporting further rate hikes, likely in December and March. The Governing Council remains focused on upside inflation risks, especially from persistent energy shocks and resilient growth.",
-      "link": "https://www.fxstreet.com/news/european-central-bank-neutral-communication-with-upside-inflation-risks-nordea-202610081326",
-      "published": "2026-10-08T13:26:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Federal Reserve: More hikes ahead after October pause - UOB",
-      "summary": "UOB’s Alvin Liew analyzes the September 2026 FOMC minutes, highlighting unanimous support for a 25bp hike to 3.75–4.00% as inflation stays elevated and growth remains solid.",
-      "link": "https://www.fxstreet.com/news/federal-reserve-more-hikes-ahead-after-october-pause-uob-202610081303",
-      "published": "2026-10-08T13:03:26+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "BoE’s Bailey calls for stronger financial markets to absorb future shocks",
-      "summary": "Bank of England (BoE) Governor Andrew Bailey said on Thursday that financial markets need to be better prepared for future shocks and monetary policy must stay focused on bringing inflation back to target.",
-      "link": "https://www.fxstreet.com/news/boes-bailey-calls-for-stronger-financial-markets-to-absorb-future-shocks-202610081249",
-      "published": "2026-10-08T12:49:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold gains modestly as US Treasury yields ease, Fed hike risks linger",
-      "summary": "Gold (XAU/USD) holds modest gains on Thursday as a retreat in US Treasury yields tempers the US Dollar’s (USD) strength, helping the metal regain some ground. However, Gold lacks bullish conviction and remains in a bearish consolidation phase near two-month lows.",
-      "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-yields-and-hawkish-fed-signals-weigh-202610081055",
-      "published": "2026-10-08T10:55:42+00:00",
-      "score": 6
     },
     {
       "source": "r/Forex",
