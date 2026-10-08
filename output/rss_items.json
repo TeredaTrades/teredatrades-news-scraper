@@ -1,33 +1,159 @@
 {
-  "updated_at": "2026-10-08T13:31:35.436371+00:00",
-  "count": 45,
+  "updated_at": "2026-10-08T19:27:47.673008+00:00",
+  "count": 41,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: MOO Imbalance",
-      "summary": "S&amp;P 500: -99 mln<br />Nasdaq 100: -38 mln<br />Dow 30: +8 mln<br />Mag 7: -9 mln",
-      "link": "https://www.financialjuice.com/News/9797301/MOO-Imbalance.aspx?xy=rss",
-      "published": "2026-10-08T13:30:37+00:00",
+      "title": "FinancialJuice: Friday FX Options Expiries",
+      "summary": "<ul><li><strong>EUR/USD:</strong> 1.1500 (EU2.86b), 1.1800 (EU2.17b), 1.1250 (EU2.01b) </li><li><strong>USD/JPY:</strong> 155.00 ($2.06b), 158.00 ($1.1b), 153.00 ($1.05b) </li><li><strong>AUD/USD: </strong>0.7100 (AUD1.65b), 0.6900 (AUD1.2b), 0.7000 (AUD929.1m) </li><li><strong>USD/CAD: </strong>1.4045 ($469.9m), 1.3950 ($463m), 1.4050 ($436.4m) </li><li><strong>GBP/USD: </strong>1.3100 (GBP1.12b)",
+      "link": "https://www.financialjuice.com/News/9797790/Friday-FX-Options-Expiries.aspx?xy=rss",
+      "published": "2026-10-08T19:22:43+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump sold between $500,001 and $1 mln of Boeing in August - CNBC. $BA",
+      "title": "FinancialJuice: Vice Chair Kupor: 4 senior leaders of Trump's AI task force to meet on Thursday.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9797298/Trump-sold-between-500001-and-1-mln-of-Boeing-in-August---CNBC-BA.aspx?xy=rss",
-      "published": "2026-10-08T13:28:07+00:00",
+      "link": "https://www.financialjuice.com/News/9797715/Vice-Chair-Kupor-4-senior-leaders-of-Trumps-AI-task-force-to-meet-on-Thursday.aspx?xy=rss",
+      "published": "2026-10-08T18:11:57+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump sold between $500,000 and $1m of NVIDIA in August - CNBC. $NVDA",
+      "title": "FinancialJuice: Trump ends remarks at medal ceremony",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9797297/Trump-sold-between-500000-and-1m-of-NVIDIA-in-August---CNBC-NVDA.aspx?xy=rss",
-      "published": "2026-10-08T13:27:15+00:00",
+      "link": "https://www.financialjuice.com/News/9797714/Trump-ends-remarks-at-medal-ceremony.aspx?xy=rss",
+      "published": "2026-10-08T18:08:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Musalem event ends",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9797713/Feds-Musalem-event-ends.aspx?xy=rss",
+      "published": "2026-10-08T18:04:50+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Forex Today: US flash Consumer Sentiment and Canadian jobs in the limelight",
+      "summary": "A sudden bout of selling pressure has weighed on the US Dollar (USD) on Thursday, motivating it to abandon the area of recent tops, all in response to comments from President Donald Trump and the subsequent pullback in crude Oil prices.",
+      "link": "https://www.fxstreet.com/news/forex-today-us-flash-consumer-sentiment-and-canadian-jobs-in-the-limelight-202610081803",
+      "published": "2026-10-08T18:03:47+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Fed's Musalem signals more tightening as inflation stays elevated",
+      "summary": "St. Louis Federal Reserve (Fed) President Alberto Musalem said on Thursday that inflation is elevated and that to bring it back to the 2% goal, “more monetary policy firming will be required.”",
+      "link": "https://www.fxstreet.com/news/feds-musalem-signals-more-tightening-as-inflation-stays-elevated-202610081757",
+      "published": "2026-10-08T17:57:16+00:00",
       "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen finds relief as Trump rules out Iran strikes before midterms",
+      "summary": "USD/JPY edges lower on Thursday as a pullback in US Treasury yields pauses the Greenback’s advance, giving the Japanese Yen (JPY) some breathing room. Traders assess fresh Middle East developments and central bank signals. At the time of writing, the pair trades around 157.71, down 0.24% on the day.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-finds-relief-as-trump-rules-out-iran-strikes-before-midterms-202610081744",
+      "published": "2026-10-08T17:44:48+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Further weakness possible against US Dollar – UOB",
+      "summary": "UOB strategists Quek Ser Leang and Lee Sue Ann note that USD/SGD rebounded to 1.2810 before closing at 1.2797. While upward momentum is rebuilding, it remains insufficient to signal a sustained advance. The pair could edge above 1.2810, but the major resistance at 1.2835 is unlikely to be reached.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-further-weakness-possible-against-us-dollar-uob-202610081710",
+      "published": "2026-10-08T17:10:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Trump rules out Iran strike before midterms, talks resume",
+      "summary": "US President Donald Trump posted on his Truth Social account that discussions with Iran continue and that the US will not attack Iran at any time prior to the midterm elections, held on November 3.",
+      "link": "https://www.fxstreet.com/news/us-president-trump-rules-out-iran-strike-before-midterms-talks-resume-202610081642",
+      "published": "2026-10-08T16:42:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dollar Index flatlines as Fed Governor Waller puts no date on more hikes",
+      "summary": "102.50 has stopped the Dollar Index on Monday, Wednesday and Thursday, and a call for more rate hikes from Fed Governor Waller on Thursday didn't get it any further. The index trades near 102.30, inside the range it has held since October 1.",
+      "link": "https://www.fxstreet.com/news/dollar-index-flatlines-as-fed-governor-waller-puts-no-date-on-more-hikes-202610081618",
+      "published": "2026-10-08T16:18:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Banxico minutes flag upside inflation risks despite 6.50% rate hold",
+      "summary": "The Bank of Mexico (Banxico) released its September meeting minutes on Thursday, which showed the central bank holding rates unchanged at 6.50% while acknowledging that inflation risks are tilted to the upside.",
+      "link": "https://www.fxstreet.com/news/banxico-minutes-flags-upside-inflation-risks-despite-650-rate-hold-202610081602",
+      "published": "2026-10-08T16:02:28+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar slips as hawkish Fed, elevated US yields sustain USD",
+      "summary": "AUD/USD extends its decline for the second consecutive day on Thursday, trading around 0.6950, down 0.20% on the day at the time of writing.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-slips-as-hawkish-fed-elevated-us-yields-sustain-usd-202610081551",
+      "published": "2026-10-08T15:51:56+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound catches bid as Fed’s Waller eyes a pause in October",
+      "summary": "The Pound Sterling (GBP) advances about 0.14% on Thursday as the US Dollar (USD) weakens despite positive US jobs data, but dovish comments by Federal Reserve (Fed) Governor Christopher Waller weighed on the Greenback. At the time of writing, GBP/USD trades at 1.3230 after bottoming at 1.3184.",
+      "link": "https://www.fxstreet.com/news/british-pound-catches-bid-as-feds-waller-eyes-a-pause-in-october-202610081550",
+      "published": "2026-10-08T15:50:41+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: XAG/USD slides below $60 as sellers retain control",
+      "summary": "Silver (XAG/USD) remains under pressure on Thursday even as the US Dollar (USD) and US Treasury yields ease. Sellers remain in control after a break below the $60 psychological mark, with the Relative Strength Index (RSI) drifting toward oversold territory.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slides-below-60-as-sellers-retain-control-202610081518",
+      "published": "2026-10-08T15:18:58+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Mexican Peso: Watching support for reversal signal against US Dollar – Societe Generale",
+      "summary": "Societe Generale analysts report USD/MXN has extended its rebound after reclaiming the 200-day moving average near 17.40 and posting an interim high around 18.43. A brief pullback is underway, with attention on whether a base forms for a more durable reversal. First support at 17.68 and the 200-DMA at 17.40 are key downside levels to monitor.",
+      "link": "https://www.fxstreet.com/news/mexican-peso-watching-support-for-reversal-signal-against-us-dollar-societe-generale-202610081442",
+      "published": "2026-10-08T14:42:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro steadies as US yields retreat, traders assess Fed and ECB signals",
+      "summary": "EUR/USD rebounds during American trading hours on Thursday as a pullback in US Treasury yields tempers the US Dollar’s (USD) momentum. However, France’s fiscal concerns and broader US Dollar strength keep the Euro (EUR) pinned near the 17-month low touched earlier this week.",
+      "link": "https://www.fxstreet.com/news/euro-steadies-as-us-yields-retreat-traders-assess-fed-and-ecb-signals-202610081419",
+      "published": "2026-10-08T14:19:40+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Consolidation near 1.42s against US Dollar – Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret highlight that USD/CAD around 1.4269 shows signs of consolidation after a sharp Canadian Dollar (CAD) weakening since early September. Price action is closely tracking the 2-year US–Canada spread, with Oil offering some support to CAD.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-consolidation-near-142s-against-us-dollar-scotiabank-202610081346",
+      "published": "2026-10-08T13:46:04+00:00",
+      "score": 1
     },
     {
       "source": "FXStreet",
@@ -39,57 +165,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump sold between $1 mln to $5 mln of AMD in August - CNBC. $AMD",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9797296/Trump-sold-between-1-mln-to-5-mln-of-AMD-in-August---CNBC-AMD.aspx?xy=rss",
-      "published": "2026-10-08T13:23:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump bought up to $25 mln in meta stock - CNBC citing Aug. report. $META",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9797293/Trump-bought-up-to-25-mln-in-meta-stock---CNBC-citing-Aug-report-META.aspx?xy=rss",
-      "published": "2026-10-08T13:22:04+00:00",
-      "score": 2
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Federal Reserve: More hikes ahead after October pause - UOB",
       "summary": "UOB’s Alvin Liew analyzes the September 2026 FOMC minutes, highlighting unanimous support for a 25bp hike to 3.75–4.00% as inflation stays elevated and growth remains solid.",
       "link": "https://www.fxstreet.com/news/federal-reserve-more-hikes-ahead-after-october-pause-uob-202610081303",
       "published": "2026-10-08T13:03:26+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Effective Fed Funds Rate 3.88% October 7 vs 3.88% October 6.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9797238/Effective-Fed-Funds-Rate-388-October-7-vs-388-October-6.aspx?xy=rss",
-      "published": "2026-10-08T13:00:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs: September FOMC Minutes Reinforce Hawkish Bias, but December Hike Still Data-Dependent - FJElite",
-      "summary": "<div>The September minutes showed unanimous support for the 25bp hike to 3.75%-4.00%, with officials judging that progress on inflation had not been sufficient. Almost all participants saw inflation risks tilted to the upside, while labour-market risks had diminished and were now broadly balanced. Many viewed the hike as prudent risk management against inflation staying persistently above target, ",
-      "link": "https://www.financialjuice.com/News/9797236/Goldman-Sachs-September-FOMC-Minutes-Reinforce-Hawkish-Bias-but-December-Hike-Still-Data-Dependent---FJElite.aspx?xy=rss",
-      "published": "2026-10-08T12:53:29+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs on France: Le Pen Remains Favourite as National Rally Sets Out Fiscal Plans - FJElite",
-      "summary": "<div>Polling models continue to show Marine Le Pen as the favourite for next year’s presidential election, with Rassemblement National also seen as likely to secure a parliamentary majority. That has increased focus on the party’s fiscal proposals, including a “counter-budget” that would improve the primary balance from -2.6% to -0.6% of GDP next year. Such a large adjustment would likely be diffi",
-      "link": "https://www.financialjuice.com/News/9797235/Goldman-Sachs-on-France-Le-Pen-Remains-Favourite-as-National-Rally-Sets-Out-Fiscal-Plans---FJElite.aspx?xy=rss",
-      "published": "2026-10-08T12:50:05+00:00",
       "score": 3
     },
     {
@@ -104,110 +185,11 @@
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro: French debt risk weighs on EUR against US Dollar – ING",
-      "summary": "Chris Turner at ING highlights that EUR/USD remains fragile as French sovereign debt volatility drives the pair. A report suggesting the French Treasury may shorten issuance duration unsettled investors, who fear reduced pressure on politicians to deliver fiscal consolidation. ING continues to favor a dip in EUR/USD towards the 1.1100/1.1120 area, where stronger technical support may emerge, with ",
-      "link": "https://www.fxstreet.com/news/euro-french-debt-risk-weighs-on-eur-against-us-dollar-ing-202610081243",
-      "published": "2026-10-08T12:43:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "ECB expected to pause in October before hiking rates in December – Reuters poll",
-      "summary": "The European Central Bank (ECB) is expected to leave interest rates unchanged in October before delivering another increase in December, according to a Reuters poll conducted October 5-8.",
-      "link": "https://www.fxstreet.com/news/ecb-expected-to-pause-in-october-before-hiking-rates-in-december-reuters-poll-202610081239",
-      "published": "2026-10-08T12:39:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Europe: Sovereign stress and China trade tensions – Rabobank",
-      "summary": "Rabobank’s RaboResearch Global Economics & Markets team underscores renewed pressure in European sovereign yields and rising political-economic tensions with China. The report notes sharp moves in French, Italian and Greek bonds and discusses Europe’s struggle with Chinese hybrid vehicle imports.",
-      "link": "https://www.fxstreet.com/news/europe-sovereign-stress-and-china-trade-tensions-rabobank-202610081221",
-      "published": "2026-10-08T12:21:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar nears 18-month lows as risk aversion buoys the US Dollar",
-      "summary": "The Canadian Dollar (CAD) posts marginal losses on Thursday with the safe-haven US Dollar (USD) favoured by the risk-averse mood, as tensions in the Middle East boost Crude prices and the global bond selloff extends.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-nears-18-month-lows-as-risk-aversion-buoys-the-us-dollar-202610081202",
-      "published": "2026-10-08T12:02:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "ECB Accounts: Upside risks surrounding inflation outlook",
-      "summary": "The accounts of the European Central Bank's (ECB) September policy meeting showed that all members viewed the risks surrounding the inflation outlook as being to the upside, as reported by Reuters.",
-      "link": "https://www.fxstreet.com/news/ecb-accounts-upside-risks-surrounding-inflation-outlook-202610081142",
-      "published": "2026-10-08T11:42:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "ECB officials agree: Eurozone is still saved from second-round inflation effects",
-      "summary": "The Euro (EUR) is down 0.16% to near 1.1178 against the US Dollar (USD) during the European trading session on Thursday. The major currency pair faces selling pressure as the US Dollar outperforms due to surging United States (US) bond yields.",
-      "link": "https://www.fxstreet.com/news/ecb-officials-agree-eurozone-is-still-saved-from-second-round-inflation-effects-202610081142",
-      "published": "2026-10-08T11:42:00+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Romanian Leu: Policy on hold as politics weigh – Societe Generale",
-      "summary": "Societe Generale expects no change from the NBR, keeping the policy rate at 6.50% as political deadlock in Bucharest and Romanian Leu weakness offset the sharp fall in inflation. The bank notes Headline CPI has dropped markedly on base effects. It highlights ongoing government formation uncertainty and warns that prolonged turmoil could jeopardize Romania’s Investment Grade rating.",
-      "link": "https://www.fxstreet.com/news/romanian-leu-policy-on-hold-as-politics-weigh-societe-generale-202610081138",
-      "published": "2026-10-08T11:38:54+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Polish Zloty: Dovish hold with limited tightening – ING",
-      "summary": "ING economists Rafal Benecki and Adam Antoniak note that the National Bank of Poland kept its reference rate at 3.75% in October, as expected, with inflation driven mainly by fuel prices.",
-      "link": "https://www.fxstreet.com/news/polish-zloty-dovish-hold-with-limited-tightening-ing-202610081134",
-      "published": "2026-10-08T11:34:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: ECB Account seen reinforcing hike case – BBH",
-      "summary": "Brown Brothers Harriman’s (BBH) Elias Haddad highlights that EUR/USD trades heavy below 1.1200 ahead of the ECB Account release. Above-target Eurozone inflation and a firmer growth outlook give the ECB scope for further tightening, limiting divergence with the Fed.",
-      "link": "https://www.fxstreet.com/news/euro-ecb-account-seen-reinforcing-hike-case-bbh-202610081115",
-      "published": "2026-10-08T11:15:17+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold struggles as rising yields and hawkish Fed signals weigh",
-      "summary": "Gold (XAU/USD) holds modest gains on Thursday but lacks bullish conviction as a stronger US Dollar (USD) and rising US Treasury yields cap upside attempts, leaving the metal in a bearish consolidation phase near two-month lows.",
+      "title": "Gold gains modestly as US Treasury yields ease, Fed hike risks linger",
+      "summary": "Gold (XAU/USD) holds modest gains on Thursday as a retreat in US Treasury yields tempers the US Dollar’s (USD) strength, helping the metal regain some ground. However, Gold lacks bullish conviction and remains in a bearish consolidation phase near two-month lows.",
       "link": "https://www.fxstreet.com/news/gold-struggles-as-rising-yields-and-hawkish-fed-signals-weigh-202610081055",
       "published": "2026-10-08T10:55:42+00:00",
       "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc retreats further as SNB vice chairman hints at lower-for-longer rates",
-      "summary": "The Swiss Franc (CHF) loses ground for the fourth consecutive day against the US Dollar (USD) on Thursday, as the Swiss National Bank vice chairman discarded any change to the bank's monetary policy despite growing risks from the War in Iran.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-retreats-further-as-snb-vice-chairman-hints-at-lower-for-longer-rates-202610081055",
-      "published": "2026-10-08T10:55:27+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD slides to fresh two-month low below $59 as US yields eye more gains",
-      "summary": "Silver price (XAG/USD) posts a fresh two-month low at around $58.50 during the European trading session on Thursday. The white metal faces intense selling pressure as United States (US) bond yields eye more upside on the back of recovery signs in oil prices.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-slides-to-fresh-two-month-low-below-59-as-us-yields-eye-more-gains-202610081047",
-      "published": "2026-10-08T10:47:00+00:00",
-      "score": 5
     },
     {
       "source": "r/Forex",
@@ -216,15 +198,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>↘️ 🔴</p> <p>Hurst Exponent: 0.76 Strong Persistence🔴</p> <p>Bearish under Bottom Central Pivot 🔴</p> <p>Ratio of the ATR14/ATR50 is 113.6%<br /> Market Regime: NORMAL</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Horror-Line1102\"> /u/Horror-Line1102 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1x0lbf2/",
       "link": "https://www.reddit.com/r/Forex/comments/1x0lbf2/gbpusd_today_8oct2026/",
       "published": "2026-10-08T08:13:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee remains on track to revisit all-time low",
-      "summary": "The Indian Rupee (INR) traded mildly higher against the US Dollar (USD) on Thursday due to possible Reserve Bank of India’s (RBI) intervention. According to a Reuters report, Indian central bank likely sold US dollars near the market open on Thursday to support the Indian rupee, four traders said.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-likely-rbis-intervention-202610080554",
-      "published": "2026-10-08T05:54:27+00:00",
       "score": 1
     },
     {
@@ -262,15 +235,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1wy7534/damn_eurusd_blew_past_13500s_weekly_resistance/",
       "published": "2026-10-05T12:21:58+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "XAUUSD 15M — Looking for a Short From This Resistance Zone",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wy3x4s/xauusd_15m_looking_for_a_short_from_this/\"> <img alt=\"XAUUSD 15M — Looking for a Short From This Resistance Zone\" src=\"https://preview.redd.it/2iakg4at6mth1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ab2c772aa3b0507a59bffce56da3690d6f325479\" title=\"XAUUSD 15M — Looking for a Short From This Resistance Zone\" /> </a> </",
-      "link": "https://www.reddit.com/r/Forex/comments/1wy3x4s/xauusd_15m_looking_for_a_short_from_this/",
-      "published": "2026-10-05T09:14:41+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
