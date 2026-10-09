@@ -1,7 +1,142 @@
 {
-  "updated_at": "2026-10-09T18:07:34.996769+00:00",
-  "count": 48,
+  "updated_at": "2026-10-09T22:39:35.286820+00:00",
+  "count": 46,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Super Micro contractor admits guilt in plot to reroute computer servers with Nvidia AI chips to China, court docket says",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9799676/Super-Micro-contractor-admits-guilt-in-plot-to-reroute-computer-servers-with-Nvidia-AI-chips-to-China-court-docket-says.aspx?xy=rss",
+      "published": "2026-10-09T22:06:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Kremlin: Putin and Trump interested in attending Apec summit in China in November",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9799653/Kremlin-Putin-and-Trump-interested-in-attending-Apec-summit-in-China-in-November.aspx?xy=rss",
+      "published": "2026-10-09T21:41:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Kremlin: Trump embraced Russia’s role in Iran settlement",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9799651/Kremlin-Trump-embraced-Russias-role-in-Iran-settlement.aspx?xy=rss",
+      "published": "2026-10-09T21:41:02+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Kremlin: Putin told Trump Russia will consider when to restart peace talks",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9799650/Kremlin-Putin-told-Trump-Russia-will-consider-when-to-restart-peace-talks.aspx?xy=rss",
+      "published": "2026-10-09T21:41:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Kremlin: Putin and Trump discussed major economic projects, including Russian fuel deliveries",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9799648/Kremlin-Putin-and-Trump-discussed-major-economic-projects-including-Russian-fuel-deliveries.aspx?xy=rss",
+      "published": "2026-10-09T21:40:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on offensive in Saudi Arabia: not pleased with situation",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9799647/Trump-on-offensive-in-Saudi-Arabia-not-pleased-with-situation.aspx?xy=rss",
+      "published": "2026-10-09T21:40:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Week Ahead: Will Trump Strike Iran Before Midterms? CPI Data Awaited - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9799605/Week-Ahead-Will-Trump-Strike-Iran-Before-Midterms-CPI-Data-Awaited---FJElite.aspx?xy=rss",
+      "published": "2026-10-09T20:36:25+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: Range trading persists against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD remains supported within the Monetary Authority of Singapore’s policy band, with SGD NEER likely between 1.50% and 1.80% above midpoint, implying a 1.279–1.283 range. Short-term price action shows limited upward momentum, with resistance near 1.2835 and revised strong support at 1.2775.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trading-persists-against-us-dollar-uob-202610092031",
+      "published": "2026-10-09T20:31:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: USD CFTC Positions Week of October 6th - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9799590/USD-CFTC-Positions-Week-of-October-6th---FJElite.aspx?xy=rss",
+      "published": "2026-10-09T20:29:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Taiwan Dollar: Trade strength but losses capped against US Dollar – Commerzbank",
+      "summary": "Commerzbank analysts note Taiwan’s September trade surplus hit a record USD23.6bn, with exports surging 60.9% year-on-year on strong AI-related demand. The Central Bank of the Republic of China may lean more hawkish if inflation’s uptrend persists.",
+      "link": "https://www.fxstreet.com/news/taiwan-dollar-trade-strength-but-losses-capped-against-us-dollar-commerzbank-202610091949",
+      "published": "2026-10-09T19:49:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Crude Oil drops on Trump's Russian diesel plan",
+      "summary": "After a call with Russian President Putin, President Donald Trump said on Friday Russia will immediately supply more than 300K tons of diesel to the US and global markets. He put the next shipments at 500K tons in November and 1 million tons after that.",
+      "link": "https://www.fxstreet.com/news/crude-oil-drops-on-trumps-russian-diesel-plan-202610091923",
+      "published": "2026-10-09T19:23:58+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Dollar Index stalls under its high as the Fed's hawks repeat themselves",
+      "summary": "Four sessions after its highest level since April 2025, the Dollar Index hasn't got back to it. The index trades near 102.25 and has made a lower high in each session since Wednesday.",
+      "link": "https://www.fxstreet.com/news/dollar-index-stalls-under-its-high-as-the-feds-hawks-repeat-themselves-202610091910",
+      "published": "2026-10-09T19:10:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Trump says Putin agrees to supply millions of tons of diesel",
+      "summary": "On Friday, US President Donald Trump said he spoke with Russian President Vladimir Putin, who agreed to immediately supply over 300K tons of diesel fuel to the US and the global market, add 500K tons for November, and deliver 1 million tons “immediately thereafter.”",
+      "link": "https://www.fxstreet.com/news/us-president-trump-says-putin-agrees-to-supply-millions-of-tons-of-diesel-202610091908",
+      "published": "2026-10-09T19:08:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver Price Forecast: Bullish engulfing pattern puts $64 in sight",
+      "summary": "Silver (XAG/USD) price rallies over 2.80% on Friday as buyers buy the dip at $59.17, pushing the white metal above $60.00 to hit a two-day high of $61.19. At the time of writing, XAG/USD trades at $60.86.",
+      "link": "https://www.fxstreet.com/news/silver-price-forecast-bullish-engulfing-pattern-puts-64-in-sight-202610091840",
+      "published": "2026-10-09T18:40:37+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Singapore Dollar: MAS tightening but gains constrained – OCBC",
+      "summary": "OCBC’s Christopher Wong notes that Singapore Dollar (SGD) has held relatively steady despite a firmer US Dollar (USD) and higher Oil prices, with MAS tightening expectations underpinning the S$NEER. USD/SGD trades near recent highs with intact bullish momentum.",
+      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-tightening-but-gains-constrained-ocbc-202610091827",
+      "published": "2026-10-09T18:27:00+00:00",
+      "score": 1
+    },
     {
       "source": "FXStreet",
       "category": "news",
@@ -10,33 +145,6 @@
       "link": "https://www.fxstreet.com/news/gold-reclaims-4-200-as-weak-us-sentiment-revives-bullion-demand-202610091804",
       "published": "2026-10-09T18:04:49+00:00",
       "score": 6
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump planned memo is described by people familiar with matter",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9799415/Trump-planned-memo-is-described-by-people-familiar-with-matter.aspx?xy=rss",
-      "published": "2026-10-09T18:02:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to issue memo as soon as today on state energy hurdles",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9799414/Trump-to-issue-memo-as-soon-as-today-on-state-energy-hurdles.aspx?xy=rss",
-      "published": "2026-10-09T18:02:11+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to seek ways to overcome state hurdles on energy projects.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9799413/Trump-to-seek-ways-to-overcome-state-hurdles-on-energy-projects.aspx?xy=rss",
-      "published": "2026-10-09T18:01:59+00:00",
-      "score": 1
     },
     {
       "source": "FXStreet",
@@ -48,51 +156,6 @@
       "score": 2
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump insisted to Sheinbaum more US-Mexico energy tie-ups - FT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9799382/Trump-insisted-to-Sheinbaum-more-US-Mexico-energy-tie-ups---FT.aspx?xy=rss",
-      "published": "2026-10-09T17:35:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump directive will push US officials to use the Defense Production Act to find ways to increase production of oil and fuel - Sources",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9799381/Trump-directive-will-push-US-officials-to-use-the-Defense-Production-Act-to-find-ways-to-increase-production-of-oil-and-fuel---Sources.aspx?xy=rss",
-      "published": "2026-10-09T17:33:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump Directive on diesel will push US department heads to find ways to bypass local, state regulations blocking energy production - three sources",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9799380/Trump-Directive-on-diesel-will-push-US-department-heads-to-find-ways-to-bypass-local-state-regulations-blocking-energy-production---three-sources-.aspx?xy=rss",
-      "published": "2026-10-09T17:32:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to issue directive to US officials that seeks to control the cost of diesel - Three industry sources",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9799379/Trump-to-issue-directive-to-US-officials-that-seeks-to-control-the-cost-of-diesel---Three-industry-sources-.aspx?xy=rss",
-      "published": "2026-10-09T17:32:25+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump pressures Mexico for energy deals in crunch trade talks - FT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9799363/Trump-pressures-Mexico-for-energy-deals-in-crunch-trade-talks---FT.aspx?xy=rss",
-      "published": "2026-10-09T17:30:56+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Asia FX: Trade negotiations and resilient macro backdrop – MUFG",
@@ -102,30 +165,12 @@
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump ends remarks at the White House.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9799294/Trump-ends-remarks-at-the-White-House.aspx?xy=rss",
-      "published": "2026-10-09T16:27:44+00:00",
-      "score": 1
-    },
-    {
       "source": "FXStreet",
       "category": "news",
       "title": "Canada loses 68.3K jobs and the Loonie falls to an 18-month low",
       "summary": "Canada lost 68.3K jobs in September against a forecast for a 7K gain, and with August's 41.7K loss it has given back all of its net job gains for 2026.",
       "link": "https://www.fxstreet.com/news/canada-loses-683k-jobs-and-the-loonie-falls-to-an-18-month-low-202610091617",
       "published": "2026-10-09T16:17:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Iran: It's a very small price to pay.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9799282/Trump-on-Iran-Its-a-very-small-price-to-pay.aspx?xy=rss",
-      "published": "2026-10-09T16:15:31+00:00",
       "score": 1
     },
     {
@@ -156,33 +201,6 @@
       "score": 3
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japan: Bond outflows reshape global yields - Commerzbank",
-      "summary": "Commerzbank's Volkmar Baur highlights Japanese investors' net selling of foreign bonds and its implications for global yields. Although Japanese investors have recently returned as buyers of French bonds, their selling of US bonds has provided some support to the euro against the dollar.",
-      "link": "https://www.fxstreet.com/news/japan-bond-outflows-reshape-global-yields-commerzbank-202610091459",
-      "published": "2026-10-09T14:59:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Poland: Inflation outlook stabilises – ING",
-      "summary": "ING economists Adam Antoniak and David Havrlant expect Poland’s final September CPI, due Wednesday, to confirm headline inflation at 4% year-on-year, with core inflation easing and price growth concentrated in fuels and related services. They note improved short-term inflation prospects thanks to renewed cuts in fuel excise duty and VAT, and project headline CPI in a 3.5–4.0% range by year-end.",
-      "link": "https://www.fxstreet.com/news/poland-inflation-outlook-stabilises-ing-202610091440",
-      "published": "2026-10-09T14:40:31+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canada: Gradual improvement expected – RBC",
-      "summary": "Royal Bank of Canada (RBC) economist Claire Fan notes Canada lost 68,000 jobs in September, mainly in public sectors, reversing much of summer gains and leaving year-to-date employment at -41,000. She highlights volatility in monthly data and stresses the unemployment rate remains below last year. Fan expects earlier labour market progress to hold and the unemployment rate to edge lower through 20",
-      "link": "https://www.fxstreet.com/news/canada-gradual-improvement-expected-rbc-202610091419",
-      "published": "2026-10-09T14:19:43+00:00",
-      "score": 1
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
@@ -190,42 +208,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
       "published": "2026-10-09T14:00:00+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold: Short covering signals renewed bullish momentum - TD Securities",
-      "summary": "TD Securities’ Ryan McKay and Bart Melek highlight that CTAs (Commodity Trading Advisors) are covering Gold shorts, with positioning rising by around 7% of maximum historical size. They note renewed inflows into Chinese Gold ETFs after the holiday and continued global ETF demand.",
-      "link": "https://www.fxstreet.com/news/gold-short-covering-signals-renewed-bullish-momentum-td-securities-202610091358",
-      "published": "2026-10-09T13:58:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Indian Rupee: RBI seen keeping hike option open – DBS",
-      "summary": "DBS Group Research anticipates India’s September inflation to rise to 5.7% year-on-year from 4.8%, driven by broad-based food price gains and higher non-food fuel costs. Core inflation is expected to tick up as uneven monsoon conditions and elevated Oil prices add pressure, leading DBS to expect the RBI to keep the door open for a possible rate hike in December 2026.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-seen-keeping-hike-option-open-dbs-202610091336",
-      "published": "2026-10-09T13:36:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "European Central Bank: Conditional support and French risks – Rabobank",
-      "summary": "Rabobank's Senior Economist Maartje Wijffelaars describes widening French spreads and notes 38% of French high-grade corporate debt now yields less than government bonds. She argues most spread widening may be over as France is seen as too big to fail and ECB tools exist. She outlines ECB conditionality for TPI and stresses France’s need for a credible budget.",
-      "link": "https://www.fxstreet.com/news/european-central-bank-conditional-support-and-french-risks-rabobank-202610091317",
-      "published": "2026-10-09T13:17:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canadian Dollar underperforms after Canada sheds 68.3K jobs in September",
-      "summary": "USD/CAD climbs on Friday as the Canadian Dollar (CAD) weakens sharply following a disappointing domestic employment report. A firm US Dollar (USD) provides additional support to the pair. At the time of writing, USD/CAD trades around 1.4276, at levels last seen in April 2025.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-underperforms-after-canada-sheds-683k-jobs-in-september-202610091316",
-      "published": "2026-10-09T13:16:32+00:00",
-      "score": 2
     },
     {
       "source": "FXStreet",
@@ -435,16 +417,5 @@
       "score": 1
     }
   ],
-  "errors": [
-    {
-      "source": "Kobeissi Letter",
-      "type": "twitter",
-      "error": "failed to parse feed (<urlopen error [Errno 111] Connection refused>)"
-    },
-    {
-      "source": "Walter Bloomberg",
-      "type": "twitter",
-      "error": "failed to parse feed (<urlopen error [Errno 111] Connection refused>)"
-    }
-  ]
+  "errors": []
 }
