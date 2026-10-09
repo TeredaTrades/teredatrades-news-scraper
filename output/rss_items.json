@@ -1,177 +1,159 @@
 {
-  "updated_at": "2026-10-09T05:11:04.071662+00:00",
-  "count": 42,
+  "updated_at": "2026-10-09T11:55:16.819621+00:00",
+  "count": 39,
   "items": [
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "summary": "Gold prices rose in India on Friday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610090439",
-      "published": "2026-10-09T04:39:46+00:00",
-      "score": 1
+      "title": "Gold recovery stalls near $4,200 as US Dollar, Treasury yields stabilise",
+      "summary": "Gold (XAU/USD) trades on the front foot on Friday but struggles to extend its advance as the US Dollar (USD) and US Treasury yields show signs of stabilisation following Thursday’s sharp pullback.",
+      "link": "https://www.fxstreet.com/news/gold-recovery-stalls-near-4-200-as-us-dollar-treasury-yields-stabilise-202610091100",
+      "published": "2026-10-09T11:00:03+00:00",
+      "score": 4
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: United Overseas Bank and Amazon Web Services ink MOU to explore AI-driven banking innovation across ASEAN",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9798323/United-Overseas-Bank-and-Amazon-Web-Services-ink-MOU-to-explore-AI-driven-banking-innovation-across-ASEAN.aspx?xy=rss",
-      "published": "2026-10-09T04:21:07+00:00",
+      "title": "Australian Dollar struggles to extend gains to near 0.7000, US CPI comes into focus",
+      "summary": "The Australian Dollar (AUD) is up 0.3% at around 0.6980 against the US Dollar (USD) during the European trading session on Friday. However, the pair is struggling to extend gains beyond 0.6990.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-struggles-to-extend-gains-to-near-07000-us-cpi-comes-into-focus-202610091057",
+      "published": "2026-10-09T10:57:47+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "When a win feels like a loss",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1x1hnw2/when_a_win_feels_like_a_loss/\"> <img alt=\"When a win feels like a loss\" src=\"https://preview.redd.it/yggy83rj3fuh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=07282b798999dacbf88a4f8562530e1e73b6b6e9\" title=\"When a win feels like a loss\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Took 30 quick pips off gold in",
+      "link": "https://www.reddit.com/r/Forex/comments/1x1hnw2/when_a_win_feels_like_a_loss/",
+      "published": "2026-10-09T10:18:39+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "EUR/USD Price Forecast: Holds gains near 1.1230 on softer USD; bearish bias persists",
-      "summary": "The EUR/USD pair attracts buyers for the second straight day, rising to the 1.1225-1.1230 area during the Asian session on Friday amid a weak US Dollar (USD). Spot prices, however, remain confined within a range held since the beginning of this month, warranting some caution for bulls.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-gains-near-11230-on-softer-usd-bearish-bias-persists-202610090419",
-      "published": "2026-10-09T04:19:31+00:00",
+      "title": "Gold Price Forecast: XAU/USD rallies to $4,200 as US yields retreat",
+      "summary": "Gold (XAU/USD) accelerates its recovery on Friday, favoured by a softer US Dollar, amid a moderate pullback in US yields.",
+      "link": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-rallies-to-4-200-as-us-yields-retreat-202610091009",
+      "published": "2026-10-09T10:09:51+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc: Range trade bias holds against US Dollar – UOB",
+      "summary": "United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann note that USD/CHF shows slightly increased downside momentum, with scope to test 0.8290 but limited odds of a sustained break lower. For the coming days, they maintain that USD/CHF has likely entered a range-trading phase between 0.8245 and 0.8365, while over the 1–3 month horizon they see the pair continuing to rebound but lacking",
+      "link": "https://www.fxstreet.com/news/swiss-franc-range-trade-bias-holds-against-us-dollar-uob-202610091000",
+      "published": "2026-10-09T10:00:42+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Gold advances to weekly high amid modest USD weakness; not out of the woods yet",
-      "summary": "Gold (XAU/USD) attracts buyers for the second consecutive day on Friday, recovering further from a two-month low, around the $4,066 area, touched earlier this week.",
-      "link": "https://www.fxstreet.com/news/gold-advances-to-weekly-high-amid-modest-usd-weakness-not-out-of-the-woods-yet-202610090355",
-      "published": "2026-10-09T03:55:55+00:00",
+      "title": "Romanian Leu: Coalition hopes support RON assets – Societe Generale",
+      "summary": "Societe Generale strategists note the National Bank of Romania (NBR) kept its policy rate at 6.50% and reinforced a hawkish stance as earlier inflation risks are now part of the baseline.",
+      "link": "https://www.fxstreet.com/news/romanian-leu-coalition-hopes-support-ron-assets-societe-generale-202610090937",
+      "published": "2026-10-09T09:37:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Silver price today: Silver rises, according to FXStreet data",
+      "summary": "Silver prices (XAG/USD) rose on Friday, according to FXStreet data. Silver trades at $60.40 per troy ounce, up 2.06% from the $59.19 it cost on Thursday.",
+      "link": "https://www.fxstreet.com/news/silver-price-today-silver-rises-according-to-fxstreet-data-202610090931",
+      "published": "2026-10-09T09:31:07+00:00",
       "score": 3
     },
     {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Jobs data and BoC path – ING",
+      "summary": "ING’s Francesco Pesole expects Canada’s September jobs report to show a modest payroll rebound and slightly higher unemployment, not enough to justify an October Bank of Canada hike. He notes that a December move is fully priced, while USD/CAD remains dominated by the Dollar, with a sustained move below 1.420 seen as requiring better global bond conditions.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-jobs-data-and-boc-path-ing-202610090909",
+      "published": "2026-10-09T09:09:38+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro extends recovery due to relief from drop in French bond yields",
+      "summary": "The Euro (EUR) extends Thursday’s recovery move against the US Dollar (USD) on Friday. In the European trade, the EUR/USD pair is up 0.2% higher to near 1.1235. The Euro rebounds as yields offered on France bonds have corrected sharply.",
+      "link": "https://www.fxstreet.com/news/euro-extends-recovery-due-to-relief-from-drop-in-french-bond-yields-202610090905",
+      "published": "2026-10-09T09:05:07+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Mild downside bias against US Dollar - UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann observe that GBP/USD has held modest gains around 1.3230, but recent guidance from the Bank of England on higher-for-longer rates has not translated into a clear bullish trend.",
+      "link": "https://www.fxstreet.com/news/british-pound-mild-downside-bias-against-us-dollar-uob-202610090900",
+      "published": "2026-10-09T09:00:45+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CHF Price Forecast: Testing support at 0.8300 with bearish momentum building up",
+      "summary": "The US Dollar (USD) extends losses for the second consecutive day against the Swiss Franc (CHF) on Friday as some easing on the global bond rout has triggered a mild risk appetite, sending the US Dollar lower across the board.",
+      "link": "https://www.fxstreet.com/news/usd-chf-price-forecast-testing-support-at-08300-with-bearish-momentum-building-up-202610090856",
+      "published": "2026-10-09T08:56:15+00:00",
+      "score": 1
+    },
+    {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: China finance ministry offers 10-year bonds at 1.6673% yield: traders",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9798265/China-finance-ministry-offers-10-year-bonds-at-16673-yield-traders.aspx?xy=rss",
-      "published": "2026-10-09T03:41:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "United States Dollar Index weakens further amid correction in US bond yields",
-      "summary": "The US Dollar (USD) extends its decline against its major peers on Friday as United States (US) Treasury Yields correct after failing to extend the rally.",
-      "link": "https://www.fxstreet.com/news/united-states-dollar-index-weakens-further-amid-correction-in-us-bond-yields-202610090318",
-      "published": "2026-10-09T03:18:40+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: XAG/USD rises above $60.00 as inflation fears ease",
-      "summary": "Silver price (XAG/USD) gains ground after three days of losses, trading around $60.10 per troy ounce during Asian hours on Friday. Non-yielding Silver gains support as a decline in oil prices eases inflationary concerns and Fed rate hike expectations.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-rises-above-6000-as-inflation-fears-ease-202610090318",
-      "published": "2026-10-09T03:18:11+00:00",
-      "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar strengthens above 0.5600 amid softer US Dollar, easing yields",
-      "summary": "The NZD/USD pair gains traction to near 0.5615 during the early Asian trading hours on Friday. The US Dollar (USD) weakens against the New Zealand Dollar (NZD) amid easing Treasury bond yields. Traders weigh lingering inflation concerns and the outlook for Federal Reserve (Fed) interest rates.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-strengthens-above-05600-amid-softer-us-dollar-easing-yields-202610090243",
-      "published": "2026-10-09T02:43:44+00:00",
+      "title": "FinancialJuice: Credit Ágricole: FX Weekly - FJElite",
+      "summary": "<div>Global rates markets are increasingly being driven by fiscal concerns rather than central bank policy, with front-end yields anchored while long-end yields continue to rise. Government borrowing needs, European budget negotiations, US midterm elections, the UK Autumn Budget and Japanese tax debates are creating greater scope for divergence across markets. The outlook remains cautious on G4 du",
+      "link": "https://www.financialjuice.com/News/9798616/Credit-%c3%81gricole-FX-Weekly---FJElite.aspx?xy=rss",
+      "published": "2026-10-09T08:42:51+00:00",
       "score": 5
     },
     {
-      "source": "FXStreet",
+      "source": "FinancialJuice",
       "category": "news",
-      "title": "Canadian Dollar strengthens as risk-on mood weighs on US Dollar",
-      "summary": "USD/CAD extends its losses for the second successive day, trading around 1.4210 during Asian hours on Friday.",
-      "link": "https://www.fxstreet.com/news/canadian-dollar-strengthens-as-risk-on-mood-weighs-on-us-dollar-202610090220",
-      "published": "2026-10-09T02:20:27+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen struggles for firm direction as softer USD limits intraday slide",
-      "summary": "The USD/JPY pair struggles to capitalize on a modest Asian session uptick on Friday, now trading near the lower end of its daily range, below the 158.00 mark amid a broadly weaker US Dollar (USD).",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-for-firm-direction-as-softer-usd-limits-intraday-slide-202610090205",
-      "published": "2026-10-09T02:05:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound edges higher to near 1.3250, renewed UK fiscal concerns in focus",
-      "summary": "The GBP/USD pair gathers strength to around 1.3240 during the early Asian trading hours on Friday. The US Dollar (USD) softens against the British Pound (GBP) following comments from Federal Reserve (Fed) Governor Christopher Waller.",
-      "link": "https://www.fxstreet.com/news/british-pound-edges-higher-to-near-13250-renewed-uk-fiscal-concerns-in-focus-202610090136",
-      "published": "2026-10-09T01:36:23+00:00",
+      "title": "FinancialJuice: Goldman Sachs: Natural Gas - FJElite",
+      "summary": "<div>The move in US natural gas prices back above $3/mmBtu over the past two weeks has reflected a significant tightening in the balance during September that was primarily weather driven. Going forward, however, barring a colder-than-average winter, we estimate that rising Permian gas production will help keep US winter balances comfortably supplied, and we maintain our bearish $2.95/$2.75/mmBtu ",
+      "link": "https://www.financialjuice.com/News/9798615/Goldman-Sachs-Natural-Gas---FJElite.aspx?xy=rss",
+      "published": "2026-10-09T08:41:31+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Australian Dollar edges higher amid modest USD weakness; upside potential seem limited",
-      "summary": "The AUD/USD pair edges higher during the Asian session on Friday, looking to build on the overnight bounce from the lower boundary of the weekly range amid a softer US Dollar (USD). Spot prices, however, lack bullish conviction and currently trade above mid-0.6900s, up just over 0.10% for the day.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-amid-modest-usd-weakness-upside-potential-seem-limited-202610090117",
-      "published": "2026-10-09T01:17:01+00:00",
+      "title": "Hungarian Forint: IMF urges reforms before euro timetable – Commerzbank",
+      "summary": "Commerzbank’s Tatha Ghose reviews the IMF’s Article IV assessment on Hungary, stressing that euro adoption cannot substitute for structural and fiscal reforms.",
+      "link": "https://www.fxstreet.com/news/hungarian-forint-imf-urges-reforms-before-euro-timetable-commerzbank-202610090833",
+      "published": "2026-10-09T08:33:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "GBPUSD Morning Bull Run Today (9-OCT-2026)",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Today’s GPUSD ↗</strong>️🔵</p> <p>BULLS ABOVE THE TOP-CENTRAL PIVOT so far as of London Open</p> <p>HURST EXPONENT: 0.79 (Strong Persistence of Bulls here)</p> <p>WVAP Z-SCORE: 0.0 (Balance)</p> <p>Ratio of the ATR14/ATR50: 116.8 %<br /> Market Regime: NORMAL</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Horror-Line",
+      "link": "https://www.reddit.com/r/Forex/comments/1x1ep0x/gbpusd_morning_bull_run_today_9oct2026/",
+      "published": "2026-10-09T07:09:50+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "WTI slips below $90.50 as Trump signals no pre-election strike on Iran",
-      "summary": "West Texas Intermediate (WTI) oil price declines after posting nearly 2.5% gains in the previous day, trading around $90.30 per barrel during Asian hours on Friday.",
-      "link": "https://www.fxstreet.com/news/wti-slips-below-9050-as-trump-signals-no-pre-election-strike-on-iran-202610090116",
-      "published": "2026-10-09T01:16:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "PBOC sets USD/CNY reference rate at 6.7330 vs. 6.7367 previous",
-      "summary": "The People’s Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead on Friday at 6.7330 compared to the previous day's fix of 6.7367 and 6.7973 Reuters estimate.",
-      "link": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67330-vs-67367-previous-202610090115",
-      "published": "2026-10-09T01:15:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro holds gains above 1.1200 despite France's fiscal worries",
-      "summary": "The EUR/USD pair holds positive ground near 1.1215 during the early Asian trading hours on Friday. Nonetheless, the potential upside for the major pair might be limited amid fears of France’s debt crisis. The Michigan Consumer Sentiment Index data for October is due later on Friday.",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11200-despite-frances-fiscal-worries-202610090029",
-      "published": "2026-10-09T00:29:42+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US draws up new plan for 3 days of Iran strikes",
-      "summary": "US President Donald Trump has ordered plans to be drawn up for options of returning to fighting against Iran, even as he said earlier that strikes would not restart before the midterm elections on November 3, the New York Times reported on Thursday.",
-      "link": "https://www.fxstreet.com/news/us-draws-up-new-plan-for-3-days-of-iran-strikes-202610082348",
-      "published": "2026-10-08T23:48:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold gains ground to near $4,150 as traders weigh Fed rate path",
-      "summary": "Gold price (XAU/USD) edges higher to around $4,140 during the early Asian session on Friday. The precious metal rebounds from a two-month low as traders assess the outlook for energy prices and weighed the Federal Reserve's (Fed) uncertain interest-rate path.",
-      "link": "https://www.fxstreet.com/news/gold-gains-ground-to-near-4-150-as-traders-weigh-fed-rate-path-202610082321",
-      "published": "2026-10-08T23:21:26+00:00",
-      "score": 5
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Yen gains as Trump rules out Iran strikes before the midterms",
-      "summary": "The 10-year Treasury yield ended near 5.22% after President Trump said on Truth Social that the US won't attack Iran before the midterm elections. It had touched its highest since 2002 on Wednesday.",
-      "link": "https://www.fxstreet.com/news/yen-gains-as-trump-rules-out-iran-strikes-before-the-midterms-202610082315",
-      "published": "2026-10-08T23:15:00+00:00",
+      "title": "Indian Rupee regains ground as rally in US bond yields hits pause",
+      "summary": "The Indian Rupee (INR) trades slightly higher against the US Dollar (USD) on Friday. The USD/INR pair corrects to near 96.55, but is still close to its all-time high of 97.00. The Indian currency gets a much-needed reprieve from a corrective move in United States (US) Treasury Yields.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-gets-relief-from-pullback-in-us-bond-yields-202610090538",
+      "published": "2026-10-09T05:38:09+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Australian Dollar slides as AI sell-off rattles Wall Street",
-      "summary": "The Aussie Dollar dives 0.11% on Thursday as the US Dollar retreats from monthly highs, with safe-haven flows shifting from the Greenback to the Japanese Yen and the Swiss Franc amid losses on Wall Street and US yields. The AUD/USD trades at 0.6960 at the time of writing.",
-      "link": "https://www.fxstreet.com/news/australian-dollar-slides-as-ai-sell-off-rattles-wall-street-202610082242",
-      "published": "2026-10-08T22:42:24+00:00",
-      "score": 2
+      "title": "Gold bulls retain intraday control near $4,200, weekly high amid retreating USD",
+      "summary": "Gold (XAU/USD) retains an intraday bullish tone through the first half of the European session on Friday, currently trading around the $4,200 round figure or a one-week high.",
+      "link": "https://www.fxstreet.com/news/gold-advances-to-weekly-high-amid-modest-usd-weakness-not-out-of-the-woods-yet-202610090355",
+      "published": "2026-10-09T03:55:55+00:00",
+      "score": 3
     },
     {
       "source": "r/Forex",
@@ -243,15 +225,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wy7534/damn_eurusd_blew_past_13500s_weekly_resistance/\"> <img alt=\"Damn EURUSD blew past 1.3500s weekly resistance level\" src=\"https://preview.redd.it/fwwuu60p5nth1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=79617822083a2c001a2fe64d147f7fa205ea0120\" title=\"Damn EURUSD blew past 1.3500s weekly resistance level\" /> </a> </td><t",
       "link": "https://www.reddit.com/r/Forex/comments/1wy7534/damn_eurusd_blew_past_13500s_weekly_resistance/",
       "published": "2026-10-05T12:21:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "EURUSD Daily: Pullback Setup into Premium FVG Zone 📉",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1wxvgit/eurusd_daily_pullback_setup_into_premium_fvg_zone/\"> <img alt=\"EURUSD Daily: Pullback Setup into Premium FVG Zone 📉\" src=\"https://preview.redd.it/yw54l2n2rjth1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d875d3ee61e8dae3649f616b1ae3321f615d2ef\" title=\"EURUSD Daily: Pullback Setup into Premium FVG Zone 📉\" /> </a> </td><",
-      "link": "https://www.reddit.com/r/Forex/comments/1wxvgit/eurusd_daily_pullback_setup_into_premium_fvg_zone/",
-      "published": "2026-10-05T00:55:47+00:00",
       "score": 1
     },
     {
