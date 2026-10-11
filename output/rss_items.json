@@ -1,41 +1,23 @@
 {
-  "updated_at": "2026-10-11T07:13:17.456578+00:00",
-  "count": 41,
+  "updated_at": "2026-10-11T14:07:02.824327+00:00",
+  "count": 39,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump: calls Saudi attack 'a terrible thing'",
+      "title": "FinancialJuice: Egypt's core inflation slows to 14.1% year-on-year in September from 14.9% in August: central bank",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9800280/Trump-calls-Saudi-attack-a-terrible-thing.aspx?xy=rss",
-      "published": "2026-10-11T00:10:35+00:00",
+      "link": "https://www.financialjuice.com/News/9800520/Egypts-core-inflation-slows-to-141-year-on-year-in-September-from-149-in-August-central-bank.aspx?xy=rss",
+      "published": "2026-10-11T12:05:58+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: would like to see Fetterman switch to Republican",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9800277/Trump-would-like-to-see-Fetterman-switch-to-Republican.aspx?xy=rss",
-      "published": "2026-10-11T00:09:38+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Ukraine needs to hold an election",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9800275/Trump-Ukraine-needs-to-hold-an-election.aspx?xy=rss",
-      "published": "2026-10-11T00:07:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Justice Dept. investigating TV networks over Trump pool coverage: New York Times",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9800252/Justice-Dept-investigating-TV-networks-over-Trump-pool-coverage-New-York-Times.aspx?xy=rss",
-      "published": "2026-10-10T22:59:59+00:00",
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "How do you cap risk across trades that share a currency?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>How do you account for shared currency exposure when sizing multiple forex positions? For example, being long EUR/USD and GBP/USD creates two positions that could both lose on dollar strength, even with separate stops. Do you cap their combined stop-loss risk, adjust sizing using correlation, or use another method? What are the limitations of your approach?</p> </",
+      "link": "https://www.reddit.com/r/Forex/comments/1x33rjs/how_do_you_cap_risk_across_trades_that_share_a/",
+      "published": "2026-10-11T09:24:25+00:00",
       "score": 1
     },
     {
