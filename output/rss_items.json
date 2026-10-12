@@ -1,41 +1,50 @@
 {
-  "updated_at": "2026-10-11T22:44:04.239095+00:00",
-  "count": 42,
+  "updated_at": "2026-10-12T01:49:30.211330+00:00",
+  "count": 39,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump: new press secretary Zacharia to hold news conference on Tuesday",
+      "title": "FinancialJuice: S.Korea central bank: sells 91-day monetary stabilisation bonds at 3.180% yield",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9800723/Trump-new-press-secretary-Zacharia-to-hold-news-conference-on-Tuesday.aspx?xy=rss",
-      "published": "2026-10-11T21:38:39+00:00",
+      "link": "https://www.financialjuice.com/News/9800837/SKorea-central-bank-sells-91-day-monetary-stabilisation-bonds-at-3180-yield.aspx?xy=rss",
+      "published": "2026-10-12T01:40:05+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Amazon in talks to acquire AI startup Decart for about $7 billion - WSJ",
+      "title": "FinancialJuice: Shares of Chinese Apple supplier Luxshare set to open 2% lower after US patent infringement probe",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9800712/Amazon-in-talks-to-acquire-AI-startup-Decart-for-about-7-billion---WSJ.aspx?xy=rss",
-      "published": "2026-10-11T21:09:12+00:00",
+      "link": "https://www.financialjuice.com/News/9800822/Shares-of-Chinese-Apple-supplier-Luxshare-set-to-open-2-lower-after-US-patent-infringement-probe.aspx?xy=rss",
+      "published": "2026-10-12T01:26:02+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: Carney's office: Carney spoke to Trump",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9800702/Carneys-office-Carney-spoke-to-Trump.aspx?xy=rss",
-      "published": "2026-10-11T20:19:54+00:00",
+      "title": "Euro holds gains above 1.1200 despite France’s bond turmoil",
+      "summary": "The EUR/USD pair recovers some lost ground to near 1.1215 during the early Asian trading hours on Monday. The US Dollar (USD) softens against the Euro (EUR) after weaker-than-expected US Consumer Sentiment data.",
+      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11200-despite-frances-bond-turmoil-202610120100",
+      "published": "2026-10-12T01:00:29+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
+      "source": "FXStreet",
       "category": "news",
-      "title": "FinancialJuice: UK PM Andy Burnham discussed Trump's call today for a sustained energy ceasefire between Russia and Ukraine to start now",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9800689/UK-PM-Andy-Burnham-discussed-Trumps-call-today-for-a-sustained-energy-ceasefire-between-Russia-and-Ukraine-to-start-now.aspx?xy=rss",
-      "published": "2026-10-11T19:52:48+00:00",
+      "title": "Australian Dollar edges higher to near 0.7000 on weak US Sentiment",
+      "summary": "The AUD/USD pair trades with mild gains around 0.6985 during the early Asian session on Monday. Softening US Consumer Sentiment weigh on the US Dollar (USD) against the Australian Dollar (AUD).",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-to-near-07000-on-weak-us-sentiment-202610112344",
+      "published": "2026-10-11T23:44:14+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US President Donald Trump says Russia and Ukraine agree to an ‘energy ceasefire’",
+      "summary": "Meanwhile, US President Donald Trump claimed Russia and Ukraine have agreed to an ”energy ceasefire”, but he offered no details on it,the Guardian reported on Sunday.",
+      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-russia-and-ukraine-agree-to-an-energy-ceasefire-202610112238",
+      "published": "2026-10-11T22:38:51+00:00",
       "score": 1
     },
     {
@@ -165,33 +174,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Canada loses 68.3K jobs and the Loonie falls to an 18-month low",
-      "summary": "Canada lost 68.3K jobs in September against a forecast for a 7K gain, and with August's 41.7K loss it has given back all of its net job gains for 2026.",
-      "link": "https://www.fxstreet.com/news/canada-loses-683k-jobs-and-the-loonie-falls-to-an-18-month-low-202610091617",
-      "published": "2026-10-09T16:17:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "British Pound holds ground as US Consumer Sentiment deteriorates",
-      "summary": "The Pound Sterling (GBP) holds firm against the US Dollar (USD) on Friday, which posts modest gains against a basket of six currencies, while US consumers grow pessimistic about the economy as the US-Iran conflict drags on for another week.",
-      "link": "https://www.fxstreet.com/news/british-pound-holds-its-ground-as-us-consumer-sentiment-deteriorates-202610091612",
-      "published": "2026-10-09T16:12:56+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro struggles as French fiscal concerns and firm US Dollar dominate",
-      "summary": "EUR/USD reverses earlier gains on Friday and remains on track for a fifth consecutive weekly decline as the US Dollar (USD) rebounds from the previous day’s pullback. Concerns over France’s fiscal outlook also continue to weigh on sentiment toward the Euro (EUR).",
-      "link": "https://www.fxstreet.com/news/euro-struggles-as-french-fiscal-concerns-and-firm-us-dollar-dominate-202610091544",
-      "published": "2026-10-09T15:44:52+00:00",
-      "score": 1
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
@@ -199,15 +181,6 @@
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
       "published": "2026-10-09T14:00:00+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold edges higher but remains capped in tight range as Dollar and yields rebound",
-      "summary": "Gold (XAU/USD) trades on the front foot on Friday but struggles to extend its advance as the US Dollar (USD) and US Treasury yields show signs of stabilisation following Thursday’s sharp pullback.",
-      "link": "https://www.fxstreet.com/news/gold-recovery-stalls-near-4-200-as-us-dollar-treasury-yields-stabilise-202610091100",
-      "published": "2026-10-09T11:00:03+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
