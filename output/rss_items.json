@@ -1,50 +1,176 @@
 {
-  "updated_at": "2026-10-12T01:49:30.211330+00:00",
-  "count": 39,
+  "updated_at": "2026-10-12T08:47:50.794980+00:00",
+  "count": 41,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: S.Korea central bank: sells 91-day monetary stabilisation bonds at 3.180% yield",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9800837/SKorea-central-bank-sells-91-day-monetary-stabilisation-bonds-at-3180-yield.aspx?xy=rss",
-      "published": "2026-10-12T01:40:05+00:00",
-      "score": 1
+      "title": "FinancialJuice: Goldman Sachs: UK Growth - FJElite",
+      "summary": "<div>UK growth has proved more resilient than expected this year, supported by robust consumer spending, rising business investment and technology-related output, alongside stronger-than-anticipated global demand. Lower seasonal energy consumption, warm weather and promotions have helped households absorb higher energy costs, while utilities and ICT investment have provided a more structural boost",
+      "link": "https://www.financialjuice.com/News/9801244/Goldman-Sachs-UK-Growth---FJElite.aspx?xy=rss",
+      "published": "2026-10-12T08:34:25+00:00",
+      "score": 3
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Shares of Chinese Apple supplier Luxshare set to open 2% lower after US patent infringement probe",
+      "title": "FinancialJuice: Goldman Sachs: Oil - FJElite",
+      "summary": "<div>The outlook remains for oil prices to moderate as Middle Eastern supply continues to adapt, although renewed geopolitical escalation leaves risks skewed significantly to the upside. The Brent December 2026 forecast has been raised to $90/bbl from $85, as persistent supply risks are expected to slow the unwinding of the risk premium embedded in futures spreads. The 2027 average forecast remain",
+      "link": "https://www.financialjuice.com/News/9801242/Goldman-Sachs-Oil---FJElite.aspx?xy=rss",
+      "published": "2026-10-12T08:33:24+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Ukraine’s President Zelenskiy: Russia committed breaches of energy ceasefire announced by President Trump.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9800822/Shares-of-Chinese-Apple-supplier-Luxshare-set-to-open-2-lower-after-US-patent-infringement-probe.aspx?xy=rss",
-      "published": "2026-10-12T01:26:02+00:00",
+      "link": "https://www.financialjuice.com/News/9801205/Ukraines-President-Zelenskiy-Russia-committed-breaches-of-energy-ceasefire-announced-by-President-Trump.aspx?xy=rss",
+      "published": "2026-10-12T08:14:01+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Euro holds gains above 1.1200 despite France’s bond turmoil",
-      "summary": "The EUR/USD pair recovers some lost ground to near 1.1215 during the early Asian trading hours on Monday. The US Dollar (USD) softens against the Euro (EUR) after weaker-than-expected US Consumer Sentiment data.",
-      "link": "https://www.fxstreet.com/news/euro-holds-gains-above-11200-despite-frances-bond-turmoil-202610120100",
-      "published": "2026-10-12T01:00:29+00:00",
+      "title": "Oil: Supply risks offset by Russia diesel deal – ING",
+      "summary": "ING analysts Warren Patterson and Ewa Manthey note that Oil prices are weaker despite heightened Middle East tensions, as strong Persian Gulf flows and a US-Russia diesel deal weigh on the market. They highlight that additional Russian diesel exports and a possible Russia-Ukraine energy ceasefire are pressuring middle distillate cracks, while inefficient Middle East trade flows and high freight ra",
+      "link": "https://www.fxstreet.com/news/oil-supply-risks-offset-by-russia-diesel-deal-ing-202610120807",
+      "published": "2026-10-12T08:07:22+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Australian Dollar edges higher to near 0.7000 on weak US Sentiment",
-      "summary": "The AUD/USD pair trades with mild gains around 0.6985 during the early Asian session on Monday. Softening US Consumer Sentiment weigh on the US Dollar (USD) against the Australian Dollar (AUD).",
-      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-to-near-07000-on-weak-us-sentiment-202610112344",
-      "published": "2026-10-11T23:44:14+00:00",
+      "title": "Indonesian Rupiah declines amid policy trade-offs",
+      "summary": "USD/IDR gains ground after registering losses in the previous day, trading around 17,940 during European hours on Monday.",
+      "link": "https://www.fxstreet.com/news/indonesian-rupiah-declines-amid-policy-trade-offs-202610120805",
+      "published": "2026-10-12T08:05:05+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "US President Donald Trump says Russia and Ukraine agree to an ‘energy ceasefire’",
-      "summary": "Meanwhile, US President Donald Trump claimed Russia and Ukraine have agreed to an ”energy ceasefire”, but he offered no details on it,the Guardian reported on Sunday.",
-      "link": "https://www.fxstreet.com/news/us-president-donald-trump-says-russia-and-ukraine-agree-to-an-energy-ceasefire-202610112238",
-      "published": "2026-10-11T22:38:51+00:00",
+      "title": "US Dollar Index Price Forecast: Turns sideways after hitting fresh yearly highs near 102.50",
+      "summary": "The US Dollar (USD) trades subduedly at the start of the United States (US) Consumer Price Index (CPI) week. In the European trade, the US Dollar Index (DXY), which gauges the Greenback’s value against six major currencies, trades almost flat at around 102.22.",
+      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-turns-sideways-after-hitting-fresh-yearly-highs-near-10250-202610120740",
+      "published": "2026-10-12T07:40:24+00:00",
+      "score": 3
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "British Pound: Range-bound trading within a tight band against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note GBP/USD price action still looks like range trading after Friday’s close near 1.3234. Intraday, they expect the British Pound (GBP) to hold between 1.3215 and 1.3260.",
+      "link": "https://www.fxstreet.com/news/british-pound-range-bound-trading-within-a-tight-band-against-us-dollar-uob-202610120648",
+      "published": "2026-10-12T06:48:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/CAD Price Forecast: US Dollar eases within range in a quiet session",
+      "summary": "The US Dollar (USD) has opened the week with a mild bearish tone against the  Canadian Dollar (CAD), with trading volumes at low levels as the Japanese markets are closed on bank holidays and with the US and Canada also celebrating festivities.",
+      "link": "https://www.fxstreet.com/news/usd-cad-price-forecast-us-dollar-eases-within-range-in-a-quiet-session-202610120634",
+      "published": "2026-10-12T06:34:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Equities: Stable oil and yields support stock gains - Danske Bank",
+      "summary": "Danske Research Team reports that European and US equities ended Friday higher, with many indices near record levels, supported by broadly sideways yields and Oil prices.",
+      "link": "https://www.fxstreet.com/news/equities-stable-oil-and-yields-support-stock-gains-danske-bank-202610120633",
+      "published": "2026-10-12T06:33:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Brent: Houthi escalation keeps risk premium elevated – Commerzbank",
+      "summary": "Commerzbank strategists note that Brent Oil remains above USD 100 as markets weigh heightened geopolitical risk from Houthi attacks on Saudi infrastructure.",
+      "link": "https://www.fxstreet.com/news/brent-houthi-escalation-keeps-risk-premium-elevated-commerzbank-202610120621",
+      "published": "2026-10-12T06:21:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Downside risks toward 1.1145 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report EUR/USD closed near 1.1200 after a volatile session that failed to generate fresh directional clues. For the day, they expect a 1.1180–1.1230 range.",
+      "link": "https://www.fxstreet.com/news/euro-downside-risks-toward-11145-against-us-dollar-uob-202610120610",
+      "published": "2026-10-12T06:10:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "USD/JPY Price Forecast: Likely find direction in this US CPI week",
+      "summary": "The Japanese Yen (JPY) trades almost flat at around 158.36 against the US Dollar (USD) at the start of the week. The USD/JPY pair has been in a tight range between 156.38 and 158.51 for almost two weeks.",
+      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-likely-find-direction-in-this-us-cpi-week-202610120551",
+      "published": "2026-10-12T05:51:52+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Swiss Franc struggles as SNB dovish stance lifts USD/CHF",
+      "summary": "USD/CHF gains ground after two days of losses, trading around 0.8310 during Asian hours on Monday. The currency pair is finding upward support as the Swiss Franc (CHF) remains under pressure from short positions.",
+      "link": "https://www.fxstreet.com/news/swiss-franc-struggles-as-snb-dovish-stance-lifts-usd-chf-202610120535",
+      "published": "2026-10-12T05:35:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "GBP/USD Price Forecast: Edges higher near 1.3250, but technical tone stays bearish below 100-day SMA",
+      "summary": "The GBP/USD pair trades in positive territory around 1.3240 during the early European trading hours on Monday. The US Dollar (USD) softens against the British Pound (GBP) as markets continue to assess the US Federal Reserve (Fed) rate hike path.",
+      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-edges-higher-near-13250-but-technical-tone-stays-bearish-below-100-day-sma-202610120524",
+      "published": "2026-10-12T05:24:26+00:00",
+      "score": 2
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "New trade [nzd/usd]",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1x3taut/new_trade_nzdusd/\"> <img alt=\"New trade [nzd/usd]\" src=\"https://preview.redd.it/jvcnsy970zuh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=50e1d267e8ecc5ad988f5807e671f476e2fdda69\" title=\"New trade [nzd/usd]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>New trade </p> <p>Gj still active... floating in little prof",
+      "link": "https://www.reddit.com/r/Forex/comments/1x3taut/new_trade_nzdusd/",
+      "published": "2026-10-12T05:15:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar fails ahead of 0.7000 as hawkish Fed and Iran risks limit USD losses",
+      "summary": "The AUD/USD pair struggles to capitalize on a modest Asian session uptick, trading below the 0.7000 psychological mark and below a nearly two-week high, touched earlier this Monday.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-fails-ahead-of-07000-as-hawkish-fed-and-iran-risks-limit-usd-losses-202610120513",
+      "published": "2026-10-12T05:13:13+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold slides further below $4,200 as USD bulls retain control amid Fed bets, Iran risks",
+      "summary": "Gold (XAU/USD) extends its intraday retracement slide from a one-week high, hitting a fresh daily low around $4,180 during the early European session on Monday.",
+      "link": "https://www.fxstreet.com/news/gold-holds-near-one-week-top-around-4-200-on-softer-usd-hawkish-fed-caps-gains-202610120452",
+      "published": "2026-10-12T04:52:36+00:00",
+      "score": 4
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee gains 1% on fresh RBI measures at start of the week",
+      "summary": "The Indian Rupee (INR) opens significantly higher against the US Dollar (USD) on Monday. The USD/INR pair falls 1% to near 95.80 as Reserve Bank of India’s (RBI) fresh measures to curb US Dollar demand has brought relief for the Indian currency.",
+      "link": "https://www.fxstreet.com/news/usd-inr-opens-higher-as-rbi-steps-up-measures-to-support-indian-rupee-202610120404",
+      "published": "2026-10-12T04:04:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "USD CAD - Buy",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1x3rldw/usd_cad_buy/\"> <img alt=\"USD CAD - Buy\" src=\"https://preview.redd.it/scgbry7qiyuh1.png?width=140&amp;height=99&amp;auto=webp&amp;s=4bdbef465fb48b884d785842c64ed6df61c482ab\" title=\"USD CAD - Buy\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Price in range, </p> <p>Monday morning.. London still closed.. but</p> <p>you c",
+      "link": "https://www.reddit.com/r/Forex/comments/1x3rldw/usd_cad_buy/",
+      "published": "2026-10-12T03:40:36+00:00",
       "score": 1
     },
     {
@@ -75,105 +201,6 @@
       "score": 1
     },
     {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Aussie extends weekly gains as Fed pause bets offset hawkish rhetoric",
-      "summary": "The Aussie Dollar ended Friday’s session on a positive note, gaining 0.38% and 0.58% weekly as the US Dollar trimmed some of its weekly gains, while US data confirmed investors' expectations that the Federal Reserve would hold rates steady in the October meeting. The AUD/USD trades at 0.6983.",
-      "link": "https://www.fxstreet.com/news/aussie-extends-weekly-gains-as-fed-pause-bets-offset-hawkish-rhetoric-202610092218",
-      "published": "2026-10-09T22:18:12+00:00",
-      "score": 3
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: Range trading persists against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD remains supported within the Monetary Authority of Singapore’s policy band, with SGD NEER likely between 1.50% and 1.80% above midpoint, implying a 1.279–1.283 range. Short-term price action shows limited upward momentum, with resistance near 1.2835 and revised strong support at 1.2775.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-range-trading-persists-against-us-dollar-uob-202610092031",
-      "published": "2026-10-09T20:31:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Taiwan Dollar: Trade strength but losses capped against US Dollar – Commerzbank",
-      "summary": "Commerzbank analysts note Taiwan’s September trade surplus hit a record USD23.6bn, with exports surging 60.9% year-on-year on strong AI-related demand. The Central Bank of the Republic of China may lean more hawkish if inflation’s uptrend persists.",
-      "link": "https://www.fxstreet.com/news/taiwan-dollar-trade-strength-but-losses-capped-against-us-dollar-commerzbank-202610091949",
-      "published": "2026-10-09T19:49:00+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Crude Oil drops on Trump's Russian diesel plan",
-      "summary": "After a call with Russian President Putin, President Donald Trump said on Friday Russia will immediately supply more than 300K tons of diesel to the US and global markets. He put the next shipments at 500K tons in November and 1 million tons after that.",
-      "link": "https://www.fxstreet.com/news/crude-oil-drops-on-trumps-russian-diesel-plan-202610091923",
-      "published": "2026-10-09T19:23:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Dollar Index stalls under its high as the Fed's hawks repeat themselves",
-      "summary": "Four sessions after its highest level since April 2025, the Dollar Index hasn't got back to it. The index trades near 102.25 and has made a lower high in each session since Wednesday.",
-      "link": "https://www.fxstreet.com/news/dollar-index-stalls-under-its-high-as-the-feds-hawks-repeat-themselves-202610091910",
-      "published": "2026-10-09T19:10:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US President Trump says Putin agrees to supply millions of tons of diesel",
-      "summary": "On Friday, US President Donald Trump said he spoke with Russian President Vladimir Putin, who agreed to immediately supply over 300K tons of diesel fuel to the US and the global market, add 500K tons for November, and deliver 1 million tons “immediately thereafter.”",
-      "link": "https://www.fxstreet.com/news/us-president-trump-says-putin-agrees-to-supply-millions-of-tons-of-diesel-202610091908",
-      "published": "2026-10-09T19:08:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Silver Price Forecast: Bullish engulfing pattern puts $64 in sight",
-      "summary": "Silver (XAG/USD) price rallies over 2.80% on Friday as buyers buy the dip at $59.17, pushing the white metal above $60.00 to hit a two-day high of $61.19. At the time of writing, XAG/USD trades at $60.86.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-bullish-engulfing-pattern-puts-64-in-sight-202610091840",
-      "published": "2026-10-09T18:40:37+00:00",
-      "score": 4
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Singapore Dollar: MAS tightening but gains constrained – OCBC",
-      "summary": "OCBC’s Christopher Wong notes that Singapore Dollar (SGD) has held relatively steady despite a firmer US Dollar (USD) and higher Oil prices, with MAS tightening expectations underpinning the S$NEER. USD/SGD trades near recent highs with intact bullish momentum.",
-      "link": "https://www.fxstreet.com/news/singapore-dollar-mas-tightening-but-gains-constrained-ocbc-202610091827",
-      "published": "2026-10-09T18:27:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold reclaims $4,200 as weak US sentiment revives bullion demand",
-      "summary": "Gold (XAU/USD) price advances more than 1.40% on Friday, capitaliszng on a dip in US Treasury yields and a softer Greenback, as recent US data suggests households are becoming pessimistic about the economy, while investors seem confident that the Federal Reserve (Fed) will stay pat on rates.",
-      "link": "https://www.fxstreet.com/news/gold-reclaims-4-200-as-weak-us-sentiment-revives-bullion-demand-202610091804",
-      "published": "2026-10-09T18:04:49+00:00",
-      "score": 6
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Japanese Yen struggles as wide US-Japan yield gap weighs",
-      "summary": "USD/JPY trades with a positive bias on Friday as the Japanese Yen (JPY) underperforms across the board following a sharp decline in Japanese government bond yields.",
-      "link": "https://www.fxstreet.com/news/japanese-yen-struggles-as-wide-us-japan-yield-gap-weighs-202610091752",
-      "published": "2026-10-09T17:52:08+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Asia FX: Trade negotiations and resilient macro backdrop – MUFG",
-      "summary": "MUFG’s Michael Wan highlights a mixed global backdrop for Asian currencies, with US Treasuries rallying and the US Dollar (USD) somewhat weaker, while tech stocks decline. He notes resilient Asia macro data, including strong Taiwan exports and South Korea’s current account.",
-      "link": "https://www.fxstreet.com/news/asia-fx-trade-negotiations-and-resilient-macro-backdrop-mufg-202610091702",
-      "published": "2026-10-09T17:02:10+00:00",
-      "score": 1
-    },
-    {
       "source": "Federal Reserve",
       "category": "macro",
       "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
@@ -190,15 +217,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1x1hnw2/when_a_win_feels_like_a_loss/",
       "published": "2026-10-09T10:18:39+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "IMO, fundamentals are just as important as technicals.",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1x13txa/imo_fundamentals_are_just_as_important_as/\"> <img alt=\"IMO, fundamentals are just as important as technicals.\" src=\"https://preview.redd.it/d73lvu9scbuh1.png?width=140&amp;height=89&amp;auto=webp&amp;s=20b26390c56d6fc50df84e2ef58e4d9d3eef3eb9\" title=\"IMO, fundamentals are just as important as technicals.\" /> </a> </td><td> <",
-      "link": "https://www.reddit.com/r/Forex/comments/1x13txa/imo_fundamentals_are_just_as_important_as/",
-      "published": "2026-10-08T21:47:47+00:00",
-      "score": 2
     },
     {
       "source": "r/Forex",
