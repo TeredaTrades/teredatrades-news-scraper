@@ -1,195 +1,213 @@
 {
-  "updated_at": "2026-10-13T07:37:23.905922+00:00",
-  "count": 44,
+  "updated_at": "2026-10-13T15:17:10.441004+00:00",
+  "count": 45,
   "items": [
     {
-      "source": "FXStreet",
+      "source": "FinancialJuice",
       "category": "news",
-      "title": "Indian Rupee: RBI support points to softer pair – Commerzbank",
-      "summary": "Commerzbank’s India section notes September CPI at 5.5% year-on-year, above August and near breaching the RBI’s target band, with risks skewed to the upside from Oil, INR weakness and El Niño.",
-      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-support-points-to-softer-pair-commerzbank-202610130724",
-      "published": "2026-10-13T07:24:56+00:00",
+      "title": "FinancialJuice: Fed bids for 6-month bills total $4.7 bln",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9803427/Fed-bids-for-6-month-bills-total-47-bln.aspx?xy=rss",
+      "published": "2026-10-13T15:15:37+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed bids for 3-month bills total $5.4 bln",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9803420/Fed-bids-for-3-month-bills-total-54-bln.aspx?xy=rss",
+      "published": "2026-10-13T15:15:19+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Silver Price Forecast: XAG/USD remains capped below $61.00 as bulls seem hesitant",
-      "summary": "Silver (XAG/USD) attracts some dip-buyers in the vicinity of mid-$59.00s on Tuesday and sticks to its modest intraday gains through the early European session. The white metal, however, lacks bullish conviction and currently trades around the $60.50 area, up just over 0.30% for the day.",
-      "link": "https://www.fxstreet.com/news/silver-price-forecast-xag-usd-remains-capped-below-6100-as-bulls-seem-hesitant-202610130720",
-      "published": "2026-10-13T07:20:25+00:00",
+      "title": "Euro finds support from softer US Dollar, French fiscal risks linger",
+      "summary": "EUR/USD gains ground on Tuesday as the US Dollar (USD) retreats from recent highs, giving the Euro (EUR) some breathing room despite persistent concerns over France’s fiscal and political outlook. At the time of writing, the pair trades around 1.1192, up 0.33% on the day.",
+      "link": "https://www.fxstreet.com/news/euro-finds-support-from-softer-us-dollar-french-fiscal-risks-linger-202610131509",
+      "published": "2026-10-13T15:09:19+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Canadian Dollar: Modest gains against US Dollar - Scotiabank",
+      "summary": "Scotiabank strategists Shaun Osborne and Eric Theoret reports the Canadian Dollar (CAD) up 0.2% versus the US Dollar (USD) but underperforming other G10 currencies, with markets still pricing Bank of Canada (BoC) tightening into year-end despite weak labour data.",
+      "link": "https://www.fxstreet.com/news/canadian-dollar-modest-gains-against-us-dollar-scotiabank-202610131423",
+      "published": "2026-10-13T14:23:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar : Key support at 0.6935 in focus against US Dollar   – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann report AUD/USD slipping as the stronger US Dollar weighs on commodity currencies. Short‑term momentum has turned lower, with scope for a test of major support at 0.6935, though a sustained break is seen as unlikely.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-key-support-at-06935-in-focus-against-us-dollar-uob-202610131404",
+      "published": "2026-10-13T14:04:33+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MUFG on Fed - FJElite",
+      "summary": "Fed funds futures now price less than a 20% probability of a rate hike at this month's FOMC meeting. New York Fed President John Williams and Vice Chair Philip Jefferson expressed caution last week about back-to-back rate hikes, and Governor Christopher Waller echoed that view this week. Their views on inflation differ, but senior Fed officials are now broadly aligned on the near-term policy decis",
+      "link": "https://www.financialjuice.com/News/9803350/MUFG-on-Fed---FJElite.aspx?xy=rss",
+      "published": "2026-10-13T14:01:26+00:00",
+      "score": 5
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Morgan Stanley on S&P 500 - FJElite",
+      "summary": "<div><div>We continue to favor quality, but the opportunity set within quality is broadening as the correction beneath the surface matures. The de-rating is well advanced while earnings remain strong, and the market is increasingly rewarding revisions, free cash flow and earnings durability—the same characteristics we expect to matter through 3Q reporting season. We would add risk within that fram",
+      "link": "https://www.financialjuice.com/News/9803332/Morgan-Stanley-on-SP-500---FJElite.aspx?xy=rss",
+      "published": "2026-10-13T13:57:19+00:00",
       "score": 4
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Currency Strength Chart: Strongest: JPY, NZD, CHF, EUR, GBP, CAD, AUD, USD - Weakest",
+      "title": "FinancialJuice: Goldman Sachs Privorotsky's View on AI - FJElite",
+      "summary": "<div>AI: Four stories to unpack. First, CXMT is a legitimate It concern for memory economics. Second, Microsoft’s Maia 300 custom chips, moving to TSMC’s 2nm process. Incrementally negative for merchant GPU suppliers (NVDA), positive for the custom silicon supply chain and aggregate compute consumption. Third, Hock l’an’s comments comparing A1 investors to gamblers have been taken wildly out of co",
+      "link": "https://www.financialjuice.com/News/9803331/Goldman-Sachs-Privorotskys-View-on-AI---FJElite.aspx?xy=rss",
+      "published": "2026-10-13T13:46:55+00:00",
+      "score": 4
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Goldman Sachs CEO: We also recognize the broader concerns around the accelerating pace of AI technology and the unchecked advancement of frontier models $GS",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9802766/Currency-Strength-Chart-Strongest-JPY-NZD-CHF-EUR-GBP-CAD-AUD-USD---Weakest.aspx?xy=rss",
-      "published": "2026-10-13T07:01:18+00:00",
+      "link": "https://www.financialjuice.com/News/9803303/Goldman-Sachs-CEO-We-also-recognize-the-broader-concerns-around-the-accelerating-pace-of-AI-technology-and-the-unchecked-advancement-of-frontier-models-GS.aspx?xy=rss",
+      "published": "2026-10-13T13:42:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fitch Ratings: Surge in bond yields adds to challenges facing developed market finances",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9803302/Fitch-Ratings-Surge-in-bond-yields-adds-to-challenges-facing-developed-market-finances.aspx?xy=rss",
+      "published": "2026-10-13T13:41:33+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Forex Today: US Dollar retreats from 18-month high as bond yields, oil prices ease",
-      "summary": "Here is what you need to know on Tuesday, October 13:",
-      "link": "https://www.fxstreet.com/news/forex-today-us-dollar-retreats-from-17-month-high-as-bond-yields-oil-prices-ease-202610130659",
-      "published": "2026-10-13T06:59:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "AUD/USD Price Forecast: Declining 20-day EMA builds case for more downside",
-      "summary": "The Australian Dollar (AUD) is marginally higher at around 0.6960 against the US Dollar (USD) during the European trading session on Tuesday.",
-      "link": "https://www.fxstreet.com/news/aud-usd-price-forecast-declining-20-day-ema-builds-case-for-more-downside-202610130652",
-      "published": "2026-10-13T06:52:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Euro: Gradual downside toward key support against US Dollar – UOB",
-      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann highlight ongoing Euro (EUR) weakness against the US Dollar (USD), with EUR/USD at fresh 17‑month lows. Intraday, further losses are possible but seen contained within 1.1145–1.1185.",
-      "link": "https://www.fxstreet.com/news/euro-gradual-downside-toward-key-support-against-us-dollar-uob-202610130636",
-      "published": "2026-10-13T06:36:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "USD/JPY Price Forecast: Bulls fail to break the 200-day SMA around 158.50",
-      "summary": "The US Dollar (USD) edges lower against the Japanese Yen (JPY) on Tuesday, although it maintains its broader bullish trend intact, favoured by a risk-averse market.",
-      "link": "https://www.fxstreet.com/news/usd-jpy-price-forecast-bulls-fail-to-break-the-200-day-sma-around-15850-202610130629",
-      "published": "2026-10-13T06:29:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "US Dollar Index Price Forecast: Likely extend advance to near 103.00",
-      "summary": "The US Dollar (USD) trades lower against its major currency peers on Tuesday due to lower United States (US) Treasury Yields.",
-      "link": "https://www.fxstreet.com/news/us-dollar-index-price-forecast-likely-extend-advance-to-near-10300-202610130608",
-      "published": "2026-10-13T06:08:58+00:00",
+      "title": "Australian Dollar edges higher amid softer US Dollar, hawkish RBA",
+      "summary": "AUD/USD edges higher on Tuesday as a pullback in US Treasury yields weighs on the US Dollar (USD), pulling it away from recent highs. Meanwhile, hawkish signals from the Reserve Bank of Australia (RBA) provide underlying support to the Australian Dollar (AUD).",
+      "link": "https://www.fxstreet.com/news/australian-dollar-edges-higher-as-softer-us-dollar-hawkish-rba-offer-support-202610131336",
+      "published": "2026-10-13T13:36:54+00:00",
       "score": 2
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "EUR/USD Price Forecast: Holds gains above 1.1150, but remains technically bearish under 100-day SMA",
-      "summary": "The EUR/USD pair holds positive ground near 1.1175 during the early European trading hours on Tuesday. Nonetheless, hawkish Federal Reserve (Fed) expectations and higher US Treasury bond yields could underpin the US Dollar (USD) and act as a headwind for the major pair.",
-      "link": "https://www.fxstreet.com/news/eur-usd-price-forecast-holds-gains-above-11150-but-remains-technically-bearish-under-100-day-sma-202610130600",
-      "published": "2026-10-13T06:00:23+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: German CPI Final MoM Actual 0.6% (Forecast 0.6%, Previous 0.6%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9802715/German-CPI-Final-MoM-Actual-06-Forecast-06-Previous-06.aspx?xy=rss",
-      "published": "2026-10-13T06:00:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: German CPI Final YoY Actual 3.3% (Forecast 3.3%, Previous 3.3%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9802713/German-CPI-Final-YoY-Actual-33-Forecast-33-Previous-33.aspx?xy=rss",
-      "published": "2026-10-13T06:00:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9802692/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-10-13T05:34:56+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: TOP S&P 500 Stock Names Implied Volatility",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9802688/TOP-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-10-13T05:33:28+00:00",
+      "title": "Indian Rupee: RBI defense limits losses against US Dollar – Societe Generale",
+      "summary": "Societe Generale's strategists note that the INR has rallied further, with USD/INR looking to break below the 95 handle as the RBI intensifies its FX defense. The central bank extended FX curbs to GIFT City and broadened use of risk reserves.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-defense-limits-losses-against-us-dollar-societe-generale-202610131331",
+      "published": "2026-10-13T13:31:02+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indonesian Rupiah gains as BI Governor Destry reaffirms rate autonomy",
-      "summary": "USD/IDR depreciates after registering modest gains in the previous day, trading around 17,950 during Asian hours on Tuesday. The Indonesian Rupiah (IDR) gained support against the US Dollar (USD) following comments from Bank Indonesia’s (BI) new chief, Destry Damayanti.",
-      "link": "https://www.fxstreet.com/news/indonesian-rupiah-gains-as-bi-governor-destry-reaffirms-rate-autonomy-202610130529",
-      "published": "2026-10-13T05:29:23+00:00",
+      "title": "US Dollar: Supported but capped by CPI risks – OCBC",
+      "summary": "OCBC strategists Sim Moh Siong and Christopher Wong argue the US Dollar (USD) remains supported by higher Oil prices, firm US yields and resilient Federal Reserve (Fed) expectations, but not yet breaking out of its recent range. They note markets are focused on energy, US inflation and earnings, with a decisive USD move likely requiring a meaningful upside surprise in core CPI. The base case is fo",
+      "link": "https://www.fxstreet.com/news/us-dollar-supported-but-capped-by-cpi-risks-ocbc-202610131316",
+      "published": "2026-10-13T13:16:33+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Euro: Lower year-end target at 1.13 against US Dollar – ING",
+      "summary": "ING’s Francesco Pesole writes that EUR/USD is moderately undervalued versus short-term fundamentals, reflecting a persistent France-related risk premium that could widen if French bonds sell off further. He sees a challenging backdrop for Euro bulls, expects a possible test of 1.110, and notes that ING has revised its EUR/USD forecast down to 1.13 for the fourth quarter of 2026 and first quarter o",
+      "link": "https://www.fxstreet.com/news/euro-lower-year-end-target-at-113-against-us-dollar-ing-202610131304",
+      "published": "2026-10-13T13:04:42+00:00",
       "score": 1
     },
     {
       "source": "FXStreet",
       "category": "news",
-      "title": "Indian Rupee hits fresh monthly high on RBI’s measures to curb US Dollar’s demand",
+      "title": "Australian Dollar: RBA inflation focus shapes outlook – Commerzbank",
+      "summary": "Commerzbank’s Volkmar Baur explains that the Reserve Bank of Australia is increasingly focused on high inflation, with trimmed-mean inflation above its 2–3% target band for over a year.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-rba-inflation-focus-shapes-outlook-commerzbank-202610131251",
+      "published": "2026-10-13T12:51:41+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Japanese Yen: Weakness may deepen toward 159.05 against US Dollar – UOB",
+      "summary": "United Overseas Bank’s (UOB) Quek Ser Leang and Lee Sue Ann note USD/JPY continues to grind higher as wide US‑Japan yield differentials weigh on the Japanese Yen (JPY). Intraday, the pair is expected to hold within 158.20–158.80.",
+      "link": "https://www.fxstreet.com/news/japanese-yen-weakness-may-deepen-toward-15905-against-us-dollar-uob-202610131241",
+      "published": "2026-10-13T12:41:01+00:00",
+      "score": 2
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "US ADP Employment Change 4-week average drops to 24.75K",
+      "summary": "Private-sector hiring in the US has gained some pace in late September. According to the NER Pulse, the weekly companion to the ADP National Employment Report, companies added an average of 24.75K jobs per week in the four weeks ending September 26.",
+      "link": "https://www.fxstreet.com/news/us-adp-employment-change-4-week-average-drops-to-2475k-202610131237",
+      "published": "2026-10-13T12:37:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee: RBI measures support near term – MUFG",
+      "summary": "MUFG’s Michael Wan analyses recent Reserve Bank of India actions and their impact on the Indian Rupee. He notes that RBI’s new FX and liquidity measures have sharply strengthened spot USD/INR, but also pushed stress into forwards, offshore NDFs and bonds.",
+      "link": "https://www.fxstreet.com/news/indian-rupee-rbi-measures-support-near-term-mufg-202610131214",
+      "published": "2026-10-13T12:14:26+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "WTI Oil extends its pullback to $91.00 amid US imports of Russian Diesel",
+      "summary": "Crude Oil trades lower on Tuesday, as investors ponder the impact of the US President, Donald Trump’s decision to lift the ban on Russian diesel imports.",
+      "link": "https://www.fxstreet.com/news/wti-oil-extends-its-pullback-to-9100-amid-us-imports-of-russian-diesel-202610131157",
+      "published": "2026-10-13T11:57:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Australian Dollar remains weak despite hawkish RBA minutes",
+      "summary": "The Australian Dollar (AUD) trades lower against its major currency peers, except the US Dollar (USD), during the European trading session on Tuesday. The antipodean is under pressure even as Reserve Bank of Australia (RBA) minutes of the September policy meeting remains hawkish.",
+      "link": "https://www.fxstreet.com/news/australian-dollar-remains-weak-despite-hawkish-rba-minutes-202610131137",
+      "published": "2026-10-13T11:37:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Gold struggles to reclaim $4,200 as Fed interest rate hike risks persist, US CPI looms",
+      "summary": "Gold (XAU/USD) reverses earlier gains on Tuesday as US Treasury yields recover after falling earlier in the day. With the US Dollar (USD) still under pressure, the metal trades little changed during American trading hours.",
+      "link": "https://www.fxstreet.com/news/gold-struggles-below-4-200-despite-retreat-in-us-dollar-treasury-yields-202610131056",
+      "published": "2026-10-13T10:56:48+00:00",
+      "score": 7
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "6 London opens on gold 5m: first 30 minute ranges from $10.45 to $25.05",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I wanted a clean answer to a quieter session question than the usual US print studies: when London opens at 8:00, how wide is the first 30 minutes on gold, and does the open itself do most of the damage?</p> <p>Method: I loaded six recent London opens on XAUUSD 5m and stepped from the 8:00 candle through 8:25 (UTC). I measured the high minus low across those six c",
+      "link": "https://www.reddit.com/r/Forex/comments/1x4s1kt/6_london_opens_on_gold_5m_first_30_minute_ranges/",
+      "published": "2026-10-13T09:26:35+00:00",
+      "score": 5
+    },
+    {
+      "source": "FXStreet",
+      "category": "news",
+      "title": "Indian Rupee extends gains on RBI's fresh measures",
       "summary": "The Indian Rupee (INR) extends the Monday’s advance against the US Dollar (USD) on Tuesday, driven by the announcement of fresh Reserve Bank of India’s (RBI) US Dollar-related measures to shore up the domestic currency.",
       "link": "https://www.fxstreet.com/news/indian-rupee-gains-further-on-rbis-fresh-measures-to-lower-us-dollars-demand-202610130508",
       "published": "2026-10-13T05:08:30+00:00",
       "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Swiss Franc strengthens as US Dollar Index pulls back from 18-month highs",
-      "summary": "USD/CHF declines after registering modest gains the previous day, trading around 0.8330 during Asian hours on Tuesday. The currency pair depreciated as the US Dollar (USD) pulled back from an 18-month high.",
-      "link": "https://www.fxstreet.com/news/swiss-franc-strengthens-as-us-dollar-index-pulls-back-from-18-month-highs-202610130500",
-      "published": "2026-10-13T05:00:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "New Zealand Dollar rebounds to near 0.5600 amid geopolitical tensions and US CPI focus",
-      "summary": "The NZD/USD pair recovers some lost ground around 0.5590 during the early European trading hours on Tuesday. However, the potential upside for the pair might be limited as it currently trades near an 18-month low amid ongoing Middle East tensions and higher oil prices.",
-      "link": "https://www.fxstreet.com/news/new-zealand-dollar-rebounds-to-near-05600-amid-geopolitical-tensions-and-us-cpi-focus-202610130457",
-      "published": "2026-10-13T04:57:57+00:00",
-      "score": 2
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "BoJ’s Ueda: Long term interest rates are determined in markets, reflecting various factors",
-      "summary": "Bank of Japan (BoJ) Governor Kazuo Ueda said on Tuesday that long-term interest rates are determined in markets, reflecting various factors. Ueda added that the central bank will continue to closely monitor bond markets.",
-      "link": "https://www.fxstreet.com/news/bojs-ueda-long-term-interest-rates-are-determined-in-markets-reflecting-various-factors-202610130453",
-      "published": "2026-10-13T04:53:05+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "India Gold price today: Gold rises, according to FXStreet data",
-      "summary": "Gold prices rose in India on Tuesday, according to data compiled by FXStreet.",
-      "link": "https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610130435",
-      "published": "2026-10-13T04:35:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "GBP/USD Price Forecast: Defends 1.3200 as bears await two-week-old range breakdown",
-      "summary": "The GBP/USD pair attracts some dip-buyers near the 1.3200 mark during the Asian session on Tuesday, stalling the previous day's rejection slide from the 100-period Simple Moving Average (SMA) on the 4-hour chart.",
-      "link": "https://www.fxstreet.com/news/gbp-usd-price-forecast-defends-13200-as-bears-await-two-week-old-range-breakdown-202610130412",
-      "published": "2026-10-13T04:12:47+00:00",
-      "score": 1
-    },
-    {
-      "source": "FXStreet",
-      "category": "news",
-      "title": "Gold remains capped near $4,200 as Fed hike bets and Iran risks limit USD corrective slide",
-      "summary": "Gold (XAU/USD) struggles to capitalize on its move higher and remains capped below the $4,200 round figure heading into Tuesday’s European session. The US Dollar (USD) retreats from its highest level since April 2025 amid some profit-taking, offering support to the precious metal.",
-      "link": "https://www.fxstreet.com/news/gold-bounces-off-4-150-amid-modest-usd-pullback-but-stays-in-two-week-old-range-202610130353",
-      "published": "2026-10-13T03:53:32+00:00",
-      "score": 5
     },
     {
       "source": "r/Forex",
@@ -234,15 +252,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1x3rldw/usd_cad_buy/\"> <img alt=\"USD CAD - Buy\" src=\"https://preview.redd.it/scgbry7qiyuh1.png?width=140&amp;height=99&amp;auto=webp&amp;s=4bdbef465fb48b884d785842c64ed6df61c482ab\" title=\"USD CAD - Buy\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Price in range, </p> <p>Monday morning.. London still closed.. but</p> <p>you c",
       "link": "https://www.reddit.com/r/Forex/comments/1x3rldw/usd_cad_buy/",
       "published": "2026-10-12T03:40:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "How do you cap risk across trades that share a currency?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>How do you account for shared currency exposure when sizing multiple forex positions? For example, being long EUR/USD and GBP/USD creates two positions that could both lose on dollar strength, even with separate stops. Do you cap their combined stop-loss risk, adjust sizing using correlation, or use another method? What are the limitations of your approach?</p> </",
-      "link": "https://www.reddit.com/r/Forex/comments/1x33rjs/how_do_you_cap_risk_across_trades_that_share_a/",
-      "published": "2026-10-11T09:24:25+00:00",
       "score": 1
     },
     {
