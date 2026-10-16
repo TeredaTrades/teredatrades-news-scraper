@@ -1,51 +1,69 @@
 {
-  "updated_at": "2026-10-16T18:24:18.062618+00:00",
-  "count": 27,
+  "updated_at": "2026-10-16T21:33:50.617093+00:00",
+  "count": 28,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump ends remarks to reporters.",
+      "title": "FinancialJuice: Trump: Iran will be over very soon",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9809172/Trump-ends-remarks-to-reporters.aspx?xy=rss",
-      "published": "2026-10-16T17:18:52+00:00",
+      "link": "https://www.financialjuice.com/News/9809438/Trump-Iran-will-be-over-very-soon.aspx?xy=rss",
+      "published": "2026-10-16T20:44:45+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump: The US economy has never been stronger.",
+      "title": "FinancialJuice: Anthropic: Revenue per employee 2x-4x its peers, Meta and Google. $META $GOOGL",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9809171/Trump-The-US-economy-has-never-been-stronger.aspx?xy=rss",
-      "published": "2026-10-16T17:17:45+00:00",
+      "link": "https://www.financialjuice.com/News/9809437/Anthropic-Revenue-per-employee-2x-4x-its-peers-Meta-and-Google-META-GOOGL.aspx?xy=rss",
+      "published": "2026-10-16T20:44:33+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump speaks at a rally in Dalton, Georgia - WATCH LIVE",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9809436/Trump-speaks-at-a-rally-in-Dalton-Georgia---WATCH-LIVE.aspx?xy=rss",
+      "published": "2026-10-16T20:33:29+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump: Will get a deal on nuclear arms with Russia and China.",
+      "title": "FinancialJuice: NVIDIA CEO on AI Market Turmoil: All of this is going to pass. $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9809153/Trump-Will-get-a-deal-on-nuclear-arms-with-Russia-and-China.aspx?xy=rss",
-      "published": "2026-10-16T17:14:22+00:00",
+      "link": "https://www.financialjuice.com/News/9809435/NVIDIA-CEO-on-AI-Market-Turmoil-All-of-this-is-going-to-pass-NVDA.aspx?xy=rss",
+      "published": "2026-10-16T20:33:03+00:00",
       "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Made $10k in a day",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1x7qyyd/made_10k_in_a_day/\"> <img alt=\"Made $10k in a day\" src=\"https://preview.redd.it/mzr653fu1wvh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=72c25e697a4a69a38e88dfbcbf2652d65955fb9c\" title=\"Made $10k in a day\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hello, so I just made 10k in a single trade from XAUUSD, I co",
+      "link": "https://www.reddit.com/r/Forex/comments/1x7qyyd/made_10k_in_a_day/",
+      "published": "2026-10-16T20:23:31+00:00",
+      "score": 4
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: France’s President Macron: Trump diesel deal is not useful, creates doubts and defiance.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9809149/Frances-President-Macron-Trump-diesel-deal-is-not-useful-creates-doubts-and-defiance.aspx?xy=rss",
-      "published": "2026-10-16T17:09:53+00:00",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +2418 mln<br />Nasdaq 100: +827 mln<br />Dow 30: +714 mln<br />Mag 7: +873 mln",
+      "link": "https://www.financialjuice.com/News/9809382/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-10-16T19:50:31+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Saudi Arabia are happy to get support from Israel and the US.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9809148/Trump-Saudi-Arabia-are-happy-to-get-support-from-Israel-and-the-US.aspx?xy=rss",
-      "published": "2026-10-16T17:09:28+00:00",
-      "score": 1
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "What Do You Look for Before Trusting an Automated Gold Trading System?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello traders!<br /> I’ve been developing an Expert Advisor for MetaTrader 5 called <strong>XAUUSD Dual TP EA</strong>, designed for automated gold trading.<br /> I’m interested in learning what experienced traders consider most important when evaluating an EA.<br /> A few questions:<br /> • How much historical backtesting do you expect before considering an EA?<b",
+      "link": "https://www.reddit.com/r/Forex/comments/1x7n4w2/what_do_you_look_for_before_trusting_an_automated/",
+      "published": "2026-10-16T17:55:37+00:00",
+      "score": 5
     },
     {
       "source": "Federal Reserve",
@@ -90,15 +108,6 @@
       "summary": "<!-- SC_OFF --><div class=\"md\"><p>I see less and less trading posts on social media, same with prop firm discord servers chat have way less messages and trading setups, even my entourage almost all of them stoped talking about trading and shifted to ai shit and e-commerce, i remember the trading hype 2 or 3 years ago when almost everyone tried trading, is it my algorithm showing me less or is ever",
       "link": "https://www.reddit.com/r/Forex/comments/1x63kmj/is_trading_dying/",
       "published": "2026-10-14T21:25:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "NzdUsd trade",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1x5ybbd/nzdusd_trade/\"> <img alt=\"NzdUsd trade\" src=\"https://preview.redd.it/pocxofim2hvh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=69c622795d7476b213797f963c61aee38b5c1499\" title=\"NzdUsd trade\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Honestly was cool with trade... just tired of losing and being so close to los",
-      "link": "https://www.reddit.com/r/Forex/comments/1x5ybbd/nzdusd_trade/",
-      "published": "2026-10-14T18:01:11+00:00",
       "score": 1
     },
     {
