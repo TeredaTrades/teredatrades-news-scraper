@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-10-16T09:51:27.428193+00:00",
-  "count": 31,
+  "updated_at": "2026-10-16T14:38:07.938647+00:00",
+  "count": 23,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MOO Imbalance",
+      "summary": "S&amp;P 500: +240 mln<br />Nasdaq 100: +73 mln<br />Dow 30: +16 mln<br />Mag 7: +45 mln",
+      "link": "https://www.financialjuice.com/News/9808857/MOO-Imbalance.aspx?xy=rss",
+      "published": "2026-10-16T13:30:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Effective Fed funds rate 3.88% October 15th vs 3.88% October 14th.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9808820/Effective-Fed-funds-rate-388-October-15th-vs-388-October-14th.aspx?xy=rss",
+      "published": "2026-10-16T12:59:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Apple iPhone duo delivery date slips to January 25th. $AAPL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9808797/Apple-iPhone-duo-delivery-date-slips-to-January-25th-AAPL.aspx?xy=rss",
+      "published": "2026-10-16T12:33:12+00:00",
+      "score": 1
+    },
     {
       "source": "r/Forex",
       "category": "reddit",
@@ -9,96 +36,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1x7bqc1/im_full_short_all_expect_what_do_you_think_is/\"> <img alt=\"Im Full Short all expect 🇬🇧 what do You think is this Smart ?\" src=\"https://preview.redd.it/8drvc113usvh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=bd40814a7c1610f90cff1108152f8cd9187e8d54\" title=\"Im Full Short all expect 🇬🇧 what do You thin",
       "link": "https://www.reddit.com/r/Forex/comments/1x7bqc1/im_full_short_all_expect_what_do_you_think_is/",
       "published": "2026-10-16T09:34:40+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft disagrees with business software designation.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9808506/Microsoft-disagrees-with-business-software-designation.aspx?xy=rss",
-      "published": "2026-10-16T09:09:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Italian CPI YoY Final Actual 4.2% (Forecast 4.2%, Previous 4.2%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9808483/Italian-CPI-YoY-Final-Actual-42-Forecast-42-Previous-42.aspx?xy=rss",
-      "published": "2026-10-16T09:00:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Italian CPI MoM Final Actual 0.7% (Forecast 0.7%, Previous 0.7%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9808482/Italian-CPI-MoM-Final-Actual-07-Forecast-07-Previous-07.aspx?xy=rss",
-      "published": "2026-10-16T09:00:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Eurozone CPI YoY Final Actual 3.8% (Forecast 3.8%, Previous 3.8%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9808486/Eurozone-CPI-YoY-Final-Actual-38-Forecast-38-Previous-38.aspx?xy=rss",
-      "published": "2026-10-16T09:00:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Eurozone CPI MoM Final Actual 0.6% (Forecast 0.6%, Previous 0.4%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9808485/Eurozone-CPI-MoM-Final-Actual-06-Forecast-06-Previous-04.aspx?xy=rss",
-      "published": "2026-10-16T09:00:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Eurozone Core CPI YoY Final Actual 2.5% (Forecast 2.5%, Previous 2.5%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9808484/Eurozone-Core-CPI-YoY-Final-Actual-25-Forecast-25-Previous-25.aspx?xy=rss",
-      "published": "2026-10-16T09:00:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ING: The USD - FJElite",
-      "summary": "<div>The sell-off on Coreweave assets saw a modest reversal yesterday after Nvidia's CEO, Jensen Huang, said that Coreweave's financial strength was improving and its cost of capital was declining. Perhaps those comments should not be surprising from a major shareholder in Coreweave; let's see how long this bounce in Coreweave assets lasts. The big takeaway this week has been the recovery of the l",
-      "link": "https://www.financialjuice.com/News/9808479/ING-The-USD---FJElite.aspx?xy=rss",
-      "published": "2026-10-16T08:54:38+00:00",
-      "score": 5
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs: European Energy - FJElite",
-      "summary": "<div>European fuel prices have risen much more than crude oil as refining margins widened sharply, raising questions about forecasting fuel inflation beyond timely pump data and the implications for the inflation outlook.</div><div><br /></div><div>We reassess the pass-through from oil and natural gas prices into Euro area inflation. Rolling-window estimates suggest that a 10% rise in crude oil no",
-      "link": "https://www.financialjuice.com/News/9808478/Goldman-Sachs-European-Energy---FJElite.aspx?xy=rss",
-      "published": "2026-10-16T08:53:24+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs: UK GDP - FJElite",
-      "summary": "<div>UK monthly GDP rose 0.1% in July, beating expectations for a slight contraction, as production output increased 0.8%, led by manufacturing. Around half of the manufacturing gain came from pharmaceuticals, a volatile sector, although transport equipment and other subsectors also contributed. Services output was flat, with gains in wholesale and retail trade and professional services offset by ",
-      "link": "https://www.financialjuice.com/News/9808477/Goldman-Sachs-UK-GDP---FJElite.aspx?xy=rss",
-      "published": "2026-10-16T08:52:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: South Korea Finance Minister, Central Bank Governor hold joint meeting with us Fed and US Treasury Department - Yonhap.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9808424/South-Korea-Finance-Minister-Central-Bank-Governor-hold-joint-meeting-with-us-Fed-and-US-Treasury-Department---Yonhap.aspx?xy=rss",
-      "published": "2026-10-16T08:04:42+00:00",
       "score": 1
     },
     {
@@ -127,15 +64,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1x5ybbd/nzdusd_trade/",
       "published": "2026-10-14T18:01:11+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "NFP NEWS DONE BY ME",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1x5hkvn/nfp_news_done_by_me/\"> <img alt=\"NFP NEWS DONE BY ME\" src=\"https://preview.redd.it/16ksal5uwcvh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1ccdb31cd773645d1488e5288e845310b7ddd77\" title=\"NFP NEWS DONE BY ME\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>DATE; 02/10/2026 XAUUSD/BUY SETUP/UPDATE </p> <p>BUY NOW N",
-      "link": "https://www.reddit.com/r/Forex/comments/1x5hkvn/nfp_news_done_by_me/",
-      "published": "2026-10-14T04:04:37+00:00",
-      "score": 4
     },
     {
       "source": "Federal Reserve",
