@@ -1,21 +1,5 @@
 [
   {
-    "title": "Monetary Policy Meeting Minutes",
-    "country": "JPY",
-    "date": "2026-09-27T19:50:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "SPPI y/y",
-    "country": "JPY",
-    "date": "2026-09-27T19:50:00-04:00",
-    "impact": "Low",
-    "forecast": "3.6%",
-    "previous": "3.6%"
-  },
-  {
     "title": "MPC Member Ramsden Speaks",
     "country": "GBP",
     "date": "2026-09-28T06:00:00-04:00",
@@ -3126,6 +3110,14 @@
     "impact": "Low",
     "forecast": "23.6",
     "previous": "25.8"
+  },
+  {
+    "title": "Foreign Direct Investment ytd/y",
+    "country": "CNY",
+    "date": "2026-10-20T05:10:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "-5.3%"
   },
   {
     "title": "10-y Bond Auction",
