@@ -1,104 +1,41 @@
 {
-  "updated_at": "2026-10-21T19:28:55.234576+00:00",
-  "count": 36,
+  "updated_at": "2026-10-21T22:39:17.384293+00:00",
+  "count": 29,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump ends remarks at the White House",
+      "title": "FinancialJuice: USDA confirms first detection of New World screwworm in U.S. wildlife: statement",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9815595/Trump-ends-remarks-at-the-White-House.aspx?xy=rss",
-      "published": "2026-10-21T19:20:40+00:00",
+      "link": "https://www.financialjuice.com/News/9815850/USDA-confirms-first-detection-of-New-World-screwworm-in-US-wildlife-statement.aspx?xy=rss",
+      "published": "2026-10-21T22:04:14+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Meta plan could be announced as soon as Wednesday - Semafor. $META",
+      "title": "FinancialJuice: New Zealand CPI QoQ Actual 0.7% (Forecast 0.8%, Previous 1.5%)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9815594/Meta-plan-could-be-announced-as-soon-as-Wednesday---Semafor-META.aspx?xy=rss",
-      "published": "2026-10-21T19:19:31+00:00",
+      "link": "https://www.financialjuice.com/News/9815797/New-Zealand-CPI-QoQ-Actual-07-Forecast-08-Previous-15.aspx?xy=rss",
+      "published": "2026-10-21T21:46:18+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Meta plans nonvoting shares, eyeing more stock sales - Semafor. $META",
+      "title": "FinancialJuice: New Zealand dollar falls to $0.5692 after CPI data misses forecast",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9815593/Meta-plans-nonvoting-shares-eyeing-more-stock-sales---Semafor-META.aspx?xy=rss",
-      "published": "2026-10-21T19:17:59+00:00",
+      "link": "https://www.financialjuice.com/News/9815816/New-Zealand-dollar-falls-to-05692-after-CPI-data-misses-forecast.aspx?xy=rss",
+      "published": "2026-10-21T21:46:18+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Trump: Getting closer to settling russia War with Ukraine",
+      "title": "FinancialJuice: New Zealand CPI YoY Actual 3.7% (Forecast 3.8%, Previous 4.1%)",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9815584/Trump-Getting-closer-to-settling-russia-War-with-Ukraine.aspx?xy=rss",
-      "published": "2026-10-21T19:15:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft: Attacks achieved privileged cloud access in less than 3 hours in multiple instances.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9815582/Microsoft-Attacks-achieved-privileged-cloud-access-in-less-than-3-hours-in-multiple-instances.aspx?xy=rss",
-      "published": "2026-10-21T19:08:48+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft assesses storm-0940 caused recent ConnectWise supply chain breach of multi-tenant app",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9815581/Microsoft-assesses-storm-0940-caused-recent-ConnectWise-supply-chain-breach-of-multi-tenant-app.aspx?xy=rss",
-      "published": "2026-10-21T19:08:34+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft: As early as Sept 2026, China-aligned Storm-0940 actor used AI framework ArtEx to automate attacks on hundreds of organizations globally. $MSFT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9815580/Microsoft-As-early-as-Sept-2026-China-aligned-Storm-0940-actor-used-AI-framework-ArtEx-to-automate-attacks-on-hundreds-of-organizations-globally-MSFT.aspx?xy=rss",
-      "published": "2026-10-21T19:07:49+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Blanche: Meta and X have helped law enforcement on cybercrime. $META $TSLA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9815578/Blanche-Meta-and-X-have-helped-law-enforcement-on-cybercrime-META-TSLA.aspx?xy=rss",
-      "published": "2026-10-21T19:03:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canada's PM Carney: Trump and I did address some issues around trade",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9815550/Canadas-PM-Carney-Trump-and-I-did-address-some-issues-around-trade.aspx?xy=rss",
-      "published": "2026-10-21T19:00:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canada's PM Carney: We discussed wide range of issues with Trump, including Iran",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9815549/Canadas-PM-Carney-We-discussed-wide-range-of-issues-with-Trump-including-Iran.aspx?xy=rss",
-      "published": "2026-10-21T18:59:41+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Canada's PM Carney: Spoke to Trump on Wednesday for quite some time",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9815548/Canadas-PM-Carney-Spoke-to-Trump-on-Wednesday-for-quite-some-time.aspx?xy=rss",
-      "published": "2026-10-21T18:59:28+00:00",
+      "link": "https://www.financialjuice.com/News/9815796/New-Zealand-CPI-YoY-Actual-37-Forecast-38-Previous-41.aspx?xy=rss",
+      "published": "2026-10-21T21:45:00+00:00",
       "score": 1
     },
     {
