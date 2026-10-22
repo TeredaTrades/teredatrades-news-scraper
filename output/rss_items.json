@@ -1,41 +1,104 @@
 {
-  "updated_at": "2026-10-22T19:57:19.937199+00:00",
-  "count": 24,
+  "updated_at": "2026-10-22T23:11:15.991681+00:00",
+  "count": 31,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: +2933 mln<br />Nasdaq 100: +1994 mln<br />Dow 30: +495 mln<br />Mag 7: +733 mln",
-      "link": "https://www.financialjuice.com/News/9817540/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-10-22T19:50:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: White House: Trump decreases housing costs for Americans",
+      "title": "FinancialJuice: UK GfK major purchases index drops to lowest since Sept 2024, inflation outlook rises",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9817490/White-House-Trump-decreases-housing-costs-for-Americans.aspx?xy=rss",
-      "published": "2026-10-22T19:27:12+00:00",
+      "link": "https://www.financialjuice.com/News/9817716/UK-GfK-major-purchases-index-drops-to-lowest-since-Sept-2024-inflation-outlook-rises.aspx?xy=rss",
+      "published": "2026-10-22T23:01:04+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: White House: Trump signed an executive order addressing housing costs",
+      "title": "FinancialJuice: Australia S&P Global October Flash Services PMI at 47.8 vs 51.9 in September",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9817489/White-House-Trump-signed-an-executive-order-addressing-housing-costs.aspx?xy=rss",
-      "published": "2026-10-22T19:26:54+00:00",
+      "link": "https://www.financialjuice.com/News/9817671/Australia-SP-Global-October-Flash-Services-PMI-at-478-vs-519-in-September.aspx?xy=rss",
+      "published": "2026-10-22T22:00:04+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Friday FX Option Expiries",
-      "summary": "<ul><li><strong>EUR/USD: </strong>1.1300 (EU848.5m), 1.1895 (EU803.7m), 1.1200 (EU646m)</li><li><strong>USD/JPY: </strong>157.00 ($1.16b), 155.00 ($1.06b), 158.45 ($924.9m)</li><li><strong>AUD/USD: </strong>0.7000 (AUD606.5m), 0.6900 (AUD475m), 0.6870 (AUD364m)</li><li><strong>USD/CAD: </strong>1.4075 ($1.2b), 1.4000 ($569.3m), 1.4200 ($560.3m)</li><li><strong>USD/MXN: </strong>18.70 ($438m)</li><",
-      "link": "https://www.financialjuice.com/News/9817488/Friday-FX-Option-Expiries-.aspx?xy=rss",
-      "published": "2026-10-22T19:22:59+00:00",
+      "title": "FinancialJuice: Australia S&P Global October Flash Composite PMI at 47.7 vs 51.3 in September",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9817670/Australia-SP-Global-October-Flash-Composite-PMI-at-477-vs-513-in-September.aspx?xy=rss",
+      "published": "2026-10-22T22:00:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Australia S&P global October flash manufacturing PMI at 49.7 vs 49.6 in September",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9817669/Australia-SP-global-October-flash-manufacturing-PMI-at-497-vs-496-in-September.aspx?xy=rss",
+      "published": "2026-10-22T22:00:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google announces general availability of an Anthropic-managed deployment option for Claude models on Google Cloud",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9817629/Google-announces-general-availability-of-an-Anthropic-managed-deployment-option-for-Claude-models-on-Google-Cloud.aspx?xy=rss",
+      "published": "2026-10-22T21:09:59+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump waives DPA section 303 rules to expand oil capacity",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9817599/Trump-waives-DPA-section-303-rules-to-expand-oil-capacity.aspx?xy=rss",
+      "published": "2026-10-22T20:44:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump sends US Sec. of Defense Hegseth memo about the Defense Production Act and oil",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9817598/Trump-sends-US-Sec-of-Defense-Hegseth-memo-about-the-Defense-Production-Act-and-oil.aspx?xy=rss",
+      "published": "2026-10-22T20:44:01+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump invokes the Defense Production Act for Petroleum capacity",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9817597/Trump-invokes-the-Defense-Production-Act-for-Petroleum-capacity.aspx?xy=rss",
+      "published": "2026-10-22T20:43:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: SpaceX: Any potential Tesla combination would be subject to further approval by our special committee, board & controlling shareholder $TSLA $SPCX",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9817596/SpaceX-Any-potential-Tesla-combination-would-be-subject-to-further-approval-by-our-special-committee-board--controlling-shareholder-TSLA-SPCX.aspx?xy=rss",
+      "published": "2026-10-22T20:43:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump ends remarks at the White House",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9817578/Trump-ends-remarks-at-the-White-House.aspx?xy=rss",
+      "published": "2026-10-22T20:28:17+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump on Iran: May do it a little bit further",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9817577/Trump-on-Iran-May-do-it-a-little-bit-further.aspx?xy=rss",
+      "published": "2026-10-22T20:26:31+00:00",
       "score": 1
     },
     {
