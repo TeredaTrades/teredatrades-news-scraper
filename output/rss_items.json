@@ -1,95 +1,68 @@
 {
-  "updated_at": "2026-10-27T16:40:26.983458+00:00",
-  "count": 38,
+  "updated_at": "2026-10-27T20:58:49.289757+00:00",
+  "count": 32,
   "items": [
     {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Why is my MT5 demo doing this",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xh4bl1/why_is_my_mt5_demo_doing_this/\"> <img alt=\"Why is my MT5 demo doing this\" src=\"https://preview.redd.it/blozzbq5o2yh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=abfdb30f7ff62c64e1636de027ddf8f8cde0058a\" title=\"Why is my MT5 demo doing this\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Today, lost a trade that i ",
+      "link": "https://www.reddit.com/r/Forex/comments/1xh4bl1/why_is_my_mt5_demo_doing_this/",
+      "published": "2026-10-27T20:47:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "What are your views on Tommorow's news ?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Same as title majority of people online are stating that that interest will stay constant and the gold will go sideways or drop to take the buyers orders placed near the 3960-4000 levels and take their SL and then give a move but some suggestions were that as it has already taken daily support range of approx 3987-3990 it will go bullish what are your thoughts on ",
+      "link": "https://www.reddit.com/r/Forex/comments/1xh4b17/what_are_your_views_on_tommorows_news/",
+      "published": "2026-10-27T20:47:00+00:00",
+      "score": 1
+    },
+    {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Oracle brings google TPUs to Oracle Cloud infrastructure. $ORCL $GOOGL",
+      "title": "FinancialJuice: October FOMC Crib Sheet - FJElite",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9823395/Oracle-brings-google-TPUs-to-Oracle-Cloud-infrastructure-ORCL-GOOGL.aspx?xy=rss",
-      "published": "2026-10-27T16:05:54+00:00",
+      "link": "https://www.financialjuice.com/News/9823685/October-FOMC-Crib-Sheet---FJElite.aspx?xy=rss",
+      "published": "2026-10-27T19:53:48+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Nvidia & Oracle expand Nvidia Vera Rubin $NVDA $ORCL",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: -1050 mln<br />Nasdaq 100: -2060 mln<br />Dow 30: -137 mln<br />Mag 7: -504 mln",
+      "link": "https://www.financialjuice.com/News/9823684/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-10-27T19:50:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump reiterates that oil is flowing out of the Hormuz Strait",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9823377/Nvidia--Oracle-expand-Nvidia-Vera-Rubin-NVDA-ORCL.aspx?xy=rss",
-      "published": "2026-10-27T16:01:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Google upgrades AI world model that rattled video game stocks $GOOGL",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9823374/Google-upgrades-AI-world-model-that-rattled-video-game-stocks-GOOGL.aspx?xy=rss",
-      "published": "2026-10-27T16:00:36+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Melania Trump: Local ceasefire in Ukraine has begun",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9823369/Melania-Trump-Local-ceasefire-in-Ukraine-has-begun.aspx?xy=rss",
-      "published": "2026-10-27T15:57:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump ends remarks to reporters",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9823351/Trump-ends-remarks-to-reporters.aspx?xy=rss",
-      "published": "2026-10-27T15:40:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: We're going to accept 1m barrels of Venezuelan oil",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9823350/Trump-Were-going-to-accept-1m-barrels-of-Venezuelan-oil.aspx?xy=rss",
-      "published": "2026-10-27T15:39:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 52-Week Bill Auction",
-      "summary": "<ul><li>High Yield  4.29%</li><li>Bid-to-Cover 3.15</li><li>Sells $54 bln</li><li><div>Awards 65.33% of bids at high</div></li></ul>",
-      "link": "https://www.financialjuice.com/News/9823345/US-52-Week-Bill-Auction-.aspx?xy=rss",
-      "published": "2026-10-27T15:33:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: The US offers Constellation $5b in financing for nuclear reactors $CEG",
-      "summary": "<ul><li>The Trump administration is proposing up to $5 billion in financing to Constellation Energy Corp. for the refurbishment and modernization of the nuclear operator's reactor fleet in Illinois, Maryland, and Pennsylvania.</li><li>According to the Energy Department, the projects supported by the conditional loan commitment are expected to contribute almost 1.1 gigawatts of electricity to the s",
-      "link": "https://www.financialjuice.com/News/9823329/The-US-offers-Constellation-5b-in-financing-for-nuclear-reactors-CEG.aspx?xy=rss",
-      "published": "2026-10-27T15:32:15+00:00",
+      "link": "https://www.financialjuice.com/News/9823683/Trump-reiterates-that-oil-is-flowing-out-of-the-Hormuz-Strait.aspx?xy=rss",
+      "published": "2026-10-27T19:49:28+00:00",
       "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: US 52-Week Bill High Yield Actual 4.29% (Forecast -, Previous 4.400%)",
+      "title": "FinancialJuice: Trump suggests Venezuela could become a US state",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9823327/US-52-Week-Bill-High-Yield-Actual-429-Forecast---Previous-4400.aspx?xy=rss",
-      "published": "2026-10-27T15:31:45+00:00",
+      "link": "https://www.financialjuice.com/News/9823682/Trump-suggests-Venezuela-could-become-a-US-state.aspx?xy=rss",
+      "published": "2026-10-27T19:46:56+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Microsoft AI launches MAI image 2.7 in preview. $MSFT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9823315/Microsoft-AI-launches-MAI-image-27-in-preview-MSFT.aspx?xy=rss",
-      "published": "2026-10-27T15:15:57+00:00",
+      "title": "FinancialJuice: Wednesday FX Option Expiries",
+      "summary": "<div><ul><li><strong>EUR/USD:</strong> 1.1215 (EU2.16b), 1.1600 (EU1.38b), 1.1150 (EU1.34b)</li><li><strong>USD/JPY:</strong> 155.00 ($921.3m), 158.50 ($828m), 158.00 ($797.8m)</li><li><strong>USD/BRL:</strong> 4.9000 ($760m), 5.7800 ($454.8m), 5.0100 ($450m)</li><li><strong>AUD/USD:</strong> 0.7005 (AUD972.3m), 0.7050 (AUD800.2m), 0.6950 (AUD692.5m)</li><li><strong>USD/CAD: </strong>1.4000 ($495m",
+      "link": "https://www.financialjuice.com/News/9823645/Wednesday-FX-Option-Expiries.aspx?xy=rss",
+      "published": "2026-10-27T19:23:59+00:00",
       "score": 1
     },
     {
@@ -122,15 +95,6 @@
     {
       "source": "r/Forex",
       "category": "reddit",
-      "title": "Durable Goods Orders Tomorrow: Market Mover or Just Noise?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Tomorrow we'll get the latest <strong>U.S. Durable Goods Orders</strong> release, a data point that often gets overshadowed by NFP, CPI and FOMC, but can still have a meaningful impact on the USD, yields and ultimately XAUUSD.</p> <p>The market is expecting a -0.3% reading after the previous report came in at 0.0%.</p> <p>A stronger-than-expected number could supp",
-      "link": "https://www.reddit.com/r/Forex/comments/1xg9a2q/durable_goods_orders_tomorrow_market_mover_or/",
-      "published": "2026-10-26T21:08:34+00:00",
-      "score": 8
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
       "title": "I sold",
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xg6q9h/i_sold/\"> <img alt=\"I sold\" src=\"https://preview.redd.it/0r87vslk5vxh1.png?width=140&amp;height=76&amp;auto=webp&amp;s=09f6801f3d64d03d3483683b53db81a1c4f1f082\" title=\"I sold\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/0r87vslk5vxh1.png?width=2433&amp;format=png&amp;auto=webp&amp;s=4",
       "link": "https://www.reddit.com/r/Forex/comments/1xg6q9h/i_sold/",
@@ -145,24 +109,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1xg46oe/eurusd_sat_oversold_on_the_daily_for_about_two/",
       "published": "2026-10-26T17:58:54+00:00",
       "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "NQ hit my TP, but I took a loss because I closed early",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xfzbyw/nq_hit_my_tp_but_i_took_a_loss_because_i_closed/\"> <img alt=\"NQ hit my TP, but I took a loss because I closed early\" src=\"https://preview.redd.it/vodrq1j0utxh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f9dd42e40bf3e7df60d248cc1870b446b3694c8\" title=\"NQ hit my TP, but I took a loss because I closed early\" /> </a> </td",
-      "link": "https://www.reddit.com/r/Forex/comments/1xfzbyw/nq_hit_my_tp_but_i_took_a_loss_because_i_closed/",
-      "published": "2026-10-26T15:04:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Anyone else getting chopped up by XAUUSD, or is this one of the cleaner trends we've seen lately?",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xfxiud/anyone_else_getting_chopped_up_by_xauusd_or_is/\"> <img alt=\"Anyone else getting chopped up by XAUUSD, or is this one of the cleaner trends we've seen lately?\" src=\"https://preview.redd.it/y2duw0yuhtxh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=94803aa9af29eae53cb6b7659a8cf043920ef8c1\" title=\"Anyone else getting choppe",
-      "link": "https://www.reddit.com/r/Forex/comments/1xfxiud/anyone_else_getting_chopped_up_by_xauusd_or_is/",
-      "published": "2026-10-26T13:56:24+00:00",
-      "score": 4
     },
     {
       "source": "r/Forex",
