@@ -1,60 +1,114 @@
 {
-  "updated_at": "2026-10-29T08:46:28.575866+00:00",
-  "count": 33,
+  "updated_at": "2026-10-29T15:55:04.649891+00:00",
+  "count": 36,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: MUFG: The EUR - FJElite",
-      "summary": "<div>The market’s focus will now shift to the ECB's policy update later today which will attract even more attention than normal given the sharp sell-off in French government bonds which is making the ECB's job in setting monetary policy even more challenging. We had previously thought that another back-to-back hike was possible encouraged by another upside inflation surprise in September coming i",
-      "link": "https://www.financialjuice.com/News/9826858/MUFG-The-EUR---FJElite.aspx?xy=rss",
-      "published": "2026-10-29T08:43:04+00:00",
+      "title": "FinancialJuice: ECB officials are ready to raise interest rates in December",
+      "summary": "<div><ul><li>ECB officials are prepared to raise interest rates in December if the inflation outlook does not improve, according to people familiar with the discussions.</li><li>Given current data and the economic fallout from the Middle East war, another 25bps hike will likely be needed to curb price pressures, the people said.</li><li>They stressed that no decision has been made and the outlook ",
+      "link": "https://www.financialjuice.com/News/9827663/ECB-officials-are-ready-to-raise-interest-rates-in-December.aspx?xy=rss",
+      "published": "2026-10-29T15:35:58+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 4-Week Bill Auction",
+      "summary": "<ul><li>High Yield 3.91%</li><li>Bid-to-Cover Ratio 3.1</li><li>Sells $115 bln</li><li><div>Awards 16.96% of bids at high</div></li></ul>",
+      "link": "https://www.financialjuice.com/News/9827662/US-4-Week-Bill-Auction.aspx?xy=rss",
+      "published": "2026-10-29T15:33:38+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.91% (Forecast -, Previous 3.945%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9827661/US-4-Week-Bill-High-Yield-Actual-391-Forecast---Previous-3945.aspx?xy=rss",
+      "published": "2026-10-29T15:32:10+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: New ECB staff estimates show bond yield rise cutting growth by cumulative 100 BPS, inflation by 90 BPS in 2027-28 vs Sept baseline - sources",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9827645/New-ECB-staff-estimates-show-bond-yield-rise-cutting-growth-by-cumulative-100-BPS-inflation-by-90-BPS-in-2027-28-vs-Sept-baseline---sources.aspx?xy=rss",
+      "published": "2026-10-29T15:27:53+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed bids for 4-Week bills total $5.9 bln.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9827628/Fed-bids-for-4-Week-bills-total-59-bln.aspx?xy=rss",
+      "published": "2026-10-29T15:15:36+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: IMF: We fully back Fed chair Warsh's remarks on focus on price stability; Fed is rightly monitoring data closely",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9827613/IMF-We-fully-back-Fed-chair-Warshs-remarks-on-focus-on-price-stability-Fed-is-rightly-monitoring-data-closely.aspx?xy=rss",
+      "published": "2026-10-29T15:00:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: IMF: Fed and ECB face high uncertainty and must closely monitor data going forward.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9827612/IMF-Fed-and-ECB-face-high-uncertainty-and-must-closely-monitor-data-going-forward.aspx?xy=rss",
+      "published": "2026-10-29T15:00:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: IMF: US growth resilient so far, propelled by private consumption despite higher oil prices and inflation, plus investment",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9827611/IMF-US-growth-resilient-so-far-propelled-by-private-consumption-despite-higher-oil-prices-and-inflation-plus-investment.aspx?xy=rss",
+      "published": "2026-10-29T15:00:51+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump concludes remarks",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9827580/Trump-concludes-remarks.aspx?xy=rss",
+      "published": "2026-10-29T14:42:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "The5ers liquidated my account with a $1,069 loss buffer intact, admitted a bridge failure, and silently pocketed +$373 in floating profit (Account #26638673)",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>The Issue:</strong> On Oct 28 at 00:12 server time, The5ers automated risk engine terminated Account #26638673, falsely citing &quot;Maximum Loss limit reached.&quot;</p> <p><strong>The Ledger at Termination:</strong></p> <ul> <li><strong>Closed Balance:</strong> $10,069.55 USD (net positive)</li> <li><strong>Max Loss Buffer:</strong> $1,069.55 remaining b",
+      "link": "https://www.reddit.com/r/Forex/comments/1xihd5e/the5ers_liquidated_my_account_with_a_1069_loss/",
+      "published": "2026-10-29T11:27:57+00:00",
+      "score": 7
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "TRADING SINCE JAN 1,NEED SOME ADVICE",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>so i started trading since jan 1, spent a lot of time on backtesting, learning almost everyday without sleeping. backtested more than 500 trades on EUR/USD,GBP/USD and my wr is around 75%.1:3rr, i backtested 2020-25 so my question is this enough backtest? on live markets on demo acc i made 7% in a month. it took me 2-3 months to learn basics etc and remaining mont",
+      "link": "https://www.reddit.com/r/Forex/comments/1xifh5j/trading_since_jan_1need_some_advice/",
+      "published": "2026-10-29T09:44:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "XAUUSD 1",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xif1ih/xauusd_1/\"> <img alt=\"XAUUSD 1\" src=\"https://preview.redd.it/7r3rxbxkidyh1.png?width=140&amp;height=76&amp;auto=webp&amp;s=5fa6a950acc786c22cfe3582e1d3ea93b83d2b9a\" title=\"XAUUSD 1\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/7r3rxbxkidyh1.png?width=2433&amp;format=png&amp;auto=webp&a",
+      "link": "https://www.reddit.com/r/Forex/comments/1xif1ih/xauusd_1/",
+      "published": "2026-10-29T09:16:30+00:00",
       "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Credit Ágricole: Japan - FJElite",
-      "summary": "<div>The rise in Japan’s 10-year JGB yield towards 3% is widely viewed as excessive after decades of low interest rates, with much of the increase attributed to concerns over the Takaichi administration’s expansionary fiscal policy. However, fiscal anxiety alone is unlikely to explain the move. Other drivers include expectations of sustained nominal growth above 3%, stronger global demand for long",
-      "link": "https://www.financialjuice.com/News/9826857/Credit-%c3%81gricole-Japan---FJElite.aspx?xy=rss",
-      "published": "2026-10-29T08:41:59+00:00",
-      "score": 3
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Credit Ágricole: FOMC Recap - FJElite",
-      "summary": "<div>The Fed held rates at 3.75–4.00% in October, as expected, following September’s 25bp hike. Two officials dissented, including Governor Lisa Cook, highlighting continued support for further tightening within the Committee. The statement added that more information would help determine the appropriate policy stance to return inflation to 2%, keeping further hikes on the table without committing",
-      "link": "https://www.financialjuice.com/News/9826856/Credit-%c3%81gricole-FOMC-Recap---FJElite.aspx?xy=rss",
-      "published": "2026-10-29T08:35:04+00:00",
-      "score": 4
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Mizuho bank to raise yen term deposit rates from November 2.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9826819/Mizuho-bank-to-raise-yen-term-deposit-rates-from-November-2.aspx?xy=rss",
-      "published": "2026-10-29T08:06:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed Interest Rate Probabilities",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9826753/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "published": "2026-10-29T07:25:23+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: S&P 500 Stock Names Implied Volatility",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9826749/SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "published": "2026-10-29T07:23:47+00:00",
-      "score": 1
     },
     {
       "source": "r/Forex",
@@ -117,33 +171,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xgpxih/gold_bias/\"> <img alt=\"Gold Bias\" src=\"https://external-preview.redd.it/OWI0MG56enZ2enhoMRZFcrs8tUCHI8qQE7I6eMH24PXtgfkPiHi5czuAsoni.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=51a5c46bd0376db7e53f55efc70c16125775bbc5\" title=\"Gold Bias\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/tmos",
       "link": "https://www.reddit.com/r/Forex/comments/1xgpxih/gold_bias/",
       "published": "2026-10-27T11:26:06+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "I sold",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xg6q9h/i_sold/\"> <img alt=\"I sold\" src=\"https://preview.redd.it/0r87vslk5vxh1.png?width=140&amp;height=76&amp;auto=webp&amp;s=09f6801f3d64d03d3483683b53db81a1c4f1f082\" title=\"I sold\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/0r87vslk5vxh1.png?width=2433&amp;format=png&amp;auto=webp&amp;s=4",
-      "link": "https://www.reddit.com/r/Forex/comments/1xg6q9h/i_sold/",
-      "published": "2026-10-26T19:32:20+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "EUR/USD sat \"oversold\" on the daily for about two weeks this month and kept dropping. How do you actually use RSI?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This one humbled me again so I figured I'd ask.</p> <p>I run a 14 period RSI on daily EUR/USD (I use the ECB daily reference rates because they're easy to pull). It dipped under 30 around Sept 24, bounced a bit, then sat at or around 30 pretty much from Sept 29 to Oct 14. The low was about 20 on Oct 5.</p> <p>Price during that stretch? Went from roughly 1.1355 dow",
-      "link": "https://www.reddit.com/r/Forex/comments/1xg46oe/eurusd_sat_oversold_on_the_daily_for_about_two/",
-      "published": "2026-10-26T17:58:54+00:00",
-      "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Double Top Bear Flag on D1 GBPUSD",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xfx15e/double_top_bear_flag_on_d1_gbpusd/\"> <img alt=\"Double Top Bear Flag on D1 GBPUSD\" src=\"https://preview.redd.it/0e3rtpyfetxh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ed0acab340b86a904a1f448e5216084dd92dda38\" title=\"Double Top Bear Flag on D1 GBPUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Anyone else tra",
-      "link": "https://www.reddit.com/r/Forex/comments/1xfx15e/double_top_bear_flag_on_d1_gbpusd/",
-      "published": "2026-10-26T13:37:03+00:00",
       "score": 1
     },
     {
