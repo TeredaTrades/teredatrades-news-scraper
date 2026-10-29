@@ -1,117 +1,5 @@
 [
   {
-    "title": "Leading Indicators",
-    "country": "JPY",
-    "date": "2026-10-07T01:00:00-04:00",
-    "impact": "Low",
-    "forecast": "118.1%",
-    "previous": "117.9%"
-  },
-  {
-    "title": "German Industrial Production m/m",
-    "country": "EUR",
-    "date": "2026-10-07T02:00:00-04:00",
-    "impact": "Low",
-    "forecast": "0.5%",
-    "previous": "-1.1%"
-  },
-  {
-    "title": "Lloyds HPI m/m",
-    "country": "GBP",
-    "date": "2026-10-07T02:00:00-04:00",
-    "impact": "Low",
-    "forecast": "0.0%",
-    "previous": "-0.2%"
-  },
-  {
-    "title": "French Trade Balance",
-    "country": "EUR",
-    "date": "2026-10-07T02:45:00-04:00",
-    "impact": "Low",
-    "forecast": "-6.5B",
-    "previous": "-6.7B"
-  },
-  {
-    "title": "Foreign Currency Reserves",
-    "country": "CHF",
-    "date": "2026-10-07T03:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "770B"
-  },
-  {
-    "title": "Crude Oil Inventories",
-    "country": "USD",
-    "date": "2026-10-07T10:30:00-04:00",
-    "impact": "Low",
-    "forecast": "1.9M",
-    "previous": "0.9M"
-  },
-  {
-    "title": "President Trump Speaks",
-    "country": "USD",
-    "date": "2026-10-07T13:00:00-04:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "10-y Bond Auction",
-    "country": "USD",
-    "date": "2026-10-07T13:01:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "4.83|2.7"
-  },
-  {
-    "title": "FOMC Meeting Minutes",
-    "country": "USD",
-    "date": "2026-10-07T14:00:00-04:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Consumer Credit m/m",
-    "country": "USD",
-    "date": "2026-10-07T15:00:00-04:00",
-    "impact": "Low",
-    "forecast": "14.5B",
-    "previous": "18.1B"
-  },
-  {
-    "title": "RICS House Price Balance",
-    "country": "GBP",
-    "date": "2026-10-07T19:01:00-04:00",
-    "impact": "Low",
-    "forecast": "-30%",
-    "previous": "-28%"
-  },
-  {
-    "title": "Current Account",
-    "country": "JPY",
-    "date": "2026-10-07T19:50:00-04:00",
-    "impact": "Low",
-    "forecast": "2.14T",
-    "previous": "2.52T"
-  },
-  {
-    "title": "MI Inflation Expectations",
-    "country": "AUD",
-    "date": "2026-10-07T20:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "4.9%"
-  },
-  {
-    "title": "30-y Bond Auction",
-    "country": "JPY",
-    "date": "2026-10-07T23:35:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "4.08|3.8"
-  },
-  {
     "title": "Economy Watchers Sentiment",
     "country": "JPY",
     "date": "2026-10-08T01:00:00-04:00",
@@ -2475,6 +2363,14 @@
     "title": "Italian 10-y Bond Auction",
     "country": "EUR",
     "date": "2026-10-29T05:33:00-04:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "4.58|1.6"
+  },
+  {
+    "title": "Italian 10-y Bond Auction",
+    "country": "EUR",
+    "date": "2026-10-29T06:08:00-04:00",
     "impact": "Low",
     "forecast": "",
     "previous": "4.58|1.6"
