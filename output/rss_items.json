@@ -1,59 +1,140 @@
 {
-  "updated_at": "2026-11-02T09:49:21.834928+00:00",
-  "count": 30,
+  "updated_at": "2026-11-02T20:01:56.424940+00:00",
+  "count": 36,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BofA: US Midterms - FJElite",
-      "summary": "<div>Our baseline assumes Democrats flip the House while Republicans retain the Senate. We expect that to produce gridlock, with little major legislation beyond a modest defense supplemental that Includes some Democratic priorities, such as healthcare spending. Given the slow spend-out of defense funding, we do not expect this to materially affect growth over the next two years. Gridlock would als",
-      "link": "https://www.financialjuice.com/News/9832356/BofA-US-Midterms---FJElite.aspx?xy=rss",
-      "published": "2026-11-02T09:32:57+00:00",
+      "title": "FinancialJuice: Trump ends remarks at Reflecting Pool",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9833212/Trump-ends-remarks-at-Reflecting-Pool.aspx?xy=rss",
+      "published": "2026-11-02T19:54:34+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: UBS: EUR/GBP - FJElite",
-      "summary": "<div>We continue to favor the GBP over the EUR. We expect the BoE to start its hiking cycle next week, while UK data continue to beat expectations. Strongly short GBP positioning leaves scope for further sterling gains, while GBP carry remains more attractive.</div><div><br /></div><div>Recent EUR weakness looks advanced. Concerns about France’s fiscal outlook have weighed on the euro, but we see ",
-      "link": "https://www.financialjuice.com/News/9832339/UBS-EURGBP---FJElite.aspx?xy=rss",
-      "published": "2026-11-02T09:30:57+00:00",
+      "title": "FinancialJuice: Trump on Iran: It's coming together nicely, that's why oil down.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9833211/Trump-on-Iran-Its-coming-together-nicely-thats-why-oil-down.aspx?xy=rss",
+      "published": "2026-11-02T19:53:14+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: LSEG: The RBA Decision - FJElite",
-      "summary": "<div>The Reserve Bank of Australia is widely expected to raise its official cash rate to an 18- year high of 4.85% on Tuesday, as stubborn inflationary pressures offset rising unemployment. The RBA's preferred measure of core inflation, trimmed mean CPI, rose 1.0% in the September quarter, well above the 0.6% level that RBA Governor Michele Bullock has flagged as desirable. Bullock has since state",
-      "link": "https://www.financialjuice.com/News/9832332/LSEG-The-RBA-Decision---FJElite.aspx?xy=rss",
-      "published": "2026-11-02T09:26:12+00:00",
+      "title": "FinancialJuice: Trump: Iran asked to stop killing its leaders, we will.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9833209/Trump-Iran-asked-to-stop-killing-its-leaders-we-will.aspx?xy=rss",
+      "published": "2026-11-02T19:52:09+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump to Axios: No rush to decide on restarting war in Iran",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9833204/Trump-to-Axios-No-rush-to-decide-on-restarting-war-in-Iran.aspx?xy=rss",
+      "published": "2026-11-02T19:35:48+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Iran said even recently they won't have nuclear weapon.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9833203/Trump-Iran-said-even-recently-they-wont-have-nuclear-weapon.aspx?xy=rss",
+      "published": "2026-11-02T19:33:43+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Iran wants to make a deal, that could happen.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9833178/Trump-Iran-wants-to-make-a-deal-that-could-happen.aspx?xy=rss",
+      "published": "2026-11-02T19:28:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Under discussion is a version of the draft US-Iran deal under negotiation for past eight days - official briefed on the talks.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9833177/Under-discussion-is-a-version-of-the-draft-US-Iran-deal-under-negotiation-for-past-eight-days---official-briefed-on-the-talks.aspx?xy=rss",
+      "published": "2026-11-02T19:28:21+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Qatari mediators travel to Tehran late Monday for talks with iran foreign minister aragchi on potential US-Iran deal - official briefed on the talks.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9833176/Qatari-mediators-travel-to-Tehran-late-Monday-for-talks-with-iran-foreign-minister-aragchi-on-potential-US-Iran-deal---official-briefed-on-the-talks.aspx?xy=rss",
+      "published": "2026-11-02T19:28:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: Oil will go down further because we're winning with Iran",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9833175/Trump-Oil-will-go-down-further-because-were-winning-with-Iran.aspx?xy=rss",
+      "published": "2026-11-02T19:27:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump Delivers Remarks - WATCH LIVE",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9833143/Trump-Delivers-Remarks---WATCH-LIVE.aspx?xy=rss",
+      "published": "2026-11-02T18:57:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "dow",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xm5oqo/dow/\"> <img alt=\"dow\" src=\"https://preview.redd.it/nd4o1lflv8zh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7442d7031a9d45bb867027287de4db8c2d5017ef\" title=\"dow\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>awaiting of Trump's decisions after 3rd of Nov... </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a hr",
+      "link": "https://www.reddit.com/r/Forex/comments/1xm5oqo/dow/",
+      "published": "2026-11-02T18:44:53+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "US Midterms",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Can the midterm elections affect the USD? </p> <p>If so in what way?</p> <p>😅</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ctrl12\"> /u/ctrl12 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1xm49rf/us_midterms/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Forex/comments/1xm49rf/us_mid",
+      "link": "https://www.reddit.com/r/Forex/comments/1xm49rf/us_midterms/",
+      "published": "2026-11-02T17:55:31+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Starting Gold scalps monthly journal here",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xm19dp/starting_gold_scalps_monthly_journal_here/\"> <img alt=\"Starting Gold scalps monthly journal here\" src=\"https://preview.redd.it/fudd9vb438zh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=808dc9f7103bf04f9a20cdaccccb2bfe822b9150\" title=\"Starting Gold scalps monthly journal here\" /> </a> </td><td> <!-- SC",
+      "link": "https://www.reddit.com/r/Forex/comments/1xm19dp/starting_gold_scalps_monthly_journal_here/",
+      "published": "2026-11-02T16:06:57+00:00",
       "score": 4
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Currency Strength Chart: Strongest: EUR, CHF, GBP, CAD, USD, JPY, AUD, NZD - Weakest",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9832226/Currency-Strength-Chart-Strongest-EUR-CHF-GBP-CAD-USD-JPY-AUD-NZD---Weakest.aspx?xy=rss",
-      "published": "2026-11-02T08:00:59+00:00",
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Eurousd setup",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xltu63/eurousd_setup/\"> <img alt=\"Eurousd setup\" src=\"https://preview.redd.it/2pyeer9xg6zh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eba2302839a0f16c1e9a12168ec8a88276e9f4cd\" title=\"Eurousd setup\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>We may get another buy setup in eurousd after retracement just wait i will ",
+      "link": "https://www.reddit.com/r/Forex/comments/1xltu63/eurousd_setup/",
+      "published": "2026-11-02T10:38:16+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Tesla new registrations in Sweden jump 248% year-on-year in October, compiler Mobility Sweden says",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9832220/Tesla-new-registrations-in-Sweden-jump-248-year-on-year-in-October-compiler-Mobility-Sweden-says.aspx?xy=rss",
-      "published": "2026-11-02T07:57:54+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Draft proposal circulated for feedback; follow-up meeting possible, official briefed on talks - Official",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9832219/Draft-proposal-circulated-for-feedback-follow-up-meeting-possible-official-briefed-on-talks---Official.aspx?xy=rss",
-      "published": "2026-11-02T07:49:08+00:00",
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "NZDUSD Short Setup",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xltcen/nzdusd_short_setup/\"> <img alt=\"NZDUSD Short Setup\" src=\"https://preview.redd.it/q9qlgdgjb6zh1.png?width=140&amp;height=98&amp;auto=webp&amp;s=114d75f6c5da56fc6e70297dafdd398ab7ee00a2\" title=\"NZDUSD Short Setup\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/q9qlgdgjb6zh1.png?width=1443&",
+      "link": "https://www.reddit.com/r/Forex/comments/1xltcen/nzdusd_short_setup/",
+      "published": "2026-11-02T10:08:29+00:00",
       "score": 1
     },
     {
@@ -82,33 +163,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1xjmvvn/how_do_you_confirm_that_a_repeated_tap_into_a/",
       "published": "2026-10-30T18:12:19+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "GBPUSD !!",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xjg2vd/gbpusd/\"> <img alt=\"GBPUSD !!\" src=\"https://preview.redd.it/ro0i7s1n1myh1.png?width=140&amp;height=76&amp;auto=webp&amp;s=7ec8aaee7c405a6caaaa21a43dfa5900b8de105c\" title=\"GBPUSD !!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/ro0i7s1n1myh1.png?width=2433&amp;format=png&amp;auto=webp&a",
-      "link": "https://www.reddit.com/r/Forex/comments/1xjg2vd/gbpusd/",
-      "published": "2026-10-30T13:57:36+00:00",
-      "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "BoJ Finally Hits Its 2% Inflation Target - USD/JPY 160 running out of steam ??",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>In an important moment for Japan's monetary policy, the Bank of Japan has finally announced that it has reached its 2% inflation target, first set in 2013. The main question for markets now is how quickly the BoJ will raise interest rates towards a neutral level. </p> <p>I expect two rate hikes, one in December and another in March. A more hawkish BoJ could help s",
-      "link": "https://www.reddit.com/r/Forex/comments/1xjd0dd/boj_finally_hits_its_2_inflation_target_usdjpy/",
-      "published": "2026-10-30T11:39:36+00:00",
-      "score": 3
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "I found an interesting AI trading experiment on MQL5",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xj3sqw/i_found_an_interesting_ai_trading_experiment_on/\"> <img alt=\"I found an interesting AI trading experiment on MQL5\" src=\"https://preview.redd.it/w866xtgjoiyh1.gif?width=640&amp;crop=smart&amp;s=ea561686586b913b884b29f53c23341c58bad8ea\" title=\"I found an interesting AI trading experiment on MQL5\" /> </a> </td><td> <!-- SC_OFF ",
-      "link": "https://www.reddit.com/r/Forex/comments/1xj3sqw/i_found_an_interesting_ai_trading_experiment_on/",
-      "published": "2026-10-30T02:38:14+00:00",
-      "score": 2
     },
     {
       "source": "Federal Reserve",
