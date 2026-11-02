@@ -1,13 +1,5 @@
 [
   {
-    "title": "Bank Holiday",
-    "country": "JPY",
-    "date": "2026-10-11T19:00:00-04:00",
-    "impact": "Holiday",
-    "forecast": "",
-    "previous": ""
-  },
-  {
     "title": "MPC Member Breeden Speaks",
     "country": "GBP",
     "date": "2026-10-12T05:30:00-04:00",
@@ -2667,6 +2659,14 @@
     "title": "Retail Sales y/y",
     "country": "CHF",
     "date": "2026-11-02T02:30:00-05:00",
+    "impact": "Low",
+    "forecast": "3.0%",
+    "previous": "3.2%"
+  },
+  {
+    "title": "Retail Sales y/y",
+    "country": "CHF",
+    "date": "2026-11-02T02:33:00-05:00",
     "impact": "Low",
     "forecast": "3.0%",
     "previous": "3.2%"
