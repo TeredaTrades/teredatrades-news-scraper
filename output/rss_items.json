@@ -1,7 +1,97 @@
 {
-  "updated_at": "2026-11-03T02:19:26.777885+00:00",
-  "count": 26,
+  "updated_at": "2026-11-03T09:53:34.084714+00:00",
+  "count": 35,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: MUFG: The USD - FJElite",
+      "summary": "<div>The US dollar has continued to trade on a softer footing at the start of this week with the dollar index dosing lower for the fourth consecutive day yesterday. The US dollar was undermined both by the sharp move lower for the price of oil and the continued correction lower for US Al-related equities. The price of Brent dropped sharply by around USD10/barrel encouraged by media reports over th",
+      "link": "https://www.financialjuice.com/News/9834459/MUFG-The-USD---FJElite.aspx?xy=rss",
+      "published": "2026-11-03T09:50:48+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Goldman Sachs: Natural Gas - FJElite",
+      "summary": "<div>European gas and LNG markets remain exposed to two major uncertainties: Middle Eastern supply disruptions and winter weather. TTF prices have been highly volatile, with a sharp sell-off following reports of potential diplomatic progress and a shift towards more neutral weather forecasts, reversing some of last week’s concerns over military escalation and a colder start to November. Despite ma",
+      "link": "https://www.financialjuice.com/News/9834458/Goldman-Sachs-Natural-Gas---FJElite.aspx?xy=rss",
+      "published": "2026-11-03T09:50:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ING: The EUR - FJElite",
+      "summary": "<div>EUR/USD is looking to establish support at 1.120 after a good start to the week. A Democratic sweep at the midterms today could help, but we don’t expect radical mood changes in the pair.</div><div><br /></div><div>French spreads didn’t benefit from lower oil prices yesterday, signalling levels above 150bp are the new normal now. It therefore remains hard for the euro to shake out the lingeri",
+      "link": "https://www.financialjuice.com/News/9834457/ING-The-EUR---FJElite.aspx?xy=rss",
+      "published": "2026-11-03T09:48:32+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Do you include swap costs when testing trades held through rollover?",
+      "summary": "<!-- SC_OFF --><div class=\"md\"><p>For a forex strategy that may hold positions across the broker’s daily rollover, how do you model swap or financing costs? Do you use broker-specific historical rates, or stress-test with current rates?</p> <p>Curious how much it changes a longer sample, especially when direction affects the charge.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https:",
+      "link": "https://www.reddit.com/r/Forex/comments/1xmoo13/do_you_include_swap_costs_when_testing_trades/",
+      "published": "2026-11-03T09:38:18+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Kremlin: Hope work on 3-way meeting in china later this month between Putin, Trump and Xi will be finalised in coming days.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9834433/Kremlin-Hope-work-on-3-way-meeting-in-china-later-this-month-between-Putin-Trump-and-Xi-will-be-finalised-in-coming-days.aspx?xy=rss",
+      "published": "2026-11-03T09:31:49+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Currency Strength Chart: Strongest: CHF, NZD, CAD, EUR, GBP, JPY, USD, AUD - Weakest",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9834318/Currency-Strength-Chart-Strongest-CHF-NZD-CAD-EUR-GBP-JPY-USD-AUD---Weakest.aspx?xy=rss",
+      "published": "2026-11-03T08:01:39+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Swiss CPI YoY Actual 1.5% (Forecast 1.2%, Previous 1.0%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9834260/Swiss-CPI-YoY-Actual-15-Forecast-12-Previous-10.aspx?xy=rss",
+      "published": "2026-11-03T07:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Swiss Core CPI YoY Actual 0.5% (Forecast 0.5%, Previous 0.5%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9834259/Swiss-Core-CPI-YoY-Actual-05-Forecast-05-Previous-05.aspx?xy=rss",
+      "published": "2026-11-03T07:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Swiss CPI MoM Actual 0.2% (Forecast 0%, Previous 0.0%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9834258/Swiss-CPI-MoM-Actual-02-Forecast-0-Previous-00.aspx?xy=rss",
+      "published": "2026-11-03T07:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ECB's Radev: Core inflation stable, energy shock not reaching wages.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9834256/ECBs-Radev-Core-inflation-stable-energy-shock-not-reaching-wages.aspx?xy=rss",
+      "published": "2026-11-03T07:25:45+00:00",
+      "score": 1
+    },
     {
       "source": "r/Forex",
       "category": "reddit",
@@ -64,15 +154,6 @@
       "link": "https://www.reddit.com/r/Forex/comments/1xlq7aq/eurusd_long_setup_2_november_bias_bullish/",
       "published": "2026-11-02T06:46:31+00:00",
       "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "XAUUSD, how is that possible ? Fucking american dogs",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>This fucking asset is untradable, damn fuck</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Away_Supermarket_573\"> /u/Away_Supermarket_573 </a> <br /> <span><a href=\"https://www.reddit.com/r/Forex/comments/1xjpnqp/xauusd_how_is_that_possible_fucking_american_dogs/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com",
-      "link": "https://www.reddit.com/r/Forex/comments/1xjpnqp/xauusd_how_is_that_possible_fucking_american_dogs/",
-      "published": "2026-10-30T19:58:27+00:00",
-      "score": 3
     },
     {
       "source": "Federal Reserve",
