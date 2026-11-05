@@ -1,113 +1,23 @@
 {
-  "updated_at": "2026-11-04T23:21:51.752123+00:00",
-  "count": 37,
+  "updated_at": "2026-11-05T03:38:20.429449+00:00",
+  "count": 27,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: SNB chairman Schlegel: central bank will monitor situation closely, especially for second-round inflation effects",
+      "title": "FinancialJuice: China finance ministry auctions two-month deposits at 1.47% yield: statement",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9837643/SNB-chairman-Schlegel-central-bank-will-monitor-situation-closely-especially-for-second-round-inflation-effects.aspx?xy=rss",
-      "published": "2026-11-04T23:01:04+00:00",
+      "link": "https://www.financialjuice.com/News/9837933/China-finance-ministry-auctions-two-month-deposits-at-147-yield-statement.aspx?xy=rss",
+      "published": "2026-11-05T02:33:43+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Swiss National Bank chairman Schlegel: inflation in Switzerland climbed, October figure exceeded expectations",
+      "title": "FinancialJuice: Japan S&P Global October services PMI at 51.7 vs flash 52.0",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9837640/Swiss-National-Bank-chairman-Schlegel-inflation-in-Switzerland-climbed-October-figure-exceeded-expectations.aspx?xy=rss",
-      "published": "2026-11-04T23:01:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Qualcomm CEO: Dragonfly C1000 CPU remains on track to ship to Meta as scheduled $QCOM $META",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9837569/Qualcomm-CEO-Dragonfly-C1000-CPU-remains-on-track-to-ship-to-Meta-as-scheduled-QCOM-META.aspx?xy=rss",
-      "published": "2026-11-04T21:54:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Goldman Sachs and Apollo in talks to sell SpaceX’s $40 billion AI deal $GS $SPCX",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9837512/Goldman-Sachs-and-Apollo-in-talks-to-sell-SpaceXs-40-billion-AI-deal-GS-SPCX.aspx?xy=rss",
-      "published": "2026-11-04T21:10:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Microsoft raises $25b in 10-tranche bond offering. $MSFT",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9837509/Microsoft-raises-25b-in-10-tranche-bond-offering-MSFT.aspx?xy=rss",
-      "published": "2026-11-04T21:03:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: MOC Imbalance",
-      "summary": "S&amp;P 500: -736 mln<br />Nasdaq 100: -1111 mln<br />Dow 30: -1532 mln<br />Mag 7: -1711 mln",
-      "link": "https://www.financialjuice.com/News/9837492/MOC-Imbalance.aspx?xy=rss",
-      "published": "2026-11-04T20:50:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: If I took tariffs off? We have 3,000 plants under construction right now. Every single plant would stop building, right?”- CNBC",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9837475/Trump-If-I-took-tariffs-off-We-have-3000-plants-under-construction-right-now-Every-single-plant-would-stop-building-right--CNBC.aspx?xy=rss",
-      "published": "2026-11-04T20:33:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump precludes the possibility of paring back his tariffs - CNBC",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9837474/Trump-precludes-the-possibility-of-paring-back-his-tariffs---CNBC.aspx?xy=rss",
-      "published": "2026-11-04T20:33:12+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump declined to comment about the credit card rate cap - CNBC.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9837473/Trump-declined-to-comment-about-the-credit-card-rate-cap---CNBC.aspx?xy=rss",
-      "published": "2026-11-04T20:32:29+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: ‘Financial ideas' would be 'mutually good' - CNBC",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9837470/Trump-Financial-ideas-would-be-mutually-good---CNBC.aspx?xy=rss",
-      "published": "2026-11-04T20:31:19+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Can work with Democrats on ‘financial ideas': CNBC",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9837464/Trump-Can-work-with-Democrats-on-financial-ideas-CNBC.aspx?xy=rss",
-      "published": "2026-11-04T20:30:37+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Thursday FX Options Expiries",
-      "summary": "<ul><li><strong>EUR/USD:</strong> 1.1200 (EU3.06b), 1.1100 (EU2.03b), 1.1350 (EU1.84b)</li><li><strong>USD/JPY: </strong>157.00 ($1.83b), 150.00 ($1.09b), 146.25 ($936m)</li><li><strong>USD/BRL: </strong>5.0000 ($700m), 5.3280 ($623.6m), 4.7160 ($510m)</li><li><strong>AUD/USD:</strong> 0.6950 (AUD660.3m), 0.7070 (AUD572.8m), 0.7000 (AUD567.4m)</li><li><strong>GBP/USD: </strong>1.3275 (GBP904.2m), ",
-      "link": "https://www.financialjuice.com/News/9837460/Thursday-FX-Options-Expiries.aspx?xy=rss",
-      "published": "2026-11-04T20:22:24+00:00",
+      "link": "https://www.financialjuice.com/News/9837744/Japan-SP-Global-October-services-PMI-at-517-vs-flash-520.aspx?xy=rss",
+      "published": "2026-11-05T00:30:04+00:00",
       "score": 1
     },
     {
