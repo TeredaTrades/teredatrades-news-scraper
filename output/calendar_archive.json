@@ -1,101 +1,5 @@
 [
   {
-    "title": "IMF Meetings",
-    "country": "All",
-    "date": "2026-10-18T10:15:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "BusinessNZ Services Index",
-    "country": "NZD",
-    "date": "2026-10-18T17:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "51.2"
-  },
-  {
-    "title": "Trade Balance",
-    "country": "NZD",
-    "date": "2026-10-18T17:45:00-04:00",
-    "impact": "Low",
-    "forecast": "-775M",
-    "previous": "-1349M"
-  },
-  {
-    "title": "Rightmove HPI m/m",
-    "country": "GBP",
-    "date": "2026-10-18T19:01:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.7%"
-  },
-  {
-    "title": "RBA Assist Gov Kent Speaks",
-    "country": "AUD",
-    "date": "2026-10-18T19:05:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "New Home Prices m/m",
-    "country": "CNY",
-    "date": "2026-10-18T21:30:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-0.17%"
-  },
-  {
-    "title": "Fixed Asset Investment ytd/y",
-    "country": "CNY",
-    "date": "2026-10-18T22:00:00-04:00",
-    "impact": "Low",
-    "forecast": "-7.3%",
-    "previous": "-7.2%"
-  },
-  {
-    "title": "GDP q/y",
-    "country": "CNY",
-    "date": "2026-10-18T22:00:00-04:00",
-    "impact": "Low",
-    "forecast": "4.4%",
-    "previous": "4.3%"
-  },
-  {
-    "title": "Industrial Production y/y",
-    "country": "CNY",
-    "date": "2026-10-18T22:00:00-04:00",
-    "impact": "Low",
-    "forecast": "5.4%",
-    "previous": "5.2%"
-  },
-  {
-    "title": "NBS Press Conference",
-    "country": "CNY",
-    "date": "2026-10-18T22:00:00-04:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Retail Sales y/y",
-    "country": "CNY",
-    "date": "2026-10-18T22:00:00-04:00",
-    "impact": "Low",
-    "forecast": "0.5%",
-    "previous": "0.4%"
-  },
-  {
-    "title": "Unemployment Rate",
-    "country": "CNY",
-    "date": "2026-10-18T22:00:00-04:00",
-    "impact": "Low",
-    "forecast": "5.3%",
-    "previous": "5.3%"
-  },
-  {
     "title": "Tertiary Industry Activity m/m",
     "country": "JPY",
     "date": "2026-10-19T00:30:00-04:00",
@@ -2830,6 +2734,22 @@
     "impact": "Medium",
     "forecast": "",
     "previous": ""
+  },
+  {
+    "title": "M2 Money Supply y/y",
+    "country": "CNY",
+    "date": "2026-11-10T04:03:00-05:00",
+    "impact": "Low",
+    "forecast": "7.3%",
+    "previous": "7.2%"
+  },
+  {
+    "title": "New Loans",
+    "country": "CNY",
+    "date": "2026-11-10T04:03:00-05:00",
+    "impact": "Low",
+    "forecast": "80B",
+    "previous": "1080B"
   },
   {
     "title": "NFIB Small Business Index",
