@@ -1,95 +1,23 @@
 {
-  "updated_at": "2026-11-09T20:47:11.972508+00:00",
-  "count": 35,
+  "updated_at": "2026-11-10T03:16:54.625750+00:00",
+  "count": 26,
   "items": [
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China insists Trump-Xi-Putin summit follow scripted format, sources say - WSJ",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9843938/China-insists-Trump-Xi-Putin-summit-follow-scripted-format-sources-say---WSJ.aspx?xy=rss",
-      "published": "2026-11-09T20:37:52+00:00",
-      "score": 1
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "XAUUSD",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xs4ixr/xauusd/\"> <img alt=\"XAUUSD\" src=\"https://preview.redd.it/j6wicatmon0i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1e69f22789e546d6e12809baecdc9053e7e1f1e\" title=\"XAUUSD\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Slow and steady </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.c",
+      "link": "https://www.reddit.com/r/Forex/comments/1xs4ixr/xauusd/",
+      "published": "2026-11-09T21:35:53+00:00",
+      "score": 3
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US Democrat House Majority Leader Jeffries asked about Nvidia: There are real concerns to address $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9843927/US-Democrat-House-Majority-Leader-Jeffries-asked-about-Nvidia-There-are-real-concerns-to-address-NVDA.aspx?xy=rss",
-      "published": "2026-11-09T20:29:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: The Abu Dhabi talks this week on Ukraine present a chance of a possible breakthrough.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9843926/Trump-The-Abu-Dhabi-talks-this-week-on-Ukraine-present-a-chance-of-a-possible-breakthrough.aspx?xy=rss",
-      "published": "2026-11-09T20:22:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Tuesday FX Options Expiries",
-      "summary": "<ul><li><strong>EUR/USD:</strong> 1.1250 (EU1.84b), 1.1165 (EU1.47b), 1.1900 (EU937.8m)</li><li><strong>USD/JPY: </strong>156.50 ($1.51b), 146.00 ($1.16b), 154.00 ($974m)</li><li><strong>AUD/USD: </strong>0.6925 (AUD630m), 0.6800 (AUD377m), 0.6550 (AUD310m)</li><li><strong>USD/BRL:</strong> 5.0500 ($495.1m), 5.4850 ($330.7m), 4.8500 ($325m)</li><li><strong>USD/CAD:</strong> 1.4125 ($432.3m)</li><l",
-      "link": "https://www.financialjuice.com/News/9843925/Tuesday-FX-Options-Expiries.aspx?xy=rss",
-      "published": "2026-11-09T20:22:33+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump defends Pentagon Chief Hegseth against impeachment efforts: He won two wars.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9843924/Trump-defends-Pentagon-Chief-Hegseth-against-impeachment-efforts-He-won-two-wars.aspx?xy=rss",
-      "published": "2026-11-09T20:21:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump after talks with the Gatari leader: Qatar would rather see a peaceful solution with Iran, but the US is ready for strikes if necessary",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9843923/Trump-after-talks-with-the-Gatari-leader-Qatar-would-rather-see-a-peaceful-solution-with-Iran-but-the-US-is-ready-for-strikes-if-necessary.aspx?xy=rss",
-      "published": "2026-11-09T20:18:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Saudi Arabia would also prefer a peaceful solution to the Iran conflict.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9843922/Trump-Saudi-Arabia-would-also-prefer-a-peaceful-solution-to-the-Iran-conflict.aspx?xy=rss",
-      "published": "2026-11-09T20:18:45+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Nvidia's CEO Huang is scheduled to attend Semafor’s Silicon Valley & The World - Source. $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9843904/Nvidias-CEO-Huang-is-scheduled-to-attend-Semafors-Silicon-Valley--The-World---Source-NVDA.aspx?xy=rss",
-      "published": "2026-11-09T20:04:09+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Anthropic to launch marketing of NASDAQ IPO on Tuesday - IFR.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9843888/Anthropic-to-launch-marketing-of-NASDAQ-IPO-on-Tuesday---IFR.aspx?xy=rss",
-      "published": "2026-11-09T19:59:24+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Diplomat: Trump and Qatar's PM talks were positive - Axios.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9843887/Diplomat-Trump-and-Qatars-PM-talks-were-positive---Axios.aspx?xy=rss",
-      "published": "2026-11-09T19:57:40+00:00",
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+      "published": "2026-11-09T21:00:00+00:00",
       "score": 1
     },
     {
@@ -305,15 +233,6 @@
       "title": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
       "summary": "Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm",
-      "published": "2026-09-18T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-      "summary": "Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm",
       "published": "2026-09-18T15:00:00+00:00",
       "score": 1
     }
