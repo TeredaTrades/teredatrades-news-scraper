@@ -1,77 +1,41 @@
 {
-  "updated_at": "2026-11-11T05:25:30.502120+00:00",
-  "count": 36,
+  "updated_at": "2026-11-11T12:53:32.492440+00:00",
+  "count": 31,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Chinese university with military links bought Nvidia H200 chips last month despite US blacklist, procurement records show",
+      "title": "FinancialJuice: Nvidia removed as top pick at Morgan Stanley; keeps overweight $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9846559/Chinese-university-with-military-links-bought-Nvidia-H200-chips-last-month-despite-US-blacklist-procurement-records-show.aspx?xy=rss",
-      "published": "2026-11-11T05:13:28+00:00",
+      "link": "https://www.financialjuice.com/News/9847105/Nvidia-removed-as-top-pick-at-Morgan-Stanley-keeps-overweight-NVDA.aspx?xy=rss",
+      "published": "2026-11-11T12:09:31+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Chinese university linked to military acquired Nvidia H200 chips last month despite US blacklist, procurement records show",
+      "title": "FinancialJuice: ECB's Makhlouf: Upside risks to inflation remain.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9846558/Chinese-university-linked-to-military-acquired-Nvidia-H200-chips-last-month-despite-US-blacklist-procurement-records-show.aspx?xy=rss",
-      "published": "2026-11-11T05:07:05+00:00",
+      "link": "https://www.financialjuice.com/News/9847083/ECBs-Makhlouf-Upside-risks-to-inflation-remain.aspx?xy=rss",
+      "published": "2026-11-11T12:00:34+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: China finance ministry offers 2-month bills at 1.0506% yield: traders",
+      "title": "FinancialJuice: ECB’s Makhlouf: Financing conditions tighter after yields rose",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9846468/China-finance-ministry-offers-2-month-bills-at-10506-yield-traders.aspx?xy=rss",
-      "published": "2026-11-11T03:39:53+00:00",
+      "link": "https://www.financialjuice.com/News/9847082/ECBs-Makhlouf-Financing-conditions-tighter-after-yields-rose.aspx?xy=rss",
+      "published": "2026-11-11T12:00:29+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Republican US Senator Kevin Cramer from Senate Banking Committee urges Nvidia CEO to resign: Politico",
+      "title": "FinancialJuice: Nvidia PT cut to $200 from $500 at Baird; downgrade to neutral $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9846436/Republican-US-Senator-Kevin-Cramer-from-Senate-Banking-Committee-urges-Nvidia-CEO-to-resign-Politico.aspx?xy=rss",
-      "published": "2026-11-11T02:54:58+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Japan PM Takaichi: Expect BoJ to implement suitable monetary policy to sustainably reach 2% inflation goal",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9846324/Japan-PM-Takaichi-Expect-BoJ-to-implement-suitable-monetary-policy-to-sustainably-reach-2-inflation-goal.aspx?xy=rss",
-      "published": "2026-11-11T01:49:30+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Japan PM Takaichi: No intention to adopt fiscal measures that could cause high inflation",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9846323/Japan-PM-Takaichi-No-intention-to-adopt-fiscal-measures-that-could-cause-high-inflation.aspx?xy=rss",
-      "published": "2026-11-11T01:48:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: S.Korea central bank: sells 2-year monetary stabilisation bonds yielding 3.720%",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9846307/SKorea-central-bank-sells-2-year-monetary-stabilisation-bonds-yielding-3720.aspx?xy=rss",
-      "published": "2026-11-11T01:40:03+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Apple: fixed problems with iCloud calendar, contacts, mail, iCloud, and game center - status page",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9846271/Apple-fixed-problems-with-iCloud-calendar-contacts-mail-iCloud-and-game-center---status-page.aspx?xy=rss",
-      "published": "2026-11-11T01:05:56+00:00",
+      "link": "https://www.financialjuice.com/News/9847074/Nvidia-PT-cut-to-200-from-500-at-Baird-downgrade-to-neutral-NVDA.aspx?xy=rss",
+      "published": "2026-11-11T11:47:53+00:00",
       "score": 1
     },
     {
@@ -162,15 +126,6 @@
       "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xrga03/how_much_weight_do_you_give_older_eurusd_data/\"> <img alt=\"How much weight do you give older EUR/USD data when testing a strategy?\" src=\"https://preview.redd.it/mcndred52i0i1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=d94b9a185057b428b745a6dd28142f0c27714225\" title=\"How much weight do you give older ",
       "link": "https://www.reddit.com/r/Forex/comments/1xrga03/how_much_weight_do_you_give_older_eurusd_data/",
       "published": "2026-11-09T02:41:02+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Gold next week analysis",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xquv52/gold_next_week_analysis/\"> <img alt=\"Gold next week analysis\" src=\"https://preview.redd.it/wjax7rga2d0i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa179533173b94c5a5ad6d182cfc4bb7c249a949\" title=\"Gold next week analysis\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Despite extremely bearish data on Friday, alg",
-      "link": "https://www.reddit.com/r/Forex/comments/1xquv52/gold_next_week_analysis/",
-      "published": "2026-11-08T09:52:50+00:00",
       "score": 1
     },
     {
