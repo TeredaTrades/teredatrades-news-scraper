@@ -1,50 +1,77 @@
 {
-  "updated_at": "2026-11-12T17:42:15.933933+00:00",
-  "count": 31,
+  "updated_at": "2026-11-12T22:52:29.266800+00:00",
+  "count": 32,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Democrats: We'll probe Nvidia chip export approvals - CNBC $NVDA",
+      "title": "FinancialJuice: NY Fed: The Federal Reserve did not intervene in FX markets during Q3; US Treasury purchased Japanese Yen in FX markets during the same period.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9849421/Democrats-Well-probe-Nvidia-chip-export-approvals---CNBC-NVDA.aspx?xy=rss",
-      "published": "2026-11-12T17:02:49+00:00",
+      "link": "https://www.financialjuice.com/News/9849750/NY-Fed-The-Federal-Reserve-did-not-intervene-in-FX-markets-during-Q3-US-Treasury-purchased-Japanese-Yen-in-FX-markets-during-the-same-period.aspx?xy=rss",
+      "published": "2026-11-12T21:03:27+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: The Fed updates the 2027 FOMC calendar, drops the October rate meeting",
+      "title": "FinancialJuice: Nvidia will continue investigation into former CEO and alleged Chinese spy - The Information. $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9849392/The-Fed-updates-the-2027-FOMC-calendar-drops-the-October-rate-meeting.aspx?xy=rss",
-      "published": "2026-11-12T16:59:10+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: Fed is failing on the inflation side of the mandate",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9849362/Feds-Goolsbee-Fed-is-failing-on-the-inflation-side-of-the-mandate.aspx?xy=rss",
-      "published": "2026-11-12T16:43:34+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: Do not want to prejudge what happens with monetary policy",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9849361/Feds-Goolsbee-Do-not-want-to-prejudge-what-happens-with-monetary-policy.aspx?xy=rss",
-      "published": "2026-11-12T16:43:16+00:00",
+      "link": "https://www.financialjuice.com/News/9849728/Nvidia-will-continue-investigation-into-former-CEO-and-alleged-Chinese-spy---The-Information-NVDA.aspx?xy=rss",
+      "published": "2026-11-12T20:53:38+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed's Goolsbee: Plenty of room for the Fed to discuss policy options",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: -86 mln<br />Nasdaq 100: +266 mln<br />Dow 30: -29 mln<br />Mag 7: -230 mln",
+      "link": "https://www.financialjuice.com/News/9849727/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-11-12T20:50:30+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump asked if military force is possible in Cuba: Would consider",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9849358/Feds-Goolsbee-Plenty-of-room-for-the-Fed-to-discuss-policy-options.aspx?xy=rss",
-      "published": "2026-11-12T16:41:35+00:00",
+      "link": "https://www.financialjuice.com/News/9849693/Trump-asked-if-military-force-is-possible-in-Cuba-Would-consider.aspx?xy=rss",
+      "published": "2026-11-12T20:31:03+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Trump: I would consider a week-long campaign against Cuba.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9849692/Trump-I-would-consider-a-week-long-campaign-against-Cuba.aspx?xy=rss",
+      "published": "2026-11-12T20:30:34+00:00",
+      "score": 1
+    },
+    {
+      "source": "r/Forex",
+      "category": "reddit",
+      "title": "Glad i took the risk of gold sell :)",
+      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xukrln/glad_i_took_the_risk_of_gold_sell/\"> <img alt=\"Glad i took the risk of gold sell :)\" src=\"https://preview.redd.it/lqlqom7o681i1.png?width=140&amp;height=87&amp;auto=webp&amp;s=3a1cfefc7d7a34bfd738bf67d889d5335f881275\" title=\"Glad i took the risk of gold sell :)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>it was a mi",
+      "link": "https://www.reddit.com/r/Forex/comments/1xukrln/glad_i_took_the_risk_of_gold_sell/",
+      "published": "2026-11-12T18:36:29+00:00",
+      "score": 2
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "published": "2026-11-12T18:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "published": "2026-11-12T17:45:00+00:00",
       "score": 1
     },
     {
@@ -261,24 +288,6 @@
       "summary": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
       "published": "2026-09-24T18:30:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-      "summary": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
-      "published": "2026-09-24T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-      "summary": "Federal Reserve Board announces approval of application by BancFirst Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
-      "published": "2026-09-22T20:30:00+00:00",
       "score": 1
     }
   ],
