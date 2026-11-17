@@ -1,168 +1,114 @@
 {
-  "updated_at": "2026-11-17T10:59:03.100726+00:00",
-  "count": 35,
+  "updated_at": "2026-11-17T19:44:58.851651+00:00",
+  "count": 29,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BofA FMS: Net 32% of respondents expect lower global CPI in 12 months.",
+      "title": "FinancialJuice: Fed's Williams: Fed will get inflation back to 2% in a timely manner.",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9855565/BofA-FMS-Net-32-of-respondents-expect-lower-global-CPI-in-12-months.aspx?xy=rss",
-      "published": "2026-11-17T10:55:01+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BofA FMS: 36% say 2027's best performing asset class to be international stocks, 24% US stocks, 17% gold",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9855564/BofA-FMS-36-say-2027s-best-performing-asset-class-to-be-international-stocks-24-US-stocks-17-gold.aspx?xy=rss",
-      "published": "2026-11-17T10:54:51+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump: Will press Xi and Putin to help bring an end to the Ukraine war",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9855561/Trump-Will-press-Xi-and-Putin-to-help-bring-an-end-to-the-Ukraine-war.aspx?xy=rss",
-      "published": "2026-11-17T10:51:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Deutsche Bank leak: It's illegal for them to do it",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9855560/Trump-on-Deutsche-Bank-leak-Its-illegal-for-them-to-do-it.aspx?xy=rss",
-      "published": "2026-11-17T10:51:08+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Iran: We take it very seriously; this is why they can't have a nuclear weapon",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9855557/Trump-on-Iran-We-take-it-very-seriously-this-is-why-they-cant-have-a-nuclear-weapon.aspx?xy=rss",
-      "published": "2026-11-17T10:50:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Kim Jong Un coming to APEC: he would like to. We'll see what happens",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9855556/Trump-on-Kim-Jong-Un-coming-to-APEC-he-would-like-to-Well-see-what-happens.aspx?xy=rss",
-      "published": "2026-11-17T10:49:55+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump, on Taiwan: I’m sure Xi will raise the issue",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9855555/Trump-on-Taiwan-Im-sure-Xi-will-raise-the-issue.aspx?xy=rss",
-      "published": "2026-11-17T10:49:26+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump, on China disagreements, has handled that very well. It’s two opinions",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9855554/Trump-on-China-disagreements-has-handled-that-very-well-Its-two-opinions.aspx?xy=rss",
-      "published": "2026-11-17T10:48:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on separate bilateral with Putin: I would if available",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9855553/Trump-on-separate-bilateral-with-Putin-I-would-if-available.aspx?xy=rss",
-      "published": "2026-11-17T10:48:07+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump on Nvidia: Good idea they launched the national security initiative $NVDA",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9855552/Trump-on-Nvidia-Good-idea-they-launched-the-national-security-initiative-NVDA.aspx?xy=rss",
-      "published": "2026-11-17T10:47:45+00:00",
+      "link": "https://www.financialjuice.com/News/9856386/Feds-Williams-Fed-will-get-inflation-back-to-2-in-a-timely-manner.aspx?xy=rss",
+      "published": "2026-11-17T19:44:34+00:00",
       "score": 2
     },
     {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Accidentally overlapped EURUSD positions across two FTMO accounts. Anyone been through this?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>I accidentally had overlapping EURUSD positions on two of my accounts, a funded one and a Challenge. </p> <p>I'd opened a large buy on the Challenge account the night before and forgot it was still open. About 17 hours later I opened a much smaller sell (under 1 lot vs. 10 lots) on the funded account. I noticed within a couple of minutes and closed",
-      "link": "https://www.reddit.com/r/Forex/comments/1xyg7d4/accidentally_overlapped_eurusd_positions_across/",
-      "published": "2026-11-17T09:36:38+00:00",
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: Cyber security issues continue to be an area of worry.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9856383/Feds-Williams-Cyber-security-issues-continue-to-be-an-area-of-worry.aspx?xy=rss",
+      "published": "2026-11-17T19:41:07+00:00",
       "score": 1
     },
     {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Backtested 2 years of my strategy (2.00 Profit Factor, 31% WR) — looking for feedbacks",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xy9v0j/backtested_2_years_of_my_strategy_200_profit/\"> <img alt=\"Backtested 2 years of my strategy (2.00 Profit Factor, 31% WR) — looking for feedbacks\" src=\"https://preview.redd.it/vtcoq4bdd32i1.png?width=140&amp;height=19&amp;auto=webp&amp;s=17c5bcebca8cfc560e14ffe3e013a0ec5de55f55\" title=\"Backtested 2 years of my strategy (2.00 ",
-      "link": "https://www.reddit.com/r/Forex/comments/1xy9v0j/backtested_2_years_of_my_strategy_200_profit/",
-      "published": "2026-11-17T03:26:01+00:00",
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: Demand clearly winning the race with supply.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9856382/Feds-Williams-Demand-clearly-winning-the-race-with-supply.aspx?xy=rss",
+      "published": "2026-11-17T19:40:17+00:00",
       "score": 1
     },
     {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "How do you handle open trades before high-impact news?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Curious how people here deal with positions that are still open when a big release is coming, like NFP, CPI or a rate decision.</p> <ul> <li>Do you close everything before the release, or leave it with the stop where it is?</li> <li>Have you had a stop filled far past its level during news, and did that change how you trade it?</li> <li>Do you widen the stop, cut ",
-      "link": "https://www.reddit.com/r/Forex/comments/1xy9qbq/how_do_you_handle_open_trades_before_highimpact/",
-      "published": "2026-11-17T03:19:48+00:00",
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: I don't yet see financial stability risk from AI",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9856381/Feds-Williams-I-dont-yet-see-financial-stability-risk-from-AI.aspx?xy=rss",
+      "published": "2026-11-17T19:36:08+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: Financial markets are functioning very well.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9856380/Feds-Williams-Financial-markets-are-functioning-very-well.aspx?xy=rss",
+      "published": "2026-11-17T19:35:12+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: We're seeing more opaque and complex financing of AI",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9856379/Feds-Williams-Were-seeing-more-opaque-and-complex-financing-of-AI.aspx?xy=rss",
+      "published": "2026-11-17T19:33:57+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: We have seen a bit of normalization of financial conditions.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9856378/Feds-Williams-We-have-seen-a-bit-of-normalization-of-financial-conditions.aspx?xy=rss",
+      "published": "2026-11-17T19:33:20+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: Financial conditions are still pretty supportive of growth.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9856376/Feds-Williams-Financial-conditions-are-still-pretty-supportive-of-growth.aspx?xy=rss",
+      "published": "2026-11-17T19:32:16+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: Tariffs are mostly behind us.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9856369/Feds-Williams-Tariffs-are-mostly-behind-us.aspx?xy=rss",
+      "published": "2026-11-17T19:30:45+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google: Aren’t currently seeing evidence of a broad Gmail service disruption. $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9856361/Google-Arent-currently-seeing-evidence-of-a-broad-Gmail-service-disruption-GOOGL.aspx?xy=rss",
+      "published": "2026-11-17T19:28:06+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: I don't think the situation calls for dramatic policy action.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9856359/Feds-Williams-I-dont-think-the-situation-calls-for-dramatic-policy-action.aspx?xy=rss",
+      "published": "2026-11-17T19:27:05+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Williams: Tariffs and energy shock still affecting inflation readings.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9856358/Feds-Williams-Tariffs-and-energy-shock-still-affecting-inflation-readings.aspx?xy=rss",
+      "published": "2026-11-17T19:26:39+00:00",
       "score": 2
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Passed Phase 2 of $100K Prop Firm Account",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xxvkbs/passed_phase_2_of_100k_prop_firm_account/\"> <img alt=\"Passed Phase 2 of $100K Prop Firm Account\" src=\"https://preview.redd.it/gsmzrh6lf02i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8fd1ad037482fed836bc1263e553de619911e7a\" title=\"Passed Phase 2 of $100K Prop Firm Account\" /> </a> </td><td> <!-- SC_OFF --><div class=\"",
-      "link": "https://www.reddit.com/r/Forex/comments/1xxvkbs/passed_phase_2_of_100k_prop_firm_account/",
-      "published": "2026-11-16T17:32:39+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Trading broke how I see my salary, anyone else?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>I work in a warehouse near Wroclaw, 8 hour shifts, and trade metals(XAU/XAG) on the side.</p> <p>At some point I started to count everything in pips. New shoes are 9 pips on one lot of EURUSD. Dinner with my girlfriend is half a stop loss.</p> <p>Recently it got weird. On my lunch break I opened my broker app, my gold long hit TP and paid $180. Then I went back an",
-      "link": "https://www.reddit.com/r/Forex/comments/1xxu5qf/trading_broke_how_i_see_my_salary_anyone_else/",
-      "published": "2026-11-16T16:41:15+00:00",
-      "score": 6
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "EURUSD Forecast",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Forex/comments/1xx8kt1/eurusd_forecast/\"> <img alt=\"EURUSD Forecast\" src=\"https://preview.redd.it/tfwuibvvpu1i1.jpeg?width=140&amp;height=47&amp;auto=webp&amp;s=32c9b5c1e29d5a677f636e304cac3882853724f4\" title=\"EURUSD Forecast\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>interpentration &amp; Scenario in next image</p> </div><!-- SC_ON --> ",
-      "link": "https://www.reddit.com/r/Forex/comments/1xx8kt1/eurusd_forecast/",
-      "published": "2026-11-15T22:23:15+00:00",
-      "score": 1
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "Brokers for news trading",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>Like title said , what broker are best for news gambling nfp cpi etc .</p> <p>High leverage during news<br /> Fast execution when closing during spike </p> <p>Any recommendations? </p> <p>Mainly for XAUUSD</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Dry-Bathroom-5770\"> /u/Dry-Bathroom-5770 </a> <br /> <span><a href=\"https",
-      "link": "https://www.reddit.com/r/Forex/comments/1xx108z/brokers_for_news_trading/",
-      "published": "2026-11-15T17:16:57+00:00",
-      "score": 5
-    },
-    {
-      "source": "r/Forex",
-      "category": "reddit",
-      "title": "yen is back where tokyo stepped in over the summer, but this time its the fed doing the pushing. does intervention even work in that setup?",
-      "summary": "<!-- SC_OFF --><div class=\"md\"><p>so usdjpy went right back to the zone where the MoF went in hard this summer. last monday they actually published the numbers, 15.4 trillion yen spent july through september, including a record single day on july 30 and then the joint thing with the US the next day, first coordinated yen buying since 1998. and here we are again a few months later lol</p> <p>whats ",
-      "link": "https://www.reddit.com/r/Forex/comments/1xwtlqf/yen_is_back_where_tokyo_stepped_in_over_the/",
-      "published": "2026-11-15T11:51:05+00:00",
-      "score": 6
     },
     {
       "source": "Federal Reserve",
