@@ -1,104 +1,149 @@
 {
-  "updated_at": "2026-11-18T09:52:16.470004+00:00",
-  "count": 28,
+  "updated_at": "2026-11-18T18:42:39.699135+00:00",
+  "count": 33,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: ING: The EUR - FJElite",
-      "summary": "<div>Despite some seemingly better news out of France yesterday, EUR/USD continues to trade below 1.10 as the dollar story dominates. The FX options market suggests investors are yet to lean into much further EUR/USD downside from here. For example, one-month EUR/USD traded volatility has not moved much, while the price of a one-month risk reversal - the price of a euro put over a euro call option",
-      "link": "https://www.financialjuice.com/News/9857540/ING-The-EUR---FJElite.aspx?xy=rss",
-      "published": "2026-11-18T09:51:46+00:00",
+      "title": "FinancialJuice: Bank of Canada's Gravelle: Energy price inflation spreading",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9858382/Bank-of-Canadas-Gravelle-Energy-price-inflation-spreading.aspx?xy=rss",
+      "published": "2026-11-18T18:38:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barr: Economy strong with low unemployment",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9858381/Feds-Barr-Economy-strong-with-low-unemployment.aspx?xy=rss",
+      "published": "2026-11-18T18:35:56+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barr: Will watch data to determine the Fed's next move",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9858380/Feds-Barr-Will-watch-data-to-determine-the-Feds-next-move.aspx?xy=rss",
+      "published": "2026-11-18T18:35:46+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Barr: Critical for the Fed to lower inflation to 2% ‘in a timely way\"",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9858379/Feds-Barr-Critical-for-the-Fed-to-lower-inflation-to-2-in-a-timely-way.aspx?xy=rss",
+      "published": "2026-11-18T18:35:36+00:00",
       "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: ING: The GBP - FJElite",
-      "summary": "<div>EUR/GBP has corrected a little higher this European morning as the latest services inflation data for October came in slightly below expectations at 3.7% year-on-year. We doubt that is enough to trigger a wholesale re-pricing of the UK money market curve, although lower energy prices may be playing a greater role here today.</div><div><br /></div><div>In our 2027 FX Outlook, we have a 0.83 fo",
-      "link": "https://www.financialjuice.com/News/9857539/ING-The-GBP---FJElite.aspx?xy=rss",
-      "published": "2026-11-18T09:51:17+00:00",
+      "title": "FinancialJuice: Fed's Barr: Inflation is ‘too high’ and pressuring many families",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9858378/Feds-Barr-Inflation-is-too-high-and-pressuring-many-families.aspx?xy=rss",
+      "published": "2026-11-18T18:35:29+00:00",
       "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Credit Ágricole: FX Risk - FJElite",
-      "summary": "<div>Despite Nvidia’s earnings and forecast earnings surprising to the upside, technology stocks remain under pressure. The US’s new restrictions on access to advanced chips physically as well as via remote access are worrying investors.</div><div><br /></div><div>Data centre operators in Singapore, Malaysia, Thailand, Indonesia and Brazil must obtain a US government license before allowing Chines",
-      "link": "https://www.financialjuice.com/News/9857538/Credit-%c3%81gricole-FX-Risk---FJElite.aspx?xy=rss",
-      "published": "2026-11-18T09:48:37+00:00",
-      "score": 5
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Kremlin: Putin, trump will have conversation - IFX",
+      "title": "FinancialJuice: Fed's Barr: Support raising rates further if the economy performs as expected",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9857490/Kremlin-Putin-trump-will-have-conversation---IFX.aspx?xy=rss",
-      "published": "2026-11-18T09:26:35+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Europe Sentiment: NVIDIA Has \"Got This\" - FJElite",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9857488/Europe-Sentiment-NVIDIA-Has-Got-This---FJElite.aspx?xy=rss",
-      "published": "2026-11-18T09:22:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China's Xi embraces Trump on tarmac ahead of APEC summit",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9857465/Chinas-Xi-embraces-Trump-on-tarmac-ahead-of-APEC-summit.aspx?xy=rss",
-      "published": "2026-11-18T09:05:52+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China's Xi to greet Trump at APEC summit arrival",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9857463/Chinas-Xi-to-greet-Trump-at-APEC-summit-arrival.aspx?xy=rss",
-      "published": "2026-11-18T09:04:28+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: China's Xi welcomes Trump at airport",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9857462/Chinas-Xi-welcomes-Trump-at-airport.aspx?xy=rss",
-      "published": "2026-11-18T09:04:17+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: Trump to arrive in Shenzhen - State media",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9857394/Trump-to-arrive-in-Shenzhen---State-media.aspx?xy=rss",
-      "published": "2026-11-18T08:22:14+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoE on Wednesday's UK inflation data: Will continue to set interest rates to make sure inflation returns to the 2% target and stays there",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9857393/BoE-on-Wednesdays-UK-inflation-data-Will-continue-to-set-interest-rates-to-make-sure-inflation-returns-to-the-2-target-and-stays-there.aspx?xy=rss",
-      "published": "2026-11-18T08:20:26+00:00",
+      "link": "https://www.financialjuice.com/News/9858377/Feds-Barr-Support-raising-rates-further-if-the-economy-performs-as-expected.aspx?xy=rss",
+      "published": "2026-11-18T18:35:21+00:00",
       "score": 2
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BoE on Wednesday's UK inflation data: Inflation is expected to rise further by the middle of next year due to cost pressures already in the pipeline - Statement",
+      "title": "FinancialJuice: Arm's Haas was approached by Nvidia's recruiting firm $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9857392/BoE-on-Wednesdays-UK-inflation-data-Inflation-is-expected-to-rise-further-by-the-middle-of-next-year-due-to-cost-pressures-already-in-the-pipeline---Statement.aspx?xy=rss",
-      "published": "2026-11-18T08:19:35+00:00",
+      "link": "https://www.financialjuice.com/News/9858376/Arms-Haas-was-approached-by-Nvidias-recruiting-firm-NVDA.aspx?xy=rss",
+      "published": "2026-11-18T18:34:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google: Genie 4 is now available $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9858346/Google-Genie-4-is-now-available-GOOGL.aspx?xy=rss",
+      "published": "2026-11-18T18:16:55+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 20-Year Bond Auction",
+      "summary": "<ul><li>High Yield 5.459% [On the Screws]</li><li>Bid-to-cover 2.63</li><li>Sells $16 bln</li><li>Awards 70.87% of bids at the high</li><li>Primary Dealers take 13.1%</li><li>Direct 26.7%</li><li>Indirect 60.2%</li></ul>",
+      "link": "https://www.financialjuice.com/News/9858335/US-20-Year-Bond-Auction.aspx?xy=rss",
+      "published": "2026-11-18T18:03:40+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US 20-Year Bond High Yield Actual 5.459% (Forecast -, Previous 5.469%)",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9858333/US-20-Year-Bond-High-Yield-Actual-5459-Forecast---Previous-5469.aspx?xy=rss",
+      "published": "2026-11-18T18:02:07+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Treasury WI 20-Year yield 5.459% before $16 billion auction",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9858332/Treasury-WI-20-Year-yield-5459-before-16-billion-auction.aspx?xy=rss",
+      "published": "2026-11-18T18:00:27+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Fed's Daly: Inflation is high, but i am uncertain how it will evolve.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9858327/Feds-Daly-Inflation-is-high-but-i-am-uncertain-how-it-will-evolve.aspx?xy=rss",
+      "published": "2026-11-18T17:48:48+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Google makes the Gemini app available on lower-memory Androids. $GOOGL",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9858307/Google-makes-the-Gemini-app-available-on-lower-memory-Androids-GOOGL.aspx?xy=rss",
+      "published": "2026-11-18T17:40:23+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoC’s Dep. Gov. Gravelle: That decision helps keep inflation in check and reduces barriers to getting it back to target.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9858292/BoCs-Dep-Gov-Gravelle-That-decision-helps-keep-inflation-in-check-and-reduces-barriers-to-getting-it-back-to-target.aspx?xy=rss",
+      "published": "2026-11-18T17:31:29+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoC’s Dep. Gov. Gravelle: If businesses expect the BoC will get inflation back down to 2%, they are less likely to build higher inflation into their prices.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9858291/BoCs-Dep-Gov-Gravelle-If-businesses-expect-the-BoC-will-get-inflation-back-down-to-2-they-are-less-likely-to-build-higher-inflation-into-their-prices.aspx?xy=rss",
+      "published": "2026-11-18T17:31:25+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoC’s Dep. Gov. Gravelle: If inflation expectations are anchored, that makes monetary policy more effective.",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9858290/BoCs-Dep-Gov-Gravelle-If-inflation-expectations-are-anchored-that-makes-monetary-policy-more-effective.aspx?xy=rss",
+      "published": "2026-11-18T17:31:09+00:00",
       "score": 1
     },
     {
