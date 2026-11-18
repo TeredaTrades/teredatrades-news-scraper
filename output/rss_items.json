@@ -1,77 +1,261 @@
 {
-  "updated_at": "2026-11-18T01:53:17.050839+00:00",
-  "count": 7,
+  "updated_at": "2026-11-18T09:52:16.470004+00:00",
+  "count": 28,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BoJ Governor Ueda: long-term rates may rise if central bank appears to back fiscal policy via bond buying",
+      "title": "FinancialJuice: ING: The EUR - FJElite",
+      "summary": "<div>Despite some seemingly better news out of France yesterday, EUR/USD continues to trade below 1.10 as the dollar story dominates. The FX options market suggests investors are yet to lean into much further EUR/USD downside from here. For example, one-month EUR/USD traded volatility has not moved much, while the price of a one-month risk reversal - the price of a euro put over a euro call option",
+      "link": "https://www.financialjuice.com/News/9857540/ING-The-EUR---FJElite.aspx?xy=rss",
+      "published": "2026-11-18T09:51:46+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: ING: The GBP - FJElite",
+      "summary": "<div>EUR/GBP has corrected a little higher this European morning as the latest services inflation data for October came in slightly below expectations at 3.7% year-on-year. We doubt that is enough to trigger a wholesale re-pricing of the UK money market curve, although lower energy prices may be playing a greater role here today.</div><div><br /></div><div>In our 2027 FX Outlook, we have a 0.83 fo",
+      "link": "https://www.financialjuice.com/News/9857539/ING-The-GBP---FJElite.aspx?xy=rss",
+      "published": "2026-11-18T09:51:17+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Credit Ágricole: FX Risk - FJElite",
+      "summary": "<div>Despite Nvidia’s earnings and forecast earnings surprising to the upside, technology stocks remain under pressure. The US’s new restrictions on access to advanced chips physically as well as via remote access are worrying investors.</div><div><br /></div><div>Data centre operators in Singapore, Malaysia, Thailand, Indonesia and Brazil must obtain a US government license before allowing Chines",
+      "link": "https://www.financialjuice.com/News/9857538/Credit-%c3%81gricole-FX-Risk---FJElite.aspx?xy=rss",
+      "published": "2026-11-18T09:48:37+00:00",
+      "score": 5
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Kremlin: Putin, trump will have conversation - IFX",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9856827/BoJ-Governor-Ueda-long-term-rates-may-rise-if-central-bank-appears-to-back-fiscal-policy-via-bond-buying.aspx?xy=rss",
-      "published": "2026-11-18T01:22:15+00:00",
+      "link": "https://www.financialjuice.com/News/9857490/Kremlin-Putin-trump-will-have-conversation---IFX.aspx?xy=rss",
+      "published": "2026-11-18T09:26:35+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BoJ governor Ueda: in rare cases when long-term rates spike disproportionately, we carry out flexible operations",
+      "title": "FinancialJuice: Europe Sentiment: NVIDIA Has \"Got This\" - FJElite",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9856825/BoJ-governor-Ueda-in-rare-cases-when-long-term-rates-spike-disproportionately-we-carry-out-flexible-operations.aspx?xy=rss",
-      "published": "2026-11-18T01:20:42+00:00",
+      "link": "https://www.financialjuice.com/News/9857488/Europe-Sentiment-NVIDIA-Has-Got-This---FJElite.aspx?xy=rss",
+      "published": "2026-11-18T09:22:52+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BoJ Governor Ueda: long-term interest rates set by markets",
+      "title": "FinancialJuice: China's Xi embraces Trump on tarmac ahead of APEC summit",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9856824/BoJ-Governor-Ueda-long-term-interest-rates-set-by-markets.aspx?xy=rss",
-      "published": "2026-11-18T01:19:24+00:00",
+      "link": "https://www.financialjuice.com/News/9857465/Chinas-Xi-embraces-Trump-on-tarmac-ahead-of-APEC-summit.aspx?xy=rss",
+      "published": "2026-11-18T09:05:52+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: US Secretary of State Rubio: Trump meeting with North Korea's Kim a significant proposal",
+      "title": "FinancialJuice: China's Xi to greet Trump at APEC summit arrival",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9856810/US-Secretary-of-State-Rubio-Trump-meeting-with-North-Koreas-Kim-a-significant-proposal.aspx?xy=rss",
-      "published": "2026-11-18T01:16:30+00:00",
+      "link": "https://www.financialjuice.com/News/9857463/Chinas-Xi-to-greet-Trump-at-APEC-summit-arrival.aspx?xy=rss",
+      "published": "2026-11-18T09:04:28+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BoJ governor Ueda: will evaluate effect of food sales tax reduction on core inflation and apply suitable monetary policy accordingly",
+      "title": "FinancialJuice: China's Xi welcomes Trump at airport",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9856809/BoJ-governor-Ueda-will-evaluate-effect-of-food-sales-tax-reduction-on-core-inflation-and-apply-suitable-monetary-policy-accordingly.aspx?xy=rss",
-      "published": "2026-11-18T01:16:02+00:00",
+      "link": "https://www.financialjuice.com/News/9857462/Chinas-Xi-welcomes-Trump-at-airport.aspx?xy=rss",
+      "published": "2026-11-18T09:04:17+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BoJ Governor Ueda: impact of food sales tax on economy and core inflation is highly uncertain now",
+      "title": "FinancialJuice: Trump to arrive in Shenzhen - State media",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9856805/BoJ-Governor-Ueda-impact-of-food-sales-tax-on-economy-and-core-inflation-is-highly-uncertain-now.aspx?xy=rss",
-      "published": "2026-11-18T01:13:22+00:00",
+      "link": "https://www.financialjuice.com/News/9857394/Trump-to-arrive-in-Shenzhen---State-media.aspx?xy=rss",
+      "published": "2026-11-18T08:22:14+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: BoJ Governor Ueda: crucial to ensure inflation stays near 2%",
+      "title": "FinancialJuice: BoE on Wednesday's UK inflation data: Will continue to set interest rates to make sure inflation returns to the 2% target and stays there",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9856799/BoJ-Governor-Ueda-crucial-to-ensure-inflation-stays-near-2.aspx?xy=rss",
-      "published": "2026-11-18T01:07:10+00:00",
+      "link": "https://www.financialjuice.com/News/9857393/BoE-on-Wednesdays-UK-inflation-data-Will-continue-to-set-interest-rates-to-make-sure-inflation-returns-to-the-2-target-and-stays-there.aspx?xy=rss",
+      "published": "2026-11-18T08:20:26+00:00",
+      "score": 2
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: BoE on Wednesday's UK inflation data: Inflation is expected to rise further by the middle of next year due to cost pressures already in the pipeline - Statement",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9857392/BoE-on-Wednesdays-UK-inflation-data-Inflation-is-expected-to-rise-further-by-the-middle-of-next-year-due-to-cost-pressures-already-in-the-pipeline---Statement.aspx?xy=rss",
+      "published": "2026-11-18T08:19:35+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "published": "2026-11-12T18:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "published": "2026-11-12T17:45:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+      "published": "2026-11-12T16:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+      "published": "2026-11-09T21:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "summary": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+      "published": "2026-11-05T16:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "summary": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "published": "2026-10-29T20:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve issues FOMC statement",
+      "summary": "Federal Reserve issues FOMC statement",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "published": "2026-10-28T18:00:00+00:00",
+      "score": 2
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+      "published": "2026-10-16T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "published": "2026-10-09T14:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+      "published": "2026-10-08T20:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+      "published": "2026-10-07T18:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "summary": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+      "published": "2026-10-05T20:30:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+      "published": "2026-10-02T20:45:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+      "published": "2026-10-02T20:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "summary": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+      "published": "2026-10-02T15:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "summary": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+      "published": "2026-09-30T13:00:00+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "summary": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+      "published": "2026-09-25T20:30:00+00:00",
       "score": 1
     }
   ],
   "errors": [
-    {
-      "source": "Federal Reserve",
-      "type": "rss",
-      "error": "failed to parse feed (<unknown>:2:0: syntax error)"
-    },
     {
       "source": "FXStreet",
       "type": "rss",
