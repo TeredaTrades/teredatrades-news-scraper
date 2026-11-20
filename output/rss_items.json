@@ -1,32 +1,41 @@
 {
-  "updated_at": "2026-11-20T13:27:32.717142+00:00",
-  "count": 21,
+  "updated_at": "2026-11-20T21:28:13.188470+00:00",
+  "count": 20,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: Fed's Waller does not comment on monetary policy or economic outlook in prepared remarks to Fed college competition",
+      "title": "FinancialJuice: DXY CFTC Positions Week of November 17th - FJElite",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9861790/Feds-Waller-does-not-comment-on-monetary-policy-or-economic-outlook-in-prepared-remarks-to-Fed-college-competition.aspx?xy=rss",
-      "published": "2026-11-20T13:25:17+00:00",
+      "link": "https://www.financialjuice.com/News/9862477/DXY-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
+      "published": "2026-11-20T21:18:42+00:00",
+      "score": 1
+    },
+    {
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve announces College Fed Challenge winners",
+      "summary": "Federal Reserve announces College Fed Challenge winners",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+      "published": "2026-11-20T21:15:00+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: ECB's Nagel: Inflation expectations are well anchored.",
+      "title": "FinancialJuice: Gold CFTC Positions Week of November 17th - FJElite",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9861788/ECBs-Nagel-Inflation-expectations-are-well-anchored.aspx?xy=rss",
-      "published": "2026-11-20T13:24:40+00:00",
+      "link": "https://www.financialjuice.com/News/9862442/Gold-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
+      "published": "2026-11-20T21:10:06+00:00",
       "score": 1
     },
     {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: ECB's Nagel: Inflation is too high",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9861784/ECBs-Nagel-Inflation-is-too-high.aspx?xy=rss",
-      "published": "2026-11-20T13:22:29+00:00",
+      "source": "Federal Reserve",
+      "category": "macro",
+      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "summary": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+      "published": "2026-11-20T15:00:00+00:00",
       "score": 1
     },
     {
@@ -171,24 +180,6 @@
       "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
       "published": "2026-10-02T20:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-      "summary": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
-      "published": "2026-10-02T15:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-      "summary": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
-      "published": "2026-09-30T13:00:00+00:00",
       "score": 1
     }
   ],
