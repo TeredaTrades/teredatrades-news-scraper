@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-11-22T10:20:17.296572+00:00",
-  "count": 18,
+  "updated_at": "2026-11-22T17:58:35.933231+00:00",
+  "count": 23,
   "items": [
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: Week Ahead Sentiment: Anthropic's IPO & Nvidia News Continues to Weigh on Sentiment - FJElite",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9863505/Week-Ahead-Sentiment-Anthropics-IPO--Nvidia-News-Continues-to-Weigh-on-Sentiment---FJElite.aspx?xy=rss",
+      "published": "2026-11-22T17:17:54+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Treasury Secretary Bessent: need to determine which level of Nvidia business was aware, confident committees are swiftly seeking answers - CBS",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9863475/US-Treasury-Secretary-Bessent-need-to-determine-which-level-of-Nvidia-business-was-aware-confident-committees-are-swiftly-seeking-answers---CBS.aspx?xy=rss",
+      "published": "2026-11-22T15:41:28+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Treasury Secretary Bessent: need to identify who led compliance at Nvidia - CBS",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9863473/US-Treasury-Secretary-Bessent-need-to-identify-who-led-compliance-at-Nvidia---CBS.aspx?xy=rss",
+      "published": "2026-11-22T15:41:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Treasury Secretary Bessent: what level of Nvidia business we need to see",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9863472/US-Treasury-Secretary-Bessent-what-level-of-Nvidia-business-we-need-to-see.aspx?xy=rss",
+      "published": "2026-11-22T15:41:04+00:00",
+      "score": 1
+    },
+    {
+      "source": "FinancialJuice",
+      "category": "news",
+      "title": "FinancialJuice: US Treasury Secretary Bessent: no answers yet on Nvidia chip sales to China, we need clarity",
+      "summary": "",
+      "link": "https://www.financialjuice.com/News/9863470/US-Treasury-Secretary-Bessent-no-answers-yet-on-Nvidia-chip-sales-to-China-we-need-clarity.aspx?xy=rss",
+      "published": "2026-11-22T15:38:29+00:00",
+      "score": 1
+    },
     {
       "source": "Federal Reserve",
       "category": "macro",
