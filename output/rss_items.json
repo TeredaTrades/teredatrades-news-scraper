@@ -1,104 +1,41 @@
 {
-  "updated_at": "2026-11-25T15:27:43.803842+00:00",
-  "count": 28,
+  "updated_at": "2026-11-25T23:44:48.461176+00:00",
+  "count": 19,
   "items": [
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: WH Sr. Adviser Hassett: If the US is going to win the AI battle, Nvidia will be the reason. $NVDA",
+      "title": "FinancialJuice: Moody's: Nvidia's CEO reinstatement restores strategic continuity but leaves some governance questions unresolved; rating and outlook unchanged. $NVDA",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9868031/WH-Sr-Adviser-Hassett-If-the-US-is-going-to-win-the-AI-battle-Nvidia-will-be-the-reason-NVDA.aspx?xy=rss",
-      "published": "2026-11-25T15:13:08+00:00",
+      "link": "https://www.financialjuice.com/News/9868455/Moodys-Nvidias-CEO-reinstatement-restores-strategic-continuity-but-leaves-some-governance-questions-unresolved-rating-and-outlook-unchanged-NVDA.aspx?xy=rss",
+      "published": "2026-11-25T22:06:26+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: WH Sr. Adviser Hassett: Inflation may be a little bit above target.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9868030/WH-Sr-Adviser-Hassett-Inflation-may-be-a-little-bit-above-target.aspx?xy=rss",
-      "published": "2026-11-25T15:12:38+00:00",
+      "title": "FinancialJuice: MOC Imbalance",
+      "summary": "S&amp;P 500: +4330 mln<br />Nasdaq 100: +1762 mln<br />Dow 30: +2167 mln<br />Mag 7: +1319 mln",
+      "link": "https://www.financialjuice.com/News/9868381/MOC-Imbalance.aspx?xy=rss",
+      "published": "2026-11-25T20:50:31+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: WH Sr. Adviser Hassett: One would hope the Fed reevaluates its models, and considers supply vs. demand.",
+      "title": "FinancialJuice: Claude: Claude for Microsoft 365 add-in missing for some users $MSFT",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9868029/WH-Sr-Adviser-Hassett-One-would-hope-the-Fed-reevaluates-its-models-and-considers-supply-vs-demand.aspx?xy=rss",
-      "published": "2026-11-25T15:12:22+00:00",
+      "link": "https://www.financialjuice.com/News/9868356/Claude-Claude-for-Microsoft-365-add-in-missing-for-some-users-MSFT.aspx?xy=rss",
+      "published": "2026-11-25T20:23:18+00:00",
       "score": 1
     },
     {
       "source": "FinancialJuice",
       "category": "news",
-      "title": "FinancialJuice: WH Sr. Adviser Hassett: His Nvidia stake is not something I've discussed with Trump. $NVDA",
+      "title": "FinancialJuice: Musk's SpaceX pledge to donate a share each to active Trump Accounts $SPCX",
       "summary": "",
-      "link": "https://www.financialjuice.com/News/9868028/WH-Sr-Adviser-Hassett-His-Nvidia-stake-is-not-something-Ive-discussed-with-Trump-NVDA.aspx?xy=rss",
-      "published": "2026-11-25T15:11:42+00:00",
-      "score": 2
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: WH Sr. Adviser Hassett: We're in a 'Goldilocks' economy right now.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9868027/WH-Sr-Adviser-Hassett-Were-in-a-Goldilocks-economy-right-now.aspx?xy=rss",
-      "published": "2026-11-25T15:07:21+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoE's Dhingra: Inflation pressures more contained than in 2022.",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9868022/BoEs-Dhingra-Inflation-pressures-more-contained-than-in-2022.aspx?xy=rss",
-      "published": "2026-11-25T15:03:43+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 4-Week Bill Auction",
-      "summary": "<div><ul><li>High Yield 4.115%</li><li>Bid-to-cover 2.64</li><li>US sells $105 bln</li><li>Awards 97.61% of bids at high</li></ul></div>",
-      "link": "https://www.financialjuice.com/News/9868021/US-4-Week-Bill-Auction.aspx?xy=rss",
-      "published": "2026-11-25T15:03:04+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: US 4-Week Bill High Yield Actual 4.115% (Forecast -, Previous 4.050%)",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9868014/US-4-Week-Bill-High-Yield-Actual-4115-Forecast---Previous-4050.aspx?xy=rss",
-      "published": "2026-11-25T15:02:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoE's Deputy Governor Lombardelli: Latest wage data is mixed, slowdown in services price inflation may have stalled",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9868011/BoEs-Deputy-Governor-Lombardelli-Latest-wage-data-is-mixed-slowdown-in-services-price-inflation-may-have-stalled.aspx?xy=rss",
-      "published": "2026-11-25T15:01:31+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoE's Lombardelli: I'm less certain that underlying disinflation is on track",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9868008/BoEs-Lombardelli-Im-less-certain-that-underlying-disinflation-is-on-track.aspx?xy=rss",
-      "published": "2026-11-25T15:01:10+00:00",
-      "score": 1
-    },
-    {
-      "source": "FinancialJuice",
-      "category": "news",
-      "title": "FinancialJuice: BoE's Dhingra: Disinflation on track, some sectors doing better",
-      "summary": "",
-      "link": "https://www.financialjuice.com/News/9868007/BoEs-Dhingra-Disinflation-on-track-some-sectors-doing-better.aspx?xy=rss",
-      "published": "2026-11-25T15:00:57+00:00",
+      "link": "https://www.financialjuice.com/News/9868353/Musks-SpaceX-pledge-to-donate-a-share-each-to-active-Trump-Accounts-SPCX.aspx?xy=rss",
+      "published": "2026-11-25T20:21:16+00:00",
       "score": 1
     },
     {
@@ -234,24 +171,6 @@
       "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
       "published": "2026-10-07T18:00:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-      "summary": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
-      "published": "2026-10-05T20:30:00+00:00",
-      "score": 1
-    },
-    {
-      "source": "Federal Reserve",
-      "category": "macro",
-      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-      "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-      "published": "2026-10-02T20:45:00+00:00",
       "score": 1
     }
   ],
