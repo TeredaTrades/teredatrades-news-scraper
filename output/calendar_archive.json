@@ -1,189 +1,5 @@
 [
   {
-    "title": "CPI m/m",
-    "country": "CHF",
-    "date": "2026-11-03T02:30:00-05:00",
-    "impact": "Medium",
-    "forecast": "0.0%",
-    "previous": "0.0%"
-  },
-  {
-    "title": "French Gov Budget Balance",
-    "country": "EUR",
-    "date": "2026-11-03T02:45:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "-159.6B"
-  },
-  {
-    "title": "RCM/TIPP Economic Optimism",
-    "country": "USD",
-    "date": "2026-11-03T04:00:00-05:00",
-    "impact": "Low",
-    "forecast": "46.2",
-    "previous": "46.8"
-  },
-  {
-    "title": "10-y Bond Auction",
-    "country": "GBP",
-    "date": "2026-11-03T05:02:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "5.42|3.6"
-  },
-  {
-    "title": "10-y Bond Auction",
-    "country": "GBP",
-    "date": "2026-11-03T05:33:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "5.42|3.6"
-  },
-  {
-    "title": "JOLTS Job Openings",
-    "country": "USD",
-    "date": "2026-11-03T10:00:00-05:00",
-    "impact": "Medium",
-    "forecast": "7.15M",
-    "previous": "7.08M"
-  },
-  {
-    "title": "Factory Orders m/m",
-    "country": "USD",
-    "date": "2026-11-03T10:00:00-05:00",
-    "impact": "Low",
-    "forecast": "1.2%",
-    "previous": "0.1%"
-  },
-  {
-    "title": "RCM/TIPP Economic Optimism",
-    "country": "USD",
-    "date": "2026-11-03T10:10:00-05:00",
-    "impact": "Low",
-    "forecast": "46.2",
-    "previous": "46.8"
-  },
-  {
-    "title": "Omdia Total Vehicle Sales",
-    "country": "USD",
-    "date": "2026-11-03T10:15:00-05:00",
-    "impact": "Low",
-    "forecast": "15.8M",
-    "previous": "16.0M"
-  },
-  {
-    "title": "Congressional Elections",
-    "country": "USD",
-    "date": "2026-11-03T10:16:00-05:00",
-    "impact": "High",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "GDT Price Index",
-    "country": "NZD",
-    "date": "2026-11-03T10:27:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "2.5%"
-  },
-  {
-    "title": "GDT Price Index",
-    "country": "NZD",
-    "date": "2026-11-03T10:50:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "2.5%"
-  },
-  {
-    "title": "BOC Gov Macklem Speaks",
-    "country": "CAD",
-    "date": "2026-11-03T11:00:00-05:00",
-    "impact": "Medium",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "German Buba President Nagel Speaks",
-    "country": "EUR",
-    "date": "2026-11-03T12:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "German Buba President Nagel Speaks",
-    "country": "EUR",
-    "date": "2026-11-03T13:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "API Weekly Statistical Bulletin",
-    "country": "USD",
-    "date": "2026-11-03T16:30:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Employment Change q/q",
-    "country": "NZD",
-    "date": "2026-11-03T16:45:00-05:00",
-    "impact": "High",
-    "forecast": "0.4%",
-    "previous": "0.5%"
-  },
-  {
-    "title": "Unemployment Rate",
-    "country": "NZD",
-    "date": "2026-11-03T16:45:00-05:00",
-    "impact": "High",
-    "forecast": "5.5%",
-    "previous": "5.6%"
-  },
-  {
-    "title": "Labor Cost Index q/q",
-    "country": "NZD",
-    "date": "2026-11-03T16:45:00-05:00",
-    "impact": "Low",
-    "forecast": "0.5%",
-    "previous": "0.7%"
-  },
-  {
-    "title": "Monetary Base y/y",
-    "country": "JPY",
-    "date": "2026-11-03T18:50:00-05:00",
-    "impact": "Low",
-    "forecast": "-14.0%",
-    "previous": "-15.2%"
-  },
-  {
-    "title": "ANZ Commodity Prices m/m",
-    "country": "NZD",
-    "date": "2026-11-03T19:00:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "0.6%"
-  },
-  {
-    "title": "Household Spending m/m",
-    "country": "AUD",
-    "date": "2026-11-03T19:30:00-05:00",
-    "impact": "Low",
-    "forecast": "0.2%",
-    "previous": "0.0%"
-  },
-  {
-    "title": "RatingDog Services PMI",
-    "country": "CNY",
-    "date": "2026-11-03T20:45:00-05:00",
-    "impact": "Low",
-    "forecast": "51.7",
-    "previous": "51.6"
-  },
-  {
     "title": "Spanish Unemployment Change",
     "country": "EUR",
     "date": "2026-11-04T03:00:00-05:00",
@@ -3170,6 +2986,14 @@
   {
     "title": "German 10-y Bond Auction",
     "country": "EUR",
+    "date": "2026-11-25T05:32:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": "3.37|1.1"
+  },
+  {
+    "title": "German 10-y Bond Auction",
+    "country": "EUR",
     "date": "2026-11-25T05:42:00-05:00",
     "impact": "Low",
     "forecast": "",
@@ -3248,6 +3072,14 @@
     "previous": "0.5%"
   },
   {
+    "title": "Monetary Policy Report Hearings",
+    "country": "GBP",
+    "date": "2026-11-25T09:15:00-05:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "New Home Sales",
     "country": "USD",
     "date": "2026-11-25T10:00:00-05:00",
@@ -3260,7 +3092,7 @@
     "country": "USD",
     "date": "2026-11-25T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "2.0M",
     "previous": "3.4M"
   },
   {

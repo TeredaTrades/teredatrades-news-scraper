@@ -314,7 +314,7 @@
   {
     "title": "German 10-y Bond Auction",
     "country": "EUR",
-    "date": "2026-11-25T05:42:00-05:00",
+    "date": "2026-11-25T05:32:00-05:00",
     "impact": "Low",
     "forecast": "",
     "previous": "3.37|1.1"
@@ -392,6 +392,14 @@
     "previous": "203K"
   },
   {
+    "title": "Monetary Policy Report Hearings",
+    "country": "GBP",
+    "date": "2026-11-25T09:15:00-05:00",
+    "impact": "Medium",
+    "forecast": "",
+    "previous": ""
+  },
+  {
     "title": "New Home Sales",
     "country": "USD",
     "date": "2026-11-25T10:00:00-05:00",
@@ -404,7 +412,7 @@
     "country": "USD",
     "date": "2026-11-25T10:30:00-05:00",
     "impact": "Low",
-    "forecast": "",
+    "forecast": "2.0M",
     "previous": "3.4M"
   },
   {
