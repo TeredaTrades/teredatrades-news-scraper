@@ -1,149 +1,5 @@
 [
   {
-    "title": "Spanish Unemployment Change",
-    "country": "EUR",
-    "date": "2026-11-04T03:00:00-05:00",
-    "impact": "Low",
-    "forecast": "18.7K",
-    "previous": "23.6K"
-  },
-  {
-    "title": "Spanish Services PMI",
-    "country": "EUR",
-    "date": "2026-11-04T03:15:00-05:00",
-    "impact": "Low",
-    "forecast": "57.6",
-    "previous": "58.3"
-  },
-  {
-    "title": "Italian Services PMI",
-    "country": "EUR",
-    "date": "2026-11-04T03:45:00-05:00",
-    "impact": "Low",
-    "forecast": "51.4",
-    "previous": "51.7"
-  },
-  {
-    "title": "French Final Services PMI",
-    "country": "EUR",
-    "date": "2026-11-04T03:50:00-05:00",
-    "impact": "Low",
-    "forecast": "48.4",
-    "previous": "48.4"
-  },
-  {
-    "title": "German Final Services PMI",
-    "country": "EUR",
-    "date": "2026-11-04T03:55:00-05:00",
-    "impact": "Low",
-    "forecast": "51.7",
-    "previous": "51.7"
-  },
-  {
-    "title": "Final Services PMI",
-    "country": "EUR",
-    "date": "2026-11-04T04:00:00-05:00",
-    "impact": "Low",
-    "forecast": "51.7",
-    "previous": "51.7"
-  },
-  {
-    "title": "Final Services PMI",
-    "country": "GBP",
-    "date": "2026-11-04T04:30:00-05:00",
-    "impact": "Low",
-    "forecast": "53.1",
-    "previous": "53.1"
-  },
-  {
-    "title": "Core CPI Flash Estimate y/y",
-    "country": "EUR",
-    "date": "2026-11-04T05:00:00-05:00",
-    "impact": "Medium",
-    "forecast": "2.5%",
-    "previous": "2.5%"
-  },
-  {
-    "title": "CPI Flash Estimate y/y",
-    "country": "EUR",
-    "date": "2026-11-04T05:00:00-05:00",
-    "impact": "Medium",
-    "forecast": "4.0%",
-    "previous": "3.8%"
-  },
-  {
-    "title": "ADP Non-Farm Employment Change",
-    "country": "USD",
-    "date": "2026-11-04T08:15:00-05:00",
-    "impact": "Low",
-    "forecast": "67K",
-    "previous": "90K"
-  },
-  {
-    "title": "Trade Balance",
-    "country": "CAD",
-    "date": "2026-11-04T08:30:00-05:00",
-    "impact": "Low",
-    "forecast": "4.8B",
-    "previous": "4.2B"
-  },
-  {
-    "title": "Trade Balance",
-    "country": "USD",
-    "date": "2026-11-04T08:30:00-05:00",
-    "impact": "Low",
-    "forecast": "-107.9B",
-    "previous": "-105.6B"
-  },
-  {
-    "title": "Final Services PMI",
-    "country": "USD",
-    "date": "2026-11-04T09:45:00-05:00",
-    "impact": "Low",
-    "forecast": "57.9",
-    "previous": "57.9"
-  },
-  {
-    "title": "ISM Services PMI",
-    "country": "USD",
-    "date": "2026-11-04T10:00:00-05:00",
-    "impact": "Medium",
-    "forecast": "54.8",
-    "previous": "54.9"
-  },
-  {
-    "title": "Crude Oil Inventories",
-    "country": "USD",
-    "date": "2026-11-04T10:30:00-05:00",
-    "impact": "Low",
-    "forecast": "-1.7M",
-    "previous": "-1.9M"
-  },
-  {
-    "title": "Monetary Policy Meeting Minutes",
-    "country": "JPY",
-    "date": "2026-11-04T18:50:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": ""
-  },
-  {
-    "title": "Goods Trade Balance",
-    "country": "AUD",
-    "date": "2026-11-04T19:30:00-05:00",
-    "impact": "Low",
-    "forecast": "0.94B",
-    "previous": "0.50B"
-  },
-  {
-    "title": "10-y Bond Auction",
-    "country": "JPY",
-    "date": "2026-11-04T22:35:00-05:00",
-    "impact": "Low",
-    "forecast": "",
-    "previous": "3.10|3.8"
-  },
-  {
     "title": "RBA Deputy Gov Hauser Speaks",
     "country": "AUD",
     "date": "2026-11-05T01:45:00-05:00",
@@ -3150,6 +3006,14 @@
     "impact": "Low",
     "forecast": "3.2%",
     "previous": "3.1%"
+  },
+  {
+    "title": "Euro Summit",
+    "country": "EUR",
+    "date": "2026-11-26T04:15:00-05:00",
+    "impact": "Low",
+    "forecast": "",
+    "previous": ""
   },
   {
     "title": "BOE Financial Stability Report",
